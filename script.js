@@ -1114,6 +1114,12 @@ document.addEventListener('DOMContentLoaded', () => {
                         mainContentEl.classList.remove('content-hidden');
                         historyBody.innerHTML = '<tr><td colspan="4">Error al cargar tu historial. Intenta recargar la página.</td></tr>';
                     });
+            } else {
+                // --- ESTE ES EL BLOQUE QUE ACABAS DE AÑADIR ---
+                console.log("Dashboard: Usuario no autenticado o estado pendiente.");
+                loaderEl.style.display = 'none';
+                mainContentEl.classList.remove('content-hidden');
+                historyBody.innerHTML = '<tr><td colspan="4">Debes iniciar sesión para ver tu progreso.</td></tr>';
             }
         });
     }
