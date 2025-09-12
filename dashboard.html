@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Panel - Prepárate Docente</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <header class="main-header">
+        <div class="container">
+            <nav class="main-nav">
+                <a href="index.html" class="logo">Caicedo<strong>Escala</strong></a>
+            </nav>
+        </div>
+    </header>
+
+    <main class="page-content">
+        <div class="container dashboard-container">
+            <div id="loader" class="loader-container">
+                <div class="loader-spinner"></div>
+                <p>Cargando tu progreso...</p>
+            </div>
+            <div id="main-content" class="content-hidden">
+
+                <h2>Mi Panel de Progreso</h2>
+                <p>Aquí puedes ver el historial de todos tus simulacros rendidos.</p>
+
+                <div class="kpi-container">
+                    <div class="kpi-card">
+                        <div class="kpi-value" id="kpi-promedio">--%</div>
+                        <div class="kpi-label">Puntaje Promedio</div>
+                    </div>
+                    <div class="kpi-card">
+                        <div class="kpi-value" id="kpi-mejor">--%</div>
+                        <div class="kpi-label">Mejor Puntaje</div>
+                    </div>
+                    <div class="kpi-card">
+                        <div class="kpi-value" id="kpi-total">--</div>
+                        <div class="kpi-label">Simulacros Rendidos</div>
+                    </div>
+                    <div class="kpi-card">
+                        <div class="kpi-value" id="kpi-area">--</div>
+                        <div class="kpi-label">Área a Mejorar</div>
+                    </div>
+                </div>
+
+                <div class="chart-container">
+                    <canvas id="progressChart"></canvas>
+                </div>
+
+                <div class="dashboard-controls">
+                    <select id="exam-filter">
+                        <option value="todos">Filtrar por Examen</option>
+                    </select>
+                    <select id="exam-sort">
+                        <option value="reciente">Ordenar por: Más Reciente</option>
+                        <option value="antiguo">Ordenar por: Más Antiguo</option>
+                        <option value="mejor">Ordenar por: Mejor Puntaje</option>
+                        <option value="peor">Ordenar por: Peor Puntaje</option>
+                    </select>
+                </div>
+
+                <div class="history-table-container">
+                    <table id="history-table">
+                        <thead>
+                            <tr>
+                                <th>Examen</th>
+                                <th>Fecha</th>
+                                <th>Puntaje</th>
+                                <th>Acción</th>
+                            </tr>
+                        </thead>
+                        <tbody id="history-body">
+                        </tbody>
+                    </table>
+                    <div class="dashboard-actions">
+                        <button onclick="window.location.href='index.html'" class="btn-cta">Volver al Menú
+                            Principal</button>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </main>
+
+    <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-app-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-auth-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-firestore-compat.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="script.js"></script>
+</body>
+
+</html>

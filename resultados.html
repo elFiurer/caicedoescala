@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resultados del Simulacro - Prepárate Docente</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="main-header">
+        <div class="container">
+            <nav class="main-nav">
+                <a href="index.html" class="logo">Caicedo<strong>Escala</strong></a>
+                </nav>
+        </div>
+    </header>
+
+    <main class="page-content">
+        <div class="container results-container">
+            <h2>Resultados del Examen</h2>
+            
+            <div class="summary-card" id="summary-card">
+                </div>
+            <div id="results-navigator" class="question-navigator"></div>
+            <h3>Revisión de Preguntas</h3>
+            <div class="results-details" id="results-details">
+                </div>
+        </div>
+    </main>
+
+    <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-app-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-auth-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-firestore-compat.js"></script> <script src="data/nombramiento/secundaria/matematica_2024.js"></script>
+    <script src="data/nombramiento/secundaria/matematica_2018.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Repaso - Prepárate Docente</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <header class="main-header">
+        <div class="container">
+            <nav class="main-nav">
+                <a href="index.html" class="logo">Caicedo<strong>Escala</strong></a>
+                <ul class="nav-links">
+                    <li><a href="index.html">Inicio</a></li>
+                    <li><a href="examenes.html" id="nav-examenes-link">Exámenes</a></li>
+                    <li><a href="repaso.html" id="nav-repaso-link">Mi Repaso</a></li>
+                    <li><a href="index.html#nosotros-section">Nosotros</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main class="page-content">
+        <div id="main-content" class="container content-hidden">
+
+            <h2>Mi Mazo de Repaso</h2>
+            <p>Aquí encontrarás todas las preguntas que guardaste para estudiar más a fondo. Haz clic en una pregunta
+                para verla en modo "flashcard".</p>
+
+            <div id="lista-repaso" class="repaso-container">
+            </div>
+
+        </div>
+
+        <div id="loader" class="loader-wrapper">
+            <div class="loader"></div>
+        </div>
+    </main>
+    <div class="modal-overlay" id="flashcard-modal-overlay"></div>
+    <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-app-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-auth-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-firestore-compat.js"></script>
+
+    <script src="data/nombramiento/generico/generico_ebr_2018.js"></script>
+    <script src="data/nombramiento/primaria/2018/primaria_2018.js"></script>
+    <script src="data/nombramiento/secundaria/2018/matematica_2018.js"></script>
+    <script src="data/nombramiento/secundaria/2018/comunicacion_2018.js"></script>
+    <script src="data/nombramiento/secundaria/2018/educacion_fisica_2018.js"></script>
+    <script src="data/nombramiento/secundaria/2018/ciencia_y_tecnologia_2018.js"></script>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>

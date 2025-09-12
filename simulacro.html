@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simulacro en Progreso - CaicedoEscala</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div id="highlighter-guide-overlay">
+    <div class="guide-container">
+        <h3>¡Usa el Resaltador de Texto!</h3>
+        <p>Selecciona cualquier parte de una pregunta o lectura para marcarla.</p>
+        <div class="guide-animation">
+            <span class="guide-text">La respuesta correcta es...</span>
+            <div class="hand-icon">👇</div>
+        </div>
+        <button id="close-guide-btn">Entendido</button>
+    </div>
+</div>
+    <div id="highlighter-guide-overlay">
+        <div id="guide-content">
+            <div id="guide-animation">
+                <span class="guide-text-part1">Para estudiar mejor, puedes</span>
+                <span class="guide-text-part2 highlight-animation">resaltar texto</span>
+                <span class="guide-text-part3">como un marcador.</span>
+                <div id="guide-hand">👆</div>
+            </div>
+            <p><strong>Solo selecciona cualquier texto y aparecerá la opción.</strong></p>
+            <button id="close-guide-btn">¡Entendido!</button>
+        </div>
+    </div>
+    <header class="main-header sticky-header">
+        <div class="container">
+            <nav class="main-nav">
+                <a href="index.html" class="logo">Caicedo<strong>Escala</strong></a>
+
+                <div class="header-right-controls">
+                    <div class="timer-controls">
+                        <div id="timer" class="timer">00:00:00</div>
+                        <button id="pause-btn" class="btn-secondary">Pausar</button>
+                        <button id="finish-btn" class="btn-finish">Finalizar</button>
+                    </div>
+                </div>
+            </nav>
+        </div>
+    </header>
+
+    <main class="page-content">
+        <div class="container simulacro-container">
+
+            <div class="exam-title-container">
+                <h2 id="exam-title">Cargando examen...</h2>
+            </div>
+
+            <div class="pause-overlay" id="pause-overlay">
+                <div class="pause-message">
+                    <h2>Examen en Pausa</h2>
+                    <p>Presiona "Continuar" para reanudar.</p>
+                </div>
+            </div>
+
+            <div id="question-navigator" class="question-navigator"></div>
+
+            <div id="questions-container" class="exam-content">
+                <p>Cargando preguntas...</p>
+            </div>
+
+        </div>
+    </main>
+    <div id="highlighter-tooltip" style="display: none;">
+        <button id="highlight-btn" title="Resaltar texto">🎨 Marcar</button>
+    </div>
+
+    <div class="modal-overlay" id="confirm-finish-overlay">
+        <div class="modal-container confirm-modal-container">
+            <h2>Confirmar Finalización</h2>
+            <p>¿Estás seguro de que deseas finalizar el examen? Esta acción no se puede deshacer.</p>
+            <div class="confirm-buttons">
+                <button class="btn-secondary" id="confirm-no-btn">Cancelar</button>
+                <button class="btn-finish" id="confirm-yes-btn">Sí, finalizar</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-app-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-auth-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-firestore-compat.js"></script>
+
+    <script src="data/nombramiento/generico/generico_ebr_2018.js"></script>
+    <script src="data/nombramiento/primaria/2018/primaria_2018.js"></script>
+    <script src="data/nombramiento/secundaria/2018/matematica_2018.js"></script>
+    <script src="data/nombramiento/secundaria/2018/comunicacion_2018.js"></script>
+    <script src="data/nombramiento/secundaria/2018/educacion_fisica_2018.js"></script>
+    <script src="data/nombramiento/secundaria/2018/ciencia_y_tecnologia_2018.js"></script>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

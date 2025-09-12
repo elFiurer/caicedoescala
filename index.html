@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prepárate Docente - Plataforma de Simulacros</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+    <header class="main-header">
+        <div class="container">
+            <nav class="main-nav">
+                <a href="index.html" class="logo">Caicedo<strong>Escala</strong></a>
+                <ul class="nav-links">
+                    <li><a href="index.html">Inicio</a></li>
+                    <li><a href="examenes.html" id="nav-examenes-link">Exámenes</a></li>
+                    <li><a href="repaso.html" id="nav-repaso-link">Mi Repaso</a></li>
+                    <li><a href="dashboard.html" id="nav-rendimiento-link">Mi Rendimiento</a></li> 
+                    <li><a href="index.html#nosotros-section">Misión</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section class="hero-section" id="hero-section">
+            <div class="container hero-content">
+                <h1>Tu Futuro Profesional Comienza Hoy</h1>
+                <p>La plataforma N°1 para prepararte con éxito en los exámenes de Nombramiento y Ascenso Docente.
+                    Practica con simulacros reales y alcanza tu meta.</p>
+                <button class="btn-cta" id="cta-btn">Empieza a Practicar Gratis</button>
+            </div>
+            <div class="hero-bg"></div>
+        </section>
+
+        <section id="features-section" class="features-section">
+            <div class="container">
+                <h2 class="section-title">¿Por Qué Elegir CaicedoEscala?</h2>
+                <div class="features-grid">
+                    <div class="feature-card">
+                        <div class="feature-icon">⏱️</div>
+                        <h3>Modo Simulacro</h3>
+                        <p>Practica con exámenes completos y un temporizador real para medir tu ritmo y resistencia.</p>
+                    </div>
+                    <div class="feature-card">
+                        <div class="feature-icon">📚</div>
+                        <h3>Modo Práctica</h3>
+                        <p>Aprende de tus errores con feedback instantáneo y solucionarios detallados después de cada
+                            pregunta.</p>
+                    </div>
+                    <div class="feature-card">
+                        <div class="feature-icon">📊</div>
+                        <h3>Análisis de Resultados</h3>
+                        <p>Revisa tu desempeño, identifica tus puntos débiles y sigue tu progreso en tu panel personal.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="nosotros-section" class="nosotros-section">
+            <div class="container">
+                <h2 class="section-title"> Misión</h2>
+                <p>En CaicedoEscala, nuestra misión es empoderar a los docentes del Perú brindándoles las herramientas
+                    más efectivas y realistas para su preparación profesional. Creemos que un docente bien preparado es
+                    la clave para una educación de calidad y, por ello, nos dedicamos a crear una plataforma que
+                    realmente marca la diferencia en su camino hacia el nombramiento y el ascenso.</p>
+            </div>
+        </section>
+
+        <section id="contacto-section" class="contacto-section">
+            <div class="container">
+                <h2 class="section-title">¿Tienes un Proyecto en Mente?</h2>
+                <p>Esta plataforma fue desarrollada por<br> <strong>Juan Manuel Caicedo Oliva</strong>, maestro de
+                    matemática<br> apasionado por la tecnología y la educación.</p>
+                <a href="https://wa.me/51948246637?text=Hola,%20vi%20tu%20plataforma%20CaicedoEscala%20y%20estoy%20interesado%20en%20conversar%20sobre%20un%20proyecto."
+                    target="_blank" class="btn-whatsapp">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp Logo">
+                    Contáctame por WhatsApp
+                </a>
+            </div>
+        </section>
+    </main>
+
+    <div class="modal-overlay" id="modal-overlay">
+        <div class="modal-container" id="modal-container">
+            <button class="close-btn" id="close-btn">&times;</button>
+            <h2>Bienvenido</h2>
+            <p id="modal-message">Elige una opción para acceder a todos los simulacros y seguir tu progreso.</p>
+
+            <div class="social-login">
+                <button class="social-btn google" id="google-login">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Google_%22G%22_logo.svg"
+                        alt="Google Logo">
+                    <span>Continuar con Google</span>
+                </button>
+                <button class="social-btn facebook" id="facebook-login">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg"
+                        alt="Facebook Logo">
+                    <span>Continuar con Facebook</span>
+                </button>
+            </div>
+        </div>
+    </div>
+    <footer class="main-footer-legal">
+        <div class="container">
+            <p>&copy; 2025 CaicedoEscala - Juan Caicedo - Todos los derechos reservados y patentados.</p>
+        </div>
+    </footer>
+    <div class="modal-overlay" id="modal-overlay">
+    </div>
+
+    <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-app-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-auth-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-firestore-compat.js"></script>
+
+    <script src="data/nombramiento/secundaria/2018/matematica_2018.js"></script>
+    <script src="data/nombramiento/primaria/2018/primaria_2018.js"></script>
+
+
+
+    <script src="script.js"></script>
+</body>
+
+</html>

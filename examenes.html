@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Biblioteca de Exámenes - Prepárate Docente</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <header class="main-header">
+        <div class="container">
+            <nav class="main-nav">
+                <a href="index.html" class="logo">Caicedo<strong>Escala</strong></a>
+                <ul class="nav-links">
+                    <li><a href="index.html">Inicio</a></li>
+                    <li><a href="examenes.html" id="nav-examenes-link">Exámenes</a></li>
+                    <li><a href="repaso.html" id="nav-repaso-link">Mi Repaso</a></li>
+                    <li><a href="index.html#nosotros-section">Nosotros</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main class="page-content">
+        <div id="main-content" class="container content-hidden">
+            <h2>Biblioteca de Exámenes</h2>
+            <p>Usa los filtros para encontrar el examen que necesitas y empieza a practicar.</p>
+
+            <div class="filters-container" id="filters-container">
+            </div>
+
+            <div class="exams-list" id="exams-list">
+            </div>
+        </div>
+
+        <div id="loader" class="loader-wrapper">
+            <div class="loader"></div>
+        </div>
+    </main>
+    <div class="modal-overlay" id="section-modal-overlay">
+        <div class="modal-container">
+            <button class="close-btn" id="section-close-btn">&times;</button>
+            <h2 id="section-modal-title">Selecciona una sección</h2>
+            <p>Elige qué parte del examen deseas rendir.</p>
+            <div class="section-buttons">
+                <button class="btn-section" data-section="completo">Examen Completo</button>
+                <button class="btn-section" data-section="Comprensión Lectora">Comprensión Lectora</button>
+                <button class="btn-section" data-section="Razonamiento Lógico">Razonamiento Lógico</button>
+                <button class="btn-section" data-section="Conocimientos Pedagógicos">Conocimientos Pedagógicos</button>
+            </div>
+        </div>
+    </div>
+    <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-app-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-auth-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-firestore-compat.js"></script>
+    <script src="data/nombramiento/secundaria/2018/matematica_2018.js"></script>
+    <script src="data/nombramiento/secundaria/2018/comunicacion_2018.js"></script>
+    <script src="data/nombramiento/primaria/2018/primaria_2018.js"></script>
+    <script src="data/nombramiento/secundaria/2018/educacion_fisica_2018.js"></script>
+    <script src="data/nombramiento/secundaria/2018/ciencia_y_tecnologia_2018.js"></script>
+    <script src="data/nombramiento/generico/generico_ebr_2018.js"></script>
+    <script src="script.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Modo Práctica - Prepárate Docente</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div id="highlighter-guide-overlay">
+    <div class="guide-container">
+        <h3>¡Usa el Resaltador de Texto!</h3>
+        <p>Selecciona cualquier parte de una pregunta o lectura para marcarla.</p>
+        <div class="guide-animation">
+            <span class="guide-text">La respuesta correcta es...</span>
+            <div class="hand-icon">👇</div>
+        </div>
+        <button id="close-guide-btn">Entendido</button>
+    </div>
+</div>
+    <div id="highlighter-guide-overlay">
+        <div id="guide-content">
+            <div id="guide-animation">
+                <span class="guide-text-part1">Para estudiar mejor, puedes</span>
+                <span class="guide-text-part2 highlight-animation">resaltar texto</span>
+                <span class="guide-text-part3">como un marcador.</span>
+                <div id="guide-hand">👆</div>
+            </div>
+            <p><strong>Solo selecciona cualquier texto y aparecerá la opción.</strong></p>
+            <button id="close-guide-btn">¡Entendido!</button>
+        </div>
+    </div>
+    <header class="main-header">
+        <div class="container">
+            <nav class="main-nav">
+                <a href="index.html" class="logo">Caicedo<strong>Escala</strong></a>
+                <ul class="nav-links">
+                    <li><a href="index.html">Inicio</a></li>
+                    <li><a href="examenes.html" id="nav-examenes-link">Exámenes</a></li>
+                    <li><a href="repaso.html" id="nav-repaso-link">Mi Repaso</a></li>
+                    <li><a href="index.html#nosotros-section">Nosotros</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main class="page-content">
+        <div class="container" id="practica-container">
+            <div class="practice-header">
+                <h2 id="exam-title-practica">Cargando examen...</h2>
+                <div id="practica-timer" class="timer">00:00:00</div>
+            </div>
+
+            <div class="progress-indicator">
+                <span id="progress-text"></span>
+                <div class="progress-bar-container">
+                    <div class="progress-bar" id="progress-bar"></div>
+                </div>
+            </div>
+
+            <div id="context-container-practica"></div>
+
+            <div class="question-card">
+                <h3 id="question-title-practica"></h3>
+                <p id="question-text-practica">Cargando...</p>
+                <div class="options-container" id="options-container-practica"></div>
+                <div class="feedback-container" id="feedback-container"></div>
+            </div>
+
+            <div class="navigation-buttons" style="justify-content: flex-end;">
+                <button id="next-btn-practica" class="btn-secondary" disabled>Siguiente Pregunta</button>
+            </div>
+        </div>
+    </main>
+    <div id="highlighter-tooltip" style="display: none;">
+        <button id="highlight-btn" title="Resaltar texto">🎨 Marcar</button>
+    </div>
+
+    <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-app-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-auth-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-firestore-compat.js"></script>
+
+    <script src="data/nombramiento/secundaria/2018/matematica_2018.js"></script>
+    <script src="data/nombramiento/secundaria/2018/comunicacion_2018.js"></script>
+    <script src="data/nombramiento/primaria/2018/primaria_2018.js"></script>
+    <script src="data/nombramiento/secundaria/2018/educacion_fisica_2018.js"></script>
+    <script src="data/nombramiento/secundaria/2018/ciencia_y_tecnologia_2018.js"></script>
+    <script src="data/nombramiento/generico/generico_ebr_2018.js"></script>
+    <script src="script.js"></script>
+</body>
+
+</html>
