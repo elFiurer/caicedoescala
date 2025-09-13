@@ -979,149 +979,178 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // 👇 REEMPLAZA EL BLOQUE COMPLETO DE LA PÁGINA DEL DASHBOARD CON ESTE 👇
 
+    // ======================= DASHBOARD =========================
     if (window.location.pathname.endsWith('dashboard.html')) {
-        // --- 1. REFERENCIAS A ELEMENTOS DEL DOM ---
-        const historyBody = document.getElementById('history-body');
-        const kpiPromedioEl = document.getElementById('kpi-promedio');
-        const kpiMejorEl = document.getElementById('kpi-mejor');
-        const kpiTotalEl = document.getElementById('kpi-total');
-        const kpiAreaEl = document.getElementById('kpi-area');
-        const examFilterEl = document.getElementById('exam-filter');
-        const examSortEl = document.getElementById('exam-sort');
-        const ctx = document.getElementById('progressChart')?.getContext('2d');
-        const loaderEl = document.getElementById('loader');
-        const mainContentEl = document.getElementById('main-content');
+        try {
+            console.log("DEBUG Dashboard: Iniciando carga del dashboard...");
 
-        let fullHistorial = [];
-        let chartInstance = null;
+            // --- 1. REFERENCIAS A ELEMENTOS DEL DOM ---
+            const historyBody = document.getElementById('history-body');
+            const kpiPromedioEl = document.getElementById('kpi-promedio');
+            const kpiMejorEl = document.getElementById('kpi-mejor');
+            const kpiTotalEl = document.getElementById('kpi-total');
+            const kpiAreaEl = document.getElementById('kpi-area');
+            const examFilterEl = document.getElementById('exam-filter');
+            const examSortEl = document.getElementById('exam-sort');
+            const ctx = document.getElementById('progressChart')?.getContext('2d');
+            const loaderEl = document.getElementById('loader');
+            const mainContentEl = document.getElementById('main-content');
 
-        // --- 2. FUNCIÓN PARA ACTUALIZAR GRÁFICO Y TABLA ---
-        function actualizarGraficoYTabla(datos) {
-            historyBody.innerHTML = '';
-            if (datos.length === 0) {
-                historyBody.innerHTML = '<tr><td colspan="4">No hay resultados para los filtros seleccionados.</td></tr>';
-            } else {
-                datos.forEach(data => {
-                    const fecha = new Date(data.fecha).toLocaleDateString('es-PE');
-                    const row = document.createElement('tr');
-                    // --- INICIO DE LA CORRECCIÓN 1 ---
-                    // Ahora usamos el ID único de Firebase (data.id) que es infalible.
-                    row.innerHTML = `<td>${data.titulo}</td><td>${fecha}</td><td>${data.puntaje}%</td><td><button class="btn-review" data-id="${data.id}">Revisar</button></td>`;
-                    // --- FIN DE LA CORRECCIÓN 1 ---
-                    historyBody.appendChild(row);
-                });
-            }
+            let fullHistorial = [];
+            let chartInstance = null;
 
-            if (chartInstance) chartInstance.destroy();
-            if (ctx && datos.length > 0) {
-                const historialOrdenado = [...datos].sort((a, b) => new Date(a.fecha) - new Date(b.fecha));
-                const labels = historialOrdenado.map(ex => new Date(ex.fecha).toLocaleDateString('es-PE'));
-                const dataPoints = historialOrdenado.map(ex => parseFloat(ex.puntaje));
-                chartInstance = new Chart(ctx, { /* ... configuración del gráfico sin cambios ... */
-                    type: 'line', data: { labels, datasets: [{ label: 'Puntaje (%)', data: dataPoints, fill: true, backgroundColor: 'rgba(0, 123, 255, 0.1)', borderColor: '#007bff', tension: 0.2 }] },
-                    options: { responsive: true, maintainAspectRatio: false, scales: { y: { beginAtZero: true, max: 100 } }, plugins: { legend: { display: false } } }
-                });
-            }
-        }
-
-        // --- 3. FUNCIÓN PARA APLICAR FILTROS --- (Sin cambios)
-        function aplicarFiltros() {
-            const filtroValor = examFilterEl.value;
-            const ordenValor = examSortEl.value;
-            let datosProcesados = [...fullHistorial];
-            if (filtroValor !== 'todos') {
-                datosProcesados = datosProcesados.filter(ex => ex.titulo === filtroValor);
-            }
-            switch (ordenValor) {
-                case 'reciente': datosProcesados.sort((a, b) => new Date(b.fecha) - new Date(a.fecha)); break;
-                case 'antiguo': datosProcesados.sort((a, b) => new Date(a.fecha) - new Date(b.fecha)); break;
-                case 'mejor': datosProcesados.sort((a, b) => parseFloat(b.puntaje) - parseFloat(a.puntaje)); break;
-                case 'peor': datosProcesados.sort((a, b) => parseFloat(a.puntaje) - parseFloat(b.puntaje)); break;
-            }
-            actualizarGraficoYTabla(datosProcesados);
-        }
-
-        // --- 4. CARGA INICIAL DE DATOS ---
-        auth.onAuthStateChanged(user => {
-            if (user && db) {
-                // 👇 REEMPLAZA TU BLOQUE db.collection CON ESTE 👇
-
-                db.collection('usuarios').doc(user.uid).collection('historialExamenes').get()
-                    .then(querySnapshot => {
-                        if (querySnapshot.empty) {
-                            historyBody.innerHTML = '<tr><td colspan="4">Aún no has completado ningún simulacro.</td></tr>';
-                            loaderEl.style.display = 'none';
-                            mainContentEl.classList.remove('content-hidden');
-                            return;
-                        }
-
-                        querySnapshot.forEach(doc => fullHistorial.push({ id: doc.id, ...doc.data() }));
-
-                        // Lógica de KPIs
-                        const totalExamenes = fullHistorial.length;
-                        kpiTotalEl.innerText = totalExamenes;
-                        const sumaPuntajes = fullHistorial.reduce((acc, ex) => acc + parseFloat(ex.puntaje), 0);
-                        kpiPromedioEl.innerText = `${(sumaPuntajes / totalExamenes).toFixed(1)}%`;
-                        kpiMejorEl.innerText = `${Math.max(...fullHistorial.map(ex => parseFloat(ex.puntaje))).toFixed(1)}%`;
-                        const statsPorArea = {};
-                        fullHistorial.forEach(ex => {
-                            const area = ex.titulo.split('|')[1]?.trim() || 'Desconocida';
-                            if (!statsPorArea[area]) { statsPorArea[area] = { suma: 0, count: 0 }; }
-                            statsPorArea[area].suma += parseFloat(ex.puntaje);
-                            statsPorArea[area].count++;
-                        });
-                        let areaDebil = 'N/A', menorPromedio = 101;
-                        for (const area in statsPorArea) {
-                            const promedioArea = statsPorArea[area].suma / statsPorArea[area].count;
-                            if (promedioArea < menorPromedio) { menorPromedio = promedioArea; areaDebil = area; }
-                        }
-                        kpiAreaEl.innerText = areaDebil;
-
-                        // Llenar filtros
-                        const examenesUnicos = [...new Set(fullHistorial.map(ex => ex.titulo))];
-                        examenesUnicos.forEach(titulo => {
-                            const option = document.createElement('option');
-                            option.value = titulo;
-                            option.innerText = titulo;
-                            examFilterEl.appendChild(option);
-                        });
-
-                        examFilterEl.addEventListener('change', aplicarFiltros);
-                        examSortEl.addEventListener('change', aplicarFiltros);
-
-                        aplicarFiltros();
-
-                        historyBody.addEventListener('click', (event) => {
-                            if (event.target.classList.contains('btn-review')) {
-                                const examDocId = event.target.dataset.id;
-                                const examenOriginal = fullHistorial.find(ex => ex.id === examDocId);
-                                if (examenOriginal) {
-                                    localStorage.setItem('resultadosExamen', JSON.stringify(examenOriginal));
-                                    window.location.href = 'resultados.html';
-                                } else {
-                                    alert("Error: No se pudieron cargar los detalles.");
-                                }
-                            }
-                        });
-
-                        loaderEl.style.display = 'none';
-                        mainContentEl.classList.remove('content-hidden');
-                    })
-                    .catch(error => { // <-- AHORA SÍ EXISTE ESTE BLOQUE
-                        console.error("Error al cargar historial:", error);
-                        loaderEl.style.display = 'none';
-                        mainContentEl.classList.remove('content-hidden');
-                        historyBody.innerHTML = '<tr><td colspan="4">Error al cargar tu historial. Intenta recargar la página.</td></tr>';
+            // --- 2. FUNCIÓN PARA ACTUALIZAR GRÁFICO Y TABLA ---
+            function actualizarGraficoYTabla(datos) {
+                historyBody.innerHTML = '';
+                if (datos.length === 0) {
+                    historyBody.innerHTML = '<tr><td colspan="4">No hay resultados para los filtros seleccionados.</td></tr>';
+                } else {
+                    datos.forEach(data => {
+                        const fecha = new Date(data.fecha).toLocaleDateString('es-PE');
+                        const row = document.createElement('tr');
+                        row.innerHTML = `
+                        <td>${data.titulo}</td>
+                        <td>${fecha}</td>
+                        <td>${data.puntaje}%</td>
+                        <td><button class="btn-review" data-id="${data.id}">Revisar</button></td>`;
+                        historyBody.appendChild(row);
                     });
-            } else {
-                // --- ESTE ES EL BLOQUE QUE ACABAS DE AÑADIR ---
-                console.log("Dashboard: Usuario no autenticado o estado pendiente.");
+                }
+
+                if (chartInstance) chartInstance.destroy();
+                if (ctx && datos.length > 0) {
+                    const historialOrdenado = [...datos].sort((a, b) => new Date(a.fecha) - new Date(b.fecha));
+                    const labels = historialOrdenado.map(ex => new Date(ex.fecha).toLocaleDateString('es-PE'));
+                    const dataPoints = historialOrdenado.map(ex => parseFloat(ex.puntaje));
+                    chartInstance = new Chart(ctx, {
+                        type: 'line',
+                        data: {
+                            labels,
+                            datasets: [{
+                                label: 'Puntaje (%)',
+                                data: dataPoints,
+                                fill: true,
+                                backgroundColor: 'rgba(0, 123, 255, 0.1)',
+                                borderColor: '#007bff',
+                                tension: 0.2
+                            }]
+                        },
+                        options: {
+                            responsive: true,
+                            maintainAspectRatio: false,
+                            scales: { y: { beginAtZero: true, max: 100 } },
+                            plugins: { legend: { display: false } }
+                        }
+                    });
+                }
+            }
+
+            // --- 3. FUNCIÓN PARA APLICAR FILTROS ---
+            function aplicarFiltros() {
+                const filtroValor = examFilterEl.value;
+                const ordenValor = examSortEl.value;
+                let datosProcesados = [...fullHistorial];
+
+                if (filtroValor !== 'todos') {
+                    datosProcesados = datosProcesados.filter(ex => ex.titulo === filtroValor);
+                }
+                switch (ordenValor) {
+                    case 'reciente': datosProcesados.sort((a, b) => new Date(b.fecha) - new Date(a.fecha)); break;
+                    case 'antiguo': datosProcesados.sort((a, b) => new Date(a.fecha) - new Date(b.fecha)); break;
+                    case 'mejor': datosProcesados.sort((a, b) => parseFloat(b.puntaje) - parseFloat(a.puntaje)); break;
+                    case 'peor': datosProcesados.sort((a, b) => parseFloat(a.puntaje) - parseFloat(b.puntaje)); break;
+                }
+                actualizarGraficoYTabla(datosProcesados);
+            }
+
+            // --- 4. CARGA INICIAL DE DATOS ---
+            auth.onAuthStateChanged(user => {
+                console.log("DEBUG Dashboard - Estado de usuario:", user);
+
+                // 🔑 Siempre ocultamos loader, aunque falle algo
                 loaderEl.style.display = 'none';
                 mainContentEl.classList.remove('content-hidden');
-                historyBody.innerHTML = '<tr><td colspan="4">Debes iniciar sesión para ver tu progreso.</td></tr>';
-            }
-        });
+
+                if (user && db) {
+                    console.log("DEBUG Dashboard - Intentando leer historial de:", user.uid);
+
+                    db.collection('usuarios').doc(user.uid).collection('historialExamenes').get()
+                        .then(querySnapshot => {
+                            if (querySnapshot.empty) {
+                                historyBody.innerHTML = '<tr><td colspan="4">Aún no has completado ningún simulacro.</td></tr>';
+                                return;
+                            }
+
+                            querySnapshot.forEach(doc => fullHistorial.push({ id: doc.id, ...doc.data() }));
+
+                            // KPIs
+                            const totalExamenes = fullHistorial.length;
+                            kpiTotalEl.innerText = totalExamenes;
+                            const sumaPuntajes = fullHistorial.reduce((acc, ex) => acc + parseFloat(ex.puntaje), 0);
+                            kpiPromedioEl.innerText = `${(sumaPuntajes / totalExamenes).toFixed(1)}%`;
+                            kpiMejorEl.innerText = `${Math.max(...fullHistorial.map(ex => parseFloat(ex.puntaje))).toFixed(1)}%`;
+
+                            const statsPorArea = {};
+                            fullHistorial.forEach(ex => {
+                                const area = ex.titulo.split('|')[1]?.trim() || 'Desconocida';
+                                if (!statsPorArea[area]) statsPorArea[area] = { suma: 0, count: 0 };
+                                statsPorArea[area].suma += parseFloat(ex.puntaje);
+                                statsPorArea[area].count++;
+                            });
+                            let areaDebil = 'N/A', menorPromedio = 101;
+                            for (const area in statsPorArea) {
+                                const promedioArea = statsPorArea[area].suma / statsPorArea[area].count;
+                                if (promedioArea < menorPromedio) { menorPromedio = promedioArea; areaDebil = area; }
+                            }
+                            kpiAreaEl.innerText = areaDebil;
+
+                            // Filtros dinámicos
+                            const examenesUnicos = [...new Set(fullHistorial.map(ex => ex.titulo))];
+                            examenesUnicos.forEach(titulo => {
+                                const option = document.createElement('option');
+                                option.value = titulo;
+                                option.innerText = titulo;
+                                examFilterEl.appendChild(option);
+                            });
+
+                            examFilterEl.addEventListener('change', aplicarFiltros);
+                            examSortEl.addEventListener('change', aplicarFiltros);
+
+                            aplicarFiltros();
+
+                            // Listener revisar examen
+                            historyBody.addEventListener('click', (event) => {
+                                if (event.target.classList.contains('btn-review')) {
+                                    const examDocId = event.target.dataset.id;
+                                    const examenOriginal = fullHistorial.find(ex => ex.id === examDocId);
+                                    if (examenOriginal) {
+                                        localStorage.setItem('resultadosExamen', JSON.stringify(examenOriginal));
+                                        window.location.href = 'resultados.html';
+                                    } else {
+                                        alert("Error: No se pudieron cargar los detalles.");
+                                    }
+                                }
+                            });
+                        })
+                        .catch(error => {
+                            console.error("Error al cargar historial:", error);
+                            historyBody.innerHTML = '<tr><td colspan="4">Error al cargar tu historial. Intenta recargar la página.</td></tr>';
+                        });
+                } else {
+                    console.log("Dashboard: Usuario no autenticado.");
+                    historyBody.innerHTML = '<tr><td colspan="4">Debes iniciar sesión para ver tu progreso.</td></tr>';
+                }
+            });
+
+        } catch (err) {
+            console.error("Error crítico en Dashboard:", err);
+            loaderEl.style.display = 'none';
+            mainContentEl.classList.remove('content-hidden');
+            historyBody.innerHTML = '<tr><td colspan="4">Error inesperado en el Dashboard.</td></tr>';
+        }
     }
+    // =================== FIN DASHBOARD ========================
+
 
 
 
