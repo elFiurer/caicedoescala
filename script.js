@@ -980,7 +980,8 @@ document.addEventListener('DOMContentLoaded', () => {
     // 👇 REEMPLAZA EL BLOQUE COMPLETO DE LA PÁGINA DEL DASHBOARD CON ESTE 👇
 
     // ======================= DASHBOARD =========================
-    if (window.location.pathname.endsWith('dashboard.html')) {
+    // ======================= DASHBOARD =========================
+    if (window.location.pathname.includes('dashboard')) {
         try {
             console.log("DEBUG Dashboard: Iniciando carga del dashboard...");
 
@@ -1149,6 +1150,8 @@ document.addEventListener('DOMContentLoaded', () => {
             historyBody.innerHTML = '<tr><td colspan="4">Error inesperado en el Dashboard.</td></tr>';
         }
     }
+    // =================== FIN DASHBOARD ========================
+
     // =================== FIN DASHBOARD ========================
 
 
