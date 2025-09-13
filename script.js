@@ -1,5 +1,3 @@
-// Contenido completo y corregido para script.js
-
 document.addEventListener('DOMContentLoaded', () => {
     // --- 1. CONFIGURACIÓN E INICIALIZACIÓN GLOBAL ---
     const firebaseConfig = {
@@ -665,6 +663,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     const currentOptions = questionWrapper.querySelectorAll('.option');
                     currentOptions.forEach(opt => {
                         opt.addEventListener('click', (e) => {
+                            // CÓDIGO CORREGIDO:
                             const idx = parseInt(e.target.dataset.questionIndex);
                             userAnswers[idx] = e.target.innerText;
                             const parentOptions = e.target.parentElement.querySelectorAll('.option');
@@ -978,8 +977,6 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
-    // 👇 REEMPLAZA TU BLOQUE DEL DASHBOARD CON ESTA VERSIÓN CORREGIDA Y FINAL 👇
-
     // 👇 REEMPLAZA EL BLOQUE COMPLETO DE LA PÁGINA DEL DASHBOARD CON ESTE 👇
 
     if (window.location.pathname.endsWith('dashboard.html')) {
@@ -1007,7 +1004,10 @@ document.addEventListener('DOMContentLoaded', () => {
                 datos.forEach(data => {
                     const fecha = new Date(data.fecha).toLocaleDateString('es-PE');
                     const row = document.createElement('tr');
+                    // --- INICIO DE LA CORRECCIÓN 1 ---
+                    // Ahora usamos el ID único de Firebase (data.id) que es infalible.
                     row.innerHTML = `<td>${data.titulo}</td><td>${fecha}</td><td>${data.puntaje}%</td><td><button class="btn-review" data-id="${data.id}">Revisar</button></td>`;
+                    // --- FIN DE LA CORRECCIÓN 1 ---
                     historyBody.appendChild(row);
                 });
             }
@@ -1024,7 +1024,7 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         }
 
-        // --- 3. FUNCIÓN PARA APLICAR FILTROS ---
+        // --- 3. FUNCIÓN PARA APLICAR FILTROS --- (Sin cambios)
         function aplicarFiltros() {
             const filtroValor = examFilterEl.value;
             const ordenValor = examSortEl.value;
@@ -1044,6 +1044,8 @@ document.addEventListener('DOMContentLoaded', () => {
         // --- 4. CARGA INICIAL DE DATOS ---
         auth.onAuthStateChanged(user => {
             if (user && db) {
+                // 👇 REEMPLAZA TU BLOQUE db.collection CON ESTE 👇
+
                 db.collection('usuarios').doc(user.uid).collection('historialExamenes').get()
                     .then(querySnapshot => {
                         if (querySnapshot.empty) {
@@ -1084,9 +1086,11 @@ document.addEventListener('DOMContentLoaded', () => {
                             examFilterEl.appendChild(option);
                         });
 
-                        // Añadir Event Listeners
                         examFilterEl.addEventListener('change', aplicarFiltros);
                         examSortEl.addEventListener('change', aplicarFiltros);
+
+                        aplicarFiltros();
+
                         historyBody.addEventListener('click', (event) => {
                             if (event.target.classList.contains('btn-review')) {
                                 const examDocId = event.target.dataset.id;
@@ -1100,21 +1104,21 @@ document.addEventListener('DOMContentLoaded', () => {
                             }
                         });
 
-                        aplicarFiltros();
-
                         loaderEl.style.display = 'none';
                         mainContentEl.classList.remove('content-hidden');
                     })
-                    .catch(error => {
+                    .catch(error => { // <-- AHORA SÍ EXISTE ESTE BLOQUE
                         console.error("Error al cargar historial:", error);
                         loaderEl.style.display = 'none';
                         mainContentEl.classList.remove('content-hidden');
                         historyBody.innerHTML = '<tr><td colspan="4">Error al cargar tu historial. Intenta recargar la página.</td></tr>';
                     });
             } else {
-                console.log("Dashboard: Usuario no autenticado. Redirigiendo.");
-                // Si no hay usuario, redirigir a la página principal
-                window.location.href = 'index.html';
+                // --- ESTE ES EL BLOQUE QUE ACABAS DE AÑADIR ---
+                console.log("Dashboard: Usuario no autenticado o estado pendiente.");
+                loaderEl.style.display = 'none';
+                mainContentEl.classList.remove('content-hidden');
+                historyBody.innerHTML = '<tr><td colspan="4">Debes iniciar sesión para ver tu progreso.</td></tr>';
             }
         });
     }
@@ -1574,4 +1578,4 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     });
 
-}); 
+});
