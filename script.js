@@ -894,7 +894,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // 👇 REEMPLAZA TU BLOQUE DEL DASHBOARD CON ESTA VERSIÓN CORREGIDA Y FINAL 👇
 
-    if (window.location.pathname.endsWith('dashboard.html')) {
+    if (window.location.pathname.endsWith('dashboard')) {
         // --- 1. REFERENCIAS A ELEMENTOS DEL DOM ---
         const historyBody = document.getElementById('history-body');
         const kpiPromedioEl = document.getElementById('kpi-promedio');
