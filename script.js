@@ -650,23 +650,20 @@ document.addEventListener('DOMContentLoaded', () => {
                 const todasLasPreguntas = bloques.flatMap(b => b.preguntas || []);
                 crearNavegador(todasLasPreguntas.length);
 
-                // Usamos el index para numerar los casos/bloques
                 bloques.forEach((bloque, index) => {
                     const bloqueId = `bloque-${index}`;
                     const bloqueWrapper = document.createElement('div');
                     bloqueWrapper.id = bloqueId;
                     bloqueWrapper.className = 'bloque-wrapper';
                     
-                    // --- INICIO DE LA MODIFICACIÓN CLAVE ---
                     let bloqueHTML = `<h2 class="group-title">CASO ${index + 1}</h2>`;
                     
                     if (bloque.contexto) {
                         bloqueHTML += `<div class="contexto-examen"><p>${bloque.contexto.replace(/\n/g, '<br>')}</p></div>`;
                     }
-                    if (bloque.imagen) { // Imagen del bloque
+                    if (bloque.imagen) {
                         bloqueHTML += `<img src="${bloque.imagen}" alt="Imagen del bloque" class="imagen-examen">`;
                     }
-                    // --- FIN DE LA MODIFICACIÓN CLAVE ---
 
                     if (bloque.preguntas && Array.isArray(bloque.preguntas)) {
                         bloque.preguntas.forEach(pregunta => {
@@ -679,11 +676,10 @@ document.addEventListener('DOMContentLoaded', () => {
                             }
                             
                             let imagenPreguntaHTML = '';
-                            if (pregunta.imagen) { // Imagen específica de la pregunta
+                            if (pregunta.imagen) {
                                 imagenPreguntaHTML = `<div class="imagen-pregunta-especifica"><img src="${pregunta.imagen}" alt="Imagen de la pregunta" class="imagen-examen"></div>`;
                             }
                             
-                            // Ya no necesitamos un <h3>, el <h2> del CASO es el título principal
                             bloqueHTML += `
                                 <div id="question-wrapper-${questionIndex}" class="question-wrapper">
                                     <div class="question-header">
@@ -702,14 +698,39 @@ document.addEventListener('DOMContentLoaded', () => {
                     bloqueWrapper.innerHTML = bloqueHTML;
                     questionsContainer.appendChild(bloqueWrapper);
 
-                    // Re-asignamos listeners a los elementos recién creados dentro de este bloque
+                    // --- INICIO DE LA CORRECCIÓN CLAVE ---
+                    // Re-asignamos los listeners a los elementos recién creados CON LA LÓGICA COMPLETA
                     const currentBlock = document.getElementById(bloqueId);
+                    
                     currentBlock.querySelectorAll('.flag-btn').forEach(flagBtn => {
-                        flagBtn.addEventListener('click', () => { /* ...código de flag sin cambios... */ });
+                        flagBtn.addEventListener('click', () => {
+                            const idx = parseInt(flagBtn.dataset.index);
+                            const navButton = document.querySelector(`.nav-question-btn[data-index="${idx}"]`);
+                            if (flaggedQuestions.has(idx)) {
+                                flaggedQuestions.delete(idx);
+                                flagBtn.classList.remove('flagged');
+                                if (navButton) navButton.classList.remove('flagged');
+                            } else {
+                                flaggedQuestions.add(idx);
+                                flagBtn.classList.add('flagged');
+                                if (navButton) navButton.classList.add('flagged');
+                            }
+                        });
                     });
+
                     currentBlock.querySelectorAll('.option').forEach(opt => {
-                        opt.addEventListener('click', (e) => { /* ...código de option sin cambios... */ });
+                        opt.addEventListener('click', (e) => {
+                            // Esta es la lógica que faltaba para que los clics funcionen
+                            const idx = parseInt(e.target.dataset.questionIndex);
+                            userAnswers[idx] = e.target.innerText;
+                            const parentOptions = e.target.closest('.options-container').querySelectorAll('.option');
+                            parentOptions.forEach(o => o.classList.remove('selected'));
+                            e.target.classList.add('selected');
+                            const navButton = document.querySelector(`.nav-question-btn[data-index="${idx}"]`);
+                            if (navButton) navButton.classList.add('answered');
+                        });
                     });
+                     // --- FIN DE LA CORRECCIÓN CLAVE ---
                 });
             };
             const finalizarExamen = () => {
