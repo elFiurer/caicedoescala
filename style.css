@@ -2027,3 +2027,28 @@ body {
 .group-title:first-child {
     margin-top: 10px;
 }
+/* ============================================= */
+/* ==   AJUSTE PARA IMAGEN EN MODAL DE REPASO  == */
+/* ============================================= */
+
+/*
+  Este código se aplica específicamente a las imágenes ('img')
+  que están dentro del contenedor de la imagen de pregunta ('.imagen-pregunta-especifica')
+  que a su vez está dentro de nuestro modal de repaso ('.flashcard-modal').
+*/
+.flashcard-modal .imagen-pregunta-especifica img {
+    /* La regla más importante: la imagen nunca será más ancha que su contenedor. */
+    max-width: 100%;
+
+    /* Mantiene la proporción original de la imagen para que no se deforme. */
+    height: auto;
+
+    /* Asegura que la imagen se comporte como un bloque (ocupa su propia línea). */
+    display: block;
+
+    /* Centra la imagen horizontalmente y le da un espacio arriba y abajo. */
+    margin: 15px auto;
+
+    /* Unos bordes redondeados para que se vea más moderno. */
+    border-radius: 8px;
+}
