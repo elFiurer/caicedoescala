@@ -916,26 +916,32 @@ document.addEventListener('DOMContentLoaded', () => {
     // 👇 REEMPLAZA TU BLOQUE DEL DASHBOARD CON ESTA VERSIÓN CORREGIDA Y FINAL 👇
 
     // Bloque Final para DASHBOARD.HTML (Con Guardián de Autenticación)
+    // Bloque Definitivo para DASHBOARD.HTML (Completo y Verificado)
     if (window.location.pathname.endsWith('dashboard')) {
-
-        // --- INICIO DE LA MODIFICACIÓN ---
-
-        // 1. EL GUARDIÁN DE AUTENTICACIÓN
-        // Este código se ejecuta primero para proteger la página.
+        
         auth.onAuthStateChanged(user => {
+            const loaderEl = document.getElementById('loader');
+            const mainContentEl = document.getElementById('main-content');
+            const historyBody = document.getElementById('history-body');
+
             if (user) {
-                // Si el usuario SÍ ha iniciado sesión, ejecutamos la función que construye el dashboard.
-                console.log("Dashboard: Acceso concedido. Construyendo página.");
+                // Si el usuario SÍ ha iniciado sesión, se ejecuta toda la lógica para mostrar el dashboard.
                 inicializarDashboard(user);
             } else {
-                // Si el usuario NO ha iniciado sesión, lo redirigimos a la página principal.
-                console.log("Dashboard: Acceso denegado. Usuario no autenticado. Redirigiendo...");
-                window.location.href = 'index.html';
+                // Si el usuario NO ha iniciado sesión, se muestra la alerta simple.
+                alert('Inicia sesión para ver tu rendimiento');
+                if(loaderEl) loaderEl.style.display = 'none';
+                if(mainContentEl) mainContentEl.classList.remove('content-hidden');
+                if(historyBody) historyBody.innerHTML = '<tr><td colspan="4">Inicia sesión para ver tu historial de exámenes.</td></tr>';
+                
+                const examFilterEl = document.getElementById('exam-filter');
+                const examSortEl = document.getElementById('exam-sort');
+                if(examFilterEl) examFilterEl.disabled = true;
+                if(examSortEl) examSortEl.disabled = true;
             }
         });
 
-        // 2. LA LÓGICA DEL DASHBOARD, AHORA DENTRO DE UNA FUNCIÓN
-        // Encerramos todo tu código original en esta función para que solo se ejecute si el guardián da permiso.
+        // La función que construye el dashboard (AHORA COMPLETA Y SIN ABREVIAR)
         const inicializarDashboard = (user) => {
             const historyBody = document.getElementById('history-body');
             const kpiPromedioEl = document.getElementById('kpi-promedio');
@@ -992,7 +998,6 @@ document.addEventListener('DOMContentLoaded', () => {
                 actualizarGraficoYTabla(datosProcesados);
             }
 
-            // Carga inicial de datos desde Firestore
             if (db) {
                 db.collection('usuarios').doc(user.uid).collection('historialExamenes').get()
                     .then(querySnapshot => {
@@ -1005,7 +1010,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
                         querySnapshot.forEach(doc => fullHistorial.push({ id: doc.id, ...doc.data() }));
                         
-                        // Lógica de KPIs y filtros (sin cambios)
                         const totalExamenes = fullHistorial.length;
                         kpiTotalEl.innerText = totalExamenes;
                         const sumaPuntajes = fullHistorial.reduce((acc, ex) => acc + parseFloat(ex.puntaje), 0);
@@ -1062,7 +1066,6 @@ document.addEventListener('DOMContentLoaded', () => {
                     });
             }
         };
-        // --- FIN DE LA MODIFICACIÓN ---
     }
 
 
