@@ -915,73 +915,85 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // 👇 REEMPLAZA TU BLOQUE DEL DASHBOARD CON ESTA VERSIÓN CORREGIDA Y FINAL 👇
 
+    // Bloque Final para DASHBOARD.HTML (Con Guardián de Autenticación)
     if (window.location.pathname.endsWith('dashboard')) {
-        // --- 1. REFERENCIAS A ELEMENTOS DEL DOM ---
-        const historyBody = document.getElementById('history-body');
-        const kpiPromedioEl = document.getElementById('kpi-promedio');
-        const kpiMejorEl = document.getElementById('kpi-mejor');
-        const kpiTotalEl = document.getElementById('kpi-total');
-        const kpiAreaEl = document.getElementById('kpi-area');
-        const examFilterEl = document.getElementById('exam-filter');
-        const examSortEl = document.getElementById('exam-sort');
-        const ctx = document.getElementById('progressChart')?.getContext('2d');
-        const loaderEl = document.getElementById('loader');
-        const mainContentEl = document.getElementById('main-content');
 
-        let fullHistorial = [];
-        let chartInstance = null;
+        // --- INICIO DE LA MODIFICACIÓN ---
 
-        // --- 2. FUNCIÓN PARA ACTUALIZAR GRÁFICO Y TABLA ---
-        function actualizarGraficoYTabla(datos) {
-            historyBody.innerHTML = '';
-            if (datos.length === 0) {
-                historyBody.innerHTML = '<tr><td colspan="4">No hay resultados para los filtros seleccionados.</td></tr>';
-            } else {
-                datos.forEach(data => {
-                    const fecha = new Date(data.fecha).toLocaleDateString('es-PE');
-                    const row = document.createElement('tr');
-                    // --- INICIO DE LA CORRECCIÓN 1 ---
-                    // Ahora usamos el ID único de Firebase (data.id) que es infalible.
-                    row.innerHTML = `<td>${data.titulo}</td><td>${fecha}</td><td>${data.puntaje}%</td><td><button class="btn-review" data-id="${data.id}">Revisar</button></td>`;
-                    // --- FIN DE LA CORRECCIÓN 1 ---
-                    historyBody.appendChild(row);
-                });
-            }
-
-            if (chartInstance) chartInstance.destroy();
-            if (ctx && datos.length > 0) {
-                const historialOrdenado = [...datos].sort((a, b) => new Date(a.fecha) - new Date(b.fecha));
-                const labels = historialOrdenado.map(ex => new Date(ex.fecha).toLocaleDateString('es-PE'));
-                const dataPoints = historialOrdenado.map(ex => parseFloat(ex.puntaje));
-                chartInstance = new Chart(ctx, { /* ... configuración del gráfico sin cambios ... */
-                    type: 'line', data: { labels, datasets: [{ label: 'Puntaje (%)', data: dataPoints, fill: true, backgroundColor: 'rgba(0, 123, 255, 0.1)', borderColor: '#007bff', tension: 0.2 }] },
-                    options: { responsive: true, maintainAspectRatio: false, scales: { y: { beginAtZero: true, max: 100 } }, plugins: { legend: { display: false } } }
-                });
-            }
-        }
-
-        // --- 3. FUNCIÓN PARA APLICAR FILTROS --- (Sin cambios)
-        function aplicarFiltros() {
-            const filtroValor = examFilterEl.value;
-            const ordenValor = examSortEl.value;
-            let datosProcesados = [...fullHistorial];
-            if (filtroValor !== 'todos') {
-                datosProcesados = datosProcesados.filter(ex => ex.titulo === filtroValor);
-            }
-            switch (ordenValor) {
-                case 'reciente': datosProcesados.sort((a, b) => new Date(b.fecha) - new Date(a.fecha)); break;
-                case 'antiguo': datosProcesados.sort((a, b) => new Date(a.fecha) - new Date(b.fecha)); break;
-                case 'mejor': datosProcesados.sort((a, b) => parseFloat(b.puntaje) - parseFloat(a.puntaje)); break;
-                case 'peor': datosProcesados.sort((a, b) => parseFloat(a.puntaje) - parseFloat(b.puntaje)); break;
-            }
-            actualizarGraficoYTabla(datosProcesados);
-        }
-
-        // --- 4. CARGA INICIAL DE DATOS ---
+        // 1. EL GUARDIÁN DE AUTENTICACIÓN
+        // Este código se ejecuta primero para proteger la página.
         auth.onAuthStateChanged(user => {
-            if (user && db) {
-                // 👇 REEMPLAZA TU BLOQUE db.collection CON ESTE 👇
+            if (user) {
+                // Si el usuario SÍ ha iniciado sesión, ejecutamos la función que construye el dashboard.
+                console.log("Dashboard: Acceso concedido. Construyendo página.");
+                inicializarDashboard(user);
+            } else {
+                // Si el usuario NO ha iniciado sesión, lo redirigimos a la página principal.
+                console.log("Dashboard: Acceso denegado. Usuario no autenticado. Redirigiendo...");
+                window.location.href = 'index.html';
+            }
+        });
 
+        // 2. LA LÓGICA DEL DASHBOARD, AHORA DENTRO DE UNA FUNCIÓN
+        // Encerramos todo tu código original en esta función para que solo se ejecute si el guardián da permiso.
+        const inicializarDashboard = (user) => {
+            const historyBody = document.getElementById('history-body');
+            const kpiPromedioEl = document.getElementById('kpi-promedio');
+            const kpiMejorEl = document.getElementById('kpi-mejor');
+            const kpiTotalEl = document.getElementById('kpi-total');
+            const kpiAreaEl = document.getElementById('kpi-area');
+            const examFilterEl = document.getElementById('exam-filter');
+            const examSortEl = document.getElementById('exam-sort');
+            const ctx = document.getElementById('progressChart')?.getContext('2d');
+            const loaderEl = document.getElementById('loader');
+            const mainContentEl = document.getElementById('main-content');
+
+            let fullHistorial = [];
+            let chartInstance = null;
+
+            function actualizarGraficoYTabla(datos) {
+                historyBody.innerHTML = '';
+                if (datos.length === 0) {
+                    historyBody.innerHTML = '<tr><td colspan="4">No hay resultados para los filtros seleccionados.</td></tr>';
+                } else {
+                    datos.forEach(data => {
+                        const fecha = new Date(data.fecha).toLocaleDateString('es-PE');
+                        const row = document.createElement('tr');
+                        row.innerHTML = `<td>${data.titulo}</td><td>${fecha}</td><td>${data.puntaje}%</td><td><button class="btn-review" data-id="${data.id}">Revisar</button></td>`;
+                        historyBody.appendChild(row);
+                    });
+                }
+
+                if (chartInstance) chartInstance.destroy();
+                if (ctx && datos.length > 0) {
+                    const historialOrdenado = [...datos].sort((a, b) => new Date(a.fecha) - new Date(b.fecha));
+                    const labels = historialOrdenado.map(ex => new Date(ex.fecha).toLocaleDateString('es-PE'));
+                    const dataPoints = historialOrdenado.map(ex => parseFloat(ex.puntaje));
+                    chartInstance = new Chart(ctx, { 
+                        type: 'line', data: { labels, datasets: [{ label: 'Puntaje (%)', data: dataPoints, fill: true, backgroundColor: 'rgba(0, 123, 255, 0.1)', borderColor: '#007bff', tension: 0.2 }] },
+                        options: { responsive: true, maintainAspectRatio: false, scales: { y: { beginAtZero: true, max: 100 } }, plugins: { legend: { display: false } } }
+                    });
+                }
+            }
+
+            function aplicarFiltros() {
+                const filtroValor = examFilterEl.value;
+                const ordenValor = examSortEl.value;
+                let datosProcesados = [...fullHistorial];
+                if (filtroValor !== 'todos') {
+                    datosProcesados = datosProcesados.filter(ex => ex.titulo === filtroValor);
+                }
+                switch (ordenValor) {
+                    case 'reciente': datosProcesados.sort((a, b) => new Date(b.fecha) - new Date(a.fecha)); break;
+                    case 'antiguo': datosProcesados.sort((a, b) => new Date(a.fecha) - new Date(b.fecha)); break;
+                    case 'mejor': datosProcesados.sort((a, b) => parseFloat(b.puntaje) - parseFloat(a.puntaje)); break;
+                    case 'peor': datosProcesados.sort((a, b) => parseFloat(a.puntaje) - parseFloat(b.puntaje)); break;
+                }
+                actualizarGraficoYTabla(datosProcesados);
+            }
+
+            // Carga inicial de datos desde Firestore
+            if (db) {
                 db.collection('usuarios').doc(user.uid).collection('historialExamenes').get()
                     .then(querySnapshot => {
                         if (querySnapshot.empty) {
@@ -992,8 +1004,8 @@ document.addEventListener('DOMContentLoaded', () => {
                         }
 
                         querySnapshot.forEach(doc => fullHistorial.push({ id: doc.id, ...doc.data() }));
-
-                        // Lógica de KPIs
+                        
+                        // Lógica de KPIs y filtros (sin cambios)
                         const totalExamenes = fullHistorial.length;
                         kpiTotalEl.innerText = totalExamenes;
                         const sumaPuntajes = fullHistorial.reduce((acc, ex) => acc + parseFloat(ex.puntaje), 0);
@@ -1013,7 +1025,6 @@ document.addEventListener('DOMContentLoaded', () => {
                         }
                         kpiAreaEl.innerText = areaDebil;
 
-                        // Llenar filtros
                         const examenesUnicos = [...new Set(fullHistorial.map(ex => ex.titulo))];
                         examenesUnicos.forEach(titulo => {
                             const option = document.createElement('option');
@@ -1043,20 +1054,15 @@ document.addEventListener('DOMContentLoaded', () => {
                         loaderEl.style.display = 'none';
                         mainContentEl.classList.remove('content-hidden');
                     })
-                    .catch(error => { // <-- AHORA SÍ EXISTE ESTE BLOQUE
+                    .catch(error => {
                         console.error("Error al cargar historial:", error);
                         loaderEl.style.display = 'none';
                         mainContentEl.classList.remove('content-hidden');
                         historyBody.innerHTML = '<tr><td colspan="4">Error al cargar tu historial. Intenta recargar la página.</td></tr>';
                     });
-            } else {
-                // --- ESTE ES EL BLOQUE QUE ACABAS DE AÑADIR ---
-                console.log("Dashboard: Usuario no autenticado o estado pendiente.");
-                loaderEl.style.display = 'none';
-                mainContentEl.classList.remove('content-hidden');
-                historyBody.innerHTML = '<tr><td colspan="4">Debes iniciar sesión para ver tu progreso.</td></tr>';
             }
-        });
+        };
+        // --- FIN DE LA MODIFICACIÓN ---
     }
 
 
