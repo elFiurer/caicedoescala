@@ -2052,3 +2052,18 @@ body {
     /* Unos bordes redondeados para que se vea más moderno. */
     border-radius: 8px;
 }
+/* ============================================= */
+/* == ESTILOS PARA EL MODAL DE ALERTA DE AUTH  == */
+/* ============================================= */
+
+.auth-alert-modal {
+    padding: 30px;
+    text-align: center;
+}
+
+.auth-alert-buttons {
+    margin-top: 25px;
+    /* Añadimos estas dos líneas para centrar el botón */
+    display: flex;
+    justify-content: center !important; /* El !important le da máxima prioridad */
+}
