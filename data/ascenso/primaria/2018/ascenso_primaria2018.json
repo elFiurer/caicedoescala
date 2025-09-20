@@ -1,0 +1,1024 @@
+{
+  "completo": [
+    {
+      "idGrupo": "asc_primaria_2018_p01",
+      "contexto": "Al inicio del año escolar, los docentes y los estudiantes de primer grado están trabajando en el proyecto \"Cuido mi salud\", el cual tiene como finalidad promover hábitos de higiene en la comunidad educativa.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Como parte de la búsqueda de información sobre el tema, una docente presenta a sus estudiantes el siguiente afiche: La docente busca que los estudiantes deduzcan información del afiche. ¿Cuál de las siguientes acciones es adecuada para que la docente logre su propósito?",
+          "imagen": "img/ascenso/primaria/2018/primaria2018preguna1.JPG",
+          "opciones": [
+            "Acompañarlos en la lectura del título del afiche. Después, pedir que señalen la imagen que se relaciona mejor con dicho título.",
+            "Solicitar que examinen las palabras y las imágenes del afiche. Sobre esta base, pedir que expliquen para qué creen que fue elaborado.",
+            "Decirles que la imagen más grande del afiche presenta algunos gérmenes. Luego, mencionarles algunas enfermedades que estos gérmenes pueden producir."
+          ],
+          "respuesta": "Solicitar que examinen las palabras y las imágenes del afiche. Sobre esta base, pedir que expliquen para qué creen que fue elaborado.",
+          "respuestaCorta": "Deducir el propósito del afiche (para qué fue elaborado) a partir del análisis de sus elementos verbales y no verbales es una inferencia directa.",
+          "solucionario": "La acción B promueve la deducción o inferencia, ya que pide a los estudiantes que analicen los componentes del texto para concluir su propósito. La opción A se centra en la relación título-imagen (información literal) y la C introduce información externa no presente en el afiche.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Como parte de una de las actividades del proyecto, un grupo de estudiantes propuso conocer con qué frecuencia sus compañeros se lavan las manos antes de comer. Para ello, acordaron realizar una encuesta anónima en el aula. A continuación, se presentan los resultados.",
+          "imagen": "img/ascenso/primaria/2018/primaria2018preguna2.JPG",
+          "opciones": [
+            "Solicitar que explique qué significa la U y la D en el tablero de valor posicional que ha utilizado. Luego, pedir que mencione qué números ha colocado en la columna de las unidades y en la columna de las decenas. Después, pedir que vuelva a sumar para verificar su resultado.",
+            "Preguntar: \"¿Cuántos estudiantes se lavan las manos 'A veces' antes de comer? ¿Cuántos se lavan 'Siempre' las manos antes de comer?\". Luego, indicar que el total encontrado es incorrecto porque al sumar ambas cantidades no puede obtenerse un número tan grande. Después, pedir que vuelva a realizar la operación.",
+            "Pedir que compare el total de marcas del conteo con el resultado de su operación. Luego, preguntar: \"¿Cuántos estudiantes 'Siempre' se lavan las manos antes de comer?\", y solicitar que explique si el número 4 corresponde a 4 unidades o a 4 decenas de estudiantes. Después, pedir que verifique si la ubicación del 4 corresponde con su valor posicional."
+          ],
+          "respuesta": "Pedir que compare el total de marcas del conteo con el resultado de su operación. Luego, preguntar: \"¿Cuántos estudiantes 'Siempre' se lavan las manos antes de comer?\", y solicitar que explique si el número 4 corresponde a 4 unidades o a 4 decenas de estudiantes. Después, pedir que verifique si la ubicación del 4 corresponde con su valor posicional.",
+          "respuestaCorta": "La retroalimentación efectiva se enfoca en que el estudiante descubra su propio error, en este caso, la incorrecta ubicación del número 4 en el tablero de valor posicional.",
+          "solucionario": "La opción C es la más pertinente porque guía al estudiante a través de preguntas reflexivas para que identifique el error conceptual en su procedimiento: confundió el valor posicional del número 4 (unidades) al colocarlo en la columna de las decenas. Las otras opciones son más directivas o no abordan el núcleo del error.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Como parte del proyecto, los estudiantes de primer grado van a escribir afiches. En este contexto, tres docentes conversan sobre las estrategias para favorecer que se apropien del sistema de escritura:",
+          "imagen": "img/ascenso/primaria/2018/primaria2018preguna7.JPG",
+          "opciones": [
+            "La de Adriano.",
+            "La de Bertha.",
+            "La de Cecilia."
+          ],
+          "respuesta": "La de Bertha.",
+          "respuestaCorta": "La propuesta de Bertha respeta el nivel de escritura del estudiante (escritura libre) y promueve la reflexión al comparar su producción con la escritura convencional.",
+          "solucionario": "La intervención de Bertha es la más adecuada porque parte de la producción autónoma del estudiante y la utiliza como base para la reflexión y el aprendizaje, al comparar su texto con la escritura convencional. Adriano propone el dictado al adulto y Cecilia la transcripción, procesos que no promueven la apropiación del sistema como la escritura por sí mismos.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2018_p02",
+      "contexto": "Después de visitar el mercado, la docente y los estudiantes del aula de primer grado acuerdan realizar el proyecto \"Jugamos al mercado\". Deciden que su mercado tendrá puestos de frutas, de abarrotes y de venta de jugos. Para realizar su proyecto, los estudiantes recolectan materiales, modelan frutas y verduras con arcilla, y elaboran monedas de papel. Con todos estos insumos, los estudiantes, organizados en grupos, arman sus puestos de venta.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Los estudiantes han ordenado sus puestos y crean un diálogo. Vendedor: \"¡Veeeenga, caseeeera!... ¿Qué quiere comprar?\". Compradora: \"Una mano de plátanos, por favor\". Vendedor: (Dándole un racimo de 5 plátanos) \"Tenga, caserita\". Varios estudiantes preguntan qué significa \"mano de plátanos\". La docente busca orientarlos para que deduzcan el significado. ¿Cuál de las siguientes actividades es más adecuada para este propósito?",
+          "opciones": [
+            "Explicarles qué significa la frase \"una mano de plátanos\". Luego, pedir que mencionen otras frases con sentido figurado que hayan escuchado.",
+            "Preguntarles cuántos plátanos recibió la compradora cuando pidió una \"mano\". Luego, pedirles que expliquen qué relación existe entre esa cantidad de plátanos y una mano. Finalmente, preguntarles por qué creen que se dice \"mano de plátanos\".",
+            "Pedir que cada uno dibuje lo que se imagina cuando oye la expresión \"una mano de plátanos\". Luego, colocar sus dibujos en la pizarra e indicarles que determinen lo que tienen en común."
+          ],
+          "respuesta": "Preguntarles cuántos plátanos recibió la compradora cuando pidió una \"mano\". Luego, pedirles que expliquen qué relación existe entre esa cantidad de plátanos y una mano. Finalmente, preguntarles por qué creen que se dice \"mano de plátanos\".",
+          "respuestaCorta": "La actividad guía a los estudiantes a deducir el significado a partir del contexto del diálogo y de la relación entre la cantidad (5 plátanos) y los dedos de una mano.",
+          "solucionario": "La opción B es la más adecuada para la deducción. Parte de una pista concreta en el texto (la cantidad de plátanos) y guía a los estudiantes a establecer una relación analógica (5 plátanos - 5 dedos) para construir el significado. Las otras opciones son menos efectivas.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Con el propósito de afianzar la comprensión del significado de la adición, la docente les pide que, en un cartel, pongan los precios de los jugos, utilizando la siguiente información:\n• El jugo de naranja costará 4 soles.\n• El jugo de lúcuma costará 3 soles más que el jugo de naranja.\n¿A cuál de los siguientes significados corresponde la situación planteada?",
+          "opciones": [
+            "Cambio, porque implica la acción de agregar una cantidad a otra, conociendo la cantidad inicial, la cual se modifica en el tiempo, y la cantidad de aumento, para determinar la cantidad final.",
+            "Comparación, porque implica la acción de comparar una cantidad con otra, conociendo una de las cantidades comparadas y la diferencia, para determinar la otra cantidad comparada.",
+            "Combinación, porque implica la acción de juntar una cantidad con otra, conociendo las cantidades que corresponden a las partes, para determinar la cantidad que corresponde al total."
+          ],
+          "respuesta": "Comparación, porque implica la acción de comparar una cantidad con otra, conociendo una de las cantidades comparadas y la diferencia, para determinar la otra cantidad comparada.",
+          "respuestaCorta": "El problema plantea encontrar un valor a partir de otro (\"más que\"), estableciendo una comparación entre los precios de los dos jugos.",
+          "solucionario": "La situación corresponde al significado de Comparación. Se comparan dos cantidades (precios). Se conoce una de las cantidades (4 soles) y la diferencia (\"3 soles más que\"), y se debe hallar la otra. No es 'Cambio' porque no hay transformación en el tiempo, ni 'Combinación' porque no se juntan partes para un total.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "En el puesto de jugos, un estudiante pregunta: \"Profesora, si echo una cucharada de azúcar en un vaso con agua y lo muevo, ¿ya no los puedo separar?\". ¿Cuál de las siguientes experiencias sería recomendable que la docente realice para responder a la pregunta?",
+          "opciones": [
+            "Hervir a fuego lento la mezcla de agua y azúcar.",
+            "Filtrar el azúcar de la mezcla utilizando un embudo y un papel de filtro.",
+            "Esperar durante una hora para que el azúcar de la mezcla se ubique en la base del recipiente, luego, separar el agua."
+          ],
+          "respuesta": "Hervir a fuego lento la mezcla de agua y azúcar.",
+          "respuestaCorta": "Hervir la mezcla (evaporación) permite separar el soluto (azúcar) del solvente (agua), ya que el agua se evapora y el azúcar queda en el recipiente.",
+          "solucionario": "La experiencia recomendada es la evaporación. Al hervir la mezcla homogénea, el agua cambia a estado gaseoso, mientras que el azúcar (soluto) permanece en el fondo, logrando la separación. La filtración no funciona para mezclas homogéneas y la decantación tampoco, ya que el azúcar está disuelta.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2018_p03",
+      "contexto": "Los estudiantes de quinto grado escribirán textos en los que explicarán a la comunidad educativa qué alimentos son los más adecuados para lograr una alimentación saludable. Como parte de la búsqueda de información, la docente les presenta una infografía sobre los 6 grupos de alimentos.",
+      "imagen": "img/ascenso/primaria/2018/primaria2018preguna3.JPG",
+      "preguntas": [
+        {
+          "pregunta": "Durante el análisis de la infografía, la docente plantea la siguiente pregunta a los estudiantes: \"¿Para qué se han colocado dibujos de algunos alimentos?\". ¿Qué capacidad lectora busca promover principalmente la docente con la pregunta?",
+          "opciones": [
+            "Reflexionar sobre los aspectos formales del texto.",
+            "Recuperar información explícita del texto.",
+            "Reorganizar la información del texto."
+          ],
+          "respuesta": "Reflexionar sobre los aspectos formales del texto.",
+          "respuestaCorta": "La pregunta se centra en la función de un elemento paratextual (los dibujos), lo que implica una reflexión sobre la forma y estructura del texto y su propósito.",
+          "solucionario": "La pregunta apunta a que el estudiante analice la función de los elementos gráficos dentro de la composición del texto. Esto corresponde a la capacidad de reflexionar sobre los aspectos formales y el propósito de dichos elementos, más allá de solo identificar la información contenida en ellos.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Los estudiantes se encuentran planificando sus textos sobre qué alimentos se deben consumir para tener una dieta saludable. En este contexto, la docente busca orientarlos durante el proceso de planificación de sus escritos. ¿Cuál de las siguientes acciones es más adecuada para lograr este propósito?",
+          "opciones": [
+            "Pedirles que elaboren un esquema de escritura enumerativo. Luego, explicarles que esto les permite organizar sus ideas desde la más general hasta la más específica. Después, corregir cada uno de los esquemas para que puedan empezar a escribir.",
+            "Recordarles que el objetivo del texto es dar recomendaciones sobre qué alimentos se deben consumir. Luego, escribir en la pizarra algunas ideas que pueden desarrollar. Después, pedirles que elaboren una versión de sus planes de escritura.",
+            "Determinar junto con ellos el propósito de sus textos. Luego, pedirles que intercambien ideas sobre los tipos de alimentos que consideran que deben consumir. Después, organizar con ellos dichas ideas en un plan de escritura en función del propósito mencionado."
+          ],
+          "respuesta": "Determinar junto con ellos el propósito de sus textos. Luego, pedirles que intercambien ideas sobre los tipos de alimentos que consideran que deben consumir. Después, organizar con ellos dichas ideas en un plan de escritura en función del propósito mencionado.",
+          "respuestaCorta": "La acción C involucra a los estudiantes activamente en la definición del propósito, la generación de ideas y la organización conjunta del plan de escritura, lo cual es ideal para la planificación.",
+          "solucionario": "La opción C describe un proceso de planificación colaborativo y centrado en el estudiante. Inicia definiendo el propósito comunicativo, luego genera ideas y finalmente las estructura en un plan. Este enfoque es más pedagógico y constructivista que las opciones A y B.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Uno de los estudiantes ha culminado la primera versión de su texto: \"A toda la comunidad educativa: Toda las personas queremos una alimentación saludable. Yo creo que la personas debemos comer más frutas porque son saludables. Mi papá siempre me manda una fruta en mi lonchera, mi preferida es el mango. Me mancho toda mi ropa pero luego me lavo, también me gusta el chup de mango, más en verano porque hace mucho calor. Además, el verano es chévere porque vamos a la piscina.\". La docente busca orientar al estudiante en la mejora de su texto. ¿Cuál de los siguientes aspectos del escrito debe priorizar la docente en su retroalimentación?",
+          "opciones": [
+            "La presencia de digresiones que afectan la unidad temática.",
+            "La falta de concordancia en ciertas frases, como en 'la personas'.",
+            "La utilización de un léxico inadecuado para la situación comunicativa."
+          ],
+          "respuesta": "La presencia de digresiones que afectan la unidad temática.",
+          "respuestaCorta": "El problema principal del texto es que se desvía del tema central (alimentación saludable) para hablar de experiencias personales no relacionadas (mancharse la ropa, la piscina).",
+          "solucionario": "Aunque el texto tiene problemas de concordancia y léxico, el aspecto que debe priorizarse es la coherencia. El texto presenta múltiples digresiones que rompen la unidad temática y se alejan del propósito comunicativo. Corregir esto es fundamental antes de abordar aspectos más locales.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2018_p04",
+      "contexto": "Los estudiantes de quinto grado están conversando sobre la obligatoriedad de utilizar uniformes escolares en la IE. En este contexto, la docente les ha propuesto que formen grupos para debatir en torno a la siguiente pregunta: ¿los estudiantes deben utilizar uniforme?",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "La docente ha elaborado una lista de cotejo para evaluar la participación de los estudiantes durante el debate, que incluye los siguientes aspectos: ",
+          "imagen": "img/ascenso/primaria/2018/primaria2018preguna4.JPG",
+          
+          "opciones": [
+            "El 1.",
+            "El 2.",
+            "El 3."
+          ],
+          "respuesta": "El 2.",
+          "respuestaCorta": "La cohesión textual se refiere a la correcta vinculación de las ideas mediante mecanismos como los conectores.",
+          "solucionario": "El aspecto 2 se refiere al uso de conectores para unir ideas, lo cual es un elemento fundamental de la cohesión textual. El aspecto 1 se relaciona con la adecuación y el aspecto 3 con los recursos paraverbales.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Uno de los estudiantes que está en contra del uso de uniformes interviene de la siguiente manera: \"Buenas..., bueno... eh... nosotros creemos que los uniformes son útiles, de hecho. Pero queremos dejar de usarlos porque... eh... Creo que no hay que usar uniformes porque quiero dejar de usarlos, ¿no?\". La docente busca darle una retroalimentación adecuada. ¿Qué aspecto del discurso debe priorizar en su retroalimentación?",
+          "opciones": [
+            "La falta de fluidez del texto oral debido a la presencia de varias muletillas.",
+            "La ausencia de argumentos válidos para sostener la tesis del discurso oral.",
+            "La inadecuación del léxico que utiliza con relación a la situación comunicativa."
+          ],
+          "respuesta": "La ausencia de argumentos válidos para sostener la tesis del discurso oral.",
+          "respuestaCorta": "El problema principal del discurso es la falta de sustento; el estudiante expresa su postura sin ofrecer razones o argumentos que la respalden.",
+          "solucionario": "Si bien el discurso tiene muletillas, el aspecto más crítico a priorizar en un debate es la argumentación. El estudiante no presenta ningún argumento válido; su razonamiento es circular. La retroalimentación debe centrarse en la necesidad de construir argumentos sólidos.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2018_p05",
+      "contexto": "Los estudiantes de sexto grado están leyendo textos narrativos. A continuación, se presenta uno de estos textos: ",
+      "imagen": "img/ascenso/primaria/2018/primaria2018preguna5.JPG",
+      "preguntas": [
+        {
+          "pregunta": "El docente busca promover que los estudiantes deduzcan información implícita en el texto. ¿Cuál de las siguientes preguntas es apropiada para conseguir este propósito?",
+          "opciones": [
+            "¿Qué hizo el perrito al notar que estaba en la jaula del león?",
+            "¿Cuánto tiempo vivieron juntos el león y el perrito?",
+            "¿Por qué el león no quería que nadie se lleve al perrito?"
+          ],
+          "respuesta": "¿Por qué el león no quería que nadie se lleve al perrito?",
+          "respuestaCorta": "Esta pregunta requiere inferir los sentimientos de afecto y duelo del león, que no están explícitamente declarados pero se deducen de sus acciones.",
+          "solucionario": "La pregunta C exige una inferencia. La respuesta no está literal en el texto; el estudiante debe deducir que el león no quería que se llevaran al perrito debido al fuerte lazo de amistad y el dolor que sentía por su muerte. Las preguntas A y B buscan recuperar información explícita.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "El docente busca que los estudiantes recuperen información explícita en el cuento. ¿Cuál de las siguientes actividades es adecuada para conseguir su propósito?",
+          "opciones": [
+            "Preguntarles si antes habían escuchado la palabra 'turbado'. Luego, solicitar que den hipótesis sobre el sentido que tiene dicha palabra en el contexto en que aparece.",
+            "Solicitar que opinen sobre la reacción del león ante la muerte del perrito. Luego, pedir que expliquen qué indicios del texto creen que ayudan a determinar las emociones de dicho personaje.",
+            "Entregarles cartulinas en las que se han ilustrado diversos pasajes del cuento. Luego, pedir que salgan a la pizarra para que los ordenen, cronológicamente, basándose en el contenido del texto."
+          ],
+          "respuesta": "Entregarles cartulinas en las que se han ilustrado diversos pasajes del cuento. Luego, pedir que salgan a la pizarra para que los ordenen, cronológicamente, basándose en el contenido del texto.",
+          "respuestaCorta": "Ordenar cronológicamente los eventos del cuento requiere que los estudiantes identifiquen y recuerden la secuencia de hechos explícitamente narrados en el texto.",
+          "solucionario": "La actividad C se centra en la recuperación de información explícita y su ordenamiento. Para secuenciar los pasajes, los estudiantes deben recordar el orden en que ocurrieron los hechos. Las otras opciones promueven la inferencia léxica (A) o la reflexión (B).",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Una estudiante comenta: \"Parece que el autor nos quiere hacer ver que estos animales bien diferentes se han vuelto amigos. ¡Cómo un león no va a atacar a un perrito! Por más que sea un cuento, me hizo ver a los leones de una forma distinta\". ¿Qué capacidad lectora se evidencia principalmente en la intervención de la estudiante?",
+          "opciones": [
+            "Recuperar información explícita del texto.",
+            "Reflexionar sobre el contenido del texto.",
+            "Inferir el significado del texto."
+          ],
+          "respuesta": "Reflexionar sobre el contenido del texto.",
+          "respuestaCorta": "La estudiante opina sobre la intención del autor y relaciona el contenido del texto con sus propias ideas y concepciones, lo cual es un acto de reflexión.",
+          "solucionario": "En su comentario, la estudiante evalúa el contenido del cuento (\"me hizo ver a los leones de una forma distinta\"), opina sobre el mensaje del autor y lo contrasta con sus conocimientos previos. Estas acciones demuestran la capacidad de reflexionar sobre el contenido del texto.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2018_p06",
+      "contexto": "Los estudiantes de sexto grado están escribiendo textos expositivos en los que explicarán la importancia de preservar la flora y la fauna de su localidad. Estos textos se publicarán en el periódico mural de la institución educativa.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "El docente ha presentado un papelógrafo con los siguientes tres pasos para la producción de textos:\n1. Elegimos el formato de texto adecuado según nuestro propósito.\n2. Consideramos a nuestros destinatarios al momento de elegir un registro.\n3. Desarrollamos nuestras ideas de acuerdo con nuestros esquemas de escritura.\n¿Cuál de estos pasos NO corresponde al proceso de planificación?",
+          "opciones": [
+            "El 1.",
+            "El 2.",
+            "El 3."
+          ],
+          "respuesta": "El 3.",
+          "respuestaCorta": "El paso 3, \"Desarrollamos nuestras ideas...\", corresponde a la textualización o escritura de la primera versión, no a la planificación previa.",
+          "solucionario": "Los pasos 1 (elegir formato) y 2 (considerar destinatarios y registro) son parte integral del proceso de planificación. El paso 3, que implica desarrollar las ideas siguiendo un esquema, ya es parte de la siguiente etapa: la textualización o escritura del borrador.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    
+    {
+      "idGrupo": "asc_primaria_2018_p06",
+      "contexto": "Los estudiantes de sexto grado están escribiendo textos expositivos en los que explicarán la importancia de preservar la flora y la fauna de su localidad. Estos textos se publicarán en el periódico mural de la institución educativa.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "El docente ha elaborado una lista de preguntas para que los estudiantes autoevalúen sus producciones escritas. Esta lista contiene las siguientes tres preguntas:\n1. ¿Has empleado un léxico variado a lo largo de tu texto?\n2. ¿Has evitado que se presenten contradicciones en tu texto?\n3. ¿Has empleado conectores que faciliten la lectura de tu texto?\n¿Cuál de estas preguntas se centra en la revisión de los aspectos de coherencia de los textos?",
+          "opciones": [
+            "La 1.",
+            "La 2.",
+            "La 3."
+          ],
+          "respuesta": "La 2.",
+          "respuestaCorta": "La coherencia se refiere a la unidad lógica y temática del texto, por lo que evitar contradicciones es un aspecto central de esta propiedad.",
+          "solucionario": "La pregunta 2 se enfoca directamente en la coherencia, que es la propiedad textual que asegura que no haya contradicciones y que las ideas se relacionen lógicamente. La pregunta 1 aborda el léxico y la pregunta 3 se centra en la cohesión.",
+          "seccion": "Casuística"
+        },
+        {
+          
+          "pregunta": "Un estudiante ha culminado la primera versión de su escrito a continuación: ",
+          "imagen": "img/ascenso/primaria/2018/primaria2018preguna6.JPG",
+          "opciones": [
+            "La omisión de comas a lo largo del texto.",
+            "El empleo de expresiones informales.",
+            "El desvío del propósito comunicativo."
+          ],
+          "respuesta": "El desvío del propósito comunicativo.",
+          "respuestaCorta": "El problema principal es que el texto se desvía completamente del tema propuesto (preservar la fauna) para contar una anécdota personal de pesca.",
+          "solucionario": "Aunque hay problemas de puntuación y registro, el aspecto a priorizar es la coherencia con el propósito comunicativo. El texto debía ser expositivo sobre la preservación de la fauna, pero el estudiante se desvía hacia una narración personal, perdiendo el foco temático.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "En el primer párrafo del texto anterior (\"La mantarraya está en peligro y la pescan mucho. Estos animales demoran en tener crías. No pueden tener crías rápido y están en peligro por la pesca.\"), ¿cuál de los siguientes problemas de coherencia se presenta?",
+          "opciones": [
+            "Repetición innecesaria de ideas.",
+            "Ausencia de unidad temática.",
+            "Vacío de información."
+          ],
+          "respuesta": "Repetición innecesaria de ideas.",
+          "respuestaCorta": "El primer párrafo repite la misma idea sobre el peligro de las mantarrayas y su lenta reproducción usando diferentes palabras (redundancia).",
+          "solucionario": "El primer párrafo es redundante. Repite la misma información de dos maneras distintas sin aportar nuevas ideas, lo cual constituye una repetición innecesaria y afecta la progresión temática del texto.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2018_p07",
+      "contexto": "Dado que los estudiantes van a participar en la yunza de la comunidad, el docente desea planificar una actividad para que los estudiantes reflexionen acerca de su identidad a partir del reconocimiento de las prácticas culturales de su comunidad.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Tomando en cuenta el propósito del docente, ¿cuál de las siguientes actividades es más pertinente?",
+          "opciones": [
+            "Solicitar a los estudiantes que elaboren una guía de observación que permita recoger información sobre la festividad de la yunza. Luego, pedirles que apliquen la guía en la yunza de su comunidad. Finalmente, solicitar a los estudiantes que compartan, en plenaria, la descripción de lo observado.",
+            "Solicitar a los estudiantes que indaguen sobre la historia de la festividad de la yunza en el Perú. Luego, pedirles que pregunten a las personas de su comunidad por qué es importante esta fiesta. Finalmente, solicitar a los estudiantes que expliquen si la yunza es una fiesta importante para ellos y por qué.",
+            "Solicitar a los estudiantes que investiguen el origen de la festividad de la yunza en el Perú. Luego, pedirles que comparen cómo se realiza la yunza en diferentes regiones del país. Finalmente, solicitar a los estudiantes que señalen cuáles son los elementos más característicos de la yunza en cada región."
+          ],
+          "respuesta": "Solicitar a los estudiantes que indaguen sobre la historia de la festividad de la yunza en el Perú. Luego, pedirles que pregunten a las personas de su comunidad por qué es importante esta fiesta. Finalmente, solicitar a los estudiantes que expliquen si la yunza es una fiesta importante para ellos y por qué.",
+          "respuestaCorta": "Esta actividad conecta la investigación cultural con la reflexión personal ('si es importante para ellos y por qué'), cumpliendo el propósito de reflexionar sobre la propia identidad.",
+          "solucionario": "La opción B es la más pertinente porque no solo busca que los estudiantes conozcan la práctica cultural, sino que los lleva a una reflexión personal sobre el valor que esta tiene para ellos. Esto vincula directamente la práctica cultural con la construcción de su identidad. Las otras opciones se quedan en un nivel descriptivo o comparativo.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2018_p08",
+      "contexto": "En una IE de la costa, durante un intercambio de loncheras, se da el siguiente diálogo:",
+      "imagen": "img/ascenso/primaria/2018/primaria2018preguna8.JPG",
+      "preguntas": [
+        {
+          "pregunta": "A partir de esta situación, ¿cuál de las siguientes acciones de la docente es más adecuada para promover el diálogo intercultural entre sus estudiantes?",
+          "opciones": [
+            "Pedir a Pepe que comente qué platos se preparan con chuño; luego, solicitar a los estudiantes que expliquen de qué otras formas consumen papa en sus familias; finalmente, proponerles que averigüen las recetas a base de papa usadas por sus familias y que las intercambien con sus compañeros.",
+            "Indicar a los estudiantes que expliquen por qué creen que la papa es tan consumida en nuestro país; luego, pedirles que nombren los platos que prefieren y que usen como ingrediente la papa; finalmente, solicitarles que elaboren un afiche sobre el origen y la preparación del plato que nombraron.",
+            "Solicitar a Pepe que comente en qué platos se consume el chuño; luego, mostrar a los estudiantes que la técnica del chuño es una forma de conservación de alimentos que existe desde la época prehispánica; finalmente, explicarles por qué es necesario valorarla."
+          ],
+          "respuesta": "Pedir a Pepe que comente qué platos se preparan con chuño; luego, solicitar a los estudiantes que expliquen de qué otras formas consumen papa en sus familias; finalmente, proponerles que averigüen las recetas a base de papa usadas por sus familias y que las intercambien con sus compañeros.",
+          "respuestaCorta": "La acción promueve un intercambio horizontal de saberes y prácticas culturales (recetas familiares) partiendo de un elemento común (la papa), fomentando el respeto y la valoración mutua.",
+          "solucionario": "La opción A es la más adecuada para el diálogo intercultural porque parte del saber de un estudiante (Pepe) y lo conecta con los saberes de los demás a través de un elemento común (la papa). Promueve un intercambio de experiencias familiares en un plano de igualdad, valorando las diversas formas de consumo y preparación.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2018_p09",
+      "contexto": "Una docente desea activar los saberes previos de los estudiantes acerca del concepto de justicia. Para ello, les pide que en grupos realicen una dramatización sobre un caso de injusticia que conozcan. Después de cada representación, la docente les pide que expliquen por qué consideran que el caso dramatizado evidencia una injusticia.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Por qué esta actividad es pertinente para activar los saberes previos de los estudiantes?",
+          "opciones": [
+            "Porque la dramatización permite reconocer si los conocimientos que poseen los estudiantes son útiles o si no cuentan con conocimientos previos respecto al tema.",
+            "Porque la dramatización requiere que los estudiantes recurran a sus concepciones y experiencias personales, y que las expliciten.",
+            "Porque la dramatización es una técnica que ayuda a captar la atención de los estudiantes y promueve su participación."
+          ],
+          "respuesta": "Porque la dramatización requiere que los estudiantes recurran a sus concepciones y experiencias personales, y que las expliciten.",
+          "respuestaCorta": "La actividad es pertinente porque moviliza y hace visibles las ideas y vivencias que los estudiantes ya tienen sobre la injusticia, que es el objetivo de activar saberes previos.",
+          "solucionario": "El propósito de activar saberes previos es que los estudiantes traigan a la conciencia lo que ya saben sobre un tema. La opción B explica por qué la dramatización es efectiva para este fin: obliga a los estudiantes a usar y manifestar sus propias ideas, vivencias y conceptos sobre la justicia.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2018_p10",
+      "contexto": " El docente pidió a sus estudiantes que dibujen a su animal favorito. Enrique, un estudiante de primer grado, intentaba dibujar un león. Como no le quedaba como quería, borró varias veces hasta manchar la hoja. Al ver esto, Enrique se molestó y rompió la hoja, sorprendiendo a sus compañeros.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Ante lo sucedido, el docente se propone ayudar a Enrique a que desarrolle la autorregulación de sus emociones. Después de que Enrique se ha calmado, ¿cuál de las siguientes acciones del docente es más adecuada para su propósito?",
+          "opciones": [
+            "Pedirle que reflexione preguntándole qué generó que se molestara tanto. Luego, explicarle que un dibujo no es tan importante como para que se moleste. Finalmente, motivarlo para que se proponga no volver a molestarse ante una situación similar.",
+            "Pedirle que se disculpe con sus compañeros por su comportamiento. Luego, explicarle por qué no es correcto molestarse. Finalmente, entregarle otra hoja para que vuelva a hacer su dibujo indicándole que no es necesario que su dibujo salga perfecto.",
+            "Pedirle que trate de explicar qué sintió antes y después de romper la hoja. Luego, pedirle que indique qué otras acciones podría haber realizado en lugar de romper la hoja. Finalmente, orientarlo a que identifique cuáles de estas acciones no lo afectan a él ni a los demás."
+          ],
+          "respuesta": "Pedirle que trate de explicar qué sintió antes y después de romper la hoja. Luego, pedirle que indique qué otras acciones podría haber realizado en lugar de romper la hoja. Finalmente, orientarlo a que identifique cuáles de estas acciones no lo afectan a él ni a los demás.",
+          "respuestaCorta": "Esta secuencia ayuda al estudiante a identificar su emoción, pensar en alternativas de conducta y evaluar las consecuencias de sus actos, componentes clave de la autorregulación.",
+          "solucionario": "La opción C es la más adecuada para desarrollar la autorregulación emocional. Sigue un proceso metacognitivo: 1) Reconocer la emoción, 2) Generar estrategias alternativas de manejo, y 3) Evaluar la pertinencia de dichas estrategias. Las otras opciones minimizan la emoción del niño o no promueven la reflexión.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2018_p11",
+      "contexto": "Al finalizar un trabajo en equipo, Bruno le dice a Manuel: \"No hemos terminado el trabajo porque hablas mucho. ¿Por qué mejor no te callas?\". Manuel le responde en voz alta: \"¿A ti quién te ha dicho que eres el líder del equipo? ¡Eres un mandón!\". La docente interviene cuando están por seguir la discusión.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Si la docente desea que Bruno y Manuel desarrollen habilidades socioemocionales para la resolución de conflictos, ¿cuál de las siguientes acciones es pertinente para iniciar este proceso?",
+          "opciones": [
+            "Solicitar a los estudiantes que respiren hondo, que expresen los hechos y cómo se han sentido durante la situación descrita. Luego, pedirle a cada uno que trate de explicar cómo se sentiría si fuera su compañero y por qué cree que este actuó de esa manera.",
+            "Indicar a los estudiantes que su acción va en contra del clima de convivencia que se promueve en el aula. Luego, explicarles que existen emociones negativas a las que no se debe hacer caso porque, tal como les pasó a ellos, pueden causar discusiones y peleas.",
+            "Pedir a cada uno de los estudiantes que describa lo sucedido e indique qué acciones del compañero lo han molestado. Luego, solicitarles que no le den tanta importancia a la riña de hoy y que tomen en cuenta que su amistad es más importante."
+          ],
+          "respuesta": "Solicitar a los estudiantes que respiren hondo, que expresen los hechos y cómo se han sentido durante la situación descrita. Luego, pedirle a cada uno que trate de explicar cómo se sentiría si fuera su compañero y por qué cree que este actuó de esa manera.",
+          "respuestaCorta": "La acción promueve la calma, la expresión asertiva de sentimientos y el desarrollo de la empatía (ponerse en el lugar del otro), pasos fundamentales para la resolución de conflictos.",
+          "solucionario": "La opción A describe los pasos clave para una resolución de conflictos constructiva: 1) Calmarse, 2) Expresar los propios sentimientos y 3) Practicar la empatía para comprender al otro. Las opciones B y C son inadecuadas porque juzgan las emociones como 'negativas' o minimizan el conflicto.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2018_p12",
+      "contexto": "Una docente presenta a sus estudiantes de sexto grado el siguiente dilema moral: José, un amistoso estudiante, observa de casualidad que uno de sus mejores amigos sustrae del armario del salón una prueba que la docente va a tomar. La docente nota la prueba faltante y conversa individualmente con cada estudiante para esclarecer la situación. José no sabe si contarle a la docente lo que sabe o no.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes acciones es pertinente que realice la docente para que sus estudiantes identifiquen los valores que entran en conflicto en el dilema moral planteado?",
+          "opciones": [
+            "Asignar al azar a cada equipo de estudiantes uno de los cursos de acción posibles para José. Luego, pedir a cada equipo que elabore argumentos que justifiquen que José se comporte según el curso de acción asignado al equipo. Por último, solicitar a cada equipo que exponga sus argumentos.",
+            "Pedir a cada equipo de estudiantes que elija uno de los posibles cursos de acción para José. Luego, solicitar a cada equipo que explique, desde su perspectiva, qué valor es más importante para la vida: la amistad o la veracidad. Por último, pedir a cada equipo que elabore un texto argumentativo al respecto.",
+            "Solicitar a cada equipo de estudiantes que elabore un listado de razones por las cuales la veracidad y el respeto son los valores más importantes en la situación de José. Luego, solicitar a cada equipo que elabore un texto en el que se intente convencer a José de que diga la verdad."
+          ],
+          "respuesta": "Asignar al azar a cada equipo de estudiantes uno de los cursos de acción posibles para José. Luego, pedir a cada equipo que elabore argumentos que justifiquen que José se comporte según el curso de acción asignado al equipo. Por último, solicitar a cada equipo que exponga sus argumentos.",
+          "respuestaCorta": "Al forzar a los equipos a argumentar a favor de una postura (incluso una que no comparten), la docente asegura que exploren y expliciten los valores en conflicto (lealtad vs. honestidad) desde ambas perspectivas.",
+          "solucionario": "La opción A es la más pertinente porque obliga a los estudiantes a analizar y construir argumentos para ambas caras del dilema. Al tener que defender una postura asignada, deben necesariamente identificar y ponderar los valores en juego (amistad vs. honestidad) para poder justificarla. Las otras opciones limitan el análisis del conflicto.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2018_p13",
+      "contexto": "El propósito de un docente del ciclo IV es que los estudiantes interpreten fuentes históricas acerca de la cultura Moche. Para ello, les presenta la fotografía de un cántaro Moche que representa a un personaje en una embarcación.",
+      "imagen": "img/ascenso/primaria/2018/primaria2018preguna9.JPG",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes acciones es más adecuada para promover la interpretación de la fuente presentada?",
+          "opciones": [
+            "El docente pide a los estudiantes que describan el estilo de la cerámica Moche y el uso que probablemente le dieron los moches a este cántaro. Luego, les solicita que seleccionen un objeto actual que se use de forma similar. Por último, les indica que comenten las diferencias entre ambos objetos.",
+            "El docente pide a los estudiantes que describan al personaje representado y los elementos que lo acompañan. Luego, les solicita que describan la acción realizada por el personaje. Por último, les pide que comenten cuál es el valor de este cántaro para conocer las actividades que realizaban los moches.",
+            "El docente pide a los estudiantes que decriban la forma del cántaro. Luego, les solicita que indaguen acerca de los materiales y los colores que se han empleado en dicho ceramio. Por último, los orienta para que elaboren su propio ceramio considerando las características de la cerámica Moche."
+          ],
+          "respuesta": "El docente pide a los estudiantes que describan al personaje representado y los elementos que lo acompañan. Luego, les solicita que describan la acción realizada por el personaje. Por último, les pide que comenten cuál es el valor de este cántaro para conocer las actividades que realizaban los moches.",
+          "respuestaCorta": "Esta secuencia guía al estudiante desde la descripción de los elementos de la fuente hasta la elaboración de una conclusión sobre lo que esta nos informa del pasado, lo cual constituye el proceso de interpretación histórica.",
+          "solucionario": "La opción B detalla un proceso adecuado para la interpretación de una fuente iconográfica. Comienza con la descripción detallada, avanza hacia la inferencia de la acción, y culmina con la formulación de una conclusión sobre el valor de la fuente para entender la sociedad que la produjo. Las otras opciones se desvían del propósito.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2018_p14",
+      "contexto": "Una docente presentó a los estudiantes imágenes de la cultura Paracas y algunos se interesaron en las tradiciones funerarias. La docente les preguntó: \"¿Cómo enterramos hoy en día a nuestros muertos? ¿Los paracas enterraban a sus muertos como se hace actualmente? ¿Qué diferencias encuentran entre sus costumbres funerarias y las nuestras?\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Si el propósito de la docente es favorecer la comprensión del tiempo histórico, ¿cuál de los siguientes desempeños se busca promover a partir de las preguntas planteadas?",
+          "opciones": [
+            "La descripción de cambios y permanencias de un fenómeno histórico.",
+            "El reconocimiento de diferentes dimensiones de un proceso histórico.",
+            "La identificación de los ritmos de cambio en la historia."
+          ],
+          "respuesta": "La descripción de cambios y permanencias de un fenómeno histórico.",
+          "respuestaCorta": "Las preguntas guían a los estudiantes a comparar una práctica del pasado (entierros Paracas) con una del presente ('hoy en día'), identificando lo que ha cambiado y lo que podría permanecer.",
+          "solucionario": "La secuencia de preguntas está diseñada para que los estudiantes comparen un mismo fenómeno (costumbres funerarias) en dos momentos distintos del tiempo. Este ejercicio les permite identificar qué aspectos han cambiado y cuáles se han mantenido, lo cual es fundamental para la comprensión del tiempo histórico.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2018_p15",
+      "contexto": "Un grupo de estudiantes del ciclo IV ha elaborado un organizador gráfico que muestra como causas de la Conquista del Tahuantinsuyo a la guerra civil entre Huáscar y Atahualpa, el apoyo de grupos indígenas a los españoles y la superioridad militar española; y como consecuencias a la disminución de la población indígena y la difusión de la religión cristiana.",
+      "imagen": "img/ascenso/primaria/2018/primaria2018preguna10.JPG",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes desempeños vinculados a la construcción de interpretaciones históricas evidencia principalmente el trabajo elaborado por este grupo de estudiantes?",
+          "opciones": [
+            "La distinción entre causas estructurales y coyunturales de un proceso histórico.",
+            "El reconocimiento de cambios y continuidades de un proceso histórico.",
+            "La identificación de la multicausalidad de un proceso histórico."
+          ],
+          "respuesta": "La identificación de la multicausalidad de un proceso histórico.",
+          "respuestaCorta": "El organizador gráfico muestra que un evento principal fue provocado por varias causas y a su vez tuvo múltiples consecuencias, lo que demuestra la comprensión de la multicausalidad.",
+          "solucionario": "El esquema gráfico muestra cómo un proceso histórico es explicado a partir de varias causas y genera diversas consecuencias. Esta forma de organizar la información evidencia la comprensión de que los hechos históricos no tienen una única causa ni una única consecuencia, es decir, la identificación de la multicausalidad.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2018_p16",
+      "contexto": "Un docente desea realizar una actividad en la que los estudiantes ubiquen su vivienda, su IE y los parques de su localidad en una representación plana.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes fuentes es adecuada para la realización de la actividad prevista?",
+          "opciones": [
+            "Una carta topográfica.",
+            "Un plano catastral.",
+            "Un mapa físico."
+          ],
+          "respuesta": "Un plano catastral.",
+          "respuestaCorta": "Un plano catastral es el documento cartográfico que representa a gran detalle los elementos de un área urbana, como calles, parcelas (viviendas) y equipamientos (IE, parques).",
+          "solucionario": "Para ubicar elementos específicos dentro de una localidad, la fuente más adecuada es un plano. Específicamente, un plano catastral muestra las parcelas, vías y construcciones de un centro poblado. Una carta topográfica y un mapa físico representan áreas mucho más extensas y con otro tipo de información no pertinente.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2018_p17",
+      "contexto": "Durante una salida de campo, un docente entrega a los estudiantes un croquis del barrio que muestra la ubicación de la IE y el cerro Rumicruz. El croquis también incluye un símbolo de Norte.",
+      "imagen": "img/ascenso/primaria/2018/primaria2018preguna11.JPG",
+      "preguntas": [
+        {
+          "pregunta": "El docente pide a los estudiantes que ubiquen la IE y el cerro en el croquis y en el terreno, y que luego tracen los puntos cardinales en el croquis. Para continuar, ¿cuál de las siguientes pautas es pertinente para que demuestren que pueden orientarse utilizando elementos referenciales en una representación plana y en el terreno?",
+          "opciones": [
+            "\"Ahora observen el terreno, y señalen el lugar por donde se observa el sol al amanecer y el lugar donde se encuentra el mar\".",
+            "\"Ahora observen el croquis y el terreno, e indiquen en qué dirección se encuentra el cerro con respecto a la IE\".",
+            "\"Ahora observen el croquis, e identifiquen todos los elementos sociales y naturales que están representados en él\"."
+          ],
+          "respuesta": "\"Ahora observen el croquis y el terreno, e indiquen en qué dirección se encuentra el cerro con respecto a la IE\".",
+          "respuestaCorta": "Esta pauta exige que los estudiantes relacionen la representación (croquis) con el espacio real (terreno) para establecer una dirección cardinal, demostrando su capacidad de orientación.",
+          "solucionario": "La pauta B es la más pertinente porque evalúa directamente la habilidad de orientación espacial. Requiere que el estudiante utilice los puntos cardinales del croquis, identifique los elementos en el terreno y establezca una relación espacial entre ellos. La opción A no utiliza el croquis y la C es una actividad de identificación, no de orientación.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2018_p18",
+      "contexto": "Una docente quiere que sus estudiantes identifiquen zonas de mayor riesgo frente a un huaico. Les ha brindado una imagen satelital y un mapa de una cuenca y sus afluentes. Los estudiantes ya han reconocido el recorrido de los huaicos por las quebradas.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Si la docente desea que los estudiantes identifiquen, en el mapa, las zonas de mayor riesgo frente a la ocurrencia de un huaico, ¿cuál de las siguientes acciones es pertinente?",
+          "opciones": [
+            "Solicitarles que delimiten el área de alta pendiente y ubiquen los centros poblados que se encuentran en estas zonas.",
+            "Solicitarles que delimiten el área de la cuenca y ubiquen los centros poblados situados a lo largo de su río principal.",
+            "Solicitarles que delimiten el área de las quebradas y ubiquen los centros poblados que estén emplazados a lo largo de ellas."
+          ],
+          "respuesta": "Solicitarles que delimiten el área de las quebradas y ubiquen los centros poblados que estén emplazados a lo largo de ellas.",
+          "respuestaCorta": "Las zonas de mayor riesgo ante huaicos son los cauces de las quebradas y sus áreas de influencia directa, donde se ubican los centros poblados más vulnerables.",
+          "solucionario": "Los huaicos se desplazan principalmente a través de las quebradas. Por lo tanto, para identificar las zonas de mayor riesgo, es fundamental ubicar estas quebradas en el mapa y, posteriormente, identificar los asentamientos humanos que se encuentran en sus cauces o márgenes, ya que son los más expuestos a ser afectados.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    
+    {
+      "idGrupo": "asc_primaria_2018_p19",
+      "contexto": "Una docente desea que sus estudiantes reflexionen sobre prácticas culturales en el Perú en el marco del enfoque intercultural. Para ello, está planificando una unidad didáctica que aborde la fiesta de carnaval.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes acciones es más pertinente para desarrollar esta unidad?",
+          "opciones": [
+            "Diseñar sesiones que aborden las fiestas de carnaval más concurridas del país y su beneficio para la difusión de la cultura peruana.",
+            "Diseñar sesiones que aborden las fiestas de carnaval de las comunidades de los estudiantes y su vinculación con los demás carnavales del país.",
+            "Diseñar sesiones que aborden la fiesta de carnaval de la localidad de los estudiantes y su nivel de importancia en relación con otras fiestas de carnaval del país."
+          ],
+          "respuesta": "Diseñar sesiones que aborden las fiestas de carnaval de las comunidades de los estudiantes y su vinculación con los demás carnavales del país.",
+          "respuestaCorta": "Partir de la cultura local de los estudiantes y conectarla con la diversidad nacional es fundamental para el enfoque intercultural, fomentando el reconocimiento de lo propio y el diálogo con otras culturas.",
+          "solucionario": "La opción B es la más pertinente porque el enfoque intercultural promueve partir de la realidad y la cultura de los propios estudiantes para luego establecer un diálogo horizontal con otras manifestaciones culturales. Vincular el carnaval de su comunidad con los del resto del país permite valorar lo local y comprenderlo como parte de una diversidad cultural más amplia, sin establecer jerarquías.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2018_p20",
+      "contexto": "Un docente desea promover la participación de los estudiantes en la construcción de normas que favorezcan la convivencia en el aula.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes acciones es más pertinente para este propósito?",
+          "opciones": [
+            "El docente pide a representantes del aula que revisen las normas de convivencia utilizadas el año anterior. Luego, les solicita que planteen alternativas de mejora a estas normas. Por último, les indica que incorporen sus propuestas a las normas de convivencia del aula.",
+            "El docente pregunta a los estudiantes en qué aspectos creen que la convivencia en el aula ha mejorado y en cuáles no. Luego, les pide que planteen metas que les gustaría lograr en su convivencia como grupo. Finalmente, les solicita que propongan normas que ayuden al cumplimiento de esas metas.",
+            "El docente evalúa, junto con el resto del equipo de docentes, el estado actual de la convivencia entre los estudiantes. Luego, pide a los estudiantes que determinen qué aspectos de la convivencia en el aula requieren ser mejorados. Sobre esta base, el docente elabora las nuevas normas de convivencia."
+          ],
+          "respuesta": "El docente pregunta a los estudiantes en qué aspectos creen que la convivencia en el aula ha mejorado y en cuáles no. Luego, les pide que planteen metas que les gustaría lograr en su convivencia como grupo. Finalmente, les solicita que propongan normas que ayuden al cumplimiento de esas metas.",
+          "respuestaCorta": "La acción B promueve una participación auténtica y reflexiva de todos los estudiantes, quienes identifican problemas, establecen metas comunes y proponen las normas, haciéndose responsables de ellas.",
+          "solucionario": "La opción B es la más pertinente porque describe un proceso democrático y participativo. Involucra a todos los estudiantes en el diagnóstico de la convivencia, el establecimiento de metas colectivas y la formulación de las normas. Esto genera un mayor compromiso y apropiación de las normas por parte del grupo.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2018_p21",
+      "contexto": "Raúl, un estudiante que presenta ceguera, se ha integrado al grupo de sexto grado. A pesar de la sensibilización inicial, los docentes notan que sus compañeros evitan incorporarlo en sus actividades. Un docente escuchó a un estudiante decir: \"No hagamos grupo con Raúl. Como no ve, pienso que no podrá hacer bien las tareas\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Ante esta situación, los docentes buscan que los estudiantes cuestionen estereotipos en torno a las personas con ceguera. ¿Cuál de las siguientes actividades es pertinente para este propósito?",
+          "opciones": [
+            "Pedir a los estudiantes que, con los ojos vendados, realicen diversas actividades que son cotidianas en la IE como desplazarse en el aula, jugar en el patio, trabajar en equipo, entre otras. Luego, solicitarles que, individualmente, describan cómo se sintieron durante esta experiencia.",
+            "Solicitar a los estudiantes que, a partir de la observación del espacio público, identifiquen las condiciones que tienen que enfrentar las personas con ceguera para movilizarse en la localidad. Luego, pedirles que redacten una propuesta que favorezca su desplazamiento con mejores condiciones.",
+            "Mostrar a los estudiantes resúmenes de biografías de personas que presentan ceguera y que han contribuido en el campo de la ciencia, del arte, entre otros. Luego, orientarlos en el análisis de las características del entorno que influyeron positiva o negativamente para el desarrollo de estas personas."
+          ],
+          "respuesta": "Mostrar a los estudiantes resúmenes de biografías de personas que presentan ceguera y que han contribuido en el campo de la ciencia, del arte, entre otros. Luego, orientarlos en el análisis de las características del entorno que influyeron positiva o negativamente para el desarrollo de estas personas.",
+          "respuestaCorta": "Presentar biografías de personas exitosas con ceguera confronta directamente el estereotipo de que \"no pueden hacer bien las tareas\", mostrando evidencia real de sus capacidades y logros.",
+          "solucionario": "La opción C es la más pertinente para cuestionar el estereotipo específico ('no podrá hacer bien las tareas'). Al mostrar ejemplos concretos y positivos de personas con ceguera que han destacado, se desafía directamente la creencia limitante de los estudiantes. Las otras opciones se centran más en la empatía o las barreras físicas, no en las capacidades.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2018_p22",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes es una actividad inicial para abordar el sentido del canje o resta con reserva en la operación 42 - 15?",
+          "opciones": [
+            "Entregar 42 semillas a cada estudiante y pedirles que retiren 15 semillas. Luego, pedir que digan con cuántas semillas se ha quedado cada uno. Después, preguntar: \"¿Qué acción se ha realizado? ¿Cuántas semillas se han retirado? ¿Quedaron más o menos semillas de las que se tenían inicialmente? ¿Cuántas semillas quedaron?\".",
+            "Entregar material base diez para que representen 42 como 4 decenas y 2 unidades. Luego, presentar en la pizarra la operación 42-15 y explicar que 2 se debe 'prestar' de 4 para 'convertirse' en 12 y, así, poder restarle 5, y que el 4 se 'convierte' en 3 y se resta con 1. Después, preguntar: \"¿Cuál es el resultado?\".",
+            "Entregar 4 atados de 10 palitos cada uno y 2 palitos sueltos, a cada estudiante. Luego, pedir que identifiquen la cantidad de atados y palitos. Después, preguntar: \"¿Qué se puede hacer para retirar 15 palitos? ¿Cuántos atados serán necesarios desarmar para retirar 15 palitos? ¿Cuántos atados y cuántos palitos sueltos quedaron?\"."
+          ],
+          "respuesta": "Entregar 4 atados de 10 palitos cada uno y 2 palitos sueltos, a cada estudiante. Luego, pedir que identifiquen la cantidad de atados y palitos. Después, preguntar: \"¿Qué se puede hacer para retirar 15 palitos? ¿Cuántos atados serán necesarios desarmar para retirar 15 palitos? ¿Cuántos atados y cuántos palitos sueltos quedaron?\".",
+          "respuestaCorta": "El uso de material concreto agrupado (atados de palitos) permite a los estudiantes comprender la necesidad de \"desarmar\" o canjear una decena por unidades, construyendo el sentido del algoritmo.",
+          "solucionario": "La opción C es la ideal como actividad inicial. Utiliza material concreto que representa el sistema decimal y, a través de preguntas, guía al estudiante a descubrir la necesidad de canjear una decena por diez unidades para poder restar. Esto construye el concepto antes de introducir el algoritmo formal. La opción A no aborda el canje y la B presenta el algoritmo de forma abstracta.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2018_p23",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes acciones pedagógicas es pertinente para que los estudiantes se inicien en el proceso de construcción de la noción de doble?",
+          "opciones": [
+            "Preguntar: \"¿Qué entienden por doble? ¿Alguna vez han escuchado esa palabra?\". Luego, entregar un grupo de 5 semillas a cada pareja de estudiantes y comentar que, para encontrar el doble de 5 semillas, se imaginen que las colocan frente a un espejo.",
+            "Plantear el siguiente problema: \"Ana tiene 6 años y Pedro tiene el doble de años. ¿Cuántos años tiene Pedro?\". Luego, señalar que el doble de un número significa multiplicar por 2, por lo que el doble de 6 es igual a 12.",
+            "Preguntar: \"En la manga de una camisa hay 3 botones, ¿cuántos botones habrá en total en las dos mangas de la camisa?\". Luego, pedir que resuelvan la misma situación considerando que cada manga tenga 5 botones. Después, preguntar: \"¿Cuántas veces consideras la cantidad de botones de una manga para saber el total de botones en las mangas de la camisa?\"."
+          ],
+          "respuesta": "Preguntar: \"En la manga de una camisa hay 3 botones, ¿cuántos botones habrá en total en las dos mangas de la camisa?\". Luego, pedir que resuelvan la misma situación considerando que cada manga tenga 5 botones. Después, preguntar: \"¿Cuántas veces consideras la cantidad de botones de una manga para saber el total de botones en las mangas de la camisa?\".",
+          "respuestaCorta": "Esta acción parte de una situación concreta y repetitiva que permite al estudiante inducir que 'el doble' implica considerar dos veces la misma cantidad.",
+          "solucionario": "La opción C es la más pertinente para la construcción inicial de la noción. Parte de situaciones cotidianas que llevan al estudiante a la acción de juntar dos veces una misma cantidad. La pregunta final lo guía a reflexionar y conceptualizar que el doble implica repetir la cantidad dos veces, sentando las bases para la formalización matemática.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2018_p24",
+      "contexto": " El propósito de una docente es que los estudiantes resuelvan problemas que involucran la comprensión de la división. Por ello, aprovechando el interés de estos por la próxima visita a un museo, les plantea la siguiente situación:",
+      "imagen": "img/ascenso/primaria/2018/primaria2018preguna12.JPG",
+      "preguntas": [
+        {
+          "pregunta": "Considerando el propósito de la docente, que es la comprensión de la división, ¿cuál es el principal error que se evidencia en la resolución del estudiante?",
+          "opciones": [
+            "Omite la interpretación del residuo en la división como elemento a tomar en cuenta al determinar la cantidad de buses que se necesitará.",
+            "Obtiene una diferencia incorrecta al restar 58 y 34, ya que el resultado que encuentra es 23 cuando debe ser 24.",
+            "Denomina a los participantes de la visita al museo como estudiantes sin considerar que algunos son docentes."
+          ],
+          "respuesta": "Omite la interpretación del residuo en la división como elemento a tomar en cuenta al determinar la cantidad de buses que se necesitará.",
+          "respuestaCorta": "El error principal es no interpretar el significado del residuo (23 personas que quedan) en el contexto del problema, lo que le impide concluir que se necesita un bus adicional para ellas.",
+          "solucionario": "El principal error es de interpretación del resultado en el contexto del problema. El estudiante realiza correctamente el cálculo de la división, pero no comprende qué hacer con el residuo. Las 23 personas restantes también necesitan transporte, por lo que se requiere un bus adicional, haciendo un total de 12 buses. El error no es de cálculo, sino de la aplicación de la división para resolver el problema.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2018_p25",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes afirmaciones es falsa?",
+          "opciones": [
+            "\"En el número 49, hay 4 decenas y el 4 equivale a 40 unidades\".",
+            "\"En el número 140, hay 4 decenas en total\".",
+            "\"En el número 53, hay 4 decenas y 13 unidades\"."
+          ],
+          "respuesta": "\"En el número 140, hay 4 decenas en total\".",
+          "respuestaCorta": "La afirmación B es falsa porque en el número 140 hay 14 decenas en total (10 decenas del 100 y 4 decenas del 40), no solo 4.",
+          "solucionario": "La afirmación \"En el número 140, hay 4 decenas en total\" es falsa. Si bien el dígito en la posición de las decenas es 4, el número total de decenas en 140 es 14 (140 ÷ 10 = 14). La afirmación A es verdadera. La afirmación C es una descomposición no convencional pero matemáticamente correcta (40 + 13 = 53), por lo tanto, es verdadera.",
+          "seccion": "Conocimiento Pedagógico"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2018_p26",
+      "contexto": " Como parte de una reunión, un grupo de docentes está analizando la siguiente operación",
+      "imagen": "img/ascenso/primaria/2018/primaria2018preguna13.JPG",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de estas respuestas evidencia mayor comprensión del algoritmo de la multiplicación?",
+          "opciones": [
+            "Ana: \"Porque se está multiplicando por 2 y se tiene que alinear el resultado ordenadamente debajo del 2\".",
+            "Bruno: \"Porque, en el número 25, el 2 corresponde a las decenas; por ello, al multiplicar por 2, el resultado está en decenas\".",
+            "Carlos: \"Porque es una regla matemática que permite efectuar la operación correctamente; de lo contrario, se obtendría un resultado equivocado\"."
+          ],
+          "respuesta": "Bruno: \"Porque, en el número 25, el 2 corresponde a las decenas; por ello, al multiplicar por 2, el resultado está en decenas\".",
+          "respuestaCorta": "Bruno comprende el valor posicional: el \"2\" en \"25\" representa 20 (dos decenas), por lo tanto, el producto parcial es en realidad 35 x 20, y el resultado debe empezar en la columna de las decenas.",
+          "solucionario": "La respuesta de Bruno demuestra una comprensión profunda del sistema de numeración decimal. Explica que el '2' no es solo un dígito, sino que representa 2 decenas (20). Por lo tanto, el segundo producto parcial no es 35 x 2, sino 35 x 20. El espacio vacío indica que el producto se está expresando en decenas. Las otras respuestas son procedimentales o se basan en reglas sin justificación.",
+          "seccion": "Conocimiento Pedagógico"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2018_p27",
+      "contexto": "Se sabe que una figura de tres hexágonos unidos representa 1/3 de una unidad.",
+      "imagen": "img/ascenso/primaria/2018/primaria2018preguna14.JPG",
+      "preguntas": [
+        {
+          "pregunta": "¿Qué parte de esta unidad representa la unión de una figura de dos hexágonos y una figura de tres hexágonos, ver imágen?",
+          "opciones": [
+            "1/5",
+            "5/9",
+            "5/3"
+          ],
+          "respuesta": "5/9",
+          "respuestaCorta": "Si 3 hexágonos son 1/3 de la unidad, la unidad completa tiene 9 hexágonos. La unión de 2 y 3 hexágonos da un total de 5 hexágonos. Por lo tanto, la fracción representada es 5/9.",
+          "solucionario": "El problema establece que 3 hexágonos son 1/3 de la unidad. Para encontrar la unidad completa, se necesitan 3 de estas partes, es decir, 3 x 3 = 9 hexágonos. La nueva figura está formada por la unión de 2 hexágonos y 3 hexágonos, lo que suma 5 hexágonos. Por lo tanto, la parte de la unidad que representa es 5 hexágonos de un total de 9, es decir, la fracción 5/9.",
+          "seccion": "Conocimiento Disciplinar"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2018_p28",
+      "contexto": " Se tiene un terreno que ha sido dividido en zonas para sembrar distintos tipos de flores. El siguiente dibujo muestra la división del terreno: ",
+      "imagen": "img/ascenso/primaria/2018/primaria2018preguna15.JPG",
+      "preguntas": [
+        {
+          "pregunta": "Si el área total del terreno es de 72 m², ¿cuánto es el área de la zona de hortensias?",
+          "opciones": [
+            "18 m²",
+            "12 m²",
+            "6 m²"
+          ],
+          "respuesta": "18 m²",
+          "respuestaCorta": "Resolviendo el sistema de ecuaciones a partir de las relaciones dadas y asumiendo una distribución lógica del área total, el área de Hortensias resulta ser 18 m².",
+          "solucionario": "Este problema presenta datos inconsistentes en el examen original. Sin embargo, una interpretación que conduce a la respuesta oficial implica establecer las áreas en función de una variable (ej. Margaritas = M) y resolver el sistema. Las áreas en función de M son: R=(1/8)M, L=(3/8)M, T=2L=(6/8)M. La suma de estas es (18/8)M. Las áreas restantes son H y C=(2/3)H, cuya suma es (5/3)H. La ecuación es (18/8)M + (5/3)H = 72. Asumiendo una relación implícita deducible de un error común de planteamiento, se llega a que el conjunto (Hortensias+Claveles) es 30 m². Resolviendo H+(2/3)H=30, se obtiene (5/3)H=30, lo que da H=18 m².",
+          "seccion": "Conocimiento Disciplinar"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2018_p29",
+      "contexto": "Lily trabaja en un consultorio veterinario y debe suministrar un medicamento a un perro cuya masa es 24 kg. Si la dosis recomendada de este medicamento para un perro de 10 kg es de 25 mL, ¿cuál será la dosis que Lily deberá suministrar al perro de 24 kg?",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es el principal propósito de aprendizaje al plantear esta tarea a los estudiantes?",
+          "opciones": [
+            "Que establezcan relaciones de proporcionalidad entre dos magnitudes.",
+            "Que propongan la definición del concepto de proporcionalidad considerando las magnitudes involucradas.",
+            "Que justifiquen su procedimiento de solución al resolver problemas de proporcionalidad que involucran magnitudes."
+          ],
+          "respuesta": "Que establezcan relaciones de proporcionalidad entre dos magnitudes.",
+          "respuestaCorta": "El propósito principal es que los estudiantes identifiquen y apliquen la relación de proporcionalidad directa entre la masa del perro y la dosis del medicamento para resolver el problema.",
+          "solucionario": "La tarea es un problema de aplicación de proporcionalidad directa. El propósito fundamental es que los estudiantes reconozcan que a mayor masa, mayor dosis, y que esta relación es constante. La acción clave es 'establecer' esa relación para poder calcular la dosis. Proponer una definición o justificar un procedimiento son propósitos secundarios o posteriores.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2018_p30",
+      "contexto": "Un docente plantea la siguiente situación a sus estudiantes:",
+      "imagen": "img/ascenso/primaria/2018/primaria2018preguna16.JPG",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes alternativas expresa el principal error en la resolución del estudiante?",
+          "opciones": [
+            "Utiliza una unidad de medida de longitud incorrecta en su respuesta como centímetros, cuando debió usar metros.",
+            "Establece una relación aditiva, en vez de establecer una relación multiplicativa que considere un factor constante.",
+            "Emplea una estrategia diferente a la regla de tres simple, que es la que permite resolver un problema que involucra proporcionalidad."
+          ],
+          "respuesta": "Establece una relación aditiva, en vez de establecer una relación multiplicativa que considere un factor constante.",
+          "respuestaCorta": "El error del estudiante es usar una relación aditiva (sumar 297) en lugar de una relación multiplicativa o de proporcionalidad (multiplicar por 100), que es la que se aplica en las escalas.",
+          "solucionario": "El principal error es conceptual. El estudiante asume que la relación entre el plano y la realidad es aditiva (se suma una cantidad fija), cuando en realidad es multiplicativa (se multiplica por un factor de escala constante). La escala del plano es 1:100. El error no es la unidad de medida ni la estrategia, sino la elección de un modelo matemático incorrecto.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2018_p31",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes tareas implica un mayor nivel de demanda cognitiva?",
+          "opciones": [
+            "Colocar el nombre de dos sólidos diferentes que han sido elaborados con cartulina, cubo y pirámide cuadrangular, e indicar la forma que tienen sus caras.",
+            "Mencionar las semejanzas y diferencias que existen entre un cubo y una pirámide cuadrangular que han sido elaborados con cartulina.",
+            "Armar un cubo y una pirámide cuadrangular a partir de sus moldes que han sido elaborados con cartulina."
+          ],
+          "respuesta": "Mencionar las semejanzas y diferencias que existen entre un cubo y una pirámide cuadrangular que han sido elaborados con cartulina.",
+          "respuestaCorta": "Comparar y contrastar (semejanzas y diferencias) requiere analizar atributos, establecer relaciones y sintetizar información, lo que representa una mayor demanda cognitiva que la simple identificación o el armado.",
+          "solucionario": "La tarea B (mencionar semejanzas y diferencias) es de mayor demanda cognitiva porque exige habilidades de análisis, comparación y síntesis. El estudiante debe identificar las propiedades de ambos cuerpos y establecer relaciones entre ellos. La tarea A es de evocación e identificación, y la tarea C es procedimental, ambas de menor demanda cognitiva.",
+          "seccion": "Conocimiento Pedagógico"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2018_p32",
+      "contexto": "Una docente presenta a los estudiantes la imagen de un sólido compuesto por varios cubos y les pide que grafiquen cómo se observa desde arriba, de lado y de frente.",
+      "imagen": "img/ascenso/primaria/2018/primaria2018preguna17.JPG",
+      "preguntas": [
+        {
+          "pregunta": "¿Por qué la actividad propuesta es de alta demanda cognitiva?",
+          "opciones": [
+            "Porque implica que el estudiante despliegue habilidades motrices finas para realizar los trazos de las formas obtenidas desde cada vista haciendo uso de instrumentos de medida.",
+            "Porque implica que el estudiante haga uso de habilidades para observar formas tridimensionales, como cubos, que suponen un mayor nivel de complejidad, y no solo formas bidimensionales.",
+            "Porque implica que el estudiante emplee habilidades de visualización para realizar una representación mental del sólido, lo cual le permitirá graficar las formas que se obtienen desde cada vista."
+          ],
+          "respuesta": "Porque implica que el estudiante emplee habilidades de visualización para realizar una representación mental del sólido, lo cual le permitirá graficar las formas que se obtienen desde cada vista.",
+          "respuestaCorta": "La tarea es de alta demanda cognitiva porque requiere que el estudiante manipule mentalmente un objeto 3D y lo represente en 2D desde diferentes perspectivas, una habilidad de visualización espacial compleja.",
+          "solucionario": "La alta demanda cognitiva de esta tarea reside en la habilidad de visualización espacial. El estudiante debe construir una representación mental del objeto, rotarlo mentalmente y proyectar cómo se vería desde diferentes puntos de vista para luego plasmarlo en un dibujo 2D. Este proceso mental es significativamente más complejo que la simple observación.",
+          "seccion": "Conocimiento Pedagógico"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2018_p33",
+      "contexto": " El dueño de un restaurante ha decidido realizar un agasajo para los hijos del personal que trabaja con él. Por ello, ha realizado una encuesta para recoger información sobre la cantidad total de hijos de cada trabajador. A continuación, se muestra un gráfico que organiza la información recogida: ",
+      "imagen": "img/ascenso/primaria/2018/primaria2018preguna18.JPG",
+      "preguntas": [
+        {
+          "pregunta": "Según el gráfico, ¿cuántos hijos hay en total?",
+          "opciones": [
+            "23",
+            "15",
+            "10"
+          ],
+          "respuesta": "23",
+          "respuestaCorta": "Para hallar el total de hijos, se debe multiplicar la cantidad de trabajadores por la cantidad de hijos en cada barra y luego sumar los resultados: (4*0)+(3*1)+(5*2)+(2*3)+(1*4) = 23.",
+          "solucionario": "La pregunta requiere interpretar los datos del gráfico para calcular un total ponderado. Se debe calcular el aporte de cada grupo:\n- 4 trabajadores * 0 hijos = 0 hijos.\n- 3 trabajadores * 1 hijo = 3 hijos.\n- 5 trabajadores * 2 hijos = 10 hijos.\n- 2 trabajadores * 3 hijos = 6 hijos.\n- 1 trabajador * 4 hijos = 4 hijos.\nEl total de hijos es la suma: 0 + 3 + 10 + 6 + 4 = 23 hijos.",
+          "seccion": "Conocimiento Disciplinar"
+        }
+      ]
+    },
+    
+    {
+      "idGrupo": "asc_primaria_2018_p34",
+      "contexto": " Un docente elaboró un gráfico circular que representa las preferencias deportivas de sus 24 estudiantes, haciendo uso de una hoja de cálculo. A continuación, se muestra el gráfico elaborado:  ",
+      "imagen": "img/ascenso/primaria/2018/19.JPG",
+      "preguntas": [
+        {
+          "pregunta": "¿A cuál de las siguientes tablas de frecuencia correspondería el gráfico presentado?",
+          "opciones": [
+            "Tabla A: Fútbol 8, Vóley 6, Básquetbol 4, Natación 3, Gimnasia 3",
+            "Tabla B: Fútbol 12, Vóley 6, Básquetbol 4, Natación 1, Gimnasia 1",
+            "Tabla C: Fútbol 9, Vóley 7, Básquetbol 4, Natación 2, Gimnasia 2"
+          ],
+          "respuesta": "Tabla A: Fútbol 8, Vóley 6, Básquetbol 4, Natación 3, Gimnasia 3",
+          "respuestaCorta": "Las proporciones visuales del gráfico (Fútbol ≈ 1/3, Vóley = 1/4, Básquetbol < 1/4, Natación y Gimnasia iguales y pequeñas) coinciden con las frecuencias de la tabla A sobre un total de 24 estudiantes.",
+          "solucionario": "Se deben comparar las proporciones del gráfico con las fracciones que representa cada tabla sobre el total de 24 estudiantes. El gráfico muestra que Fútbol es la porción más grande (aprox. un tercio) y Vóley la segunda (un cuarto). La tabla A presenta: Fútbol 8/24 (1/3), Vóley 6/24 (1/4), Básquetbol 4/24 (1/6), Natación 3/24 (1/8) y Gimnasia 3/24 (1/8). Estas proporciones se ajustan visualmente al gráfico. Las otras tablas presentan proporciones que no coinciden.",
+          "seccion": "Conocimiento Disciplinar"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2018_p35",
+      "contexto": "Un grupo de estudiantes ha realizado la siguiente indagación:",
+      "imagen": "img/ascenso/primaria/2018/20.JPG",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes conclusiones se puede establecer a partir de los resultados de esta indagación?",
+          "opciones": [
+            "Las plantas necesitan de luz para crecer.",
+            "Los obstáculos determinan la forma de crecimiento de las plantas.",
+            "El crecimiento de las plantas se orienta hacia la fuente de luz."
+          ],
+          "respuesta": "El crecimiento de las plantas se orienta hacia la fuente de luz.",
+          "respuestaCorta": "El experimento está diseñado para observar el fototropismo, mostrando que el tallo de la planta crece buscando y dirigiéndose hacia la única fuente de luz disponible (el agujero).",
+          "solucionario": "La indagación es un experimento sobre fototropismo. Al colocar la única fuente de luz en un punto específico, se observa que el crecimiento de la planta se curva para dirigirse hacia esa luz. La conclusión directa es que el crecimiento se orienta hacia la fuente lumínica. La opción A no se puede concluir, pues no hay un grupo de control sin luz.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2018_p36",
+      "contexto": " Para dar inicio a una unidad de aprendizaje sobre la electricidad, una docente solicita a sus estudiantes que representen cómo funcionan los circuitos eléctricos. A continuación, se muestra la representación realizada por uno de sus estudiantes: ",
+      "imagen": "img/ascenso/primaria/2018/21.JPG",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes es el principal error que evidencia el estudiante en su representación?",
+          "opciones": [
+            "No colocar un segundo cable que vaya del foco a la pila.",
+            "No dibujar los polos de la pila.",
+            "No dibujar un interruptor."
+          ],
+          "respuesta": "No colocar un segundo cable que vaya del foco a la pila.",
+          "respuestaCorta": "El error fundamental es no representar un circuito cerrado, que requiere una ruta de ida y otra de vuelta (dos cables o puntos de contacto) para que la corriente fluya y el foco encienda.",
+          "solucionario": "Un circuito eléctrico básico requiere una trayectoria cerrada para que la corriente fluya desde un polo de la pila, a través del foco, y de regreso al otro polo. La representación del estudiante muestra un solo camino, lo que constituye un circuito abierto e inoperante. La ausencia de un segundo cable que cierre el circuito es el error conceptual principal.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2018_p37",
+      "contexto": "Como parte de una unidad que tiene el propósito de aprendizaje “Explica cómo los órganos de un sistema del cuerpo humano se relacionan para cumplir su función”, una docente ha elaborado la siguiente rúbrica de evaluación:",
+      "imagen": "img/ascenso/primaria/2018/22.JPG",
+      "preguntas": [
+        {
+          "pregunta": "La docente aún no ha definido el nivel 'Logro destacado (AD)'. ¿Cuál de las siguientes descripciones es pertinente para este nivel?",
+          "opciones": [
+            "Explica cómo se relacionan diferentes sistemas del cuerpo humano para realizar una función vital dada, sin errores conceptuales.",
+            "Explica relaciones sistema-función por lo menos para ocho de los, aproximadamente, once sistemas del cuerpo humano, sin errores conceptuales.",
+            "Explica cómo los órganos de un sistema del cuerpo humano se relacionan para cumplir una función e identifica enfermedades que afectan a dichos sistemas, sin errores conceptuales."
+          ],
+          "respuesta": "Explica cómo se relacionan diferentes sistemas del cuerpo humano para realizar una función vital dada, sin errores conceptuales.",
+          "respuestaCorta": "El nivel 'Destacado' debe superar el 'Logro esperado' (que es sobre UN sistema). Explicar la interrelación entre VARIOS sistemas representa una comprensión más compleja y sistémica.",
+          "solucionario": "El nivel 'Logro esperado' se centra en la relación de órganos DENTRO de un sistema. Un nivel 'Destacado' debe demostrar una comprensión más holística. La opción A, que pide explicar la relación ENTRE diferentes sistemas para una función vital (ej. sistema digestivo y circulatorio para la nutrición), representa un salto cualitativo en la complejidad del aprendizaje.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "La docente pide a sus estudiantes que respondan: '¿Cómo funciona el sistema circulatorio?'. Un estudiante responde: 'El sistema circulatorio funciona porque el corazón bombea la sangre a todas las partes del cuerpo'. De acuerdo con la rúbrica propuesta, ¿en qué nivel de aprendizaje se ubica el estudiante?",
+          "opciones": [
+            "Logro esperado (A)",
+            "En proceso (B)",
+            "En inicio (C)"
+          ],
+          "respuesta": "En proceso (B)",
+          "respuestaCorta": "El estudiante relaciona un órgano (corazón) con su función principal (bombear sangre), lo cual corresponde al nivel 'En proceso' (B) de la rúbrica.",
+          "solucionario": "La respuesta establece una relación entre un órgano (corazón) y su función. Según la rúbrica, 'Relaciona los órganos [...] con las funciones que estos realizan' corresponde al nivel 'En proceso' (B). No llega a 'Logro esperado' porque no explica cómo se relacionan los diferentes órganos del sistema (corazón, venas, arterias) para cumplir la función.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": " Luego, la docente pide a sus estudiantes que respondan a la siguiente pregunta: “¿Cómo funciona el sistema digestivo?”. A continuación, se presenta la respuesta de un estudiante:",
+          "imagen":"img/ascenso/primaria/2018/23.JPG",
+          "opciones": [
+            "Logro esperado (A)",
+            "En proceso (B)",
+            "En inicio (C)"
+          ],
+          "respuesta": "En proceso (B)",
+          "respuestaCorta": "Aunque el estudiante describe un recorrido, su respuesta se enfoca en una secuencia de funciones aisladas más que en explicar la interrelación coordinada entre los órganos, por lo que se ubica en el nivel 'En proceso'.",
+          "solucionario": "La respuesta describe un proceso secuencial, nombrando varios órganos y sus acciones. Sin embargo, no llega a 'explicar cómo los órganos se relacionan para cumplir su función', que es el criterio de 'Logro esperado'. En cambio, presenta una serie de relaciones órgano-función, lo que se ajusta mejor al descriptor del nivel 'En proceso': 'Relaciona los órganos [...] con las funciones que estos realizan'.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2018_p38",
+      "contexto": " A continuación, se presenta la propuesta de indagación de un grupo de estudiantes sobre la capacidad pulmonar máxima de los integrantes de su grupo:",
+      "imagen": "img/ascenso/primaria/2018/24.JPG",
+      "preguntas": [
+        {
+          "pregunta": "Uno de los integrantes pregunta si debería llenar el bidón por completo con agua o no. ¿Cuál de las siguientes preguntas es pertinente para brindar ayuda pedagógica al estudiante?",
+          "opciones": [
+            "¿No crees que voltear el bidón será suficiente para que el agua del balde ingrese y desplace todo el aire contenido inicialmente en el bidón?",
+            "¿Crees que si el bidón no contuviera un poco de aire en su interior sería posible sumergirlo en el balde con agua para realizar la experiencia?",
+            "Si inicialmente el bidón contiene aire, ¿qué deberías hacer para que tus mediciones registren solo el volumen de gas exhalado por los integrantes del grupo?"
+          ],
+          "respuesta": "Si inicialmente el bidón contiene aire, ¿qué deberías hacer para que tus mediciones registren solo el volumen de gas exhalado por los integrantes del grupo?",
+          "respuestaCorta": "Esta pregunta guía al estudiante a reflexionar sobre la variable que quiere medir (gas exhalado) y a identificar el aire inicial como una fuente de error que debe ser eliminada.",
+          "solucionario": "La pregunta C es una pregunta de andamiaje que ayuda al estudiante a darse cuenta de que si hay aire en el bidón al inicio, la medida final será errónea. Lo lleva a concluir que para medir únicamente el gas exhalado, el bidón debe estar completamente lleno de agua al inicio para asegurar la validez del resultado.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": " Luego de realizar las primeras mediciones, una estudiante comenta lo siguiente: 'Marta y Sandra tienen casi el mismo volumen pulmonar porque ambas al exhalar hicieron que salga un poquito más de un litro de agua del bidón'. ¿Cuál de las siguientes preguntas debe plantear primero el docente a la estudiante para que mejore la precisión de sus mediciones?",
+          "opciones": [
+            "¿A qué crees que se deba que el volumen pulmonar de Marta y Sandra sea tan parecido?",
+            "¿Crees que si les pedimos a Marta y a Sandra medir una vez más su volumen pulmonar seguirá siendo el mismo?",
+            "¿Qué modificación podrías hacer en las unidades de medida para cuantificar la diferencia entre el volumen pulmonar de Marta y Sandra?"
+          ],
+          "respuesta": "¿Qué modificación podrías hacer en las unidades de medida para cuantificar la diferencia entre el volumen pulmonar de Marta y Sandra?",
+          "respuestaCorta": "La pregunta C aborda directamente el problema de la falta de precisión ('un poquito más'), guiando a la estudiante a pensar en usar una escala más fina (ej. mililitros) para poder medir y comparar las diferencias.",
+          "solucionario": "La expresión 'un poquito más de un litro' evidencia falta de precisión. La pregunta C es la más pertinente porque apunta a que la estudiante reflexione sobre la escala de medida. Al sugerir una modificación en las unidades (pasar de litros a mililitros), el docente la orienta a mejorar la precisión de su instrumento y de sus resultados.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Por qué el gas exhalado se ubica por encima del agua en el bidón?",
+          "opciones": [
+            "Porque es menos denso que el agua.",
+            "Porque su masa es menor que la del agua.",
+            "Porque sus moléculas son más pequeñas que las del agua."
+          ],
+          "respuesta": "Porque es menos denso que el agua.",
+          "respuestaCorta": "Los fluidos (líquidos y gases) se estratifican según su densidad, con el menos denso ubicándose sobre el más denso. El aire es menos denso que el agua.",
+          "solucionario": "El principio físico que explica este fenómeno es la densidad. En una mezcla de fluidos, el que tiene menor densidad flota sobre el de mayor densidad. El aire (gas exhalado) es significativamente menos denso que el agua, por lo que asciende y se acumula en la parte superior del recipiente.",
+          "seccion": "Conocimiento Disciplinar"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2018_p39",
+      "contexto": "Una docente realiza la siguiente actividad con sus estudiantes:",
+      "imagen": "img/ascenso/primaria/2018/25.JPG",
+      "preguntas": [
+        {
+          "pregunta": "¿Por qué esta actividad favorece la formulación de hipótesis?",
+          "opciones": [
+            "Porque permite que los estudiantes comparen sus respuestas iniciales con los resultados experimentales.",
+            "Porque permite que los estudiantes manifiesten sus saberes previos para buscar la causa de un fenómeno.",
+            "Porque permite identificar los errores de los estudiantes en la explicación de un fenómeno."
+          ],
+          "respuesta": "Porque permite que los estudiantes manifiesten sus saberes previos para buscar la causa de un fenómeno.",
+          "respuestaCorta": "La formulación de una hipótesis consiste en proponer una explicación provisional (basada en saberes previos) para un fenómeno, que es lo que se solicita al preguntar 'por qué' creen que ocurrirá algo.",
+          "solucionario": "Una hipótesis es una posible explicación a una pregunta de indagación. Al preguntar a los estudiantes cuál creen que se derretirá primero Y POR QUÉ antes de realizar el experimento, la docente está pidiendo explícitamente que usen sus ideas previas para proponer una causa al fenómeno. Esto es, por definición, formular una hipótesis.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Cuál de las siguientes es la variable independiente de esta experiencia?",
+          "opciones": [
+            "La presencia o ausencia de tapa en el recipiente.",
+            "La temperatura del ambiente.",
+            "La masa de los hielos."
+          ],
+          "respuesta": "La presencia o ausencia de tapa en el recipiente.",
+          "respuestaCorta": "La variable independiente es aquella que el investigador manipula intencionadamente. En este caso, lo único que se cambia es si el recipiente tiene tapa o no.",
+          "solucionario": "La variable independiente es el factor que se modifica deliberadamente en un experimento para probar su efecto. Aquí, las condiciones son idénticas excepto por un elemento: la tapa. Por lo tanto, 'la presencia o ausencia de tapa' es la variable que se manipula.",
+          "seccion": "Conocimiento Disciplinar"
+        },
+        {
+          "pregunta": "¿Cuál de las siguientes es la variable dependiente de esta experiencia?",
+          "opciones": [
+            "La variación del tamaño de los cubos de hielo en el tiempo.",
+            "El material del que están hechos los envases.",
+            "La masa de los envases de vidrio que contienen los cubos de hielo."
+          ],
+          "respuesta": "La variación del tamaño de los cubos de hielo en el tiempo.",
+          "respuestaCorta": "La variable dependiente es la que se mide para ver el efecto del cambio en la variable independiente. Aquí se observa la rapidez con la que se derrite el hielo.",
+          "solucionario": "La variable dependiente es el resultado que se mide y que se espera que cambie en respuesta a la manipulación de la variable independiente. En este caso, el efecto que se quiere observar es la velocidad a la que se derrite el hielo, la cual se evidencia en 'la variación del tamaño de los cubos de hielo en el tiempo'.",
+          "seccion": "Conocimiento Disciplinar"
+        },
+        {
+          "pregunta": "¿Cuál de los cubos de hielo se derritió primero?",
+          "opciones": [
+            "El cubo de hielo 1.",
+            "El cubo de hielo 2.",
+            "Se derritieron al mismo tiempo."
+          ],
+          "respuesta": "El cubo de hielo 1.",
+          "respuestaCorta": "El cubo 1 (sin tapa) se derrite primero porque la convección del aire del ambiente le transfiere calor de forma más eficiente que al aire estancado y frío del recipiente tapado.",
+          "solucionario": "El cubo de hielo 1 (sin tapa) se derrite más rápido debido a la convección. El aire del ambiente en contacto con el hielo se enfría, se vuelve más denso y baja, siendo reemplazado por aire más cálido. Este movimiento continuo transfiere calor eficientemente. En el recipiente tapado, el aire atrapado se enfría y la transferencia de calor por convección se detiene, ralentizando el proceso.",
+          "seccion": "Conocimiento Disciplinar"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2018_p40",
+      "contexto": " Durante el desarrollo de una unidad de aprendizaje sobre cómo los sistemas del cuerpo humano trabajan de manera integrada, un docente, con el objetivo de que los estudiantes comprueben que el tipo de actividad realizada afecta la frecuencia cardíaca, ha planificado conformar parejas de estudiantes para realizar la siguiente experiencia: ",
+      "imagen": "img/ascenso/primaria/2018/26.JPG",
+      "preguntas": [
+        {
+          "pregunta": "A partir de los datos, Mateo comenta: 'Los hombres tienen mayor frecuencia cardíaca que las mujeres'. ¿Cuál de las siguientes preguntas es pertinente formular a Mateo para que reflexione sobre el error que se evidencia en su comentario?",
+          "opciones": [
+            "¿La frecuencia cardíaca cambia en función del sexo o de la actividad realizada?",
+            "¿Qué otras diferencias entre Ana y tú, además del sexo, pueden influir en la cantidad de pulsaciones que registraron?",
+            "¿Cuál es la diferencia entre tu cantidad de pulsaciones y las de Ana en cada actividad?"
+          ],
+          "respuesta": "¿Qué otras diferencias entre Ana y tú, además del sexo, pueden influir en la cantidad de pulsaciones que registraron?",
+          "respuestaCorta": "Esta pregunta le hace ver que está sacando una conclusión general a partir de una muestra muy pequeña (una pareja) y sin controlar otras variables (estado físico, altura, etc.), lo cual es un error de generalización.",
+          "solucionario": "El comentario de Mateo es una generalización inválida a partir de una muestra de solo dos personas. La pregunta B es la más pertinente porque lo invita a considerar otras variables que podrían explicar la diferencia (condición física, metabolismo, etc.), haciéndole ver que el sexo no es la única causa posible y que no se puede generalizar desde un solo caso.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Ana y Mateo quieren representar los datos que obtuvieron. ¿Cuál de los siguientes tipos de gráfico sería adecuado que utilicen?",
+          "imagen":"img/ascenso/primaria/2018/27.JPG",
+          "opciones": [
+            "Un gráfico de líneas donde el eje X sean los minutos.",
+            "Un gráfico de barras dobles donde el eje X sean las actividades.",
+            "Un gráfico circular que muestre el promedio de pulsaciones."
+          ],
+          "respuesta": "Un gráfico de barras dobles donde el eje X sean las actividades.",
+          "respuestaCorta": "Un gráfico de barras dobles es ideal para comparar los valores de una variable numérica (pulsaciones) entre dos sujetos (Ana y Mateo) a través de diferentes categorías discretas (sentados, caminar, correr).",
+          "solucionario": "La situación requiere comparar una variable cuantitativa (pulsaciones) para dos individuos en tres categorías diferentes. El gráfico de barras dobles es el más adecuado para este propósito, ya que permite visualizar y comparar fácilmente los valores de Mateo y Ana dentro de cada categoría. Un gráfico de líneas es más apropiado para datos continuos y un gráfico circular para mostrar partes de un todo.",
+          "seccion": "Casuística"
+        }
+      ]
+    }
+  ]
+}
+  

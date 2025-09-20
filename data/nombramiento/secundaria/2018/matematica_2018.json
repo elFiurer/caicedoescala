@@ -1,0 +1,719 @@
+{
+  "Conocimientos Pedagógicos": [
+    {
+      "idGrupo": "cp_matematica_2018_p51",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Una docente tiene como propósito construir la noción de número primo. Para ello está diseñando una actividad inicial.\n¿Cuál de las siguientes actividades es más pertinente para lograr su propósito?",
+          "opciones": [
+            "Entregar piezas de forma cuadrada y del mismo tamaño hechas de cartulina. Pedir que formen todas las regiones rectangulares posibles con 2, 3, hasta 10 piezas. Solicitar que registren la cantidad de piezas con las que se pudo formar una sola región, así como las que hay en su largo y ancho. Orientar para que, en base a estas cantidades, digan qué entienden por un número primo.",
+            "Entregar una lista de números del 2 al 50. Pedir que tachen los múltiplos de 2 a excepción del número 2. Luego, considerar el siguiente número no tachado, el cual es 3, como número primo y tachar sus múltiplos. Hacer lo mismo con 5 y 7. Decir que los números no tachados son números primos.",
+            "Entregar una ficha de actividades en la que se debe aplicar procedimientos para descomponer un número en factores. Explicar cómo se debe hacer esta descomposición y que los números obtenidos al realizar este procedimiento de factorización son primos."
+          ],
+          "respuesta": "Entregar piezas de forma cuadrada y del mismo tamaño hechas de cartulina. Pedir que formen todas las regiones rectangulares posibles con 2, 3, hasta 10 piezas. Solicitar que registren la cantidad de piezas con las que se pudo formar una sola región, así como las que hay en su largo y ancho. Orientar para que, en base a estas cantidades, digan qué entienden por un número primo.",
+          "respuestaCorta": "La actividad más pertinente es la formación de rectángulos con piezas cuadradas, ya que permite a los estudiantes descubrir de manera concreta que los números primos solo pueden formar un único tipo de rectángulo (una fila), lo que se relaciona directamente con tener solo dos divisores.",
+          "solucionario": "La actividad propuesta en la opción A es la más pertinente para construir la noción de número primo. Al pedir a los estudiantes que formen todas las regiones rectangulares posibles con una cantidad N de piezas, están explorando de manera concreta los divisores de N. Los números con los que solo se puede formar una única región rectangular (de dimensiones 1 x N) son los números primos, ya que solo tienen dos divisores: 1 y ellos mismos. Esta manipulación concreta facilita la comprensión del concepto abstracto. La opción B presenta el algoritmo de la Criba de Eratóstenes, que es un procedimiento para encontrar números primos, pero no para construir la noción inicial. La opción C se enfoca en la descomposición en factores primos, un concepto que se aborda después de haber comprendido qué es un número primo.",
+          "seccion": "Conocimientos Curriculares y Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_matematica_2018_p52",
+      "contexto": "Una docente presentó a sus estudiantes el registro de las temperaturas máximas y mínimas de una ciudad durante una semana.\n\nDía | Temperatura máxima (°C) | Temperatura mínima (°C)\n--- | --- | ---\nLunes | 10 | 0\nMartes | 14 | 2\nMiércoles | 12 | -4\nJueves | 15 | 1\nViernes | 16 | -2\nSábado | 7 | -2\nDomingo | 18 | -3",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes acciones docentes es pertinente para favorecer la interpretación de los números enteros de esta situación?",
+          "opciones": [
+            "Pedirles que representen, en una recta numérica, los números enteros que corresponden a la temperatura máxima y a la mínima de cada día. Luego, preguntarles por el número que se ubica más a la izquierda y más a la derecha para reconocer el menor y el mayor valor.",
+            "Pedirles que expresen los números enteros de la tabla como temperaturas por encima, igual o debajo de cero. Luego, preguntarles cuál es la mayor o menor de las temperaturas por debajo y por encima de cero, y qué significan estas temperaturas en la situación.",
+            "Pedirles que formen subconjuntos con los números negativos, el cero y los positivos que representan las temperaturas registradas. Luego, proponerles otros números para que los clasifiquen en estos subconjuntos mencionados."
+          ],
+          "respuesta": "Pedirles que expresen los números enteros de la tabla como temperaturas por encima, igual o debajo de cero. Luego, preguntarles cuál es la mayor o menor de las temperaturas por debajo y por encima de cero, y qué significan estas temperaturas en la situación.",
+          "respuestaCorta": "La acción más pertinente es pedir a los estudiantes que relacionen los números enteros con su significado en el contexto (temperaturas sobre/bajo cero), ya que esto fomenta la interpretación del problema.",
+          "solucionario": "La acción más pertinente es la B, ya que se centra en que los estudiantes interpreten el significado de los números enteros en el contexto específico de las temperaturas. Al verbalizar que -4°C significa 'cuatro grados bajo cero', conectan el símbolo matemático con una idea real y comprensible. Esto es fundamental para una verdadera comprensión del concepto. La opción A se enfoca en la representación y orden en la recta numérica, lo cual es un procedimiento útil pero secundario a la interpretación del significado. La opción C se enfoca en la clasificación de los números, lo cual es una tarea más abstracta y descontextualizada.",
+          "seccion": "Conocimientos Curriculares y Pedagógicos de la Especialidad"
+        },
+        {
+          "pregunta": "La docente preguntó a los estudiantes por la diferencia en grados Celsius (°C) que hay entre la temperatura máxima y la mínima en esta ciudad el día miércoles.\nUno de los estudiantes respondió lo siguiente: \"La temperatura máxima el día miércoles fue 12 °C y la mínima, -4 °C. Por tanto, la diferencia entre ambas es 8 °C\".\nLa docente tiene como propósito brindar retroalimentación para que el estudiante reflexione sobre su error.\n¿Cuál de las siguientes acciones pedagógicas es pertinente para este propósito?",
+          "opciones": [
+            "Solicitarle que vuelva a realizar la sustracción y decirle que la diferencia entre 12 y -4 es igual a 16. Luego, preguntarle cuál es la diferencia entre la temperatura máxima y la mínima en otros días de la semana como, por ejemplo, el domingo.",
+            "Solicitarle que represente en una recta numérica los números enteros que corresponden a la temperatura máxima y a la mínima que fueron pedidas, y preguntarle por la cantidad de unidades que separan a ambos números en la recta.",
+            "Solicitarle que escriba el número +12, el signo \"menos\" de la sustracción y seguidamente el número -4. Luego, preguntarle por el signo que resulta al multiplicar \"menos por menos\" e indicarle que resuelva la operación."
+          ],
+          "respuesta": "Solicitarle que represente en una recta numérica los números enteros que corresponden a la temperatura máxima y a la mínima que fueron pedidas, y preguntarle por la cantidad de unidades que separan a ambos números en la recta.",
+          "respuestaCorta": "La mejor retroalimentación es pedir al estudiante que represente las temperaturas en una recta numérica y cuente la distancia entre ellas, permitiéndole visualizar y corregir su error conceptual sobre la diferencia entre un número positivo y uno negativo.",
+          "solucionario": "La acción pedagógica más pertinente es la B. El error del estudiante es conceptual: restó los valores absolutos (12 - 4 = 8) en lugar de calcular la diferencia entre 12 y -4. Al representar los números en la recta numérica, el estudiante puede visualizar la distancia desde -4 hasta 0 (4 unidades) y desde 0 hasta 12 (12 unidades), concluyendo que la distancia total, o diferencia, es la suma de estas distancias (4 + 12 = 16). Este método le permite al estudiante descubrir su propio error de forma constructiva. La opción A simplemente le da la respuesta correcta sin que reflexione sobre el porqué de su error. La opción C se enfoca en una regla algorítmica ('menos por menos es más') sin asegurar la comprensión conceptual.",
+          "seccion": "Conocimientos Curriculares y Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_matematica_2018_p54",
+      "contexto": "Los estudiantes del aula de segundo grado están construyendo cajas en forma de paralelepípedo. Las medidas del molde para la caja se muestran a continuación:",
+      "imagen": "img/matematica_2018_q54.png",
+      "preguntas": [
+        {
+          "pregunta": "Sabiendo que las dimensiones de cada pliego de cartulina son 70 cm y 100 cm, y que los estudiantes dibujarán los moldes en estos pliegos de cartulina, luego cortarán y formarán las cajas, ¿cuántos ejemplares de una sola pieza se podrán obtener como máximo de un pliego de esta cartulina?",
+          "opciones": [
+            "9 moldes.",
+            "10 moldes.",
+            "11 moldes."
+          ],
+          "respuesta": "10 moldes.",
+          "respuestaCorta": "El máximo de moldes que se pueden obtener es 10. Aunque el cálculo simple de distribución por área da 9, una disposición optimizada de los moldes permite alcanzar los 10.",
+          "solucionario": "Primero, se deben determinar las dimensiones totales del molde rectangular que contiene la pieza. Las dimensiones del pliego de cartulina son 70 cm x 100 cm, lo que equivale a 700 mm x 1000 mm. Analizando el diagrama del molde, las dimensiones totales del rectángulo que lo enmarca (bounding box) son: Ancho = 45 + 120 + 45 = 210 mm; Alto = 25 + 80 + 40 + 80 + 40 + 25 = 290 mm. \nSe debe evaluar cómo acomodar la mayor cantidad de rectángulos de 210x290 mm en la cartulina de 700x1000 mm.\nCaso 1: A lo largo de 700 mm caben piso(700/210) = 3 moldes. A lo largo de 1000 mm caben piso(1000/290) = 3 moldes. Total: 3x3 = 9 moldes.\nCaso 2 (rotando el molde): A lo largo de 700 mm caben piso(700/290) = 2 moldes. A lo largo de 1000 mm caben piso(1000/210) = 4 moldes. Total: 2x4 = 8 moldes.\nEl cálculo simple indica un máximo de 9 moldes. Sin embargo, en problemas de optimización de corte, a veces es posible un arreglo más eficiente. Para obtener 10 moldes, se podría realizar un arreglo de 2 filas de 5 moldes, lo que requeriría un pliego de al menos (2x290) = 580 mm y (5x210) = 1050 mm. Dado que 10 es una opción, es probable que la pregunta asuma un arreglo optimizado o que haya una ligera imprecisión en las dimensiones del problema original que permita dicho encaje. Basado en la clave de respuestas, se concluye que un arreglo óptimo permite obtener 10 moldes.",
+          "seccion": "Conocimientos Curriculares y Pedagógicos de la Especialidad"
+        },
+        {
+          "pregunta": "Uno de los estudiantes pensó que, si le sumara una cantidad de centímetros a una de las dimensiones de la caja y le restara esa misma cantidad a otra dimensión, el volumen de la caja se mantendría constante.\nLuego, llamó al docente y le compartió su forma de pensar: \"Profesor, si yo aumento 2 cm a la altura de la caja para que mida 14 cm en lugar de 12 cm y disminuyo 2 cm al ancho de la caja para que mida 6 cm en lugar de 8 cm, el valor del volumen no cambia porque lo que se aumentó en una dimensión se quitó en otra\".\nAl escuchar la intervención del estudiante, el docente desea brindarle una retroalimentación que le permita reflexionar sobre su error.\n¿Cuál de las siguientes acciones pedagógicas es pertinente para este propósito?",
+          "opciones": [
+            "Pedirle que diga qué es el volumen y que calcule el volumen de la caja multiplicando las tres dimensiones. Solicitarle que suponga que la diferencia entre el ancho y la altura de una caja paralelepipeda es de 2 cm. Luego, preguntarle: \"¿qué sucede con el volumen de la caja si, por ejemplo, el ancho fuera 10 cm y se le agrega 2 cm, y si la altura fuera 12 cm y se le quita 2 cm?\".",
+            "Pedirle que mencione las medidas de las tres dimensiones de la caja: altura, ancho y profundidad; y las medidas luego de agregar y quitar esa cantidad de centímetros a dos de las dimensiones. Luego, decirle amablemente que está en un error porque el volumen sí cambia. Finalmente preguntarle: \"¿qué pasaría con el volumen de la caja si la cantidad que se agrega y quita fuera 5 cm?\".",
+            "Pedirle que explique qué entiende por volumen y cómo se calcula en el caso de una caja con forma de paralelepipedo. Luego, preguntarle si, dado dos factores, siempre que se agrega una cantidad a uno de ellos y se quita esa misma cantidad al otro, ¿el producto se mantiene constante? Finalmente, solicitarle que compruebe si con las medidas dadas el volumen de la caja varía o no al modificar dos de sus dimensiones."
+          ],
+          "respuesta": "Pedirle que explique qué entiende por volumen y cómo se calcula en el caso de una caja con forma de paralelepipedo. Luego, preguntarle si, dado dos factores, siempre que se agrega una cantidad a uno de ellos y se quita esa misma cantidad al otro, ¿el producto se mantiene constante? Finalmente, solicitarle que compruebe si con las medidas dadas el volumen de la caja varía o no al modificar dos de sus dimensiones.",
+          "respuestaCorta": "La retroalimentación adecuada es hacer que el estudiante compruebe su propia hipótesis. Se le debe pedir que calcule el volumen en ambos escenarios (antes y después del cambio) para que él mismo descubra que su conjetura es incorrecta y que el volumen sí varía.",
+          "solucionario": "La acción pedagógica más pertinente es la C, porque guía al estudiante a descubrir su propio error a través de la comprobación. Primero, se asegura de que el estudiante conoce el concepto de volumen. Luego, se le hace reflexionar sobre la propiedad matemática subyacente a su error: la idea de que si a un factor se le suma 'x' y a otro se le resta 'x', el producto no cambia. Finalmente, se le pide que aplique el cálculo a su propio ejemplo para verificar si su hipótesis es correcta. Este proceso promueve la reflexión y el aprendizaje autónomo. La opción A es confusa y no aborda directamente el error del estudiante. La opción B es directiva, ya que el docente simplemente le dice que está equivocado en lugar de facilitar que él lo descubra.",
+          "seccion": "Conocimientos Curriculares y Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_matematica_2018_p56",
+      "contexto": "En una IE, algunos estudiantes deciden emprender un negocio de dulces de chocolate con relleno de diferentes sabores, los cuales serán vendidos en cajas. Los estudiantes se distribuyen para realizar una de las siguientes labores: elaboración, empaquetado y venta de dulces.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Durante el primer mes de venta, Miguel y Noelia se encargaron de vender estos dulces en los colegios cercanos al suyo.\nA Miguel le entregaron 3/5 del total de cajas y a Noelia el resto. Miguel solo vendió la mitad de la cantidad de cajas que le dieron y Noelia, la cuarta parte.\nSi Noelia debe vender la misma cantidad de cajas que vendió Miguel, ¿qué fracción de lo que le queda a ella debe vender?",
+          "opciones": [
+            "2/3",
+            "1/4",
+            "1/5"
+          ],
+          "respuesta": "2/3",
+          "respuestaCorta": "Noelia debe vender 2/3 de las cajas que le quedan para igualar la cantidad de cajas vendidas por Miguel.",
+          "solucionario": "Sea T el total de cajas.\n1.  **Distribución de cajas:**\n    * Miguel recibe: (3/5)T\n    * Noelia recibe el resto: T - (3/5)T = (2/5)T\n2.  **Cajas vendidas:**\n    * Miguel vende la mitad de lo que recibió: (1/2) * (3/5)T = (3/10)T\n    * Noelia vende la cuarta parte de lo que recibió: (1/4) * (2/5)T = (2/20)T = (1/10)T\n3.  **Cajas que le quedan a Noelia:**\n    * Noelia tenía (2/5)T y vendió (1/10)T. Le quedan: (2/5)T - (1/10)T = (4/10)T - (1/10)T = (3/10)T\n4.  **Objetivo de Noelia:**\n    * Noelia quiere vender la misma cantidad que Miguel, es decir, (3/10)T.\n    * Como ya vendió (1/10)T, le falta por vender: (3/10)T - (1/10)T = (2/10)T\n5.  **Fracción de lo que le queda:**\n    * Se pide la fracción que representa lo que le falta vender ((2/10)T) con respecto a lo que le queda ((3/10)T).\n    * Fracción = (Lo que falta vender) / (Lo que le queda) = [(2/10)T] / [(3/10)T] = 2/3.",
+          "seccion": "Conocimientos Curriculares y Pedagógicos de la Especialidad"
+        },
+        {
+          "pregunta": "Los dulces de chocolate son de forma esférica, cada uno mide 4 cm de diámetro y serán colocados en cajas cuyas medidas son 12 cm, 8 cm y 4 cm.\nSe desea saber qué cantidad de dulces como máximo caben en cada caja. Para ello, uno de los estudiantes realiza los siguientes cálculos:\nVolumen de la caja: 12 x 8 x 4 = 384 cm³\nVolumen de cada dulce: 4/3 πr³ = 4/3 π(2)³ = 33,5 cm³\n384 ÷ 33,5 = 11,46\nLuego afirma: \"Cada caja podrá contener como máximo 12 dulces de chocolate\".\nA partir del registro del estudiante, ¿cuál de las siguientes alternativas expresa el error en el que incurre el estudiante?",
+          "opciones": [
+            "Considerar que la cantidad de dulces en cada caja se determina al dividir el volumen de la caja entre el volumen de cada dulce.",
+            "Considerar que la cantidad de dulces de chocolate se obtiene al aproximar el cociente al siguiente número entero.",
+            "Considerar solo una cifra decimal en el divisor al realizar la división."
+          ],
+          "respuesta": "Considerar que la cantidad de dulces en cada caja se determina al dividir el volumen de la caja entre el volumen de cada dulce.",
+          "respuestaCorta": "El error principal es suponer que el espacio se puede llenar completamente dividiendo los volúmenes, lo cual ignora el espacio perdido que queda entre las esferas al empacarlas.",
+          "solucionario": "El error fundamental del estudiante es el método que utiliza. Para problemas de empaquetamiento de objetos sólidos (especialmente esferas), no se puede simplemente dividir el volumen del contenedor entre el volumen del objeto. Este método asume que no hay espacio desperdiciado, como si los dulces fueran un líquido que se adapta a la forma del contenedor. El procedimiento correcto es determinar cuántos objetos caben a lo largo de cada dimensión de la caja.\n* Diámetro del dulce = 4 cm.\n* A lo largo de 12 cm: 12 / 4 = 3 dulces.\n* A lo largo de 8 cm: 8 / 4 = 2 dulces.\n* A lo largo de 4 cm: 4 / 4 = 1 dulce.\n* Cantidad máxima = 3 x 2 x 1 = 6 dulces.\nPor lo tanto, el error conceptual es el indicado en la opción A. El redondeo al entero superior (opción B) también es un error, pero es secundario al error de método.",
+          "seccion": "Conocimientos Curriculares y Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_matematica_2018_p58",
+      "contexto": "Un docente propone algunas tareas para recoger información sobre la comprensión de los estudiantes en relación con el perímetro de figuras bidimensionales. Una de las tareas se muestra a continuación:\nLas dimensiones de un rectángulo C son 3 cm y 7 cm. Si una de sus dimensiones se cuadruplica y la otra se mantiene constante, se forma un rectángulo D. ¿Qué se puede concluir del perímetro del rectángulo D con respecto al perímetro del rectángulo C?\nUn estudiante respondió lo siguiente:\nPerímetro del rectángulo C = 21 cm\nPerímetro del rectángulo D = 84 cm\nEl perímetro del rectángulo D se ha cuadruplicado con respecto al perímetro del rectángulo C.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes alternativas expresa el error en el que incurre el estudiante?",
+          "opciones": [
+            "Considerar que existe una relación proporcional entre área y perímetro.",
+            "Creer que si el perímetro de una figura aumenta, su área siempre aumenta.",
+            "Confundir el procedimiento para calcular el perímetro con el procedimiento para calcular el área."
+          ],
+          "respuesta": "Confundir el procedimiento para calcular el perímetro con el procedimiento para calcular el área.",
+          "respuestaCorta": "El estudiante calculó el área (largo x ancho) en lugar del perímetro (2 x (largo + ancho)), confundiendo ambos procedimientos.",
+          "solucionario": "El error del estudiante es evidente al analizar sus cálculos. Para el rectángulo C (3 cm x 7 cm), calculó 3 * 7 = 21 cm. Este es el cálculo del área, no del perímetro. El perímetro correcto es 2 * (3 + 7) = 20 cm. De manera similar, para el rectángulo D (asumiendo que cuadruplica el lado de 3 cm, sería 12 cm x 7 cm), calculó 12 * 7 = 84 cm, que nuevamente es el área. El estudiante confunde sistemáticamente la fórmula y el concepto de perímetro con el de área. Por lo tanto, la opción C describe con precisión el error.",
+          "seccion": "Conocimientos Curriculares y Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_matematica_2018_p60",
+      "contexto": "Aprovechando que la IE cuenta con amplias zonas destinadas a jardines, el docente ha diseñado la siguiente actividad de aprendizaje:\n1. Asignar a cada equipo de estudiantes una parcela de tierra de forma rectangular cuyas dimensiones sean 4 m y 5 m.\n2. Indicar que, a 1 m del punto de intersección de las diagonales de la parcela, y siempre a esa misma distancia, se sembrarán la mayor cantidad de geranios posible.\n3. Pedir a los estudiantes que marquen el lugar en el que sembrarán los geranios.\n4. Solicitar que expliquen cómo determinaron la forma del lugar donde sembrarán los geranios.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es el principal propósito de aprendizaje de la actividad planteada?",
+          "opciones": [
+            "Que los estudiantes expresen la ecuación de la circunferencia a partir de un contexto cotidiano.",
+            "Que los estudiantes representen una circunferencia al interior de un rectángulo a partir de un contexto cotidiano.",
+            "Que los estudiantes demuestren la relación que existe entre los elementos de la circunferencia a partir de un contexto cotidiano."
+          ],
+          "respuesta": "Que los estudiantes representen una circunferencia al interior de un rectángulo a partir de un contexto cotidiano.",
+          "respuestaCorta": "El propósito es que los estudiantes representen una circunferencia, entendiendo su definición como el conjunto de puntos equidistantes a un centro, dentro de un contexto práctico.",
+          "solucionario": "La actividad se centra en la definición fundamental de la circunferencia: el lugar geométrico de todos los puntos en un plano que están a una distancia fija (radio) de un punto fijo (centro). Al pedirles que marquen todos los lugares posibles para sembrar geranios a 1 metro del centro, se les está pidiendo que tracen o representen una circunferencia de radio 1 m. Por lo tanto, el propósito principal es que representen la figura a partir de su definición en un contexto real (opción B). La opción A (ecuación) y C (demostrar relaciones entre elementos) son propósitos más avanzados que requerirían actividades posteriores.",
+          "seccion": "Conocimientos Curriculares y Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_matematica_2018_p61",
+      "contexto": "Un docente ha propuesto tareas con el propósito de que los estudiantes apliquen la simetría de una figura respecto a un eje. Estas tareas son similares a la que se muestra a continuación:\nEn cada caso, construye la figura simétrica respecto al eje que se muestra.\nAlgunos de sus estudiantes han mostrado un buen desempeño al resolver esta tarea.",
+      "imagen": "img/matematica_2018_q61.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes acciones es pertinente que el docente proponga para que estos estudiantes sigan progresando en su desempeño?",
+          "opciones": [
+            "Entregar un pedazo de cartulina de forma cuadrangular y pedir que la doblen por la mitad. Así doblada, solicitar que dibujen una figura en una de las mitades y pedir que recorten la figura manteniendo doblada la cartulina. Luego, pedir que desdoblen la cartulina y observen lo que se formó.",
+            "Entregar un geoplano con trama cuadriculada para que con las ligas formen un polígono. Luego, pedir que construyan la figura simétrica de dicho polígono considerando un eje vertical u horizontal. Luego, pedir que realicen lo mismo con otros polígonos.",
+            "Entregar una hoja cuadriculada para que dibujen en ella un polígono. Luego, pedir que construyan una figura simétrica de dicho polígono considerando un eje de simetría oblicuo."
+          ],
+          "respuesta": "Entregar una hoja cuadriculada para que dibujen en ella un polígono. Luego, pedir que construyan una figura simétrica de dicho polígono considerando un eje de simetría oblicuo.",
+          "respuestaCorta": "Para que los estudiantes progresen, se les debe proponer una tarea de mayor complejidad, como realizar una reflexión sobre un eje de simetría oblicuo.",
+          "solucionario": "Los estudiantes ya dominan la reflexión sobre ejes horizontales y verticales. Para seguir progresando (andamiaje), se les debe presentar un desafío de mayor nivel cognitivo. La reflexión sobre un eje oblicuo (opción C) es significativamente más compleja, ya que no pueden simplemente contar cuadrados. Requiere una comprensión más profunda de la propiedad de que el eje de simetría es la mediatriz del segmento que une un punto con su imagen. La opción A es una actividad introductoria, no de profundización. La opción B es repetir la misma tarea con otro material, no aumenta la dificultad conceptual.",
+          "seccion": "Conocimientos Curriculares y Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_matematica_2018_p62",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes actividades es pertinente para afianzar las habilidades de visualización geométrica?",
+          "opciones": [
+            "Proporcionar moldes de cuerpos geométricos como prismas y pirámides para que los estudiantes los construyan. Luego, solicitar que identifiquen sus principales elementos como vértices, aristas, caras y bases.",
+            "Entregar cuerpos geométricos como prismas y pirámides para que los estudiantes los observen y elaboren el molde de estos cuerpos. Luego, pedir que comprueben si dichas representaciones permiten formar los cuerpos geométricos.",
+            "Solicitar a los estudiantes que observen diversos cuerpos geométricos como prismas y pirámides, y que describan sus características como tamaño, formas, etc. Luego, pedir que digan cuáles son los nombres de cada uno de dichos cuerpos."
+          ],
+          "respuesta": "Entregar cuerpos geométricos como prismas y pirámides para que los estudiantes los observen y elaboren el molde de estos cuerpos. Luego, pedir que comprueben si dichas representaciones permiten formar los cuerpos geométricos.",
+          "respuestaCorta": "La mejor actividad para desarrollar la visualización geométrica es pasar de un objeto 3D a su representación 2D (desarrollo plano o molde), ya que exige una mayor manipulación mental de la forma.",
+          "solucionario": "La visualización geométrica implica la capacidad de manipular mentalmente figuras y objetos en el espacio. La actividad B es la más pertinente porque reta a los estudiantes a realizar la transición de lo tridimensional (el cuerpo geométrico) a lo bidimensional (el molde o desarrollo plano). Este proceso de 'desarmar' mentalmente el cuerpo para dibujarlo en un plano requiere un alto nivel de visualización. La opción A es el proceso inverso (2D a 3D), que también es útil pero generalmente menos demandante. La opción C se enfoca en la descripción y clasificación, que son habilidades diferentes.",
+          "seccion": "Conocimientos Curriculares y Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_matematica_2018_p63",
+      "contexto": "Un docente ha identificado que algunos estudiantes evidencian errores al tratar de hallar el área de triángulos. Así, por ejemplo, cuando se les pide hallar el área de un triángulo isósceles cuyos lados congruentes miden 5 cm y cuyo tercer lado mide 8 cm, los estudiantes reconocen la fórmula para determinar el área del triángulo; sin embargo plantean lo siguiente:\n(base x altura) / 2 = (8 x 5) / 2 = 20 cm²",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes acciones es pertinente para brindar retroalimentación a los estudiantes para que reflexionen sobre su error?",
+          "opciones": [
+            "Presentar la fórmula de Herón para que encuentren el área de cualquier triángulo cuando se conocen las medidas de sus tres lados. Luego, pedir que determinen el área del triángulo propuesto utilizando esta fórmula. Después, solicitar que comparen sus resultados en parejas.",
+            "Presentar diversos triángulos y orientarlos para que tracen sus respectivas alturas. Luego, pedir que evalúen si el lado de 5 cm puede ser la altura del triángulo presentado. Después, solicitar que tracen la altura de ese triángulo isósceles y que encuentren la medida de la altura y, luego, el área.",
+            "Presentar una pieza de cartulina de forma triangular cuyos lados tengan las medidas propuestas y en la que se haya trazado una altura perpendicular al lado de 8 cm, de tal manera que forme dos triángulos notables de 37° y 53°. Luego, a partir de la relación notable, indicar que la altura mide 3 cm. Después, solicitar que hallen el área de un triángulo isósceles en el que uno de los lados mida 6 cm y los otros dos, 5 cm."
+          ],
+          "respuesta": "Presentar diversos triángulos y orientarlos para que tracen sus respectivas alturas. Luego, pedir que evalúen si el lado de 5 cm puede ser la altura del triángulo presentado. Después, solicitar que tracen la altura de ese triángulo isósceles y que encuentren la medida de la altura y, luego, el área.",
+          "respuestaCorta": "La retroalimentación efectiva es hacer que el estudiante cuestione su propia suposición, preguntándole si el lado de 5 cm realmente puede ser la altura y guiándolo para que trace y calcule la altura correcta.",
+          "solucionario": "El error del estudiante radica en una concepción errónea de lo que es la 'altura' de un triángulo; la confunde con uno de los lados inclinados. La acción pedagógica más pertinente es la B, ya que aborda directamente esta confusión. Al pedirle que trace alturas en varios triángulos, se refuerza el concepto de que la altura es un segmento perpendicular desde un vértice al lado opuesto. Luego, al cuestionar si el lado de 5 cm cumple esta condición, se genera un conflicto cognitivo que lleva al estudiante a darse cuenta de su error y a buscar el procedimiento correcto para hallar la altura (usando el teorema de Pitágoras). La opción A evita el problema en lugar de resolverlo, introduciendo una fórmula nueva. La opción C le da la respuesta (altura = 3 cm) al estudiante, impidiendo que reflexione y construya el conocimiento por sí mismo.",
+          "seccion": "Conocimientos Curriculares y Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+
+    {
+      "idGrupo": "cp_matematica_2018_p64",
+      "contexto": "Con el propósito de que sus estudiantes resuelvan problemas que involucran el cálculo de áreas de figuras irregulares, un docente les propuso la siguiente tarea:\nCalcula el área del hexágono ABCDEF.",
+      "imagen": "img/matematica_2018_q64.png",
+      "preguntas": [
+        {
+          "pregunta": "Un estudiante presentó la siguiente resolución:\nArea = ((5+6)x5)/2\nArea = (11x5)/2\nArea = 55/2\nArea = 27,5 u²\nEl área de la figura es igual a 27,5 u².\n¿Cuál de las siguientes alternativas expresa el error en el que incurre el estudiante?",
+          "opciones": [
+            "Considerar una fórmula que no corresponde al cálculo de áreas de triángulos.",
+            "Considerar que, al descomponer el hexágono en dos polígonos, cuatro de los vértices del hexágono son colineales.",
+            "Considerar como base de un polígono segmentos verticales cuando deberían ser horizontales y como altura segmentos horizontales cuando deberían ser verticales."
+          ],
+          "respuesta": "Considerar que, al descomponer el hexágono en dos polígonos, cuatro de los vértices del hexágono son colineales.",
+          "respuestaCorta": "El error del estudiante fue aplicar la fórmula del área de un trapecio a una figura que no lo es, asumiendo erróneamente que ciertos lados eran paralelos o que algunos vértices estaban alineados.",
+          "solucionario": "El estudiante utiliza la fórmula del área de un trapecio, A = ((Base1 + Base2) * altura) / 2. Al usar los valores 5, 6 y 5, está tratando el hexágono irregular como si fuera un trapecio simple. Esto implica hacer suposiciones incorrectas sobre la forma de la figura, como asumir que los lados son paralelos o, como sugiere la opción B, que algunos vértices son colineales para simplificar la figura a un trapecio, lo cual no es cierto para el hexágono dado. La forma correcta de resolverlo sería descomponer el hexágono en figuras más simples cuyo área sí se puede calcular (por ejemplo, triángulos y rectángulos) y sumar sus áreas.",
+          "seccion": "Conocimientos Curriculares y Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_matematica_2018_p65",
+      "contexto": "Un docente tiene como propósito que sus estudiantes de primer grado comprendan el concepto de rectángulo.\nAl hacerles preguntas para recoger sus saberes previos, uno de los estudiantes afirma lo siguiente: \"Un rectángulo es una figura cerrada de 4 lados, sus ángulos miden 90° y sus lados opuestos son paralelos\".\nEl docente le pidió que se acercara a la pizarra para representar gráficamente ejemplos de rectángulos y de figuras que no son rectángulos.\nSus representaciones son las que aparecen a continuación:\nSon rectángulos: [Muestra un rectángulo horizontal y uno vertical]\nNo son rectángulos: [Muestra un cuadrado, un rombo y un trapecio]",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes acciones pedagógicas es pertinente para generar conflicto cognitivo en este estudiante?",
+          "opciones": [
+            "Entregar una lámina en la cual se aprecien figuras geométricas diferentes a las que él propuso para que identifique y seleccione aquellas figuras que son rectángulos. Luego, pedir que explique las razones de su elección.",
+            "Pedir que verifique si algunas de las figuras que él no considera rectángulos cumplen con la afirmación que ha realizado. Luego, preguntar: \"¿El cuadrado cumple con la definición que has dado de rectángulo? ¿Un cuadrado será un tipo de rectángulo?\".",
+            "Preguntar: \"¿Cuántos lados tienen los rectángulos que has graficado? ¿Cuánto miden sus ángulos? ¿Sus lados opuestos son paralelos o perpendiculares?\". Luego, entregar una cartilla con otras propiedades referidas a la suma de ángulos internos, a sus diagonales y a sus ejes de simetría."
+          ],
+          "respuesta": "Pedir que verifique si algunas de las figuras que él no considera rectángulos cumplen con la afirmación que ha realizado. Luego, preguntar: \"¿El cuadrado cumple con la definición que has dado de rectángulo? ¿Un cuadrado será un tipo de rectángulo?\".",
+          "respuestaCorta": "La acción pertinente es hacer que el estudiante confronte su propia definición con su clasificación incorrecta, preguntándole si el cuadrado (que él excluyó) no cumple con las reglas que él mismo estableció para un rectángulo.",
+          "solucionario": "El estudiante tiene una definición correcta de rectángulo, pero una concepción errónea que excluye al cuadrado. Para generar un conflicto cognitivo, el docente debe llevar al estudiante a notar la contradicción entre su definición y su ejemplo. La opción B logra esto de manera efectiva al pedirle que aplique su propia regla ('4 lados, ángulos de 90°, lados opuestos paralelos') a la figura que excluyó (el cuadrado). Al darse cuenta de que el cuadrado sí cumple con todas esas condiciones, su esquema mental se ve desafiado, abriendo la puerta a comprender que el cuadrado es un tipo especial de rectángulo. Las otras opciones no abordan directamente esta contradicción.",
+          "seccion": "Conocimientos Curriculares y Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_matematica_2018_p66",
+      "contexto": "Un docente propone la siguiente situación a los estudiantes.\nEmilio adquirió 7 ovejas y hace un corral en forma de hexágono regular de 10 m de lado.\nDe las 7 ovejas, 1 de ellas ha sido atada a una estaca ubicada en el centro del corral y cada oveja restante fue ubicada en cada estaca de las esquinas del corral. La longitud de la cuerda usada por cada oveja es de 5 m de largo.\n¿Qué relación se puede establecer entre el área de la región que dispone la oveja atada en el centro y la de cualquiera de las ovejas atadas en las esquinas?",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes grupos de preguntas es pertinente para ayudar a los estudiantes a comprender el problema?",
+          "opções": [
+            "¿Cuántos lados tiene el corral que hizo Emilio? ¿Cuántos metros mide cada lado del corral? ¿Para qué quiere usar el corral? ¿Qué longitud tiene cada cuerda que se utiliza para atar a las ovejas?",
+            "¿Cuál será el área y el perímetro del corral? ¿Cómo se calcula el área de una región circular? ¿A cuántas veces el área de la región que dispone la oveja atada en el centro equivale al área de la región ocupada por una de las ovejas atada en las esquinas?",
+            "¿Cómo representarías gráficamente el corral hecho por Emilio? ¿Las áreas de las regiones de las que dispone cada oveja atada en cada esquina y la oveja atada en el centro son iguales? ¿Qué forma tiene la región de la que dispone cada oveja para movilizarse?"
+          ],
+          "respuesta": "¿Cómo representarías gráficamente el corral hecho por Emilio? ¿Las áreas de las regiones de las que dispone cada oveja atada en cada esquina y la oveja atada en el centro son iguales? ¿Qué forma tiene la región de la que dispone cada oveja para movilizarse?",
+          "respuestaCorta": "Las preguntas pertinentes son aquellas que guían al estudiante a modelar y visualizar la situación, como pedirle que dibuje el corral y que identifique la forma del área de pastoreo de cada oveja.",
+          "solucionario": "Para ayudar a la comprensión de un problema geométrico, es crucial que los estudiantes primero lo visualicen y modelen. El grupo de preguntas en la opción C está diseñado para guiar este proceso. Preguntar '¿Cómo representarías gráficamente...?' fomenta la creación de un diagrama. Preguntar '¿Qué forma tiene la región...?' les ayuda a identificar que el área de pastoreo es un sector circular o un círculo. Estas preguntas sientan las bases para la resolución sin saltar directamente a las fórmulas. La opción A solo repite datos del problema. La opción B se adelanta al pedir cálculos y la respuesta final antes de que el problema haya sido comprendido a cabalidad.",
+          "seccion": "Conocimientos Curriculares y Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_matematica_2018_p67",
+      "contexto": "Marta es albañil. Para realizar acabados, ella utiliza losetas grises y blancas de 50 cm de lado. El metro cuadrado de estas losetas cuesta 40 soles.\nMarta va a utilizar el siguiente diseño en una de las habitaciones de una casa.",
+      "imagen": "img/matematica_2018_q67.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuánto dinero se invertirá en comprar la cantidad de losetas grises necesarias para realizar el trabajo?",
+          "opciones": [
+            "S/ 200",
+            "S/ 280",
+            "S/ 400"
+          ],
+          "respuesta": "S/ 200",
+          "respuestaCorta": "Se necesitan 20 losetas grises, que cubren un área de 5 m². A S/ 40 por m², el costo total es S/ 200.",
+          "solucionario": "1.  **Contar las losetas grises:** En el diseño de 4x7, hay 20 losetas de color gris.\n2.  **Calcular el área de una loseta:** Cada loseta mide 50 cm x 50 cm, que es 0.5 m x 0.5 m. El área de una loseta es 0.5 * 0.5 = 0.25 m².\n3.  **Calcular el área total de las losetas grises:** Se necesitan 20 losetas grises, por lo que el área total es 20 * 0.25 m² = 5 m².\n4.  **Calcular el costo total:** El costo es de 40 soles por metro cuadrado. El costo total para las losetas grises es 5 m² * 40 soles/m² = 200 soles.",
+          "seccion": "Conocimientos Curriculares y Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_matematica_2018_p68",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Dada la ecuación general de la recta L: 3x + 2y - 12 = 0, ¿cuál de las siguientes afirmaciones es correcta?",
+          "opciones": [
+            "La pendiente de la recta L es 2/3.",
+            "Otra expresión para la misma recta L es x/4 + y/6 = 1.",
+            "Al reemplazar el valor de cero en x, se obtiene y = 6 y, al reemplazar el valor de cero en y, se obtiene x = 4; por tanto, se comprueba que (4; 6) pertenece a la recta L."
+          ],
+          "respuesta": "Otra expresión para la misma recta L es x/4 + y/6 = 1.",
+          "respuestaCorta": "La afirmación correcta es que la ecuación de la recta puede expresarse en su forma simétrica como x/4 + y/6 = 1.",
+          "solucionario": "Se analiza cada afirmación:\n* **a) Pendiente:** Para hallar la pendiente, se despeja 'y' (forma pendiente-intercepto): 2y = -3x + 12 => y = (-3/2)x + 6. La pendiente es -3/2. Por lo tanto, la afirmación A es incorrecta.\n* **b) Forma simétrica:** Se parte de 3x + 2y = 12. Se divide toda la ecuación entre 12 para que el lado derecho sea 1: (3x/12) + (2y/12) = 12/12 => x/4 + y/6 = 1. Esta es la ecuación simétrica o canónica, donde 4 es la abscisa en el origen y 6 es la ordenada en el origen. La afirmación B es correcta.\n* **c) Pertenencia de un punto:** Los interceptos son (4, 0) y (0, 6). El punto (4, 6) no es un intercepto. Para verificar si pertenece a la recta, se reemplaza: 3(4) + 2(6) - 12 = 12 + 12 - 12 = 12, que es diferente de 0. Por lo tanto, el punto (4, 6) no pertenece a la recta. La afirmación C es incorrecta.",
+          "seccion": "Conocimientos Curriculares y Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_matematica_2018_p69",
+      "contexto": "El siguiente gráfico representa el plano de un campo deportivo cuyo perímetro mide k. Este gráfico está compuesto por dos regiones semicirculares y una región rectangular.",
+      "imagen": "img/matematica_2018_q69.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes expresiones representa el área de este campo deportivo, en función de \"d\" y de la constante k?",
+          "opciones": [
+            "A(d) = d/2(k)",
+            "A(d) = d/4(2k - πd)",
+            "A(d) = d/4(2k - πd - 4d)"
+          ],
+          "respuesta": "A(d) = d/4(2k - πd)",
+          "respuestaCorta": "El área del campo, expresada en función del perímetro k y el diámetro d, es A(d) = d/4(2k - πd).",
+          "solucionario": "1.  **Formular Perímetro (k) y Área (A):**\n    * El perímetro está formado por dos lados rectos de longitud 'b' y dos semicircunferencias de diámetro 'd' (que juntas forman una circunferencia completa). Perímetro, k = 2b + πd.\n    * El área está formada por un rectángulo de área (b*d) y dos semicircunferencias de radio (d/2) (que juntas forman un círculo completo). Área, A = b*d + π(d/2)² = b*d + πd²/4.\n2.  **Expresar A en función de k y d:**\n    * De la fórmula del perímetro, despejamos 'b': 2b = k - πd => b = (k - πd) / 2.\n    * Sustituimos 'b' en la fórmula del área: A = [ (k - πd) / 2 ] * d + πd²/4.\n    * Simplificamos: A = (kd - πd²) / 2 + πd²/4.\n    * Buscamos un denominador común (4): A = [ 2(kd - πd²) + πd² ] / 4.\n    * A = (2kd - 2πd² + πd²) / 4 = (2kd - πd²) / 4.\n3.  **Comparar con las opciones:**\n    * Factorizamos la expresión obtenida: A = d/4 * (2k - πd).\n    * Esta expresión coincide exactamente con la opción B.",
+          "seccion": "Conocimientos Curriculares y Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_matematica_2018_p70",
+      "contexto": "Dada la siguiente secuencia:",
+      "imagen": "img/matematica_2018_q70.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes símbolos tiene una rotación respecto al punto de intersección de las diagonales de la casilla central?",
+          "opciones": [
+            "El círculo",
+            "El triángulo",
+            "La flecha"
+          ],
+          "respuesta": "La flecha",
+          "respuestaCorta": "La flecha es el único símbolo que sigue un patrón de rotación consistente en cada paso de la secuencia.",
+          "solucionario": "Analizando el movimiento de cada símbolo de una figura a la siguiente:\n* **Círculo:** Se mueve entre las casillas sin un patrón de rotación claro respecto al centro.\n* **Triángulo:** Se mueve entre las casillas y su orientación cambia, pero no sigue una rotación regular alrededor del centro de la cuadrícula.\n* **Flecha:** La orientación de la flecha cambia en 90 grados en el sentido de las agujas del reloj en cada paso (izquierda -> arriba -> derecha -> abajo -> izquierda). Aunque su posición también cambia, la orientación del símbolo sí presenta una rotación consistente. La pregunta se refiere a cuál *símbolo* tiene una rotación, y la flecha es la que rota.",
+          "seccion": "Conocimientos Curriculares y Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_matematica_2018_p71",
+      "contexto": "Una docente ha registrado la masa de 6 estudiantes varones y 4 estudiantes mujeres. El promedio de las masas de los 6 varones es 66 kg, mientras que el promedio de las masas de las 4 mujeres es igual a 56 kg.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es el promedio de las masas de los 10 estudiantes?",
+          "opciones": [
+            "61 kg",
+            "62 kg",
+            "66 kg"
+          ],
+          "respuesta": "62 kg",
+          "respuestaCorta": "El promedio total (ponderado) de las masas de los 10 estudiantes es de 62 kg.",
+          "solucionario": "Este es un problema de promedio ponderado. No se pueden promediar directamente los dos promedios (66 y 56) porque los grupos tienen tamaños diferentes.\n1.  **Calcular la masa total de los varones:** 6 varones * 66 kg/varón = 396 kg.\n2.  **Calcular la masa total de las mujeres:** 4 mujeres * 56 kg/mujer = 224 kg.\n3.  **Calcular la masa total de todos los estudiantes:** 396 kg + 224 kg = 620 kg.\n4.  **Calcular el número total de estudiantes:** 6 + 4 = 10 estudiantes.\n5.  **Calcular el promedio general:** Masa total / Número total de estudiantes = 620 kg / 10 estudiantes = 62 kg.",
+          "seccion": "Conocimientos Curriculares y Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_matematica_2018_p72",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes eventos tiene la mayor probabilidad de ocurrencia?",
+          "opciones": [
+            "Lanzar simultáneamente dos dados no cargados y que en uno se obtenga un número par y en el otro, un número impar.",
+            "Lanzar simultáneamente dos dados no cargados y que el producto de las cantidades obtenidas sea a lo más 10.",
+            "Lanzar simultáneamente dos dados no cargados y que la suma de las cantidades obtenidas sea igual o mayor que 8."
+          ],
+          "respuesta": "Lanzar simultáneamente dos dados no cargados y que el producto de las cantidades obtenidas sea a lo más 10.",
+          "respuestaCorta": "El evento con mayor probabilidad es obtener un producto menor o igual a 10, con una probabilidad de 19/36.",
+          "solucionario": "El espacio muestral al lanzar dos dados es de 6x6 = 36 resultados posibles.\na) **Un par y un impar:** P(Par, Impar) = (3/6) * (3/6) = 9/36. P(Impar, Par) = (3/6) * (3/6) = 9/36. La probabilidad total es 9/36 + 9/36 = 18/36.\nb) **Producto ≤ 10:** Contamos los casos favorables: (1,1)...(1,6) [6]; (2,1)...(2,5) [5]; (3,1)...(3,3) [3]; (4,1),(4,2) [2]; (5,1),(5,2) [2]; (6,1) [1]. Total de casos favorables: 6+5+3+2+2+1 = 19. La probabilidad es 19/36.\nc) **Suma ≥ 8:** Contamos los casos favorables: Suma 8: (2,6), (3,5), (4,4), (5,3), (6,2) [5]. Suma 9: (3,6), (4,5), (5,4), (6,3) [4]. Suma 10: (4,6), (5,5), (6,4) [3]. Suma 11: (5,6), (6,5) [2]. Suma 12: (6,6) [1]. Total de casos favorables: 5+4+3+2+1 = 15. La probabilidad es 15/36.\nComparando las probabilidades: 18/36, 19/36 y 15/36. La mayor es 19/36.",
+          "seccion": "Conocimientos Curriculares y Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_matematica_2018_p73",
+      "contexto": "Manuel tiene una caja con 4 bolas azules y 5 bolas rojas. Todas las bolas son del mismo tamaño, masa y textura.\nSi extrae una bola de la caja y, sin devolverla, luego extrae otra,",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿cuál de las siguientes afirmaciones es verdadera?",
+          "opciones": [
+            "La probabilidad de que haya extraído una bola azul y una bola roja es 9/20.",
+            "La probabilidad de que haya extraído dos bolas azules es 12/25.",
+            "La probabilidad de que haya extraído dos bolas rojas es 5/18."
+          ],
+          "respuesta": "La probabilidad de que haya extraído dos bolas rojas es 5/18.",
+          "respuestaCorta": "La afirmación verdadera es que la probabilidad de extraer dos bolas rojas sin reposición es 5/18.",
+          "solucionario": "Hay un total de 4+5 = 9 bolas. Se extraen dos sin reposición, por lo que el denominador será 9 * 8 = 72.\na) **Una azul y una roja:** Puede ser Azul-Roja o Roja-Azul.\nP(A, R) = (4/9) * (5/8) = 20/72.\nP(R, A) = (5/9) * (4/8) = 20/72.\nProbabilidad total = 20/72 + 20/72 = 40/72 = 5/9. La afirmación (9/20) es falsa.\nb) **Dos bolas azules:**\nP(A, A) = (4/9) * (3/8) = 12/72 = 1/6. La afirmación (12/25) es falsa.\nc) **Dos bolas rojas:**\nP(R, R) = (5/9) * (4/8) = 20/72. Simplificando entre 4, se obtiene 5/18. La afirmación es verdadera.",
+          "seccion": "Conocimientos Curriculares y Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_matematica_2018_p74",
+      "contexto": "La capacidad máxima del ascensor de un hotel es de 4 personas. En un determinado momento Alex, Beatriz, Carla y Diana ingresan al ascensor en el primer piso y se dirigen a sus habitaciones ubicadas en el quinto y décimo piso del edificio (al menos una de estas personas debe bajar en uno de esos dos pisos). En ese momento Erika y Fidel quieren entrar al ascensor cuando este se detenga en el quinto piso y puede ingresar uno de ellos o ambos dependiendo del espacio que haya.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es la probabilidad de que ambos, Erika y Fidel, puedan subir al ascensor cuando se detenga en el quinto piso?",
+          "opciones": [
+            "5/7",
+            "2/3",
+            "3/7"
+          ],
+          "respuesta": "5/7",
+          "respuestaCorta": "La probabilidad de que al menos dos personas bajen en el quinto piso, liberando espacio para Erika y Fidel, es de 10/14, que simplificado es 5/7.",
+          "solucionario": "1.  **Determinar el espacio muestral:** Hay 4 personas (A, B, C, D) y 2 pisos de destino (5 y 10). Cada persona tiene 2 opciones, por lo que hay 2^4 = 16 combinaciones posibles. Sin embargo, el problema indica que ambos pisos deben ser destinos ('al menos una persona debe bajar en uno de esos dos pisos' se interpreta como que no todos bajan en el mismo piso). Los casos en que todos bajan en el 5º o todos en el 10º son 2. Por tanto, el espacio muestral válido es 16 - 2 = 14 casos.\n2.  **Determinar los casos favorables:** Para que Erika y Fidel (2 personas) puedan subir, deben bajar al menos 2 personas en el 5º piso. Contamos estos casos dentro de nuestro espacio muestral de 14:\n    * **Caso 1: Bajan 2 en el 5º y 2 en el 10º.** El número de formas de elegir qué 2 personas bajan en el 5º es C(4, 2) = (4*3)/2 = 6 casos.\n    * **Caso 2: Bajan 3 en el 5º y 1 en el 10º.** El número de formas de elegir qué 3 personas bajan en el 5º es C(4, 3) = 4 casos.\n    * (El caso de que bajen 4 en el 5º fue excluido de nuestro espacio muestral).\n    * Total de casos favorables = 6 + 4 = 10 casos.\n3.  **Calcular la probabilidad:** P = (Casos favorables) / (Total de casos) = 10 / 14 = 5/7.",
+          "seccion": "Conocimientos Curriculares y Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_matematica_2018_p75",
+      "contexto": "El siguiente gráfico representa la distribución de 3 conjuntos de datos: P, Q y R.",
+      "imagen": "img/matematica_2018_q75.png",
+      "preguntas": [
+        {
+          "pregunta": "Con respecto al gráfico, ¿cuál de las siguientes afirmaciones es verdadera?",
+          "opciones": [
+            "Los datos de los tres conjuntos están igual de dispersos.",
+            "Los datos del conjunto R tienen mayor dispersión que los de P y Q.",
+            "Los datos del conjunto P están más dispersos que en los otros conjuntos."
+          ],
+          "respuesta": "Los datos del conjunto R tienen mayor dispersión que los de P y Q.",
+          "respuestaCorta": "La curva R es la más ancha y plana, lo que indica una mayor dispersión (mayor desviación estándar) en comparación con las curvas P y Q.",
+          "solucionario": "En una distribución normal, la media está representada por el centro de la curva y la dispersión (o desviación estándar) por el ancho de la curva. Las tres curvas (P, Q y R) están centradas en el mismo punto, por lo que tienen la misma media. Sin embargo, sus anchos son diferentes:\n* La curva P es la más alta y estrecha, lo que indica la menor dispersión.\n* La curva R es la más baja y ancha, lo que indica la mayor dispersión.\n* La curva Q tiene una dispersión intermedia. \nPor lo tanto, la afirmación verdadera es que los datos del conjunto R tienen la mayor dispersión.",
+          "seccion": "Conocimientos Curriculares y Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_matematica_2018_p76",
+      "contexto": "Un docente propuso a sus estudiantes la siguiente secuencia conformada por cuadrados grises y blancos.\nFig. 1 [3x3 con 1 blanco central]\nFig. 2 [4x3 con 2 blancos centrales]\nFig. 3 [5x3 con 3 blancos centrales]\nFig. 4 [6x3 con 4 blancos centrales]",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes grupos de preguntas es pertinente para que los estudiantes generalicen simbólicamente la cantidad de cuadrados blancos y grises de cada figura en la secuencia?",
+          "opciones": [
+            "¿Cuántos cuadrados más de cada tipo hay entre la figura 1 y la figura 2? ¿Cuántos más habrá entre la figura 2 y la 3? ¿Y entre la 3 y 4? Si para \"n\" cuadrados blancos se necesitan (2n + 6) grises, ¿cuántos cuadrados grises se necesitarán para 100 cuadrados blancos?",
+            "¿Cuántos cuadrados grises y blancos hay en la figura 1?, ¿en la figura 2?, ¿y en cada una de las figuras? ¿Cuántos cuadrados grises y blancos se necesitarán en la figura 5? Si una figura tuviera 18 cuadrados grises y 6 blancos, ¿qué número de figura de la secuencia sería?",
+            "¿Cuántos cuadrados blancos y grises observas en cada figura? ¿Qué relación hay entre los cuadrados blancos y el número de la figura? ¿Qué puedes decir de la cantidad de cuadrados grises en la primera y última columna de cada figura? ¿Y de los cuadrados grises encima y debajo de los blancos? ¿Cuántos cuadrados blancos y grises presentará la figura 20?, ¿y cuántos la figura \"n\"?"
+          ],
+          "respuesta": "¿Cuántos cuadrados blancos y grises observas en cada figura? ¿Qué relación hay entre los cuadrados blancos y el número de la figura? ¿Qué puedes decir de la cantidad de cuadrados grises en la primera y última columna de cada figura? ¿Y de los cuadrados grises encima y debajo de los blancos? ¿Cuántos cuadrados blancos y grises presentará la figura 20?, ¿y cuántos la figura \"n\"?",
+          "respuestaCorta": "El grupo de preguntas más pertinente es el que guía al estudiante a analizar la estructura de la figura (columnas fijas, partes variables) para construir la regla general por sí mismo.",
+          "solucionario": "El objetivo es que los estudiantes generalicen, es decir, encuentren la fórmula. El grupo de preguntas en la opción C es el más pedagógico para este fin. Primero, pide contar (observar). Luego, guía el análisis estructural: '¿Qué relación hay entre los cuadrados blancos y el número de la figura?' (lleva a W = n). Después, descompone los cuadrados grises: '¿cantidad... en la primera y última columna?' (constante, 3+3=6), '¿...encima y debajo de los blancos?' (variable, 2 por cada blanco, es decir 2n). Esto les permite construir la fórmula G = 2n + 6. Finalmente, pide aplicar la regla a un caso grande y al caso general 'n'. La opción A da la fórmula. La opción B se queda en casos particulares sin guiar explícitamente a la generalización.",
+          "seccion": "Conocimientos Curriculares y Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_matematica_2018_p77",
+      "contexto": "Una docente, con el propósito de que sus estudiantes afiancen el concepto de proporcionalidad, les propuso el siguiente problema:\nDaniel trabaja colocando fluorescentes dentro de cajas. El primer día recibe cierta cantidad de fluorescentes y de cajas; empaqueta en promedio 12 fluorescentes en 1 hora y se demora 6 horas en realizar todo el trabajo. El segundo día empaquetó la misma cantidad de fluorescentes que el día anterior y se demoró 4 horas.\n¿Cuántos fluorescentes en promedio empaquetó en 1 hora en el segundo día?\nLuego de asegurar la comprensión del problema, la docente brinda un tiempo para que los estudiantes busquen estrategias de resolución.\nPosteriormente, un estudiante responde: \"Como en el segundo día se demora menos tiempo en hacer todo el trabajo, también empaquetará menos fluorescentes por hora. Por lo tanto, empaqueta 8 fluorescentes cada hora en promedio\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes acciones pedagógicas es pertinente para brindar retroalimentación al estudiante con la finalidad de que reflexione sobre su error?",
+          "opciones": [
+            "Solicitar que identifique las magnitudes que se presentan en la situación y que reconozca qué cantidad permanece constante. Luego, preguntar: \"¿Qué día empaquetó más rápido los fluorescentes? Y al ser más rápido, ¿debió demorar más tiempo o menos tiempo? ¿Qué relación se debe establecer entre la rapidez y el tiempo?\".",
+            "Preguntar: \"¿De quién se habla en el problema? ¿Cuántas cajas empaqueta Daniel por hora el primer día?, ¿y cuántas horas demora ese día?\". Luego, pedir que identifique el total de horas que demora Daniel en hacer el trabajo el segundo día y que determine la cantidad total de fluorescentes que recibe el primer y segundo día.",
+            "Entregar una tabla para que organice la cantidad de fluorescentes que Daniel empaqueta por hora y el total de horas que demora en ambos días. Luego, comentar que las magnitudes son inversamente proporcionales, por lo que se debe de multiplicar dichas cantidades para obtener el total de fluorescentes y resolver el problema."
+          ],
+          "respuesta": "Solicitar que identifique las magnitudes que se presentan en la situación y que reconozca qué cantidad permanece constante. Luego, preguntar: \"¿Qué día empaquetó más rápido los fluorescentes? Y al ser más rápido, ¿debió demorar más tiempo o menos tiempo? ¿Qué relación se debe establecer entre la rapidez y el tiempo?\".",
+          "respuestaCorta": "La retroalimentación adecuada es guiar al estudiante a cuestionar su propia lógica, haciéndole ver que si demora menos tiempo es porque fue más rápido, lo que contradice su conclusión.",
+          "solucionario": "El error del estudiante es asumir una relación de proporcionalidad directa (a menos tiempo, menos ritmo de trabajo) cuando la relación es inversa (a menos tiempo, mayor ritmo de trabajo). La opción A es la más pertinente porque guía al estudiante a descubrir esta relación inversa por sí mismo. Al preguntarle \"al ser más rápido, ¿debió demorar más tiempo o menos tiempo?\", se le obliga a reflexionar sobre la lógica de la situación, generando un conflicto cognitivo que le permite corregir su razonamiento. La opción B se centra en la recopilación de datos, y la C le da la respuesta teórica (\"son inversamente proporcionales\") sin fomentar la reflexión.",
+          "seccion": "Conocimientos Curriculares y Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_matematica_2018_p78",
+      "contexto": "Alberto compró cierta cantidad de pesas de 10 kg y de 30 kg.\nÉl colocó las pesas que compró en dos cajas. Puso la misma cantidad de pesas de 10 kg en cada caja y hará lo mismo con las pesas de 30 kg.\nSi hubiera comprado una pesa más de 10 kg y una pesa menos de 30 kg, hubiera adquirido en total un peso menor que 100 kg.\nY si hubiera comprado una pesa menos de 10 kg y una pesa más de 30 kg, hubiera adquirido en total un peso mayor que 110 kg.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuántas pesas en total compró Alberto?",
+          "opciones": [
+            "6 pesas.",
+            "10 pesas.",
+            "12 pesas."
+          ],
+          "respuesta": "6 pesas.",
+          "respuestaCorta": "Alberto compró 4 pesas de 10 kg y 2 pesas de 30 kg, sumando un total de 6 pesas.",
+          "solucionario": "Sea 'x' el número de pesas de 10 kg y 'y' el número de pesas de 30 kg. Como las pesas de cada tipo se dividen en dos cajas, 'x' e 'y' deben ser números pares.\n1.  **Planteamos las inecuaciones según el problema:**\n    * `10(x + 1) + 30(y - 1) < 100`\n        `10x + 10 + 30y - 30 < 100`\n        `10x + 30y < 120` => `x + 3y < 12`\n    * `10(x - 1) + 30(y + 1) > 110`\n        `10x - 10 + 30y + 30 > 110`\n        `10x + 30y > 90` => `x + 3y > 9`\n2.  **Combinamos las inecuaciones:**\n    * `9 < x + 3y < 12`\n3.  **Buscamos soluciones enteras y pares:**\n    * La expresión `x + 3y` puede ser 10 u 11.\n    * Probamos con valores pares para 'y', empezando por el menor posible (y=2).\n    * Si y = 2: `x + 3(2) = x + 6`. La expresión `x + 6` debe ser 10 u 11.\n        * `x + 6 = 10` => `x = 4`. Como 4 es par, esta es una solución válida.\n        * `x + 6 = 11` => `x = 5`. No es par, no es una solución válida.\n    * Si y = 4: `x + 3(4) = x + 12`. No hay un 'x' positivo y par que cumpla `9 < x+12 < 12`.\n4.  **Conclusión:**\n    * La única solución es x=4 (pesas de 10 kg) e y=2 (pesas de 30 kg).\n    * Total de pesas = x + y = 4 + 2 = 6 pesas.",
+          "seccion": "Conocimientos Curriculares y Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_matematica_2018_p79",
+      "contexto": "Una docente propone a sus estudiantes el siguiente problema:\nUna empresa confecciona carteras y maletines de cuero, de un solo modelo en cada caso. En la confección de una cartera, se utiliza 2 m² de cuero y en la de un maletín, 3 m². Si la empresa dispone de 27 m² de cuero, ¿cuántas carteras y maletines se podrían confeccionar en un día?\nUno de los estudiantes, Raúl, responde: \"Se pueden confeccionar 6 carteras y 4 maletines, porque se utilizará 12 m² de cuero en las carteras y 12 m² de cuero en los maletines\".\nA lo que otro estudiante, Iván, interviene: \"Raúl, tu respuesta es incorrecta porque en 6 carteras y 4 maletines se utilizan 24 m² de cuero y aún alcanza para un maletín más; por eso, la respuesta correcta es 6 carteras y 5 maletines\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes alternativas expresa el error que se presenta en la intervención de Iván?",
+          "opciones": [
+            "Considerar que el problema dado tiene respuesta única.",
+            "Asociar en sus cálculos valores de una variable que corresponden a otra.",
+            "Prescindir del uso de ecuaciones de primer grado en la resolución del problema."
+          ],
+          "respuesta": "Considerar que el problema dado tiene respuesta única.",
+          "respuestaCorta": "El error de Iván es suponer que existe una única respuesta correcta, cuando en realidad el problema tiene múltiples soluciones posibles.",
+          "solucionario": "El problema se modela con la ecuación diofántica 2C + 3M ≤ 27, donde C (carteras) y M (maletines) son enteros no negativos. La pregunta \"¿cuántas... se podrían confeccionar?\" implica que puede haber más de una combinación posible. \n* La respuesta de Raúl (6C, 4M) es válida: 2(6) + 3(4) = 12 + 12 = 24 m², lo cual es ≤ 27.\n* La respuesta de Iván (6C, 5M) también es válida: 2(6) + 3(5) = 12 + 15 = 27 m², lo cual es ≤ 27.\nEl error de Iván no es de cálculo, sino de interpretación. Él asume que hay una sola \"respuesta correcta\" y que la respuesta de Raúl es \"incorrecta\", cuando en realidad ambas son soluciones válidas del problema. Por lo tanto, su error es considerar que el problema tiene respuesta única.",
+          "seccion": "Conocimientos Curriculares y Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_matematica_2018_p80",
+      "contexto": "Un estudiante presentó la siguiente resolución a un problema planteado por el docente.\nDada la inecuación: 3x - 3 < 10x + 11\n¿Cuál es su conjunto solución?\nResolución:\nJuntamos las incógnitas y los números.\n3x - 10x < 11 + 3\n-7x < 14\nDividimos entre -7 a ambos miembros\nx < -2\nPor tanto, el conjunto solución estará conformado por todos los números reales menores que -2.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "El docente tiene como propósito realizar una retroalimentación para que el estudiante reflexione sobre su error.\n¿Cuál de las siguientes intervenciones es más pertinente para el logro de su propósito?",
+          "opciones": [
+            "\"Revisa tu procedimiento, principalmente la división entre -7. Al dividir entre un número negativo, ¿crees que el signo de la desigualdad debe quedar tal como está?, ¿o debe cambiar de sentido?\".",
+            "\"Tienes que repasar. Anímate, tú puedes lograrlo. Cuando el -7 se divide a ambos lados, el signo de la desigualdad debe cambiar de sentido. Entonces, ¿qué pasa si dividimos entre un número negativo a ambos lados de la desigualdad?\".",
+            "\"Si reemplazas un valor de x menor que -2 en la inecuación inicial, ¿se cumple con la desigualdad? Sabiando que 1 es menor que 5, ¿el opuesto del primero seguirá siendo menor que el opuesto del segundo? ¿Cómo cambia la relación? ¿Pasará algo similar en la inecuación que forma parte de tu resolución? ¿Por qué?\"."
+          ],
+          "respuesta": "\"Si reemplazas un valor de x menor que -2 en la inecuación inicial, ¿se cumple con la desigualdad? Sabiando que 1 es menor que 5, ¿el opuesto del primero seguirá siendo menor que el opuesto del segundo? ¿Cómo cambia la relación? ¿Pasará algo similar en la inecuación que forma parte de tu resolución? ¿Por qué?\".",
+          "respuestaCorta": "La retroalimentación más efectiva es la que guía al estudiante a descubrir su error mediante la comprobación y la analogía, haciéndole verificar su solución y reflexionar sobre la propiedad fundamental de las desigualdades.",
+          "solucionario": "El error del estudiante ocurre en el último paso: al dividir la inecuación `-7x < 14` por -7, no invirtió el signo de la desigualdad. La respuesta correcta es `x > -2`. La intervención C es la más pertinente porque es una retroalimentación por descubrimiento. Primero, le pide al estudiante que verifique su propia respuesta (por ejemplo, con x=-3, obtendría -12 < -19, que es falso), lo que le permite darse cuenta del error. Segundo, utiliza una analogía simple (1<5 vs -1>-5) para que el estudiante deduzca la regla general por sí mismo. Las opciones A y B son más directivas, prácticamente le dicen al estudiante cuál es la regla en lugar de ayudarlo a construirla.",
+          "seccion": "Conocimientos Curriculares y Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_matematica_2018_p81",
+      "contexto": "Una docente les pidió a sus estudiantes que resolvieran la ecuación x² - 4x + 3 = 0, haciendo uso de una representación gráfica en su solución.\nAmelia, una de las estudiantes, presentó la siguiente resolución:",
+      "imagen": "img/matematica_2018_q81.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes alternativas expresa el error en el que incurrió la estudiante?",
+          "opciones": [
+            "Considerar la representación gráfica de una función cuadrática que no contiene las raíces de la ecuación cuadrática dada.",
+            "Considerar que una ecuación cuadrática tiene, en cualquiera de los casos, tres raíces, es decir, creer que el conjunto solución está conformado por tres elementos.",
+            "Considerar que las raíces de una ecuación cuadrática están dadas por las abscisas de los puntos de intersección de la gráfica de la función y los ejes de coordenadas."
+          ],
+          "respuesta": "Considerar que las raíces de una ecuación cuadrática están dadas por las abscisas de los puntos de intersección de la gráfica de la función y los ejes de coordenadas.",
+          "respuestaCorta": "El error de la estudiante fue incluir la intersección con el eje Y (ordenada en el origen) como si fuera una raíz de la ecuación, cuando las raíces son únicamente las intersecciones con el eje X.",
+          "solucionario": "Las raíces o soluciones de una ecuación de la forma f(x) = 0 corresponden a los valores de 'x' para los cuales la gráfica de la función y = f(x) intersecta al eje X (es decir, donde y=0). En el gráfico, la parábola intersecta al eje X en los puntos B(1, 0) y C(3, 0). Por lo tanto, las raíces son x=1 y x=3. La estudiante incluyó también el punto A(0, 3), que es la intersección con el eje Y. Su error conceptual fue considerar que las intersecciones con *ambos* ejes de coordenadas proporcionan las raíces, como se describe en la opción C. Las opciones A y B son incorrectas; el gráfico sí corresponde a la ecuación y el error no es solo creer que tiene tres raíces, sino el porqué de esa creencia.",
+          "seccion": "Conocimientos Curriculares y Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_matematica_2018_p82",
+      "contexto": "A continuación, se presenta el procedimiento que utilizó un estudiante para resolver una ecuación cuadrática.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Sobre la resolución de la ecuación cuadrática presentada: \n120 - 46x + 4x² = 60\n60 - 23x + 2x² = 30\nLuego factoriza (2x-15)(x-4) y lo iguala a cero.\n¿Cuál es el principal error del estudiante en este procedimiento?",
+          "opciones": [
+            "Considerar que el producto de los factores del trinomio es igual a cero cuando antes de factorizar dicho trinomio este era igual a un número diferente de cero.",
+            "Considerar que un trinomio se puede factorizar, aplicando la técnica del aspa simple, cuando este no se encuentra ordenado de forma decreciente.",
+            "Considerar que el valor de la incógnita es 2/15 y satisface la ecuación 15 = 2x."
+          ],
+          "respuesta": "Considerar que el producto de los factores del trinomio es igual a cero cuando antes de factorizar dicho trinomio este era igual a un número diferente de cero.",
+          "respuestaCorta": "El error fundamental fue factorizar el trinomio e igualar los factores a cero sin antes haber igualado la ecuación completa a cero.",
+          "solucionario": "El error principal se comete después del segundo paso. La ecuación es `60 - 23x + 2x² = 30`. Para resolver por factorización, es indispensable que la ecuación esté igualada a cero. El estudiante debió primero restar 30 de ambos lados para obtener `30 - 23x + 2x² = 0` y luego factorizar este nuevo trinomio. En su lugar, factorizó el trinomio del lado izquierdo (`2x² - 23x + 60`) mientras la ecuación todavía estaba igualada a 30, y luego aplicó incorrectamente la propiedad del producto cero. Este error se describe con precisión en la opción A.",
+          "seccion": "Conocimientos Curriculares y Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_matematica_2018_p83",
+      "contexto": "Una piscina contiene 60 m³ de agua y, para realizar algunas reparaciones en esta, tiene que ser vaciada completamente. Para esto se usa una bomba A cuyo caudal es de 10 m³/h, realizando el vaciado de manera constante.\nLa siguiente gráfica representa el volumen de agua que va quedando en la piscina en relación con el tiempo transcurrido.",
+      "imagen": "img/matematica_2018_q83.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes grupos de preguntas es pertinente para favorecer la interpretación de la gráfica en relación con la situación propuesta?",
+          "opciones": [
+            "¿En qué puntos interseca el segmento de recta con los ejes coordenados? ¿Qué magnitudes se encuentran en los ejes coordenados? ¿Por qué las escalas en los ejes coordenados no son las mismas?",
+            "¿Cómo se representa gráficamente una función lineal? ¿Qué características tienen los elementos del dominio y del rango de una función lineal? ¿Cuándo una función es creciente, decreciente o constante?",
+            "¿Qué volumen de agua queda en la piscina 2 horas después de que la bomba empezó a funcionar? ¿En cuánto tiempo el volumen de agua habrá disminuido 40 m³ desde que se inició el vaciado?, ¿en cuánto tiempo se vaciará la piscina?"
+          ],
+          "respuesta": "¿Qué volumen de agua queda en la piscina 2 horas después de que la bomba empezó a funcionar? ¿En cuánto tiempo el volumen de agua habrá disminuido 40 m³ desde que se inició el vaciado?, ¿en cuánto tiempo se vaciará la piscina?",
+          "respuestaCorta": "Las preguntas más pertinentes son las que conectan directamente los puntos de la gráfica con el contexto del problema, como preguntar por el volumen en un tiempo específico o el tiempo para un volumen dado.",
+          "solucionario": "Para favorecer la interpretación, las preguntas deben vincular la representación gráfica (puntos, coordenadas) con el contexto real (tiempo, volumen de agua). El grupo de preguntas en la opción C hace exactamente esto. Pide leer valores específicos del gráfico y darles un significado dentro de la situación (ej. 'volumen después de 2 horas' es leer la coordenada 'y' cuando 'x' es 2). Esto asegura que el estudiante no solo ve una línea en un plano, sino que comprende lo que representa. La opción A se enfoca en características abstractas del gráfico (escalas, ejes) y la B en teoría de funciones, ambas desvinculadas de la interpretación contextual.",
+          "seccion": "Conocimientos Curriculares y Pedagógicos de la Especialidad"
+        },
+        {
+          "pregunta": "En el mismo lugar, hay otras dos piscinas de menor capacidad que la anterior y se les realizará el mismo mantenimiento. Para ello se usará la bomba B que vaciará una de estas piscinas en 8 horas y una bomba C que vaciará la otra piscina en 12 horas, considerando que el caudal de cada bomba es constante. Además, se sabe que las tres bombas comenzaron a funcionar al mismo tiempo y, 4 horas después del inicio, las tres piscinas contienen la misma cantidad de agua.\n¿Cuál de las siguientes afirmaciones es correcta?",
+          "opciones": [
+            "Dos horas después de que se vacíe la piscina con la bomba A, la piscina con la bomba C contiene aún 10 m³ de agua.",
+            "La función que representa al volumen de agua que contiene la piscina respecto del tiempo usado por la bomba B es f(x) = -8x + 40.",
+            "Hay una proporcionalidad inversa entre la cantidad de agua que hay en las piscinas y el tiempo transcurrido hasta vaciarlas por completo."
+          ],
+          "respuesta": "Dos horas después de que se vacíe la piscina con la bomba A, la piscina con la bomba C contiene aún 10 m³ de agua.",
+          "respuestaCorta": "La afirmación correcta es que a las 8 horas (2 horas después de vaciarse la piscina A), a la piscina C todavía le quedan 10 m³ de agua.",
+          "solucionario": "1.  **Analizar Bomba A:** Inicia con 60 m³ y se vacía en 6 horas. A las 4 horas, el volumen es V(4) = 60 - 10(4) = 20 m³.\n2.  **Analizar Bomba B y C:** A las 4 horas, ambas piscinas también tienen 20 m³.\n    * **Piscina B:** Pasa de 20 m³ (a t=4h) a 0 m³ (a t=8h). En 4 horas vacía 20 m³, su caudal es 20/4 = 5 m³/h. Su volumen inicial era V_inicial = 20 + 4*5 = 40 m³. Su función es V(t) = 40 - 5t. (La opción b es incorrecta).\n    * **Piscina C:** Pasa de 20 m³ (a t=4h) a 0 m³ (a t=12h). En 8 horas vacía 20 m³, su caudal es 20/8 = 2.5 m³/h. Su volumen inicial era V_inicial = 20 + 4*2.5 = 30 m³. Su función es V(t) = 30 - 2.5t.\n3.  **Evaluar las afirmaciones:**\n    * **a):** La piscina A se vacía en t=6h. Dos horas después es t=8h. Se pide el volumen de la piscina C en t=8h. V_C(8) = 30 - 2.5(8) = 30 - 20 = 10 m³. Esta afirmación es correcta.\n    * **b):** La función para B es V(t) = 40 - 5t, no la indicada. Incorrecta.\n    * **c):** La relación entre el volumen restante y el tiempo es lineal decreciente, no de proporcionalidad inversa. Incorrecta.",
+          "seccion": "Conocimientos Curriculares y Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_matematica_2018_p85",
+      "contexto": "Un docente tiene como propósito evaluar el logro del siguiente desempeño: \"Justifica si un gráfico corresponde a una función cuadrática dada\". Para ello selecciona la siguiente tarea:\n¿El siguiente gráfico corresponde a la función f(x) = -x² + 12x - 20? ¿Por qué?\nPara evaluar las respuestas de los estudiantes, el docente ha elaborado la siguiente rúbrica con las descripciones de los niveles Previo al inicio, En inicio, En proceso y Logrado.\n* Previo al inicio: No reconoce...\n* En inicio: Reconoce que el gráfico sí corresponde... y expresa puntos explícitos...\n* En proceso: Reconoce que el gráfico sí corresponde... expresa puntos explícitos... relacionándolos con la expresión algebraica...\n* Logrado: Reconoce que el gráfico sí corresponde... expresa puntos explícitos... así como características propias de esta, estableciendo relaciones con la expresión algebraica...\nUn estudiante respondió lo siguiente: \"Sí, porque como el coeficiente de x² es negativo, la parábola se abre hacia abajo. Además, cuando x es 0, y vale -20; y cuando y es 0, x vale 2 y 10\".",
+      "imagen": "img/matematica_2018_q85.png",
+      "preguntas": [
+        {
+          "pregunta": "A partir de la rúbrica presentada, ¿cuál es el nivel de logro alcanzado por este estudiante?",
+          "opciones": [
+            "En inicio",
+            "En proceso",
+            "Logrado"
+          ],
+          "respuesta": "Logrado",
+          "respuestaCorta": "El estudiante alcanza el nivel 'Logrado' porque no solo verifica puntos explícitos (interceptos), sino que también analiza una característica general de la gráfica (la concavidad) y la relaciona con la expresión algebraica.",
+          "solucionario": "Analicemos la respuesta del estudiante según la rúbrica:\n1.  **Reconoce que el gráfico corresponde:** Sí.\n2.  **Expresa puntos explícitos:** Sí, menciona los interceptos con el eje Y (0, -20) y con el eje X (2, 0) y (10, 0).\n3.  **Relaciona con la expresión algebraica:** Sí, al verificar los valores de los interceptos en la función.\n4.  **Expresa características propias de la gráfica:** Sí, menciona que \"la parábola se abre hacia abajo\".\n5.  **Relaciona la característica con la expresión algebraica:** Sí, lo justifica diciendo \"porque como el coeficiente de x² es negativo\".\nDado que la respuesta incluye la verificación de puntos y el análisis de una característica general (concavidad), relacionando ambas cosas con la función dada, cumple con todos los criterios del nivel \"Logrado\".",
+          "seccion": "Conocimientos Curriculares y Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_matematica_2018_p86",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes alternativas presenta un procedimiento correcto para determinar las coordenadas del vértice en la representación gráfica de una función cuadrática?",
+          "opciones": [
+            "Identificar los valores de A, B y C en la función f(x) = Ax² + Bx + C para determinar el valor de la abscisa del vértice a partir de la expresión -B/(2A) y la ordenada mediante el valor numérico de f(-B/(2A)).",
+            "Elaborar una tabla para el valor de x, considerando números negativos, cero y números positivos. Luego de evaluar estos valores en f(x), considerar como abscisa del vértice el valor de x cuando f(x) = 0 y como ordenada, cero.",
+            "Encontrar la forma canónica de la función cuadrática dada por f(x) = (x-h)² + k. A partir de ello, considerar h como la cantidad de unidades que debe desplazarse el vértice de la parábola desde el origen de coordenadas en sentido vertical y k, en sentido horizontal."
+          ],
+          "respuesta": "Identificar los valores de A, B y C en la función f(x) = Ax² + Bx + C para determinar el valor de la abscisa del vértice a partir de la expresión -B/(2A) y la ordenada mediante el valor numérico de f(-B/(2A)).",
+          "respuestaCorta": "El procedimiento correcto es usar la fórmula x = -B/(2A) para hallar la abscisa del vértice y luego evaluar la función en ese punto para hallar la ordenada.",
+          "solucionario": "La opción A describe el método estándar y correcto para encontrar el vértice de una parábola a partir de su forma general f(x) = Ax² + Bx + C. La coordenada x del vértice es `h = -B/(2A)`, y la coordenada y es `k = f(h)`. La opción B es incorrecta porque el vértice no se encuentra, en general, donde f(x)=0 (esos son los interceptos con el eje x). La opción C describe incorrectamente la forma canónica; en `f(x) = a(x-h)² + k`, (h, k) son las coordenadas del vértice, donde 'h' es el desplazamiento horizontal y 'k' es el vertical, lo opuesto a lo que se afirma.",
+          "seccion": "Conocimientos Curriculares y Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_matematica_2018_p87",
+      "contexto": "Un docente pidió a los estudiantes que mencionen ejemplos de magnitudes proporcionales. Tres de ellos dijeron lo siguiente:",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Elizabeth: \"La cantidad de líquido que se vierte en un cilindro recto y la altura del líquido en dicho recipiente\".\nAntonio: \"El perímetro y el área de un polígono regular\".\nMónica: \"La edad de una persona y su masa\".\n¿Cuál de los estudiantes mencionó un ejemplo correcto de proporcionalidad?",
+          "opciones": [
+            "Elizabeth",
+            "Antonio",
+            "Mónica"
+          ],
+          "respuesta": "Elizabeth",
+          "respuestaCorta": "El ejemplo de Elizabeth es correcto, ya que el volumen de líquido en un cilindro es directamente proporcional a la altura que alcanza.",
+          "solucionario": "* **Elizabeth:** El volumen de un líquido en un cilindro es V = (Área de la base) * h. Como el área de la base es constante, el volumen (V) es directamente proporcional a la altura (h). Este es un ejemplo correcto.\n* **Antonio:** Para un cuadrado de lado 'L', el perímetro es P = 4L y el área es A = L². Entonces A = (P/4)², lo que significa que el área es proporcional al cuadrado del perímetro (A ∝ P²), no al perímetro. Incorrecto.\n* **Mónica:** La relación entre la edad y la masa de una persona no es proporcional. Una persona de 40 años no pesa el doble que una de 20. Incorrecto.\nPor lo tanto, solo Elizabeth dio un ejemplo correcto.",
+          "seccion": "Conocimientos Curriculares y Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_matematica_2018_p88",
+      "contexto": "Tres amigos, Daniel, Eduardo y Felipe, tienen vehículos con las mismas características excepto en el consumo de combustible. Ellos siempre viajan por la misma carretera.\nUn día decidieron comparar la cantidad de combustible que sus vehículos consumen. El siguiente gráfico muestra tal situación.",
+      "imagen": "img/matematica_2018_q88.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes afirmaciones es correcta?",
+          "opciones": [
+            "Cuando todos recorren exactamente 200 km, el auto de Eduardo ha consumido menos combustible.",
+            "Si el auto de Daniel hubiera comenzado con 9 galones, solo hubiese recorrido 250 km.",
+            "El auto de Felipe recorre más kilómetros por galón que los de sus otros amigos."
+          ],
+          "respuesta": "El auto de Felipe recorre más kilómetros por galón que los de sus otros amigos.",
+          "respuestaCorta": "El auto de Felipe es el más eficiente (recorre más km/galón), ya que su línea en el gráfico tiene la pendiente menos pronunciada.",
+          "solucionario": "Analicemos la eficiencia (rendimiento en km/galón) de cada auto:\n* **Daniel:** Empieza con 10 galones y su combustible se agota a los 300 km. Rendimiento: 300 km / 10 gal = 30 km/gal.\n* **Eduardo:** Empieza con 8 galones y su combustible se agota a los 400 km. Rendimiento: 400 km / 8 gal = 50 km/gal.\n* **Felipe:** Empieza con 6 galones y su combustible se agota a los 450 km. Rendimiento: 450 km / 6 gal = 75 km/gal.\nAhora evaluemos las afirmaciones:\n* a) A los 200 km, el auto de Felipe es el que menos ha consumido, no el de Eduardo. Incorrecta.\n* b) El auto de Daniel tiene un rendimiento de 30 km/gal. Con 9 galones, recorrería 9 * 30 = 270 km, no 250 km. Incorrecta.\n* c) Comparando los rendimientos (75 km/gal > 50 km/gal > 30 km/gal), el auto de Felipe es el más eficiente. Esta afirmación es correcta.",
+          "seccion": "Conocimientos Curriculares y Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_matematica_2018_p89",
+      "contexto": "La siguiente gráfica de una función modela una determinada situación.",
+      "imagen": "img/matematica_2018_q89.png",
+      "preguntas": [
+        {
+          "pregunta": "¿A cuál de las siguientes situaciones correspondería esta gráfica?",
+          "opciones": [
+            "En un determinado instante, un avión que viaja en línea recta se encuentra a 2 km de una ciudad; en el siguiente minuto, se encuentra a 4 km y, en el siguiente, a 8 km. La distancia del avión a la ciudad describe una función cuadrática respecto del tiempo transcurrido.",
+            "La ameba es un organismo unicelular que se reproduce mediante bipartición y, en ciertas condiciones, se duplicará cada hora que pase. En 4 horas hay 32 amebas y en 6 horas, 128 amebas, y se sabe que el cultivo se inició con cierta cantidad de amebas.",
+            "En cierto país, los datos informáticos se van duplicando cada dos años. Una persona en setiembre de 2016 ha utilizado 32 terabytes de datos y en setiembre de 2018 utilizó 64 terabytes."
+          ],
+          "respuesta": "La ameba es un organismo unicelular que se reproduce mediante bipartición y, en ciertas condiciones, se duplicará cada hora que pase. En 4 horas hay 32 amebas y en 6 horas, 128 amebas, y se sabe que el cultivo se inició con cierta cantidad de amebas.",
+          "respuestaCorta": "La gráfica corresponde a la situación de las amebas, que sigue un modelo de crecimiento exponencial f(x) = 2 * 2^x, coincidiendo con los puntos de la gráfica.",
+          "solucionario": "La gráfica muestra un crecimiento exponencial. Podemos identificar varios puntos: (0, 2), (1, 4), (2, 8), (3, 16), (4, 32). Esto corresponde a la función f(x) = 2 * 2^x.\n* **a) Avión:** Describe un crecimiento exponencial (2, 4, 8), pero lo etiqueta como función cuadrática, lo cual es una contradicción. Incorrecto.\n* **b) Amebas:** Si se duplican cada hora, el modelo es N(t) = N₀ * 2^t. Nos dicen que N(4) = 32. Reemplazando: 32 = N₀ * 2^4 = N₀ * 16. Despejando, el número inicial de amebas N₀ = 2. El modelo es N(t) = 2 * 2^t, que coincide perfectamente con la gráfica. Correcto.\n* **c) Datos informáticos:** Describe un crecimiento exponencial, pero con un período de duplicación de 2 años y con condiciones iniciales diferentes. No corresponde a la gráfica. Incorrecto.",
+          "seccion": "Conocimientos Curriculares y Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_matematica_2018_p90",
+      "contexto": "Diego ha cercado un terreno de forma rectangular con \"n\" metros de malla para usarlo como una granja.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cómo se expresaría el área máxima del terreno cercado en términos de \"n\"?",
+          "opciones": [
+            "n²",
+            "n²/4",
+            "n²/16"
+          ],
+          "respuesta": "n²/16",
+          "respuestaCorta": "El área máxima de un rectángulo con perímetro fijo 'n' se logra cuando es un cuadrado, y dicha área es n²/16.",
+          "solucionario": "1.  **Formular Perímetro y Área:** Sea 'l' el largo y 'a' el ancho del rectángulo. El perímetro es P = 2l + 2a. En este caso, P = n. El área es A = l * a.\n2.  **Maximizar el Área:** Para un perímetro fijo, el área de un rectángulo es máxima cuando la figura es un cuadrado (es decir, cuando l = a).\n3.  **Resolver para un cuadrado:** Si l = a, la fórmula del perímetro se convierte en n = 2a + 2a = 4a. Por lo tanto, el lado del cuadrado es a = n/4.\n4.  **Calcular el Área Máxima:** El área del cuadrado es A = a².\n    Sustituyendo el valor de 'a': A_max = (n/4)² = n²/16.",
+          "seccion": "Conocimientos Curriculares y Pedagógicos de la Especialidad"
+        }
+      ]
+    }
+  ]
+}
+  

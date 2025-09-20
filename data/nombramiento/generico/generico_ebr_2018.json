@@ -1,0 +1,32 @@
+{
+  "Comprension Lectora": [
+    {
+      "idGrupo": "cl_texto_1_2018",
+      "contexto": "La mujer se despertaba cuando todavía estaba oscuro...",
+      "preguntas": [
+        {
+          "pregunta": "¿En el texto, cuál de los siguientes rasgos caracteriza al esposo de la tejedora?",
+          "opciones": ["Es alegre.", "Es paciente.", "Es codicioso."],
+          "respuesta": "Es codicioso.",
+          "respuestaCorta": "El esposo muestra una ambición desmedida al exigir cada vez más lujos y posesiones.",
+          "solucionario": "El texto describe cómo el esposo, al descubrir el poder del telar, comienza a exigir cada vez más riquezas: primero una casa mejor, luego un palacio de piedra con terminaciones de plata, y después establos y caballos. Su ambición es insaciable y no se detiene, lo que demuestra claramente su codicia."
+        }
+      ]
+    }
+  ],
+  "Razonamiento Logico": [
+    {
+      "idGrupo": "rl_q26_2018",
+      "contexto": "",
+      "preguntas": [
+        {
+          "pregunta": "Un estudiante emplea ocho horas del día en dormir, seis horas en sus labores académicas y tres horas en alimentarse. ¿Qué parte del día le queda para realizar otras actividades?",
+          "opciones": ["7/24", "9/24", "17/24"],
+          "respuesta": "7/24",
+          "respuestaCorta": "Se suman las horas ocupadas y se restan del total de 24 horas del día.",
+          "solucionario": "1. Un día tiene 24 horas.\n2. Se suman las horas que el estudiante emplea en sus actividades: 8 (dormir) + 6 (labores académicas) + 3 (alimentarse) = 17 horas.\n3. Se resta el total de horas ocupadas del total de horas del día para encontrar el tiempo libre: 24 - 17 = 7 horas.\n4. La fracción que representa el tiempo libre es el número de horas libres sobre el total de horas del día: 7/24."
+        }
+      ]
+    }
+  ]
+}

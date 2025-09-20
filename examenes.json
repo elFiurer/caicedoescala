@@ -1,0 +1,114 @@
+[
+  {
+    "id": 3,
+    "proceso": "Nombramiento",
+    "anio": 2018,
+    "nivel": "Secundaria",
+    "especialidad": "Arte y Cultura",
+    "modalidad": "EBR",
+    "preguntas": 90,
+    "tiempo": 225,
+    "archivos": {
+      "generico": "data/nombramiento/generico/generico_ebr_2018.json",
+      "especifico": "data/nombramiento/secundaria/2018/arte_cultura2018.json"
+    }
+  },
+  {
+    "id": 4,
+    "proceso": "Nombramiento",
+    "anio": 2018,
+    "nivel": "Secundaria",
+    "especialidad": "Ciencias Sociales ",
+    "modalidad": "EBR",
+    "preguntas": 90,
+    "tiempo": 225,
+    "archivos": {
+      "generico": "data/nombramiento/generico/generico_ebr_2018.json",
+      "especifico": "data/nombramiento/secundaria/2018/ciencias_sociales_2018.json"
+    }
+  },
+  
+  {
+    "id": 5,
+    "proceso": "Nombramiento",
+    "anio": 2018,
+    "nivel": "Secundaria",
+    "especialidad": "Comunicación ",
+    "modalidad": "EBR",
+    "preguntas": 90,
+    "tiempo": 225,
+    "archivos": {
+      "generico": "data/nombramiento/generico/generico_ebr_2018.json",
+      "especifico": "data/nombramiento/secundaria/2018/comunicacion_2018.json"
+    }
+  },
+  {
+    "id": 5,
+    "proceso": "Nombramiento",
+    "anio": 2018,
+    "nivel": "Secundaria",
+    "especialidad": "Educación Física ",
+    "modalidad": "EBR",
+    "preguntas": 90,
+    "tiempo": 225,
+    "archivos": {
+      "generico": "data/nombramiento/generico/generico_ebr_2018.json",
+      "especifico": "data/nombramiento/secundaria/2018/educacion_fisica_secundaria.json"
+    }
+  },
+  {
+    "id": 6,
+    "proceso": "Nombramiento",
+    "anio": 2018,
+    "nivel": "Secundaria",
+    "especialidad": "Matemática",
+    "modalidad": "EBR",
+    "preguntas": 90,
+    "tiempo": 225,
+    "archivos": {
+      "generico": "data/nombramiento/generico/generico_ebr_2018.json",
+      "especifico": "data/nombramiento/secundaria/2018/matematica_2018.json"
+    }
+  },
+  {
+    "id": 10, 
+    "proceso": "Nombramiento",
+    "anio": 2018,
+    "nivel": "Secundaria",
+    "especialidad": "Ciencia y Tecnología",
+    "modalidad": "EBR",
+    "preguntas": 90,
+    "tiempo": 225,
+    "archivos": {
+      "generico": "data/nombramiento/generico/generico_ebr_2018.json",
+      "especifico": "data/nombramiento/secundaria/2018/ciencia_y_tecnologia_2018.json"
+    }
+    
+  },
+  {
+    "id": 20,
+    "proceso": "Ascenso",
+    "anio": 2018,
+    "nivel": "Primaria",
+    "especialidad": "Primaria",
+    "modalidad": "EBR",
+    "preguntas": 60,
+    "tiempo": 180,
+    "archivos": {
+      "especifico": "data/ascenso/primaria/2018/ascenso_primaria2018.json"
+    }
+  },
+  {
+    "id": 21,
+    "proceso": "Ascenso",
+    "anio": 2018,
+    "nivel": "Secundaria",
+    "especialidad": "Comunicación ",
+    "modalidad": "EBR",
+    "preguntas": 60,
+    "tiempo": 180,
+    "archivos": {
+      "especifico": "data/ascenso/secundaria/2018/ascenso_comunicación2018.json"
+    }
+  }
+]

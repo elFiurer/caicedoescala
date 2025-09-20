@@ -11,16 +11,16 @@
 
 <body>
     <div id="highlighter-guide-overlay">
-    <div class="guide-container">
-        <h3>¡Usa el Resaltador de Texto!</h3>
-        <p>Selecciona cualquier parte de una pregunta o lectura para marcarla.</p>
-        <div class="guide-animation">
-            <span class="guide-text">La respuesta correcta es...</span>
-            <div class="hand-icon">👇</div>
+        <div class="guide-container">
+            <h3>¡Usa el Resaltador de Texto!</h3>
+            <p>Selecciona cualquier parte de una pregunta o lectura para marcarla.</p>
+            <div class="guide-animation">
+                <span class="guide-text">La respuesta correcta es...</span>
+                <div class="hand-icon">👇</div>
+            </div>
+            <button id="close-guide-btn">Entendido</button>
         </div>
-        <button id="close-guide-btn">Entendido</button>
     </div>
-</div>
     <div id="highlighter-guide-overlay">
         <div id="guide-content">
             <div id="guide-animation">
@@ -70,8 +70,10 @@
                 <div class="feedback-container" id="feedback-container"></div>
             </div>
 
-            <div class="navigation-buttons" style="justify-content: flex-end;">
-                <button id="next-btn-practica" class="btn-secondary" disabled>Siguiente Pregunta</button>
+            <div class="navigation-buttons"
+                style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+                <button id="finish-btn-practica" class="btn-secondary">Finalizar Práctica</button>
+                <button id="next-btn-practica" class="btn-cta" disabled>Siguiente Pregunta</button>
             </div>
         </div>
     </main>
@@ -83,12 +85,7 @@
     <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-auth-compat.js"></script>
     <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-firestore-compat.js"></script>
 
-    <script src="data/nombramiento/secundaria/2018/matematica_2018.js"></script>
-    <script src="data/nombramiento/secundaria/2018/comunicacion_2018.js"></script>
-    <script src="data/nombramiento/primaria/2018/primaria_2018.js"></script>
-    <script src="data/nombramiento/secundaria/2018/educacion_fisica_2018.js"></script>
-    <script src="data/nombramiento/secundaria/2018/ciencia_y_tecnologia_2018.js"></script>
-    <script src="data/nombramiento/generico/generico_ebr_2018.js"></script>
+
     <script src="script.js"></script>
 </body>
 

@@ -1,0 +1,619 @@
+{
+  "Conocimientos Pedagógicos": [
+    {
+      "idGrupo": "cp_ciencia_2018_p51",
+      "contexto": "Para dar inicio a una sesión de aprendizaje sobre la salud y la enfermedad, una docente plantea la siguiente pregunta a los estudiantes: ¿qué significa estar saludable? A continuación, se presentan las intervenciones de los estudiantes.\n\nJuan: \"Yo me he dado cuenta de que algunas personas se enferman menos que otras; quizás sea porque se alimentan mejor, hacen deporte, tienen una vida tranquila; o sea, llevan una vida más saludable\".\n\nIván: \"Es bien difícil que las personas estén saludables, porque pueden estar bien físicamente, pero tener problemas a su alrededor\".\n\nAna: \"Acá en el texto, dice que, según la OMS, la salud es un estado de completo bienestar físico, mental y social, y no solamente la ausencia de afecciones o enfermedades\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de ellas NO es un saber previo?",
+          "opciones": [
+            "Juan: \"Yo me he dado cuenta de que algunas personas se enferman menos que otras; quizás sea porque se alimentan mejor, hacen deporte, tienen una vida tranquila; o sea, llevan una vida más saludable\".",
+            "Iván: \"Es bien difícil que las personas estén saludables, porque pueden estar bien físicamente, pero tener problemas a su alrededor\".",
+            "Ana: \"Acá en el texto, dice que, según la OMS, la salud es un estado de completo bienestar físico, mental y social, y no solamente la ausencia de afecciones o enfermedades\"."
+          ],
+          "respuesta": "Ana: \"Acá en el texto, dice que, según la OMS, la salud es un estado de completo bienestar físico, mental y social, y no solamente la ausencia de afecciones o enfermedades\".",
+          "respuestaCorta": "C",
+          "solucionario": "La intervención de Ana no es un saber previo porque está citando directamente información del texto que están leyendo en clase, no es conocimiento que ella traía antes de la sesión.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ciencia_2018_p52",
+      "contexto": "Un docente se encuentra trabajando una sesión de aprendizaje sobre los estados de agregación de la materia.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes actividades sería más pertinente que plantee el docente para activar los saberes previos de los estudiantes?",
+          "opciones": [
+            "Pedirles que identifiquen en el aula materiales que se encuentran en estado sólido, líquido y gaseoso. Luego, preguntarles qué criterios emplearon para clasificarlos.",
+            "Presentarles un video sobre los estados de agregación de la materia. Luego, anotar en la pizarra las ideas principales y hacer un resumen en base a dichas ideas.",
+            "Presentarles tarjetas desordenadas con los títulos de los estados de agregación de la materia e imágenes de cada uno de estos estados. Luego, pedirles que unan correctamente las tarjetas y las peguen en la pizarra."
+          ],
+          "respuesta": "Pedirles que identifiquen en el aula materiales que se encuentran en estado sólido, líquido y gaseoso. Luego, preguntarles qué criterios emplearon para clasificarlos.",
+          "respuestaCorta": "A",
+          "solucionario": "La opción A es la más pertinente porque parte de la experiencia directa de los estudiantes con su entorno inmediato, permitiéndoles activar sus conocimientos previos sobre los estados de la materia.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ciencia_2018_p53_54",
+      "contexto": "Un docente ha notado que los estudiantes creen que el volumen total de una mezcla siempre es igual a la suma de los volúmenes individuales de las sustancias por separado. A partir de ello, ha desarrollado la siguiente experiencia con los estudiantes distribuidos en grupos:\n\n1. Se colocó 250 mL de agua en una probeta graduada.\n2. Se colocó 20 g de azúcar en otra probeta y se midió el volumen del azúcar.\n3. Se agregó el azúcar a la probeta que contenía agua y se disolvió el azúcar en ella con ayuda de un agitador.\n4. Se midió el volumen de la mezcla, el cual era menor a la suma de los volúmenes de agua y azúcar por separado.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál fue el principal propósito del docente al desarrollar esta experiencia con los estudiantes?",
+          "opciones": [
+            "Recoger saberes previos de los estudiantes.",
+            "Generar un conflicto cognitivo en los estudiantes.",
+            "Promover la formulación de hipótesis en los estudiantes."
+          ],
+          "respuesta": "Generar un conflicto cognitivo en los estudiantes.",
+          "respuestaCorta": "B",
+          "solucionario": "El docente busca generar un conflicto cognitivo al mostrar que el volumen final de la mezcla no es la suma de los volúmenes individuales, contradiciendo la creencia previa de los estudiantes.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        },
+        {
+          "pregunta": "Luego de realizar esta experiencia, una estudiante comentó lo siguiente: \"Yo pensé que el agua iba a subir más después de disolver los 20 gramos de azúcar en ella porque yo aprendí que dos cosas no pueden ocupar el mismo espacio al mismo tiempo, pero aquí no sucede esto. No comprendo por qué\". ¿Cuál de las siguientes actividades sería pertinente que plantee el docente para atender a la duda que expresa la estudiante en su comentario?",
+          "opciones": [
+            "Llenar con agua un vaso hasta el tope, introducir una manzana pequeña y preguntarle: ¿qué propiedad de la materia estás observando?",
+            "En un recipiente lleno de canicas, agregar arena y preguntarle: ¿por qué a pesar de que el recipiente está lleno de canicas, puede caber arena?",
+            "Pedirle que vuelva a realizar la misma experiencia, pero esta vez que observe mejor la medida inicial del volumen de las sustancias y la medida final de la mezcla."
+          ],
+          "respuesta": "En un recipiente lleno de canicas, agregar arena y preguntarle: ¿por qué a pesar de que el recipiente está lleno de canicas, puede caber arena?",
+          "respuestaCorta": "B",
+          "solucionario": "La opción B es pertinente porque presenta una analogía visual que ayuda a comprender cómo las moléculas de azúcar pueden ocupar los espacios entre las moléculas de agua.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ciencia_2018_p55_57",
+      "contexto": "Durante una sesión de aprendizaje sobre los cambios físicos que experimenta la materia, una docente presenta a los estudiantes las siguientes figuras:\n\nFigura 1: Partículas muy juntas y ordenadas\nFigura 2: Partículas con cierta separación\nFigura 3: Partículas muy separadas",
+      "imagen": "img/ciencia_2018_q55.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las figuras representa una sustancia que adopta el volumen del recipiente que la contiene?",
+          "opciones": [
+            "Figura 1",
+            "Figura 2",
+            "Figura 3"
+          ],
+          "respuesta": "Figura 3",
+          "respuestaCorta": "C",
+          "solucionario": "La Figura 3 representa un gas, que adopta el volumen del recipiente que lo contiene debido a que sus partículas están muy separadas y se mueven libremente.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        },
+        {
+          "pregunta": "El dióxido de nitrógeno (NO₂) tiene un punto de fusión de –11,2°C y un punto de ebullición de 21,2°C, a 1 atm. ¿Cuál de las figuras representa las moléculas de NO₂ a –5°C?",
+          "opciones": [
+            "Figura 1",
+            "Figura 2",
+            "Figura 3"
+          ],
+          "respuesta": "Figura 2",
+          "respuestaCorta": "B",
+          "solucionario": "A –5°C, el NO₂ está en estado líquido (entre su punto de fusión de –11,2°C y su punto de ebullición de 21,2°C), representado por la Figura 2.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        },
+        {
+          "pregunta": "La docente pregunta a los estudiantes cuál de las sustancias podrá comprimirse con mayor facilidad. ¿Cuál de las siguientes estudiantes responde correctamente a la pregunta de la docente?",
+          "opciones": [
+            "Norma: \"Pienso que es más fácil comprimir la sustancia de la figura tres porque hay más espacio entre las partículas\".",
+            "Claudia: \"Yo creo que la sustancia de la figura dos porque hay más espacio sin partículas en el recipiente\".",
+            "Roxana: \"La más fácil de comprimir es la sustancia de la figura uno porque ocupa más espacio\"."
+          ],
+          "respuesta": "Norma: \"Pienso que es más fácil comprimir la sustancia de la figura tres porque hay más espacio entre las partículas\".",
+          "respuestaCorta": "A",
+          "solucionario": "Norma responde correctamente porque los gases (Figura 3) son más compresibles debido al mayor espacio entre sus partículas.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ciencia_2018_p58_60",
+      "contexto": "Durante el trabajo de una sesión de aprendizaje sobre los tipos de respiración (aeróbica y anaeróbica), una docente presenta a los estudiantes los siguientes gráficos sobre la cantidad de glucosa y lactato (forma en la que se encuentra el ácido láctico en el cuerpo humano) en la sangre de una persona antes de iniciar (cuando todavía está en reposo) y al terminar una carrera de 100 m planos a su máxima velocidad.",
+      "imagen": "img/ciencia_2018_q58.png",
+      "preguntas": [
+        {
+          "pregunta": "¿A cuál de las siguientes preguntas se busca responder con los resultados que se presentan en los gráficos?",
+          "opciones": [
+            "¿Qué relación existe entre las concentraciones de glucosa y lactato en la sangre de una persona?",
+            "¿Qué diferencias hay entre las concentraciones de glucosa y lactato en la sangre de una persona al inicio y fin de una actividad deportiva intensa?",
+            "¿Por qué las concentraciones de glucosa y lactato en la sangre de las personas cambian luego de realizar una actividad deportiva intensa?"
+          ],
+          "respuesta": "¿Qué diferencias hay entre las concentraciones de glucosa y lactato en la sangre de una persona al inicio y fin de una actividad deportiva intensa?",
+          "respuestaCorta": "B",
+          "solucionario": "Los gráficos comparan las concentraciones al inicio y al final de la actividad, buscando identificar las diferencias entre estos dos momentos.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        },
+        {
+          "pregunta": "Según los gráficos presentados, ¿qué evidencia sustenta que ha ocurrido respiración anaeróbica durante la carrera de 100 m planos?",
+          "opciones": [
+            "El que la glucosa no se haya consumido por completo al finalizar la carrera.",
+            "La disminución de la concentración de glucosa al finalizar la carrera.",
+            "El aumento de la concentración de lactato al finalizar la carrera."
+          ],
+          "respuesta": "El aumento de la concentración de lactato al finalizar la carrera.",
+          "respuestaCorta": "C",
+          "solucionario": "El aumento significativo del lactato es evidencia de respiración anaeróbica, ya que el lactato es un producto de este tipo de respiración.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        },
+        {
+          "pregunta": "Un estudiante realiza el siguiente comentario: \"El lactato se produce en las personas solo cuando hacen actividades de mucho esfuerzo físico\". ¿Cuál de las siguientes preguntas es pertinente que realice la docente para hacer reflexionar al estudiante sobre el error que se evidencia en su comentario?",
+          "opciones": [
+            "¿Por qué hay lactato en la sangre de la persona antes de iniciar la actividad física?",
+            "¿El lactato se produce solo en las personas o también en otros seres vivos?",
+            "¿En todas las actividades de gran esfuerzo físico se produce lactato?"
+          ],
+          "respuesta": "¿Por qué hay lactato en la sangre de la persona antes de iniciar la actividad física?",
+          "respuestaCorta": "A",
+          "solucionario": "Esta pregunta hace reflexionar al estudiante sobre el error de creer que el lactato solo se produce durante el ejercicio intenso, cuando en realidad siempre hay cierto nivel basal.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ciencia_2018_p61_63",
+      "contexto": "Los grupos sanguíneos del sistema ABO son AB, A, B y O tal como se muestra en la figura. Es importante conocer el grupo al que pertenecemos, ya que recibir una transfusión sanguínea de un grupo distinto al nuestro puede desencadenar una serie de complicaciones en nuestro organismo. Por ejemplo, si una persona del grupo O– recibiera una transfusión sanguínea de tipo AB+, produciría anticuerpos contra los antígenos de la sangre recibida.\n\nPor otra parte, el sistema Rh comprende varios antígenos, el más importante es el D. Hay dos diferentes alelos para el factor Rh, Rh presente (Rh+) y Rh ausente (Rh–), que se refieren a la presencia o ausencia del antígeno D en la sangre, respectivamente. Mucho más común es la presencia del antígeno D (aproximadamente el 85% de la población lo presenta). La información genética del sistema Rh se hereda de manera independiente del sistema ABO.",
+      "imagen": "img/ciencia_2018_q61.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes alternativas describe una relación correcta entre un antígeno y un anticuerpo?",
+          "opciones": [
+            "Un antígeno es una proteína del sistema inmune que permite destruir anticuerpos.",
+            "Un antígeno es una molécula capaz de inducir la producción de un anticuerpo.",
+            "Un antígeno es un agente patógeno que es neutralizado por anticuerpos."
+          ],
+          "respuesta": "Un antígeno es una molécula capaz de inducir la producción de un anticuerpo.",
+          "respuestaCorta": "B",
+          "solucionario": "Un antígeno es cualquier sustancia que puede inducir una respuesta inmune, específicamente la producción de anticuerpos.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        },
+        {
+          "pregunta": "¿Cuál de las siguientes alternativas explica por qué el fenotipo Rh+ es más común que el Rh–?",
+          "opciones": [
+            "Rh+ es un alelo dominante y Rh– es un alelo recesivo.",
+            "Rh+ es un alelo recesivo y Rh– es un alelo dominante.",
+            "Rh+ y Rh– son alelos dominantes."
+          ],
+          "respuesta": "Rh+ es un alelo dominante y Rh– es un alelo recesivo.",
+          "respuestaCorta": "A",
+          "solucionario": "El Rh+ es más común porque es un alelo dominante, por lo que basta con tener una copia del alelo para expresar el fenotipo Rh+.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        },
+        {
+          "pregunta": "Los grupos sanguíneos ABO dependen de tres alelos: IA, IB e i. Los dos primeros son dominantes y el tercero, recesivo. Si un niño es homocigoto del grupo sanguíneo O y su padre es del grupo sanguíneo B, ¿cuál de los siguientes NO es un probable genotipo para la madre del niño?",
+          "opciones": [
+            "IAi",
+            "ii",
+            "IAIB"
+          ],
+          "respuesta": "IAIB",
+          "respuestaCorta": "C",
+          "solucionario": "Para que el niño sea homocigoto O (ii), debe recibir un alelo i de cada padre. Si la madre fuera IAIB, no podría aportar el alelo i necesario.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ciencia_2018_p64",
+      "contexto": "Un docente se encuentra trabajando una sesión de aprendizaje sobre los procesos de división celular. El docente pide a los estudiantes completar una tabla de diferencias entre mitosis y meiosis. A continuación, se presentan las respuestas de una de las estudiantes:\n\nMitosis: somáticas, 2, Su material genético es igual al de la célula de origen, 46\nMeiosis: sexuales, 4, Su material genético es igual al de la célula de origen, 23",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes alternativas es el error que se evidencia en las respuestas de la estudiante?",
+          "opciones": [
+            "Creer que, tanto en la mitosis como en la meiosis, los cromosomas de las células hijas tienen igual material genético que la célula de origen.",
+            "Creer que el número final de cromosomas en cada célula hija depende del tipo de división celular.",
+            "Creer que la mitosis y la meiosis ocurren en diferentes tipos de células."
+          ],
+          "respuesta": "Creer que, tanto en la mitosis como en la meiosis, los cromosomas de las células hijas tienen igual material genético que la célula de origen.",
+          "respuestaCorta": "A",
+          "solucionario": "El error está en creer que en la meiosis las células hijas tienen el mismo material genético que la célula de origen, cuando en realidad hay recombinación y reducción cromosómica.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ciencia_2018_p65_69",
+      "contexto": "En la siguiente tabla, se muestran los resultados de cuatro ensayos realizados por un investigador que consistieron en agregar una solución de almidón a otra de amilasa salival, contenidas en tubos de ensayo y a diferentes temperaturas, y observar la coloración de estas nuevas soluciones en presencia de lugol cada 30 segundos.",
+      "imagen": "img/ciencia_2018_q65.png",
+      "preguntas": [
+        {
+          "pregunta": "A partir de los datos presentados, ¿cuál de las siguientes preguntas se busca responder en la indagación?",
+          "opciones": [
+            "¿Cómo afecta la temperatura a la acción de las enzimas digestivas en la degradación del almidón?",
+            "¿Cuál es el efecto de la temperatura en el tiempo de degradación del almidón por la amilasa salival?",
+            "¿Cómo cambia la coloración del lugol en función del tiempo de reacción entre el almidón y la amilasa salival?"
+          ],
+          "respuesta": "¿Cuál es el efecto de la temperatura en el tiempo de degradación del almidón por la amilasa salival?",
+          "respuestaCorta": "B",
+          "solucionario": "La investigación busca determinar cómo la temperatura afecta el tiempo que tarda la amilasa en degradar el almidón.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        },
+        {
+          "pregunta": "¿A qué se deben los cambios de color observados en los ensayos?",
+          "opciones": [
+            "A la ruptura de enlaces glucosídicos.",
+            "A la ruptura de enlaces peptídicos.",
+            "A la fermentación de carbohidratos."
+          ],
+          "respuesta": "A la ruptura de enlaces glucosídicos.",
+          "respuestaCorta": "A",
+          "solucionario": "Los cambios de color se deben a la ruptura de enlaces glucosídicos del almidón por acción de la amilasa.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        },
+        {
+          "pregunta": "¿Por qué en los ensayos 2 y 3 NO se efectuaron algunas mediciones?",
+          "opciones": [
+            "Porque la reacción concluyó.",
+            "Porque se obtuvo un color distinto al esperado.",
+            "Porque se requiere mayor tiempo de reacción para observar un cambio."
+          ],
+          "respuesta": "Porque la reacción concluyó.",
+          "respuestaCorta": "A",
+          "solucionario": "No se efectuaron más mediciones porque la reacción ya había concluido (color naranja indica ausencia de almidón).",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        },
+        {
+          "pregunta": "¿Cuál es el objetivo del ensayo 4?",
+          "opciones": [
+            "Evaluar la reproducibilidad del ensayo 1.",
+            "Identificar la coloración del lugol a 20°C.",
+            "Identificar la coloración del lugol en presencia solo del almidón."
+          ],
+          "respuesta": "Identificar la coloración del lugol en presencia solo del almidón.",
+          "respuestaCorta": "C",
+          "solucionario": "El ensayo 4 es un control que muestra qué ocurre cuando hay almidón pero no hay enzima (amilasa).",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        },
+        {
+          "pregunta": "¿Cuál de las siguientes NO es una característica de las enzimas?",
+          "opciones": [
+            "Modifican la velocidad de las reacciones químicas.",
+            "Se unen al sustrato de una reacción química.",
+            "Se consumen en la reacción química."
+          ],
+          "respuesta": "Se consumen en la reacción química.",
+          "respuestaCorta": "C",
+          "solucionario": "Las enzimas no se consumen en las reacciones químicas; actúan como catalizadores y pueden ser reutilizadas.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ciencia_2018_p70",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes gráficos representa la actividad enzimática en función de la temperatura?",
+          "opciones": [
+            "Gráfico A: línea recta ascendente",
+            "Gráfico B: curva que aumenta y luego se estabiliza",
+            "Gráfico C: curva con forma de campana"
+          ],
+          "respuesta": "Gráfico C: curva con forma de campana",
+          "respuestaCorta": "C",
+          "solucionario": "La actividad enzimática aumenta con la temperatura hasta un punto óptimo y luego disminuye por desnaturalización, formando una curva de campana.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ciencia_2018_p71_72",
+      "contexto": "El alcohol etílico es una sustancia que puede generar dependencia en las personas que lo consumen. Inhibe la producción de glóbulos blancos, genera el deterioro del hígado (principal órgano donde es metabolizado) y de las mucosas del sistema digestivo, incrementa la actividad cardíaca y causa deshidratación, ya que altera la producción de la hormona antidiurética (HAD), encargada de favorecer la reabsorción de agua en los riñones, entre otras consecuencias.\n\nA continuación, se muestra un gráfico sobre la evolución de la tasa de alcoholemia en la sangre de Luis. Luis ingirió la bebida alcohólica (12,5% de alcohol etílico en volumen) en ayunas, en un periodo de 20 minutos que empezó a las 8:00 a.m. y permaneció en ayunas las 4 horas que duró el estudio. Además, se aseguró que Luis no consumiera alcohol las 48 horas previas al estudio.",
+      "imagen": "img/ciencia_2018_q71.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes afirmaciones es correcta a partir del gráfico?",
+          "opciones": [
+            "Luego de una hora de haber iniciado el estudio, Luis tiene permitido conducir.",
+            "La cantidad total de alcohol en la sangre de Luis, luego de dos horas, es mucho mayor a 40 mg.",
+            "El nivel máximo de alcohol que se puede encontrar en la sangre de las personas es de 60 mg/dL."
+          ],
+          "respuesta": "Luego de una hora de haber iniciado el estudio, Luis tiene permitido conducir.",
+          "respuestaCorta": "A",
+          "solucionario": "Después de una hora, el nivel de alcohol en sangre ha bajado por debajo del límite permitido para conducir (50 mg/dL).",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        },
+        {
+          "pregunta": "¿Cuál de las siguientes consecuencias podría estar relacionada con el consumo excesivo de alcohol?",
+          "opciones": [
+            "Reducción significativa de la presión arterial.",
+            "Propensión a infecciones bacterianas o virales.",
+            "Incremento de la producción de la hormona antidiurética."
+          ],
+          "respuesta": "Propensión a infecciones bacterianas o virales.",
+          "respuestaCorta": "B",
+          "solucionario": "El alcohol inhibe la producción de glóbulos blancos, lo que aumenta la propensión a infecciones.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ciencia_2018_p73_74",
+      "contexto": "Un estudiante realiza el siguiente comentario: \"Los adultos tienen cirrosis porque han sido alcohólicos desde su juventud\".\n\nEl alcohol etílico (CH₃CH₂OH) de las bebidas alcohólicas es oxidado en el hígado y produce acetaldehído (CH₃CHO), de acuerdo a la siguiente ecuación de la reacción:\nCH₃CH₂OH + NAD⁺ → CH₃CHO + NADH + H⁺",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes alternativas es el error que se evidencia en el comentario del estudiante?",
+          "opciones": [
+            "Creer que solo los adultos padecen de cirrosis.",
+            "Creer que el consumo excesivo de alcohol genera cirrosis.",
+            "Creer que solo las personas alcohólicas padecen de cirrosis."
+          ],
+          "respuesta": "Creer que solo las personas alcohólicas padecen de cirrosis.",
+          "respuestaCorta": "C",
+          "solucionario": "El error es creer que solo los alcohólicos padecen cirrosis, cuando existen otras causas como hepatitis viral, hígado graso no alcohólico, etc.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        },
+        {
+          "pregunta": "Un agente oxidante cambia de número de oxidación por ganancia de electrones. ¿Cuál de las siguientes alternativas corresponde al agente oxidante de la reacción?",
+          "opciones": [
+            "H⁺",
+            "NAD⁺",
+            "CH₃CH₂OH"
+          ],
+          "respuesta": "NAD⁺",
+          "respuestaCorta": "B",
+          "solucionario": "El NAD⁺ es el agente oxidante porque gana electrones (se reduce) mientras oxida al alcohol etílico.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    
+  {
+      "idGrupo": "cp_ciencia_2018_p75_77",
+      "contexto": "Un docente propone a los estudiantes realizar en grupos la siguiente experiencia sobre el efecto invernadero:\n\n1. Conseguir dos botellas de plástico de 2L transparentes e iguales. Hacer un pequeño orificio en la tapa de una de las botellas. Luego, atravesar un termómetro por el orificio y ajustarlo con cinta adhesiva.\n2. Colocar una lámpara con una potencia de al menos 100 watts frente a la botella.\n3. Registrar la temperatura en la botella (temperatura del ambiente). Encender la lámpara y registrar la temperatura cada dos minutos durante treinta minutos.\n4. Introducir tres cubos de hielo seco (CO₂ sólido) en la otra botella abierta y esperar a que empiece a sublimar. Cuando haya sublimado todo el hielo, colocar la tapa con el termómetro de la otra botella. Cuando la temperatura del CO₂ se equilibre con la temperatura del ambiente, repetir el procedimiento descrito en 3.",
+      "imagen": "img/ciencia_2018_q75.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes hipótesis se busca validar con esta experiencia?",
+          "opciones": [
+            "La capacidad del CO₂ para absorber calor es mayor que la del aire.",
+            "La temperatura del aire y del CO₂ cambian con el tiempo.",
+            "El CO₂ es el principal gas de efecto invernadero en el aire."
+          ],
+          "respuesta": "La capacidad del CO₂ para absorber calor es mayor que la del aire.",
+          "respuestaCorta": "A",
+          "solucionario": "La experiencia busca comparar cómo el CO₂ y el aire absorben calor bajo las mismas condiciones, validando que el CO₂ tiene mayor capacidad de absorción.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        },
+        {
+          "pregunta": "El docente pide a los estudiantes que propongan una tabla para registrar los datos de la experiencia. ¿Cuál de los siguientes esquemas de tablas propuestas por los estudiantes es adecuado para registrar los datos?",
+          "opciones": [
+            "Grupo 1: Material | Botella con aire - Temperatura (°C) | Botella con CO₂ - Tiempo (minutos)",
+            "Grupo 2: Gas | Temperatura (°C) | Tiempo (minutos) con filas para Aire y CO₂",
+            "Grupo 3: Tiempo (minutos) | Temperatura (°C) con columnas para Aire y CO₂"
+          ],
+          "respuesta": "Grupo 3: Tiempo (minutos) | Temperatura (°C) con columnas para Aire y CO₂",
+          "respuestaCorta": "C",
+          "solucionario": "La tabla del Grupo 3 es adecuada porque permite registrar las temperaturas de ambos gases en función del tiempo de manera organizada.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        },
+        {
+          "pregunta": "¿Cuál de las siguientes alternativas describe una variable que NO ha sido considerada en la experiencia y que debe ser controlada?",
+          "opciones": [
+            "El tipo de luz que emite el foco.",
+            "El volumen que ocupa cada gas.",
+            "La distancia entre la lámpara y la botella."
+          ],
+          "respuesta": "La distancia entre la lámpara y la botella.",
+          "respuestaCorta": "C",
+          "solucionario": "La distancia entre la lámpara y la botella debe ser controlada para asegurar que ambas botellas reciban la misma cantidad de energía.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ciencia_2018_p78_79",
+      "contexto": "Una docente trabaja con los estudiantes el movimiento de los cuerpos. Para ello, presenta el caso de una persona que desea cruzar una piscina nadando desde la posición 1 hasta la posición 2.",
+      "imagen": "img/ciencia_2018_q78.png",
+      "preguntas": [
+        {
+          "pregunta": "Tras realizar el nado de ida y vuelta, ¿cuál es la magnitud del vector desplazamiento de la persona?",
+          "opciones": [
+            "0 m",
+            "15 m",
+            "30 m"
+          ],
+          "respuesta": "0 m",
+          "respuestaCorta": "A",
+          "solucionario": "El desplazamiento es cero porque la persona regresa al punto de partida; el desplazamiento es un vector que va del punto inicial al final.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        },
+        {
+          "pregunta": "La docente expresa que, ahora, consideren que la persona ya no nada en una piscina, sino en un río. El agua del río se mueve en sentido -X a +X (de izquierda a derecha) con una rapidez de 1,0 m/s. ¿Cuál de las siguientes representaciones corresponde a la suma de velocidades tal que la persona cruza el río nadando desde la posición 1 hasta la posición 2?",
+          "opciones": [
+            "Vnadador vertical hacia arriba, Vrío horizontal hacia la derecha, Vresultante diagonal",
+            "Vnadador diagonal, Vrío horizontal, Vresultante vertical",
+            "Vnadador vertical, Vrío horizontal, Vresultante diagonal hacia abajo"
+          ],
+          "respuesta": "Vnadador diagonal, Vrío horizontal, Vresultante vertical",
+          "respuestaCorta": "B",
+          "solucionario": "Para cruzar perpendicularmente, el nadador debe nadar en diagonal compensando la corriente del río.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ciencia_2018_p80_82",
+      "contexto": "Una docente trabaja con los estudiantes los conceptos de fuerza, masa y aceleración. Para ello utiliza como materiales un par de cajas iguales con diferentes contenidos: una está llena de almohadas y la otra, de libros. Ambas están colocadas sobre una superficie lisa en la cual se puede despreciar la fuerza de fricción. La docente comenta a los estudiantes el contenido de cada caja.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes preguntas es pertinente que plantee la docente a los estudiantes para construir el concepto de inercia?",
+          "opciones": [
+            "¿Sobre cuál caja la aceleración de la gravedad es mayor?",
+            "¿Los cuerpos de igual volumen pueden tener masas diferentes?",
+            "¿Alguna de las cajas presentará mayor resistencia para moverse?"
+          ],
+          "respuesta": "¿Alguna de las cajas presentará mayor resistencia para moverse?",
+          "respuestaCorta": "C",
+          "solucionario": "Esta pregunta lleva a los estudiantes a reflexionar sobre la inercia, que es la resistencia de un objeto a cambiar su estado de movimiento.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        },
+        {
+          "pregunta": "Carlos, uno de los estudiantes, mueve una de las cajas hacia la izquierda, ¿cuál de las siguientes representaciones corresponde al diagrama de cuerpo libre de la caja cuando la está moviendo, teniendo en cuenta que se desprecia la fuerza de fricción?",
+          "opciones": [
+            "Flecha hacia abajo (peso), flecha hacia arriba (normal), flecha hacia la izquierda (fuerza aplicada)",
+            "Flecha hacia abajo (peso), flecha hacia arriba (normal), flecha hacia la derecha (fuerza aplicada)",
+            "Flecha hacia abajo (peso), flecha hacia arriba (normal), flecha hacia la izquierda (fuerza aplicada), flecha hacia la derecha (fuerza de fricción)"
+          ],
+          "respuesta": "Flecha hacia abajo (peso), flecha hacia arriba (normal), flecha hacia la izquierda (fuerza aplicada)",
+          "respuestaCorta": "A",
+          "solucionario": "El diagrama muestra el peso hacia abajo, la normal hacia arriba y la fuerza aplicada hacia la izquierda (dirección del movimiento).",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        },
+        {
+          "pregunta": "Carlos está moviendo una de las cajas con una fuerza constante. Luego, mientras Carlos mueve la caja, Alberto empieza a aplicar una fuerza de menor magnitud, pero en sentido opuesto sobre esta caja. Alberto va incrementando la fuerza de oposición hasta que esta es igual en magnitud a la fuerza que aplica Carlos. Finalmente, ambos se mantienen de esta manera. ¿Qué se puede afirmar sobre la velocidad de la caja en el momento en que ambas fuerzas tienen la misma magnitud?",
+          "opciones": [
+            "Es cero.",
+            "Es constante.",
+            "Empieza a disminuir."
+          ],
+          "respuesta": "Es constante.",
+          "respuestaCorta": "B",
+          "solucionario": "Cuando las fuerzas se equilibran (fuerza neta = 0), la caja mantiene su velocidad constante según la primera ley de Newton.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ciencia_2018_p83_84",
+      "contexto": "Una docente trabaja con los estudiantes las relaciones cuantitativas que pueden extraerse a partir de ecuaciones que representan reacciones químicas. Para ello, muestra la siguiente representación de la evolución de una reacción entre dos sustancias, X e Y, en el tiempo.\n\nLa docente solicita a los estudiantes escribir la ecuación balanceada para la reacción. Una estudiante propone la siguiente ecuación: 2X + 2Y → 1XY₂ + 1X",
+      "imagen": "img/ciencia_2018_q83.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes es un error que se evidencia en la respuesta de la estudiante?",
+          "opciones": [
+            "No balancea adecuadamente la ecuación.",
+            "Confunde el reactivo en exceso con un producto de la reacción.",
+            "Los coeficientes que emplea no representan la cantidad total de partículas X e Y."
+          ],
+          "respuesta": "Confunde el reactivo en exceso con un producto de la reacción.",
+          "respuestaCorta": "B",
+          "solucionario": "La estudiante incluye incorrectamente X como producto cuando en realidad es el reactivo en exceso que queda sin reaccionar.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        },
+        {
+          "pregunta": "Para las condiciones dadas, ¿de cuál de las siguientes sustancias depende la cantidad máxima de producto que puede formarse en la reacción?",
+          "opciones": [
+            "Y",
+            "X",
+            "XY₂"
+          ],
+          "respuesta": "Y",
+          "respuestaCorta": "A",
+          "solucionario": "Y es el reactivo limitante que determina la cantidad máxima de producto que puede formarse.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ciencia_2018_p85_86",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué es lo que cambia en una reacción química?",
+          "opciones": [
+            "El número de átomos de cada elemento.",
+            "Los elementos que están enlazados.",
+            "La identidad de los elementos."
+          ],
+          "respuesta": "Los elementos que están enlazados.",
+          "respuestaCorta": "B",
+          "solucionario": "En una reacción química cambia la forma en que los átomos están enlazados, pero no cambia el número de átomos ni la identidad de los elementos.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        },
+        {
+          "pregunta": "¿Cuál de las siguientes descripciones corresponde a una interpretación inadecuada de los coeficientes de una ecuación química?",
+          "opciones": [
+            "Los coeficientes representan proporciones entre el número de moléculas de reactivos y productos.",
+            "Los coeficientes representan proporciones entre las moles de moléculas de reactivos y productos.",
+            "Los coeficientes representan proporciones entre la masa de reactivos y productos."
+          ],
+          "respuesta": "Los coeficientes representan proporciones entre la masa de reactivos y productos.",
+          "respuestaCorta": "C",
+          "solucionario": "Los coeficientes no representan directamente proporciones de masa, sino proporciones molares o de número de partículas.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ciencia_2018_p87",
+      "contexto": "Una docente tiene como propósito que los estudiantes evalúen la conductividad de soluciones. Para ello, les presenta el siguiente gráfico que corresponde a los resultados de un experimento sobre la conductividad de una solución de sulfato de magnesio (MgSO₄) en agua destilada.",
+      "imagen": "img/ciencia_2018_q87.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes problemas se pretende indagar con el experimento planteado?",
+          "opciones": [
+            "La influencia de la temperatura en la conductividad de la solución iónica.",
+            "El efecto de la cantidad de iones disueltos en la solución sobre su conductividad.",
+            "La influencia de la carga de los iones Mg²⁺ y SO₄²⁻ sobre la conductividad de la solución."
+          ],
+          "respuesta": "El efecto de la cantidad de iones disueltos en la solución sobre su conductividad.",
+          "respuestaCorta": "B",
+          "solucionario": "El experimento investiga cómo varía la conductividad al cambiar la concentración (cantidad de iones) en la solución.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ciencia_2018_p88_89",
+      "contexto": "Como parte del desarrollo de una sesión de aprendizaje sobre las células, un docente ha planteado que los estudiantes, en grupos, realicen la siguiente actividad:\n\nObservación de la mucosa bucal al microscopio óptico\n1. Raspar suavemente con un palito de madera o mondadientes la mucosa bucal de un integrante del grupo.\n2. Depositar la muestra extraída en el centro de un portaobjetos y agregar una gota de agua.\n3. Hacer un frotis de la muestra con ayuda del cubreobjetos.\n4. Calentar el portaobjetos sosteniéndolo con una pinza de madera.\n5. Añadir unas gotas de azul de metileno sobre la muestra; luego de unos minutos, enjuagarla con agua destilada cuidadosamente. Secar el sobrante de agua.\n6. Observar la muestra preparada al microscopio óptico con un ocular de 10x y objetivos de 4x, 10x, 40x y 100x. Dibujar lo observado.\n\nA continuación, se muestra lo dibujado por un estudiante: Células de la mucosa bucal (Citoplasma, Núcleo, Membrana celular) 400x",
+      "imagen": "img/ciencia_2018_q88.png",
+      "preguntas": [
+        {
+          "pregunta": "El estudiante, en su dibujo, ha colocado correctamente \"400x\". ¿Cuál de las siguientes alternativas describe qué significa \"400x\"?",
+          "opciones": [
+            "El estudiante utilizó el objetivo de 4x.",
+            "El estudiante utilizó el objetivo de 40x.",
+            "El estudiante utilizó el objetivo de 100x."
+          ],
+          "respuesta": "El estudiante utilizó el objetivo de 40x.",
+          "respuestaCorta": "B",
+          "solucionario": "400x es el aumento total que resulta de multiplicar el ocular (10x) por el objetivo (40x): 10x × 40x = 400x.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        },
+        {
+          "pregunta": "Luego, el estudiante realiza el siguiente comentario: \"Profesor, no dibujé a los ribosomas porque estas células no tienen esos organelos y, como no los tienen, tampoco se observan\". ¿Cuál de las siguientes preguntas permitiría reflexionar al estudiante sobre el error evidenciado en su comentario?",
+          "opciones": [
+            "¿Crees que los ribosomas son lo suficientemente grandes como para observarlos con el microscopio óptico?",
+            "¿Observaste la muestra de la mucosa bucal con cada uno de los objetivos del microscopio para localizar a los ribosomas?",
+            "¿Agregaste la cantidad suficiente de azul de metileno como para teñir y observar en la muestra a las células y sus organelos?"
+          ],
+          "respuesta": "¿Crees que los ribosomas son lo suficientemente grandes como para observarlos con el microscopio óptico?",
+          "respuestaCorta": "A",
+          "solucionario": "Esta pregunta hace reflexionar al estudiante sobre la limitación del microscopio óptico para observar estructuras tan pequeñas como los ribosomas.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ciencia_2018_p90",
+      "contexto": "Un grupo de investigadores realizó un estudio sobre los factores que influyen en la actividad fotosintética de un tipo de planta. A continuación, se presenta uno de los gráficos obtenidos a partir de este estudio.",
+      "imagen": "img/ciencia_2018_q90.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes afirmaciones se puede inferir del gráfico?",
+          "opciones": [
+            "A mayor temperatura, mayor actividad fotosintética.",
+            "Existe una temperatura óptima para la actividad fotosintética.",
+            "A partir de una determinada temperatura la actividad fotosintética se mantiene constante."
+          ],
+          "respuesta": "Existe una temperatura óptima para la actividad fotosintética.",
+          "respuestaCorta": "B",
+          "solucionario": "El gráfico muestra una curva con forma de campana, indicando que hay una temperatura óptima donde la actividad fotosintética es máxima.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    }
+  ]
+}
+    

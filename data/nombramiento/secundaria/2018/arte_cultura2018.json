@@ -1,0 +1,683 @@
+{
+  "Conocimientos Pedagógicos": [
+    {
+      "idGrupo": "cp_arte_cultura_2018_p51",
+      "contexto": "En la clase de Arte, los estudiantes han elaborado diversas piezas de arcilla, como platos, tazas y floreros. Luego de \"quemarlas\" en el horno, van a pintarlas con esmaltes para cerámica y luego volverán a hornearlas para lograr el acabado final. Luego de decidir el diseño y los colores que utilizarán, el docente les sugiere a los estudiantes que tracen con un lápiz los diseños en la superficie de las piezas y que luego apliquen varias capas delgadas de pintura.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Por qué es recomendable aplicar varias capas delgadas de pintura?",
+          "opciones": [
+            "Porque permite que cada capa se seque bien antes de seguir aplicando más pintura de manera que esta no se cuartee o se desprenda.",
+            "Porque permite superponer capas de distintos colores para conseguir colores nuevos aprovechando la transparencia del material.",
+            "Porque permite tener un mayor control de la aplicación del esmalte sobre el diseño y así no salirse de las líneas trazadas."
+          ],
+          "respuesta": "Porque permite que cada capa se seque bien antes de seguir aplicando más pintura de manera que esta no se cuartee o se desprenda.",
+          "respuestaCorta": "Aplicar capas delgadas de esmalte cerámico evita que la pintura se agriete o se caiga durante el secado y la cocción.",
+          "solucionario": "La aplicación de esmaltes cerámicos en capas gruesas puede causar problemas como el cuarteado (agrietamiento) o el desprendimiento de la capa de esmalte una vez que la pieza se seca o se hornea. Aplicar varias capas delgadas permite que cada una se seque adecuadamente, asegurando una mejor adherencia y un acabado más uniforme y duradero.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_arte_cultura_2018_p52",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Cuando se dibuja un retrato, ¿cuál de las siguientes acciones NO se recomienda para lograr la proporción y la simetría del rostro?",
+          "opciones": [
+            "Verificar la equidistancia de las partes del rostro respecto a un eje.",
+            "Relacionar las partes del rostro con la totalidad del mismo.",
+            "Definir los detalles del rostro."
+          ],
+          "respuesta": "Definir los detalles del rostro.",
+          "respuestaCorta": "La definición de detalles se realiza después de establecer la estructura y proporción general del rostro, no durante.",
+          "solucionario": "Para lograr la proporción y simetría en un retrato, los pasos iniciales se centran en la estructura general. Esto incluye usar un eje de simetría y relacionar el tamaño y la posición de las partes (ojos, nariz, boca) con la forma total de la cabeza. Definir los detalles finos (pestañas, arrugas, brillos) es una etapa posterior del dibujo, que se realiza una vez que la estructura básica y proporcional ya está correctamente establecida.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_arte_cultura_2018_p53",
+      "contexto": "El Diccionario Oxford dice lo siguiente sobre el término \"escorzo\": \"Representación de una figura situada oblicua o perpendicularmente al plano del papel o lienzo sobre el que se pinta, que se logra acortando sus líneas de acuerdo con las reglas de la perspectiva\".\n\nLos estudiantes de la clase de Arte van a crear una historieta y, antes de eso, el docente va a analizar con ellos el lenguaje visual del cómic para luego aplicarlo en sus proyectos. El docente se propone que los estudiantes construyan el concepto de escorzo, a fin de que aprecien su uso frecuente en las historietas.",
+      "imagen": "img/arte_cultura_2018_q53.png",
+      "preguntas": [
+        {
+          "pregunta": "El docente les presentará a los estudiantes diversos ejemplos que les permitan construir el concepto de escorzo. Buscando material en internet, ha encontrado las siguientes tres imágenes. ¿Cuál de ellas es la más adecuada para ayudar a los estudiantes a que construyan el concepto mencionado?",
+          "opciones": [
+            "Imagen a",
+            "Imagen b",
+            "Imagen c"
+          ],
+          "respuesta": "Imagen c",
+          "respuestaCorta": "La imagen C muestra un ejemplo claro y exagerado de escorzo, ideal para la comprensión del concepto.",
+          "solucionario": "El escorzo es una técnica de perspectiva que representa un objeto o cuerpo en un ángulo muy pronunciado, haciendo que parezca más corto de lo que es en realidad. La imagen 'c' (que comúnmente representa a un superhéroe volando hacia el espectador) es el ejemplo más explícito y didáctico de las tres, ya que el puño en primer plano se ve desproporcionadamente grande y el cuerpo se acorta drásticamente hacia el fondo, ilustrando perfectamente la definición de escorzo.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        },
+        {
+          "pregunta": "Luego de escoger una imagen apropiada, ¿cuál es el conjunto de preguntas más pertinente para iniciar el diálogo con los estudiantes y facilitar el aprendizaje del concepto de escorzo?",
+          "opciones": [
+            "\"¿Conocen el nombre que se le da al tipo de perspectiva que se ha usado en esta imagen? ¿Cuál es? ¿Cuáles son sus características principales?\".",
+            "\"¿Qué sensación visual les produce esta imagen? ¿A qué creen que se debe? ¿Por qué habrá usado el artista este recurso?\".",
+            "\"¿Han oído la palabra 'escorzo' alguna vez? ¿Saben qué significa? ¿Pueden identificar su uso en esta imagen?\"."
+          ],
+          "respuesta": "\"¿Qué sensación visual les produce esta imagen? ¿A qué creen que se debe? ¿Por qué habrá usado el artista este recurso?\".",
+          "respuestaCorta": "Preguntas abiertas sobre la sensación visual y el propósito del artista fomentan la construcción del concepto.",
+          "solucionario": "Para un aprendizaje constructivista, es más efectivo partir de la experiencia y percepción del estudiante. Las preguntas de la opción B invitan a los estudiantes a describir el efecto visual del escorzo (dinamismo, profundidad, impacto) y a inferir la intención del artista. Este enfoque les permite construir el significado y la función del concepto a partir de la observación, en lugar de simplemente pedirles una definición técnica que quizás no conozcan.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_arte_cultura_2018_p55",
+      "contexto": "En el cine y la fotografía se usa frecuentemente la posición de la cámara (o el ángulo de visión) como un medio expresivo.",
+      "imagen": "img/arte_cultura_2018_q55.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es el nombre del ángulo usado en la siguiente fotografía?",
+          "opciones": [
+            "Picado.",
+            "Cenital.",
+            "Contrapicado."
+          ],
+          "respuesta": "Contrapicado.",
+          "respuestaCorta": "El ángulo es contrapicado, ya que la cámara está posicionada debajo del sujeto, mirando hacia arriba.",
+          "solucionario": "El ángulo contrapicado (o ángulo bajo) se produce cuando la cámara se coloca por debajo del nivel de los ojos del sujeto y se inclina hacia arriba. Este ángulo tiende a engrandecer al sujeto, otorgándole una sensación de poder, superioridad o monumentalidad, como se observa en la fotografía presentada.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_arte_cultura_2018_p56",
+      "contexto": "En el cine y la fotografía se usan diversos encuadres o planos para definir qué queda dentro del cuadro captado por la cámara y organizar la composición.",
+      "imagen": "img/arte_cultura_2018_q56.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es el nombre del plano usado en la siguiente fotografía?",
+          "opciones": [
+            "Plano medio.",
+            "Primer plano.",
+            "Plano entero."
+          ],
+          "respuesta": "Plano medio.",
+          "respuestaCorta": "La fotografía utiliza un plano medio, que encuadra al sujeto desde la cintura o el pecho hacia arriba.",
+          "solucionario": "El plano medio encuadra a la figura humana aproximadamente desde la cintura o el pecho hasta la cabeza. Este tipo de plano permite apreciar con más detalle la expresión del personaje y su entorno cercano, sin llegar a la intimidad del primer plano. La fotografía de Julio Ramón Ribeyro corresponde a esta descripción.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_arte_cultura_2018_p57",
+      "contexto": "La obra \"Re/Trato\" (2007) es parte de la instalación Proyecto para un memorial, de Óscar Muñoz (Colombia, 1961). En ella podemos ver, a partir de la proyección de un video de siete minutos, la realización de retratos de personas desaparecidas en Colombia. Los dibujos de los rostros son realizados uno a uno con agua sobre pavimento caliente, lo que da como resultado la evaporación de la imagen. La obra se va desdibujando, se evapora por completo y como registro solo existe el video. En sentido estricto, los retratos no existen y solo queda la documentación del proceso. \"Re/Trato\" es efímero, no existe y el relato visual repetitivo es parte de la poética del proyecto. \n\nUna docente desea usar un video de esta obra para desarrollar en sus estudiantes las capacidades de apreciación y creación, y favorecer la reflexión sobre el rol del arte en la sociedad contemporánea.",
+      "imagen": "img/arte_cultura_2018_q57.png",
+      "preguntas": [
+        {
+          "pregunta": "Antes de realizar el análisis de la obra descrita, la docente ha solicitado a sus estudiantes que traigan a clase un retrato familiar que consideren importante. Mientras los estudiantes observan sus fotografías, la docente les pregunta: \"¿Por qué han escogido ese retrato? ¿Cuándo fue creado ese retrato? ¿Cuánto tiempo durará? ¿Por qué lo conservan? ¿Para qué sirve un retrato?\". Los estudiantes responden, comparten sus opiniones y llegan a la conclusión de que los retratos sirven para conservar por siempre recuerdos de momentos o personas que son importantes para ellos. Terminada la conversación, la docente proyecta el video de \"Re/Trato\", de Óscar Muñoz. Luego, la docente dice: \"Estos dibujos que se evaporan en segundos, ¿sirven también para conservar por siempre el recuerdo de seres queridos? ¿Son también retratos, o son otra cosa?\". ¿Cuál es el propósito principal de la secuencia de acciones descrita?",
+          "opciones": [
+            "Promover que los estudiantes construyan una noción del retrato como algo perdurable, para luego confrontar dicha noción con \"Re/Trato\" y fomentar así el interés por la obra.",
+            "Facilitar que los estudiantes comprendan la importancia del retrato dentro de su ámbito familiar, comparando sus retratos con la obra de un artista contemporáneo.",
+            "Estimular la imaginación de los estudiantes al presentarles recursos novedosos para realizar retratos a fin de desarrollar sus técnicas artísticas."
+          ],
+          "respuesta": "Promover que los estudiantes construyan una noción del retrato como algo perdurable, para luego confrontar dicha noción con \"Re/Trato\" y fomentar así el interés por la obra.",
+          "respuestaCorta": "La docente crea un conflicto cognitivo al contrastar la idea tradicional de retrato (permanente) con la obra efímera de Muñoz.",
+          "solucionario": "La estrategia pedagógica consiste en activar los saberes previos de los estudiantes sobre el retrato, llevándolos a definirlo como un objeto perdurable que conserva la memoria. Inmediatamente después, les presenta una obra que contradice esa noción (un retrato efímero que desaparece). Este choque o conflicto cognitivo está diseñado para captar su interés, generar curiosidad y motivarlos a analizar la obra de Muñoz desde una perspectiva más profunda y crítica.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        },
+        {
+          "pregunta": "Luego de presentar el video de \"Re/Trato\" y conversar con los estudiantes sobre lo observado, la docente les pregunta: \"¿Por qué creen que el artista aborda en su obra la violencia en su país? ¿Creen que desde el arte se deben tratar estos temas? ¿La obra acaso podrá aportar a la solución del problema? ¿Puede el arte ayudar a proteger y conservar la memoria de un pueblo? ¿Por qué?\". ¿Cuál es el propósito principal de realizar estas preguntas?",
+          "opciones": [
+            "Que los estudiantes desarrollen una postura crítica sobre la función de los artistas y del arte en la reflexión sobre problemáticas sociales actuales.",
+            "Que los estudiantes reflexionen sobre las limitaciones que tiene el arte para hacer aportes a la solución de problemas sociales.",
+            "Que los estudiantes comparen la problemática de la violencia social que afecta a las sociedades latinoamericanas."
+          ],
+          "respuesta": "Que los estudiantes desarrollen una postura crítica sobre la función de los artistas y del arte en la reflexión sobre problemáticas sociales actuales.",
+          "respuestaCorta": "Las preguntas buscan que los estudiantes reflexionen críticamente sobre la función social del arte y su rol en la memoria colectiva.",
+          "solucionario": "El conjunto de preguntas guía a los estudiantes más allá de un análisis puramente formal o estético de la obra. Los interpela directamente sobre el rol del arte en la sociedad, su capacidad para abordar temas difíciles como la violencia, su función en la construcción de la memoria histórica y su potencial para generar reflexión social. El objetivo es que los estudiantes formulen y argumenten su propia postura sobre estas cuestiones fundamentales.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        },
+        {
+          "pregunta": "Luego de diversas actividades relacionadas con el video de \"Re/Trato\", un estudiante pregunta: \"Profesora, entonces, en este caso, ¿la obra de arte es el dibujo o el video?\". La docente traslada la pregunta a la clase y tres estudiantes manifiestan su opinión sobre el tema:\nRosa: \"Yo pienso que cuando hay una obra que abarca más de un lenguaje artístico, la disciplina en la que se desarrolla más destreza es la más importante. En este caso, filmar la obra no presenta mayor dificultad, pero hacer el dibujo sí es difícil y por eso la obra es el dibujo\".\nKarina: \"El video no puede ser parte de la obra porque solo sirve como registro de lo que pasó. Además el mensaje que da el artista se expresa por medio de los retratos dibujados. Por eso, la obra de arte sería solo el dibujo\".\nÚrsula: \"En esta obra intervienen varios lenguajes artísticos. Se combinan el dibujo, la filmación y la misma acción de pintar sobre el asfalto. Por eso, yo creo que la obra es tanto el dibujo como el video y el acto de dibujar\".\n¿Cuál de las respuestas evidencia una interpretación contemporánea del arte?",
+          "opciones": [
+            "La de Rosa.",
+            "La de Karina.",
+            "La de Úrsula."
+          ],
+          "respuesta": null,
+          "respuestaCorta": "Pregunta anulada. La respuesta de Úrsula es la que mejor refleja una visión contemporánea del arte.",
+          "solucionario": "En la hoja de respuestas oficial, esta pregunta no tiene una clave asignada, lo que indica que fue anulada. Sin embargo, analizando las opciones, la respuesta de Úrsula es la que mejor se alinea con los conceptos del arte contemporáneo. El arte contemporáneo a menudo integra múltiples lenguajes (multimedia), valora el proceso y la acción (performance, happening) tanto o más que el objeto final, y considera el registro (video, foto) como parte integral de la obra, especialmente en el arte efímero. Las respuestas de Rosa y Karina se basan en nociones más tradicionales del arte, centradas en la destreza técnica y el objeto tangible.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        },
+        {
+          "pregunta": "Luego de varios ejercicios de análisis de la obra de Óscar Muñoz, la docente les propuso a los estudiantes que preparen una acción donde representen a través de medios efímeros su propia versión de sus recuerdos. Algunos estudiantes fueron a la playa a dibujar en la orilla, otro grupo realizó dibujos sobre ventanas empañadas, otros estudiantes utilizaron chispitas mariposa para dibujar en la oscuridad. Todas estas acciones fueron registradas en video. Además, la docente les solicitó que elaboren un texto breve sobre su obra, qué recuerdos evocaron, cómo se sintieron al realizarla y por qué escogieron la técnica empleada. La docente prepara la evaluación del trabajo identificando los criterios adecuados para implementarla. En el contexto de la unidad didáctica descrita, ¿cuál de los siguientes criterios de evaluación NO es apropiado?",
+          "opciones": [
+            "La coherencia entre lo representado, su carácter efímero y la elección del medio utilizado.",
+            "La destreza técnica en cada uno de los lenguajes utilizados para representar las memorias.",
+            "La descripción de las intenciones artísticas y las emociones que se experimentaron al realizar la actividad."
+          ],
+          "respuesta": "La destreza técnica en cada uno de los lenguajes utilizados para representar las memorias.",
+          "respuestaCorta": "Evaluar la destreza técnica no es apropiado, ya que el enfoque del proyecto es conceptual y expresivo, no técnico.",
+          "solucionario": "El objetivo de la actividad de creación es que los estudiantes exploren el concepto de lo efímero, la memoria y la expresión personal, inspirados en la obra de Muñoz. Por lo tanto, los criterios de evaluación apropiados deben centrarse en aspectos conceptuales y procesuales: la coherencia entre la idea y el medio (A) y la capacidad de reflexión sobre la propia obra (C). Evaluar la \"destreza técnica\" (B) sería inapropiado porque el foco no está en la maestría del dibujo o del video, sino en la fuerza de la idea y la expresividad de la acción artística.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_arte_cultura_2018_p61",
+      "contexto": "Observe con atención las siguientes imágenes y responda la pregunta:",
+      "imagen": "img/arte_cultura_2018_q61.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Qué concepto artístico corresponde a la segunda imagen?",
+          "opciones": [
+            "Intervención.",
+            "Apropiación.",
+            "Copy art."
+          ],
+          "respuesta": "Apropiación.",
+          "respuestaCorta": "La obra de Botero es un ejemplo de apropiación artística, al reinterpretar una obra icónica con su propio estilo.",
+          "solucionario": "La apropiación en el arte es el acto de tomar, copiar o alterar imágenes y objetos preexistentes. Fernando Botero toma la icónica 'Mona Lisa' de Da Vinci y la reinterpreta completamente dentro de su estilo característico (figuras voluminosas). No es una simple copia (copy art) ni una intervención sobre la obra original, sino una nueva obra que se apropia de la anterior para darle un nuevo significado y contexto.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_arte_cultura_2018_p62",
+      "contexto": "En algunos retratos de la serie Ángeles de Huancayo, el artista Luis Antonio Torres Villar recoge la tradición del retrato colonial y ubica en el lugar del personaje principal a músicos populares de Huancayo, en vez de personajes de la élite virreinal. La primera de las siguientes imágenes es un retrato colonial. La segunda es un ejemplo del trabajo de Luis Antonio Torres Villar en el que se observa que ha tomado algunos de los elementos de la tradición del retrato colonial.",
+      "imagen": "img/arte_cultura_2018_q62.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes afirmaciones describe la obra de Luis Antonio Torres Villar desde una interpretación contemporánea?",
+          "opciones": [
+            "\"La obra expresa de manera significativa el talento para representar al modelo y al paisaje. Se aprecia al músico huancaíno en primer plano, superpuesto al paisaje con líneas firmes, a diferencia de las líneas suaves del retrato del virrey\".",
+            "\"El artista le otorga un nuevo significado al retrato colonial, se apropia de tradiciones pictóricas y las traslada a su contexto actual, ubicando en el lugar de la autoridad colonial a un músico popular de Huancayo, por el que siente gran admiración\".",
+            "\"La obra presenta un tratamiento minucioso del personaje principal, que se representa agigantado, lo cual provoca un gran impacto y comunica de manera efectiva el homenaje al músico, pues además de exhibir destreza técnica, el retrato es acompañado por un gran título y un texto descriptivo que resalta al personaje\"."
+          ],
+          "respuesta": "\"El artista le otorga un nuevo significado al retrato colonial, se apropia de tradiciones pictóricas y las traslada a su contexto actual, ubicando en el lugar de la autoridad colonial a un músico popular de Huancayo, por el que siente gran admiración\".",
+          "respuestaCorta": "La interpretación contemporánea se enfoca en la resignificación y apropiación de tradiciones para un nuevo contexto.",
+          "solucionario": "Una interpretación desde el arte contemporáneo va más allá de los aspectos formales o técnicos (opciones A y C). Se centra en el discurso y el concepto detrás de la obra. La opción B describe precisamente este proceso: el artista no solo pinta un retrato, sino que se apropia de un formato de poder (el retrato virreinal) y lo resignifica al sustituir al virrey por un músico popular, cuestionando jerarquías y revalorizando la cultura local. Este uso de la cita, la apropiación y la resignificación es característico del arte contemporáneo.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        },
+        {
+          "pregunta": "Torres Villar desarrolla su obra a través de una técnica de grabado que consiste en la reproducción de una imagen a partir de una matriz en una plancha de madera. ¿Cuál es el nombre de la técnica de grabado utilizada por Torres Villar?",
+          "opciones": [
+            "Xilografía.",
+            "Litografía.",
+            "Serigrafía."
+          ],
+          "respuesta": "Xilografía.",
+          "respuestaCorta": "La técnica de grabado en una matriz de madera se llama xilografía.",
+          "solucionario": "La xilografía es una técnica de grabado en relieve en la que la imagen se talla en una plancha de madera. Se retiran las partes que no se deben imprimir (los blancos) y se entinta la superficie en relieve para luego transferirla al papel. La descripción corresponde exactamente a esta técnica.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+  
+    {
+      "idGrupo": "cp_arte_cultura_2018_p64",
+      "contexto": "Durante una sesión de aprendizaje, el docente pregunta a los estudiantes qué danzas les gustaría aprender, a lo que Fernanda levantando la mano responde: \"Profesor, yo quiero aprender negroide, porque a mí me gusta mucho la canción 'Saca las manos' que canta Eva Ayllón y me encantan esas faldas largas que usan las chicas, esas que llegan casi hasta los tobillos. Por favor, profesor, enséñenos a bailar eso\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Después de agradecerle por su participación, ¿en qué aspecto debe centrarse la retroalimentación a Fernanda?",
+          "opciones": [
+            "En que Eva Ayllón no es la intérprete de la canción \"Saca las manos\".",
+            "En que el verdadero nombre de la danza no es \"negroide\" sino \"festejo\".",
+            "En que la danza no se baila con faldas largas, sino solamente con faldas muy cortas."
+          ],
+          "respuesta": "En que el verdadero nombre de la danza no es \"negroide\" sino \"festejo\".",
+          "respuestaCorta": "La retroalimentación debe corregir el término impreciso \"negroide\" por el nombre correcto de la danza, \"festejo\".",
+          "solucionario": "Aunque la intervención de Fernanda contiene varias imprecisiones, el error conceptual más significativo y que requiere una corrección formativa es el nombre de la danza. El término \"negroide\" es una categoría amplia y a menudo imprecisa, mientras que \"festejo\" es el nombre específico del género de música y danza afroperuana al que probablemente se refiere. Corregir este punto es fundamental para la precisión terminológica en la disciplina.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_arte_cultura_2018_p65",
+      "contexto": "Esta danza, declarada Patrimonio Inmaterial de la Humanidad, es considerada una danza ritual и se ejecuta en el distrito de Mito, provincia de Concepción, en la región Junín, durante los tres primeros días del mes de enero de cada año. Los personajes enmascarados representan el antiguo consejo de ancianos y se vuelven la máxima autoridad del pueblo durante la festividad. En esos días, ellos se convierten en los guardianes de la moral, y por ello castigan a aquellos que se portaron mal y no cumplieron con las buenas costumbres. Los ancianos portan tronadores, que son látigos de cuero trenzado o de fibra de sábila, y usan máscaras de madera con gestos adustos y narices semejantes al cóndor. Realizan sus pasos al compás de una orquesta, en la que destacan los acordes del violín, el arpa y la tinya.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿A qué danza hace referencia el texto anterior?",
+          "opciones": [
+            "Los Avelinos.",
+            "La Huaconada.",
+            "La Chonguinada."
+          ],
+          "respuesta": "La Huaconada.",
+          "respuestaCorta": "La descripción corresponde a la Huaconada, danza ritual de Mito.",
+          "solucionario": "Todas las características descritas en el texto —danza ritual de Mito (Junín), declarada Patrimonio de la Humanidad, ejecutada en enero por personajes enmascarados que representan a un consejo de ancianos con látigos y máscaras— son elementos distintivos y específicos de la Huaconada.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_arte_cultura_2018_p66",
+      "contexto": "Una compañía de ballet ha realizado una función en la provincia donde se encuentra una IE, y todos los estudiantes de la clase de Arte han asistido. Aprovechando el interés que esta visita ha provocado en los estudiantes, la docente de Arte ha planificado una unidad didáctica en la cual los estudiantes apreciarán las posibilidades del ballet, y de la danza en general, para narrar historias. La docente usará como ejemplo un video del ballet Cascanueces, de Pyotr Ilyich Tchaikovsky (Rusia, 1840-1893).",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Al iniciar la unidad, antes de ver el video, la docente desea activar los saberes previos de los estudiantes sobre las posibilidades narrativas de la danza. ¿Cuál de los siguientes grupos de preguntas es más apropiado para dicho fin?",
+          "opciones": [
+            "\"¿Creen ustedes que la danza puede ser un lenguaje? ¿Los bailarines comunican acciones y emociones por medio de sus movimientos? ¿El público puede llegar a entender lo que quieren comunicar?\".",
+            "\"¿Se acuerdan de la función de ballet que vieron? ¿Les gustó? ¿En qué se parecen el ballet y el teatro? ¿En qué se diferencian? ¿Qué medios se usan en el ballet para contar la historia?\".",
+            "\"¿Alguien conoce alguna película u obra de teatro en la cual los personajes canten y bailen? ¿Les gusta cuando esto sucede? ¿Cómo se sienten en ese momento?\"."
+          ],
+          "respuesta": "\"¿Se acuerdan de la función de ballet que vieron? ¿Les gustó? ¿En qué se parecen el ballet y el teatro? ¿En qué se diferencian? ¿Qué medios se usan en el ballet para contar la historia?\".",
+          "respuestaCorta": "Las preguntas más apropiadas son las que conectan directamente con la experiencia compartida y la comparan con otros lenguajes narrativos.",
+          "solucionario": "Para activar saberes previos de manera efectiva, es ideal partir de una experiencia concreta y compartida por todos los estudiantes, en este caso, la función de ballet a la que asistieron. Las preguntas de la opción B logran esto al evocar esa experiencia y luego invitan a la reflexión comparando la danza con el teatro, un lenguaje narrativo más familiar, lo que facilita que los estudiantes empiecen a identificar los elementos narrativos específicos de la danza.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        },
+        {
+          "pregunta": "El ballet Cascanueces está basado en la novela El cascanueces y el rey de los ratones, escrita en 1816 por Ernst Theodor Amadeus Hoffmann (Prusia, 1776-1822). La docente ha conseguido en internet una versión resumida de la novela mencionada y, tomando en cuenta que la novela y el ballet comparten el mismo argumento, la docente planea utilizar el resumen en su clase. Tomando en cuenta los propósitos de la unidad didáctica descrita, ¿cuál de las siguientes alternativas es la más pertinente realizar como primera actividad de análisis de Cascanueces utilizando el material mencionado?",
+          "opciones": [
+            "Pedir a los estudiantes que hagan una relación de todas las coincidencias que hay entre la novela y el ballet, poniendo especial atención a las pequeñas diferencias que puedan identificar y su efecto en la narración de la historia.",
+            "Solicitar a los estudiantes que identifiquen en el resumen los principales personajes y sus objetivos, así como la trama y las principales acciones, para luego contrastar esa información con los movimientos que realizan los bailarines en el video del ballet.",
+            "Encargar a los estudiantes que lean el resumen e imaginen que ellos son los coreógrafos del ballet Cascanueces y que escriban una lista detallada de las instrucciones que ellos darían a los bailarines para transmitir adecuadamente el contenido de la historia por medio de la danza."
+          ],
+          "respuesta": "Solicitar a los estudiantes que identifiquen en el resumen los principales personajes y sus objetivos, así como la trama y las principales acciones, para luego contrastar esa información con los movimientos que realizan los bailarines en el video del ballet.",
+          "respuestaCorta": "La actividad más pertinente es analizar la estructura narrativa del texto para luego identificar cómo se traduce al lenguaje de la danza.",
+          "solucionario": "El propósito es entender cómo la danza narra historias. El enfoque más lógico y estructurado es primero deconstruir la historia en su formato original (el texto), identificando sus componentes clave (personajes, trama, acciones). Luego, con esa estructura narrativa clara, los estudiantes pueden observar el ballet y analizar específicamente cómo los movimientos, gestos y coreografías de los bailarines expresan esos mismos componentes. Esto facilita la comprensión de la traducción de un lenguaje (literario) a otro (dancístico).",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        },
+        {
+          "pregunta": "Luego de observar el video del ballet Cascanueces, la docente solicita a los estudiantes que escojan a uno de los personajes y hagan un análisis de sus movimientos a lo largo de una escena. Tres estudiantes exponen sus apreciaciones:\nPaula: \"Drosselmeyer, el tío de Clara, hace siempre movimientos amplios y fluidos, parándose muy erguido y con la cara casi siempre orientada hacia arriba\".\nPedro: \"El personaje de Clara realiza movimientos suspendidos, como si estuviera en un ambiente de baja gravedad, sin hacer movimientos rápidos o violentos en ningún momento\".\nBeatriz: \"Fritz se mueve muchas veces con rapidez y descuido, como si no le importaran mucho las cosas. Sus movimientos me hacen sentir que es inmaduro e infantil\".\n¿Cuál de los comentarios NO evidencia un análisis exclusivamente formal de los movimientos del personaje?",
+          "opciones": [
+            "El de Paula.",
+            "El de Pedro.",
+            "El de Beatriz."
+          ],
+          "respuesta": "El de Beatriz.",
+          "respuestaCorta": "El comentario de Beatriz no es puramente formal, ya que interpreta la personalidad del personaje a partir de sus movimientos.",
+          "solucionario": "Un análisis formal se limita a describir las cualidades del movimiento (amplitud, fluidez, velocidad, etc.). Los comentarios de Paula y Pedro son puramente formales, describen CÓMO se mueven los personajes. En cambio, Beatriz va un paso más allá: describe el movimiento (rapidez y descuido) y luego lo interpreta, asignándole un significado sobre la personalidad del personaje (\"inmaduro e infantil\"). Este salto de la descripción a la interpretación hace que su análisis no sea exclusivamente formal.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        },
+        {
+          "pregunta": "Luego de observar el video del ballet y analizar los movimientos de uno de sus personajes, Héctor comenta lo siguiente: \"Yo creo que al bailarín que hace el papel de Drosselmeyer le gusta que la gente lo vea y ser el centro de atención, y por eso todo el tiempo está erguido, como si fuera muy orgulloso\". Después de agradecerle por su intervención, ¿cuál de las siguientes alternativas es la retroalimentación más apropiada para favorecer que el estudiante reflexione sobre su apreciación?",
+          "opciones": [
+            "\"Hay que tener cuidado de no confundir al actor con el personaje que representa, Héctor. En este caso, no es el actor quien es orgulloso sino su personaje\".",
+            "\"¿Quién es el orgulloso, Héctor? ¿El bailarín o el personaje que representa? ¿Puede haber algún motivo en la obra para que el bailarín se mueva como lo has descrito?\".",
+            "\"Has hecho una observación muy interesante, Héctor, pero estás equivocado. Cuando volvamos a ver el video, observa bien los movimientos del bailarín para que puedas hacer una mejor apreciación\"."
+          ],
+          "respuesta": "\"¿Quién es el orgulloso, Héctor? ¿El bailarín o el personaje que representa? ¿Puede haber algún motivo en la obra para que el bailarín se mueva como lo has descrito?\".",
+          "respuestaCorta": "La retroalimentación por descubrimiento, mediante preguntas, es la más apropiada para que el estudiante reflexione y distinga entre actor y personaje.",
+          "solucionario": "La retroalimentación más efectiva no es la que da la respuesta directamente (opción A) o descalifica (opción C), sino la que guía al estudiante a descubrir su error por sí mismo. Las preguntas de la opción B invitan a Héctor a reconsiderar su afirmación, a diferenciar entre la persona del bailarín y el rol que interpreta (el personaje), y a buscar la justificación de esos movimientos dentro de la propia narrativa de la obra. Este método promueve un pensamiento crítico y una comprensión más profunda.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        },
+        {
+          "pregunta": "Luego de analizar el video del ballet Cascanueces y discutir sobre él, la docente muestra otro video a los estudiantes. En esta ocasión, selecciona una coreografía de la renombrada bailarina y coreógrafa contemporánea, Pina Bausch (Alemania, 1940-2009), para que los estudiantes aprecien cómo se aplica en otros géneros de danza lo que han aprendido a partir de Cascanueces. La docente les cuenta a los estudiantes que Pina Bausch seguía un proceso muy específico para crear sus coreografías, pues recurría a improvisaciones y a la memoria de las experiencias de los propios bailarines para crear las escenas, y les comenta que, por esa y otras razones, sus coreografías son innovadoras y poco convencionales. Luego de ver el video, Javier, uno de los estudiantes, comenta lo siguiente: \"La coreografía de Pina Bausch no tiene la misma calidad que la de Cascanueces, porque los movimientos de los bailarines no son igual de bonitos y no me gustan\". Después de agradecerle por su participación, ¿en qué debe centrarse la retroalimentación a Javier?",
+          "opciones": [
+            "En que no es apropiado valorar la calidad de una coreografía sobre la base de los gustos personales.",
+            "En que no es legítimo cuestionar la calidad del trabajo de una artista reconocida internacionalmente.",
+            "En que el método de trabajo de Pina Bausch es poco convencional y por ello no es posible comparar su trabajo con el ballet Cascanueces."
+          ],
+          "respuesta": "En que no es apropiado valorar la calidad de una coreografía sobre la base de los gustos personales.",
+          "respuestaCorta": "La retroalimentación debe ayudar al estudiante a diferenciar entre el gusto personal (\"no me gusta\") y un juicio de valor basado en criterios artísticos.",
+          "solucionario": "El comentario de Javier equipara \"calidad\" con \"bonito\" y \"gusto personal\". El objetivo pedagógico es enseñarle a realizar apreciaciones artísticas con argumentos y criterios que vayan más allá de la subjetividad. La retroalimentación debe centrarse en guiarlo a comprender que la calidad de una obra no depende de si nos gusta o si se ajusta a nuestros cánones de belleza, sino de otros factores como su propuesta, su coherencia, su innovación o su capacidad comunicativa.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_arte_cultura_2018_p71",
+      "contexto": "En una IE se va a realizar una campaña para concientizar a la comunidad educativa sobre el trabajo infantil en el Perú. Por ello, los estudiantes de quinto grado proponen a su profesor de Arte crear una coreografía sobre esta problemática, aprovechando que han estado realizando ejercicios de preparación corporal y técnica en danza.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes actividades es la menos pertinente para que el docente guíe a sus estudiantes al inicio de la creación artística?",
+          "opciones": [
+            "Plantear a los estudiantes investigar algunos casos sobre el trabajo infantil que les sirvan de inspiración al momento de crear su coreografía.",
+            "Proponer a los estudiantes varias secuencias de pasos que transmitan el mensaje que se quiere dar sobre el tema para que ellos las reproduzcan y perfeccionen.",
+            "Generar un espacio en el que los estudiantes exploren diversos movimientos relacionándolos con el mensaje que se quiere dar por medio de la danza."
+          ],
+          "respuesta": "Proponer a los estudiantes varias secuencias de pasos que transmitan el mensaje que se quiere dar sobre el tema para que ellos las reproduzcan y perfeccionen.",
+          "respuestaCorta": "Darles pasos predefinidos es lo menos pertinente porque coarta el proceso creativo de los estudiantes.",
+          "solucionario": "El objetivo es que los estudiantes *creen* una coreografía. Las actividades pertinentes deben fomentar la investigación (A) y la exploración corporal (C), ya que son la base para que los propios estudiantes generen su material coreográfico. En contraste, proponerles secuencias de pasos ya hechas (B) convierte el proceso en una mera reproducción técnica, inhibiendo la creatividad y la autoría, que son el núcleo de la competencia de creación artística.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_arte_cultura_2018_p72",
+      "contexto": "Durante una sesión de aprendizaje, la docente y los estudiantes conversan sobre las semejanzas y diferencias entre el ballet clásico y la danza contemporánea.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "La docente pregunta a los estudiantes: \"¿Quién me puede decir una característica de la danza contemporánea?\". Tres estudiantes responden:\nDaniela: \"Las coreografías de danza contemporánea suelen seguir una estructura lineal con inicio, nudo y desenlace\".\nMiryam: \"El cuerpo de los bailarines de danza contemporánea puede pesar o medir lo que sea, mientras sea fuerte y flexible\".\nFabricio: \"La danza contemporánea se puede bailar con cualquier tipo de vestuario y calzado, inclusive sin zapatos\".\n¿Cuál de las intervenciones contiene un error que puede ser utilizado para fomentar la reflexión y aprendizaje sobre la danza contemporánea?",
+          "opciones": [
+            "La de Daniela.",
+            "La de Miryam.",
+            "La de Fabricio."
+          ],
+          "respuesta": "La de Daniela.",
+          "respuestaCorta": "La afirmación de Daniela es incorrecta; la danza contemporánea a menudo rompe con las narrativas lineales.",
+          "solucionario": "Las intervenciones de Miryam y Fabricio describen características correctas de la danza contemporánea: diversidad de cuerpos y libertad en el vestuario. En cambio, la afirmación de Daniela contiene un error conceptual. Precisamente, una de las rupturas de la danza contemporánea con el ballet clásico es el abandono de las estructuras narrativas lineales y aristotélicas (inicio, nudo, desenlace) en favor de estructuras fragmentadas, no lineales o puramente abstractas. Este error es una excelente oportunidad para profundizar en las características de la dramaturgia en la danza contemporánea.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        },
+        {
+          "pregunta": "Una de las estudiantes pregunta a la docente: \"Entonces, ¿en qué se diferencia principalmente el ballet clásico de la danza contemporánea?\". El docente traslada la pregunta a la clase y tres estudiantes responden:\nFabio: \"En que el entrenamiento de los bailarines de ballet clásico es mucho más exigente\".\nDiego: \"En que solo las coreografías de ballet clásico representan historias con muchos personajes\".\nTeresa: \"En que los pasos básicos de ballet clásico están predefinidos y no se puede improvisar\".\n¿Cuál de las respuestas es correcta?",
+          "opciones": [
+            "La de Fabio.",
+            "La de Diego.",
+            "La de Teresa."
+          ],
+          "respuesta": "En que los pasos básicos de ballet clásico están predefinidos y no se puede improvisar.",
+          "respuestaCorta": "La diferencia principal radica en que el ballet clásico tiene un vocabulario de movimiento codificado y predefinido.",
+          "solucionario": "La respuesta de Teresa es la más precisa. Una diferencia fundamental entre ambas disciplinas es que el ballet clásico se basa en un sistema de pasos y posiciones estrictamente codificado y universal, transmitido a lo largo de siglos. La danza contemporánea, por el contrario, no tiene un vocabulario único; cada coreógrafo o escuela puede desarrollar su propio lenguaje de movimiento, y la improvisación es a menudo una herramienta clave tanto en el entrenamiento como en la creación.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_arte_cultura_2018_p74",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué tipo de melodías se puede tocar con un siku que tiene las notas re, mi, fa#, sol, la, si, do, re, mi, fa#, sol y la?",
+          "opciones": [
+            "Melodías que usan la escala de fa sostenido mayor.",
+            "Melodías que usan la escala de re menor natural.",
+            "Melodías que usan la escala de sol mayor."
+          ],
+          "respuesta": "Melodías que usan la escala de sol mayor.",
+          "respuestaCorta": "Las notas presentadas corresponden a la escala de Sol mayor.",
+          "solucionario": "La escala de Sol mayor (G major) está compuesta por las notas: Sol (G), La (A), Si (B), Do (C), Re (D), Mi (E), Fa sostenido (F#). El siku descrito contiene todas estas notas (y algunas repetidas en otra octava), lo que permite interpretar melodías construidas sobre esta escala. Las otras escalas propuestas contienen notas diferentes (la de Fa# mayor tiene múltiples sostenidos y la de Re menor natural tiene Fa natural y Do natural).",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_arte_cultura_2018_p75",
+      "contexto": "Un docente desea que sus estudiantes experimenten la creación musical con objetos cotidianos. Para ello, lleva a la clase de Arte un conjunto de baldes de diversos tamaños.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes actividades es la más apropiada para que los estudiantes puedan apreciar la diversidad de sonidos que se puede producir con el conjunto de baldes?",
+          "opciones": [
+            "Distribuir los baldes entre los estudiantes e invitarlos a explorar su sonido por medio de preguntas: \"¿Cómo es el sonido que se produce cuando golpean la base del balde? ¿Es el mismo que se produce cuando se golpean las paredes? Y si golpean el balde con un lapicero, ¿suena igual que cuando lo golpean con las manos? ¿Cómo influye el tamaño del balde en el sonido?\"; luego pedirles que comenten sus hallazgos entre todos.",
+            "Hacer una demostración práctica a los estudiantes de la gran cantidad de timbres de sonido distintos que se puede producir con los baldes; primero mostrar las diferencias de sonido que producen baldes de distintos tamaños, materiales y formas; luego ir agregando más matices, como las diferencias de sonido producidas por la manera en que el balde se percute, el lugar específico del balde que se golpea y el objeto con el que se hace, para que noten las posibilidades sonoras.",
+            "Reproducir para la clase el video de un percusionista virtuoso que hace música compleja tocando con una batería de baldes. Luego del video, hacer preguntas a los estudiantes: \"¿Qué es lo particular que observan en este video? ¿Por qué creen que está tocando con baldes y no con una batería convencional? ¿En qué se diferencia el sonido de los baldes del sonido de una batería convencional?\", y luego proponerles armar una batería similar con los baldes que ha traído el docente al aula e intentar tocar música con ella."
+          ],
+          "respuesta": "Distribuir los baldes entre los estudiantes e invitarlos a explorar su sonido por medio de preguntas: \"¿Cómo es el sonido que se produce cuando golpean la base del balde? ¿Es el mismo que se produce cuando se golpean las paredes? Y si golpean el balde con un lapicero, ¿suena igual que cuando lo golpean con las manos? ¿Cómo influye el tamaño del balde en el sonido?\"; luego pedirles que comenten sus hallazgos entre todos.",
+          "respuestaCorta": "La exploración guiada por preguntas es la actividad más apropiada para que los estudiantes descubran por sí mismos las posibilidades sonoras.",
+          "solucionario": "El enfoque pedagógico más apropiado es el constructivista, donde el estudiante es el protagonista de su aprendizaje. La opción A propone una exploración libre pero guiada por preguntas que orientan el descubrimiento. Esto permite que los estudiantes experimenten, comparen y saquen sus propias conclusiones sobre el timbre, la altura y la intensidad de los sonidos. Una demostración (B) es más pasiva, y ver un video de un virtuoso (C) puede ser intimidante y alejado de su propia capacidad de exploración inicial.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_arte_cultura_2018_p76",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué es una \"triada\" en teoría musical?",
+          "opciones": [
+            "Un acorde compuesto por tres notas.",
+            "Una organización del pulso en tres tiempos por compás.",
+            "Una subdivisión del tiempo en tres unidades iguales en compases simples."
+          ],
+          "respuesta": "Un acorde compuesto por tres notas.",
+          "respuestaCorta": "Una triada es un acorde formado por tres notas.",
+          "solucionario": "En teoría musical, una triada es el tipo de acorde más básico y se forma superponiendo dos intervalos de tercera, resultando en un conjunto de tres notas: la nota fundamental (o raíz), su tercera y su quinta. Las otras opciones se refieren a conceptos rítmicos: un compás de tres tiempos (B) y una figura rítmica como el tresillo (C).",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    
+    {
+      "idGrupo": "cp_arte_cultura_2018_p77",
+      "contexto": null,
+      "imagen": "img/arte_cultura_2018_q77.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuántas ligaduras de prolongación se observan en el siguiente pasaje?",
+          "opciones": [
+            "3",
+            "8",
+            "11"
+          ],
+          "respuesta": "3",
+          "respuestaCorta": "Hay 3 ligaduras de prolongación en el pasaje musical.",
+          "solucionario": "Una ligadura de prolongación es una línea curva que une dos notas de la misma altura para sumar sus duraciones. En el fragmento musical presentado, se observan tres de estas ligaduras: una uniendo dos notas Sol, otra uniendo dos notas La, y una tercera uniendo dos notas Si bemol. Las otras líneas curvas son ligaduras de expresión, que indican fraseo y no afectan la duración.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_arte_cultura_2018_p78",
+      "contexto": "El renombrado compositor y productor musical Brian Eno (Inglaterra, 1948) dijo lo siguiente sobre los secuenciadores digitales y la democratización de la producción musical: \"El gran beneficio de los secuenciadores computarizados es que eliminan el problema de la habilidad y lo reemplazan por el problema del discernimiento\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes afirmaciones es la idea principal de lo expresado por Brian Eno?",
+          "opciones": [
+            "Los secuenciadores digitales introducen interfaces de usuario más amigables que eliminan la necesidad de dominar software complejo y liberan el tiempo del usuario para dedicarlo al desarrollo y acabado de sus productos musicales.",
+            "Los secuenciadores digitales permiten que una persona aborde la composición de obras de todo nivel de complejidad, siendo más importantes su imaginación y su inventiva que su capacidad para tocar instrumentos musicales.",
+            "Los secuenciadores digitales introducen una multiplicidad de herramientas y opciones para la producción musical digital, por lo cual es muy importante que las personas usen su criterio y experiencia para distinguir qué herramientas usar y cuáles dejar de lado en un momento determinado."
+          ],
+          "respuesta": "Los secuenciadores digitales permiten que una persona aborde la composición de obras de todo nivel de complejidad, siendo más importantes su imaginación y su inventiva que su capacidad para tocar instrumentos musicales.",
+          "respuestaCorta": "Eno afirma que los secuenciadores bajan la barrera de la habilidad técnica, haciendo que el juicio artístico (discernimiento) sea lo más importante.",
+          "solucionario": "La cita de Brian Eno contrapone \"habilidad\" (la destreza técnica para tocar un instrumento o manejar equipos complejos) con \"discernimiento\" (el buen juicio, gusto y criterio para tomar decisiones artísticas). Su idea principal es que la tecnología moderna ha facilitado tanto la creación musical que ya no se necesita ser un virtuoso; el verdadero desafío ahora es tener buenas ideas y saber elegir entre las infinitas posibilidades que ofrece la herramienta.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_arte_cultura_2018_p79",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿En qué danza peruana generalmente se utilizan la guitarra, el arpa y la tinya?",
+          "opciones": [
+            "Festejo.",
+            "Santiago.",
+            "Marinera limeña."
+          ],
+          "respuesta": "Santiago.",
+          "respuestaCorta": "La instrumentación de guitarra, arpa y tinya es característica de la danza de Santiago.",
+          "solucionario": "El Santiago es una danza y género musical originario de la sierra central del Perú, especialmente de la región del Valle del Mantaro. Su conjunto instrumental tradicional suele incluir arpa, violín, y en muchas variantes, se incorporan la guitarra y la tinya (un pequeño tambor de mano de origen prehispánico), creando una sonoridad distintiva.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_arte_cultura_2018_p80",
+      "contexto": "En una sesión de aprendizaje, un docente mantiene el siguiente diálogo con los estudiantes:\nDocente: \"¿Qué fue lo primero que hicimos en la clase de hoy?\".\nJorge: \"Escribimos una definición de lo que consideramos que es una obra de teatro\".\nDocente: \"¿Y qué hicimos luego?\".\nDaniela: \"Comparamos nuestra definición con una escena de 'Esperando a Godot', que es una obra del Teatro del Absurdo\".\nDocente: \"¿Para qué realizamos todo ello?\".\nValentina: \"Para darnos cuenta de que nuestra definición no incluía todas las obras de teatro, porque las obras del Teatro del Absurdo no estaban incluidas en nuestra definición\".\nDocente: \"¿Y a través de qué actividad lo logramos?\".\nEsteban: \"Tuvimos que escribir una nueva definición que fuera más abierta, que nos permita incluir obras de teatro de otros tipos\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué proceso pedagógico está promoviendo principalmente el docente en los estudiantes en esta parte de la sesión de aprendizaje?",
+          "opciones": [
+            "Metacognición.",
+            "Cambio conceptual.",
+            "Procesamiento de la información."
+          ],
+          "respuesta": "Metacognición.",
+          "respuestaCorta": "El docente promueve la metacognición al hacer que los estudiantes reflexionen sobre su propio proceso de aprendizaje.",
+          "solucionario": "La metacognición es la capacidad de reflexionar sobre los propios procesos de pensamiento y aprendizaje. En el diálogo, el docente guía a los estudiantes para que tomen conciencia de qué hicieron (las actividades), cómo lo hicieron (comparando y reescribiendo) y para qué lo hicieron (el propósito de ampliar su definición). Este ejercicio de auto-revisión del aprendizaje es un claro ejemplo de metacognición.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_arte_cultura_2018_p81",
+      "contexto": "Gustav Freytag (Polonia, 1816-1895) propuso que las obras dramáticas comparten una estructura que se divide en cinco partes: exposición, acción creciente, clímax, acción decreciente y resolución. Un docente de Arte muestra a sus estudiantes el esquema propuesto por Freytag y discute con ellos un ejemplo de cómo dicha estructura se aplica en el cuento Pinocho. Luego de que los estudiantes han comprendido la estructura, el docente distribuye otros cuentos infantiles a la clase y cada estudiante identifica las cinco partes del esquema propuesto por Freytag en uno de los cuentos.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué proceso pedagógico busca promover el docente en los estudiantes en la última parte de la actividad?",
+          "opciones": [
+            "Metacognición sobre el proceso de aprendizaje.",
+            "Transferencia del aprendizaje.",
+            "Cambio conceptual."
+          ],
+          "respuesta": "Transferencia del aprendizaje.",
+          "respuestaCorta": "Se promueve la transferencia del aprendizaje al aplicar un concepto conocido a situaciones nuevas.",
+          "solucionario": "La transferencia del aprendizaje ocurre cuando un estudiante es capaz de aplicar un conocimiento o habilidad aprendido en un contexto específico (analizar la estructura de 'Pinocho') a un contexto nuevo y diferente (analizar otros cuentos infantiles). La actividad final está diseñada precisamente para que los estudiantes demuestren que pueden transferir el manejo del esquema de Freytag a otros ejemplos.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_arte_cultura_2018_p82",
+      "contexto": "El Diccionario del Teatro, de Patrice Pavis (Francia, 1947), dice sobre el teatro documental: \"Este tipo de teatro tiene como propósito utilizar en su texto únicamente fuentes auténticas que se seleccionan y se 'montan' en función de la tesis sociopolítica de la obra\". Es decir, se trata de obras teatrales en las que el guion está compuesto por textos extraídos de documentos oficiales, testimonios, artículos periodísticos, etc. Un docente de Arte muestra a los estudiantes un video de una escena de teatro documental y luego les muestra las fuentes de donde se extrajo el texto del guion, reflexionando junto con ellos sobre cuál es el punto de vista que el autor quiere resaltar al respecto de los hechos contados en la obra. Uno de sus estudiantes levanta la mano y dice: \"Pero no entiendo, profesor, lo que usted nos muestra no puede ser una obra de teatro, porque una obra teatral siempre es un trabajo de ficción, y en este caso no hay ficción. No puede ser\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué proceso cognitivo evidencia principalmente lo dicho por el estudiante?",
+          "opciones": [
+            "Metacognición.",
+            "Conflicto cognitivo.",
+            "Transferencia del aprendizaje."
+          ],
+          "respuesta": "Conflicto cognitivo.",
+          "respuestaCorta": "La intervención del estudiante evidencia un conflicto cognitivo al chocar su idea previa del teatro con la nueva información.",
+          "solucionario": "Un conflicto cognitivo se produce cuando una nueva información entra en contradicción con las creencias o conocimientos previos de una persona. El estudiante tiene un esquema mental preexistente: \"teatro = ficción\". Al ser presentado con un ejemplo de teatro no ficcional (teatro documental), se genera una disonancia o contradicción que manifiesta verbalmente. Este conflicto es un momento clave para el aprendizaje, ya que motiva la reestructuración de los esquemas mentales.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_arte_cultura_2018_p83",
+      "contexto": "El Diccionario del Teatro, de Patrice Pavis (Francia, 1947), dice lo siguiente sobre la adaptación teatral: \"La adaptación, a diferencia de la actualización, goza de una gran libertad; no vacila en modificar el sentido de la obra original (...) Todas las maniobras textuales imaginables están permitidas: rupturas, reorganización del relato, reducción del número de personajes, concentración dramática en ciertos momentos intensos, incorporación de textos exteriores, montaje y collage de elementos externos, modificación de la conclusión, etc. (...) Adaptar es re-escribir enteramente el texto considerado como simple material\".\nUn docente tiene como propósito que sus estudiantes exploren las posibilidades de la adaptación teatral tomando como punto de partida obras ya existentes. Para ello les propone que hagan una adaptación de La Odisea de Homero. Antes de escribir sus guiones, los estudiantes redactan una breve sinopsis.\nTres estudiantes entregan las siguientes sinopsis:\nRafael: \"En el año 3017, la guerrera Penélope se enfrenta en su velero espacial a diferentes monstruos y ejércitos, todo con el fin de ganar el amor y respeto del emperador Ulises\".\nCamilo: \"Ulises Quispe busca regresar a su hogar después de participar en una gran guerra. Enfrentará grandes aventuras, peligros y desafíos, pero al final logrará reunirse con su familia\".\nPaulina: \"El rey de Satipo, llamado Ulises, fue a pescar en la selva, pero en el camino tuvo que enfrentarse a diferentes tunches. Solo con ayuda de los boras regresará a la casa de su hijo Agamenón\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las sinopsis hace menor exploración de las posibilidades que ofrece la adaptación teatral?",
+          "opciones": [
+            "La sinopsis elaborada por Rafael.",
+            "La sinopsis elaborada por Camilo.",
+            "La sinopsis elaborada por Paulina."
+          ],
+          "respuesta": "La sinopsis elaborada por Camilo.",
+          "respuestaCorta": "La sinopsis de Camilo es la menos exploratoria, ya que es un resumen genérico de la trama original con un cambio de nombre.",
+          "solucionario": "La adaptación teatral implica una reescritura creativa y profunda. Las sinopsis de Rafael (cambio de género, ambientación futurista) y Paulina (contexto amazónico, elementos mitológicos locales) demuestran una gran exploración y transformación del material original. En cambio, la sinopsis de Camilo es la más conservadora; se limita a cambiar el nombre del protagonista y describir la trama de La Odisea en términos muy generales, sin proponer cambios significativos en el contexto, los personajes o la estructura, haciendo una menor exploración de las posibilidades de la adaptación.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_arte_cultura_2018_p84",
+      "contexto": "La docente tiene el propósito de que sus estudiantes comprendan que la iluminación en una obra de teatro no solo tiene una función práctica (permitir que se observen las acciones que están transcurriendo), sino que también tiene una función simbólica, pues permite crear la atmósfera en la que se desarrolla la acción dramática. Para eso, la docente trae al aula el video de una obra de teatro y se dispone a proyectar el primer acto a los estudiantes.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes actividades es la más adecuada para que los estudiantes comprendan la función de la iluminación en el teatro?",
+          "opciones": [
+            "Solicitar a los estudiantes que observen los cambios de iluminación en las escenas del primer acto, explicándoles que, en los momentos alegres, la luz se vuelve más brillante y colorida, y que, en los momentos sombríos o tristes, se vuelve menos brillante y se utilizan colores más fríos para reforzar la atmósfera de la escena.",
+            "Proponer a los estudiantes que identifiquen los momentos alegres, tristes o misteriosos del primer acto y que observen los cambios de color e intensidad en la iluminación, y que luego describan dichos cambios y las sensaciones que les producen relacionándolos con lo que está sucediendo con los personajes en la escena.",
+            "Pedir a los estudiantes que hagan una relación de todos los cambios de iluminación que se registran en el acto, anotando en cada caso cuánto tiempo ha durado cada cambio de iluminación, y luego pedirles que ordenen sus hallazgos en una tabla en la que se aprecie la secuencia de cambios y sus características."
+          ],
+          "respuesta": "Proponer a los estudiantes que identifiquen los momentos alegres, tristes o misteriosos del primer acto y que observen los cambios de color e intensidad en la iluminación, y que luego describan dichos cambios y las sensaciones que les producen relacionándolos con lo que está sucediendo con los personajes en la escena.",
+          "respuestaCorta": "La actividad más adecuada es que los estudiantes relacionen los cambios de iluminación con las emociones de la escena para descubrir su función simbólica.",
+          "solucionario": "Para un aprendizaje significativo, es mejor que los estudiantes descubran la relación por sí mismos en lugar de recibir una explicación directa (opción A). La opción B promueve esto al pedirles que primero identifiquen la atmósfera o emoción de una escena y luego la conecten con las características de la luz. Este proceso de análisis y relación les permite construir su propia comprensión de cómo la iluminación crea atmósferas y simboliza emociones. La opción C es un registro técnico que no necesariamente lleva a la comprensión de la función simbólica.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_arte_cultura_2018_p85",
+      "contexto": "Como parte del desarrollo de la competencia de creación artística, una docente se propone desarrollar las habilidades de improvisación teatral de sus estudiantes durante una unidad didáctica.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Luego de iniciar la unidad recogiendo los saberes previos de los estudiantes sobre la improvisación teatral, ¿cuál de las siguientes actividades es la más apropiada?",
+          "opciones": [
+            "Separar a la clase en grupos y entregarles consignas sencillas como \"una señora quiere saber quién se comió a su gato\", y pedir a cada grupo que improvise frente a la clase una escena breve tomando las consignas como punto de partida. Luego, fomentar una lluvia de ideas para recoger los principales aciertos y dificultades que experimentaron al realizar el ejercicio y reflexionar sobre cómo mejorar sus futuras improvisaciones.",
+            "Dibujar en la pizarra un cuadro con una clasificación de los principales géneros teatrales. Luego, dividir a la clase en grupos y solicitar a los estudiantes que escojan uno de los géneros mostrados en la pizarra y que escriban el guion de una escena que corresponda al género escogido. Seguidamente, hacer una improvisación teatral usando la escena escrita como referente para la improvisación.",
+            "Mostrar el video de una escena de improvisación teatral y luego realizar con los estudiantes un análisis dramatúrgico de la estructura de la improvisación. Luego, hacer un cuadro comparativo de los personajes mostrados en la improvisación y sus motivaciones, y relacionar dichas motivaciones con el conflicto o conflictos presentes en la escena."
+          ],
+          "respuesta": "Separar a la clase en grupos y entregarles consignas sencillas como \"una señora quiere saber quién se comió a su gato\", y pedir a cada grupo que improvise frente a la clase una escena breve tomando las consignas como punto de partida. Luego, fomentar una lluvia de ideas para recoger los principales aciertos y dificultades que experimentaron al realizar el ejercicio y reflexionar sobre cómo mejorar sus futuras improvisaciones.",
+          "respuestaCorta": "La actividad más apropiada es un ejercicio práctico de improvisación seguido de una reflexión colectiva.",
+          "solucionario": "Para desarrollar una habilidad práctica como la improvisación, el enfoque más efectivo es el de \"aprender haciendo\". La opción A propone exactamente esto: un ejercicio práctico, de baja complejidad, que permite a los estudiantes experimentar directamente la improvisación. La posterior reflexión sobre la experiencia es crucial para consolidar el aprendizaje, identificar dificultades y plantear mejoras. Las otras opciones son menos directas: escribir un guion (B) es contrario a la naturaleza de la improvisación, y analizar un video (C) es una actividad de apreciación, no de creación.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        },
+        {
+          "pregunta": "En la siguiente sesión, la docente les dice a los estudiantes que hacer improvisación teatral es, fundamentalmente, contar historias, y que todas las historias pueden ser resumidas en las siguientes seis frases: \"Había una vez...\", \"Y todos los días...\", \"Hasta que un día...\", \"Y a causa de ello...\", \"Hasta que, finalmente...\" y \"Y desde ese día...\". (...) Tomando en cuenta el propósito de la unidad descrita, ¿cuál de las siguientes actividades es pertinente realizar a continuación?",
+          "opciones": [
+            "Organizar a los estudiantes en grupos y solicitar a cada grupo que escriba una historia inventada por ellos usando las seis frases propuestas por la docente. Luego, hacer que los grupos de estudiantes intercambien sus historias y hagan sugerencias sobre cómo mejorar las historias de sus compañeros. Finalmente, escoger la historia que más le haya gustado a todos los estudiantes y usarla como base para que cada grupo improvise una escena frente a sus demás compañeros.",
+            "Solicitar a los estudiantes que se organicen en grupos y escriban colectivamente una narración de la historia del patito feo, de forma similar a la narración del cuento de la caperucita roja hecha por la docente. Luego, pedir a los estudiantes que agreguen otras frases de su propia invención para enriquecer la historia. Después, pedirles a los grupos que improvisen escenas teatrales breves utilizando una combinación de las frases propuestas por la docente al inicio de la actividad y las que ellos mismos crearon.",
+            "Pedir a los estudiantes que formen un círculo y que uno empiece a contar una historia inventada usando las frases. El estudiante dirá \"había una vez\" y completará el resto de la frase, y su compañero de la derecha dirá el inicio de la segunda frase y la completará, y así hasta que el sexto estudiante finalice la historia. Luego, el siguiente estudiante iniciará una nueva historia, hasta que todos hayan participado. De ser necesario, la docente comentará las necesidades dramáticas dentro de cada historia y dará orientaciones a los estudiantes para la improvisación."
+          ],
+          "respuesta": "Pedir a los estudiantes que formen un círculo y que uno empiece a contar una historia inventada usando las frases. El estudiante dirá \"había una vez\" y completará el resto de la frase, y su compañero de la derecha dirá el inicio de la segunda frase y la completará, y así hasta que el sexto estudiante finalice la historia. Luego, el siguiente estudiante iniciará una nueva historia, hasta que todos hayan participado. De ser necesario, la docente comentará las necesidades dramáticas dentro de cada historia y dará orientaciones a los estudiantes para la improvisación.",
+          "respuestaCorta": "La actividad más pertinente es un juego de creación de historias en cadena, que emula la naturaleza espontánea y colaborativa de la improvisación.",
+          "solucionario": "El objetivo es practicar la creación espontánea de historias. La opción C propone un ejercicio de improvisación oral y colectiva. Este juego obliga a los estudiantes a pensar rápidamente, a aceptar la propuesta del compañero anterior y a construir sobre ella, que son habilidades fundamentales en la improvisación teatral. Es una actividad dinámica que pone en práctica la estructura narrativa de forma lúdica y colaborativa. Las otras opciones se centran demasiado en la escritura previa, alejándose del objetivo de la espontaneidad.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        },
+        {
+          "pregunta": "Luego de haber realizado varios ejercicios preparatorios, los estudiantes están listos para improvisar escenas teatrales más complejas. Si bien la improvisación teatral conlleva una serie de libertades, es conveniente seguir algunas reglas para que el ejercicio fluya apropiadamente y no se produzcan complicaciones, como que la acción sea demasiado lenta o el argumento termine siendo confuso. ¿Cuál de las siguientes orientaciones es la más adecuada para que las improvisaciones de los estudiantes fluyan?",
+          "opciones": [
+            "\"Cuando se improvisa se proponen ideas a los otros participantes por medio de preguntas, oraciones o acciones. Al recibir una idea, no la rechacen. Negar una idea obliga a sus compañeros a hacer todo el trabajo, haciendo que la improvisación no fluya. Cuando reciban una idea, acéptenla y agreguen más contenido o alguna pregunta relacionada. Busquen que cada interacción con sus compañeros aporte al esfuerzo conjunto de improvisar una historia\".",
+            "\"La primera intervención en el ejercicio define el tema sobre el cual se va a improvisar. No abandonen ese tema ni digan nada que pueda resultar sorprendente para sus compañeros de improvisación. Conserven una única línea de pensamiento desde el inicio del ejercicio y, antes de decir algo, piensen si es que va a contribuir a la fluidez de la escena o si es mejor dejar que otro compañero intervenga\".",
+            "\"Sean completamente espontáneos al improvisar, dejen que sus ideas fluyan libremente y no se cohíban de decir nada. Si tienen dudas, digan lo primero que venga a sus mentes sin pensarlo mucho. Confíen en sus instintos y verán que conocen mucho más de la improvisación teatral de lo que creen. Si cometen un error, intenten disimularlo confiando en que el público no lo notará\"."
+          ],
+          "respuesta": "\"Cuando se improvisa se proponen ideas a los otros participantes por medio de preguntas, oraciones o acciones. Al recibir una idea, no la rechacen. Negar una idea obliga a sus compañeros a hacer todo el trabajo, haciendo que la improvisación no fluya. Cuando reciban una idea, acéptenla y agreguen más contenido o alguna pregunta relacionada. Busquen que cada interacción con sus compañeros aporte al esfuerzo conjunto de improvisar una historia\".",
+          "respuestaCorta": "La orientación más adecuada es la regla fundamental de la improvisación: aceptar las propuestas de los compañeros y construir sobre ellas (\"Sí, y...\").",
+          "solucionario": "La orientación de la opción A describe la regla de oro de la improvisación teatral: la aceptación. El principio de \"no negar\" o \"aceptar las ofertas\" es crucial para que una escena colaborativa pueda avanzar y desarrollarse. Negar una propuesta bloquea la acción y la creatividad. Aceptar y añadir información (\"Sí, y...\") permite que la historia se construya de forma fluida y conjunta. Las otras opciones son contraproducentes: la opción B promueve la rigidez, mientras que la C fomenta un caos sin escucha ni colaboración.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_arte_cultura_2018_p88",
+      "contexto": "Un docente de Arte está trabajando con sus estudiantes la escritura de guiones teatrales. El docente divide a la clase en grupos y les pide que inventen una historia que les gustaría convertir en guion teatral. Luego les va haciendo las siguientes preguntas para que los estudiantes las discutan entre ellos: \"¿Quién es el personaje principal de su historia? ¿Cuál es su situación al principio de la historia? ¿Cuáles son sus problemas? ¿Qué es lo que quiere conseguir? ¿Qué sucede a lo largo de la historia? ¿Qué retos deberá enfrentar el personaje principal? ¿Cuáles serán sus decisiones? ¿Cómo habrá cambiado el personaje principal al final de la historia?\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es el propósito de las preguntas hechas por el docente?",
+          "opciones": [
+            "Favorecer la metacognición sobre el proceso de aprendizaje a partir de la reflexión sobre la historia creada.",
+            "Realizar un proceso de transferencia de información a los estudiantes para que mejoren su historia.",
+            "Proporcionar andamiaje para identificar la estructura dramática de la historia escogida."
+          ],
+          "respuesta": "Proporcionar andamiaje para identificar la estructura dramática de la historia escogida.",
+          "respuestaCorta": "Las preguntas del docente sirven como andamiaje para guiar a los estudiantes en la construcción de la estructura dramática de su historia.",
+          "solucionario": "El andamiaje es un concepto pedagógico que se refiere al apoyo temporal que un docente proporciona a un estudiante para que este pueda realizar una tarea que no podría hacer por sí solo. Las preguntas del docente no dan respuestas, pero sí ofrecen una estructura, un camino a seguir. Cada pregunta corresponde a un elemento clave de la dramaturgia (personaje, objetivo, conflicto, clímax, resolución), guiando a los estudiantes paso a paso para que construyan una historia con una estructura dramática sólida.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_arte_cultura_2018_p89",
+      "contexto": "El Diccionario del Teatro, de Patrice Pavis (Francia, 1947), define \"actualización\" de la siguiente forma: \"Operación que consiste en adaptar un texto antiguo al tiempo presente, teniendo en cuenta las circunstancias contemporáneas, el gusto de un público nuevo y las modificaciones de la historia que la evolución de la sociedad hace necesarias. La actualización no altera la fábula central, preserva la naturaleza de las relaciones entre los personajes. Solo se modifican la atribución temporal y eventualmente el marco de la acción\".\nUn docente propone a su clase hacer una actualización de Romeo y Julieta.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes alternativas es la más adecuada para hacer una actualización de la obra?",
+          "opciones": [
+            "Convertir a los clanes opuestos de la obra (Capuletos y Montescos) en partidos políticos con una gran enemistad.",
+            "Convertir a la pareja de protagonistas adolescentes (Romeo y Julieta) en una pareja de adultos independientes.",
+            "Convertir a Romeo en un cantante juvenil muy popular en internet y a Julieta en su admiradora."
+          ],
+          "respuesta": null,
+          "respuestaCorta": "Pregunta anulada. La opción A es la que mejor se ajusta al concepto de 'actualización'.",
+          "solucionario": "En la hoja de respuestas oficial, esta pregunta aparece como anulada. Sin embargo, analizando las opciones según la definición proporcionada, la 'actualización' mantiene la fábula y las relaciones centrales, modificando solo el marco temporal o social. La opción A hace precisamente esto: la enemistad entre dos familias (fábula central) se traslada a la enemistad entre dos partidos políticos (marco contemporáneo), preservando la estructura del conflicto. Las opciones B y C alteran de forma más sustancial la naturaleza de los personajes y sus relaciones, acercándose más a una 'adaptación' libre que a una 'actualización'.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_arte_cultura_2018_p90",
+      "contexto": "Un docente divide a los estudiantes en grupos y les entrega una serie de artículos relacionados con la creación de personajes dramatúrgicos. Luego les solicita que los lean, discutan y reflexionen en grupo sobre su contenido, y que presenten un informe sobre las ideas principales al resto de la clase.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué proceso están realizando principalmente los estudiantes en la actividad descrita?",
+          "opciones": [
+            "Aplicación de lo aprendido.",
+            "Reflexión sobre el aprendizaje.",
+            "Procesamiento de información."
+          ],
+          "respuesta": "Procesamiento de información.",
+          "respuestaCorta": "Los estudiantes están procesando información al leer, discutir y sintetizar los artículos.",
+          "solucionario": "El procesamiento de la información es un proceso cognitivo que implica recibir datos (leer los artículos), analizarlos y darles sentido (discutir y reflexionar), y organizarlos para un uso posterior (sintetizar en un informe). La actividad descrita se centra en estas etapas: adquisición, comprensión y organización de nuevos conocimientos, lo cual define claramente el procesamiento de información.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    }
+  ]
+}
+  
