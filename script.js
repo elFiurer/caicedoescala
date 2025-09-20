@@ -171,25 +171,22 @@ document.addEventListener('DOMContentLoaded', () => {
     };
     // ▼▼▼ AÑADE ESTA NUEVA FUNCIÓN A TU SCRIPT.JS ▼▼▼
     const showAuthAlert = (title, message) => {
-        // Creamos el fondo oscuro del modal
         const alertModalOverlay = document.createElement('div');
-        alertModalOverlay.className = 'modal-overlay active'; // Reutilizamos los estilos que ya tienes
+        alertModalOverlay.className = 'modal-overlay active';
 
-        // Creamos el contenido del modal
         alertModalOverlay.innerHTML = `
         <div class="modal-container auth-alert-modal">
             <h2>${title}</h2>
             <p>${message}</p>
             <div class="auth-alert-buttons">
-                <button class="btn-cta" id="auth-alert-redirect-btn">Ir a Inicio</button>
+                <button class="btn-cta" id="auth-alert-redirect-btn">Aceptar</button>
             </div>
         </div>
     `;
 
-        // Añadimos el modal completo al cuerpo de la página
         document.body.appendChild(alertModalOverlay);
 
-        // Hacemos que el botón redirija al inicio al hacer clic
+        // El botón "Aceptar" sigue llevando al inicio para que el usuario pueda iniciar sesión.
         document.getElementById('auth-alert-redirect-btn').addEventListener('click', () => {
             window.location.href = 'index.html';
         });
@@ -947,21 +944,18 @@ document.addEventListener('DOMContentLoaded', () => {
                 // Si el usuario SÍ ha iniciado sesión, se ejecuta toda la lógica para mostrar el dashboard.
                 inicializarDashboard(user);
             } else {
-                // --- INICIO DE LA LÓGICA DE BLOQUEO ---
+                // --- INICIO DE LA LÓGICA DE BLOQUEO MEJORADA ---
                 // Si el usuario NO ha iniciado sesión:
 
-                // 1. Ocultamos el ícono de "cargando" para que la página se vea limpia.
+                // 1. Ocultamos el ícono de "cargando". La página se quedará en blanco detrás del modal.
                 const loaderEl = document.getElementById('loader');
                 if (loaderEl) loaderEl.style.display = 'none';
 
-                // 2. Mostramos el contenido principal, pero lo dejaremos "vacío" o inerte.
-                const mainContentEl = document.getElementById('main-content');
-                if (mainContentEl) mainContentEl.classList.remove('content-hidden');
-
-                // 3. LLAMAMOS A NUESTRO NUEVO MODAL PROFESIONAL
+                // 2. LLAMAMOS A NUESTRO MODAL PROFESIONAL
                 showAuthAlert('Acceso Restringido', 'Inicia sesión para ver tu rendimiento.');
 
-                // --- FIN DE LA LÓGICA DE BLOQUEO ---
+                // YA NO MOSTRAMOS EL CONTENIDO PRINCIPAL, por lo que la página no cargará nada visible.
+                // --- FIN DE LA LÓGICA DE BLOQUEO MEJORADA ---
             }
         });
 
