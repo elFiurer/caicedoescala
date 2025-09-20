@@ -99,7 +99,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const idUnicoPregunta = `${examenId}-${seccion}-${indicePregunta}`;
 
         if (mazoRepaso.some(p => p.idUnico === idUnicoPregunta)) {
-            showToast('Esta pregunta ya está en tu mazo.'); // <-- CAMBIO AQUÍ
+            showToast('Esta pregunta ya está en tu Repaso.'); // <-- CAMBIO AQUÍ
             return;
         }
 
@@ -112,7 +112,7 @@ document.addEventListener('DOMContentLoaded', () => {
         });
 
         localStorage.setItem('mazoRepaso', JSON.stringify(mazoRepaso));
-        showToast('¡Pregunta guardada en tu mazo!'); // <-- CAMBIO AQUÍ
+        showToast('¡Pregunta guardada en Mi Repaso!'); // <-- CAMBIO AQUÍ
     };
     // ... justo después de la función guardarParaRepaso ...
 
@@ -169,7 +169,31 @@ document.addEventListener('DOMContentLoaded', () => {
             });
         });
     };
+    // ▼▼▼ AÑADE ESTA NUEVA FUNCIÓN A TU SCRIPT.JS ▼▼▼
+    const showAuthAlert = (title, message) => {
+        // Creamos el fondo oscuro del modal
+        const alertModalOverlay = document.createElement('div');
+        alertModalOverlay.className = 'modal-overlay active'; // Reutilizamos los estilos que ya tienes
 
+        // Creamos el contenido del modal
+        alertModalOverlay.innerHTML = `
+        <div class="modal-container auth-alert-modal">
+            <h2>${title}</h2>
+            <p>${message}</p>
+            <div class="auth-alert-buttons">
+                <button class="btn-cta" id="auth-alert-redirect-btn">Ir a Inicio</button>
+            </div>
+        </div>
+    `;
+
+        // Añadimos el modal completo al cuerpo de la página
+        document.body.appendChild(alertModalOverlay);
+
+        // Hacemos que el botón redirija al inicio al hacer clic
+        document.getElementById('auth-alert-redirect-btn').addEventListener('click', () => {
+            window.location.href = 'index.html';
+        });
+    };
 
 
     function setupHighlighter() {
@@ -655,9 +679,9 @@ document.addEventListener('DOMContentLoaded', () => {
                     const bloqueWrapper = document.createElement('div');
                     bloqueWrapper.id = bloqueId;
                     bloqueWrapper.className = 'bloque-wrapper';
-                    
+
                     let bloqueHTML = `<h2 class="group-title">CASO ${index + 1}</h2>`;
-                    
+
                     if (bloque.contexto) {
                         bloqueHTML += `<div class="contexto-examen"><p>${bloque.contexto.replace(/\n/g, '<br>')}</p></div>`;
                     }
@@ -674,12 +698,12 @@ document.addEventListener('DOMContentLoaded', () => {
                                     optionsHTML += `<div class="option" data-question-index="${questionIndex}">${opcion}</div>`;
                                 });
                             }
-                            
+
                             let imagenPreguntaHTML = '';
                             if (pregunta.imagen) {
                                 imagenPreguntaHTML = `<div class="imagen-pregunta-especifica"><img src="${pregunta.imagen}" alt="Imagen de la pregunta" class="imagen-examen"></div>`;
                             }
-                            
+
                             bloqueHTML += `
                                 <div id="question-wrapper-${questionIndex}" class="question-wrapper">
                                     <div class="question-header">
@@ -690,18 +714,18 @@ document.addEventListener('DOMContentLoaded', () => {
                                     ${imagenPreguntaHTML}
                                     <div class="options-container">${optionsHTML}</div>
                                 </div>`;
-                            
+
                             questionCounter++;
                         });
                     }
-                    
+
                     bloqueWrapper.innerHTML = bloqueHTML;
                     questionsContainer.appendChild(bloqueWrapper);
 
                     // --- INICIO DE LA CORRECCIÓN CLAVE ---
                     // Re-asignamos los listeners a los elementos recién creados CON LA LÓGICA COMPLETA
                     const currentBlock = document.getElementById(bloqueId);
-                    
+
                     currentBlock.querySelectorAll('.flag-btn').forEach(flagBtn => {
                         flagBtn.addEventListener('click', () => {
                             const idx = parseInt(flagBtn.dataset.index);
@@ -730,7 +754,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             if (navButton) navButton.classList.add('answered');
                         });
                     });
-                     // --- FIN DE LA CORRECCIÓN CLAVE ---
+                    // --- FIN DE LA CORRECCIÓN CLAVE ---
                 });
             };
             const finalizarExamen = () => {
@@ -915,33 +939,33 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // 👇 REEMPLAZA TU BLOQUE DEL DASHBOARD CON ESTA VERSIÓN CORREGIDA Y FINAL 👇
 
-    // Bloque Final para DASHBOARD.HTML (Con Guardián de Autenticación)
-    // Bloque Definitivo para DASHBOARD.HTML (Completo y Verificado)
+    // Bloque Definitivo para DASHBOARD.HTML (Con Modal Profesional)
     if (window.location.pathname.endsWith('dashboard')) {
-        
-        auth.onAuthStateChanged(user => {
-            const loaderEl = document.getElementById('loader');
-            const mainContentEl = document.getElementById('main-content');
-            const historyBody = document.getElementById('history-body');
 
+        auth.onAuthStateChanged(user => {
             if (user) {
                 // Si el usuario SÍ ha iniciado sesión, se ejecuta toda la lógica para mostrar el dashboard.
                 inicializarDashboard(user);
             } else {
-                // Si el usuario NO ha iniciado sesión, se muestra la alerta simple.
-                alert('Inicia sesión para ver tu rendimiento');
-                if(loaderEl) loaderEl.style.display = 'none';
-                if(mainContentEl) mainContentEl.classList.remove('content-hidden');
-                if(historyBody) historyBody.innerHTML = '<tr><td colspan="4">Inicia sesión para ver tu historial de exámenes.</td></tr>';
-                
-                const examFilterEl = document.getElementById('exam-filter');
-                const examSortEl = document.getElementById('exam-sort');
-                if(examFilterEl) examFilterEl.disabled = true;
-                if(examSortEl) examSortEl.disabled = true;
+                // --- INICIO DE LA LÓGICA DE BLOQUEO ---
+                // Si el usuario NO ha iniciado sesión:
+
+                // 1. Ocultamos el ícono de "cargando" para que la página se vea limpia.
+                const loaderEl = document.getElementById('loader');
+                if (loaderEl) loaderEl.style.display = 'none';
+
+                // 2. Mostramos el contenido principal, pero lo dejaremos "vacío" o inerte.
+                const mainContentEl = document.getElementById('main-content');
+                if (mainContentEl) mainContentEl.classList.remove('content-hidden');
+
+                // 3. LLAMAMOS A NUESTRO NUEVO MODAL PROFESIONAL
+                showAuthAlert('Acceso Restringido', 'Inicia sesión para ver tu rendimiento.');
+
+                // --- FIN DE LA LÓGICA DE BLOQUEO ---
             }
         });
 
-        // La función que construye el dashboard (AHORA COMPLETA Y SIN ABREVIAR)
+        // La función que construye el dashboard (COMPLETA Y SIN ABREVIAR)
         const inicializarDashboard = (user) => {
             const historyBody = document.getElementById('history-body');
             const kpiPromedioEl = document.getElementById('kpi-promedio');
@@ -975,7 +999,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     const historialOrdenado = [...datos].sort((a, b) => new Date(a.fecha) - new Date(b.fecha));
                     const labels = historialOrdenado.map(ex => new Date(ex.fecha).toLocaleDateString('es-PE'));
                     const dataPoints = historialOrdenado.map(ex => parseFloat(ex.puntaje));
-                    chartInstance = new Chart(ctx, { 
+                    chartInstance = new Chart(ctx, {
                         type: 'line', data: { labels, datasets: [{ label: 'Puntaje (%)', data: dataPoints, fill: true, backgroundColor: 'rgba(0, 123, 255, 0.1)', borderColor: '#007bff', tension: 0.2 }] },
                         options: { responsive: true, maintainAspectRatio: false, scales: { y: { beginAtZero: true, max: 100 } }, plugins: { legend: { display: false } } }
                     });
@@ -1009,7 +1033,7 @@ document.addEventListener('DOMContentLoaded', () => {
                         }
 
                         querySnapshot.forEach(doc => fullHistorial.push({ id: doc.id, ...doc.data() }));
-                        
+
                         const totalExamenes = fullHistorial.length;
                         kpiTotalEl.innerText = totalExamenes;
                         const sumaPuntajes = fullHistorial.reduce((acc, ex) => acc + parseFloat(ex.puntaje), 0);
@@ -1335,7 +1359,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 questionTitleEl.innerText = "Práctica Finalizada";
                 questionTextEl.innerHTML = `¡Aquí tienes tu resumen de la sesión!`;
                 optionsContainerEl.innerHTML = `<div class="summary-card-practica"><div class="summary-item correct"><span>Correctas</span><p>${correctas}/${totalPreguntas}</p></div><div class="summary-item incorrect"><span>Incorrectas</span><p>${incorrectas}/${totalPreguntas}</p></div><div class="summary-item score"><span>Puntaje</span><p>${puntaje.toFixed(0)}%</p></div></div><div class="results-actions"><button id="review-practice-btn" class="btn-cta">Revisar Práctica</button>${incorrectas > 0 ? '<button id="retry-incorrect-btn" class="btn-retry">Reintentar solo las incorrectas</button>' : ''}<button id="back-to-library-btn-practica" class="btn-secondary">Volver a la Biblioteca</button></div>`;
-                
+
                 const reviewBtn = document.getElementById('review-practice-btn');
                 if (reviewBtn) {
                     reviewBtn.addEventListener('click', () => {
@@ -1346,7 +1370,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             if (!grupos[idGrupo]) {
                                 grupos[idGrupo] = { contexto: pregunta.contexto, imagen: null, preguntas: [] };
                                 // Asignamos la imagen del bloque solo si es la imagen original del bloque
-                                if(pregunta.imagen === pregunta.imagenBloque) grupos[idGrupo].imagen = pregunta.imagenBloque;
+                                if (pregunta.imagen === pregunta.imagenBloque) grupos[idGrupo].imagen = pregunta.imagenBloque;
                             }
                             grupos[idGrupo].preguntas.push(pregunta);
                         });
@@ -1405,10 +1429,10 @@ document.addEventListener('DOMContentLoaded', () => {
                         contextoDiv.innerHTML = `<p>${question.contexto.replace(/\n/g, '<br>')}</p>`;
                         contextContainerEl.appendChild(contextoDiv);
                     }
-                    if(question.imagenBloque) {
-                        const img = document.createElement('img'); 
-                        img.src = question.imagenBloque; 
-                        img.classList.add('imagen-examen'); 
+                    if (question.imagenBloque) {
+                        const img = document.createElement('img');
+                        img.src = question.imagenBloque;
+                        img.classList.add('imagen-examen');
                         contextContainerEl.appendChild(img);
                     }
                 }
@@ -1445,7 +1469,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 const seccionNormalizada = normalizarTexto(seccion);
                 const claveCorrecta = Object.keys(examQuestionSets).find(k => normalizarTexto(k) === seccionNormalizada);
                 const bloques = claveCorrecta ? examQuestionSets[claveCorrecta] : [];
-                
+
                 bloques.forEach(bloque => {
                     bloque.preguntas.forEach(pregunta => {
                         flatExamQuestions.push({
@@ -1461,7 +1485,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 const totalPreguntasExamenCompleto = examData.preguntas;
                 const tiempoTotalExamenCompleto = examData.tiempo * 60;
                 if (seccion === 'completo') { practicaTimeRemaining = tiempoTotalExamenCompleto; } else { practicaTimeRemaining = Math.round((flatExamQuestions.length / totalPreguntasExamenCompleto) * tiempoTotalExamenCompleto); }
-                
+
                 updatePracticaTimerDisplay();
                 startPracticaTimer();
                 renderPracticaQuestion(); // ¡La llamada inicial para mostrar la primera pregunta!
@@ -1471,7 +1495,7 @@ document.addEventListener('DOMContentLoaded', () => {
             }
 
             if (nextBtnEl) nextBtnEl.addEventListener('click', () => { currentQuestionIndex++; renderPracticaQuestion(); });
-            
+
             if (finishBtnEl) {
                 finishBtnEl.addEventListener('click', () => {
                     showConfirm('Finalizar Práctica', '¿Estás seguro de que deseas terminar ahora? Verás un resumen de tu progreso hasta este punto.')
