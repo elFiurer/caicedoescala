@@ -18,6 +18,10 @@ document.addEventListener('DOMContentLoaded', () => {
     const facebookProvider = new firebase.auth.FacebookAuthProvider();
     setupHighlighter();
     let currentUser = null;
+    let inicializarPaginaExamenes;
+    let inicializarDashboard;
+    let inicializarPaginaRepaso;
+
 
     // --- 2. BASE DE DATOS LOCAL DE EXÁMENES Y PREGUNTAS (Global) ---
 
@@ -48,6 +52,12 @@ document.addEventListener('DOMContentLoaded', () => {
             .normalize('NFD') // Separa las tildes de las letras
             .replace(/[\u0300-\u036f]/g, "") // Elimina los signos de tilde
             .toLowerCase(); // Convierte todo a minúsculas
+    };
+    const sanitizarHTML = (texto) => {
+        if (!texto) return '';
+        // Esta expresión busca y elimina cualquier etiqueta <script> y su contenido.
+        const regex = /<script\b[^>]*>[\s\S]*?<\/script\b[^>]*>/gi;
+        return texto.replace(regex, '');
     };
     // Esta función arma un examen completo, pidiendo el archivo genérico y el específico.
     const getBancoDePreguntas = async (examId) => {
@@ -103,7 +113,7 @@ document.addEventListener('DOMContentLoaded', () => {
             return;
         }
 
-        mazoRepaso.push({
+        mazoRepaso.unshift({
             idUnico: idUnicoPregunta,
             examenId: examenId,
             seccion: seccion,
@@ -187,7 +197,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 </div>
             </div>
         `;
-        
+
         document.body.appendChild(alertModalOverlay);
 
         document.getElementById('auth-alert-accept-btn').addEventListener('click', () => {
@@ -359,10 +369,7 @@ document.addEventListener('DOMContentLoaded', () => {
             modalOverlay.classList.add('active');
         }
     };
-    auth.onAuthStateChanged(user => {
-        currentUser = user;
-        setupUI(user);
-    });
+
 
 
     // Lógica para la PÁGINA PRINCIPAL (index.html) con DIAGNÓSTICO
@@ -426,19 +433,8 @@ document.addEventListener('DOMContentLoaded', () => {
     // ========================================================================
     if (document.getElementById('filters-container')) {
 
-        auth.onAuthStateChanged(user => {
-            if (user) {
-                // Si hay usuario, cargamos la página de exámenes con normalidad.
-                inicializarPaginaExamenes();
-            } else {
-                // Si NO hay usuario, detenemos la carga y mostramos el aviso simple.
-                document.getElementById('loader').style.display = 'none';
-                showAuthAlert('Acceso Restringido', 'Inicia sesión para ver los exámenes.');
-            }
-        });
+        inicializarPaginaExamenes = async () => {
 
-        // La lógica completa de la página de exámenes (sin abreviaturas)
-        const inicializarPaginaExamenes = async () => {
             const filtersContainer = document.getElementById('filters-container');
             const examsListContainer = document.getElementById('exams-list');
             const sectionModal = document.getElementById('section-modal-overlay');
@@ -594,7 +590,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // REEMPLAZA EL BLOQUE COMPLETO DE LA PÁGINA DE SIMULACRO
 
     // Bloque Final para SIMULACRO.HTML
-    if (window.location.pathname.endsWith('simulacro.html')) {
+    if (document.getElementById('questions-container')) {
         (async () => {
             mostrarGuiaHighlighterSiEsNecesario('simulacro');
             // --- VARIABLES DE ESTADO Y ELEMENTOS DEL DOM ---
@@ -680,9 +676,9 @@ document.addEventListener('DOMContentLoaded', () => {
                     const bloqueWrapper = document.createElement('div');
                     bloqueWrapper.id = bloqueId;
                     bloqueWrapper.className = 'bloque-wrapper';
-                    
+
                     let bloqueHTML = `<h2 class="group-title">CASO ${index + 1}</h2>`;
-                    
+
                     if (bloque.contexto) {
                         bloqueHTML += `<div class="contexto-examen contexto-bloque"><p>${bloque.contexto.replace(/\n/g, '<br>')}</p></div>`;
                     }
@@ -700,7 +696,7 @@ document.addEventListener('DOMContentLoaded', () => {
                                     optionsHTML += `<div class="option" data-question-index="${questionIndex}">${opcion}</div>`;
                                 });
                             }
-                            
+
                             let contenidoPreguntaHTML = '';
                             if (pregunta.contexto) {
                                 contenidoPreguntaHTML += `<div class="contexto-examen contexto-pregunta"><p>${pregunta.contexto.replace(/\n/g, '<br>')}</p></div>`;
@@ -710,7 +706,7 @@ document.addEventListener('DOMContentLoaded', () => {
                                 contenidoPreguntaHTML += `<div class="imagen-pregunta-especifica"><img src="${imagenDePregunta}" alt="Imagen de la pregunta" class="imagen-examen"></div>`;
                             }
                             contenidoPreguntaHTML += `<p>${pregunta.pregunta}</p>`;
-                            
+
                             bloqueHTML += `
                                 <div id="question-wrapper-${questionIndex}" class="question-wrapper">
                                     <div class="question-header">
@@ -720,11 +716,11 @@ document.addEventListener('DOMContentLoaded', () => {
                                     ${contenidoPreguntaHTML}
                                     <div class="options-container">${optionsHTML}</div>
                                 </div>`;
-                            
+
                             questionCounter++;
                         });
                     }
-                    
+
                     bloqueWrapper.innerHTML = bloqueHTML;
                     questionsContainer.appendChild(bloqueWrapper);
 
@@ -833,7 +829,7 @@ document.addEventListener('DOMContentLoaded', () => {
         })();
     }
     // 👇 REEMPLAZA EL BLOQUE COMPLETO DE LA PÁGINA DE RESULTADOS CON ESTE 👇
-    if (window.location.pathname.endsWith('resultados.html')) {
+    if (document.getElementById('summary-card')) {
 
         const crearNavegadorResultados = (totalPreguntas, respuestasUsuario, bloques) => {
             const navigatorContainer = document.getElementById('results-navigator');
@@ -897,21 +893,21 @@ document.addEventListener('DOMContentLoaded', () => {
             let questionCounter = 0;
 
             // Usamos el index para el título del CASO
+            // ▼▼▼ REEMPLAZA TU BUCLE forEach CON ESTE BLOQUE COMPLETO ▼▼▼
             resultadosData.bloques.forEach((bloque, index) => {
-                // --- INICIO DE LA MODIFICACIÓN CLAVE ---
-                // Creamos un título para el bloque de resultados
                 const groupTitle = document.createElement('h2');
                 groupTitle.className = 'group-title';
                 groupTitle.innerText = `CASO ${index + 1}`;
                 resultsDetails.appendChild(groupTitle);
-                // --- FIN DE LA MODIFICACIÓN CLAVE ---
 
-               if (bloque.contexto) {
+                if (bloque.contexto) {
                     const contextoDiv = document.createElement('div');
                     contextoDiv.classList.add('contexto-examen', 'contexto-resultado');
-                    contextoDiv.innerHTML = `<p>${bloque.contexto.replace(/\n/g, '<br>')}</p>`;
+                    // APLICAMOS LA VACUNA DE SEGURIDAD AQUÍ
+                    contextoDiv.innerHTML = `<p>${sanitizarHTML(bloque.contexto).replace(/\n/g, '<br>')}</p>`;
                     resultsDetails.appendChild(contextoDiv);
                 }
+
                 const imagenDeBloque = bloque.imagen || bloque.Imagen;
                 if (imagenDeBloque) {
                     const imagenEl = document.createElement('img');
@@ -920,10 +916,62 @@ document.addEventListener('DOMContentLoaded', () => {
                     resultsDetails.appendChild(imagenEl);
                 }
 
-                bloque.preguntas.forEach(pregunta => {
-                    // ... el resto del código que genera cada item de resultado sigue igual ...
-                });
+                // ESTA LÓGICA COMPLETA AHORA RENDERIZARÁ LAS PREGUNTAS
+                if (bloque.preguntas && Array.isArray(bloque.preguntas)) {
+                    bloque.preguntas.forEach(pregunta => {
+                        const preguntaIndex = questionCounter;
+                        const respuestaUsuario = resultadosData.respuestasUsuario[preguntaIndex];
+                        const esCorrecta = respuestaUsuario === pregunta.respuesta;
+                        const estaEnBlanco = !respuestaUsuario;
+
+                        let statusClass = '';
+                        if (estaEnBlanco) statusClass = 'blank';
+                        else if (esCorrecta) statusClass = 'correct';
+                        else statusClass = 'incorrect';
+
+                        const resultItem = document.createElement('div');
+                        resultItem.classList.add('result-item', statusClass);
+                        resultItem.id = `result-item-${preguntaIndex}`;
+
+                        let optionsHTML = '';
+                        pregunta.opciones.forEach(opcion => {
+                            let optionClass = 'option';
+                            if (opcion === pregunta.respuesta) {
+                                optionClass += ' correct-answer';
+                            }
+                            if (opcion === respuestaUsuario && !esCorrecta) {
+                                optionClass += ' incorrect-answer';
+                            }
+                            optionsHTML += `<div class="${optionClass}">${opcion}</div>`;
+                        });
+
+                        let contenidoPreguntaHTML = '';
+                        if (pregunta.contexto) {
+                            contenidoPreguntaHTML += `<div class="contexto-examen contexto-pregunta"><p>${sanitizarHTML(pregunta.contexto).replace(/\n/g, '<br>')}</p></div>`;
+                        }
+                        const imagenDePregunta = pregunta.imagen || pregunta.Imagen;
+                        if (imagenDePregunta) {
+                            contenidoPreguntaHTML += `<div class="imagen-pregunta-especifica"><img src="${imagenDePregunta}" alt="Imagen de la pregunta" class="imagen-examen"></div>`;
+                        }
+
+                        resultItem.innerHTML = `
+                <div class="result-question-header">
+                    <strong>Pregunta ${preguntaIndex + 1}</strong>
+                    <span>Tu respuesta: ${respuestaUsuario || 'No contestada'}</span>
+                </div>
+                <div class="result-question-content">
+                    ${contenidoPreguntaHTML}
+                    <p>${sanitizarHTML(pregunta.pregunta)}</p> </div>
+                <div class="options-container">${optionsHTML}</div>
+                <div class="solucionario">
+                    <p><strong>Solucionario:</strong> ${sanitizarHTML(pregunta.solucionario)}</p> </div>
+            `;
+                        resultsDetails.appendChild(resultItem);
+                        questionCounter++;
+                    });
+                }
             });
+            // ▲▲▲ FIN DEL BLOQUE REEMPLAZADO ▲▲▲
 
             // CORRECCIÓN: Se añade la funcionalidad al botón
             const practiceAgainBtn = document.getElementById('practice-again-btn');
@@ -947,23 +995,11 @@ document.addEventListener('DOMContentLoaded', () => {
     // ========================================================================
     // INICIA BLOQUE PARA LA PÁGINA "MI RENDIMIENTO" (DASHBOARD.HTML)
     // ========================================================================
-    if (window.location.pathname.endsWith('dashboard')) {
+    if (document.getElementById('progressChart')) {
 
         // --- GUARDIÁN DE AUTENTICACIÓN SIMPLE ---
-        auth.onAuthStateChanged(user => {
-            if (user) {
-                // Si hay usuario, cargamos el dashboard.
-                inicializarDashboard(user);
-            } else {
-                // Si NO hay usuario, ocultamos el loader y mostramos el aviso.
-                const loaderEl = document.getElementById('loader');
-                if(loaderEl) loaderEl.style.display = 'none';
-                showAuthAlert('Acceso Restringido', 'Inicia sesión para ver tu rendimiento.');
-            }
-        });
-
-        // --- LÓGICA COMPLETA DE LA PÁGINA DEL DASHBOARD ---
-        const inicializarDashboard = (user) => {
+        // --- GUARDIÁN DE AUTENTICACIÓN MEJORADO ---
+        inicializarDashboard = (user) => {
             const historyBody = document.getElementById('history-body');
             const kpiPromedioEl = document.getElementById('kpi-promedio');
             const kpiMejorEl = document.getElementById('kpi-mejor');
@@ -996,7 +1032,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     const historialOrdenado = [...datos].sort((a, b) => new Date(a.fecha) - new Date(b.fecha));
                     const labels = historialOrdenado.map(ex => new Date(ex.fecha).toLocaleDateString('es-PE'));
                     const dataPoints = historialOrdenado.map(ex => parseFloat(ex.puntaje));
-                    chartInstance = new Chart(ctx, { 
+                    chartInstance = new Chart(ctx, {
                         type: 'line', data: { labels, datasets: [{ label: 'Puntaje (%)', data: dataPoints, fill: true, backgroundColor: 'rgba(0, 123, 255, 0.1)', borderColor: '#007bff', tension: 0.2 }] },
                         options: { responsive: true, maintainAspectRatio: false, scales: { y: { beginAtZero: true, max: 100 } }, plugins: { legend: { display: false } } }
                     });
@@ -1030,7 +1066,7 @@ document.addEventListener('DOMContentLoaded', () => {
                         }
 
                         querySnapshot.forEach(doc => fullHistorial.push({ id: doc.id, ...doc.data() }));
-                        
+
                         const totalExamenes = fullHistorial.length;
                         kpiTotalEl.innerText = totalExamenes;
                         const sumaPuntajes = fullHistorial.reduce((acc, ex) => acc + parseFloat(ex.puntaje), 0);
@@ -1113,19 +1149,8 @@ document.addEventListener('DOMContentLoaded', () => {
     if (document.getElementById('lista-repaso')) {
 
         // --- GUARDIÁN DE AUTENTICACIÓN SIMPLE ---
-        auth.onAuthStateChanged(user => {
-            if (user) {
-                // Si hay usuario, cargamos la página de repaso.
-                inicializarPaginaRepaso(user);
-            } else {
-                // Si NO hay usuario, ocultamos el loader y mostramos el aviso.
-                document.getElementById('loader').style.display = 'none';
-                showAuthAlert('Acceso Restringido', 'Inicia sesión para ver tu mazo de repaso.');
-            }
-        });
-
-        // --- LÓGICA COMPLETA DE LA PÁGINA DE REPASO ---
-        const inicializarPaginaRepaso = (user) => {
+        // --- GUARDIÁN DE AUTENTICACIÓN MEJORADO ---
+        inicializarPaginaRepaso = (user) => {
             const listaRepasoContainer = document.getElementById('lista-repaso');
             const flashcardModalOverlay = document.getElementById('flashcard-modal-overlay');
             let mazoRepaso = JSON.parse(localStorage.getItem('mazoRepaso')) || [];
@@ -1133,41 +1158,62 @@ document.addEventListener('DOMContentLoaded', () => {
             const renderizarListaRepaso = async () => {
                 if (!listaRepasoContainer) return;
                 listaRepasoContainer.innerHTML = '';
-                const examenes = await getTodosLosExamenes();
 
                 if (mazoRepaso.length === 0) {
                     listaRepasoContainer.innerHTML = `<h3>Mi Mazo de Repaso</h3><p class="no-results">Aún no has guardado ninguna pregunta. Ve a la sección de resultados de un examen para guardarlas.</p>`;
                 } else {
                     listaRepasoContainer.innerHTML = '<h3>Mis Preguntas Guardadas</h3>';
-                    const mazoInvertido = [...mazoRepaso].reverse();
-                    for (const preguntaGuardada of mazoInvertido) {
-                        const examData = examenes.find(e => e.id == preguntaGuardada.examenId);
+
+                    // 1. Agrupamos las preguntas por examen para no repetir peticiones
+                    const preguntasAgrupadas = mazoRepaso.reduce((acc, pregunta) => {
+                        if (!acc[pregunta.examenId]) {
+                            acc[pregunta.examenId] = [];
+                        }
+                        acc[pregunta.examenId].push(pregunta);
+                        return acc;
+                    }, {});
+
+                    const todosLosExamenes = await getTodosLosExamenes();
+                    const fragmentoHTML = document.createDocumentFragment();
+
+                    // 2. Iteramos sobre los exámenes únicos, no sobre cada pregunta
+                    for (const examenId in preguntasAgrupadas) {
+                        const examData = todosLosExamenes.find(e => e.id == examenId);
                         if (!examData) continue;
 
-                        const examQuestionSets = await getBancoDePreguntas(preguntaGuardada.examenId);
+                        // Pedimos el banco de preguntas UNA SOLA VEZ por examen
+                        const examQuestionSets = await getBancoDePreguntas(examenId);
                         if (!examQuestionSets) continue;
 
-                        const seccionNormalizada = normalizarTexto(preguntaGuardada.seccion);
-                        const claveCorrecta = Object.keys(examQuestionSets).find(k => normalizarTexto(k) === seccionNormalizada);
-                        const bloques = claveCorrecta ? examQuestionSets[claveCorrecta] : [];
+                        const preguntasDeEsteExamen = preguntasAgrupadas[examenId];
 
-                        let flatExamQuestions = [];
-                        bloques.forEach(b => flatExamQuestions.push(...(b.preguntas || [])));
-                        const preguntaCompleta = flatExamQuestions[preguntaGuardada.indice];
+                        // 3. Procesamos todas las preguntas guardadas para este examen
+                        for (const preguntaGuardada of preguntasDeEsteExamen) {
+                            const seccionNormalizada = normalizarTexto(preguntaGuardada.seccion);
+                            const claveCorrecta = Object.keys(examQuestionSets).find(k => normalizarTexto(k) === seccionNormalizada);
+                            const bloques = claveCorrecta ? examQuestionSets[claveCorrecta] : [];
 
-                        if (preguntaCompleta) {
-                            const itemPregunta = document.createElement('div');
-                            itemPregunta.classList.add('repaso-item');
-                            itemPregunta.dataset.idUnico = preguntaGuardada.idUnico;
-                            itemPregunta.innerHTML = `
-                            <div class="repaso-pregunta-texto">${preguntaCompleta.pregunta}</div>
-                            <div class="repaso-pregunta-origen">${examData.proceso} ${examData.anio} - ${examData.especialidad}</div>
-                            <button class="btn-eliminar-repaso" title="Eliminar de mi repaso" data-id-unico="${preguntaGuardada.idUnico}">🗑️</button>
-                        `;
-                            listaRepasoContainer.appendChild(itemPregunta);
+                            let flatExamQuestions = [];
+                            bloques.forEach(b => flatExamQuestions.push(...(b.preguntas || [])));
+                            const preguntaCompleta = flatExamQuestions[preguntaGuardada.indice];
+
+                            if (preguntaCompleta) {
+                                const itemPregunta = document.createElement('div');
+                                itemPregunta.classList.add('repaso-item');
+                                itemPregunta.dataset.idUnico = preguntaGuardada.idUnico;
+                                itemPregunta.innerHTML = `
+                    <div class="repaso-pregunta-texto">${preguntaCompleta.pregunta}</div>
+                    <div class="repaso-pregunta-origen">${examData.proceso} ${examData.anio} - ${examData.especialidad}</div>
+                    <button class="btn-eliminar-repaso" title="Eliminar de mi repaso" data-id-unico="${preguntaGuardada.idUnico}">🗑️</button>
+                    `;
+                                fragmentoHTML.appendChild(itemPregunta);
+                            }
                         }
                     }
+                    // Invertimos el orden al final para mostrar las más recientes primero
+                    listaRepasoContainer.appendChild(fragmentoHTML);
                 }
+
                 document.getElementById('loader').style.display = 'none';
                 document.getElementById('main-content').classList.remove('content-hidden');
             };
@@ -1298,38 +1344,63 @@ document.addEventListener('DOMContentLoaded', () => {
     // ========================================================================
 
     // Esta función configura los protectores de los enlaces.
-   // ========================================================================
-// INICIA VIGILANTE GLOBAL PARA ENLACES PROTEGIDOS (VERSIÓN FINAL)
-// ========================================================================
-const setupProtectedLinks = () => {
-    // Asegúrate de que tu enlace de "Mi Rendimiento" en el HTML tenga el id="nav-rendimiento-link"
-    const enlacesProtegidos = ['nav-examenes-link', 'nav-repaso-link', 'nav-rendimiento-link']; 
+    // ========================================================================
+    // INICIA VIGILANTE GLOBAL PARA ENLACES PROTEGIDOS (VERSIÓN FINAL)
+    // ========================================================================
+    const setupProtectedLinks = () => {
+        // Asegúrate de que tu enlace de "Mi Rendimiento" en el HTML tenga el id="nav-rendimiento-link"
+        const enlacesProtegidos = ['nav-examenes-link', 'nav-repaso-link', 'nav-rendimiento-link'];
 
-    enlacesProtegidos.forEach(id => {
-        const enlace = document.getElementById(id);
-        if (enlace) {
-            enlace.addEventListener('click', (event) => {
-                if (!auth.currentUser) {
-                    event.preventDefault(); // Detenemos la navegación
+        enlacesProtegidos.forEach(id => {
+            const enlace = document.getElementById(id);
+            if (enlace) {
+                enlace.addEventListener('click', (event) => {
+                    if (!auth.currentUser) {
+                        event.preventDefault(); // Detenemos la navegación
 
-                    // LLAMAMOS AL AVISO SIMPLE, y al aceptar, ABRIMOS EL MODAL DE LOGIN
-                    showAuthAlert(
-                        'Acceso Restringido', 
-                        'Debes iniciar sesión para acceder a esta sección.',
-                        () => { openModal(); } // Esta es la acción personalizada
-                    );
-                }
-            });
+                        // LLAMAMOS AL AVISO SIMPLE, y al aceptar, ABRIMOS EL MODAL DE LOGIN
+                        showAuthAlert(
+                            'Acceso Restringido',
+                            'Debes iniciar sesión para acceder a esta sección.',
+                            () => { openModal(); } // Esta es la acción personalizada
+                        );
+                    }
+                });
+            }
+        });
+    };
+
+    // OBSERVADOR PRINCIPAL DE AUTENTICACIÓN (onAuthStateChanged)
+    // OBSERVADOR PRINCIPAL DE AUTENTICACIÓN (VERSIÓN DEFINITIVA)
+    // Este es el único lugar que decide si un usuario está autenticado o no.
+    // OBSERVADOR PRINCIPAL DE AUTENTICACIÓN (VERSIÓN A PRUEBA DE ERRORES)
+    auth.onAuthStateChanged(user => {
+        currentUser = user;
+        setupUI(user);
+        setupProtectedLinks();
+
+        const loader = document.getElementById('loader');
+
+        if (user) {
+            // Si el usuario existe, llamamos a la función SOLO SI esta ha sido definida en la página actual.
+            if (typeof inicializarPaginaExamenes === 'function') inicializarPaginaExamenes();
+            if (typeof inicializarDashboard === 'function') inicializarDashboard(user);
+            if (typeof inicializarPaginaRepaso === 'function') inicializarPaginaRepaso(user);
+        } else {
+            // Si el usuario NO existe, y estamos en una página protegida, mostramos el aviso.
+            if (loader) loader.style.display = 'none';
+
+            if (document.getElementById('filters-container')) {
+                showAuthAlert('Acceso Restringido', 'Inicia sesión para ver los exámenes.');
+            }
+            if (document.getElementById('progressChart')) {
+                showAuthAlert('Acceso Restringido', 'Inicia sesión para ver tu rendimiento.');
+            }
+            if (document.getElementById('lista-repaso')) {
+                showAuthAlert('Acceso Restringido', 'Inicia sesión para ver tu mazo de repaso.');
+            }
         }
     });
-};
-
-// OBSERVADOR PRINCIPAL DE AUTENTICACIÓN (onAuthStateChanged)
-auth.onAuthStateChanged(user => {
-    currentUser = user; 
-    setupUI(user);      
-    setupProtectedLinks(); // Activamos el interceptor de enlaces después de cada cambio de sesión
-});
     // Lógica para la PÁGINA DE PRÁCTICA (practica.html)
     // REEMPLAZA EL BLOQUE COMPLETO DE LA PÁGINA DE PRÁCTICA
 
@@ -1376,7 +1447,7 @@ auth.onAuthStateChanged(user => {
                 questionTitleEl.innerText = "Práctica Finalizada";
                 questionTextEl.innerHTML = `¡Aquí tienes tu resumen de la sesión!`;
                 optionsContainerEl.innerHTML = `<div class="summary-card-practica"><div class="summary-item correct"><span>Correctas</span><p>${correctas}/${totalPreguntas}</p></div><div class="summary-item incorrect"><span>Incorrectas</span><p>${incorrectas}/${totalPreguntas}</p></div><div class="summary-item score"><span>Puntaje</span><p>${puntaje.toFixed(0)}%</p></div></div><div class="results-actions"><button id="review-practice-btn" class="btn-cta">Revisar Práctica</button>${incorrectas > 0 ? '<button id="retry-incorrect-btn" class="btn-retry">Reintentar solo las incorrectas</button>' : ''}<button id="back-to-library-btn-practica" class="btn-secondary">Volver a la Biblioteca</button></div>`;
-                
+
                 const reviewBtn = document.getElementById('review-practice-btn');
                 if (reviewBtn) {
                     reviewBtn.addEventListener('click', () => {
@@ -1387,7 +1458,20 @@ auth.onAuthStateChanged(user => {
                             if (!grupos[idGrupo]) {
                                 grupos[idGrupo] = { contexto: pregunta.contextoBloque, imagen: pregunta.imagenBloque, preguntas: [] };
                             }
-                            grupos[idGrupo].preguntas.push(pregunta);
+                            // --- INICIA EL ARREGLO ---
+                            // Creamos una versión "limpia" de la pregunta, quitando los datos extra de la práctica.
+                            const preguntaLimpia = {
+                                pregunta: pregunta.pregunta,
+                                opciones: pregunta.opciones,
+                                respuesta: pregunta.respuesta,
+                                solucionario: pregunta.solucionario,
+                                contexto: pregunta.contextoPregunta, // Usamos el contexto específico de la pregunta
+                                imagen: pregunta.imagenPregunta      // Usamos la imagen específica de la pregunta
+                            };
+
+                            // Guardamos el objeto limpio, no el original que tenía datos extra.
+                            grupos[idGrupo].preguntas.push(preguntaLimpia);
+                            // --- FIN DEL ARREGLO ---
                         });
                         for (const id in grupos) { bloquesReconstruidos.push(grupos[id]); }
                         const params = new URLSearchParams(window.location.search);
@@ -1407,9 +1491,9 @@ auth.onAuthStateChanged(user => {
                         window.location.href = 'resultados.html';
                     });
                 }
-                
+
                 document.getElementById('back-to-library-btn-practica').addEventListener('click', () => { window.location.href = 'examenes.html'; });
-                
+
                 const retryBtn = document.getElementById('retry-incorrect-btn');
                 if (retryBtn) {
                     retryBtn.addEventListener('click', () => {
@@ -1534,7 +1618,7 @@ auth.onAuthStateChanged(user => {
                 const seccionNormalizada = normalizarTexto(seccion);
                 const claveCorrecta = Object.keys(examQuestionSets).find(k => normalizarTexto(k) === seccionNormalizada);
                 const bloques = claveCorrecta ? examQuestionSets[claveCorrecta] : [];
-                
+
                 bloques.forEach(bloque => {
                     bloque.preguntas.forEach(pregunta => {
                         flatExamQuestions.push({
@@ -1555,7 +1639,7 @@ auth.onAuthStateChanged(user => {
                 } else {
                     practicaTimeRemaining = Math.round((flatExamQuestions.length / totalPreguntasExamenCompleto) * tiempoTotalExamenCompleto);
                 }
-                
+
                 updatePracticaTimerDisplay();
                 startPracticaTimer();
                 renderPracticaQuestion();
@@ -1568,7 +1652,7 @@ auth.onAuthStateChanged(user => {
                 currentQuestionIndex++;
                 renderPracticaQuestion();
             });
-            
+
             if (finishBtnEl) {
                 finishBtnEl.addEventListener('click', () => {
                     showConfirm('Finalizar Práctica', '¿Estás seguro de que deseas terminar ahora? Verás un resumen de tu progreso hasta este punto.')
