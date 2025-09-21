@@ -947,7 +947,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // ========================================================================
     // INICIA BLOQUE PARA LA PÁGINA "MI RENDIMIENTO" (DASHBOARD.HTML)
     // ========================================================================
-    if (window.location.pathname.endsWith('dashboard.html')) {
+    if (window.location.pathname.endsWith('dashboard')) {
 
         // --- GUARDIÁN DE AUTENTICACIÓN SIMPLE ---
         auth.onAuthStateChanged(user => {
