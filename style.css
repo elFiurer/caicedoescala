@@ -1170,6 +1170,17 @@ body {
 
 /* --- Diseño Adaptable para Móviles --- */
 @media (max-width: 768px) {
+
+    /* ================================================= */
+/* REGLA REFORZADA PARA FILTROS EN MÓVIL           */
+/* ================================================= */
+#filters-container {
+    display: flex !important;
+    flex-direction: column !important;
+    padding: 0 !important;
+    background-color: transparent !important;
+    box-shadow: none !important;
+}
     /* ============================================ */
 /* 1. ESTILOS GENERALES Y NAVEGACIÓN          */
 /* ============================================ */
@@ -1190,10 +1201,44 @@ h2 { font-size: 28px; }
     gap: 15px; /* Espacio entre logo y links */
 }
 
-/* Ocultamos el menú de enlaces por defecto en móvil */
-.nav-links {
-    display: none; /* LO OCULTAREMOS POR AHORA. Más adelante se puede hacer un menú de hamburguesa. */
+/* --- Arreglos para Menú de Navegación Móvil --- */
+.hamburger-menu {
+    display: block !important; /* ¡Añadimos !important para forzar su aparición! */
 }
+
+.main-nav {
+    flex-direction: row; /* Volvemos a poner el logo y el botón en fila */
+    justify-content: space-between; /* Uno a cada lado */
+}
+
+.nav-links {
+    display: none; /* El menú sigue oculto por defecto */
+    flex-direction: column;
+    position: absolute;
+    top: 70px; /* Ajusta esto según la altura de tu cabecera */
+    left: 0;
+    background-color: #fff;
+    width: 100%;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    padding: 10px 0;
+}
+
+.nav-links.nav-links-mobile-active {
+    display: flex; /* Esta clase hará visible el menú */
+}
+
+.nav-links li {
+    margin: 0;
+    width: 100%;
+}
+
+.nav-links a {
+    padding: 15px 20px;
+    display: block;
+    width: 100%;
+    border-bottom: 1px solid #f0f0f0;
+}
+
 
 /* Hacemos que el perfil de usuario ocupe todo el ancho */
 .user-profile {
@@ -1343,7 +1388,34 @@ h2 { font-size: 28px; }
 }
 
 }
+/* ============================================ */
+/* ESTILOS PARA BOTÓN LOGOUT DENTRO DEL MENÚ  */
+/* ============================================ */
 
+/* Le damos espaciado al contenedor del botón */
+.nav-links .logout-link {
+    padding: 10px 20px;
+}
+
+/* Estilos para el botón en sí, para que se vea bien */
+.logout-link .btn-logout {
+    width: 100%;
+    padding: 10px 15px;
+    font-size: 15px;
+    font-weight: 600;
+    text-align: center;
+    background-color: #fce8e6; /* Un rojo muy suave y elegante */
+    color: #c5221f;            /* Un tono de rojo oscuro para el texto */
+    border: 1px solid #f28b82; /* Borde rojo sutil */
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.logout-link .btn-logout:hover {
+    background-color: #f7d5d2;
+    border-color: #c5221f;
+}
 /* --- Estilos para el Navegador de la Página de Resultados --- */
 
 /* Estilo para los botones de respuesta CORRECTA */
@@ -2234,4 +2306,24 @@ h2 { font-size: 28px; }
     /* Añadimos estas dos líneas para centrar el botón */
     display: flex;
     justify-content: center !important; /* El !important le da máxima prioridad */
+}
+/* ============================================ */
+/* ESTILOS PARA MENÚ HAMBURGUESA              */
+/* ============================================ */
+.hamburger-menu {
+    display: none; /* Oculto por defecto en pantallas grandes */
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 10px;
+    z-index: 1010; /* Para que esté por encima de otros elementos */
+}
+
+.hamburger-line {
+    display: block;
+    width: 25px;
+    height: 3px;
+    background-color: var(--text-color);
+    margin: 5px 0;
+    transition: all 0.3s ease-in-out;
 }

@@ -1,6 +1,17 @@
 // Contenido completo y corregido para script.js
 
 document.addEventListener('DOMContentLoaded', () => {
+    const setupMobileMenu = () => {
+        const hamburgerBtn = document.getElementById('hamburger-menu');
+        const navLinks = document.querySelector('.nav-links');
+
+        if (hamburgerBtn && navLinks) {
+            hamburgerBtn.addEventListener('click', () => {
+                navLinks.classList.toggle('nav-links-mobile-active');
+            });
+        }
+    };
+    setupMobileMenu(); //
     // --- 1. CONFIGURACIÓN E INICIALIZACIÓN GLOBAL ---
     const firebaseConfig = {
         apiKey: "AIzaSyD_SCyO4s-fZZS2qBTKEqAFiWP3IPD97Uo",
@@ -314,29 +325,42 @@ document.addEventListener('DOMContentLoaded', () => {
         const mainNav = document.querySelector('.main-nav');
         if (!mainNav) return; // Si no hay barra de navegación, no hacemos nada
 
-        // --- 1. LIMPIAR ESTADO ANTERIOR ---
-        // Buscamos y eliminamos cualquier botón de login o perfil de usuario existente para evitar duplicados.
+        // --- 1. LIMPIAR ESTADO ANTERIOR (AHORA MÁS COMPLETO) ---
         const oldLoginBtn = document.getElementById('login-btn');
         const oldUserProfile = mainNav.querySelector('.user-profile');
+        const oldLogoutLink = mainNav.querySelector('.logout-link'); // <-- Buscamos también el botón de logout viejo
         if (oldLoginBtn) oldLoginBtn.remove();
         if (oldUserProfile) oldUserProfile.remove();
+        if (oldLogoutLink) oldLogoutLink.remove(); // <-- Y lo eliminamos si existe
 
         // --- 2. LÓGICA DE BOTONES GLOBALES (en la barra de navegación) ---
         if (user) {
-            // Si el usuario SÍ ha iniciado sesión, CREAMOS el perfil de usuario
+            // PARTE A: Creamos el perfil (foto y nombre) y lo ponemos en la barra principal.
             const userProfile = document.createElement('div');
             userProfile.classList.add('user-profile');
             userProfile.innerHTML = `
-            <img src="${user.photoURL || 'default-avatar.png'}" alt="${user.displayName}" class="profile-pic">
-            <span class="profile-name">${user.displayName.split(' ')[0]}</span>
-            <button class="btn-logout" id="logout-btn">Cerrar Sesión</button>
-        `;
+        <img src="${user.photoURL || 'default-avatar.png'}" alt="${user.displayName}" class="profile-pic">
+        <span class="profile-name">${user.displayName.split(' ')[0]}</span>
+    `; // <-- ¡Hemos quitado el botón de aquí!
             mainNav.appendChild(userProfile);
 
-            const logoutBtn = document.getElementById('logout-btn');
-            if (logoutBtn) logoutBtn.addEventListener('click', logout);
+            // PARTE B: Creamos el botón "Cerrar Sesión" y lo metemos DENTRO del menú.
+            const navLinksMenu = mainNav.querySelector('.nav-links');
+            if (navLinksMenu) {
+                const logoutLi = document.createElement('li');
+                logoutLi.classList.add('logout-link'); // Clase para darle estilos
+                logoutLi.innerHTML = `<button class="btn-logout" id="logout-btn">Cerrar Sesión</button>`;
+                navLinksMenu.appendChild(logoutLi); // <-- Lo añadimos al final del <ul> del menú
+
+                // Finalmente, le damos vida al botón.
+                const logoutBtn = document.getElementById('logout-btn');
+                if (logoutBtn) {
+                    logoutBtn.addEventListener('click', logout);
+                }
+            }
 
         } else {
+            // ... (el código para cuando no hay usuario sigue igual)
             // Si el usuario NO ha iniciado sesión, CREAMOS el botón de "Iniciar Sesión"
             const loginBtn = document.createElement('button');
             loginBtn.id = 'login-btn';
