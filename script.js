@@ -73,6 +73,8 @@ document.addEventListener('DOMContentLoaded', () => {
         return texto.replace(regex, '');
     };
     // Esta función arma un examen completo, pidiendo el archivo genérico y el específico.
+    // ▼▼▼ REEMPLAZA TU FUNCIÓN getBancoDePreguntas CON ESTA VERSIÓN DE DIAGNÓSTICO Y CORRECCIÓN FINAL ▼▼▼
+
     const getBancoDePreguntas = async (examId) => {
         const examenes = await getTodosLosExamenes();
         const examData = examenes.find(e => e.id == examId);
@@ -82,37 +84,77 @@ document.addEventListener('DOMContentLoaded', () => {
             return null;
         }
 
+        // --- INICIA EL MODO DE DIAGNÓSTICO ---
+        console.log("--- INICIANDO DIAGNÓSTICO DE CARGA DE EXAMEN ---");
+        console.log("1. DATOS DEL EXAMEN SELECCIONADO:", examData);
+        console.log("2. ARCHIVOS A BUSCAR:", examData.archivos);
+        // --- FIN DEL MODO DE DIAGNÓSTICO ---
+
         try {
             const fetchPromises = [];
-            // Si el examen tiene un archivo genérico, lo añadimos a las promesas
             if (examData.archivos.generico) {
                 fetchPromises.push(fetch(examData.archivos.generico).then(res => res.json()));
             }
-            // Siempre añadimos el archivo específico
             if (examData.archivos.especifico) {
                 fetchPromises.push(fetch(examData.archivos.especifico).then(res => res.json()));
             }
 
-            // Esperamos a que todos los archivos necesarios se descarguen
             const allDataObjects = await Promise.all(fetchPromises);
 
-            // Combinamos todos los objetos JSON descargados en uno solo
-            const bancoCompleto = Object.assign({}, ...allDataObjects);
+            // --- MÁS DIAGNÓSTICO ---
+            console.log("3. DATOS CRUDOS DESCARGADOS (JSONs):", allDataObjects);
+            // --- FIN DE DIAGNÓSTICO ---
 
-            // Si el JSON no tiene una sección "completo" (como los de Nombramiento), la creamos.
-            // Si ya la tiene (como los de Ascenso), la respetamos.
-            if (!bancoCompleto.completo) {
-                bancoCompleto.completo = [
-                    ...(bancoCompleto['Comprensión Lectora'] || []),
-                    ...(bancoCompleto['Razonamiento Lógico'] || []),
-                    ...(bancoCompleto['Conocimientos Pedagógicos'] || [])
-                ];
+            const bancoFusionado = {};
+            for (const dataObject of allDataObjects) {
+                for (const key in dataObject) {
+                    if (Object.prototype.hasOwnProperty.call(dataObject, key)) {
+                        if (bancoFusionado[key] && Array.isArray(bancoFusionado[key])) {
+                            bancoFusionado[key] = bancoFusionado[key].concat(dataObject[key]);
+                        } else {
+                            bancoFusionado[key] = dataObject[key];
+                        }
+                    }
+                }
             }
 
-            return bancoCompleto;
+            // --- DIAGNÓSTICO FINAL ANTES DE CONSTRUIR ---
+            console.log("4. BANCO FUSIONADO (Resultado de la mezcla):", bancoFusionado);
+            console.log("5. CLAVES/SECCIONES ENCONTRADAS:", Object.keys(bancoFusionado));
+            // --- FIN DE DIAGNÓSTICO ---
+
+            // --- INICIA LA CORRECCIÓN MÁS ROBUSTA POSIBLE ---
+            // Esta nueva lógica busca las claves ignorando mayúsculas, minúsculas y tildes,
+            // solucionando posibles errores de tipeo en los archivos JSON.
+            const findKeyInsensitive = (obj, keyToFind) => {
+                const normalizedKeyToFind = normalizarTexto(keyToFind);
+                return Object.keys(obj).find(k => normalizarTexto(k) === normalizedKeyToFind);
+            };
+
+            if (!bancoFusionado.completo) {
+                const clKey = findKeyInsensitive(bancoFusionado, 'Comprensión Lectora');
+                const rlKey = findKeyInsensitive(bancoFusionado, 'Razonamiento Lógico');
+                const cpKey = findKeyInsensitive(bancoFusionado, 'Conocimientos Pedagógicos');
+
+                console.log("6. CLAVES NORMALIZADAS ENCONTRADAS:", { cl: clKey, rl: rlKey, cp: cpKey });
+
+                bancoFusionado.completo = [
+                    ...(clKey ? bancoFusionado[clKey] : []),
+                    ...(rlKey ? bancoFusionado[rlKey] : []),
+                    ...(cpKey ? bancoFusionado[cpKey] : [])
+                ];
+            }
+            // --- FIN DE LA CORRECCIÓN MÁS ROBUSTA ---
+
+            console.log("7. BANCO FINAL CONSTRUIDO:", bancoFusionado);
+            console.log("--- FIN DEL DIAGNÓSTICO ---");
+
+            return bancoFusionado;
 
         } catch (error) {
-            console.error("Error al construir el banco de preguntas:", error);
+            console.error("ERROR FATAL AL CONSTRUIR EL BANCO DE PREGUNTAS:", error);
+            // Mostrar un mensaje al usuario aquí podría ser útil
+            showToast('Error crítico al cargar las preguntas. Revisa la consola.');
             return null;
         }
     };
@@ -872,21 +914,29 @@ document.addEventListener('DOMContentLoaded', () => {
         })();
     }
     // 👇 REEMPLAZA EL BLOQUE COMPLETO DE LA PÁGINA DE RESULTADOS CON ESTE 👇
+    // ▼▼▼ REEMPLAZA EL BLOQUE COMPLETO DE LA PÁGINA DE RESULTADOS CON ESTE ▼▼▼
+    // ▼▼▼ REEMPLAZA EL BLOQUE COMPLETO DE LA PÁGINA DE RESULTADOS CON ESTA VERSIÓN FINAL Y ROBUSTA ▼▼▼
     if (document.getElementById('summary-card')) {
 
         const crearNavegadorResultados = (totalPreguntas, respuestasUsuario, bloques) => {
             const navigatorContainer = document.getElementById('results-navigator');
             if (!navigatorContainer) return;
             navigatorContainer.innerHTML = '';
-            const todasLasPreguntas = bloques.flatMap(b => b.preguntas);
+
+            // Hacemos el flatMap más seguro contra bloques que no tengan 'preguntas'
+            const todasLasPreguntas = bloques.flatMap(b => b.preguntas || []);
 
             for (let i = 0; i < totalPreguntas; i++) {
                 const navButton = document.createElement('button');
                 navButton.classList.add('nav-question-btn');
                 navButton.innerText = i + 1;
 
+                // Aseguramos que la pregunta exista antes de leer sus propiedades
+                const preguntaActual = todasLasPreguntas[i];
+                if (!preguntaActual) continue;
+
                 const respuestaUsuario = respuestasUsuario[i];
-                const respuestaCorrecta = todasLasPreguntas[i].respuesta;
+                const respuestaCorrecta = preguntaActual.respuesta;
 
                 if (!respuestaUsuario) {
                     navButton.classList.add('blank');
@@ -916,28 +966,29 @@ document.addEventListener('DOMContentLoaded', () => {
         const summaryCard = document.getElementById('summary-card');
         const resultsDetails = document.getElementById('results-details');
 
-        if (resultadosData) {
+        // CORRECCIÓN CLAVE: Verificamos que 'resultadosData' y 'resultadosData.bloques' existan correctamente
+        if (resultadosData && resultadosData.bloques && Array.isArray(resultadosData.bloques)) {
             summaryCard.innerHTML = `
-            <h4>${resultadosData.titulo}</h4>
-            <div class="summary-grid">
-                <div class="summary-item score"><span>Puntaje</span><p>${resultadosData.puntaje}%</p></div>
-                <div class="summary-item correct"><span>Correctas</span><p>${resultadosData.correctas}</p></div>
-                <div class="summary-item incorrect"><span>Incorrectas</span><p>${resultadosData.incorrectas}</p></div>
-                <div class="summary-item blank"><span>En Blanco</span><p>${resultadosData.enBlanco}</p></div>
-            </div>
-            <div class="results-actions">
-                <button id="practice-again-btn" class="btn-cta">Volver a Practicar</button>
-            </div>
-        `;
+        <h4>${resultadosData.titulo}</h4>
+        <div class="summary-grid">
+            <div class="summary-item score"><span>Puntaje</span><p>${resultadosData.puntaje}%</p></div>
+            <div class="summary-item correct"><span>Correctas</span><p>${resultadosData.correctas}</p></div>
+            <div class="summary-item incorrect"><span>Incorrectas</span><p>${resultadosData.incorrectas}</p></div>
+            <div class="summary-item blank"><span>En Blanco</span><p>${resultadosData.enBlanco}</p></div>
+        </div>
+        <div class="results-actions">
+            <button id="practice-again-btn" class="btn-cta">Volver a Practicar</button>
+        </div>
+    `;
 
             crearNavegadorResultados(resultadosData.totalPreguntas, resultadosData.respuestasUsuario, resultadosData.bloques);
 
             resultsDetails.innerHTML = '';
             let questionCounter = 0;
 
-            // Usamos el index para el título del CASO
-            // ▼▼▼ REEMPLAZA TU BUCLE forEach CON ESTE BLOQUE COMPLETO ▼▼▼
             resultadosData.bloques.forEach((bloque, index) => {
+                if (!bloque) return; // Si un bloque es nulo, lo saltamos
+
                 const groupTitle = document.createElement('h2');
                 groupTitle.className = 'group-title';
                 groupTitle.innerText = `CASO ${index + 1}`;
@@ -946,7 +997,6 @@ document.addEventListener('DOMContentLoaded', () => {
                 if (bloque.contexto) {
                     const contextoDiv = document.createElement('div');
                     contextoDiv.classList.add('contexto-examen', 'contexto-resultado');
-                    // APLICAMOS LA VACUNA DE SEGURIDAD AQUÍ
                     contextoDiv.innerHTML = `<p>${sanitizarHTML(bloque.contexto).replace(/\n/g, '<br>')}</p>`;
                     resultsDetails.appendChild(contextoDiv);
                 }
@@ -959,9 +1009,11 @@ document.addEventListener('DOMContentLoaded', () => {
                     resultsDetails.appendChild(imagenEl);
                 }
 
-                // ESTA LÓGICA COMPLETA AHORA RENDERIZARÁ LAS PREGUNTAS
+                // La protección más importante: solo continuamos si 'bloque.preguntas' es un array
                 if (bloque.preguntas && Array.isArray(bloque.preguntas)) {
                     bloque.preguntas.forEach(pregunta => {
+                        if (!pregunta) return; // Si una pregunta es nula, la saltamos
+
                         const preguntaIndex = questionCounter;
                         const respuestaUsuario = resultadosData.respuestasUsuario[preguntaIndex];
                         const esCorrecta = respuestaUsuario === pregunta.respuesta;
@@ -977,14 +1029,10 @@ document.addEventListener('DOMContentLoaded', () => {
                         resultItem.id = `result-item-${preguntaIndex}`;
 
                         let optionsHTML = '';
-                        pregunta.opciones.forEach(opcion => {
+                        (pregunta.opciones || []).forEach(opcion => {
                             let optionClass = 'option';
-                            if (opcion === pregunta.respuesta) {
-                                optionClass += ' correct-answer';
-                            }
-                            if (opcion === respuestaUsuario && !esCorrecta) {
-                                optionClass += ' incorrect-answer';
-                            }
+                            if (opcion === pregunta.respuesta) optionClass += ' correct-answer';
+                            if (opcion === respuestaUsuario && !esCorrecta) optionClass += ' incorrect-answer';
                             optionsHTML += `<div class="${optionClass}">${opcion}</div>`;
                         });
 
@@ -997,26 +1045,43 @@ document.addEventListener('DOMContentLoaded', () => {
                             contenidoPreguntaHTML += `<div class="imagen-pregunta-especifica"><img src="${imagenDePregunta}" alt="Imagen de la pregunta" class="imagen-examen"></div>`;
                         }
 
+                        const examId = resultadosData.examenOriginal.id;
+                        const seccion = resultadosData.examenOriginal.seccion;
+
                         resultItem.innerHTML = `
-                <div class="result-question-header">
-                    <strong>Pregunta ${preguntaIndex + 1}</strong>
-                    <span>Tu respuesta: ${respuestaUsuario || 'No contestada'}</span>
-                </div>
-                <div class="result-question-content">
-                    ${contenidoPreguntaHTML}
-                    <p>${sanitizarHTML(pregunta.pregunta)}</p> </div>
-                <div class="options-container">${optionsHTML}</div>
-                <div class="solucionario">
-                    <p><strong>Solucionario:</strong> ${sanitizarHTML(pregunta.solucionario)}</p> </div>
-            `;
+                        <div class="result-question-header">
+                            <strong>Pregunta ${preguntaIndex + 1}</strong>
+                            <span>Tu respuesta: ${respuestaUsuario || 'No contestada'}</span>
+                        </div>
+                        <div class="result-question-content">
+                            ${contenidoPreguntaHTML}
+                            <p>${sanitizarHTML(pregunta.pregunta)}</p>
+                        </div>
+                        <div class="options-container">${optionsHTML}</div>
+                        <div class="solucionario">
+                            <p><strong>Solucionario:</strong> ${sanitizarHTML(pregunta.solucionario)}</p>
+                        </div>
+                        <div class="result-item-actions">
+                            <button class="btn-repaso" data-exam-id="${examId}" data-seccion="${seccion}" data-index="${preguntaIndex}" title="Guardar esta pregunta en Mi Repaso">💾 Guardar para repasar</button>
+                        </div>
+                    `;
                         resultsDetails.appendChild(resultItem);
                         questionCounter++;
                     });
                 }
             });
-            // ▲▲▲ FIN DEL BLOQUE REEMPLAZADO ▲▲▲
 
-            // CORRECCIÓN: Se añade la funcionalidad al botón
+            // La lógica para activar el botón, que ahora sí se ejecutará
+            resultsDetails.addEventListener('click', (e) => {
+                const saveButton = e.target.closest('.btn-repaso');
+                if (saveButton) {
+                    const { examId, seccion, index } = saveButton.dataset;
+                    guardarParaRepaso(examId, seccion, parseInt(index));
+                    saveButton.innerText = '✔️ Guardado';
+                    saveButton.disabled = true;
+                }
+            });
+
             const practiceAgainBtn = document.getElementById('practice-again-btn');
             if (practiceAgainBtn) {
                 practiceAgainBtn.addEventListener('click', () => {
@@ -1025,7 +1090,8 @@ document.addEventListener('DOMContentLoaded', () => {
             }
 
         } else {
-            summaryCard.innerHTML = "<p>No se encontraron resultados.</p>";
+            summaryCard.innerHTML = "<p>No se encontraron resultados o los datos están corruptos.</p>";
+            console.error("Error: 'resultadosExamen' no se encontró en localStorage o no contiene una propiedad 'bloques' válida.", resultadosData);
         }
     }
 
