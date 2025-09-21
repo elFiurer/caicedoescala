@@ -40,6 +40,8 @@ document.addEventListener('DOMContentLoaded', () => {
                 todosLosExamenesCache = await response.json();
             } catch (error) {
                 console.error("Error fatal al cargar el manifiesto de exámenes:", error);
+                // CAMBIO AQUÍ: Mostramos un mensaje amigable al usuario.
+                showToast('Error al cargar los exámenes. Intenta refrescar la página.');
                 return []; // Devuelve un array vacío en caso de error.
             }
         }
@@ -278,15 +280,20 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function mostrarGuiaHighlighterSiEsNecesario() {
         const overlay = document.getElementById('highlighter-guide-overlay');
-        if (!overlay) return;
 
-        // Directamente mostramos la guía
+        // 1. Comprobamos si la guía ya ha sido vista antes o si no existe el overlay.
+        if (!overlay || localStorage.getItem('guiaHighlighterVista') === 'true') {
+            return; // Si ya se vio o no existe el elemento, no hacemos nada.
+        }
+
+        // 2. Si no se ha visto, la mostramos.
         overlay.style.display = 'flex';
 
         const closeBtn = document.getElementById('close-guide-btn');
         closeBtn.addEventListener('click', () => {
             overlay.style.display = 'none';
-            // Ya no guardamos nada en localStorage, por eso se mostrará siempre.
+            // 3. Guardamos en la memoria que el usuario ya vio la guía para no mostrarla de nuevo.
+            localStorage.setItem('guiaHighlighterVista', 'true');
         });
     }
     // ========================================================================
@@ -342,14 +349,21 @@ document.addEventListener('DOMContentLoaded', () => {
         }
 
         // --- 3. LÓGICA DE BOTONES ESPECÍFICOS (en el cuerpo de la página de inicio) ---
+        // --- 3. LÓGICA DE BOTONES ESPECÍFICOS (en el cuerpo de la página de inicio) ---
         const ctaBtn = document.getElementById('cta-btn');
         if (ctaBtn) { // Solo si estamos en una página que tiene este botón
             if (user) {
                 ctaBtn.innerText = "Ir a mis exámenes";
-                ctaBtn.onclick = () => { window.location.href = 'examenes.html'; };
+                // CAMBIO AQUÍ: Usamos addEventListener en lugar de onclick
+                ctaBtn.addEventListener('click', () => {
+                    window.location.href = 'examenes.html';
+                });
             } else {
                 ctaBtn.innerText = "Empieza a Practicar Gratis";
-                ctaBtn.onclick = () => openModal();
+                // CAMBIO AQUÍ: Usamos addEventListener en lugar de onclick
+                ctaBtn.addEventListener('click', () => {
+                    openModal();
+                });
             }
         }
 
