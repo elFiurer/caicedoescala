@@ -110,5 +110,30 @@
     "archivos": {
       "especifico": "data/ascenso/secundaria/2018/ascenso_comunicación2018.json"
     }
+  },
+  {
+    "id": 22,
+    "proceso": "Ascenso",
+    "anio": 2019,
+    "nivel": "Primaria",
+    "especialidad": "Primaria",
+    "modalidad": "EBR",
+    "preguntas": 60,
+    "tiempo": 180,
+    "archivos": {
+      "especifico": "data/ascenso/primaria/2019/ascenso_primaria_2019.json"
+    }
+  },{
+    "id": 23,
+    "proceso": "Ascenso",
+    "anio": 2019,
+    "nivel": "Secundaria",
+    "especialidad": "Ciencia y Tecnología",
+    "modalidad": "EBR",
+    "preguntas": 60,
+    "tiempo": 180,
+    "archivos": {
+      "especifico": "data/ascenso/secundaria/2019/asceso_cyt_2019.json"
+    }
   }
 ]

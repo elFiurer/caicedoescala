@@ -1,0 +1,964 @@
+{
+  "completo": [
+    {
+      "idGrupo": "asc_secundaria_2019_p01",
+      "contexto": "Como parte de una unidad didáctica que tiene por propósito que los estudiantes expliquen los factores que intervienen en la dinámica de un ecosistema, una docente presenta la siguiente infografía a los estudiantes.",
+      "imagen": "img/ascenso/secundaria/2019/1.jpg",
+      "preguntas": [
+        {
+          "pregunta": "La docente busca favorecer que los estudiantes manifiesten una posición crítica sobre la intervención del ser humano en la dinámica poblacional de la mosca de la fruta.\n¿Cuál de los siguientes grupos de preguntas es más pertinente para este propósito?",
+          "opciones": [
+            "¿Creen que las técnicas tradicionales como el recojo y entierro de frutos infestados son menos perjudiciales para el ecosistema? ¿Por qué?",
+            "¿Cuáles son las técnicas que se han desarrollado para controlar la plaga de la mosca de la fruta? ¿Cuáles son las ventajas de implementar estas técnicas?",
+            "¿Por qué la mosca de la fruta se convirtió en una plaga para los cultivos a nivel mundial? ¿Cuál puede ser el impacto de las diferentes técnicas de control de la plaga en los ecosistemas?"
+          ],
+          "respuesta": "¿Por qué la mosca de la fruta se convirtió en una plaga para los cultivos a nivel mundial? ¿Cuál puede ser el impacto de las diferentes técnicas de control de la plaga en los ecosistemas?",
+          "respuestaCorta": "Este grupo de preguntas fomenta el análisis de causas y consecuencias a gran escala, promoviendo una reflexión crítica sobre el impacto de las acciones humanas en los ecosistemas.",
+          "solucionario": "La opción C es la más pertinente porque no solo se enfoca en describir las técnicas, sino que impulsa a los estudiantes a analizar el origen del problema (¿por qué es una plaga mundial?) y a evaluar las consecuencias de las soluciones humanas (impacto en los ecosistemas). Esto requiere un juicio crítico que va más allá de la simple descripción o comparación de técnicas.",
+          "seccion": "Casuística"
+        },
+        {
+          "contexto": " Luego de revisar la infografía presentada por la docente, varios estudiantes comentan que los cultivos de sus familias se han visto afectados por la plaga de la mosca de la fruta y les gustaría saber qué características de las frutas atraen a este tipo de moscas. La docente les propuso que realicen una indagación para responder a su inquietud.  Un equipo de estudiantes planteó la siguiente propuesta:",
+            "pregunta": "¿Qué modificación deben hacer los estudiantes en el diseño de su dispositivo para comprobar su hipótesis?",
+          "imagen":"img/ascenso/secundaria/2019/2.jpg",
+          "opciones": [
+            "Pintar la botella de plástico.",
+            "Emplear un solo tipo de fruta.",
+            "Colocar un agujero adicional en la botella de plástico."
+          ],
+          "respuesta": "Pintar la botella de plástico.",
+          "respuestaCorta": "Para probar si la atracción es por el olor y no por el color, se debe anular la variable del color pintando la botella.",
+          "solucionario": "La hipótesis del equipo busca aislar el olor como la variable de atracción, descartando el color. Para comprobar esto, es necesario controlar la variable 'color'. Al pintar la botella de plástico (por ejemplo, de un color opaco como el negro), se elimina la posibilidad de que la mosca sea atraída por el color de las frutas en el interior, permitiendo que solo el olor actúe como atrayente. De esta manera, se puede validar o refutar la hipótesis de forma más precisa.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Qué estructura permite respirar a la mosca de la fruta durante su etapa adulta?",
+          "opciones": [
+            "Tubos traqueales.",
+            "Pulmones.",
+            "Piel."
+          ],
+          "respuesta": "Tubos traqueales.",
+          "respuestaCorta": "Los insectos, como la mosca de la fruta, utilizan un sistema de tubos traqueales para la respiración.",
+          "solucionario": "Los insectos, incluyendo a la mosca de la fruta en su etapa adulta, no tienen pulmones como los vertebrados ni respiran a través de la piel como algunos anfibios. Su sistema respiratorio se basa en una red de pequeños tubos llamados tráqueas, que se ramifican por todo el cuerpo, llevando el oxígeno directamente a las células. El aire ingresa a este sistema a través de aberturas en el exoesqueleto llamadas espiráculos.",
+          "seccion": "Conocimientos Pedagógicos"
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes factores NO influye en que la mosca de la fruta sea una plaga?",
+          "opciones": [
+            "La duración de su ciclo de vida.",
+            "La gran variedad de especies que parasita.",
+            "La versatilidad de climas en los que habita."
+          ],
+          "respuesta": "La gran variedad de especies que parasita.",
+          "respuestaCorta": "Que la mosca parasite a otras especies no la convierte en plaga para los cultivos; al contrario, sus propias características de reproducción y adaptación la hacen una plaga.",
+          "solucionario": "Una plaga se caracteriza por su rápida reproducción y capacidad de adaptación. La duración corta de su ciclo de vida (opción A) permite que las poblaciones crezcan exponencialmente en poco tiempo. Su versatilidad para habitar diferentes climas (opción C) le permite extenderse geográficamente. Sin embargo, el hecho de que la mosca sea parasitada por otras especies (opción B) es un factor de control biológico que limita su población, por lo tanto, NO es un factor que influya en que sea una plaga.",
+          "seccion": "Conocimientos Pedagógicos"
+        },
+        {
+          "pregunta": "Para aplicar la técnica de recojo y entierro de frutos infestados, el terreno debe tener una serie de características. Teniendo en cuenta la información presentada en la infografía, ¿qué característica es imprescindible?",
+          "opciones": [
+            "Que el terreno sea fértil.",
+            "Que el terreno esté expuesto directamente a la luz solar.",
+            "Que el terreno tenga una profundidad suficiente para enterrar por completo los frutos infestados."
+          ],
+          "respuesta": "Que el terreno tenga una profundidad suficiente para enterrar por completo los frutos infestados.",
+          "respuestaCorta": "Para evitar que las larvas se conviertan en pupas y emerjan como moscas adultas, los frutos deben ser enterrados a una profundidad suficiente.",
+          "solucionario": "La infografía indica que las larvas salen del fruto, caen al suelo y se entierran cerca de la superficie para transformarse en pupas. El objetivo de la técnica de entierro es interrumpir este ciclo de vida. Para que sea efectiva, es imprescindible enterrar los frutos a una profundidad que impida que las larvas o las pupas puedan sobrevivir o que las moscas adultas puedan emerger a la superficie. La fertilidad del terreno o la exposición solar no son directamente relevantes para este propósito.",
+          "seccion": "Conocimientos Pedagógicos"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p02",
+      "contexto": "Como parte de una unidad didáctica que tiene como propósito que los estudiantes describan las propiedades macroscópicas y microscópicas de los principales estados de agregación de la materia, un docente ha desarrollado diversas actividades. Una de las actividades consistió en que los estudiantes exploren el aula e identifiquen dos objetos que se encuentren en estado sólido, dos en estado líquido y uno en estado gaseoso. Luego, el docente les pidió que completen la siguiente tabla:",
+      "imagen": "img/ascenso/secundaria/2019/3.jpg",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es el objetivo principal de esta actividad?",
+          "opciones": [
+            "Generar conflicto cognitivo en los estudiantes.",
+            "Activar y recoger los saberes previos de los estudiantes.",
+            "Promover que los estudiantes formulen preguntas de indagación."
+          ],
+          "respuesta": "Activar y recoger los saberes previos de los estudiantes.",
+          "respuestaCorta": "La actividad busca que los estudiantes usen su conocimiento previo para clasificar objetos, permitiendo al docente conocer su punto de partida.",
+          "solucionario": "Esta actividad es una estrategia de evaluación diagnóstica. Al pedir a los estudiantes que identifiquen objetos y justifiquen su clasificación según los estados de la materia, el docente está activando los conocimientos que ellos ya poseen sobre el tema. Las respuestas en la tabla le sirven al docente para recoger esta información y así identificar las concepciones, aciertos y posibles errores de los estudiantes antes de iniciar la enseñanza formal de los contenidos.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Luego de realizar algunas actividades, el docente identificó un error recurrente en las respuestas de los estudiantes. Para generar un conflicto cognitivo en los estudiantes sobre dicho error, realiza con ellos la siguiente actividad:<br>\n1. Primero, les mostró un recipiente transparente, no muy hondo, en el que se colocó cierta cantidad de agua, y una botella de plástico transparente tapada a la que se le había cortado y retirado la base.<br>\n2. Luego, les preguntó: \"¿Qué creen que sucederá con el agua del recipiente si sumergimos la botella dentro del recipiente, por el lado en el que estaba la base, hasta tocar el fondo del recipiente?\". Después de recoger las respuestas de los estudiantes, el docente sumergió la botella en el agua del recipiente y los estudiantes observaron que el aire contenido en la botella desplazaba el agua contenida en dicho recipiente.<br>\n3. Finalmente, les pidió que contrasten sus respuestas iniciales con lo que acababan de observar y que, de ser necesario, formulen nuevas explicaciones.\n¿Qué error busca atender el docente al realizar esta actividad?",
+          "opciones": [
+            "La creencia de que los gases no son solubles en líquidos.",
+            "La creencia de que los gases no ocupan un lugar en el espacio.",
+            "La creencia de que las partículas de los gases no están en continuo movimiento."
+          ],
+          "respuesta": "La creencia de que los gases no ocupan un lugar en el espacio.",
+          "respuestaCorta": "El experimento demuestra que el aire atrapado en la botella impide que el agua entre, evidenciando que el gas (aire) ocupa un volumen.",
+          "solucionario": "El error común que esta actividad busca corregir es la concepción de que los gases, como el aire, no son materia y, por lo tanto, no ocupan espacio. Al sumergir la botella tapada, el aire en su interior queda atrapado. Los estudiantes observan que el agua no puede llenar el espacio de la botella porque ya está ocupado por el aire. Esto crea un conflicto cognitivo que los lleva a cuestionar su idea inicial y a concluir que los gases, a pesar de ser invisibles, sí ocupan un lugar en el espacio.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "El docente identificó que un equipo de estudiantes ya ha logrado describir las propiedades macroscópicas y microscópicas de los principales estados de agregación de la materia, por lo que les propuso la siguiente actividad:<br>\nRepresenten lo que creen que sucederá con el agua del recipiente si ahora colocamos un barquito de papel sobre el agua del recipiente y luego, atrapamos el barquito al interior de una botella que no tiene base ni tapa.\n¿Cuál es el propósito principal de esta actividad?",
+          "opciones": [
+            "Favorecer que los estudiantes identifiquen en qué consiste el principio de Arquímedes.",
+            "Favorecer que los estudiantes expliquen por qué el barquito de papel flota en el agua del recipiente.",
+            "Favorecer que los estudiantes identifiquen cómo actúa la presión atmosférica en un sistema abierto."
+          ],
+          "respuesta": "Favorecer que los estudiantes identifiquen cómo actúa la presión atmosférica en un sistema abierto.",
+          "respuestaCorta": "El experimento busca que los estudiantes expliquen el fenómeno del nivel del agua, que se relaciona con la presión del aire atrapado y la presión atmosférica externa.",
+          "solucionario": "Esta actividad va un paso más allá de los estados de la materia y se adentra en las propiedades de los gases, específicamente la presión. Al colocar la botella sin base ni tapa sobre el barquito, se atrapa aire. La presión de este aire atrapado empujará el agua hacia abajo dentro de la botella, mientras que la presión atmosférica externa empuja el agua fuera de la botella. La diferencia de niveles de agua se debe a este juego de presiones. El propósito es que los estudiantes se enfrenten a este nuevo concepto y traten de explicarlo, identificando el rol de la presión atmosférica.",
+          "seccion": "Casuística"
+        },
+        {
+          "contexto": "Tres estudiantes representaron con un dibujo lo que creen que sucede cuando se coloca un barquito sobre el agua contenida en un recipiente, y, luego, se atrapa el barquito al interior de una botella sin base y sin tapa",
+          "imagen":"img/ascenso/secundaria/2019/4.jpg", 
+          "pregunta": "¿Cuál de las siguientes representaciones muestra correctamente lo que sucederá en la situación presentada?",
+          "opciones": [
+            "a",
+            "b",
+            "c"
+          ],
+          "respuesta": "b",
+          "respuestaCorta": "El aire atrapado en la botella ejerce presión sobre el agua, haciendo que su nivel descienda en el interior de la botella.",
+          "solucionario": "La representación correcta es la 'b'. Cuando se introduce la botella abierta en el agua, atrapa una columna de aire. Este aire ejerce una presión sobre la superficie del agua que está dentro de la botella. Esta presión es mayor que la simple presión atmosférica, lo que provoca que el nivel del agua dentro de la botella sea más bajo que el nivel del agua exterior, que solo está sometido a la presión atmosférica. Por lo tanto, el barquito también descenderá junto con el nivel del agua interior.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p03",
+      "contexto": "Observe el siguiente sistema que consiste en dos balones unidos mediante una válvula que se encuentra cerrada:",
+      "imagen": "img/ascenso/secundaria/2019/5.jpg",
+      "preguntas": [
+        {
+          
+            "pregunta": "Luego de abrir la válvula del sistema, ¿qué sucede con los gases?",
+          "opciones": [
+            "Solo se desplaza el helio.",
+            "Ambos gases se desplazan.",
+            "Ninguno de los gases se desplaza."
+          ],
+          "respuesta": "Ambos gases se desplazan.",
+          "respuestaCorta": "Debido a la propiedad de difusión, las partículas de ambos gases se moverán aleatoriamente hasta ocupar todo el volumen disponible.",
+          "solucionario": "Esta es una demostración de la propiedad de difusión de los gases. Las partículas de un gas están en constante y aleatorio movimiento. Al abrir la válvula, las partículas de NO2 del balón izquierdo se moverán hacia el balón derecho, y las partículas de He del balón derecho se moverán hacia el izquierdo. Este movimiento continuará hasta que las partículas de ambos gases se distribuyan de manera uniforme por todo el volumen de los dos balones, alcanzando un estado de equilibrio.",
+          "seccion": "Conocimientos Pedagógicos"
+        }
+      ]
+    },
+    
+    
+    {
+      "idGrupo": "asc_secundaria_2019_p04",
+      "contexto": "Un docente ha planificado una unidad didáctica que tiene como propósito de aprendizaje explicar las relaciones complejas que se establecen en un ecosistema. Como parte de esta planificación, ha elaborado una rúbrica para evaluar las respuestas de los estudiantes a la siguiente pregunta: ¿cómo se relacionan los componentes de un ecosistema?",
+      "imagen": "img/ascenso/secundaria/2019/6.jpg",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes descripciones es pertinente para el nivel de logro Destacado?",
+          "opciones": [
+            "Explica los factores que afectan la dinámica de un ecosistema.",
+            "Elabora ejemplos de cadenas y redes tróficas que se establecen en un ecosistema.",
+            "Explica las relaciones lineales y complejas que se establecen entre los componentes de un ecosistema."
+          ],
+          "respuesta": "Explica los factores que afectan la dinámica de un ecosistema.",
+          "respuestaCorta": "El nivel Destacado implica ir más allá de la descripción, analizando factores que alteran el equilibrio del ecosistema, lo que demuestra una comprensión superior.",
+          "solucionario": "La rúbrica muestra una progresión: identificar componentes (Inicio), describir relaciones lineales como cadenas tróficas (Proceso), y explicar relaciones complejas como redes tróficas (Satisfactorio). El siguiente nivel de complejidad, el Destacado, implica no solo describir el ecosistema en equilibrio, sino también analizar cómo los factores (bióticos o abióticos, naturales o humanos) pueden afectar y alterar esa dinámica. Esto demuestra una comprensión más profunda y sistémica del ecosistema.",
+          "seccion": "Casuística"
+        },
+        {
+          "contexto": "A continuación, se muestra la respuesta de Milagros, una de las estudiantes:",
+          "imagen":"img/ascenso/secundaria/2019/7.jpg", 
+          "pregunta": "De acuerdo con la rúbrica de evaluación propuesta por el docente, ¿en qué nivel de logro de aprendizaje se encuentra esta estudiante?",
+          "opciones": [
+            "En inicio.",
+            "En proceso.",
+            "Satisfactorio."
+          ],
+          "respuesta": "En proceso.",
+          "respuestaCorta": "Milagros describe una relación lineal (cadena tróficas: pasto -> conejo -> zorro), que corresponde al nivel 'En proceso' según la rúbrica.",
+          "solucionario": "La respuesta de Milagros identifica correctamente componentes bióticos y abióticos, superando el nivel 'En inicio'. Además, describe una interacción específica y secuencial: 'el zorro se come al conejo que se está alimentando de pasto'. Esto constituye una cadena trófica, que es una representación de una relación lineal entre organismos. Según la rúbrica, describir relaciones lineales corresponde al nivel de logro 'En proceso'. No llega a 'Satisfactorio' porque no explica relaciones complejas (redes tróficas, simbiosis, etc.).",
+          "seccion": "Casuística"
+        },
+        {
+          "contexto": "Vanessa, otra de las estudiantes, respondió lo siguiente:",
+          "imagen":"img/ascenso/secundaria/2019/8.jpg", 
+          "pregunta": "De acuerdo con la rúbrica de evaluación propuesta por el docente, ¿en qué nivel de logro de aprendizaje se encuentra esta estudiante?",
+          "opciones": [
+            "En inicio.",
+            "En proceso.",
+            "Satisfactorio."
+          ],
+          "respuesta": "En inicio.",
+          "respuestaCorta": "La estudiante solo enumera los componentes del ecosistema sin describir ninguna interacción entre ellos, lo que corresponde al nivel 'En inicio'.",
+          "solucionario": "Según la rúbrica proporcionada, el nivel 'En inicio' se define como 'Identifica los componentes de un ecosistema, sin expresar la interacción que se establece entre ellos'. La respuesta de Vanessa se limita a listar los componentes ('plantas, animales y tierra') sin mencionar ninguna relación o interacción entre ellos, ajustándose precisamente a la descripción del nivel de logro más básico.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p05",
+      "contexto": "Una docente sabe que existen diferentes problemas ambientales en la comunidad que afectan directamente a los estudiantes. Por ello, decide proponer un proyecto de aprendizaje para que los estudiantes, organizados en equipos, desarrollen competencias relacionadas con el cuidado del ambiente.<br>\nEn este contexto, un equipo de estudiantes comenta que en uno de los ríos cercanos a la IE y a sus casas se acumula una gran cantidad de basura, cuya descomposición ocasiona olores muy desagradables, así como la proliferación de moscas.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes acciones pedagógicas es más pertinente que plantee la docente a este equipo para dar inicio al proyecto de aprendizaje?",
+          "opciones": [
+            "Proponer a los estudiantes diseñar y realizar entrevistas a los vecinos de la comunidad para saber cuáles creen que son las causas y consecuencias de la contaminación del río.",
+            "Organizar con los estudiantes una campaña de recolección de residuos sólidos que se desechan en el río para seleccionar aquellos residuos que se pueden reciclar.",
+            "Elaborar junto con los estudiantes carteles informativos sobre los impactos en la salud de la contaminación del agua y colocarlos en las laderas del río."
+          ],
+          "respuesta": "Proponer a los estudiantes diseñar y realizar entrevistas a los vecinos de la comunidad para saber cuáles creen que son las causas y consecuencias de la contaminación del río.",
+          "respuestaCorta": "Iniciar con entrevistas permite a los estudiantes investigar y comprender a fondo las causas y el impacto del problema antes de proponer soluciones.",
+          "solucionario": "Un proyecto de aprendizaje debe comenzar con una fase de investigación y diagnóstico del problema. Proponer entrevistas a los vecinos (opción A) es la acción más pertinente porque permite a los estudiantes recoger información de primera mano sobre las causas, consecuencias y percepciones de la comunidad. Esto les da una comprensión más profunda y contextualizada del problema, que es fundamental antes de saltar a la acción (opciones B y C), las cuales son soluciones que se aplicarían sin un análisis previo.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p06",
+      "contexto": "Un docente planifica trabajar con sus estudiantes una unidad didáctica para que comprendan las causas y consecuencias del calentamiento global.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Durante el recojo de saberes previos, Fátima, una de las estudiantes, realiza el siguiente comentario:<br>\n\"Hace un tiempo escuché en varios programas de noticias que en países de América del Norte se habían registrado récords de frío en lugar de aumentos de temperatura. Entonces no es cierto que el planeta se está calentando\".<br>\nEl docente identifica que muchos estudiantes están de acuerdo con el comentario de Fátima y quiere aprovechar este comentario para trabajar el propósito de la unidad.\n¿Cuál de las siguientes acciones pedagógicas es más pertinente plantear a los estudiantes?",
+          "opciones": [
+            "Pedirles que busquen información sobre los gases de efecto invernadero que provocan el incremento de la temperatura del planeta y qué acciones pueden adoptar para reducir su emisión.",
+            "Plantearles preguntas orientadas a que evalúen si la información de los programas de noticias es confiable o no, y presentarles criterios para evaluar la confiabilidad de dicha información.",
+            "Analizar con ellos la variación de la temperatura promedio de los países cercanos al Ártico en los últimos cincuenta años, y cómo las bajas temperaturas registradas recientemente en esas zonas pueden relacionarse con el calentamiento global."
+          ],
+          "respuesta": "Analizar con ellos la variación de la temperatura promedio de los países cercanos al Ártico en los últimos cincuenta años, y cómo las bajas temperaturas registradas recientemente en esas zonas pueden relacionarse con el calentamiento global.",
+          "respuestaCorta": "Esta opción aborda directamente la idea errónea de la estudiante, utilizando datos para explicar cómo eventos de frío extremo pueden ser consecuencia del calentamiento global.",
+          "solucionario": "La acción más pertinente es la que aborda directamente la concepción errónea de los estudiantes para generar un conflicto cognitivo. El comentario de Fátima confunde un evento meteorológico específico (récord de frío) con la tendencia climática a largo plazo (calentamiento global). La opción C es la más adecuada porque utiliza datos científicos (variación de la temperatura promedio) para explicar la aparente contradicción, mostrando cómo el calentamiento del Ártico puede alterar corrientes de aire (como el vórtice polar) y provocar olas de frío en otras regiones. Esto atiende directamente la duda y la corrige con evidencia.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Durante una de las sesiones de aprendizaje, se suscitó el siguiente diálogo entre dos estudiantes:<br>\nMateo: La destrucción de nuestra selva es una de las causas del calentamiento global y del cambio climático. Es necesario tomar medidas drásticas como prohibir la tala de árboles.<br>\nIrene: Sí, estoy de acuerdo con que está mal la tala de árboles, pero no se puede prohibir porque en nuestro país hay familias que talan parte del bosque para cultivar alimentos que les permiten sobrevivir.\n¿Cuál de las siguientes acciones pedagógicas es pertinente que plantee el docente para brindar retroalimentación a estos estudiantes?",
+          "opciones": [
+            "Plantearles preguntas orientadas a que expliquen por qué no se deben talar los árboles de los bosques amazónicos; y pedirles que propongan medidas para evitar la tala.",
+            "Proponerles evaluar las consecuencias de la tala de árboles en los ecosistemas amazónicos y su impacto en la disponibilidad de recursos para la comunidad; y pedirles que planteen alternativas económicas sostenibles.",
+            "Presentarles información sobre las especies de flora y fauna que se encuentran en peligro de extinción como consecuencia de la tala de árboles en los bosques amazónicos; y pedirles que planteen alternativas para preservar dichas especies."
+          ],
+          "respuesta": "Proponerles evaluar las consecuencias de la tala de árboles en los ecosistemas amazónicos y su impacto en la disponibilidad de recursos para la comunidad; y pedirles que planteen alternativas económicas sostenibles.",
+          "respuestaCorta": "Esta opción promueve un análisis integral del problema, considerando tanto el impacto ambiental como el socioeconómico, y busca soluciones sostenibles que aborden ambas dimensiones.",
+          "solucionario": "La retroalimentación más pertinente es aquella que reconoce la complejidad del problema planteado por ambos estudiantes, que contrapone una necesidad ambiental (Mateo) con una necesidad socioeconómica (Irene). La opción B es la más completa porque invita a los estudiantes a evaluar las consecuencias en ambos ámbitos (ecosistemas y comunidad) y los desafía a ir más allá de la simple prohibición, pidiéndoles que propongan 'alternativas económicas sostenibles'. Esto fomenta un pensamiento crítico y la búsqueda de soluciones complejas y realistas.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p07",
+      "contexto": "De acuerdo con algunas investigaciones, una posible forma de reducir la gran cantidad de CO2 liberado a la atmósfera por la actividad humana consistiría en capturar parte del CO2 emitido y almacenarlo en el océano.\nA continuación, se muestran los resultados de un modelo diseñado por un grupo de investigadores quienes evalúan este método mediante simulaciones virtuales, asumiendo que el CO2 fue depositado en el año 2000 a dos profundidades distintas.",
+      "imagen": "img/ascenso/secundaria/2019/9.jpg",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes es una variable independiente del modelo anterior?",
+          "opciones": [
+            "La profundidad a la que se deposita el CO2.",
+            "La cantidad de CO2 que permanece almacenada en el océano.",
+            "La cantidad de CO2 que se almacena en el océano inicialmente."
+          ],
+          "respuesta": "La profundidad a la que se deposita el CO2.",
+          "respuestaCorta": "La variable independiente es la que se manipula para observar su efecto. En el gráfico, se manipula la profundidad (800 m vs 3000 m).",
+          "solucionario": "En una investigación, la variable independiente es aquella que el investigador manipula o cambia intencionadamente para observar qué efecto tiene sobre otra variable (la dependiente). En este caso, el gráfico compara dos escenarios diferentes que fueron establecidos por los investigadores: un depósito a 800 m de profundidad y otro a 3000 m. Por lo tanto, 'la profundidad a la que se deposita el CO2' es la variable independiente.",
+          "seccion": "Conocimientos Pedagógicos"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p08",
+      "contexto": "Un docente presenta a los estudiantes la siguiente actividad:",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Primero, les pide que imaginen que, en un recipiente, hay 2000 de un líquido que se encuentra a 300 de temperatura. Luego, les pregunta: ¿nos quemaremos al tocar el recipiente? ¿Tendremos fuerza suficiente para cargarlo?\n¿Cuál es el propósito principal de esta actividad?",
+          "opciones": [
+            "Que los estudiantes planteen hipótesis en relación con las propiedades de la materia.",
+            "Que los estudiantes identifiquen propiedades físicas que les permitan describir la materia.",
+            "Que los estudiantes reconozcan la necesidad de usar unidades de medida para describir las propiedades de la materia."
+          ],
+          "respuesta": "Que los estudiantes reconozcan la necesidad de usar unidades de medida para describir las propiedades de la materia.",
+          "respuestaCorta": "La actividad presenta cantidades sin unidades (2000 de líquido, 300 de temperatura), haciendo imposible responder y demostrando la necesidad de las unidades de medida.",
+          "solucionario": "El propósito de la actividad es generar una toma de conciencia sobre la importancia de las unidades de medida. El docente presenta deliberadamente valores numéricos ambiguos ('2000 de un líquido', '300 de temperatura'). Las preguntas no pueden ser respondidas porque no se sabe si son 2000 litros o mililitros, ni si son 300 grados Celsius, Fahrenheit o Kelvin. Esta incertidumbre obliga a los estudiantes a reconocer que para describir cuantitativamente las propiedades de la materia, es indispensable el uso de unidades estándar.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p09",
+      "contexto": "Un docente plantea la siguiente situación a los estudiantes:\nSi contamos con una botella vacía con un volumen de 500 mL y, en otro recipiente de volumen desconocido, tenemos un líquido cuya masa es de 450 g, ¿todo este líquido podrá caber en la botella? Explica tu respuesta.\nA continuación, se muestra la respuesta de Saúl, uno de los estudiantes:\n\"Sí, cabe todo, porque el líquido tiene 450 gramos y en la botella puede entrar hasta 500\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes líquidos es adecuado emplear para llevar a cabo la experiencia, de manera que esta genere un conflicto cognitivo en Saúl?",
+          "opciones": [
+            "Agua (densidad a 20°C=1,00 g/mL)",
+            "Etanol (densidad a 20°C=0,79 g/mL)",
+            "Jabón líquido (densidad a 20°C=1,20 g/mL)"
+          ],
+          "respuesta": "Etanol (densidad a 20°C=0,79 g/mL)",
+          "respuestaCorta": "El etanol, al ser menos denso que el agua, hará que 450 g ocupen un volumen mayor a 500 mL, contradiciendo la conclusión de Saúl.",
+          "solucionario": "Saúl comete el error de comparar directamente masa (gramos) con volumen (mililitros). Para generar un conflicto cognitivo, se necesita un líquido cuya masa de 450 g ocupe un volumen mayor a 500 mL. Esto ocurre cuando la densidad es menor que 0.9 g/mL (Volumen = Masa/Densidad; si V > 500 y M = 450, entonces D < 450/500). El etanol tiene una densidad de 0.79 g/mL, por lo que su volumen sería 450 g / 0.79 g/mL ≈ 570 mL, que no cabría en la botella. Esto refutaría la idea de Saúl y lo forzaría a considerar la densidad.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p10",
+      "contexto": "Se quiere medir la masa de un anillo de oro para poder venderlo a un precio justo. Por ello, se propone usar tres balanzas distintas para medir dicha masa en tres momentos. Los resultados de las mediciones se muestran a continuación:",
+      "imagen": "img/ascenso/secundaria/2019/10.jpg",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las balanzas es menos precisa?",
+          "opciones": [
+            "La balanza 1.",
+            "La balanza 2.",
+            "La balanza 3."
+          ],
+          "respuesta": "La balanza 3.",
+          "respuestaCorta": "La balanza 3 es menos precisa porque tiene la menor resolución (solo un decimal), lo que la hace incapaz de detectar variaciones más pequeñas en la masa.",
+          "solucionario": "En el contexto de la metrología, la precisión se refiere a la dispersión de los resultados de mediciones repetidas, mientras que la exactitud se refiere a la cercanía al valor real. Sin embargo, en un sentido más amplio, la 'precisión' de un instrumento también está ligada a su resolución (la mínima variación que puede detectar). Las balanzas 1 y 2 tienen una resolución de centésimas de gramo (0,01 g), mientras que la balanza 3 solo tiene una resolución de décimas de gramo (0,1 g). Al no poder registrar variaciones más pequeñas, se considera la menos precisa o la de menor sensibilidad.",
+          "seccion": "Conocimientos Pedagógicos"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p11",
+      "contexto": "Una docente se encuentra desarrollando una unidad didáctica que tiene como propósito de aprendizaje que los estudiantes, organizados en equipos, describan las propiedades de la materia. A continuación, se presenta una de las actividades que la docente realiza con los estudiantes, como parte de una sesión de aprendizaje.\n1. Proporciona a cada equipo los siguientes instrumentos: una balanza digital en cuya pantalla se registra 0,0 g cuando no se coloca ningún objeto sobre ella, una regla de 30 cm graduada en cm y mm, y una probeta de 250 mL graduada en 2 mL.\n2. Luego, distribuye a cada equipo los siguientes materiales: agua, un cubo pequeño de plástico hueco, una llave de metal y una piedra (estos tres objetos son suficientemente pequeños para entrar en la probeta).\n3. Finalmente, solicita a los estudiantes que determinen la densidad del cubo, la llave y la piedra con los instrumentos que ellos consideren pertinentes.\nDurante el monitoreo de la actividad, un equipo de estudiantes comenta a la docente cómo medirá la densidad de la llave de metal. A continuación, se detalla la propuesta de este equipo:\n\"Nosotros pesaremos la llave en la balanza y anotaremos ese valor. Luego, colocaremos la llave en la probeta que ya tiene un poco de agua y mediremos el nivel que alcanza el agua. Anotaremos este volumen y, al final, dividiremos la masa de la llave entre el volumen de agua para saber su densidad\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes grupos de preguntas es más pertinente para brindar retroalimentación al equipo de estudiantes sobre su error?",
+          "opciones": [
+            "¿Esta propuesta también permitirá medir la densidad de los demás objetos? ¿Qué modificaciones tendrían que realizar?",
+            "¿Cuáles son las variables de su propuesta? ¿Cuántas veces deben medir como mínimo el volumen y la masa de la llave para que sus resultados sean confiables?",
+            "¿Cuánta agua deben emplear como mínimo? ¿El volumen de la llave equivale al volumen que alcanza el agua luego de sumergirla o al volumen de agua que es desplazado por la llave?"
+          ],
+          "respuesta": "¿Cuánta agua deben emplear como mínimo? ¿El volumen de la llave equivale al volumen que alcanza el agua luego de sumergirla o al volumen de agua que es desplazado por la llave?",
+          "respuestaCorta": "Este grupo de preguntas guía a los estudiantes a darse cuenta de su error: están considerando el volumen final del agua en lugar del volumen desplazado por la llave.",
+          "solucionario": "El error del equipo es conceptual y procedimental: confunden el volumen final del agua con el volumen del objeto. El volumen de la llave es igual al volumen de agua que desplaza, el cual se calcula restando el volumen inicial de agua del volumen final (V_llave = V_final - V_inicial). Las preguntas de la opción C son las más pertinentes porque, a través del andamiaje, guían a los estudiantes a reflexionar sobre este punto clave y a corregir su propio procedimiento, llevándolos a diferenciar entre el 'volumen que alcanza el agua' y el 'volumen de agua que es desplazado'.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes procedimientos es adecuado para medir el volumen del cubo de plástico hueco?",
+          "opciones": [
+            "Medir la arista del cubo de plástico con la regla; luego, elevar este valor al cubo.",
+            "Colocar agua en la probeta; luego, colocar el cubo en el agua y medir el volumen final de agua que se registra en la probeta.",
+            "Colocar agua en la probeta; luego, sumergir por completo el cubo en el agua hasta que llegue a la base de la probeta con ayuda de una bagueta y medir el volumen final de agua."
+          ],
+          "respuesta": "Medir la arista del cubo de plástico con la regla; luego, elevar este valor al cubo.",
+          "respuestaCorta": "Para un objeto con forma geométrica regular como un cubo, el método más directo y preciso es calcular su volumen usando la fórmula matemática V = lado³.",
+          "solucionario": "El cubo es un objeto geométrico regular. El procedimiento más adecuado para determinar su volumen es el matemático. Usando la regla proporcionada, los estudiantes pueden medir la longitud de una de sus aristas (lado) y aplicar la fórmula del volumen de un cubo (V = lado³). Los métodos de desplazamiento de agua son menos adecuados aquí: la opción B fallaría porque el cubo de plástico hueco flotaría, y la opción C, aunque intenta resolver el problema de la flotación, introduce más fuentes de error en la medición en comparación con el simple y directo cálculo geométrico.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p12",
+      "contexto": "A continuación, se presenta parte del diálogo entre una docente y los estudiantes al inicio de una unidad didáctica.\nDocente: Hay muchos objetos que podemos diferenciar a simple vista, pero en algunos casos no es tan fácil. Por ejemplo, ¿pueden diferenciar a simple vista el azúcar blanca de la sal común o del hielo picado?\nBetty: El hielo sí es fácil de diferenciar porque está más frío. Pero en el caso del azúcar y la sal no es fácil. Una vez los confundí y malogré el jugo que me estaba preparando.\nElisa: Por eso, yo siempre pruebo un poco antes de echarlos a los jugos o la comida.\nDocente: Pero hay otras sustancias que se ven muy parecidas al azúcar, la sal y el hielo que no podemos probar, por ejemplo, el cianuro de sodio, ¡un poderoso veneno! ¿Cómo podríamos diferenciar la sal del azúcar o del hielo, sin probarlos, olerlos o tocarlos?\nMaría: Mmm... es difícil porque todos se disuelven en agua.\nMoisés: Sí, se disuelven en agua, pero no en la misma cantidad.\nSantiago: ¡Ya sé! He visto que el hielo se derrite muy fácil y también he visto derretir azúcar para hacer caramelo, pero nunca he visto que derritan sal. Yo creo que por su composición química la sal no se puede derretir tan fácil como el hielo o el azúcar.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes aprendizajes se evidencia en la intervención de Santiago?",
+          "opciones": [
+            "Formula hipótesis para llevar a cabo una indagación.",
+            "Identifica múltiples causas para explicar un fenómeno.",
+            "Propone estrategias para evaluar la validez de su hipótesis."
+          ],
+          "respuesta": "Formula hipótesis para llevar a cabo una indagación.",
+          "respuestaCorta": "Santiago propone una explicación causal y verificable ('por su composición química la sal no se puede derretir tan fácil'), lo que constituye una hipótesis.",
+          "solucionario": "La intervención de Santiago parte de una observación (diferentes comportamientos al calentarse) y propone una explicación tentativa y comprobable: 'Yo creo que por su composición química la sal no se puede derretir tan fácil...'. Esta afirmación es una hipótesis porque establece una relación causa-efecto (composición química -> dificultad para derretirse) que puede ser sometida a prueba mediante una indagación (por ejemplo, midiendo los puntos de fusión de las tres sustancias).",
+          "seccion": "Casuística"
+        },
+        {
+          "contexto": "La docente organizó las ideas de los estudiantes que surgieron durante el diálogo y les solicitó que se distribuyan en equipos para completar la siguiente tabla:",
+          "imagen": "img/ascenso/secundaria/2019/11.jpg",
+          "pregunta": " ¿En cuál de las tres sustancias, las fuerzas que unen a sus partículas son mayores? Expliquen su respuesta considerando la información de la tabla. ¿Cuál es el propósito de aprendizaje de las actividades propuestas por la docente?",
+          "opciones": [
+            "Que los estudiantes diferencien propiedades químicas de compuestos iónicos y moleculares.",
+            "Que los estudiantes expliquen las diferencias entre las propiedades macroscópicas de sólidos y líquidos.",
+            "Que los estudiantes vinculen propiedades físicas de compuestos iónicos y moleculares con el tipo de interacción que opera entre moléculas o iones."
+          ],
+          "respuesta": "Que los estudiantes vinculen propiedades físicas de compuestos iónicos y moleculares con el tipo de interacción que opera entre moléculas o iones.",
+          "respuestaCorta": "La actividad busca que los estudiantes conecten una propiedad macroscópica (punto de fusión) con una explicación microscópica (la fuerza de los enlaces/interacciones).",
+          "solucionario": "El propósito de la docente es que los estudiantes trasciendan la simple observación de propiedades físicas (macroscópicas) como el punto de fusión y la solubilidad. Al preguntar '¿en cuál de las tres sustancias, las fuerzas que unen a sus partículas son mayores?', está guiándolos a establecer una conexión entre esas propiedades observables y la naturaleza de las interacciones a nivel microscópico (la fuerza de los enlaces iónicos en la sal vs. las fuerzas intermoleculares en el azúcar y el hielo). Este vínculo entre lo macroscópico y lo microscópico es el núcleo del aprendizaje propuesto.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    
+    {
+      "idGrupo": "asc_secundaria_2019_p13",
+      "contexto": "Un docente ha planificado una unidad didáctica que tiene como propósito que los estudiantes expliquen qué sucede con las sustancias durante una reacción química.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "contexto":"El docente decide trabajar con el siguiente recurso que representa la reacción de formación del agua.",
+            "imagen":"img/ascenso/secundaria/2019/12.jpg",
+            "pregunta": "¿Cuál de los siguientes grupos de preguntas es más pertinente plantear a los estudiantes para iniciar la comprensión de que la masa se conserva en las reacciones químicas?",
+          "opciones": [
+            "¿Cuántas moléculas de hidrógeno y oxígeno reaccionan? ¿Cuántas moléculas de agua se forman?",
+            "¿La cantidad total de átomos de oxígeno y de hidrógeno cambia durante la reacción? ¿Qué es lo que cambia?",
+            "¿Cuál es el tipo de enlace químico en las moléculas de oxígeno e hidrógeno antes de la reacción? ¿El tipo de enlace cambia después de la reacción?"
+          ],
+          "respuesta": "¿La cantidad total de átomos de oxígeno y de hidrógeno cambia durante la reacción? ¿Qué es lo que cambia?",
+          "respuestaCorta": "Este grupo de preguntas enfoca la atención en el conteo de átomos antes y después, que es el fundamento de la ley de conservación de la masa.",
+          "solucionario": "La ley de conservación de la masa establece que en una reacción química los átomos no se crean ni se destruyen, solo se reorganizan. Las preguntas de la opción B guían a los estudiantes a verificar este principio. Al contar los átomos de hidrógeno y oxígeno en los reactantes y luego en los productos, se darán cuenta de que la cantidad de átomos de cada elemento permanece constante. La pregunta '¿Qué es lo que cambia?' los lleva a concluir que lo que cambia es la forma en que estos átomos están enlazados para formar nuevas moléculas.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Para continuar con el desarrollo de la unidad didáctica, el docente plantea la siguiente situación a los estudiantes:<br>\nLa sal común es un ingrediente fundamental de nuestras dietas. Esta sal tiene como principal componente al cloruro de sodio, el cual se produce mediante la violenta reacción entre el cloro y el sodio.\n¿Por qué el sodio reacciona violentamente con el cloro?<br>\nA continuación, se muestra la intervención de Yuriana, una de las estudiantes:<br>\n\"Porque el cloro y el sodio tienen un octeto incompleto y quieren completar sus ocho electrones en su capa externa para ser más estables, como los gases nobles\".\n¿Cuál de las siguientes actividades es pertinente para brindar retroalimentación a Yuriana?",
+          "opciones": [
+            "Preguntarle si cree que los átomos pueden experimentar sensaciones y tener preferencias al momento de reaccionar con otros elementos.",
+            "Pedirle que busque videos sobre cómo se lleva a cabo la reacción en el laboratorio, para que identifique que en la formación de la sal no participan átomos aislados.",
+            "Presentarle información sobre la energía involucrada en la formación de los iones para que identifique que estos no siempre son más estables que los átomos neutros."
+          ],
+          "respuesta": "Presentarle información sobre la energía involucrada en la formación de los iones para que identifique que estos no siempre son más estables que los átomos neutros.",
+          "respuestaCorta": "Esta opción ataca el error conceptual de fondo: la idea simplista de que los iones aislados son siempre más estables, ignorando la energética del proceso completo.",
+          "solucionario": "Yuriana presenta dos errores comunes: uno de lenguaje (antropomorfismo, al decir que los átomos 'quieren') y uno conceptual profundo sobre la estabilidad. La retroalimentación más pertinente es la que aborda el error conceptual más significativo. La idea de que los átomos reaccionan para alcanzar la 'estabilidad' del octeto es una simplificación. La opción C es la más adecuada porque presenta información que genera un conflicto cognitivo: la formación de iones aislados a partir de átomos neutros a menudo requiere energía (es un proceso endotérmico). La gran estabilidad del compuesto iónico final proviene de la energía liberada al formarse la red cristalina, un concepto más complejo que la simple 'estabilidad' de los iones individuales.",
+          "seccion": "Casuística"
+        },
+        {
+         "contexto": "Como parte de otra sesión de aprendizaje, el docente propone a los estudiantes la siguiente actividad:",
+         "imagen": "img/ascenso/secundaria/2019/13.jpg",
+            "pregunta": "¿Cuál es de los siguientes es un error que se evidencia en la representación realizada por Julia?",
+          "opciones": [
+            "Los coeficientes que usa en la ecuación química no guardan relación con el número de partículas que ha dibujado.",
+            "No aplica el principio de conservación de la masa en la reacción química.",
+            "No representa correctamente la estructura del compuesto iónico."
+          ],
+          "respuesta": "No representa correctamente la estructura del compuesto iónico.",
+          "respuestaCorta": "El error de Julia es dibujar el cloruro de sodio como moléculas individuales (NaCl), cuando en realidad los compuestos iónicos forman una red cristalina continua.",
+          "solucionario": "El error principal en la representación de Julia es de naturaleza estructural. El cloruro de sodio (NaCl) es un compuesto iónico. Estos compuestos no forman moléculas discretas e individuales en estado sólido. En cambio, forman una estructura tridimensional continua y ordenada llamada red o cristal iónico, en la que cada ion de sodio (Na+) está rodeado por varios iones de cloruro (Cl-) y viceversa. Al dibujar pares aislados de Na y Cl, Julia está representando incorrectamente la estructura de un compuesto iónico.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p14",
+      "contexto": null,
+      "imagen": "img/ascenso/secundaria/2019/14.jpg",
+      "preguntas": [
+        {
+          "pregunta": "Si se sabe que un átomo neutro de oxígeno tiene un total de 8 electrones, ¿cuál de los siguientes diagramas de energía representa correctamente la distribución de energía de estos electrones en el estado basal del átomo de oxígeno?",
+          "opciones": [
+            "a",
+            "b",
+            "c"
+          ],
+          "respuesta": "c",
+          "respuestaCorta": "El diagrama C representa correctamente la distribución de los 8 electrones del oxígeno en su estado basal, siguiendo los principios de Aufbau, Pauli y la regla de Hund.",
+          "solucionario": "La configuración electrónica de un átomo en su estado basal (de mínima energía) se rige por tres reglas: 1) El principio de Aufbau (los electrones ocupan primero los orbitales de menor energía), 2) El principio de exclusión de Pauli (dos electrones en un mismo orbital deben tener espines opuestos), y 3) La regla de Hund (en un subnivel, los electrones ocupan el máximo número de orbitales posibles con espines paralelos antes de empezar a aparearse). Para el oxígeno (8 electrones), la configuración es 1s² 2s² 2p⁴. El diagrama C muestra correctamente los orbitales 1s y 2s llenos con espines opuestos, y el subnivel 2p con cuatro electrones distribuidos como un par y dos electrones desapareados con espines paralelos, cumpliendo así con todas las reglas.",
+          "seccion": "Conocimientos Pedagógicos"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p15",
+      "contexto": "Una docente ha notado que los estudiantes tienen una discusión en torno a la siguiente publicación que encontraron en un blog:\n\nLos hijos únicos son más inteligentes según la ciencia\nEn las últimas semanas, se ha publicado un estudio que demuestra importantes diferencias entre ser hijo único y tener hermanos. Sin embargo, este no es el único. En las últimas décadas, se han realizado diversas investigaciones sobre el tema. Y los resultados que nos da la ciencia son concluyentes: los hijos únicos suelen ser más inteligentes y comprometidos que los que tienen hermanos, aunque, eso sí, son más egoístas.\n\nNota: Las palabras subrayadas son enlaces que dirigen a otras fuentes de internet.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes estudiantes evalúa mejor la confiabilidad de la publicación?",
+          "opciones": [
+            "Joaquín: Es cierto lo que dice la publicación porque da fundamentos científicos y habla de investigaciones sobre el tema; además, he confirmado que los enlaces dirigen a los artículos de esas investigaciones.",
+            "Andrea: Pienso que la información es falsa porque proviene de un blog; además, yo conozco muchos casos en los que se demuestra que lo que dice la publicación es falso.",
+            "Camila: Creo que sería mejor buscar y leer las investigaciones a las que se refiere la publicación para saber cómo se hicieron y las conclusiones a las que llegaron."
+          ],
+          "respuesta": "Camila: Creo que sería mejor buscar y leer las investigaciones a las que se refiere la publicación para saber cómo se hicieron y las conclusiones a las que llegaron.",
+          "respuestaCorta": "Camila propone el método más riguroso para evaluar la confiabilidad: ir a las fuentes primarias y analizar la metodología y los resultados de las investigaciones originales.",
+          "solucionario": "Evaluar la confiabilidad de la información es una competencia científica clave. Joaquín comete el error de aceptar la información solo porque los enlaces funcionan, sin analizar el contenido de los estudios. Andrea comete el error de desestimar la información por su formato (un blog) y de usar evidencia anecdótica ('conozco muchos casos'). Camila demuestra un pensamiento crítico superior al proponer ir a la fuente original. Leer las investigaciones primarias le permitiría evaluar la metodología, el tamaño de la muestra, el análisis estadístico y si las conclusiones del blog realmente reflejan los hallazgos de la ciencia, que es el procedimiento correcto para una evaluación rigurosa.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p16",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Una docente sospecha que un equipo de estudiantes ha plagiado diversa información en el marco teórico de su informe de indagación.\n¿Cuál de las siguientes alternativas presenta un indicio que apoya la sospecha de la docente?",
+          "opciones": [
+            "Presencia de párrafos con información entre comillas.",
+            "Presencia de párrafos escritos con un lenguaje muy especializado, sin ninguna referencia.",
+            "Presencia de referencias bibliográficas en idiomas distintos al que dominan los estudiantes."
+          ],
+          "respuesta": "Presencia de párrafos escritos con un lenguaje muy especializado, sin ninguna referencia.",
+          "respuestaCorta": "Escribir con un lenguaje técnico avanzado y no citar la fuente es un fuerte indicio de que el texto ha sido copiado, lo cual es plagio.",
+          "solucionario": "El plagio consiste en usar el trabajo o las ideas de otra persona sin el crédito adecuado. La opción A (uso de comillas) es, de hecho, una forma correcta de citar textualmente y previene el plagio. La opción C (referencias en otros idiomas) sugiere una investigación exhaustiva, no plagio. La opción B es el indicio más claro y común de plagio: la aparición súbita de un estilo de escritura o un vocabulario muy especializado, que no corresponde al nivel habitual del estudiante, combinado con la ausencia de una cita o referencia, indica que el párrafo probablemente fue copiado y pegado de una fuente externa.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p17",
+      "contexto": "Un docente ha identificado que los familiares de los estudiantes se dedican al cultivo y comercialización de frutos de estación. Por ello, plantea la siguiente pregunta a los estudiantes:",
+      "imagen": "img/ascenso/secundaria/2019/15.jpg",
+      "preguntas": [
+        {
+          "pregunta": "El docente ha identificado logros y aspectos que los estudiantes deben mejorar en su propuesta de indagación.\n¿Cuál de los siguientes logros de aprendizaje evidencian los estudiantes en dicha propuesta?",
+          "opciones": [
+            "Identifica procedimientos para medir la variable dependiente de su indagación.",
+            "Identifica procedimientos que permiten controlar las variables que debe mantener constantes.",
+            "Identifica la necesidad de realizar repeticiones para garantizar la confiabilidad de sus resultados."
+          ],
+          "respuesta": "Identifica procedimientos que permiten controlar las variables que debe mantener constantes.",
+          "respuestaCorta": "La propuesta demuestra un entendimiento del control de variables al especificar que las paltas, los materiales y la técnica de envoltura deben ser similares.",
+          "solucionario": "Un diseño experimental riguroso requiere el control de las variables intervinientes para asegurar que cualquier efecto observado se deba a la manipulación de la variable independiente. Los estudiantes demuestran este logro al especificar que usarán materiales 'de igual tamaño', paltas 'de similares características (tamaño, masa, tipo, etc.)', 'la misma técnica para envolver' y las colocarán 'dentro de un mismo estante'. Todas estas son acciones deliberadas para mantener constantes las condiciones y así aislar el efecto del tipo de material, que es la variable que desean investigar.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Cuál es la variable independiente en la propuesta de los estudiantes?",
+          "opciones": [
+            "El tipo de material con el que se envuelven las paltas.",
+            "La técnica con la que se envuelven las paltas.",
+            "El lugar donde se colocan las paltas."
+          ],
+          "respuesta": "El tipo de material con el que se envuelven las paltas.",
+          "respuestaCorta": "La variable independiente es el factor que se cambia a propósito en un experimento. En este caso, los estudiantes están cambiando el material de la envoltura.",
+          "solucionario": "La variable independiente es aquella que el investigador manipula o varía intencionalmente para observar su efecto sobre la variable dependiente. En la indagación propuesta, los estudiantes quieren averiguar qué material es más adecuado. Por lo tanto, el factor que están cambiando deliberadamente para comparar los resultados es 'el tipo de material con el que se envuelven las paltas' (papel periódico, papel kraft, bolsa de plástico). Las otras opciones, como la técnica y el lugar, son variables que los estudiantes intentan mantener constantes (variables controladas).",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Un estudiante del equipo comenta que en la propuesta se deberían emplear cuatro paltas inmaduras en lugar de tres y dejar una sin envoltura. ¿Por qué debe tomarse en cuenta la sugerencia del estudiante?",
+          "opciones": [
+            "Porque ello permitirá comprobar si envolver las paltas favorece o no su maduración.",
+            "Porque un mayor número de repeticiones permitirá aumentar la confiabilidad de los resultados.",
+            "Porque ello permitirá saber cuál de los materiales con los que se envolvieron las paltas favorece que maduren más rápido."
+          ],
+          "respuesta": "Porque ello permitirá comprobar si envolver las paltas favorece o no su maduración.",
+          "respuestaCorta": "La palta sin envoltura funciona como un grupo de control, lo que permite establecer una base de comparación para determinar si las envolturas realmente tienen un efecto.",
+          "solucionario": "La sugerencia de añadir una palta sin envoltura es crucial porque establece un 'grupo de control'. El grupo de control es el estándar con el que se comparan los resultados de los grupos experimentales. Sin este control, los estudiantes podrían ver que una palta maduró más rápido, pero no podrían saber si fue por la envoltura o si simplemente habría madurado igual de rápido por sí sola. Al comparar la maduración de las paltas envueltas con la no envuelta, pueden determinar con certeza si la acción de envolverlas tiene un efecto real (ya sea que acelere, retrase o no afecte la maduración).",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Otro de los integrantes del equipo propone lo siguiente:\n\"He escuchado que los frutos pueden madurar más rápido cuando están cerca de plátanos maduros. Entonces, me gustaría probar poniendo un plátano maduro junto a tres paltas sin ninguna envoltura para ver si las paltas maduran en menos tiempo\".\n¿Qué tipo de variable es la presencia del plátano maduro en la propuesta del estudiante?",
+          "opciones": [
+            "Variable interviniente.",
+            "Variable dependiente.",
+            "Variable independiente."
+          ],
+          "respuesta": "Variable independiente.",
+          "respuestaCorta": "En esta nueva propuesta, la 'presencia del plátano maduro' es el factor que se manipula intencionalmente para observar su efecto, por lo que es la variable independiente.",
+          "solucionario": "En este nuevo diseño experimental, el estudiante quiere probar el efecto de un factor específico: 'la presencia del plátano maduro'. Este es el factor que él está introduciendo y controlando (presente vs. ausente) para ver si causa un cambio en la maduración de las paltas. Por definición, la variable que se manipula o cambia a propósito en un experimento para observar sus consecuencias es la variable independiente. La variable dependiente sería el tiempo de maduración de las paltas.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p18",
+      "contexto": "Una docente está desarrollando una unidad didáctica que tiene como propósito que los estudiantes describan el movimiento de un cuerpo a partir de las fuerzas que actúan sobre él.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "En una de las sesiones de aprendizaje, la docente busca que los estudiantes comprendan la característica vectorial de una fuerza. Para ello, ha decidido analizar con ellos una situación.\n¿En cuál de las siguientes situaciones cambian la dirección, el sentido y el módulo del vector fuerza?",
+          "opciones": [
+            "Una persona empuja a otra con diferentes intensidades y hacia tres lados distintos.",
+            "Un automóvil se mueve alrededor de una plaza circular, a una misma rapidez.",
+            "Un lápiz cae al piso desde una mesa."
+          ],
+          "respuesta": "Una persona empuja a otra con diferentes intensidades y hacia tres lados distintos.",
+          "respuestaCorta": "Esta situación describe explícitamente cambios en la intensidad (módulo), los lados a los que se empuja (dirección) y el empuje mismo (sentido).",
+          "solucionario": "Una fuerza, como vector, se define por tres características: módulo (su valor o intensidad), dirección (la línea sobre la que actúa) y sentido (hacia qué lado de la línea apunta). La opción A es la única que describe una variación en los tres componentes: 'diferentes intensidades' implica un cambio de módulo, y 'hacia tres lados distintos' implica un cambio tanto de la dirección como del sentido de la fuerza aplicada. Las otras opciones no cumplen con el cambio simultáneo de las tres características.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Durante una de las sesiones de aprendizaje, un estudiante realiza el siguiente comentario:\n\"Para mover un objeto, se debe aplicar una fuerza en la dirección y el sentido que uno quiere que se mueva; por eso, la fuerza siempre apunta en la misma dirección y sentido hacia donde se mueve el objeto\".\nLa docente sabe que asumir que la fuerza siempre apunta en el mismo sentido que el movimiento es un error. ¿Cuál de las siguientes actividades es más pertinente para generar conflicto cognitivo en el estudiante?",
+          "opciones": [
+            "Pedirle que empuje una serie de objetos y que evalúe hacia dónde se mueven.",
+            "Pedirle que realice el diagrama de cuerpo libre de una moneda tras ser lanzada hacia arriba, mientras la moneda sube.",
+            "Pedirle que analice el movimiento de un objeto, que estaba quieto, tras impulsarlo en una superficie donde se desestime la fricción."
+          ],
+          "respuesta": "Pedirle que realice el diagrama de cuerpo libre de una moneda tras ser lanzada hacia arriba, mientras la moneda sube.",
+          "respuestaCorta": "Este ejemplo crea un conflicto cognitivo al mostrar una situación donde el objeto se mueve hacia arriba, pero la fuerza neta (gravedad) actúa hacia abajo.",
+          "solucionario": "El error del estudiante es una concepción errónea común que asocia directamente la fuerza con el movimiento. Para generar un conflicto cognitivo, se necesita un contraejemplo claro. La opción B es la más pertinente porque presenta una situación en la que el vector velocidad (movimiento hacia arriba) y el vector fuerza neta (la fuerza de la gravedad, que apunta hacia abajo) tienen sentidos opuestos. Analizar este caso obliga al estudiante a confrontar su idea de que la fuerza y el movimiento 'siempre' apuntan en el mismo sentido, llevándolo a reestructurar su comprensión.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    
+    {
+      "idGrupo": "asc_secundaria_2019_p18",
+      "contexto": "Una docente está desarrollando una unidad didáctica que tiene como propósito que los estudiantes describan el movimiento de un cuerpo a partir de las fuerzas que actúan sobre él.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "contexto": "Durante otra sesión de aprendizaje, la docente pide a los estudiantes que observen el armario que se encuentra junto a una pared del aula, como se muestra en la siguiente figura:",
+          "imagen": "img/ascenso/secundaria/2019/16.jpg",  
+          "pregunta": "¿Cuál de las siguientes preguntas es pertinente que plantee la docente para brindar retroalimentación a los estudiantes sobre el error evidenciado en el DCL?",
+          "opciones": [
+            "¿Creen que el armario se movería si no estuviera la pared?",
+            "¿Por qué no han representado una fuerza de fricción que actúa en el armario?",
+            "¿Qué sucederá con las fuerzas que han identificado si se coloca una caja de libros sobre el armario?"
+          ],
+          "respuesta": "¿Creen que el armario se movería si no estuviera la pared?",
+          "respuestaCorta": "Esta pregunta desafía la existencia de la fuerza normal de la pared, ya que la pared no está impidiendo ningún movimiento ni oponiéndose a ninguna fuerza.",
+          "solucionario": "El error en el DCL es la inclusión de la 'Fnormal de la pared'. La fuerza normal es una fuerza de contacto que surge como reacción a una fuerza que empuja un objeto contra una superficie. En la situación descrita, el armario está en reposo y no hay ninguna fuerza horizontal empujándolo contra la pared. Por lo tanto, la pared no ejerce ninguna fuerza normal sobre el armario. La pregunta '¿Creen que el armario se movería si no estuviera la pared?' es la más pertinente porque guía a los estudiantes a razonar que la pared no está cumpliendo ninguna función de soporte o contención, y por lo tanto, no está ejerciendo una fuerza.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Como parte de las sesiones de aprendizaje, la docente busca que los estudiantes comprendan la tercera ley de Newton, la cual expresa que si un cuerpo A ejerce una fuerza (acción) sobre otro cuerpo B, este ejerce sobre el primero otra fuerza de igual magnitud, pero en sentido opuesto (reacción).\n¿En cuál de los siguientes ejemplos se evidencian las fuerzas de acción y reacción, de acuerdo con la tercera ley de Newton?",
+          "opciones": [
+            "La fuerza de atracción gravitatoria que ejerce la Tierra sobre un libro en reposo, ubicado encima de una mesa, y la fuerza normal que ejerce la mesa sobre el libro.",
+            "La fuerza con la que un boxeador golpea con el puño a su adversario en el rostro, y la fuerza que el rostro del adversario aplica en el puño del boxeador.",
+            "La fuerza con la que se impulsó un carrito en el piso y la fuerza de fricción, por la cual eventualmente se detiene el carrito."
+          ],
+          "respuesta": "La fuerza con la que un boxeador golpea con el puño a su adversario en el rostro, y la fuerza que el rostro del adversario aplica en el puño del boxeador.",
+          "respuestaCorta": "Este es un ejemplo clásico de un par acción-reacción: son fuerzas del mismo tipo (contacto), de igual magnitud y sentido opuesto, que actúan sobre cuerpos diferentes (puño y rostro).",
+          "solucionario": "La Tercera Ley de Newton establece que las fuerzas de acción y reacción siempre ocurren en pares, actúan sobre cuerpos diferentes, y son de igual magnitud y en sentido opuesto. La opción B ilustra esto perfectamente: la fuerza del puño sobre el rostro (acción) y la fuerza del rostro sobre el puño (reacción). La opción A es un error común; la fuerza de gravedad y la fuerza normal actúan sobre el mismo cuerpo (el libro), por lo que no pueden ser un par acción-reacción. La reacción a la fuerza de gravedad de la Tierra sobre el libro es la fuerza de gravedad del libro sobre la Tierra.",
+          "seccion": "Casuística"
+        },
+        {
+          "contexto": "Luego de haber trabajado la comprensión de las variables que describen el movimiento, tales como posición, trayectoria, desplazamiento, rapidez y velocidad, la docente muestra a los estudiantes la siguiente gráfica, que representa la posición de una persona en el tiempo.",
+            "imagen": "img/ascenso/secundaria/2019/17.jpg",
+            "pregunta": "La docente pide a los estudiantes que, basándose en la gráfica, interpreten el movimiento de la persona.\n¿Cuál de los siguientes estudiantes brinda una interpretación adecuada del movimiento de la persona?",
+          "opciones": [
+            "Carmen: La persona se mueve durante cuatro segundos hacia la derecha.",
+            "Renzo: La persona primero sube por un camino y luego baja por otro camino.",
+            "Carlos: La persona se mueve por un camino y luego regresa a su posición inicial, por el mismo camino."
+          ],
+          "respuesta": "Carlos: La persona se mueve por un camino y luego regresa a su posición inicial, por el mismo camino.",
+          "respuestaCorta": "La gráfica muestra la posición aumentando de 0 a 2 metros y luego disminuyendo de 2 a 0 metros, lo que representa un viaje de ida y vuelta a la posición inicial.",
+          "solucionario": "La gráfica es de posición (eje Y) contra tiempo (eje X). De t=0 a t=2s, la posición aumenta de 0 a 2m, lo que indica que la persona se aleja de su punto de partida. De t=2s a t=4s, la posición disminuye de 2m de vuelta a 0m, lo que significa que está regresando a su posición inicial. Por lo tanto, Carlos hace la interpretación correcta. Renzo comete el error común de interpretar la forma de la gráfica como la trayectoria física del movimiento (subir y bajar una colina).",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p19",
+      "contexto": "A continuación, se muestra la representación del ejercicio mental que realizó Newton para explicar el movimiento de los cuerpos ante el efecto de un campo gravitatorio. En este ejercicio, Newton propuso imaginar un cañón sobre la cima de una montaña, desde la que se disparan balas con diferentes velocidades iniciales, de manera que la bala describe trayectorias distintas en función de su velocidad inicial.",
+      "imagen": "img/ascenso/secundaria/2019/18.jpg",
+      
+      "preguntas": [
+        {
+          "pregunta": "Si se ignora cualquier efecto del aire, ¿cuál de los siguientes diagramas de cuerpo libre corresponde a la bala, tras salir del cañón?",
+          "opciones": [
+            "a",
+            "b",
+            "c"
+          ],
+          "respuesta": "b",
+          "respuestaCorta": "Una vez que la bala sale del cañón, la única fuerza que actúa sobre ella (ignorando la resistencia del aire) es la fuerza de gravedad, que apunta hacia el centro de la Tierra.",
+          "solucionario": "Este problema busca identificar las fuerzas que actúan sobre un proyectil en vuelo. Según la física newtoniana, una vez que la bala ha abandonado el cañón, ya no hay una fuerza de 'impulso' o 'del cañón' actuando sobre ella (descartando las opciones a y c). Ignorando la resistencia del aire, la única fuerza significativa que actúa sobre la bala es la atracción gravitatoria de la Tierra. Esta fuerza siempre apunta hacia el centro del planeta. Por lo tanto, el diagrama de cuerpo libre correcto (opción b) muestra únicamente el vector de la fuerza de la Tierra (gravedad) apuntando hacia abajo.",
+          "seccion": "Conocimientos Pedagógicos"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p20",
+      "contexto": "Como parte de una unidad didáctica que tiene como propósito de aprendizaje que los estudiantes expliquen cómo se nutren las plantas, una docente realizó la siguiente actividad:",
+      "imagen": "img/ascenso/secundaria/2019/19.jpg",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es el propósito principal de la actividad presentada?",
+          "opciones": [
+            "Generar conflicto cognitivo en los estudiantes.",
+            "Favorecer que los estudiantes planteen hipótesis.",
+            "Promover procesos de metacognición en los estudiantes."
+          ],
+          "respuesta": "Favorecer que los estudiantes planteen hipótesis.",
+          "respuestaCorta": "La pregunta clave '¿cómo podemos lograr que... produzca más burbujas?' está diseñada para que los estudiantes propongan explicaciones y predicciones, es decir, hipótesis.",
+          "solucionario": "El propósito principal de la pregunta final de la docente es iniciar un proceso de indagación. Al preguntar '¿cómo podemos lograr que la elodea produzca más burbujas?', está invitando a los estudiantes a proponer relaciones de causa y efecto basadas en sus conocimientos previos sobre las plantas (necesitan más luz, más CO2, etc.). Estas propuestas son, en esencia, hipótesis: afirmaciones tentativas que pueden ser sometidas a prueba experimental. Por lo tanto, la actividad está orientada a favorecer que los estudiantes formulen hipótesis.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Leonel, uno de los estudiantes, comentó lo siguiente:\n\"Profesora, yo pienso que la planta produciría mayor cantidad de burbujas si calentamos el agua\".\nEn la propuesta del estudiante, ¿qué tipo de variable es la cantidad de burbujas producidas por la planta?",
+          "opciones": [
+            "Variable independiente.",
+            "Variable dependiente.",
+            "Variable interviniente."
+          ],
+          "respuesta": "Variable dependiente.",
+          "respuestaCorta": "La cantidad de burbujas es la variable que se mide para observar el efecto del cambio introducido (calentar el agua), por lo tanto, es la variable dependiente.",
+          "solucionario": "En un diseño experimental, la variable independiente es la que se manipula (en este caso, la temperatura del agua). La variable dependiente es la que se mide para ver si la manipulación tuvo un efecto. Leonel propone medir 'la cantidad de burbujas producidas' como el resultado de su experimento. Este es el efecto, el dato que depende del cambio en la temperatura. Por lo tanto, es la variable dependiente.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p21",
+      "contexto": "Una docente ha diseñado una unidad didáctica que tiene como propósito que los estudiantes describan la función de las enzimas en los seres vivos. En una de las sesiones de aprendizaje, realizó una experiencia en la que los estudiantes observaron el efecto de la catalasa presente en el hígado de pollo sobre el peróxido de hidrógeno.\nLuego de realizar esta experiencia, un equipo de estudiantes propone realizar una indagación para comparar la actividad de la catalasa presente en diferentes estructuras de una planta, como hojas y tallo.\nA continuación, se muestra el plan de indagación de este equipo de estudiantes:<br>\n1. Conseguir cebolla china, dos tubos de ensayo y agua oxigenada\n2. Separar el tallo (bulbo) y las hojas de la cebolla china, y rallarlos\n3. Etiquetar los dos tubos de ensayo: muestra 1 y muestra 2\nMuestra 1: Una cucharada del tallo rallado de la cebolla china\nMuestra 2: Una cucharada de hojas ralladas de cebolla china\n4. Agregar a cada tubo de ensayo 5 mL de agua oxigenada\n5. Medir, registrar y comparar la altura alcanzada por las burbujas de oxígeno liberadas en cada tubo de ensayo, luego de 10 segundos\n6. Repetir tres veces los pasos anteriores",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes hipótesis es coherente con el plan de indagación propuesto por los estudiantes?",
+          "opciones": [
+            "La actividad de la catalasa presente en la cebolla china depende del área superficial de la muestra.",
+            "La actividad de la catalasa presente en la cebolla china varía de acuerdo con el tipo de estructura de la planta.",
+            "La cantidad de oxígeno producido por la catalasa depende del tiempo de exposición de la cebolla china al agua oxigenada."
+          ],
+          "respuesta": "La actividad de la catalasa presente en la cebolla china varía de acuerdo con el tipo de estructura de la planta.",
+          "respuestaCorta": "El plan de indagación está diseñado específicamente para comparar dos 'tipos de estructura' de la planta (tallo y hojas), por lo que la hipótesis debe reflejar esta comparación.",
+          "solucionario": "La hipótesis de una indagación debe ser una respuesta tentativa a la pregunta de investigación y debe ser directamente comprobable mediante el procedimiento diseñado. El procedimiento de los estudiantes consiste en comparar la producción de burbujas (una medida de la actividad de la catalasa) entre el tallo y las hojas. Por lo tanto, el experimento está diseñado para probar si 'el tipo de estructura de la planta' (la variable independiente) afecta la actividad de la enzima. La hipótesis de la opción B es la única que se alinea directamente con este diseño experimental.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "La docente ha identificado logros y algunos aspectos que los estudiantes deben mejorar en su plan de indagación.\n¿Cuál de las siguientes modificaciones deben hacer los estudiantes para mejorar su plan de indagación?",
+          "opciones": [
+            "Emplear una balanza para asegurar que la masa de las muestras sea igual.",
+            "Usar diferentes volúmenes de agua oxigenada para cada muestra.",
+            "Emplear solo una estructura de la cebolla china."
+          ],
+          "respuesta": "Emplear una balanza para asegurar que la masa de las muestras sea igual.",
+          "respuestaCorta": "Para una comparación justa, se debe asegurar que la cantidad de tejido vegetal sea la misma en ambas muestras. Medir la masa con una balanza es más preciso que usar 'una cucharada'.",
+          "solucionario": "Para que la comparación de la actividad enzimática entre el tallo y las hojas sea válida, es crucial controlar las variables. Una de las variables más importantes a controlar es la cantidad de muestra utilizada. Medir 'una cucharada' es impreciso y no garantiza que la cantidad de materia orgánica sea la misma en ambos tubos. La modificación más importante para mejorar el rigor del experimento es emplear una balanza para asegurar que se utiliza exactamente la misma masa de tallo y de hojas, garantizando así que la comparación sea justa.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Luego de incorporar las modificaciones necesarias a su plan de indagación, el equipo de estudiantes realizó la experiencia y propuso la siguiente conclusión:\n\"La catalasa es una enzima presente en la cebolla china que hace que el peróxido de hidrógeno se convierta en oxígeno\".\nLa docente ha identificado que los estudiantes no han formulado una conclusión coherente con su indagación.\n¿Cuál de las siguientes preguntas es más pertinente para brindar retroalimentación al equipo de estudiantes?",
+          "opciones": [
+            "¿En su conclusión se evidencia cómo comprobaron qué gas se produjo en la reacción?",
+            "¿En su conclusión se evidencia la relación entre su hipótesis y los resultados de su indagación?",
+            "¿En su conclusión se evidencia que comprenden cómo la catalasa descompone el peróxido de hidrógeno en oxígeno y agua?"
+          ],
+          "respuesta": "¿En su conclusión se evidencia la relación entre su hipótesis y los resultados de su indagación?",
+          "respuestaCorta": "La pregunta es pertinente porque la conclusión de los estudiantes es una afirmación general y no responde a su pregunta de investigación, que era comparar la actividad de la enzima en diferentes partes de la planta.",
+          "solucionario": "Una conclusión científica debe responder directamente a la hipótesis o pregunta de investigación, basándose en los resultados obtenidos. La hipótesis de los estudiantes era comparar la actividad de la catalasa en el tallo versus las hojas. Su conclusión, sin embargo, es una simple definición de la función de la catalasa, que no menciona la comparación ni los resultados que obtuvieron. La pregunta de la opción B es la más adecuada para la retroalimentación porque los orienta a darse cuenta de que su conclusión debe establecer un vínculo directo entre su hipótesis inicial y la evidencia que recogieron, respondiendo si encontraron o no una diferencia de actividad entre las partes de la planta.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p22",
+      "contexto": "A continuación, se muestran los resultados de un estudio sobre la catalasa:",
+      "imagen": "img/ascenso/secundaria/2019/20.jpg",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es la variable dependiente del estudio?",
+          "opciones": [
+            "La actividad enzimática.",
+            "El tipo de catalasa.",
+            "La temperatura."
+          ],
+          "respuesta": "La actividad enzimática.",
+          "respuestaCorta": "La actividad enzimática es la variable que se mide (en el eje Y) como resultado de cambiar la temperatura (variable independiente en el eje X).",
+          "solucionario": "En la gráfica presentada, se muestra cómo cambia una variable en función de otra. La variable que se manipula o se cambia intencionadamente es la variable independiente, que convencionalmente se ubica en el eje X (en este caso, la Temperatura). La variable que se mide para observar el efecto de dicho cambio es la variable dependiente, que se ubica en el eje Y (en este caso, la Actividad enzimática). Por lo tanto, la actividad enzimática es la variable dependiente.",
+          "seccion": "Conocimientos Pedagógicos"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p23",
+      "contexto": "Una docente ha diseñado una unidad didáctica que tiene como propósito que los estudiantes comprendan la importancia de mantener un equilibrio hídrico y de electrolitos para la salud.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Durante una sesión de aprendizaje, la docente comenta a los estudiantes que una radio ha organizado el siguiente concurso:<br>\nLa persona que pueda beber la mayor cantidad de agua sin ir al baño... ¡ganará una laptop!\nLuego, les formula la siguiente pregunta:\n¿Creen que es riesgoso para los participantes del concurso beber mucha agua sin evacuar? ¿Por qué?,  ¿Cuál de los siguientes estudiantes responde correctamente a la pregunta formulada por la docente? ",
+          "opciones": [
+            "Piero: Pienso que es un problema porque perderían una gran cantidad de electrolitos y nutrientes de sus células.",
+            "Ybeth: Me parece que sí es peligroso porque sus células empezarían a llenarse de agua y crecer y crecer, y alterar así su función.",
+            "José: Yo creo que el concurso es seguro porque el agua sirve para hidratarnos y limpiar nuestro organismo, no tiene nada tóxico."
+          ],
+          "respuesta": "Ybeth: Me parece que sí es peligroso porque sus células empezarían a llenarse de agua y crecer y crecer, y alterar así su función.",
+          "respuestaCorta": "Ybeth describe correctamente el mecanismo de la intoxicación por agua, donde la ósmosis hace que el agua entre en las células, provocando que se hinchen y dañen.",
+          "solucionario": "La respuesta de Ybeth es la correcta porque explica el fenómeno de la hiponatremia o intoxicación hídrica. Al beber cantidades excesivas de agua, la concentración de solutos (como el sodio) en el plasma sanguíneo disminuye drásticamente. Por el proceso de ósmosis, el agua se mueve de una zona de menor concentración de solutos (la sangre) a una de mayor concentración (el interior de las células). Esto provoca que las células se hinchen (edema celular), lo cual es especialmente peligroso en el cerebro, pudiendo causar daños graves e incluso la muerte. La respuesta de Piero es incorrecta (no se pierden electrolitos, se diluyen) y la de José es ingenua y errónea.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Ricardo, uno de los estudiantes, mencionó en clase que encontró la siguiente información:\n\"Cuando un glóbulo rojo se encuentra en una solución de menor concentración de soluto que la que hay en su interior, este aumenta su volumen y puede explotar\".\n¿Qué característica de los glóbulos rojos hace que puedan explotar en la situación planteada por Ricardo?",
+          "opciones": [
+            "Carecer de pared celular.",
+            "Carecer de núcleo celular.",
+            "Carecer de membrana celular."
+          ],
+          "respuesta": "Carecer de pared celular.",
+          "respuestaCorta": "A diferencia de las células vegetales, las células animales como los glóbulos rojos no tienen una pared celular rígida que las proteja de la lisis (ruptura) cuando entra demasiada agua por ósmosis.",
+          "solucionario": "El fenómeno descrito es la lisis osmótica en una solución hipotónica. El agua ingresa al glóbulo rojo para equilibrar la concentración de solutos. Las células animales están delimitadas únicamente por una membrana plasmática flexible. No poseen la pared celular rígida que sí tienen las células vegetales, la cual ejerce una contrapresión (presión de turgencia) que evita que la célula estalle. Al carecer de esta pared celular, la membrana del glóbulo rojo no puede soportar el aumento de presión interna y finalmente se rompe (hemólisis).",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    
+    {
+      "idGrupo": "asc_secundaria_2019_p23",
+      "contexto": "Una docente ha diseñado una unidad didáctica que tiene como propósito que los estudiantes comprendan la importancia de mantener un equilibrio hídrico y de electrolitos para la salud.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué tipo de tonicidad debe tener una solución de cloruro de sodio para ser empleada en la dilución de medicamentos que van a ser aplicados vía intravenosa?",
+          "opciones": [
+            "Isotónica.",
+            "Hipotónica.",
+            "Hipertónica."
+          ],
+          "respuesta": "Isotónica.",
+          "respuestaCorta": "La solución debe ser isotónica para tener la misma concentración de solutos que el plasma sanguíneo y así evitar que los glóbulos rojos se dañen por ósmosis.",
+          "solucionario": "Para aplicaciones intravenosas, es crucial que la solución inyectada sea isotónica con respecto al plasma sanguíneo. Una solución isotónica tiene la misma concentración de solutos que el interior de las células (como los glóbulos rojos). Esto asegura que no habrá un movimiento neto de agua a través de la membrana celular, manteniendo la forma y función de las células. Si la solución fuera hipotónica, el agua entraría en los glóbulos rojos y los haría estallar (hemólisis). Si fuera hipertónica, el agua saldría de los glóbulos rojos, haciendo que se encojan y arruguen (crenación).",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p24",
+      "contexto": null,
+      "imagen": "img/ascenso/secundaria/2019/21.jpg",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes modelos representa el proceso de ósmosis?",
+          "opciones": [
+            "a",
+            "b",
+            "c"
+          ],
+          "respuesta": "b",
+          "respuestaCorta": "El modelo 'b' muestra correctamente la ósmosis: el movimiento del solvente (puntos negros) a través de una membrana semipermeable desde una zona de menor a mayor concentración de soluto.",
+          "solucionario": "La ósmosis es el movimiento neto de moléculas de un solvente (generalmente agua) a través de una membrana semipermeable desde una región de alta concentración de solvente (baja concentración de soluto) hacia una región de baja concentración de solvente (alta concentración de soluto). El modelo 'a' muestra el movimiento del soluto, que es difusión, no ósmosis. El modelo 'c' no muestra un cambio neto. El modelo 'b' es el único que representa correctamente la ósmosis, mostrando que las partículas del solvente (los puntos negros pequeños que pueden pasar por la membrana) se han movido desde el lado con menos soluto hacia el lado con más soluto para intentar igualar las concentraciones.",
+          "seccion": "Conocimientos Pedagógicos"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p25",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes afirmaciones sobre las vacunas, en general, es correcta?",
+          "opciones": [
+            "Producen una respuesta similar a la generada naturalmente por las enfermedades, pero más leve.",
+            "Se puede prescindir de ellas cuando las medidas de higiene, saneamiento y alimentación son adecuadas.",
+            "Son innecesarias para aquellas enfermedades que no se han presentado en la población por una década o más."
+          ],
+          "respuesta": "Producen una respuesta similar a la generada naturalmente por las enfermedades, pero más leve.",
+          "respuestaCorta": "Las vacunas introducen antígenos para estimular al sistema inmune a crear una memoria inmunológica, similar a la enfermedad real pero sin causar sus síntomas graves.",
+          "solucionario": "El principio de la vacunación es exponer al cuerpo a un antígeno (una versión muerta, debilitada o una parte del patógeno) que no causa la enfermedad, pero que es suficiente para que el sistema inmunológico lo reconozca. El cuerpo entonces genera una respuesta inmune primaria y crea células de memoria. Si la persona se expone al patógeno real en el futuro, el sistema inmunitario puede montar una respuesta secundaria rápida y eficaz, previniendo la enfermedad. Por lo tanto, la respuesta es 'similar' a la de una infección natural pero 'más leve' o sin los riesgos asociados. Las otras opciones son incorrectas; la higiene no reemplaza la inmunidad y las enfermedades pueden reemerger si se detiene la vacunación.",
+          "seccion": "Conocimientos Pedagógicos"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p26",
+      "contexto": "Miguel, un estudiante, lleva al aula el siguiente recorte periodístico:\n\nMiguel muestra el recorte periodístico a sus compañeros y a la docente en clase, y menciona que está muy preocupado por uno de sus amigos que trabaja en el área de limpieza del centro de salud, pues, diariamente, debe pasar por un área en la que hay muchas personas con tuberculosis.",
+      "imagen": "img/ascenso/secundaria/2019/22.jpg",
+      "preguntas": [
+        {
+          "pregunta": "Carla, otra estudiante, comenta lo siguiente:\n\"Cuando nació mi hermanito, la primera vacuna que le pusieron en su bracito fue la vacuna contra la tuberculosis. Todos deberíamos ser vacunados al nacer, pero creo que, aunque es posible que el amigo de Miguel ya haya contraído la tuberculosis, está a tiempo de vacunarse, si aún no lo ha hecho, porque igual lo puede ayudar\".\n¿Cuál es el error que se evidencia en el comentario de Carla?",
+          "opciones": [
+            "Creer que la vacuna puede curar o tratar la tuberculosis.",
+            "Creer que una persona adulta puede vacunarse contra la tuberculosis.",
+            "Creer que todos los recién nacidos deben ser vacunados contra la tuberculosis."
+          ],
+          "respuesta": "Creer que la vacuna puede curar o tratar la tuberculosis.",
+          "respuestaCorta": "El error de Carla es pensar que una vacuna puede usarse como tratamiento para una enfermedad ya contraída; las vacunas son preventivas, no curativas.",
+          "solucionario": "Las vacunas son una medida profiláctica, es decir, su función es prevenir enfermedades, no curarlas. Actúan preparando al sistema inmunológico para un futuro encuentro con el patógeno. El comentario de Carla es erróneo porque sugiere que la vacuna puede 'ayudar' a alguien que 'ya haya contraído la tuberculosis'. Una vez que una persona está enferma, necesita un tratamiento (en este caso, antibióticos), no una vacuna. La vacuna no tiene efecto terapéutico sobre una infección activa.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "La docente pide a los estudiantes que lean la sección de la infografía que corresponde a los tipos de tuberculosis según su resistencia, y les pregunta a qué creen que se deba la existencia de cepas resistentes.\n¿Cuál de los siguientes estudiantes identifica la causa principal de la proliferación de cepas resistentes de tuberculosis?",
+          "opciones": [
+            "Adelí: Yo pienso que existen naturalmente diferentes variedades de bacilos de tuberculosis, y algunos son más fuertes que otros. Las personas no tienen la culpa.",
+            "Bernardo: A mí me parece que se sufre de esta enfermedad porque hay zonas donde hace mucho frío y la gente no se abriga bien; entonces, es más propensa a sufrir de tuberculosis.",
+            "Cecilia: Yo creo que existen porque cuando la gente se enferma de tuberculosis, va al centro de salud y toma medicamentos por unas semanas, pero, luego, los deja cuando se siente mejor."
+          ],
+          "respuesta": "Cecilia: Yo creo que existen porque cuando la gente se enferma de tuberculosis, va al centro de salud y toma medicamentos por unas semanas, pero, luego, los deja cuando se siente mejor.",
+          "respuestaCorta": "Cecilia identifica correctamente que el abandono o cumplimiento inadecuado del tratamiento antibiótico es la causa principal de la selección y proliferación de cepas resistentes.",
+          "solucionario": "La resistencia a los antibióticos es un fenómeno de selección natural. Cuando una persona no completa su tratamiento, los antibióticos eliminan a las bacterias más susceptibles, pero las que son naturalmente un poco más resistentes pueden sobrevivir. Estas sobrevivientes se reproducen, creando una nueva población de bacterias que es mayoritariamente resistente al medicamento. Cecilia describe precisamente este escenario: tomar los medicamentos solo hasta sentirse mejor, sin completar el ciclo completo, es la principal causa del desarrollo de cepas resistentes como la TB-MDR y TB-XDR. La explicación de Adelí es incompleta y la de Bernardo confunde factores de riesgo con la causa de la resistencia.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Qué tipo de organismo es el bacilo de Koch?",
+          "opciones": [
+            "Un virus.",
+            "Un hongo.",
+            "Una bacteria."
+          ],
+          "respuesta": "Una bacteria.",
+          "respuestaCorta": "El bacilo de Koch, cuyo nombre científico es Mycobacterium tuberculosis, es el agente causal de la tuberculosis y es una bacteria.",
+          "solucionario": "El agente causal de la tuberculosis es Mycobacterium tuberculosis, comúnmente conocido como bacilo de Koch en honor a su descubridor, Robert Koch. Por su estructura celular (procariota, con pared celular de peptidoglicano y sin núcleo definido), morfología (forma de bastón o bacilo) y metabolismo, se clasifica inequívocamente como una bacteria.",
+          "seccion": "Conocimientos Pedagógicos"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p27",
+      "contexto": "Un docente tiene como propósito promover aprendizajes en los estudiantes vinculados con la clasificación de organismos en reinos de la naturaleza. Para ello, pide a los estudiantes que se organicen en equipos para realizar la siguiente actividad:",
+      "imagen": "img/ascenso/secundaria/2019/23.jpg",
+      "preguntas": [
+        {
+          "pregunta": "Sin embargo, le comentan al docente que no saben qué característica usar para la primera separación del esquema.¿Cuál de las siguientes preguntas es pertinente que les plantee el docente para ayudarlos a seleccionar dicha característica?",
+          "opciones": [
+            "¿Cuál de las características de su tabla se cumple para todos los Pisqu?",
+            "¿Cuál de las características de su tabla se cumple solo para cuatro de los cinco Pisqu?",
+            "¿Cuál de las características de su tabla se cumple, por lo menos, para dos de los Pisqu?"
+          ],
+          "respuesta": "¿Cuál de las características de su tabla se cumple solo para cuatro de los cinco Pisqu?",
+          "respuestaCorta": "Una clave dicotómica eficiente a menudo comienza separando un individuo o un grupo pequeño del resto. La característica 'Pico grueso' separa al grupo en 4 y 1, siendo un punto de partida ideal.",
+          "solucionario": "El objetivo de una clave dicotómica es dividir un grupo de organismos en dos subgrupos en cada paso. Para la primera separación, se busca una característica que divida al grupo grande (de 5 individuos) de la manera más efectiva posible. La pregunta de la opción B es la más útil porque orienta a los estudiantes a buscar una característica que aísle a un individuo o a un grupo pequeño. En su tabla, la característica 'Pico grueso' está presente en 4 de los 5 Pisqu. Usar esta característica en la primera bifurcación separaría eficazmente al Pisqu 4 del resto del grupo, lo cual es un excelente primer paso para construir la clave.",
+          "seccion": "Casuística"
+        },
+        {
+          "imagen": "img/ascenso/secundaria/2019/24.jpg",
+            "pregunta": "A continuación, se presenta el trabajo de otro equipo de estudiantes: Teniendo en cuenta las características identificadas por este equipo de estudiantes, ¿cuál de los siguientes es un error de su esquema?",
+          
+          "opciones": [
+            "Separar los Pisqu 1 y 2.",
+            "Separar los Pisqu 2 y 3.",
+            "Separar el Pisqu 4 del resto."
+          ],
+          "respuesta": "Separar los Pisqu 1 y 2.",
+          "respuestaCorta": "Según la tabla del equipo, los Pisqu 1 y 2 comparten exactamente las mismas características, por lo que no pueden ser separados entre sí con los datos que tienen.",
+          "solucionario": "El esquema de separación (cladograma) debe basarse en las características observables de la tabla. Al analizar la tabla de este equipo, se observa que los individuos Pisqu 1 y Pisqu 2 tienen exactamente las mismas marcas en todas las filas de características (pico ancho, patas largas, 3 dedos, dientes). Esto significa que, con la información que han recopilado, estos dos individuos son indistinguibles. Por lo tanto, el error en su esquema es intentar separarlos, ya que no tienen ninguna característica diferencial que justifique esa separación.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p28",
+      "contexto": "Como parte de una unidad didáctica, un docente solicita a los estudiantes que formen equipos de trabajo para realizar una indagación que les permita responder a las siguientes preguntas:<br>\n¿Qué es la levadura? ¿Es un ser vivo?<br>\nA continuación, se presenta el diálogo entre el docente y un equipo de estudiantes:<br>\nMarcela: Yo he visto que en mi casa a veces usan levadura en polvo y, otras, levadura en barra. Y como no se mueven ni comen no creo que sean seres vivos.\nDocente: (El docente sabe que lo que se vende como \"levadura en polvo\" es, en realidad, una sal). Es una hipótesis interesante. ¿Cómo podríamos comprobarla?\nInés: Pero yo creo que la levadura en barra sí es un ser vivo, porque he visto que cuando se usa esta levadura para hacer picarones y le agregan azúcar a la masa, la masa se levanta, o sea, que la levadura se come el azúcar y produce algo que levanta la masa.\nMarcela: Entonces, podríamos probar si las levaduras están vivas o no haciendo masa para picarones, una con levadura en polvo y otra con levadura en barra. Si la masa se levanta, sabremos que sí son seres vivos y, si la masa no se levanta, entonces no son seres vivos.\nJorge: Mejor disolvemos azúcar en agua y agregamos levadura en barra en una botella y, en el pico, le ponemos un globo, porque he visto que usan globos para atrapar el gas que se produce. En otra botella, hacemos lo mismo, pero con levadura en polvo. Así, sabremos cuál de ellas está viva.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes preguntas es pertinente para retroalimentar a Marcela respecto de la necesidad de controlar algunas variables en su propuesta de indagación?",
+          "opciones": [
+            "¿Qué instrumentos emplearás para medir el tiempo que demora en levantarse la masa para picarones?",
+            "¿Cuáles serán las evidencias que te permitirán comprobar que, efectivamente, las levaduras son seres vivos o no?",
+            "¿Los otros ingredientes o el método de preparación de la masa para picarones pueden ocasionar también que la masa se levante?"
+          ],
+          "respuesta": "¿Los otros ingredientes o el método de preparación de la masa para picarones pueden ocasionar también que la masa se levante?",
+          "respuestaCorta": "Esta pregunta orienta a Marcela a pensar en otras variables (ingredientes, método) que podrían afectar el resultado, destacando la necesidad de controlarlas.",
+          "solucionario": "La propuesta de Marcela (hacer masa para picarones) introduce muchas variables que no están controladas (cantidad de harina, agua, azúcar, temperatura, amasado, etc.). La pregunta de la opción C es la más pertinente porque le ayuda a Marcela a reflexionar sobre la existencia de estas otras variables (intervinientes). Al hacerle pensar si otros factores podrían hacer que la masa se levante, el docente la está guiando hacia la necesidad de diseñar un experimento más simple y controlado, donde la única diferencia sea el tipo de 'levadura' utilizada, como sugiere Jorge.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Cuál es la variable dependiente de la indagación planteada por Jorge?",
+          "opciones": [
+            "El tipo de levadura.",
+            "La producción de gas.",
+            "La presencia de azúcar."
+          ],
+          "respuesta": "La producción de gas.",
+          "respuestaCorta": "En el experimento de Jorge, lo que se mide como resultado es la producción de gas (evidenciada por el inflado del globo), por lo tanto, es la variable dependiente.",
+          "solucionario": "En la propuesta de Jorge, la variable que él manipula intencionadamente es 'el tipo de levadura' (en polvo vs. en barra), que es la variable independiente. La variable que él va a observar y medir para ver el resultado del experimento es si el globo se infla, lo cual es una medida de 'la producción de gas'. Por lo tanto, la producción de gas es la variable dependiente, ya que su valor 'depende' del tipo de levadura que se utilice.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Los estudiantes llevaron a cabo la propuesta de Jorge y observaron que ambos globos se inflaron. A partir de ello, concluyeron que tanto la levadura en barra como la levadura en polvo son seres vivos.\nEl docente identifica que los estudiantes deben realizar un ajuste en su plan de indagación, pues la \"levadura en polvo\" no es un ser vivo.\n¿Qué procedimiento deben incluir los estudiantes en su indagación para que cuestionen su conclusión?",
+          "opciones": [
+            "Realizar los experimentos planteados, pero esta vez no utilizar azúcar.",
+            "Realizar los experimentos planteados, pero esta vez emplear agua a mayor temperatura.",
+            "Realizar los experimentos planteados, pero esta vez disolver bien la levadura antes de colocar los globos."
+          ],
+          "respuesta": "Realizar los experimentos planteados, pero esta vez no utilizar azúcar.",
+          "respuestaCorta": "Al quitar el azúcar, la levadura (ser vivo) no podrá fermentar y no producirá gas, mientras que la levadura química (no viva) podría seguir reaccionando con el agua, lo que permitiría diferenciar los procesos.",
+          "solucionario": "La conclusión de los estudiantes es errónea porque la 'levadura en polvo' (que el docente sabe que es un agente leudante químico, como el bicarbonato) produce gas por una reacción química con el agua o un ácido, no por un proceso biológico que requiera azúcar como alimento. La levadura real (en barra) necesita azúcar para realizar la fermentación y producir gas. Por lo tanto, el procedimiento más adecuado para que los estudiantes cuestionen su conclusión es repetir el experimento sin azúcar. En esta nueva condición, el globo de la levadura en barra no se inflará (o lo hará mínimamente), mientras que el de la levadura química probablemente sí lo haga, demostrando que los mecanismos de producción de gas son diferentes y que el azúcar es necesario para la actividad del ser vivo.",
+          "seccion": "Casuística"
+        },
+        {
+          "imagen": "img/ascenso/secundaria/2019/25.jpg",
+            "pregunta": "¿Cuál de los siguientes gráficos es una representación adecuada de los gases al interior del sistema cuando termina la reacción planteada por los estudiantes en su indagación?",
+          "opciones": [
+            "a",
+            "b",
+            "c"
+          ],
+          "respuesta": "b",
+          "respuestaCorta": "El gas producido por la fermentación de la levadura (CO₂) y los gases del aire inicial se mezclarán de forma homogénea, ocupando todo el volumen del globo y la botella.",
+          "solucionario": "La levadura realiza la fermentación alcohólica, produciendo dióxido de carbono (CO₂) y etanol. El CO₂ es un gas que llenará el globo. Inicialmente, la botella contiene aire (una mezcla de gases, principalmente N₂ y O₂). Al producirse el CO₂, este nuevo gas se mezclará con el aire que ya estaba en la botella. Debido a la propiedad de difusión de los gases, las partículas de todos los gases (N₂, O₂, CO₂) se moverán aleatoriamente hasta distribuirse de manera uniforme y homogénea por todo el volumen disponible (el interior de la botella y el globo). La opción 'b' es la que mejor representa esta mezcla homogénea de partículas de gas.",
+          "seccion": "Casuística"
+        }
+      ]
+    }
+
+  ]
+}
+  
