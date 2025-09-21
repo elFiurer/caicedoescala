@@ -350,18 +350,23 @@ document.addEventListener('DOMContentLoaded', () => {
 
         // --- 3. LÓGICA DE BOTONES ESPECÍFICOS (en el cuerpo de la página de inicio) ---
         // --- 3. LÓGICA DE BOTONES ESPECÍFICOS (en el cuerpo de la página de inicio) ---
+        // --- 3. LÓGICA DE BOTONES ESPECÍFICOS (en el cuerpo de la página de inicio) ---
         const ctaBtn = document.getElementById('cta-btn');
         if (ctaBtn) { // Solo si estamos en una página que tiene este botón
+            // 1. Clonamos el botón. Esto crea una copia exacta pero SIN los event listeners (órdenes) anteriores.
+            const ctaBtnLimpio = ctaBtn.cloneNode(true);
+            // 2. Reemplazamos el botón viejo y "sucio" por nuestro clon limpio en la página.
+            ctaBtn.parentNode.replaceChild(ctaBtnLimpio, ctaBtn);
+
+            // 3. Ahora, trabajamos ÚNICAMENTE con el botón limpio (ctaBtnLimpio).
             if (user) {
-                ctaBtn.innerText = "Ir a mis exámenes";
-                // CAMBIO AQUÍ: Usamos addEventListener en lugar de onclick
-                ctaBtn.addEventListener('click', () => {
+                ctaBtnLimpio.innerText = "Ir a mis exámenes";
+                ctaBtnLimpio.addEventListener('click', () => {
                     window.location.href = 'examenes.html';
                 });
             } else {
-                ctaBtn.innerText = "Empieza a Practicar Gratis";
-                // CAMBIO AQUÍ: Usamos addEventListener en lugar de onclick
-                ctaBtn.addEventListener('click', () => {
+                ctaBtnLimpio.innerText = "Empieza a Practicar Gratis";
+                ctaBtnLimpio.addEventListener('click', () => {
                     openModal();
                 });
             }
