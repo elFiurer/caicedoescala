@@ -1258,7 +1258,89 @@ h2 { font-size: 28px; }
 .nav-question-btn {
     flex-shrink: 0; /* Evita que los botones se encojan */
 }
+/* ============================================ */
+/* 4. PÁGINA DE MODO PRÁCTICA                 */
+/* ============================================ */
 
+/* Apila el título del examen y el temporizador */
+.practice-header {
+    flex-direction: column;
+    align-items: flex-start; /* Alinea todo a la izquierda */
+    gap: 10px;
+    margin-bottom: 30px; /* Más espacio debajo */
+}
+
+/* Apila los botones de "Finalizar" y "Siguiente" */
+.navigation-buttons {
+    flex-direction: column-reverse; /* Ponemos "Siguiente" arriba, que es más importante */
+    gap: 15px;
+    width: 100%;
+}
+
+.navigation-buttons .btn-cta, .navigation-buttons .btn-secondary {
+    width: 100%; /* Hacemos que los botones ocupen todo el ancho */
+}
+/* ============================================ */
+/* 5. PÁGINA DEL DASHBOARD                    */
+/* ============================================ */
+
+/* Hacemos que las tarjetas de resumen (KPIs) se pongan en 2 columnas */
+.kpi-container {
+    grid-template-columns: 1fr 1fr; /* Dos columnas de igual tamaño */
+}
+
+/* Apilamos los filtros de examen y orden */
+.dashboard-controls {
+    flex-direction: column;
+}
+
+/* La magia para que la tabla no rompa el diseño */
+.history-table-container {
+    overflow-x: auto; /* AÑADE UNA BARRA DE SCROLL HORIZONTAL SI LA TABLA ES MUY ANCHA */
+    -webkit-overflow-scrolling: touch; /* Deslizamiento suave en iOS */
+}
+/* ============================================ */
+/* 6. PÁGINA DE RESULTADOS                    */
+/* ============================================ */
+
+/* Hacemos la cuadrícula de resumen de 2x2 */
+.summary-grid, .summary-cards-grid {
+    grid-template-columns: 1fr 1fr; /* Dos columnas */
+}
+
+/* Hacemos los números un poco más pequeños para que quepan bien */
+.summary-item p, .summary-card-item p {
+    font-size: 28px;
+}
+
+/* Apilamos los botones de acción si hay varios */
+.results-actions {
+    flex-direction: column;
+}
+.results-actions .btn-cta, .results-actions .btn-secondary, .results-actions .btn-retry {
+    width: 100%;
+}
+/* ============================================ */
+/* 7. PÁGINA DE INICIO (INDEX)                */
+/* ============================================ */
+
+/* Hacemos que la sección de características sea de una sola columna */
+.features-grid {
+    grid-template-columns: 1fr;
+}
+/* ============================================ */
+/* 8. ARREGLO FINAL PARA IMÁGENES RESPONSIVAS */
+/* ============================================ */
+
+/* Esta regla se aplica a CUALQUIER imagen dentro del contenido
+   del simulacro, práctica o resultados en pantallas móviles. */
+.exam-content img,
+.question-card img,
+.result-item img {
+    max-width: 100%;  /* La imagen nunca será más ancha que su contenedor */
+    height: auto;     /* Mantiene la proporción correcta de alto y ancho */
+    display: block;   /* Evita espacios extra debajo de la imagen */
+}
 
 }
 
