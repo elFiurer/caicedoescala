@@ -1170,10 +1170,96 @@ body {
 
 /* --- Diseño Adaptable para Móviles --- */
 @media (max-width: 768px) {
-    .filters-container {
-        grid-template-columns: 1fr;
-        /* Una columna en pantallas pequeñas */
-    }
+    /* ============================================ */
+/* 1. ESTILOS GENERALES Y NAVEGACIÓN          */
+/* ============================================ */
+
+/* Hacemos que el contenido principal tenga menos espacio a los lados en móvil */
+.container {
+    padding: 0 15px;
+}
+
+/* Hacemos los títulos un poco más pequeños */
+h1 { font-size: 38px; }
+h2 { font-size: 28px; }
+
+/* --- Arreglos para la Barra de Navegación --- */
+.main-nav {
+    flex-direction: column; /* Apila el logo y los links */
+    align-items: flex-start; /* Alinea todo a la izquierda */
+    gap: 15px; /* Espacio entre logo y links */
+}
+
+/* Ocultamos el menú de enlaces por defecto en móvil */
+.nav-links {
+    display: none; /* LO OCULTAREMOS POR AHORA. Más adelante se puede hacer un menú de hamburguesa. */
+}
+
+/* Hacemos que el perfil de usuario ocupe todo el ancho */
+.user-profile {
+    width: 100%;
+    justify-content: space-between;
+}
+/* ============================================ */
+/* 2. PÁGINA DE LISTA DE EXÁMENES             */
+/* ============================================ */
+
+.examen-card {
+    flex-direction: column; /* Apila el contenido de la tarjeta */
+    align-items: flex-start; /* Alinea todo a la izquierda */
+    gap: 20px; /* Más espacio entre las secciones de la tarjeta */
+}
+
+.examen-details {
+    flex-direction: column; /* Apila "preguntas" y "minutos" */
+    align-items: flex-start;
+    gap: 5px;
+}
+
+.examen-actions {
+    flex-direction: column; /* Apila los botones de "Práctica" y "Simulacro" */
+    width: 100%; /* Ocupa todo el ancho de la tarjeta */
+    gap: 10px; /* Espacio entre los dos botones */
+}
+/* ============================================ */
+/* 3. PÁGINA DEL SIMULACRO                    */
+/* ============================================ */
+
+/* Ajustamos la cabecera fija del simulacro */
+.sticky-header .main-nav {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+}
+
+.header-right-controls {
+    width: 100%;
+    justify-content: space-between;
+}
+
+.timer-controls {
+    width: 100%;
+    display: flex;
+    justify-content: space-around; /* Distribuye los botones */
+}
+
+.exam-title-container h2 {
+    font-size: 20px; /* Título del examen más pequeño */
+}
+
+/* ¡La magia para el navegador de preguntas! */
+.question-navigator {
+    flex-wrap: nowrap; /* Evita que los botones salten a la siguiente línea */
+    overflow-x: auto; /* PERMITE DESLIZAR HORIZONTALMENTE */
+    padding-bottom: 15px; /* Espacio para la barra de scroll */
+    -webkit-overflow-scrolling: touch; /* Deslizamiento suave en iOS */
+}
+
+.nav-question-btn {
+    flex-shrink: 0; /* Evita que los botones se encojan */
+}
+
+
 }
 
 /* --- Estilos para el Navegador de la Página de Resultados --- */
