@@ -1242,105 +1242,97 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
 
-    // INICIA BLOQUE DE CÓDIGO PARA LA PÁGINA "MI REPASO" (repaso.html)
-    // ========================================================================
-    // REEMPLAZA EL BLOQUE COMPLETO DE LA PÁGINA "MI REPASO"
 
-    // INICIA BLOQUE DE CÓDIGO PARA LA PÁGINA "MI REPASO" (repaso.html)
-    // ========================================================================
-    // Bloque Definitivo para MI REPASO (repaso.html) - Completo y Verificado
-    // ========================================================================
     // INICIA BLOQUE PARA LA PÁGINA "MI REPASO" (REPASO.HTML)
     // ========================================================================
-    // ========================================================================
-    // INICIA BLOQUE PARA LA PÁGINA "MI REPASO" (REPASO.HTML)
-    // ========================================================================
+
+    // ▼▼▼ REEMPLAZA EL BLOQUE COMPLETO DE LA PÁGINA "MI REPASO" CON ESTA VERSIÓN FINAL ▼▼▼
     if (document.getElementById('lista-repaso')) {
-
-        // --- GUARDIÁN DE AUTENTICACIÓN SIMPLE ---
-        // --- GUARDIÁN DE AUTENTICACIÓN MEJORADO ---
         inicializarPaginaRepaso = (user) => {
             const listaRepasoContainer = document.getElementById('lista-repaso');
             const flashcardModalOverlay = document.getElementById('flashcard-modal-overlay');
             let mazoRepaso = JSON.parse(localStorage.getItem('mazoRepaso')) || [];
 
+            // --- FUNCIÓN MEJORADA PARA RENDERIZAR LA LISTA ---
+            // Esta función ahora respeta el orden original del mazo (el más reciente primero)
+            // y es más eficiente al no repetir peticiones de red.
             const renderizarListaRepaso = async () => {
                 if (!listaRepasoContainer) return;
-                listaRepasoContainer.innerHTML = '';
+                listaRepasoContainer.innerHTML = '<h3>Mis Preguntas Guardadas</h3>';
 
                 if (mazoRepaso.length === 0) {
-                    listaRepasoContainer.innerHTML = `<h3>Mi Mazo de Repaso</h3><p class="no-results">Aún no has guardado ninguna pregunta. Ve a la sección de resultados de un examen para guardarlas.</p>`;
-                } else {
-                    listaRepasoContainer.innerHTML = '<h3>Mis Preguntas Guardadas</h3>';
-
-                    // 1. Agrupamos las preguntas por examen para no repetir peticiones
-                    const preguntasAgrupadas = mazoRepaso.reduce((acc, pregunta) => {
-                        if (!acc[pregunta.examenId]) {
-                            acc[pregunta.examenId] = [];
-                        }
-                        acc[pregunta.examenId].push(pregunta);
-                        return acc;
-                    }, {});
-
-                    const todosLosExamenes = await getTodosLosExamenes();
-                    const fragmentoHTML = document.createDocumentFragment();
-
-                    // 2. Iteramos sobre los exámenes únicos, no sobre cada pregunta
-                    for (const examenId in preguntasAgrupadas) {
-                        const examData = todosLosExamenes.find(e => e.id == examenId);
-                        if (!examData) continue;
-
-                        // Pedimos el banco de preguntas UNA SOLA VEZ por examen
-                        const examQuestionSets = await getBancoDePreguntas(examenId);
-                        if (!examQuestionSets) continue;
-
-                        const preguntasDeEsteExamen = preguntasAgrupadas[examenId];
-
-                        // 3. Procesamos todas las preguntas guardadas para este examen
-                        for (const preguntaGuardada of preguntasDeEsteExamen) {
-                            const seccionNormalizada = normalizarTexto(preguntaGuardada.seccion);
-                            const claveCorrecta = Object.keys(examQuestionSets).find(k => normalizarTexto(k) === seccionNormalizada);
-                            const bloques = claveCorrecta ? examQuestionSets[claveCorrecta] : [];
-
-                            let flatExamQuestions = [];
-                            bloques.forEach(b => flatExamQuestions.push(...(b.preguntas || [])));
-                            const preguntaCompleta = flatExamQuestions[preguntaGuardada.indice];
-
-                            if (preguntaCompleta) {
-                                const itemPregunta = document.createElement('div');
-                                itemPregunta.classList.add('repaso-item');
-                                itemPregunta.dataset.idUnico = preguntaGuardada.idUnico;
-                                itemPregunta.innerHTML = `
-                    <div class="repaso-pregunta-texto">${preguntaCompleta.pregunta}</div>
-                    <div class="repaso-pregunta-origen">${examData.proceso} ${examData.anio} - ${examData.especialidad}</div>
-                    <button class="btn-eliminar-repaso" title="Eliminar de mi repaso" data-id-unico="${preguntaGuardada.idUnico}">🗑️</button>
-                    `;
-                                fragmentoHTML.appendChild(itemPregunta);
-                            }
-                        }
-                    }
-                    // Invertimos el orden al final para mostrar las más recientes primero
-                    listaRepasoContainer.appendChild(fragmentoHTML);
+                    listaRepasoContainer.innerHTML += `<p class="no-results">Aún no has guardado ninguna pregunta. Ve a la sección de resultados de un examen para guardarlas.</p>`;
+                    document.getElementById('loader').style.display = 'none';
+                    document.getElementById('main-content').classList.remove('content-hidden');
+                    return;
                 }
 
+                const todosLosExamenes = await getTodosLosExamenes();
+                const bancosCacheados = {}; // Usamos un caché para no pedir el mismo JSON varias veces
+                const fragmentoHTML = document.createDocumentFragment();
+
+                // CORRECCIÓN DE ORDEN: Iteramos sobre el mazo original, que ya está ordenado
+                for (const preguntaGuardada of mazoRepaso) {
+                    const { examenId, seccion, indice } = preguntaGuardada;
+
+                    // Pedimos el banco de preguntas solo si no lo hemos pedido antes
+                    if (!bancosCacheados[examenId]) {
+                        bancosCacheados[examenId] = await getBancoDePreguntas(examenId);
+                    }
+                    const examQuestionSets = bancosCacheados[examenId];
+                    if (!examQuestionSets) continue;
+
+                    const examData = todosLosExamenes.find(e => e.id == examenId);
+                    if (!examData) continue;
+
+                    const seccionNormalizada = normalizarTexto(seccion);
+                    const claveCorrecta = Object.keys(examQuestionSets).find(k => normalizarTexto(k) === seccionNormalizada);
+                    const bloques = claveCorrecta ? examQuestionSets[claveCorrecta] : [];
+
+                    const flatExamQuestions = bloques.flatMap(b => b.preguntas || []);
+                    const preguntaCompleta = flatExamQuestions[indice];
+
+                    if (preguntaCompleta) {
+                        const itemPregunta = document.createElement('div');
+                        itemPregunta.classList.add('repaso-item');
+                        itemPregunta.dataset.idUnico = preguntaGuardada.idUnico;
+                        itemPregunta.innerHTML = `
+                        <div class="repaso-pregunta-texto">${preguntaCompleta.pregunta}</div>
+                        <div class="repaso-pregunta-origen">${examData.proceso} ${examData.anio} - ${examData.especialidad}</div>
+                        <button class="btn-eliminar-repaso" title="Eliminar de mi repaso" data-id-unico="${preguntaGuardada.idUnico}">🗑️</button>
+                    `;
+                        fragmentoHTML.appendChild(itemPregunta);
+                    }
+                }
+                listaRepasoContainer.appendChild(fragmentoHTML);
                 document.getElementById('loader').style.display = 'none';
                 document.getElementById('main-content').classList.remove('content-hidden');
             };
 
-            const mostrarFlashcard = (pregunta, contextoBloque) => {
+            // --- FUNCIÓN MEJORADA PARA MOSTRAR LA FLASHCARD (CON IMÁGENES Y CONTEXTO) ---
+            const mostrarFlashcard = (pregunta, contextoBloque, imagenBloque) => {
                 let optionsHTML = '';
-                pregunta.opciones.forEach(op => {
+                (pregunta.opciones || []).forEach(op => {
                     optionsHTML += `<div class="option">${op}</div>`;
                 });
-                const contextoFinal = pregunta.contexto || contextoBloque;
+
+                // CORRECCIÓN DE IMAGEN/CONTEXTO: Construimos el contenido previo mostrando la info del CASO primero
                 let contenidoPrevioHTML = '';
-                if (contextoFinal) {
-                    contenidoPrevioHTML += `<div class="flashcard-contexto"><h4>Contexto</h4><p>${contextoFinal.replace(/\n/g, '<br>')}</p></div>`;
+                if (contextoBloque) {
+                    contenidoPrevioHTML += `<div class="flashcard-contexto"><h4>Contexto del Caso</h4><p>${contextoBloque.replace(/\n/g, '<br>')}</p></div>`;
+                }
+                if (imagenBloque) {
+                    contenidoPrevioHTML += `<div class="flashcard-imagen-bloque"><img src="${imagenBloque}" alt="Imagen del caso" class="imagen-examen"></div>`;
+                }
+                // Y luego la info específica de la PREGUNTA (si la tiene)
+                if (pregunta.contexto) {
+                    contenidoPrevioHTML += `<div class="flashcard-contexto-pregunta"><h4>Contexto de la Pregunta</h4><p>${pregunta.contexto.replace(/\n/g, '<br>')}</p></div>`;
                 }
                 const imagenDePregunta = pregunta.imagen || pregunta.Imagen;
                 if (imagenDePregunta) {
                     contenidoPrevioHTML += `<div class="imagen-pregunta-especifica"><img src="${imagenDePregunta}" alt="Imagen de la pregunta" class="imagen-examen"></div>`;
                 }
+
                 flashcardModalOverlay.innerHTML = `
                 <div class="modal-container flashcard-modal">
                     <button class="close-btn" id="flashcard-close-btn">&times;</button>
@@ -1355,6 +1347,8 @@ document.addEventListener('DOMContentLoaded', () => {
                     </div>
                 </div>`;
                 flashcardModalOverlay.classList.add('active');
+
+                // --- Lógica interna de la flashcard (sin cambios, ya funcionaba) ---
                 const options = flashcardModalOverlay.querySelectorAll('.option');
                 const revelarBtn = document.getElementById('revelar-respuesta-btn');
                 const solucionDiv = document.getElementById('flashcard-solucion');
@@ -1385,6 +1379,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 });
             };
 
+            // --- LÓGICA DE EVENTOS (MEJORADA PARA PASAR TODA LA INFO) ---
             listaRepasoContainer.addEventListener('click', async (e) => {
                 const btnEliminar = e.target.closest('.btn-eliminar-repaso');
                 const itemRepaso = e.target.closest('.repaso-item');
@@ -1397,36 +1392,42 @@ document.addEventListener('DOMContentLoaded', () => {
                             localStorage.setItem('mazoRepaso', JSON.stringify(mazoRepaso));
                             renderizarListaRepaso();
                             showToast('Pregunta eliminada.');
-                        })
-                        .catch(() => { /* No hacer nada si cancela */ });
+                        }).catch(() => { });
 
                 } else if (itemRepaso) {
                     const idUnico = itemRepaso.dataset.idUnico;
                     const preguntaGuardada = mazoRepaso.find(p => p.idUnico === idUnico);
                     if (preguntaGuardada) {
                         const examQuestionSets = await getBancoDePreguntas(preguntaGuardada.examenId);
-                        if (!examQuestionSets) {
-                            alert('Error: No se pudo cargar la información de esta pregunta.');
-                            return;
-                        }
+                        if (!examQuestionSets) { showToast('Error: No se pudo cargar la información.'); return; }
+
                         const seccionNormalizada = normalizarTexto(preguntaGuardada.seccion);
                         const claveCorrecta = Object.keys(examQuestionSets).find(k => normalizarTexto(k) === seccionNormalizada);
                         const bloques = claveCorrecta ? examQuestionSets[claveCorrecta] : [];
+
+                        // CORRECCIÓN: Buscamos la pregunta y también la información de su bloque padre
                         let preguntaCompleta = null;
-                        let contextoDeLaPregunta = null;
+                        let contextoDelBloque = null;
+                        let imagenDelBloque = null;
                         let contadorGlobalPreguntas = 0;
+
                         for (const bloque of bloques) {
-                            const preguntasEnBloque = bloque.preguntas ? bloque.preguntas.length : 0;
+                            const preguntasEnBloque = (bloque.preguntas || []).length;
                             if (preguntaGuardada.indice >= contadorGlobalPreguntas && preguntaGuardada.indice < (contadorGlobalPreguntas + preguntasEnBloque)) {
                                 const indiceDentroDelBloque = preguntaGuardada.indice - contadorGlobalPreguntas;
                                 preguntaCompleta = bloque.preguntas[indiceDentroDelBloque];
-                                contextoDeLaPregunta = bloque.contexto;
+                                contextoDelBloque = bloque.contexto;
+                                imagenDelBloque = bloque.imagen || bloque.Imagen; // <-- Obtenemos la imagen del bloque
                                 break;
                             }
                             contadorGlobalPreguntas += preguntasEnBloque;
                         }
+
                         if (preguntaCompleta) {
-                            mostrarFlashcard(preguntaCompleta, contextoDeLaPregunta);
+                            // Pasamos la información extra a la función que muestra la tarjeta
+                            mostrarFlashcard(preguntaCompleta, contextoDelBloque, imagenDelBloque);
+                        } else {
+                            showToast('Error: No se encontró la pregunta. Puede haber sido actualizada.');
                         }
                     }
                 }
@@ -1441,14 +1442,7 @@ document.addEventListener('DOMContentLoaded', () => {
             renderizarListaRepaso();
         };
     }
-    // ========================================================================
-    // FIN DEL BLOQUE PARA LA PÁGINA "MI REPASO"
-    // ========================================================================
-    // ========================================================================
-    // FIN DEL BLOQUE PARA LA PÁGINA "MI REPASO"
-    // ========================================================================
-    // ========================================================================
-    // ========================================================================
+
     // INICIA VIGILANTE GLOBAL PARA ENLACES PROTEGIDOS (VERSIÓN CORREGIDA)
     // ========================================================================
 
