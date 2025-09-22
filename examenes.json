@@ -123,7 +123,8 @@
     "archivos": {
       "especifico": "data/ascenso/primaria/2019/ascenso_primaria_2019.json"
     }
-  },{
+  },
+  {
     "id": 23,
     "proceso": "Ascenso",
     "anio": 2019,
@@ -134,6 +135,19 @@
     "tiempo": 180,
     "archivos": {
       "especifico": "data/ascenso/secundaria/2019/asceso_cyt_2019.json"
+    }
+  },
+  {
+    "id": 24,
+    "proceso": "Ascenso",
+    "anio": 2018,
+    "nivel": "inicial",
+    "especialidad": "inicial",
+    "modalidad": "EBR",
+    "preguntas": 60,
+    "tiempo": 180,
+    "archivos": {
+      "especifico": "data/ascenso/inicial/2018/asecenso_inicial2018.json"
     }
   }
 ]
