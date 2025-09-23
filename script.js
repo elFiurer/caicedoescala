@@ -790,7 +790,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             if (imagenDePregunta) {
                                 contenidoPreguntaHTML += `<div class="imagen-pregunta-especifica"><img src="${imagenDePregunta}" alt="Imagen de la pregunta" class="imagen-examen"></div>`;
                             }
-                            contenidoPreguntaHTML += `<p>${pregunta.pregunta}</p>`;
+                            contenidoPreguntaHTML += `<p>${pregunta.pregunta.replace(/\n/g, '<br>')}</p>`;
 
                             bloqueHTML += `
                                 <div id="question-wrapper-${questionIndex}" class="question-wrapper">
@@ -1055,11 +1055,11 @@ document.addEventListener('DOMContentLoaded', () => {
                         </div>
                         <div class="result-question-content">
                             ${contenidoPreguntaHTML}
-                            <p>${sanitizarHTML(pregunta.pregunta)}</p>
+                            <p>${sanitizarHTML(pregunta.pregunta).replace(/\n/g, '<br>')}</p>
                         </div>
                         <div class="options-container">${optionsHTML}</div>
                         <div class="solucionario">
-                            <p><strong>Solucionario:</strong> ${sanitizarHTML(pregunta.solucionario)}</p>
+                            <p><strong>Solucionario:</strong> ${sanitizarHTML(pregunta.solucionario).replace(/\n/g, '<br>')}</p>
                         </div>
                         <div class="result-item-actions">
                             <button class="btn-repaso" data-exam-id="${examId}" data-seccion="${seccion}" data-index="${preguntaIndex}" title="Guardar esta pregunta en Mi Repaso">💾 Guardar para repasar</button>
@@ -1297,7 +1297,7 @@ document.addEventListener('DOMContentLoaded', () => {
                         itemPregunta.classList.add('repaso-item');
                         itemPregunta.dataset.idUnico = preguntaGuardada.idUnico;
                         itemPregunta.innerHTML = `
-                        <div class="repaso-pregunta-texto">${preguntaCompleta.pregunta}</div>
+                        <div class="repaso-pregunta-texto">${preguntaCompleta.pregunta.replace(/\n/g, '<br>')}</div>
                         <div class="repaso-pregunta-origen">${examData.proceso} ${examData.anio} - ${examData.especialidad}</div>
                         <button class="btn-eliminar-repaso" title="Eliminar de mi repaso" data-id-unico="${preguntaGuardada.idUnico}">🗑️</button>
                     `;
@@ -1338,12 +1338,12 @@ document.addEventListener('DOMContentLoaded', () => {
                     <button class="close-btn" id="flashcard-close-btn">&times;</button>
                     <h3>Pregunta de Repaso</h3>
                     ${contenidoPrevioHTML} 
-                    <p class="flashcard-question-text">${pregunta.pregunta}</p>
+                    <p class="flashcard-question-text">${pregunta.pregunta.replace(/\n/g, '<br>')}</p>
                     <div class="options-container">${optionsHTML}</div>
                     <button class="btn-cta" id="revelar-respuesta-btn">Revelar Respuesta</button>
                     <div class="flashcard-solucion" id="flashcard-solucion">
                         <p><strong>Respuesta Correcta:</strong> ${pregunta.respuesta}</p>
-                        <p><strong>Solucionario:</strong> ${pregunta.solucionario}</p>
+                        <p><strong>Solucionario:</strong> ${pregunta.solucionario.replace(/\n/g, '<br>')}</p>
                     </div>
                 </div>`;
                 flashcardModalOverlay.classList.add('active');
@@ -1656,7 +1656,8 @@ document.addEventListener('DOMContentLoaded', () => {
                     contenidoPreguntaHTML += `<div class="imagen-pregunta-especifica"><img src="${question.imagenPregunta}" alt="Imagen de la pregunta" class="imagen-examen"></div>`;
                 }
                 imgPreguntaContainer.innerHTML = contenidoPreguntaHTML;
-                if (questionTextEl) questionTextEl.innerText = question.pregunta;
+                // DESPUÉS (CORREGIDO)
+if (questionTextEl) questionTextEl.innerHTML = question.pregunta.replace(/\n/g, '<br>');
 
                 if (optionsContainerEl) optionsContainerEl.innerHTML = '';
                 if (question.opciones && Array.isArray(question.opciones)) {
@@ -1689,11 +1690,13 @@ document.addEventListener('DOMContentLoaded', () => {
                 const botonGuardarHTML = `<button class="btn-repaso" data-exam-id="${examId}" data-seccion="${seccion}" data-index="${currentQuestionIndex}">💾 Guardar para repasar</button>`;
                 if (selectedOption === correctOption) {
                     correctas++;
-                    feedbackContainerEl.innerHTML = `<div class="feedback correct">¡Correcto! <br><br> ${solucionario}</div> ${botonGuardarHTML}`;
+                    // DESPUÉS (CORREGIDO)
+feedbackContainerEl.innerHTML = `<div class="feedback correct">¡Correcto! <br><br> ${solucionario.replace(/\n/g, '<br>')}</div> ${botonGuardarHTML}`;
                 } else {
                     incorrectas++;
                     incorrectasArr.push(flatExamQuestions[currentQuestionIndex]);
-                    feedbackContainerEl.innerHTML = `<div class="feedback incorrect">Incorrecto.</div><div class="solucionario"><p><strong>Solucionario:</strong> ${solucionario}</p></div>${botonGuardarHTML}`;
+                    // DESPUÉS (CORREGIDO)
+feedbackContainerEl.innerHTML = `<div class="feedback incorrect">Incorrecto.</div><div class="solucionario"><p><strong>Solucionario:</strong> ${solucionario.replace(/\n/g, '<br>')}</p></div>${botonGuardarHTML}`;
                 }
                 const btnRepaso = feedbackContainerEl.querySelector('.btn-repaso');
                 if (btnRepaso) {
