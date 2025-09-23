@@ -1,0 +1,982 @@
+{
+  "completo": [
+    {
+      "idGrupo": "asc_secundaria_2018_p01",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Una docente desea que sus estudiantes reflexionen sobre prácticas culturales en el Perú en el marco del enfoque intercultural. Para ello, está planificando una unidad didáctica que aborde la fiesta de carnaval. ¿Cuál de las siguientes acciones es más pertinente para desarrollar esta unidad?",
+          "opciones": [
+            "Diseñar sesiones que aborden las fiestas de carnaval más concurridas del país y su beneficio para la difusión de la cultura peruana.",
+            "Diseñar sesiones que aborden las fiestas de carnaval de las comunidades de los estudiantes y su vinculación con los demás carnavales del país.",
+            "Diseñar sesiones que aborden la fiesta de carnaval de la localidad de los estudiantes y su nivel de importancia en relación con otras fiestas de carnaval del país."
+          ],
+          "respuesta": "Diseñar sesiones que aborden las fiestas de carnaval de las comunidades de los estudiantes y su vinculación con los demás carnavales del país.",
+          "respuestaCorta": "La acción más pertinente es vincular el aprendizaje con el contexto de los estudiantes (sus comunidades) y luego conectarlo con un panorama más amplio (el resto del país), promoviendo el diálogo intercultural.",
+          "solucionario": "El enfoque intercultural busca establecer un diálogo horizontal entre culturas. La opción B es la más adecuada porque parte del contexto cultural inmediato y significativo para los estudiantes (sus propias comunidades) para luego establecer puentes y diálogos con otras manifestaciones culturales del país, fomentando una valoración recíproca. Las otras opciones tienden a la comparación jerárquica o se centran en una perspectiva de difusión más que de reflexión intercultural.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2018_p02",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Un docente desea promover la participación de los estudiantes en la construcción de normas que favorezcan la convivencia en el aula. ¿Cuál de las siguientes acciones es más pertinente para este propósito?",
+          "opciones": [
+            "El docente pide a representantes del aula que revisen las normas de convivencia utilizadas el año anterior. Luego, les solicita que planteen alternativas de mejora a estas normas. Por último, les indica que incorporen sus propuestas a las normas de convivencia del aula.",
+            "El docente pregunta a los estudiantes en qué aspectos creen que la convivencia en el aula ha mejorado y en cuáles no. Luego, les pide que planteen metas que les gustaría lograr en su convivencia como grupo. Finalmente, les solicita que propongan normas que ayuden al cumplimiento de esas metas.",
+            "El docente evalúa, junto con el resto del equipo de docentes, el estado actual de la convivencia entre los estudiantes. Luego, pide a los estudiantes que determinen qué aspectos de la convivencia en el aula requieren ser mejorados. Sobre esta base, el docente elabora las nuevas normas de convivencia."
+          ],
+          "respuesta": "El docente pregunta a los estudiantes en qué aspectos creen que la convivencia en el aula ha mejorado y en cuáles no. Luego, les pide que planteen metas que les gustaría lograr en su convivencia como grupo. Finalmente, les solicita que propongan normas que ayuden al cumplimiento de esas metas.",
+          "respuestaCorta": "Para una construcción democrática y significativa de normas, se debe involucrar a todos los estudiantes en el proceso completo: diagnóstico, establecimiento de metas y propuesta de normas.",
+          "solucionario": "La opción B describe un proceso auténticamente participativo y democrático. Involucra a todo el grupo de estudiantes desde la reflexión inicial (diagnóstico), la proyección de un ideal común (metas) y la creación de los mecanismos para alcanzarlo (normas). Esto asegura que las normas sean significativas y aceptadas por todos. En la opción A, la participación se limita a representantes, mientras que en la opción C, la elaboración final de las normas recae solo en el docente, restando protagonismo a los estudiantes.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2018_p03",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Raúl, un estudiante que presenta ceguera, se ha integrado al grupo de primer grado. A pesar de que se realizó un proceso inicial de sensibilización en el grado, los docentes han notado que los estudiantes evitan incorporar a Raúl en sus actividades. Incluso, un docente ha escuchado a un estudiante decir: \"No hagamos grupo con Raúl. Como no ve, pienso que no podrá hacer bien las tareas\". Ante esta situación, los docentes buscan que los estudiantes cuestionen estereotipos en torno a las personas con ceguera. ¿Cuál de las siguientes actividades es pertinente para este propósito?",
+          "opciones": [
+            "Pedir a los estudiantes que, con los ojos vendados, realicen diversas actividades que son cotidianas en la IE como desplazarse en el aula, jugar en el patio, trabajar en equipo, entre otras. Luego, solicitarles que, individualmente, describan cómo se sintieron durante esta experiencia.",
+            "Solicitar a los estudiantes que, a partir de la observación del espacio público, identifiquen las condiciones que tienen que enfrentar las personas con ceguera para movilizarse en la localidad. Luego, pedirles que redacten una propuesta que favorezca su desplazamiento con mejores condiciones.",
+            "Mostrar a los estudiantes resúmenes de biografías de personas que presentan ceguera y que han contribuido en el campo de la ciencia, del arte, entre otros. Luego, orientarlos en el análisis de las características del entorno que influyeron positiva o negativamente para el desarrollo de estas personas."
+          ],
+          "respuesta": "Mostrar a los estudiantes resúmenes de biografías de personas que presentan ceguera y que han contribuido en el campo de la ciencia, del arte, entre otros. Luego, orientarlos en el análisis de las características del entorno que influyeron positiva o negativamente para el desarrollo de estas personas.",
+          "respuestaCorta": "Para cuestionar un estereotipo sobre la capacidad, es efectivo mostrar ejemplos concretos de personas con ceguera que han destacado, analizando cómo el entorno fue un factor clave.",
+          "solucionario": "El propósito es cuestionar directamente el estereotipo de que una persona con ceguera es incapaz de realizar tareas adecuadamente. La opción C ataca este prejuicio al presentar referentes positivos y exitosos, demostrando que la ceguera no es un impedimento para lograr grandes contribuciones. Además, promueve un análisis crítico sobre cómo el entorno puede ser un facilitador o una barrera. La opción A genera empatía, pero no necesariamente cuestiona el estereotipo sobre las capacidades. La opción B se enfoca en la accesibilidad física, no en los prejuicios sobre habilidades.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2018_p04",
+      "contexto": "KOÑICHUYAWASI: Casa Caliente-Limpia\nAño a año, mueren más de 500 personas y se reportan más de 20 mil casos de enfermedades respiratorias en las zonas alto andinas del Perú debido, principalmente, a los siguientes factores: la exposición frecuente al humo nocivo dentro del ambiente donde se ubica la cocina, los cambios bruscos de temperatura y el recrudecimiento del frío nocturno. KOÑICHUYAWASI es un proyecto de un grupo de investigación que busca atender esta problemática mediante: (1) una \"Cocina Mejorada\" que, a diferencia de la cocina tradicional, permite que la persona esté menos expuesta al humo que se produce al cocinar; (2) un \"Sistema Muro Trombe\" que permite aumentar la temperatura de la vivienda hasta en 10° C con respecto al exterior, mediante energía solar, y (3) un \"Techo con Sistema de Aislamiento\", que permite conservar el calor generado por el Sistema Muro Trombe, como se observa en la siguiente figura:",
+      "imagen": "img/ascenso_secundaria_2018_q04.png",
+      "preguntas": [
+        {
+          "pregunta": "Se recomienda pintar de negro las piedras y paredes del Sistema Muro Trombe. ¿Por qué es un beneficio pintarlas de negro?",
+          "opciones": [
+            "Porque favorece la atracción de la radiación hacia las paredes y las piedras, y con ello, el incremento del flujo de calor hacia la casa.",
+            "Porque favorece la absorción de la radiación, lo cual convierte a las paredes y las piedras en una fuente de calor para el interior de la casa.",
+            "Porque favorece la reflexión de la radiación, lo que permite que se concentre el calor en el espacio comprendido entre la ventana, las paredes y las piedras."
+          ],
+          "respuesta": "Porque favorece la absorción de la radiación, lo cual convierte a las paredes y las piedras en una fuente de calor para el interior de la casa.",
+          "respuestaCorta": "El color negro es el que mejor absorbe todas las longitudes de onda de la luz visible (radiación), transformando de manera eficiente esa energía en calor.",
+          "solucionario": "Físicamente, los objetos de color negro absorben la mayor parte de la radiación electromagnética (incluida la luz solar) que incide sobre ellos, convirtiéndola en energía térmica (calor). Al pintar de negro el Muro Trombe, se maximiza la captación de energía solar. Este calor acumulado en el muro se transfiere luego al interior de la vivienda. Las opciones 'atracción' y 'reflexión' son incorrectas; los cuerpos negros no atraen la radiación y son malos reflectores.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Como se observa en la figura, el Sistema Muro Trombe tiene un grupo de orificios superiores e inferiores en las paredes. ¿Cuál es la función de estos orificios?",
+          "opciones": [
+            "Favorecer el ingreso de aire caliente al interior de la casa a través de los orificios superiores e inferiores.",
+            "Favorecer el ingreso de aire caliente al interior de la casa a través de los orificios inferiores y la salida de aire frío de la casa por los orificios superiores.",
+            "Favorecer el ingreso de aire caliente al interior de la casa a través de los orificios superiores y la salida de aire frío de la casa por los orificios inferiores."
+          ],
+          "respuesta": "Favorecer el ingreso de aire caliente al interior de la casa a través de los orificios superiores y la salida de aire frío de la casa por los orificios inferiores.",
+          "respuestaCorta": "Los orificios permiten la circulación del aire por convección: el aire frío y más denso de la casa sale por abajo hacia el muro, se calienta, se vuelve menos denso, sube y reingresa a la casa por arriba.",
+          "solucionario": "El sistema funciona gracias al fenómeno de convección natural. El aire en el espacio entre el vidrio y el muro se calienta por la radiación solar, disminuye su densidad y tiende a subir, ingresando a la habitación por los orificios superiores. Este movimiento crea un vacío parcial en la parte inferior, lo que succiona el aire más frío y denso de la habitación a través de los orificios inferiores hacia el muro para ser calentado. Así se establece un ciclo continuo de circulación que calienta el aire de la vivienda.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Por qué, a diferencia de lo que sucede cuando se emplea la cocina tradicional, en la cocina mejorada el humo se dirige casi totalmente fuera de la casa en lugar de quedarse al interior de la vivienda?",
+          "opciones": [
+            "Porque el humo se produce a mayor distancia del piso.",
+            "Porque es un sistema que impide el intercambio de materia.",
+            "Porque existe una diferencia de presión entre la zona de ingreso de la leña y la zona de salida del humo de la casa."
+          ],
+          "respuesta": "Porque existe una diferencia de presión entre la zona de ingreso de la leña y la zona de salida del humo de la casa.",
+          "respuestaCorta": "La chimenea de la cocina mejorada crea una diferencia de presión (efecto tiro), haciendo que el humo caliente y menos denso ascienda y sea expulsado al exterior, donde la presión es menor.",
+          "solucionario": "La cocina mejorada incorpora una chimenea que genera un 'efecto tiro'. El aire caliente y los gases de combustión (humo) son menos densos que el aire frío del ambiente. Esta diferencia de densidad y temperatura crea una diferencia de presión entre la base de la chimenea y su salida al exterior. Esta presión diferencial empuja el humo hacia arriba y lo expulsa de la vivienda, a diferencia de la cocina tradicional abierta donde el humo se dispersa libremente por el interior.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes materiales sería el mejor para favorecer la cocción de los alimentos y mantener el calor dentro de las ollas?",
+          "opciones": [
+            "Paredes de metal y base de arcilla.",
+            "Paredes de arcilla y base de metal.",
+            "Paredes y base solo de metal."
+          ],
+          "respuesta": "Paredes de arcilla y base de metal.",
+          "respuestaCorta": "Se requiere una base de metal por ser un buen conductor térmico para una cocción eficiente, y paredes de arcilla por ser un buen aislante térmico para retener el calor.",
+          "solucionario": "Para una cocción óptima, se necesita una combinación de propiedades. La base de la olla debe transferir el calor de la fuente a los alimentos de manera rápida y eficiente, para lo cual se necesita un material con alta conductividad térmica como el metal. Por otro lado, para que el calor no se escape por los costados y se mantenga la temperatura, las paredes deben ser de un material con baja conductividad térmica (aislante), como la arcilla. Esta combinación optimiza el uso de la energía.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2018_p08",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Un estudiante realiza el siguiente comentario:\n\"Mi mamá, cuando quiere enfriar agua caliente, pone una cuchara de metal dentro de una jarra de vidrio y luego vierte el agua caliente. Yo hice la misma prueba con un cucharón de madera, pero el agua demoró mucho más en enfriarse\".\n¿Por qué la cuchara de metal permite que el agua se enfríe en menos tiempo?",
+          "opciones": [
+            "Porque el metal retiene mejor el calor del agua en su interior.",
+            "Porque el metal favorece el flujo de calor del agua hacia el entorno.",
+            "Porque el metal absorbe mejor el frío del entorno y lo transmite al agua."
+          ],
+          "respuesta": "Porque el metal favorece el flujo de calor del agua hacia el entorno.",
+          "respuestaCorta": "El metal es un excelente conductor térmico, lo que acelera la transferencia de energía calorífica desde el agua caliente hacia la cuchara y, a través de esta, hacia el ambiente.",
+          "solucionario": "El enfriamiento es un proceso de transferencia de calor desde un cuerpo de mayor temperatura a uno de menor temperatura. Los metales tienen una alta conductividad térmica, lo que significa que el calor fluye a través de ellos con facilidad. Al sumergir la cuchara de metal en el agua caliente, esta absorbe rápidamente calor del agua y lo disipa eficientemente hacia el ambiente, acelerando así el proceso de enfriamiento del agua. La madera, por el contrario, es un aislante térmico y dificulta este flujo de calor.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2018_p09",
+      "contexto": "Con el propósito de recoger saberes previos de los estudiantes sobre el efecto de los movimientos terrestres, el docente les pide que representen, mediante un dibujo, a qué se debe el cambio de estaciones durante cada año. Un grupo de estudiantes propone la siguiente representación:",
+      "imagen": "img/ascenso_secundaria_2018_q09.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes es uno de los errores que se evidencia en la representación de los estudiantes?",
+          "opciones": [
+            "Asumen que la Tierra solo realiza el movimiento de rotación.",
+            "Creen que el Perú está más lejos del Sol en invierno que en verano.",
+            "Confunden el origen de las estaciones con el origen del día y la noche."
+          ],
+          "respuesta": "Confunden el origen de las estaciones con el origen del día y la noche.",
+          "respuestaCorta": "El dibujo de los estudiantes representa la rotación de la Tierra (que causa el día y la noche) como la causa de las estaciones, en lugar de la traslación y la inclinación del eje terrestre.",
+          "solucionario": "El error conceptual clave en la representación es atribuir las estaciones a si una parte de la Tierra está iluminada por el Sol o no. Este fenómeno corresponde al movimiento de rotación y explica la sucesión del día y la noche. El origen real de las estaciones se debe a la combinación del movimiento de traslación de la Tierra alrededor del Sol y la inclinación constante de su eje de rotación, lo que provoca que los rayos solares incidan con diferente ángulo y duración en cada hemisferio a lo largo del año.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Cuál de las siguientes preguntas es pertinente para que los estudiantes reflexionen sobre otro de los errores que se evidencia en su representación?",
+          "opciones": [
+            "¿Los polos magnéticos norte y sur se invierten cuando el Perú pasa de una estación a otra?",
+            "¿Cuáles son los movimientos que realiza la Tierra? ¿Cuál de ellos está relacionado con el cambio de estaciones?",
+            "¿Cómo podrían explicar, con su representación, por qué, cuando es invierno en el hemisferio sur, es verano en el hemisferio norte?"
+          ],
+          "respuesta": "¿Cómo podrían explicar, con su representación, por qué, cuando es invierno en el hemisferio sur, es verano en el hemisferio norte?",
+          "respuestaCorta": "Esta pregunta genera un conflicto cognitivo al obligarlos a aplicar su modelo erróneo a un hecho real (estaciones opuestas en los hemisferios), lo cual su modelo basado en el día y la noche no puede explicar.",
+          "solucionario": "La pregunta de la opción C es la más potente pedagógicamente porque confronta el modelo mental erróneo de los estudiantes con una evidencia que no pueden explicar. Su modelo (que confunde estaciones con día/noche) es incapaz de justificar por qué los hemisferios norte y sur experimentan estaciones opuestas simultáneamente. Esta contradicción los obligará a cuestionar su representación y a buscar una explicación alternativa que sí considere la inclinación del eje terrestre. Las otras preguntas son irrelevantes (A) o demasiado directas (B), sin promover el mismo nivel de reflexión crítica.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2018_p11",
+      "contexto": "Central Hidroeléctrica\nUna central hidroeléctrica es considerada una fuente de energía renovable, ya que depende básicamente del curso natural del agua. La mayoría de ellas consisten en una represa (1), que sostiene el agua estancada proveniente de un río y en un canal (2) que conduce el agua hacia las turbinas (3) ubicadas al mismo nivel de la continuación del río (9). El agua choca contra sus aspas y, por esta causa, hace rotar su eje. En consecuencia, los electroimanes de un generador eléctrico (4) giran y se induce corriente eléctrica. Finalmente, la energía eléctrica es transmitida a través de torres de alta tensión (5). El agua utilizada en el proceso es devuelta generalmente a la continuación del mismo río.",
+      "imagen": "img/ascenso_secundaria_2018_q11.png",
+      "preguntas": [
+        {
+          "pregunta": "¿De cuál de los siguientes factores depende la energía máxima que puede transmitir la central hidroeléctrica?",
+          "opciones": [
+            "La altura máxima de la pared de la represa, distancia entre (10) y (7).",
+            "La altura del agua contigua a la represa (6) respecto del fondo del río (7).",
+            "La altura del agua contigua a la represa (6) respecto de la ubicación de las turbinas (3)."
+          ],
+          "respuesta": "La altura del agua contigua a la represa (6) respecto de la ubicación de las turbinas (3).",
+          "respuestaCorta": "La energía potencial gravitatoria, que es la fuente de energía de la central y se transforma en eléctrica, depende directamente de la diferencia de altura ('salto') entre el nivel del agua embalsada y las turbinas.",
+          "solucionario": "La energía máxima que se puede generar en una central hidroeléctrica proviene de la conversión de la energía potencial gravitatoria del agua. La fórmula de esta energía es E = mgh, donde 'h' es la altura de la caída. En este sistema, la altura efectiva ('h' o 'salto hidráulico') que determina la energía disponible es la diferencia de nivel vertical entre la superficie del agua en la represa (6) y el punto donde el agua impacta y mueve las turbinas (3). A mayor altura de caída, mayor energía potencial y, por tanto, mayor capacidad de generación eléctrica.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Cuál es el tipo de energía inicial del sistema de la central hidroeléctrica?",
+          "opciones": [
+            "Potencial gravitatoria del agua.",
+            "Potencial química del agua.",
+            "Cinética del agua."
+          ],
+          "respuesta": "Potencial gravitatoria del agua.",
+          "respuestaCorta": "La energía inicial del sistema es la energía potencial gravitatoria, que está almacenada en el agua debido a la altura a la que se encuentra en la represa.",
+          "solucionario": "El principio de funcionamiento de la central es aprovechar la energía que posee el agua por estar almacenada a una determinada altura. Este tipo de energía, que un objeto posee debido a su posición en un campo gravitatorio, se denomina energía potencial gravitatoria. Al dejar caer el agua, esta energía potencial se convierte en energía cinética (de movimiento), que a su vez se convierte en energía mecánica en la turbina y finalmente en energía eléctrica en el generador.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    
+    {
+      "idGrupo": "asc_secundaria_2018_p13",
+      "contexto": "Central Hidroeléctrica\nUna central hidroeléctrica es considerada una fuente de energía renovable, ya que depende básicamente del curso natural del agua. La mayoría de ellas consisten en una represa (1), que sostiene el agua estancada proveniente de un río y en un canal (2) que conduce el agua hacia las turbinas (3) ubicadas al mismo nivel de la continuación del río (9). El agua choca contra sus aspas y, por esta causa, hace rotar su eje. En consecuencia, los electroimanes de un generador eléctrico (4) giran y se induce corriente eléctrica. Finalmente, la energía eléctrica es transmitida a través de torres de alta tensión (5). El agua utilizada en el proceso es devuelta generalmente a la continuación del mismo río.",
+      "imagen": "img/ascenso_secundaria_2018_q11.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Qué relación se establece entre la cantidad de energía inicial que ingresa a la central hidroeléctrica y la cantidad de energía eléctrica final que transmite la central hidroeléctrica?",
+          "opciones": [
+            "La cantidad de energía eléctrica final es menor que la energía inicial.",
+            "La cantidad de energía eléctrica final es igual que la energía inicial.",
+            "La cantidad de energía eléctrica final es mayor que la energía inicial."
+          ],
+          "respuesta": "La cantidad de energía eléctrica final es menor que la energía inicial.",
+          "respuestaCorta": "Debido a la segunda ley de la termodinámica, en cada transformación energética (de potencial a cinética, mecánica y eléctrica) una parte de la energía se disipa como calor, por lo que la energía útil final es siempre menor que la inicial.",
+          "solucionario": "El principio de conservación de la energía indica que la energía no se crea ni se destruye, solo se transforma. Sin embargo, en cualquier proceso real de conversión de energía, parte de la energía inicial se degrada en formas no utilizables, principalmente calor, debido a factores como la fricción en las turbinas, la resistencia eléctrica en los generadores y cables, y el sonido. Por lo tanto, la energía eléctrica útil que se obtiene al final es inevitablemente menor que la energía potencial gravitatoria que tenía el agua al principio.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2018_p14",
+      "contexto": "Una docente presenta a sus estudiantes la siguiente indagación:\nLas cucarachas son las únicas que pueden sobrevivir a una explosión nuclear: ¿mito o verdad?\nEl equipo de un reconocido programa de televisión expuso doce grupos de insectos de tres diferentes especies (cucarachas, moscas de la fruta y gorgojos de harina) a distintos niveles de radiación con cobalto-60 ($^{60}Co)$: 0 rads, 1000 rads (dosis letal para el ser humano), 10 000 rads y 100 000 rads. Finalmente, registraron el porcentaje de insectos muertos en el día 1, el día 15 y el día 30. Los resultados de la indagación se muestran en la siguiente tabla:",
+      "imagen": "img/ascenso_secundaria_2018_q14.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes preguntas se puede responder con la indagación realizada?",
+          "opciones": [
+            "¿El nivel de radiación influye en la cantidad de cucarachas muertas?",
+            "¿Cuál es el máximo nivel de radiación al que sobreviven las cucarachas?",
+            "¿Cuál es el tiempo de exposición a la radiación necesario para matar a las cucarachas?"
+          ],
+          "respuesta": "¿El nivel de radiación influye en la cantidad de cucarachas muertas?",
+          "respuestaCorta": "La indagación está diseñada para comparar la mortalidad (variable dependiente) en función de diferentes niveles de radiación (variable independiente), permitiendo determinar si existe una relación de influencia.",
+          "solucionario": "El diseño del experimento consiste en variar la variable independiente (nivel de radiación) y observar su efecto sobre la variable dependiente (porcentaje de insectos muertos). Por lo tanto, el experimento está diseñado precisamente para responder si el nivel de radiación influye en la mortalidad. No se puede determinar el nivel máximo de supervivencia (opción B) porque no se probaron todos los niveles posibles. Tampoco se puede determinar el tiempo de exposición necesario (opción C) porque el tiempo de exposición no fue una variable en estudio.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Por qué es imprescindible emplear un grupo que NO reciba radiación en el estudio?",
+          "opciones": [
+            "Porque se deben mantener constantes las posibles variables intervinientes.",
+            "Porque se debe descontar el efecto de otras variables, distintas a las que se quiere medir en la indagación.",
+            "Porque se debe observar cómo se comportan los insectos antes de ser expuestos a la radiación."
+          ],
+          "respuesta": "Porque se debe descontar el efecto de otras variables, distintas a las que se quiere medir en la indagación.",
+          "respuestaCorta": "El grupo sin radiación, conocido como grupo control, sirve como una línea base para comparar. Permite asegurar que la mortalidad observada en los otros grupos se debe a la radiación y no a otras causas naturales.",
+          "solucionario": "El grupo que no recibe radiación (0 rads) es el grupo control. Su función es fundamental para la validez del experimento, ya que permite aislar el efecto de la variable independiente (la radiación). Al comparar la mortalidad de los grupos tratados con la del grupo control, se puede atribuir con mayor certeza cualquier diferencia a la radiación, descontando la mortalidad que podría ocurrir por causas naturales (fin del ciclo de vida, enfermedades, etc.) u otras variables del entorno.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Cuál de las siguientes es una variable control de la indagación realizada?",
+          "opciones": [
+            "Los días de conteo.",
+            "El nivel de radiación.",
+            "El tiempo de exposición a la radiación."
+          ],
+          "respuesta": "El tiempo de exposición a la radiación.",
+          "respuestaCorta": "Para que la comparación entre los diferentes niveles de radiación sea justa y válida, el tiempo durante el cual los insectos son expuestos a dicha radiación debe mantenerse constante para todos los grupos experimentales.",
+          "solucionario": "En un diseño experimental, las variables de control son aquellas que se mantienen constantes para todos los grupos para asegurar que solo la variable independiente es la que causa los cambios en la variable dependiente. En este caso, el 'nivel de radiación' es la variable independiente y el 'porcentaje de muertos' es la dependiente. Para que los resultados sean fiables, variables como la especie, el número inicial de individuos y el 'tiempo de exposición a la radiación' deben ser las mismas para todos. 'Los días de conteo' son los momentos de medición, no una variable de control.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Un estudiante realiza el siguiente comentario: \"Una de las conclusiones que se puede extraer del experimento es que las moscas de la fruta son más vulnerables a la radiación que las cucarachas porque a los quince días ya se murieron todas\". ¿Cuál es el error que se evidencia en el comentario del estudiante?",
+          "opciones": [
+            "No tomar en cuenta el comportamiento de las moscas en el grupo control.",
+            "Creer que es posible comparar la respuesta de especies distintas de insectos frente a la radiación.",
+            "Interpretar a partir de los datos de la tabla que las moscas de la fruta son más vulnerables a la radiación, cuando en realidad son las más resistentes a esta."
+          ],
+          "respuesta": "No tomar en cuenta el comportamiento de las moscas en el grupo control.",
+          "respuestaCorta": "El error fundamental es atribuir toda la mortalidad a la radiación sin considerar que, en el grupo control (sin radiación), las moscas también presentan una altísima mortalidad natural para el día 15.",
+          "solucionario": "La conclusión del estudiante es errónea porque ignora los datos del grupo control. La tabla muestra que para el día 15, en el grupo de moscas que no recibió radiación (0 rads), ya había muerto el 100%. Esto indica que el ciclo de vida de las moscas en las condiciones del experimento es corto y su muerte no se puede atribuir únicamente a la radiación. Para hacer una afirmación válida, se debe comparar la mortalidad adicional en los grupos irradiados respecto a la mortalidad natural observada en el grupo control.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "A diferencia del cobalto-60, el cobalto-59 es un isótopo estable que no emite radiación. ¿Cuál de los siguientes factores es responsable de que el cobalto-60 sea radioactivo y el cobalto-59 no sea radioactivo?",
+          "opciones": [
+            "La diferencia en cantidad de protones entre ambos átomos.",
+            "La diferencia en cantidad de neutrones entre ambos átomos.",
+            "La diferencia en cantidad de electrones entre ambos átomos."
+          ],
+          "respuesta": "La diferencia en cantidad de neutrones entre ambos átomos.",
+          "respuestaCorta": "Los isótopos de un mismo elemento siempre tienen el mismo número de protones, pero difieren en el número de neutrones. Esta variación en los neutrones es lo que determina la estabilidad o inestabilidad (radiactividad) del núcleo atómico.",
+          "solucionario": "Por definición, los isótopos son átomos de un mismo elemento químico, lo que significa que deben tener idéntico número de protones (número atómico). La diferencia entre ellos, que se refleja en su número de masa (59 y 60 en este caso), se debe exclusivamente a que tienen un número diferente de neutrones en el núcleo. La estabilidad de un núcleo depende de la proporción entre protones y neutrones; una proporción desequilibrada, como en el cobalto-60, lo hace inestable y, por lo tanto, radiactivo.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2018_p19",
+      "contexto": "Como parte de una unidad de aprendizaje sobre cómo los sistemas del cuerpo humano trabajan de manera integrada, un docente solicita a sus estudiantes que representen al sistema digestivo. A continuación, se muestra la representación realizada por uno de sus estudiantes:",
+      "imagen": "img/ascenso_secundaria_2018_q19.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes es uno de los errores que se evidencia en la representación realizada por el estudiante?",
+          "opciones": [
+            "Creer que la faringe es un órgano del sistema digestivo.",
+            "No identificar las glándulas anexas como parte del sistema digestivo.",
+            "No representar la conexión entre el intestino delgado y el intestino grueso."
+          ],
+          "respuesta": "No identificar las glándulas anexas como parte del sistema digestivo.",
+          "respuestaCorta": "La representación del estudiante muestra los órganos del tubo digestivo pero omite por completo las glándulas anexas, como el hígado, la vesícula biliar y el páncreas, que son componentes cruciales del sistema.",
+          "solucionario": "El sistema digestivo humano se compone del tubo digestivo (boca, faringe, esófago, estómago, intestinos) y las glándulas anexas (glándulas salivales, hígado, páncreas), las cuales producen jugos esenciales para la digestión. El dibujo del estudiante es incompleto porque no incluye estas glándulas anexas, que son parte fundamental del sistema. La faringe sí forma parte del sistema digestivo (además del respiratorio), y la conexión entre los intestinos está implícitamente representada.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2018_p20",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Durante el desarrollo de una unidad de aprendizaje sobre la alimentación balanceada, un docente recoge saberes previos de sus estudiantes. ¿Cuál de los siguientes estudiantes evidencia un error en su intervención?",
+          "opciones": [
+            "Juan: \"Toda dieta saludable debe tener 2000 kcal\".",
+            "Kevin: \"La dieta depende del tipo de trabajo que uno realiza\".",
+            "María: \"Un niño pequeño debe tener una dieta distinta a la de un adulto\"."
+          ],
+          "respuesta": "Juan: \"Toda dieta saludable debe tener 2000 kcal\".",
+          "respuestaCorta": "El requerimiento calórico no es un valor universal y fijo; varía significativamente entre las personas según su edad, sexo, nivel de actividad física, metabolismo y otros factores.",
+          "solucionario": "La afirmación de Juan es un error porque presenta las 2000 kcal como una regla fija para todos, cuando en realidad es solo un valor de referencia promedio. Las necesidades energéticas son altamente individuales. Las afirmaciones de Kevin y María son correctas: la dieta debe ajustarse al gasto energético (tipo de trabajo o actividad física) y a las necesidades de crecimiento y desarrollo de cada etapa de la vida (un niño versus un adulto).",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2018_p21",
+      "contexto": null,
+      "imagen": "img/ascenso_secundaria_2018_q21.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes gráficos representa una dieta que NO es perjudicial para la salud del ser humano?",
+          "opciones": [
+            "a",
+            "b",
+            "c"
+          ],
+          "respuesta": "c",
+          "respuestaCorta": "Una dieta balanceada se compone principalmente de carbohidratos (alrededor del 50-60%), seguidos de grasas (25-30%) y una porción menor de proteínas (10-15%), proporción que se refleja adecuadamente en el gráfico C.",
+          "solucionario": "Las guías de nutrición recomiendan una distribución de macronutrientes donde los carbohidratos sean la principal fuente de energía (50-60%), seguidos por las grasas (idealmente insaturadas) con un 25-30%, y finalmente las proteínas con un 10-15%. El gráfico 'c' es el único que muestra esta proporción equilibrada. Los gráficos 'a' y 'b' representan dietas desbalanceadas, con un exceso de grasas o proteínas respectivamente, lo que a largo plazo puede ser perjudicial para la salud.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2018_p22",
+      "contexto": "Una docente muestra a sus estudiantes la siguiente etiqueta de valores nutricionales de una bebida que se comercializa en botellas de 450 mL:",
+      "imagen": "img/ascenso_secundaria_2018_q22.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes conjuntos de preguntas es pertinente plantear a los estudiantes para que analicen la conveniencia de la ingesta de esta bebida sobre la base de la información presentada?",
+          "opciones": [
+            "¿Cuántas calorías debemos consumir diariamente? ¿Cuál es el porcentaje de carbohidratos, grasas y minerales en esta bebida?",
+            "¿Qué tipos de nutrientes aporta a nuestra dieta esta bebida? ¿Luego de qué tipo de actividad sería conveniente consumir esta bebida?",
+            "¿Cuál es el porcentaje calórico que cubrimos cuando consumimos una botella de esta bebida? ¿Por qué creen que es importante identificar los tipos de carbohidratos que aporta esta bebida?"
+          ],
+          "respuesta": "¿Cuál es el porcentaje calórico que cubrimos cuando consumimos una botella de esta bebida? ¿Por qué creen que es importante identificar los tipos de carbohidratos que aporta esta bebida?",
+          "respuestaCorta": "Las preguntas más pertinentes deben guiar a los estudiantes a calcular el impacto nutricional del producto completo (la botella entera, no solo la porción) y a reflexionar críticamente sobre la calidad de sus nutrientes (por ejemplo, que todos los carbohidratos son azúcares).",
+          "solucionario": "La opción C promueve un análisis más profundo y crítico de la etiqueta. La primera pregunta exige que los estudiantes realicen un cálculo (calorías por porción multiplicadas por el número de porciones por envase) para comprender el impacto real del consumo de toda la botella. La segunda pregunta los lleva a cuestionar la calidad de los nutrientes, al notar que la totalidad de los carbohidratos son azúcares simples, lo cual es un punto clave para evaluar si la bebida es saludable o no.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2018_p23",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Un estudiante comenta que no entiende por qué hay tanta publicidad en contra del consumo de azúcar de mesa y de golosinas si los carbohidratos son importantes en la dieta de las personas. ¿Cuál de las siguientes alternativas es una ayuda pedagógica pertinente para este estudiante?",
+          "opciones": [
+            "Explicarle la diferencia entre el proceso de digestión del azúcar y las golosinas y el de las legumbres, y pedirle que compare la información nutricional para ambos.",
+            "Presentarle una tabla en la que se compare la cantidad de calorías de diferentes golosinas versus la de frutas y cereales para que note que estos tienen una cantidad mucho menor de calorías.",
+            "Pedirle que lea la información nutricional de las golosinas para que observe que estas, a diferencia del azúcar de mesa, tienen sustancias que sí son perjudiciales para la salud como grasas, colorantes artificiales y alto contenido de sodio."
+          ],
+          "respuesta": "Explicarle la diferencia entre el proceso de digestión del azúcar y las golosinas y el de las legumbres, y pedirle que compare la información nutricional para ambos.",
+          "respuestaCorta": "La ayuda pedagógica más pertinente debe enfocarse en la diferencia conceptual clave: la distinción entre carbohidratos simples (azúcares, de absorción rápida y bajo valor nutricional) y carbohidratos complejos (legumbres, de absorción lenta y ricos en fibra y otros nutrientes).",
+          "solucionario": "El error del estudiante es conceptual: no distingue entre los diferentes tipos de carbohidratos. La opción A es la más adecuada porque aborda directamente este error al proponer una comparación entre una fuente de carbohidratos simples (azúcar) y una de carbohidratos complejos (legumbres). Esto le permitirá comprender que los carbohidratos complejos aportan energía de forma gradual junto con fibra, vitaminas y minerales, mientras que los simples aportan energía de forma muy rápida ('calorías vacías') y su exceso se asocia con problemas de salud. Las otras opciones son menos precisas para aclarar esta duda conceptual.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2018_p24",
+      "contexto": "Un docente se encuentra trabajando una unidad de aprendizaje sobre la salud y la enfermedad. Un grupo de estudiantes comenta lo siguiente:\n\"Profesor, nosotros nos dimos cuenta de que basta con que uno de nosotros se resfrie para que todos nos resfriemos, incluso ya ni a clase venimos. Para averiguarlo hemos anotado lo que pasa con los demás desde que uno de nosotros se resfría. Aquí están nuestros resultados\".",
+      "imagen": "img/ascenso_secundaria_2018_q24.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes preguntas debería plantear primero el docente para que los estudiantes reflexionen respecto de su error?",
+          "opciones": [
+            "¿Los datos registrados en la tabla corresponden al total de casos o a los nuevos casos de resfrío que se presentan cada día?",
+            "¿Cuántas veces tendrían que repetir la indagación para que sea confiable? ¿Creen que sería pertinente repetirla en otras aulas?",
+            "¿A qué creen que se deba que el número de estudiantes resfriados alcance un máximo y luego disminuya?"
+          ],
+          "respuesta": "¿Los datos registrados en la tabla corresponden al total de casos o a los nuevos casos de resfrío que se presentan cada día?",
+          "respuestaCorta": "El error principal de los estudiantes es la ambigüedad en la recolección de datos. La pregunta del docente busca que ellos mismos identifiquen y clarifiquen si su tabla muestra la frecuencia diaria (casos nuevos) o la frecuencia acumulada (total de enfermos hasta la fecha).",
+          "solucionario": "La tabla que presentan los estudiantes tiene un error metodológico fundamental: no está claro qué representa el 'Número de estudiantes resfriados'. Que el número disminuya hacia el final sugiere que no es un conteo acumulativo. La pregunta de la opción A es el punto de partida indispensable para cualquier análisis, ya que obliga a los estudiantes a definir su variable y a reflexionar sobre la forma correcta de registrar los datos para estudiar la propagación de una enfermedad. Sin esta aclaración, cualquier interpretación de los datos sería inválida.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    
+    {
+      "idGrupo": "asc_secundaria_2018_p25",
+      "contexto": "Otro grupo de estudiantes presenta al docente el siguiente gráfico con los resultados de su indagación:",
+      "imagen": "img/ascenso_secundaria_2018_q25.png",
+      "preguntas": [
+        {
+          "pregunta": "¿En qué días es más rápida la propagación del resfrío?",
+          "opciones": [
+            "Entre los días 2 y 4.",
+            "Entre los días 4 y 6.",
+            "Entre los días 6 y 8."
+          ],
+          "respuesta": "Entre los días 4 y 6.",
+          "respuestaCorta": "La velocidad de propagación está representada por la pendiente de la curva en el gráfico. La mayor inclinación, que indica el mayor aumento de casos por día, se observa claramente entre los días 4 y 6.",
+          "solucionario": "En un gráfico de frecuencia acumulada versus tiempo, la velocidad del fenómeno estudiado (en este caso, la propagación del resfrío) corresponde a la pendiente o inclinación de la línea. Al analizar visualmente la curva, se observa que el tramo con la mayor pendiente es el que se encuentra entre el día 4 y el día 6. En este intervalo, el número de estudiantes resfriados aumenta de aproximadamente 7 a 20, lo que representa el incremento más rápido de toda la observación.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2018_p26",
+      "contexto": "Una docente trabaja con los estudiantes el concepto de \"cuerpo en caída libre\", es decir, un cuerpo sobre el que únicamente actúa la fuerza de la gravedad. Para ello, muestra a sus estudiantes la siguiente imagen de la trayectoria de una pelota de fútbol luego de ser pateada y solicita que la analicen considerando nulo el efecto del aire:",
+      "imagen": "img/ascenso_secundaria_2018_q26.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes opciones representa la fuerza neta sobre la pelota mientras esta se encuentra en movimiento?",
+          "opciones": [
+            "a",
+            "b",
+            "c"
+          ],
+          "respuesta": "c",
+          "respuestaCorta": "Considerando nulo el efecto del aire, la única fuerza que actúa sobre la pelota durante todo su vuelo es la fuerza de la gravedad, la cual siempre apunta verticalmente hacia abajo.",
+          "solucionario": "En física, un cuerpo está en 'caída libre' cuando la única fuerza que actúa sobre él es la gravedad (su peso). Esto es válido para toda la trayectoria de la pelota después de ser pateada, tanto cuando sube como cuando baja. La fuerza de gravedad siempre está dirigida hacia el centro de la Tierra, es decir, verticalmente hacia abajo. Por lo tanto, la opción 'c' es la única que representa correctamente esta fuerza neta constante y dirigida hacia abajo.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Cuál de las siguientes opciones representa la velocidad de la pelota cuando esta se encuentra en su altura máxima?",
+          "opciones": [
+            "a",
+            "b",
+            "c"
+          ],
+          "respuesta": "b",
+          "respuestaCorta": "En la altura máxima de una trayectoria parabólica, la componente vertical de la velocidad se hace cero momentáneamente, pero la componente horizontal de la velocidad permanece constante. Por lo tanto, la velocidad total es un vector puramente horizontal.",
+          "solucionario": "La velocidad de un proyectil se descompone en una componente horizontal (Vx) y una vertical (Vy). Al despreciar la resistencia del aire, Vx se mantiene constante durante todo el vuelo. La componente vertical Vy disminuye por efecto de la gravedad durante el ascenso hasta hacerse cero en el punto más alto, y luego aumenta en magnitud pero en dirección negativa durante el descenso. En la altura máxima, al ser Vy=0, la velocidad total del objeto es igual a su componente horizontal Vx, representada por el vector horizontal de la opción 'b'.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Teniendo en cuenta el sistema de referencia indicado, ¿en cuál de los siguientes gráficos se representa correctamente la componente vertical de la aceleración de la pelota?",
+          "opciones": [
+            "a",
+            "b",
+
+            "c"
+          ],
+          "respuesta": "c",
+          "respuestaCorta": "En caída libre, la aceleración es la de la gravedad (g), que es constante y apunta hacia abajo. Dado que el sistema de referencia tiene el eje 'y' positivo hacia arriba, la aceleración debe representarse como un valor constante y negativo (aproximadamente -9,8 m/s²).",
+          "solucionario": "Según la segunda ley de Newton, una fuerza neta constante produce una aceleración constante. En caída libre, la fuerza neta es la gravedad, por lo que la aceleración es la de la gravedad, g, que es constante y está dirigida hacia abajo. En el sistema de referencia mostrado, la dirección +y es hacia arriba. Por consiguiente, la componente vertical de la aceleración es un valor constante y negativo (-g) durante todo el movimiento. El gráfico 'c' es el único que representa esta relación: una línea horizontal en un valor negativo.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "La docente formula la siguiente pregunta a sus estudiantes: \"¿La pelota se encuentra en caída libre mientras está en movimiento?\". ¿Cuál de los siguientes estudiantes evidencia haber comprendido el concepto de \"caída libre de un cuerpo\"?",
+          "opciones": [
+            "Álvaro: \"La pelota no está en caída libre ya que actúan dos fuerzas sobre ella\".",
+            "Martha: \"La pelota sí está en caída libre, tanto cuando sube como cuando baja\".",
+            "Carlos: \"La pelota sí está en caída libre, pero sólo cuando empieza a bajar\"."
+          ],
+          "respuesta": "Martha: \"La pelota sí está en caída libre, tanto cuando sube como cuando baja\".",
+          "respuestaCorta": "La definición física de 'caída libre' se aplica durante toda la trayectoria de un objeto (tanto en la subida como en la bajada) siempre que la única fuerza significativa que actúe sobre él sea la gravedad.",
+          "solucionario": "Martha ha comprendido correctamente el concepto. En física, 'caída libre' no significa solamente 'moverse hacia abajo'. Describe el estado de cualquier objeto que se mueve bajo la influencia exclusiva de la fuerza gravitatoria. Según las condiciones del problema (efecto del aire nulo), esto es cierto para la pelota desde que abandona el pie del jugador hasta que toca el suelo, independientemente de si su trayectoria es ascendente o descendente.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "La docente ha notado que un grupo de estudiantes cree que todo cuerpo en caída libre, en algún momento, debe chocar con la superficie de la Tierra. ¿Cuál de las siguientes actividades permitiría generar conflicto cognitivo en este grupo de estudiantes?",
+          "opciones": [
+            "Analizar el movimiento de la Luna orbitando a la Tierra.",
+            "Analizar el movimiento de una persona que bucea hacia la superficie.",
+            "Analizar el movimiento de un meteoro luego de que atraviesa la atmósfera de la Tierra."
+          ],
+          "respuesta": "Analizar el movimiento de la Luna orbitando a la Tierra.",
+          "respuestaCorta": "La Luna está en un estado constante de caída libre hacia la Tierra debido a la gravedad, pero su alta velocidad tangencial hace que 'erre' el golpe continuamente, resultando en una órbita. Este ejemplo desafía directamente la idea de que toda caída libre debe terminar en una colisión.",
+          "solucionario": "El caso de la Luna es el contraejemplo clásico y perfecto para generar este conflicto cognitivo. La Luna está sometida a la fuerza de gravedad de la Tierra, por lo que, desde el punto de vista físico, está continuamente 'cayendo' hacia ella. Sin embargo, su velocidad tangencial (perpendicular a la dirección de la caída) es lo suficientemente grande como para que, a medida que cae, la superficie curva de la Tierra se aleje de ella, manteniéndola en órbita. Analizar este fenómeno obliga a los estudiantes a ampliar su concepto de caída libre y a desvincularlo de la idea de una colisión inevitable.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2018_p31",
+      "contexto": "Un docente presenta a sus estudiantes la siguiente información:\nLa cochinilla: oro rojo\nLa cochinilla es el nombre común de Dactylopius coccus, insecto que se instala en la superficie de las plantas de tuna para nutrirse de su savia, llegando incluso a matarlas en unos pocos meses. El ácido carmínico extraído de la cochinilla es empleado tradicionalmente en el Perú, desde las civilizaciones preincaicas, para teñir lana de alpaca y algodón. Actualmente, nuestro país es el principal productor de cochinilla en el mundo la cual es utilizada para colorear bebidas, jarabes, golosinas, embutidos, entre otros.",
+      "imagen": "img/ascenso_secundaria_2018_q31.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes características permite afirmar que la cochinilla es un insecto?",
+          "opciones": [
+            "Reproducción mediante huevos.",
+            "Cuerpo dividido en cabeza, tórax y abdomen.",
+            "Mayor tamaño de la hembra respecto del macho."
+          ],
+          "respuesta": "Cuerpo dividido en cabeza, tórax y abdomen.",
+          "respuestaCorta": "La característica taxonómica fundamental y definitoria que agrupa a los organismos dentro de la clase Insecta es la división de su cuerpo en tres tagmas o regiones distintas: cabeza, tórax y abdomen.",
+          "solucionario": "Si bien la reproducción por huevos (oviparismo) y el dimorfismo sexual (diferencias entre machos y hembras) son comunes en los insectos, también se presentan en muchos otros grupos de animales. La característica anatómica que define universalmente a la clase Insecta es la segmentación de su cuerpo en tres partes bien diferenciadas: cabeza, tórax (del que suelen partir las patas y alas) y abdomen. Esta es la característica clave para su clasificación como insecto.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Cuál es la relación interespecífica entre la cochinilla y la planta de la tuna?",
+          "opciones": [
+            "Parasitismo",
+            "Depredación",
+            "Mutualismo"
+          ],
+          "respuesta": "Parasitismo",
+          "respuestaCorta": "La relación es de parasitismo porque la cochinilla (parásito) se beneficia al alimentarse de la savia de la tuna (huésped), la cual resulta perjudicada por esta interacción, pudiendo incluso morir.",
+          "solucionario": "Se define como parasitismo la interacción biológica en la que un organismo, el parásito (cochinilla), vive sobre o dentro de otro organismo, el huésped (tuna), y se alimenta a expensas de él. En esta relación, el parásito se beneficia y el huésped se perjudica. No es depredación, ya que la muerte del huésped no es inmediata. No es mutualismo, pues no hay beneficio para la tuna.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Una estudiante realiza el siguiente comentario: \"He leído que el colorante obtenido de las cochinillas peruanas es más intenso que el de otros países. Como el color depende del ácido carmínico, entonces, el ácido carmínico peruano debe tener mejores propiedades que el de otros países\". ¿Cuál es el error que evidencia la estudiante en su comentario?",
+          "opciones": [
+            "No identifica que la intensidad del color depende del solvente en el que se disuelva el ácido carmínico.",
+            "No identifica que el ácido carmínico, al ser un compuesto químico, tiene propiedades definidas.",
+            "No identifica cuáles son las propiedades del ácido carmínico peruano que hacen que sea mejor que el de otros países."
+          ],
+          "respuesta": "No identifica que el ácido carmínico, al ser un compuesto químico, tiene propiedades definidas.",
+          "respuestaCorta": "El error de la estudiante es suponer que el compuesto químico 'ácido carmínico' puede tener 'mejores propiedades' según su origen. Como compuesto químico puro, sus propiedades son constantes. La diferencia en la intensidad del colorante se debe, muy probablemente, a una mayor concentración del compuesto en las cochinillas peruanas.",
+          "solucionario": "El error es de índole conceptual en química. El ácido carmínico es un compuesto químico con una fórmula y estructura molecular únicas. Sus propiedades físicas y químicas, como su color, son intrínsecas a esa molécula y no varían según su origen geográfico. La afirmación de la estudiante de que la molécula peruana tiene 'mejores propiedades' es incorrecta. La explicación más plausible para la mayor intensidad del colorante es una mayor concentración de ácido carmínico en las cochinillas de esa región, posiblemente debido a factores genéticos, climáticos o de la planta huésped.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2018_p34",
+      "contexto": "Una docente presenta la siguiente información a sus estudiantes:\nElysia chlorotica\nLa imagen corresponde a un ser vivo llamado Elysia chlorotica que presenta las siguientes características: tiene células eucariotas, se alimenta, respira, presenta circulación, excreción, respuesta, movimiento y reproducción. Los adultos tienen un tamaño aproximado de 20 a 30 mm, pero se han documentado especímenes de hasta 60 mm. Elysia chlorotica se alimenta de algas y adquiere una coloración verde debido a que es capaz de asimilar los cloroplastos de dichas algas en sus células intestinales, desechando todo lo demás. Los cloroplastos se mantienen funcionando en Elysia chlorotica por un período aproximado de diez meses, dentro de los cuales comienzan a formar parte de sus tejidos.",
+      "imagen": "img/ascenso_secundaria_2018_q34.png",
+      "preguntas": [
+        {
+          "pregunta": "Luego de leer la información, un estudiante realiza el siguiente comentario: \"Si este organismo respira, es un animal porque solo los animales respiran; después, todas las demás características como alimentación, circulación, excreción, respuesta, movimiento y reproducción, también las cumplen las plantas\". ¿Cuál es el error que evidencia el estudiante en su comentario?",
+          "opciones": [
+            "Creer que la respiración es una característica exclusiva de los animales.",
+            "Creer que el movimiento es una característica de las plantas.",
+            "Creer que la circulación es una característica de las plantas."
+          ],
+          "respuesta": "Creer que la respiración es una característica exclusiva de los animales.",
+          "respuestaCorta": "El error conceptual del estudiante es pensar que la respiración celular es un proceso exclusivo de los animales, cuando en realidad es una función vital que realizan la gran mayoría de seres vivos, incluidas las plantas, para obtener energía.",
+          "solucionario": "El comentario del estudiante revela una idea errónea muy común. La respiración celular, el proceso metabólico que convierte la energía bioquímica de los nutrientes en ATP, es fundamental para casi todos los seres vivos eucariotas y muchos procariotas. Las plantas respiran constantemente, tanto de día como de noche, para mantener sus funciones vitales. El error está en confundir la respiración celular con la respiración pulmonar y en creer que es una característica distintiva del reino animal.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Otro estudiante realiza el siguiente comentario: \"Si este ser vivo tiene cloroplastos entonces debe pertenecer a las plantas y no a los animales\". ¿Cuál de las siguientes preguntas es pertinente para que el estudiante reflexione sobre su error?",
+          "opciones": [
+            "¿Crees que le bastaría con tener cloroplastos para poder realizar fotosíntesis como las plantas?",
+            "¿Cuáles de las otras características de Elysia chlorotica lo ubican en el reino planta en lugar del reino animal?",
+            "¿Las plantas necesitan alimentarse de otro ser vivo para adquirir sus cloroplastos o al germinar ya tienen cloroplastos?"
+          ],
+          "respuesta": "¿Las plantas necesitan alimentarse de otro ser vivo para adquirir sus cloroplastos o al germinar ya tienen cloroplastos?",
+          "respuestaCorta": "Esta pregunta es la más efectiva para generar un conflicto cognitivo, ya que obliga al estudiante a contrastar el modo de obtención de cloroplastos: las plantas los producen (autótrofas), mientras que Elysia chlorotica los roba al alimentarse de otros seres (heterótrofa).",
+          "solucionario": "La pregunta de la opción C es la más pertinente porque ataca el núcleo del error del estudiante. Le hace reflexionar sobre el *origen* de los cloroplastos. Las plantas son organismos autótrofos que fabrican sus propios cloroplastos. El texto, en cambio, describe que Elysia chlorotica debe *comer* algas para obtener los suyos (un comportamiento heterótrofo, típico de los animales). Este proceso, conocido como cleptoplastia, es fundamentalmente diferente a cómo operan las plantas y, por tanto, refuta la idea de que deba pertenecer a ese reino.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Otra estudiante comenta que este ser vivo podría ser un protista. ¿Cuál de las siguientes características de Elysia chlorotica se opone a esta clasificación?",
+          "opciones": [
+            "Que tenga órganos.",
+            "Que realice fotosíntesis.",
+            "Que tenga células eucariotas."
+          ],
+          "respuesta": "Que tenga órganos.",
+          "respuestaCorta": "El reino Protista se caracteriza por agrupar organismos eucariotas que son mayoritariamente unicelulares, coloniales o pluricelulares simples, pero que no alcanzan el nivel de complejidad de formar tejidos y órganos diferenciados, algo que sí se infiere en Elysia chlorotica.",
+          "solucionario": "Las características de ser eucariota y la capacidad de fotosintetizar son comunes en muchos protistas (como las algas). Sin embargo, el reino Protista se define en parte por una organización corporal simple, sin la formación de verdaderos tejidos y órganos. El texto describe funciones complejas en Elysia chlorotica (circulación, excreción) y su morfología sugiere una organización que va más allá de una simple colonia de células. Por lo tanto, el tener un nivel de organización con órganos lo clasificaría como un animal (metazoo) y lo excluiría del reino Protista.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+
+    {
+      "idGrupo": "asc_secundaria_2018_p37",
+      "contexto": "Observe la siguiente imagen de un organismo:",
+      "imagen": "img/ascenso_secundaria_2018_q37.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes características de este organismo impide que pertenezca al reino animal?",
+          "opciones": [
+            "Que tenga pared celular.",
+            "Que sea unicelular.",
+            "Que sea eucariota."
+          ],
+          "respuesta": "Que sea unicelular.",
+          "respuestaCorta": "La característica fundamental y definitoria del reino Animalia es que todos sus miembros son organismos pluricelulares. Al ser este un organismo compuesto por una sola célula, queda excluido de dicho reino.",
+          "solucionario": "El reino Animalia se define por agrupar organismos que son eucariotas, heterótrofos por ingestión y, de manera crucial, pluricelulares con diferenciación de tejidos. La característica clave que impide la clasificación de este organismo (un protozoo, como el paramecio) como animal es su condición de ser unicelular. Aunque es eucariota, como los animales, su nivel de organización en una única célula lo sitúa en el reino Protista.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2018_p38",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿En qué se diferencia una célula nerviosa de una célula del intestino de un mismo organismo?",
+          "opciones": [
+            "En la cantidad de cromosomas.",
+            "En la secuencia de ADN que expresan.",
+            "En la mayor parte de su genoma."
+          ],
+          "respuesta": "En la secuencia de ADN que expresan.",
+          "respuestaCorta": "Todas las células somáticas de un organismo comparten el mismo genoma (ADN), pero se diferencian debido a la expresión génica diferencial, es decir, qué conjunto específico de genes se 'enciende' o 'apaga' para especializar a la célula en su función.",
+          "solucionario": "Prácticamente todas las células somáticas de un individuo (como una neurona y una célula epitelial del intestino) contienen la misma información genética completa (genoma) y, por lo tanto, la misma cantidad de cromosomas. La vasta diferencia en su estructura y función se debe a la 'expresión génica diferencial'. Esto significa que, aunque ambas células poseen los mismos genes, cada tipo celular activa ('expresa' o 'lee') un subconjunto diferente de esos genes para producir las proteínas que le confieren su identidad y función especializadas.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2018_p39",
+      "contexto": "A continuación, se muestra la representación de tres tipos de vasos sanguíneos (F, G, H):",
+      "imagen": "img/ascenso_secundaria_2018_q39.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Qué tipo de vaso sanguíneo corresponde a cada representación?",
+          "opciones": [
+            "F: arteria, G: vena, H: capilar.",
+            "F: vena, G: arteria, H: capilar.",
+            "F: capilar, G: vena, H: arteria."
+          ],
+          "respuesta": "F: vena, G: arteria, H: capilar.",
+          "respuestaCorta": "Se puede identificar por el grosor de sus paredes: las arterias (G) son las más gruesas para soportar la alta presión, las venas (F) son más delgadas, y los capilares (H) tienen un diámetro mínimo con una pared de una sola célula de grosor.",
+          "solucionario": "La estructura de los vasos sanguíneos está relacionada con su función. Las arterias (G) transportan sangre a alta presión desde el corazón, por lo que poseen paredes gruesas y musculares. Las venas (F) retornan la sangre al corazón a baja presión, por lo que sus paredes son más delgadas y menos elásticas. Los capilares (H) son los vasos más finos, con paredes de un grosor de una sola célula, para facilitar el intercambio de sustancias con los tejidos. La imagen H claramente muestra este grosor mínimo, mientras que G es visiblemente más robusta que F.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Por qué el grosor de la pared del vaso sanguíneo H corresponde al de una célula?",
+          "opciones": [
+            "Porque su principal función es el transporte de O₂",
+            "Porque su principal función es el transporte de CO₂",
+            "Porque su principal función es la difusión de O₂ y CO₂"
+          ],
+          "respuesta": "Porque su principal función es la difusión de O₂ y CO₂",
+          "respuestaCorta": "La pared extremadamente delgada de los capilares (H) minimiza la distancia que los gases y nutrientes deben recorrer, facilitando un intercambio rápido y eficiente por difusión entre la sangre y las células del cuerpo.",
+          "solucionario": "La función primordial de los capilares (representados en H) es ser el sitio de intercambio de gases (oxígeno y dióxido de carbono), nutrientes y desechos entre el torrente sanguíneo y las células de los tejidos. Este intercambio se produce por el proceso de difusión. Para que la difusión sea eficaz, la distancia a recorrer debe ser mínima. Una pared capilar con el grosor de una sola célula proporciona la barrera más delgada posible, optimizando la velocidad y eficiencia de este intercambio vital.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2018_p41",
+      "contexto": "El siguiente diagrama muestra la heredabilidad (mendeliana) de una enfermedad en una familia:",
+      "imagen": "img/ascenso_secundaria_2018_q41.png",
+      "preguntas": [
+        {
+          "pregunta": "De acuerdo al diagrama, ¿a qué cromosomas NO podría estar ligada esta enfermedad?",
+          "opciones": [
+            "Cromosoma somático",
+            "Cromosoma sexual X",
+            "Cromosoma sexual Y"
+          ],
+          "respuesta": "Cromosoma sexual Y",
+          "respuestaCorta": "La enfermedad no puede estar ligada al cromosoma Y porque en el árbol genealógico se observan mujeres afectadas. Las enfermedades ligadas al cromosoma Y solo pueden ser transmitidas de padres a hijos varones.",
+          "solucionario": "La herencia ligada al cromosoma Y (herencia holándrica) tiene un patrón muy estricto: se transmite del padre a todos sus hijos varones y nunca aparece en las mujeres (que carecen de cromosoma Y). El diagrama de pedigrí muestra claramente a una mujer afectada (círculo relleno), lo cual descarta de manera concluyente la posibilidad de que la enfermedad esté ligada al cromosoma Y.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Si el primer hijo de una pareja de padres portadores de esta enfermedad, nace sano, ¿cuál es la probabilidad de que su segundo hijo manifieste la enfermedad respecto del primer hijo?",
+          "opciones": [
+            "Mayor que la probabilidad en el primer nacimiento.",
+            "Menor que la probabilidad en el primer nacimiento.",
+            "Igual que la probabilidad en el primer nacimiento."
+          ],
+          "respuesta": "Igual que la probabilidad en el primer nacimiento.",
+          "respuestaCorta": "Cada nacimiento es un evento de probabilidad independiente del anterior. Por lo tanto, el resultado de un embarazo previo no altera de ninguna manera las probabilidades genéticas para embarazos futuros.",
+          "solucionario": "En genética mendeliana, cada embarazo es un evento estocástico independiente. La combinación de gametos que da origen a un nuevo individuo es un suceso aleatorio. Si dos padres son portadores de una enfermedad recesiva, la probabilidad de tener un hijo afectado es del 25% en cada concepción. Este porcentaje no se ve afectado por los genotipos o fenotipos de los hijos que hayan nacido previamente. Por lo tanto, la probabilidad para el segundo hijo es exactamente la misma que para el primero.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Cuál de las siguientes alternativas es una evidencia que sustenta por qué esta enfermedad es causada por un alelo recesivo?",
+          "opciones": [
+            "Dos progenitores sanos tienen una hija enferma.",
+            "La enfermedad se hereda solo a las mujeres.",
+            "Un progenitor sano y uno enfermo tienen hijas e hijos sanos."
+          ],
+          "respuesta": "Dos progenitores sanos tienen una hija enferma.",
+          "respuestaCorta": "La aparición de un descendiente afectado a partir de dos progenitores que no manifiestan el rasgo es la prueba concluyente de una herencia recesiva. Esto implica que ambos padres deben ser portadores heterocigotos.",
+          "solucionario": "El patrón de herencia recesivo se caracteriza porque un individuo debe heredar dos copias del alelo recesivo para manifestar la enfermedad. En el diagrama, la pareja de la segunda generación está compuesta por dos individuos sanos (fenotipo dominante) que tienen una hija enferma (fenotipo recesivo). Esto solo es posible si ambos padres son heterocigotos (portadores del alelo recesivo, ej. 'Aa'), y la hija heredó el alelo 'a' de cada uno, resultando en un genotipo 'aa'.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Ahora, observe el siguiente diagrama:\n¿Cuál de las siguientes alternativas podría describir el genotipo de los progenitores en relación con la enfermedad?",
+          "opciones": [
+            "Ambos son heterocigotos.",
+            "Ambos son homocigotos recesivos.",
+            "Uno de ellos es heterocigoto y el otro es homocigoto dominante."
+          ],
+          "respuesta": "Ambos son heterocigotos.",
+          "respuestaCorta": "Tomando como referencia el primer diagrama, la única situación donde se puede asegurar el genotipo de una pareja de padres sanos que pueden tener descendencia con la enfermedad es que ambos sean heterocigotos.",
+          "solucionario": "La pregunta se interpreta en el contexto de la enfermedad recesiva establecida en el primer pedigrí. El segundo diagrama muestra dos padres sanos con hijos sanos. Si bien este resultado es posible con varias combinaciones de genotipos (AA x AA, AA x Aa, Aa x Aa), la opción de que 'Ambos son heterocigotos' (Aa x Aa) es un escenario posible y fundamental en la herencia recesiva, como se demostró con la pareja de la segunda generación del primer árbol, que eran portadores capaces de tener descendencia tanto sana como enferma.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2018_p45",
+      "contexto": "A continuación, se muestra el resultado de un test de embarazo:",
+      "imagen": "img/ascenso_secundaria_2018_q45.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es el resultado de este test de embarazo?",
+          "opciones": [
+            "Positivo",
+            "Negativo",
+            "Inválido"
+          ],
+          "respuesta": "Inválido",
+          "respuestaCorta": "El resultado se considera inválido porque, de acuerdo a las especificaciones, la línea en la zona de control debe aparecer siempre para confirmar que la prueba funciona correctamente. Su ausencia anula el resultado.",
+          "solucionario": "Las instrucciones del test son claras: para que un resultado sea considerado válido (ya sea positivo o negativo), es indispensable que aparezca una línea en la 'Zona de control'. Esta línea de control sirve para verificar que el dispositivo ha absorbido la muestra correctamente y que los reactivos funcionan. Como en la imagen no se observa ninguna línea en la zona de control, el test es inválido, sin importar lo que aparezca en la zona de resultado.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2018_p46",
+      "contexto": "Una docente presenta a sus estudiantes el siguiente gráfico sobre el volumen de sudor de una persona entre las 9:00 am y las 2:00 pm del mismo día:",
+      "imagen": "img/ascenso_secundaria_2018_q46.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes actividades es pertinente para que los estudiantes formulen hipótesis sobre los resultados presentados en el gráfico?",
+          "opciones": [
+            "Pedirles que sugieran qué pudo haber sucedido con la persona en cada uno de los intervalos de tiempo.",
+            "Pedirles que determinen el volumen total de sudor perdido por la persona entre las 9 am y las 2 pm.",
+            "Pedirles que propongan formas en las que la persona podría reponer las sustancias perdidas en el día como sudor."
+          ],
+          "respuesta": "Pedirles que sugieran qué pudo haber sucedido con la persona en cada uno de los intervalos de tiempo.",
+          "respuestaCorta": "La formulación de hipótesis implica proponer explicaciones tentativas para un fenómeno observado. Sugerir qué pudo haber hecho la persona (ej. ejercicio, descanso) para causar las variaciones de sudor es, precisamente, el acto de generar hipótesis.",
+          "solucionario": "Una hipótesis científica es una explicación provisional y comprobable de una observación. El gráfico muestra datos (la variación en el sudor). Para formular una hipótesis, los estudiantes deben ir más allá de los datos y proponer una causa. La actividad de la opción A los guía a hacer exactamente eso: proponer una narrativa causal (ej. 'la persona sudó mucho entre las 12 y la 1 pm porque probablemente estaba haciendo deporte'). La opción B es un cálculo matemático y la opción C es una aplicación de conocimiento, pero ninguna de las dos implica la formulación de una hipótesis para explicar los datos.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2018_p47",
+      "contexto": "Un docente presenta la siguiente información a sus estudiantes:\nLa gran variedad de papa en el Perú\nLa papa (Solanum tuberosum) es uno de los cultivos más consumidos en el mundo y, debido a su rico contenido de nutrientes y adaptación a una gran variedad de ecosistemas, se ha convertido en un alimento indispensable para la seguridad alimentaria global. La papa es originaria del Perú, país que posee la mayor variedad de papa en el mundo (2300 de las más de 4000 variedades conocidas). A medida que crece la planta de la papa se produce almidón, este se almacena en los extremos de sus tallos terminales (o estolones), los cuales se ensanchan para formar hasta veinte tubérculos cerca de la superficie del suelo. Los tubérculos tienen entre dos y diez yemas u \"ojos\", a partir de los cuales crecen nuevas plantas cuando las condiciones son nuevamente favorables. La planta de la papa también presenta flores como se muestra en la figura.",
+      "imagen": "img/ascenso_secundaria_2018_q47.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes es uno de los factores que explica que la papa sea un cultivo con alta diversidad genética?",
+          "opciones": [
+            "Que pueda reproducirse sexualmente.",
+            "Que pueda reproducirse asexualmente.",
+            "Que los tallos terminales pueden formar hasta veinte tubérculos."
+          ],
+          "respuesta": "Que pueda reproducirse sexualmente.",
+          "respuestaCorta": "La diversidad genética en una especie es generada principalmente por la reproducción sexual, ya que esta implica la recombinación de material genético de dos progenitores distintos. La reproducción asexual, por el contrario, produce clones genéticamente idénticos.",
+          "solucionario": "La fuente primaria de diversidad genética en las poblaciones es la reproducción sexual. Este proceso, que en las plantas involucra a las flores, la polinización y la formación de semillas, permite la mezcla y recombinación de los genes de dos individuos parentales, creando descendencia con combinaciones genéticas únicas. El texto indica que la planta de papa tiene flores, lo que posibilita esta vía reproductiva. La reproducción asexual a partir de tubérculos (opción B) es un mecanismo de clonación que preserva las características existentes pero no genera nueva diversidad.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Luego se presenta el siguiente diálogo:\nDocente: \"¿Cómo se reproduce la planta de la papa?\"\nEstudiante: \"Si a partir del tubérculo pueden crecer nuevas plantas sin la necesidad de que haya polinización, las papas solo se reproducen asexualmente\".\n¿Cuál de las siguientes preguntas debería plantear el docente para que el estudiante reflexione respecto de su error?",
+          "opciones": [
+            "¿En qué se parece la reproducción de la planta de la papa a la de las bacterias? ¿En qué se diferencian?",
+            "¿Las plantas de la papa solo se reproducen por vía asexual? ¿Cuál crees que es la función de las flores en la planta?",
+            "¿Las nuevas plantas producidas a partir del tubérculo tienen el mismo material genético que la papa de dónde emergieron? ¿Por qué?"
+          ],
+          "respuesta": "¿Las plantas de la papa solo se reproducen por vía asexual? ¿Cuál crees que es la función de las flores en la planta?",
+          "respuestaCorta": "Esta pregunta es la más pertinente porque desafía directamente la conclusión errónea del estudiante ('solo asexualmente') y lo dirige a considerar la evidencia contraria presentada en el texto (la presencia de flores) para que infiera su función y corrija su error.",
+          "solucionario": "El error del estudiante es una sobregeneralización ('solo se reproducen asexualmente'). La pregunta de la opción B es la intervención pedagógica más efectiva. La primera parte ('¿solo se reproducen por vía asexual?') lo incita a cuestionar la certeza de su afirmación. La segunda parte ('¿cuál crees que es la función de las flores?') dirige su atención a la información del texto que él omitió. Esto lo guía a deducir que las flores son para la reproducción sexual, permitiéndole construir por sí mismo el conocimiento de que la papa utiliza ambos métodos de reproducción.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    
+    {
+      "idGrupo": "asc_secundaria_2018_p49",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "En el 2016, el INEI reportó cifras alarmantes sobre la incidencia de anemia por deficiencia de hierro (Fe) en niños menores de tres años a nivel nacional: 43,6%. ¿Cuál de las siguientes es una consecuencia de una deficiencia de micronutrientes, como el Fe, en la dieta de una persona?",
+          "opciones": [
+            "Incremento de leucocitos.",
+            "Mal funcionamiento de enzimas.",
+            "Alteración de la estructura terciaria de las proteínas."
+          ],
+          "respuesta": "Mal funcionamiento de enzimas.",
+          "respuestaCorta": "Muchos micronutrientes, como el hierro, actúan como cofactores, que son componentes no proteicos esenciales para que numerosas enzimas puedan catalizar las reacciones bioquímicas vitales del cuerpo.",
+          "solucionario": "Los micronutrientes, categoría que incluye a minerales como el hierro (Fe), desempeñan roles cruciales en el metabolismo. Una de sus funciones principales es actuar como cofactores enzimáticos. Un cofactor es una molécula pequeña que se une a una enzima y es necesaria para su actividad catalítica. Sin la presencia del cofactor de hierro, muchas enzimas involucradas en procesos vitales, como la respiración celular y la síntesis de ADN, no pueden funcionar correctamente, lo que lleva a diversas patologías como la anemia.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2018_p50",
+      "contexto": "Una docente presenta la siguiente situación a sus estudiantes:\nLas moléculas más abundantes en las membranas celulares son los fosfolípidos. En las células, los fosfolípidos adoptan un ordenamiento denominado \"bicapa lipídica\", como se muestra en la siguiente figura:",
+      "imagen": "img/ascenso_secundaria_2018_q50.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes alternativas es una posible función de las proteínas insertadas en la membrana celular?",
+          "opciones": [
+            "Permiten el transporte de determinados iones al interior y exterior de la célula.",
+            "Obstruyen el paso de moléculas altamente polares como el agua al interior de la célula.",
+            "Impiden la interacción de la membrana celular con moléculas apolares como las grasas."
+          ],
+          "respuesta": "Permiten el transporte de determinados iones al interior y exterior de la célula.",
+          "respuestaCorta": "Las proteínas integrales de membrana a menudo actúan como canales o transportadores especializados, creando pasajes selectivos para que los iones y otras moléculas, que no pueden cruzar la bicapa lipídica directamente, atraviesen la membrana.",
+          "solucionario": "La bicapa lipídica de la membrana celular es intrínsecamente impermeable a partículas cargadas como los iones. Una función fundamental de las proteínas integrales que se encuentran incrustadas en esta bicapa es facilitar el transporte transmembrana. Actúan como canales iónicos o bombas transportadoras que regulan el paso selectivo de iones (como Na+, K+, Ca²⁺) y otras moléculas, un proceso esencial para la comunicación celular, la transmisión nerviosa y el mantenimiento del equilibrio osmótico.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Luego, la docente plantea la siguiente pregunta a sus estudiantes: ¿por qué creen que los fosfolípidos se ordenan como se observa en la \"Bicapa lipídica\"?\nA continuación, se muestra la respuesta de una estudiante:\n\"Porque las cabezas, al tener carga, pueden atraer al agua que está dentro y fuera de la célula. Y las colas pueden estar juntas porque no se atraen ni se repelen\".\n¿Cuál es el error que se evidencia en la respuesta de la estudiante?",
+          "opciones": [
+            "Creer que entre los fosfolípidos no se forman enlaces químicos.",
+            "Creer que entre las colas de los fosfolípidos no operan fuerzas de atracción.",
+            "Creer que los fosfolípidos se ordenan debido a la afinidad de las cabezas al agua."
+          ],
+          "respuesta": "Creer que entre las colas de los fosfolípidos no operan fuerzas de atracción.",
+          "respuestaCorta": "El error en el razonamiento de la estudiante es suponer que las colas hidrofóbicas son inertes entre sí ('no se atraen ni se repelen'). En realidad, estas colas apolares se agrupan debido a interacciones hidrofóbicas y fuerzas de atracción débiles (fuerzas de van der Waals).",
+          "solucionario": "La estudiante explica correctamente la naturaleza hidrofílica de las cabezas de fosfolípidos. Sin embargo, su explicación sobre las colas es incorrecta. Las colas apolares (hidrofóbicas) no solo son repelidas por el agua, sino que también se atraen entre sí a través de débiles fuerzas intermoleculares de van der Waals. Esta combinación del efecto hidrofóbico y las atracciones entre las colas es la fuerza impulsora que estabiliza la bicapa lipídica, manteniendo las colas agregadas y protegidas del entorno acuoso.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2018_p52",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Un docente pregunta a sus estudiantes cuál es la diferencia entre un elemento químico y un compuesto químico. A continuación, se presenta la respuesta de uno de ellos:\n\"Por ejemplo, el oxígeno es un elemento porque tiene un átomo y el ozono es un compuesto porque tiene tres átomos de oxígeno\".\n¿Cuál es el error que se evidencia en la respuesta del estudiante?",
+          "opciones": [
+            "Creer que un compuesto químico es una sustancia pura.",
+            "Creer que los elementos químicos pueden encontrarse naturalmente como átomos aislados.",
+            "Creer que la cantidad de átomos es un criterio suficiente para clasificar a una sustancia como compuesto químico."
+          ],
+          "respuesta": "Creer que la cantidad de átomos es un criterio suficiente para clasificar a una sustancia como compuesto químico.",
+          "respuestaCorta": "El error conceptual es definir un compuesto por el número de átomos en lugar del tipo de átomos. Un compuesto está formado por la unión de dos o más elementos *diferentes*, mientras que el ozono (O₃) es simplemente una forma alotrópica del elemento oxígeno.",
+          "solucionario": "La definición de un compuesto químico no depende de la cantidad de átomos en una molécula, sino de la diversidad de elementos que la componen. Un compuesto está formado por la unión química de átomos de dos o más elementos diferentes (por ejemplo, el agua, H₂O). Una sustancia formada por átomos de un solo elemento, como el oxígeno diatómico (O₂) o el ozono (O₃), es una sustancia elemental, no un compuesto. El error del estudiante es usar la atomicidad (número de átomos) como criterio de clasificación en lugar de la composición elemental.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2018_p53",
+      "contexto": "El agua de mar es una mezcla de agua, oxígeno ($O_{2}$), dióxido de carbono ($CO_{2}$), sales, como el cloruro de sodio (NaCl), entre otros componentes.",
+      "imagen": "img/ascenso_secundaria_2018_q53.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes representaciones permite explicar por qué el NaCl se disuelve en agua?",
+          "opciones": [
+            "a",
+            "b",
+            "c"
+          ],
+          "respuesta": "b",
+          "respuestaCorta": "La disolución del NaCl ocurre porque las moléculas polares de agua rodean a los iones de la sal (proceso de solvatación). El extremo negativo del agua (oxígeno) atrae al ion positivo Na⁺, y los extremos positivos (hidrógenos) atraen al ion negativo Cl⁻.",
+          "solucionario": "El NaCl es un compuesto iónico que se disocia en iones Na⁺ y Cl⁻. El agua (H₂O) es una molécula polar con una carga parcial negativa en el átomo de oxígeno y cargas parciales positivas en los átomos de hidrógeno. La disolución se produce cuando estas moléculas de agua rodean a los iones, estabilizándolos en la solución. La representación 'b' ilustra correctamente este proceso de solvatación: las moléculas de agua orientan sus extremos positivos (hidrógenos) hacia el ion negativo (Cl⁻) y sus extremos negativos (oxígeno) hacia el ion positivo (Na⁺).",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Por qué el agua de mar es un medio que favorece la conductividad eléctrica?",
+          "opciones": [
+            "Porque contiene sales disueltas",
+            "Porque contiene gases disueltos como el O₂ y el CO₂",
+            "Porque el H₂O es un buen conductor eléctrico"
+          ],
+          "respuesta": "Porque contiene sales disueltas",
+          "respuestaCorta": "La conductividad eléctrica en las soluciones acuosas se debe a la presencia de portadores de carga móviles, que son los iones. Las sales disueltas, como el NaCl, se disocian en iones (Na⁺ y Cl⁻) que pueden moverse y transportar la corriente eléctrica.",
+          "solucionario": "La capacidad de una solución para conducir electricidad depende de la presencia de iones disueltos. El agua pura es un conductor muy pobre. Sin embargo, el agua de mar contiene una gran cantidad de sales disueltas, principalmente cloruro de sodio (NaCl). Al disolverse, estas sales se disocian en iones cargados (cationes como Na⁺ y aniones como Cl⁻). Estos iones son móviles y actúan como portadores de carga, permitiendo que la solución conduzca la corriente eléctrica de manera eficiente.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2018_p55",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "El cloruro de sodio (NaCl) tiene una masa de 58,4 g/mol y un punto de fusión, a 1 atm, de 801°C, mientras que el tetracloruro de carbono ($CCl_{4}$), un contaminante común en fuentes de agua, tiene una masa de 153,8 g/mol y un punto de fusión, a 1 atm, de -22,9°C. ¿A qué se debe la diferencia entre sus puntos de fusión?",
+          "opciones": [
+            "A la diferencia en masa molar entre el NaCl y el $CCl_{4}$",
+            "A la diferencia entre la fuerza de los enlaces iónicos en el NaCl y la fuerza de los enlaces covalentes en el $CCl_{4}$",
+            "A la diferencia en magnitud entre las fuerzas que unen los iones del NaCl y las fuerzas que unen las moléculas del $CCl_{4}$"
+          ],
+          "respuesta": "A la diferencia en magnitud entre las fuerzas que unen los iones del NaCl y las fuerzas que unen las moléculas del $CCl_{4}$",
+          "respuestaCorta": "La enorme diferencia en los puntos de fusión se debe a los tipos de fuerzas interpartícula que deben superarse. El NaCl tiene fuertes atracciones electrostáticas entre sus iones en una red cristalina, mientras que el CCl₄ solo tiene débiles fuerzas intermoleculares (de van der Waals) entre sus moléculas.",
+          "solucionario": "El punto de fusión refleja la energía necesaria para romper las fuerzas que mantienen unidas a las partículas en estado sólido. El NaCl es un sólido iónico, donde los iones Na⁺ y Cl⁻ están fuertemente unidos por fuerzas electrostáticas en una red. Se requiere una gran cantidad de energía (alta temperatura) para romper esta red. Por otro lado, el CCl₄ es un sólido molecular apolar. Sus moléculas individuales están unidas entre sí por fuerzas intermoleculares muy débiles (fuerzas de dispersión de London). Se necesita muy poca energía (baja temperatura) para superar estas fuerzas y que la sustancia se funda. La masa molar no es el factor determinante aquí.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2018_p56",
+      "contexto": "Una docente comenta a los estudiantes que el carbonato de calcio ($CaCO_{3}$) es una sustancia estructural fundamental para la construcción de caparazones de numerosos organismos marinos. Luego, les pide que propongan la estructura de Lewis de este compuesto. A continuación, se muestra la propuesta realizada por una de sus estudiantes:",
+      "imagen": "img/ascenso_secundaria_2018_q56.png",
+      "preguntas": [
+        {
+          "pregunta": "¿En cuál de los siguientes aspectos se encuentra el principal error de la estudiante?",
+          "opciones": [
+            "En la aplicación de la regla del octeto.",
+            "En la representación de los ángulos de enlace.",
+            "En la distinción entre la representación de enlaces iónicos y covalentes."
+          ],
+          "respuesta": "En la distinción entre la representación de enlaces iónicos y covalentes.",
+          "respuestaCorta": "El error fundamental es representar el enlace entre el metal (Calcio) y el anión poliatómico (carbonato) como si fuera un enlace covalente (una línea), cuando en realidad se trata de un enlace iónico basado en la atracción electrostática.",
+          "solucionario": "El carbonato de calcio ($CaCO_{3}$) es un compuesto iónico, formado por el catión metálico Calcio ($Ca^{2+}$) y el anión poliatómico carbonato ($CO_{3}^{2-}$). La unión entre el calcio y el grupo carbonato es de naturaleza iónica (transferencia de electrones). Los enlaces dentro del ion carbonato (entre C y O) sí son covalentes. La estructura propuesta por la estudiante es incorrecta porque dibuja una línea entre Ca y C, que simboliza un enlace covalente que no existe. Una representación correcta mostraría los iones $Ca^{2+}$ y $[CO_{3}]^{2-}$ separados, interactuando por fuerzas electrostáticas.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2018_p57",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Un estudiante realiza la siguiente pregunta:\n\"¿Por qué los caparazones de los animales marinos no se disuelven en el agua si están hechos de carbonato de calcio que también es una sal como la sal de cocina?\".\n¿Cuál de los siguientes factores determina la diferencia en el comportamiento de ambas sales?",
+          "opciones": [
+            "La diferencia en el tipo de enlace del NaCl y del $CaCO_{3}$",
+            "La diferencia en el tamaño de los iones del NaCl y del $CaCO_{3}$",
+            "La diferencia en las cargas de los iones del NaCl y del $CaCO_{3}$"
+          ],
+          "respuesta": "La diferencia en las cargas de los iones del NaCl y del $CaCO_{3}$",
+          "respuestaCorta": "La mayor magnitud de las cargas de los iones en el CaCO₃ (Ca²⁺ y CO₃²⁻) en comparación con el NaCl (Na⁺ y Cl⁻) resulta en una atracción electrostática mucho más fuerte dentro de la red cristalina, lo que dificulta enormemente su disolución por parte del agua.",
+          "solucionario": "La solubilidad de un compuesto iónico depende de un equilibrio entre la energía reticular (que mantiene unidos a los iones en el cristal) y la energía de hidratación. Según la ley de Coulomb, la fuerza de atracción electrostática es directamente proporcional al producto de las cargas. El NaCl está compuesto por iones de carga +1 y -1, mientras que el $CaCO_{3}$ está compuesto por iones de carga +2 y -2. La atracción entre los iones en el cristal de $CaCO_{3}$ es, por tanto, mucho más fuerte, lo que resulta en una energía reticular muy alta que las moléculas de agua no pueden superar fácilmente. Esto explica su baja solubilidad.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2018_p58",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes es una característica exclusiva de los sólidos?",
+          "opciones": [
+            "Sus partículas no se mueven.",
+            "Su forma es independiente del recipiente que los contiene.",
+            "Su volumen es independiente del recipiente que los contiene."
+          ],
+          "respuesta": "Su forma es independiente del recipiente que los contiene.",
+          "respuestaCorta": "La característica macroscópica que distingue a los sólidos de los líquidos y los gases es que poseen una forma definida y fija, la cual no se adapta a la del recipiente que los alberga.",
+          "solucionario": "Los estados de la materia se diferencian por propiedades clave. Tanto los líquidos como los gases son fluidos y adoptan la forma de su contenedor. La característica exclusiva de los sólidos es que mantienen su propia forma independientemente del recipiente. La opción A es incorrecta, ya que las partículas en un sólido vibran en posiciones fijas. La opción C no es exclusiva de los sólidos, porque los líquidos también tienen un volumen definido que es independiente del recipiente.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2018_p59",
+      "contexto": "Observe el siguiente modelo:",
+      "imagen": "img/ascenso_secundaria_2018_q59.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes fenómenos se puede explicar a partir de este modelo?",
+          "opciones": [
+            "Por qué el yeso se quiebra con facilidad.",
+            "Por qué una botella de plástico se puede aplastar sin que se rompa.",
+            "Por qué el latón se puede deformar para fabricar envases para conservas."
+          ],
+          "respuesta": "Por qué el latón se puede deformar para fabricar envases para conservas.",
+          "respuestaCorta": "El modelo representa el enlace metálico, con cationes en un 'mar' de electrones deslocalizados. Esta estructura permite que las capas de átomos se deslicen unas sobre otras sin romperse, lo que explica la maleabilidad de metales como el latón.",
+          "solucionario": "El modelo presentado ilustra una red de cationes metálicos inmersa en un 'mar' de electrones de valencia deslocalizados. Esta es la representación clásica del enlace metálico. Una de las propiedades clave que este modelo explica es la maleabilidad, la capacidad de un material de deformarse sin romperse. Cuando se aplica una fuerza, las capas de cationes pueden deslizarse unas sobre otras, mientras que el 'mar' de electrones móviles mantiene la cohesión del conjunto. El latón es una aleación metálica, y su capacidad de ser deformado (maleabilidad) es una consecuencia directa de este tipo de enlace. El yeso es iónico y frágil, y el plástico es un polímero con un comportamiento diferente.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2018_p60",
+      "contexto": "Observe el siguiente gráfico elaborado a partir de información extraída de una localidad costera en cincuenta años:",
+      "imagen": "img/ascenso_secundaria_2018_q60.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes relaciones se puede establecer entre los eventos señalados en el gráfico?",
+          "opciones": [
+            "Causa - efecto.",
+            "Correlación positiva.",
+            "Correlación negativa."
+          ],
+          "respuesta": "Correlación positiva.",
+          "respuestaCorta": "El gráfico muestra una correlación positiva, ya que ambas variables (venta de helados y ataques de tiburones) tienden a aumentar y disminuir simultáneamente durante los mismos periodos del año. Sin embargo, esto no implica una relación de causalidad.",
+          "solucionario": "La relación que se observa es una correlación positiva, porque las dos variables tienden a moverse en la misma dirección: cuando las ventas de helados aumentan, los ataques de tiburones también tienden a aumentar, y ambas disminuyen juntas. Es fundamental no confundir esta correlación con una relación de causa-efecto. La venta de helados no causa los ataques. Ambas variables dependen de un tercer factor común (una variable latente): la temporada del año y la temperatura. En los meses más cálidos (verano), más gente va a la playa, lo que incrementa tanto la venta de helados como el número de bañistas en el agua, aumentando la probabilidad de incidentes.",
+          "seccion": "Casuística"
+        }
+      ]
+    }
+  ]
+}
+  

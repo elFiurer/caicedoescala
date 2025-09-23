@@ -162,6 +162,19 @@
     "archivos": {
       "especifico": "data/ascenso/secundaria/2019/ascenso_comunicacion2019.json"
     }
+  },
+  {
+    "id": 26,
+    "proceso": "Ascenso",
+    "anio": 2018,
+    "nivel": "Secundaria",
+    "especialidad": "Ciencia y Tecnología",
+    "modalidad": "EBR",
+    "preguntas": 60,
+    "tiempo": 180,
+    "archivos": {
+      "especifico": "data/ascenso/secundaria/2018/ascenso_cyt2018.json"
+    }
   }
   
 ]
