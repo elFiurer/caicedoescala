@@ -1,0 +1,907 @@
+{
+  "completo": [
+    {
+      "idGrupo": "asc_secundaria_2019_p01",
+      "contexto": "Como parte de un proyecto, los estudiantes de segundo grado de una IE aprendieron a tocar instrumentos musicales latinoamericanos. Ellos se encuentran muy motivados y desean compartir sus experiencias con la comunidad educativa. Por esta razón, la docente les propuso escribir testimonios en los que cuenten cómo vivieron dichas experiencias. Estos textos serán publicados en el periódico mural de la IE. <br>Uno de los estudiantes está anotando en una lista las ideas que le gustaría desarrollar en su testimonio. Él le ha pedido a la docente que la revise. A continuación, se presentan las ideas incluidas en dicha lista:",
+      "imagen": "img/ascenso/secundaria/2019/comunicación/1.jpg",
+      "preguntas": [
+        {
+          "pregunta": "La docente busca que el estudiante seleccione las ideas que son pertinentes para el tema que tratará en su testimonio. ¿Cuál de las siguientes acciones pedagógicas es más adecuada para lograr este propósito?",
+          "opciones": [
+            "Preguntarle por qué ha considerado ideas relacionadas con la historia del charango y sus características. A partir de su respuesta, indicarle que puede incluir esta información en un párrafo introductorio para darle un contexto a su testimonio.",
+            "Decirle cuáles son las ideas que tienen más relación con el tema principal de su testimonio para que las desarrolle en su texto. Luego, pedirle que añada nueva información si considera que dichas ideas son insuficientes para comunicar su mensaje.",
+            "Solicitarle que explique por qué considera que las ideas propuestas contribuyen a dar a conocer su propia experiencia tocando el charango. Sobre esta base, pedirle que agrupe las ideas según su contenido y descarte las que no se relacionan con el tema de su texto."
+          ],
+          "respuesta": "Solicitarle que explique por qué considera que las ideas propuestas contribuyen a dar a conocer su propia experiencia tocando el charango. Sobre esta base, pedirle que agrupe las ideas según su contenido y descarte las que no se relacionan con el tema de su texto.",
+          "respuestaCorta": "Esta acción fomenta la autonomía y el pensamiento crítico del estudiante, guiándolo para que él mismo evalúe la pertinencia de sus ideas en función del propósito del testimonio.",
+          "solucionario": "La acción pedagógica más adecuada es aquella que promueve la reflexión del estudiante sobre su propio proceso de escritura. Al solicitarle que justifique sus ideas y las organice, la docente lo convierte en el protagonista de su aprendizaje, ayudándolo a desarrollar criterios para seleccionar información pertinente. Las otras opciones son más directivas y limitan la oportunidad del estudiante para aprender a autorregular su escritura.",
+          "seccion": "Casuística"
+        },
+        {
+          "contexto": "A continuación, se presenta la segunda versión del texto de una estudiante, quien le ha pedido a la docente que la ayude a revisarla: ",
+          "imagen": "img/ascenso/secundaria/2019/comunicación/2.jpg",
+          "pregunta": "La docente destaca que la estudiante haya cumplido con el propósito comunicativo planteado. Sin embargo, ella nota que su texto puede mejorar si especifica qué quiere decir con la palabra 'algo' en diversas partes de su escrito. ¿Cuál de las siguientes acciones pedagógicas es más adecuada para ayudarla a mejorar este aspecto de su texto?",
+          "opciones": [
+            "Encerrar con un círculo las veces que aparece la palabra 'algo' en su texto. Después, anotar en su escrito algunos sinónimos para que la reemplace y, luego, proponer que revise si los cambios realizados ayudaron a dar mayor claridad a sus ideas.",
+            "Solicitar que explique si cree que el sentido de la palabra 'algo' en su texto es el mismo en todos los casos en que aparece. Luego, pedir que evalúe en cuál de estos casos cree que debería comunicar de forma más precisa las ideas de su testimonio.",
+            "Preguntar si ha considerado quiénes serán los lectores del testimonio que ha escrito. Después, comentarle que, según este contexto, es inapropiado utilizar la palabra 'algo' y que es necesario que la reemplace con expresiones adecuadas a un registro formal."
+          ],
+          "respuesta": "Solicitar que explique si cree que el sentido de la palabra 'algo' en su texto es el mismo en todos los casos en que aparece. Luego, pedir que evalúe en cuál de estos casos cree que debería comunicar de forma más precisa las ideas de su testimonio.",
+          "respuestaCorta": "Esta acción promueve la reflexión de la estudiante sobre la precisión léxica, invitándola a analizar y mejorar su propio texto para comunicar sus ideas con mayor claridad.",
+          "solucionario": "La opción correcta se centra en un enfoque de retroalimentación reflexiva. Al guiar a la estudiante a cuestionar el uso de la palabra 'algo', la docente fomenta su capacidad para evaluar la precisión de su vocabulario y el impacto en el mensaje. La opción 'a' es demasiado directiva al ofrecerle sinónimos, mientras que la opción 'c' desvía el problema hacia el registro formal, cuando el inconveniente principal es la falta de especificidad.",
+          "seccion": "Casuística"
+        },
+        {
+          "contexto": "A continuación, se presenta la segunda versión del testimonio de Mayra, otra de las estudiantes:",
+          "imagen":"img/ascenso/secundaria/2019/comunicación/3.jpg",
+          "pregunta": "La docente valora que el texto de Mayra haya cumplido con el propósito comunicativo planteado. Ahora, busca orientar a la estudiante a mejorar su escrito con respecto al uso del punto y aparte. ¿Cuál de las siguientes acciones pedagógicas es más adecuada para lograr este propósito?",
+          "opciones": [
+            "Comentar que es importante que, en su texto, puedan identificarse claramente los subtemas que ha abordado. Luego, indicarle cuáles son dichos subtemas y pedirle que los separe en párrafos distintos utilizando el punto y aparte.",
+            "Mencionar que el punto y aparte se emplea para delimitar en párrafos los subtemas que conforman un texto. Luego, leer con ella su escrito y decirle en dónde es adecuado utilizar este signo para separar los subtemas que ha desarrollado.",
+            "Preguntar si, en su texto, aborda un solo subtema o si puede identificar más de uno. Luego, pedir que indique dónde empiezan y dónde terminan dichos subtemas y, a partir de esto, que explique por qué cree que debe usar punto y aparte para separarlos."
+          ],
+          "respuesta": "Preguntar si, en su texto, aborda un solo subtema o si puede identificar más de uno. Luego, pedir que indique dónde empiezan y dónde terminan dichos subtemas y, a partir de esto, que explique por qué cree que debe usar punto y aparte para separarlos.",
+          "respuestaCorta": "Esta estrategia guía a la estudiante para que ella misma descubra la estructura temática de su texto y comprenda la función del punto y aparte como delimitador de ideas.",
+          "solucionario": "La opción más adecuada es la que promueve el descubrimiento y la reflexión por parte de la estudiante. Al hacerla identificar los subtemas y justificar el uso del punto y aparte, se asegura que comprenda el concepto de párrafo como una unidad de sentido. Las otras opciones le proporcionan la respuesta de forma directa, impidiendo que internalice el conocimiento sobre la organización textual.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "La docente brinda diversas sugerencias para que los estudiantes revisen sus escritos. ¿Cuál de las siguientes sugerencias busca que los estudiantes evalúen los aspectos de coherencia de sus textos?",
+          "opciones": [
+            "\"Asegúrense de que las ideas que hayan desarrollado en sus textos no se contradigan entre sí\".",
+            "\"Revisen que los puntos que hayan utilizado les permitan delimitar las oraciones de sus escritos\".",
+            "\"Verifiquen que en sus testimonios hayan empleado una gran variedad de conectores lógicos\"."
+          ],
+          "respuesta": "\"Asegúrense de que las ideas que hayan desarrollado en sus textos no se contradigan entre sí\".",
+          "respuestaCorta": "La coherencia textual se refiere a la relación lógica y no contradictoria de las ideas. La sugerencia de evitar contradicciones apunta directamente a esta propiedad.",
+          "solucionario": "La coherencia es la propiedad textual que se encarga de la relación lógica entre las ideas. Evitar la contradicción es un requisito fundamental de la coherencia. La opción 'b' se refiere a la puntuación, un aspecto normativo. La opción 'c' se refiere al uso de conectores, que es un mecanismo de cohesión, la cual contribuye a la coherencia pero no es la coherencia en sí misma.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p02",
+      "contexto": "En una IE, se están realizando diversas actividades por Fiestas Patrias. En ese contexto, la docente les propone a sus estudiantes leer textos literarios de escritores que vivieron en la época de la emancipación. A continuación, se presenta uno de los poemas que están leyendo:\n\n'Los gatos'\n\nUna gata parió varios gatitos,\nuno blanco, uno negro, otro manchado;\nluego que ellos quedaron huerfanitos\nlos perseguía un perro endemoniado;\ny para dar el golpe a su enemigo\nno había más remedio que juntarse,\ny que la dulce unión fuese su abrigo.\nVan pues a reunirse, y al tratarse\nsobre quién de ellos deba ser cabeza,\nmaullando el blanco dijo: \"A mí me toca\npor mi blancura, indicio de nobleza\".\nEl negro contestó: \"Calla la boca;\nel más diestro y valiente mandar debe\".\n\"Malo\", dijo el manchado, \"si esto dura\ntemo que todo el Diablo se lo lleve.\nUnión y mande el digno\".\n\"Esto es locura\", gritó el blanco;\ny el negro le replica.\nSe dividen por fin en dos partidos;\nla ira y la turbación se multiplican,\nse arañan, gritan, y a sus alaridos\nacude el perro y los destroza.\nSi a los gatos al fin nos parecemos,\npaisanos, ¿esperamos otra cosa?\n¿Tendremos libertad? Ya lo veremos...",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "La docente busca que los estudiantes deduzcan información implícita del poema. ¿Cuál de las siguientes preguntas es más adecuada para que logre su propósito?",
+          "opciones": [
+            "¿Qué opinan de que el autor haya culminado el poema planteando dos preguntas a sus lectores?",
+            "Según el poema, ¿cómo terminó la discusión que tuvieron los gatos sobre quién debía dirigirlos?",
+            "¿Cuál fue el problema que impidió que los gatos lograran enfrentarse al perro que los perseguía?"
+          ],
+          "respuesta": "¿Cuál fue el problema que impidió que los gatos lograran enfrentarse al perro que los perseguía?",
+          "respuestaCorta": "Esta pregunta exige inferir la causa principal del fracaso de los gatos (su división interna), la cual no está declarada explícitamente como el impedimento, sino que debe deducirse de la secuencia de acciones.",
+          "solucionario": "Deducir información implícita requiere que el lector conecte ideas y extraiga conclusiones que no están escritas textualmente. El poema narra la pelea de los gatos y luego su destrucción por el perro. La pregunta 'c' obliga al estudiante a inferir que el problema central fue su desunión y la lucha por el poder, lo que les impidió organizarse contra la amenaza externa. Las otras opciones apuntan a la opinión ('a') o a la recuperación de información explícita ('b').",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "La docente busca que los estudiantes obtengan información explícita del texto. ¿Cuál de las siguientes preguntas es más adecuada para que logre su propósito?",
+          "opciones": [
+            "¿Cuál es la razón por la que los gatos eran perseguidos por el perro?",
+            "¿Cuál de los gatos creen que es capaz de ser un mejor líder?",
+            "¿Cuál es un indicio de nobleza para uno de los gatos?"
+          ],
+          "respuesta": "¿Cuál es un indicio de nobleza para uno de los gatos?",
+          "respuestaCorta": "La respuesta a esta pregunta se encuentra de forma literal en el texto, cuando el gato blanco menciona su 'blancura' como 'indicio de nobleza'.",
+          "solucionario": "La obtención de información explícita consiste en localizar datos directamente mencionados en el texto. El verso \"maullando el blanco dijo: 'A mí me toca por mi blancura, indicio de nobleza'\" contiene la respuesta literal a la pregunta 'c'. La pregunta 'a' no tiene respuesta en el texto y la 'b' solicita una opinión personal.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "La docente busca que los estudiantes construyan el sentido global del poema. ¿Cuál de las siguientes acciones pedagógicas es más adecuada para que logre dicho propósito?",
+          "opciones": [
+            "Explicar cuáles eran los grupos que se enfrentaban por el control político del territorio peruano antes de 1821. Luego, pedir que mencionen la correspondencia entre estos acontecimientos históricos y las acciones que realizan los personajes del poema. Finalmente, solicitar que compartan sus respuestas y discutan sobre ellas.",
+            "Comentar que la mayoría de los temas literarios de la época de la emancipación del Perú se referían a problemas políticos y militares. Luego, mencionar quiénes fueron los principales personajes que participaron en aquella época. Finalmente, explicar a quiénes representan los gatos y a quiénes representa el perro.",
+            "Mencionar que Melgar utilizó la poesía para transmitir sus reflexiones sobre la situación política en la época de la emancipación del Perú. Luego, indicarles cuál es la intención del poeta cuando les plantea preguntas a sus lectores. Finalmente, pedirles que discutan sobre el hecho de escribir poesía con fines políticos."
+          ],
+          "respuesta": "Explicar cuáles eran los grupos que se enfrentaban por el control político del territorio peruano antes de 1821. Luego, pedir que mencionen la correspondencia entre estos acontecimientos históricos y las acciones que realizan los personajes del poema. Finalmente, solicitar que compartan sus respuestas y discutan sobre ellas.",
+          "respuestaCorta": "Esta acción conecta el poema (una fábula) con su contexto histórico, permitiendo a los estudiantes interpretar la alegoría y construir el significado completo que el autor pretendía comunicar.",
+          "solucionario": "Para construir el sentido global del poema, que es una fábula con una clara intención política, es fundamental relacionarlo con su contexto de producción (la época de la emancipación). La opción 'a' guía a los estudiantes a establecer el paralelismo entre la división de los gatos y las luchas internas de los patriotas, lo que les permite comprender la crítica y la advertencia del autor. Las otras opciones son menos efectivas porque el docente da la interpretación en lugar de guiar a los estudiantes para que la construyan.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p03",
+      "contexto": "En el taller de lectura y escritura literaria, los estudiantes de cuarto grado leerán cuentos policiales. En este contexto, antes de empezar la lectura de \"Los crímenes de la calle Morgue\" de Edgar Allan Poe, el docente pide a los estudiantes que lean el epígrafe presentado al inicio del cuento:",
+      "imagen": "img/ascenso/secundaria/2019/comunicación/4.jpg",
+      "preguntas": [
+        {
+          "pregunta": "El docente busca utilizar el epígrafe como recurso para orientar a los estudiantes en la interpretación del texto. ¿Cuál de las siguientes acciones pedagógicas es más adecuada para ello?",
+          "opciones": [
+            "Explicarles que este epígrafe sostiene que diversas situaciones, incluso aquellas que son consideradas misteriosas o sobrenaturales, pueden ser explicadas de una manera convincente mediante la razón. Luego, pedirles que identifiquen cómo se demuestra esta idea en el texto.",
+            "Pedirles que mencionen qué ideas les surgen al leer el epígrafe y qué función podría tener en el cuento. Luego, al finalizar la lectura, solicitar que expliquen si las anticipaciones que elaboraron sobre el epígrafe se han confirmado o han cambiado luego de realizar la lectura del cuento.",
+            "Indicarles que los epígrafes son textos que se emplean para presentar o anticipar una idea que los escritores buscan comunicar en sus textos. Luego, comentarles que, en este caso, el autor emplea este epígrafe como una ayuda que permite comprender el conflicto principal de este relato."
+          ],
+          "respuesta": "Pedirles que mencionen qué ideas les surgen al leer el epígrafe y qué función podría tener en el cuento. Luego, al finalizar la lectura, solicitar que expliquen si las anticipaciones que elaboraron sobre el epígrafe se han confirmado o han cambiado luego de realizar la lectura del cuento.",
+          "respuestaCorta": "Esta acción promueve una lectura activa, donde los estudiantes formulan hipótesis iniciales basadas en el epígrafe y luego las contrastan con el contenido del cuento, construyendo así su propia interpretación.",
+          "solucionario": "La mejor estrategia pedagógica es la que involucra activamente al estudiante en el proceso de interpretación. La opción 'b' fomenta la anticipación y la verificación de hipótesis, habilidades clave en la comprensión lectora. Permite que los estudiantes interactúen con el texto desde el inicio y reflexionen sobre su propio proceso de comprensión. Las opciones 'a' y 'c' son expositivas, el docente simplemente les da la respuesta o la función del epígrafe, limitando el rol activo de los estudiantes.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p04",
+      "contexto": "Los estudiantes de cuarto grado van a debatir sobre los aspectos positivos y negativos de los procesos migratorios en el mundo en la última década. En este contexto, la docente les pide que se agrupen de acuerdo con la afinidad de sus opiniones y, luego, definan la postura que quieren defender.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Durante la planificación de los textos orales, la docente se acerca a uno de los equipos para preguntar sobre su avance. Ella nota que los integrantes de este equipo, únicamente, han considerado leer la información que han recopilado sobre los procesos migratorios, sin establecer su postura al respecto. Ante esto, la docente busca orientar a estos estudiantes en la planificación de sus textos orales. ¿Cuál de las siguientes acciones pedagógicas es más adecuada para ello?",
+          "opciones": [
+            "Preguntar por el objetivo de debatir sobre los aspectos positivos y negativos de los procesos migratorios en el mundo en la última década. Luego, pedir que mencionen sobre cuál de estos aspectos elaborarán sus argumentos. Después, ayudarlos a buscar más fuentes de información que les permitan rebatir los argumentos de los otros equipos.",
+            "Indicar que, además de leer información, deben ofrecer argumentos para sostener una postura sobre los procesos migratorios en el mundo en la última década. Luego, comentar que es necesario tratar de refutar la postura que tienen los otros equipos sobre el tema. Después, pedir que elaboren sus argumentos y contraargumentos usando la información que ya tienen.",
+            "Mencionar que en el debate se expondrán y discutirán las posturas sobre los procesos migratorios en el mundo en la última década. Sobre esta base, pedir que decidan quién va a iniciar el debate, quién expondrá los argumentos y quién realizará la conclusión de sus intervenciones. Después, solicitar que se pongan de acuerdo sobre estos aspectos antes de intervenir."
+          ],
+          "respuesta": "Preguntar por el objetivo de debatir sobre los aspectos positivos y negativos de los procesos migratoratorios en el mundo en la última década. Luego, pedir que mencionen sobre cuál de estos aspectos elaborarán sus argumentos. Después, ayudarlos a buscar más fuentes de información que les permitan rebatir los argumentos de los otros equipos.",
+          "respuestaCorta": "Esta acción guía a los estudiantes a definir su propósito y a seleccionar la información relevante para construir sus argumentos, paso fundamental antes de organizar la participación en el debate.",
+          "solucionario": "El problema principal del equipo es la falta de una postura definida. La opción 'a' aborda este problema de raíz al hacer que reflexionen sobre el objetivo del debate y elijan un enfoque (positivo o negativo) para construir sus argumentos. Esto estructura su planificación. La opción 'b' es directiva ('deben ofrecer argumentos'), y la 'c' se salta el paso crucial de definir la postura y pasa directamente a la organización logística.",
+          "seccion": "Casuística"
+        },
+        {
+          "contexto": "Los estudiantes están planificando sus textos orales para participar en el debate. Durante la búsqueda de información, uno de los equipos le comenta a la docente que, en internet, encontró el siguiente blog: ",
+          "imagen": "img/ascenso/secundaria/2019/comunicación/5.jpg",
+          "pregunta":"La docente ha revisado el blog encontrado por el equipo y nota que incluye información inexacta, por lo cual considera que no es confiable. Por ello, busca promover que los estudiantes cuenten con algunos criterios que los ayuden a seleccionar fuentes de información confiables. ¿Cuál de las siguientes acciones pedagógicas es más adecuada para ello?",
+          "opciones": [
+            "Preguntarles si el blog tiene el respaldo de alguna institución académica. Luego, solicitar que comprueben si el contenido que ofrece dicho blog se basa en investigaciones que tratan sobre la migración.",
+            "Preguntarles si el blog presenta una postura sobre el tema de la migración igual a la de ellos. Luego, solicitar que busquen blogs con posturas distintas para que tengan información variada sobre dicho tema.",
+            "Preguntarles si, al realizar la búsqueda en la web, el blog fue uno de los primeros que apareció. Luego, solicitar que averigüen si dicho blog ha sido consultado y compartido en internet por una gran cantidad de usuarios."
+          ],
+          "respuesta": "Preguntarles si el blog tiene el respaldo de alguna institución académica. Luego, solicitar que comprueben si el contenido que ofrece dicho blog se basa en investigaciones que tratan sobre la migración.",
+          "respuestaCorta": "Esta acción enseña a los estudiantes a aplicar criterios de confiabilidad clave: la autoridad (respaldo institucional) y la precisión (base en investigaciones) de la fuente de información.",
+          "solucionario": "Para evaluar la confiabilidad de una fuente, es crucial analizar la autoría y el sustento de la información. La opción 'a' orienta a los estudiantes hacia criterios académicos sólidos, como el respaldo institucional y la base en investigaciones. La opción 'b' puede conducir al sesgo de confirmación. La opción 'c' se basa en la popularidad (ranking de búsqueda, número de veces compartido), que no es un indicador de veracidad o confiabilidad.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Los estudiantes, organizados en equipos, ensayan las intervenciones que realizarán en el debate. En este contexto, la docente nota que varios estudiantes no modulan adecuadamente su voz, emplean pocos gestos y no establecen contacto visual con sus interlocutores. Por esta razón, ella busca orientar a dichos estudiantes a incorporar estos recursos en sus textos orales. ¿Cuál de las siguientes acciones pedagógicas es más adecuada para ello?",
+          "opciones": [
+            "Brindar una definición de recursos paraverbales y no verbales, y hacer énfasis en la importancia de utilizarlos durante el desarrollo de un debate. Luego, mostrarles de qué manera incorporar dichos recursos en sus intervenciones orales. Después, indicar que practiquen sus presentaciones utilizando cada uno de estos recursos y verificar que los hayan empleado adecuadamente.",
+            "Preguntarles si solo el contenido verbal de un texto oral es suficiente para comunicar su mensaje. Luego, pedirles que expliquen si creen que el uso de algunos recursos, como el empleo de gestos, los cambios en la entonación de voz y el contacto visual, ayudarían a enriquecer dicho contenido. Después, solicitar que practiquen su presentación oral usando estos y otros recursos, y evalúen si hubo una mejora.",
+            "Recomendarles que busquen videos de expositores experimentados para que observen el modo en que usan los gestos, la entonación de voz y el contacto visual. Luego, comentar que el uso de dichos recursos permite que la interacción con los interlocutores se dinamice. Después, solicitar que, cuando practiquen sus presentaciones, verifiquen que cada integrante de sus propios equipos haya empleado estos recursos."
+          ],
+          "respuesta": "Preguntarles si solo el contenido verbal de un texto oral es suficiente para comunicar su mensaje. Luego, pedirles que expliquen si creen que el uso de algunos recursos, como el empleo de gestos, los cambios en la entonación de voz y el contacto visual, ayudarían a enriquecer dicho contenido. Después, solicitar que practiquen su presentación oral usando estos y otros recursos, y evalúen si hubo una mejora.",
+          "respuestaCorta": "Esta opción promueve la reflexión y la autoevaluación. Guía a los estudiantes para que descubran por sí mismos la importancia de los recursos no verbales y paraverbales y evalúen su propio progreso.",
+          "solucionario": "La acción pedagógica más efectiva es la que fomenta la metacognición. La opción 'b' logra esto al plantear preguntas que llevan a los estudiantes a reflexionar sobre la comunicación integral (verbal y no verbal). Al hacer que ellos mismos practiquen y evalúen el impacto de estos recursos, se promueve un aprendizaje más significativo y duradero que si simplemente se les da una definición (opción 'a') o se les pide que imiten a otros (opción 'c').",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "La docente elaboró una ficha para que los estudiantes evalúen a sus compañeros de equipo durante el ensayo que realizan como preparación para el debate. A continuación, se muestran tres aspectos considerados en la ficha:<br>\n\n¿Qué aspectos debo observar?<br>\n1. Presenta argumentos que se vinculan lógicamente y que ayudan a sostener su postura sobre el tema.<br>\n2. Utiliza un vocabulario variado para evitar repeticiones durante su argumentación.<br>\n3. Realiza pausas y cambios en la entonación de voz para enfatizar las ideas relevantes de su argumentación.\n\n¿Cuál de estos aspectos se centra en evaluar la coherencia de los textos orales?",
+          "opciones": [
+            "El 1.",
+            "El 2.",
+            "El 3."
+          ],
+          "respuesta": "El 1.",
+          "respuestaCorta": "La coherencia se refiere a la conexión lógica de las ideas para sostener una postura central. El aspecto 1 evalúa directamente esta propiedad textual.",
+          "solucionario": "La coherencia es la propiedad que asegura la unidad de sentido de un texto. En un debate, esto se manifiesta en la relación lógica entre los argumentos y la postura que se defiende, tal como lo describe el ítem 1. El ítem 2 se relaciona con la riqueza léxica (cohesión), y el ítem 3 se refiere a los recursos paraverbales, que afectan la entrega del mensaje, pero no su estructura lógica interna.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p05",
+      "contexto": "Los estudiantes de cuarto grado van a debatir sobre los aspectos positivos y negativos de los procesos migratorios en el mundo en la última década. En este contexto, la docente les pide que se agrupen de acuerdo con la afinidad de sus opiniones y, luego, definan la postura que quieren defender.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Una estudiante practica su texto oral frente a sus compañeros de equipo. Ellos van a anotar en un papel los aspectos positivos de la presentación de su compañera. A continuación, se presenta la primera parte de dicha presentación:<br>\n\n\"Luego de saludarlos, quisiera decirles que nosotros creemos que la migración tiene más aspectos positivos que negativos. Lo primero que vamos a hacer es... dar una definición de migración. Eh... bueno, algunos dicen que la migración es el desplazamiento de personas de un territorio a otro. Eh... por ejemplo, durante los años noventa, según mi hermano que vive en provincia, hubo muchos migrantes peruanos que llegaron a la capital para buscar trabajo. Ahora, ya dicha la definición, lo segundo que vamos a hacer es dar nuestros argumentos. Este... sabemos que todos los migrantes aportan lo que saben al lugar a donde llegan...\".<br>\n\nLos estudiantes esperan a que su compañera termine su presentación para realizar algunos comentarios. ¿Cuál de los siguientes comentarios se centra en resaltar un aspecto positivo relacionado con la cohesión del texto oral?",
+          "opciones": [
+            "\"A mí me pareció interesante que hablaras siempre de 'nosotros', aunque no estábamos exponiendo. Esto es una señal de que nos tomas en cuenta\".",
+            "\"Cuando dijiste: 'lo primero que vamos a hacer...' , y luego dijiste: 'lo segundo que vamos a hacer...', nos ayudaste a entender cómo está organizada la exposición\".",
+            "\"Me gustó que, luego de decir qué es la migración, dieras un ejemplo de nuestro propio país porque se nos hace más familiar a todos. Así, nos queda más claro qué es\"."
+          ],
+          "respuesta": "\"Cuando dijiste: 'lo primero que vamos a hacer...' , y luego dijiste: 'lo segundo que vamos a hacer...', nos ayudaste a entender cómo está organizada la exposición\".",
+          "respuestaCorta": "El comentario resalta el uso de conectores de orden ('lo primero', 'lo segundo'), que son mecanismos de cohesión explícitos para estructurar y organizar la información del discurso.",
+          "solucionario": "La cohesión se refiere a los elementos lingüísticos que conectan las partes de un texto. El comentario 'b' destaca el uso de organizadores textuales que guían al oyente a través de la estructura del discurso, lo cual es un claro ejemplo de un recurso de cohesión. El comentario 'a' se refiere al uso de pronombres y su efecto pragmático de inclusión. El comentario 'c' se enfoca en la coherencia, es decir, en la pertinencia del ejemplo para aclarar la definición.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "La docente nota que algunos grupos se limitaron a ofrecer las opiniones de sus familiares como argumentos. Por esta razón, ella busca que los integrantes de estos grupos reflexionen sobre la necesidad de presentar argumentos sólidos en un debate. ¿Cuál de las siguientes acciones pedagógicas es más adecuada para que logre su propósito?",
+          "opciones": [
+            "Preguntar si han revisado diarios locales en los que se presenten noticias de actualidad acerca de los aspectos positivos y negativos de la migración. Luego, pedir que expliquen si creen que incorporar esta información en sus textos orales les permite ejemplificar los argumentos que expondrán durante el debate.",
+            "Comentar que los argumentos que ofrecieron sobre los aspectos positivos y negativos de la migración son insuficientes. Luego, pedirles que enriquezcan la información que han dado en sus argumentos, tomando en cuenta los aspectos sociales y económicos que creen que se vinculan con el concepto de migración.",
+            "Solicitar que mencionen qué fuentes usaron para argumentar sobre los aspectos positivos y negativos de la migración, y que expliquen si es suficiente emplear como argumento la opinión de un familiar. Luego, darles criterios para que busquen fuentes confiables, y pedir que las contrasten con la información que ofrecieron en su texto oral."
+          ],
+          "respuesta": "Solicitar que mencionen qué fuentes usaron para argumentar sobre los aspectos positivos y negativos de la migración, y que expliquen si es suficiente emplear como argumento la opinión de un familiar. Luego, darles criterios para que busquen fuentes confiables, y pedir que las contrasten con la información que ofrecieron en su texto oral.",
+          "respuestaCorta": "Esta acción promueve la reflexión sobre la validez de las fuentes, haciendo que los estudiantes cuestionen la solidez de sus argumentos y los guía hacia la búsqueda de información respaldada.",
+          "solucionario": "La debilidad de los argumentos del grupo radica en la falta de fuentes sólidas. La opción 'c' aborda este problema de manera efectiva al guiar a los estudiantes a través de un proceso de metacognición sobre sus fuentes ('expliquen si es suficiente...') y luego les proporciona las herramientas ('darles criterios') para mejorar. Las otras opciones son menos efectivas porque no se centran en el problema fundamental de la calidad y fiabilidad de la fuente argumentativa.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p06",
+      "contexto": "Una docente propuso a los estudiantes de tercer grado leer el siguiente relato ashaninka:\n\n'El curandero y el sapito'\n\nUn curandero estaba cazando en un lugar alejado del bosque cuando, de pronto, comenzó a llover muy fuerte. Mientras esperaba a que la lluvia termine, apareció frente a él un sapito muy raro. Al curandero se le ocurrió burlarse de él. Entonces, cogió al sapito, y le frotó la rabadilla y las ancas con un poco de tabaco que llevaba en su morral. De repente, el sapito comenzó a convertirse en persona. Y es que, en verdad, el sapito era un demonio.\nAsustado, el curandero se convirtió en picaflor y salió volando de ese lugar. El demonio comenzó a perseguirlo. Para engañarlo, el curandero se convirtió en un pez mojarra y se arrojó al río, pero el demonio se dio cuenta y convertido también en mojarra siguió persiguiéndolo por el agua. Después, el curandero se convirtió en una piedrecilla y se hundió en el fondo del río, pero el demonio lo encontró y apenas tuvo tiempo para huir.\nEn su huida, el curandero se convirtió en casi todos los árboles, flores, lianas, insectos, izangos, monos, huanganas, majaces y aves que habitan el bosque, pero el demonio nunca lo perdió de vista. Al cabo de un buen rato, el curandero se cansó. Entonces, se convirtió en picaflor otra vez y voló velozmente rumbo al árbol capiro (cuyo tallo es hueco) y, ¡crack!, entró. Detrás de él, se cerró el árbol como una puerta. El demonio, que estaba atrás, intentó entrar también, pero se quedó atascado -¡brak!- y no pudo salir, tampoco pudo meterse. Es así como el curandero se libró del demonio que lo perseguía.\nFinalmente, el curandero volvió a su pueblo. Ahí encontró a un sabio, que era su maestro, conocedor de la medicina ashaninka. El sabio se alegró mucho al verlo con vida e inmediatamente le dijo: \"Felizmente pudiste escapar; si te hubiera atrapado, ese demonio te hubiera quebrado todos los huesos. No debiste burlarte del sapito porque él es el demonio de los bosques y tiene mucha fuerza y poder\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Durante el diálogo con los estudiantes sobre el relato, la docente planteó varias preguntas. ¿Cuál de las siguientes preguntas se centra en que reflexionen sobre los aspectos formales del texto?",
+          "opciones": [
+            "¿Cuál es la función que cumplen las expresiones '¡crack!' y '¡brak!' en el relato?",
+            "¿Cuáles son las características que presenta el demonio de los bosques en este relato?",
+            "¿Cuál es la razón por la que el curandero logró escaparse del demonio que lo perseguía?"
+          ],
+          "respuesta": "¿Cuál es la función que cumplen las expresiones '¡crack!' y '¡brak!' en el relato?",
+          "respuestaCorta": "Esta pregunta se enfoca en el uso de onomatopeyas, que son recursos lingüísticos y formales utilizados por el autor para crear efectos sonoros, en lugar de analizar el contenido de la trama.",
+          "solucionario": "Los aspectos formales de un texto se refieren a la manera en que está construido, incluyendo el uso del lenguaje, la estructura y los recursos literarios. La pregunta 'a' indaga sobre la función de las onomatopeyas, un recurso formal. En cambio, las preguntas 'b' y 'c' se centran en el contenido del relato: la caracterización de un personaje y los eventos de la trama.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "En otro momento del intercambio de ideas sobre el relato, los estudiantes están comentando los aspectos que más les llamaron la atención. Estas son las intervenciones de tres estudiantes:<br>\n\nAdelaida: Yo pensaba que el curandero no se iba a escapar. Parecía que el demonio se daba cuenta de todos los trucos que usó el curandero.<br>\nBraulio: No me gustó que el curandero se haya salido con la suya, porque, aunque el sapo resultó ser un demonio, el curandero fue quien empezó a molestarlo.<br>\nCielo: El sabio del final le llamó la atención al curandero apenas lo vio. Esto me hace pensar que este sabio ya estaba enterado de lo que le había pasado al curandero.\n\n¿Cuál de los comentarios se ajusta más a una reflexión sobre el contenido del relato?",
+          "opciones": [
+            "El de Adelaida.",
+            "El de Braulio.",
+            "El de Cielo."
+          ],
+          "respuesta": "El de Braulio.",
+          "respuestaCorta": "Braulio emite un juicio de valor sobre las acciones de un personaje y el desenlace moral de la historia, lo cual constituye una reflexión profunda sobre el contenido del texto.",
+          "solucionario": "Reflexionar sobre el contenido implica ir más allá de la comprensión literal para evaluar, opinar o juzgar lo que sucede en la historia. El comentario de Braulio es una reflexión ética sobre la justicia del desenlace. Adelaida comenta sobre sus expectativas de la trama (suspense), mientras que Cielo realiza una inferencia sobre el conocimiento de un personaje. El comentario de Braulio es el que mejor representa una reflexión valorativa del contenido.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "La docente busca que los estudiantes se vinculen de forma significativa con relatos de tradición oral de diversa procedencia. ¿Cuál de las siguientes acciones pedagógicas es más adecuada para lograr este propósito?",
+          "opciones": [
+            "Sugerirles que busquen y revisen fuentes de información sobre la historia y cosmovisión del pueblo originario ashaninka. Luego, pedirles que vuelvan a leer el relato para que lo interpreten a partir de la información que han revisado.",
+            "Pedirles que recopilen historias orales que hayan escuchado en su entorno y las comparen con el relato leído. A partir de esta comparación, solicitar que expliquen qué semejanzas o diferencias encuentran entre dicho relato y las historias recopiladas.",
+            "Mostrarles un conjunto de relatos de tradición oral de otro pueblo originario amazónico del Perú. Luego, pedirles que clasifiquen este conjunto de relatos y compartan con sus compañeros los criterios en los que se basaron para establecer dicha clasificación."
+          ],
+          "respuesta": "Pedirles que recopilen historias orales que hayan escuchado en su entorno y las comparen con el relato leído. A partir de esta comparación, solicitar que expliquen qué semejanzas o diferencias encuentran entre dicho relato y las historias recopiladas.",
+          "respuestaCorta": "Esta acción establece un puente entre el texto leído y el contexto cultural y personal de los estudiantes, fomentando una conexión significativa al valorar tanto lo ajeno como lo propio.",
+          "solucionario": "Un vínculo significativo se crea cuando el aprendizaje se conecta con las experiencias y conocimientos previos de los estudiantes. La opción 'b' logra esto al invitarlos a explorar su propia tradición oral y compararla con la del relato ashaninka. Este enfoque intercultural y vivencial es más efectivo para una vinculación personal que un enfoque puramente académico (opción 'a') o una tarea de clasificación (opción 'c').",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p07",
+      "contexto": "Como parte de su despedida de la etapa escolar, los estudiantes de quinto grado, organizados en grupos, van a escribir textos que tendrán como propósito valorar y reconocer la labor de los directivos, de los docentes, así como del personal de mantenimiento y administrativo de la IE. Dichos textos serán publicados en el periódico mural de la institución.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Los integrantes de uno de los grupos escribirán un texto dirigido al personal de mantenimiento de la IE. Por ello, han elaborado una lista con las actividades que llevarán a cabo. Estas son tres de las actividades que van a realizar:<br>\n\n• Actividad 1. Preguntar a los compañeros de la escuela si tienen una anécdota sobre el personal de mantenimiento que quisieran compartir.<br>\n• Actividad 2. Ordenar la información que vamos a obtener en un organizador gráfico para decidir qué ideas se desarrollarán en el texto.<br>\n• Actividad 3. Conversar sobre las partes que tendrá el texto y el registro que vamos a utilizar en función de nuestro objetivo.<br>\n\nEl docente nota que la lista contiene actividades que corresponden al proceso de planificación de producción de textos escritos. ¿Cuál de ellas corresponde a la recopilación de fuentes de información?",
+          "opciones": [
+            "La actividad 1.",
+            "La actividad 2.",
+            "La actividad 3."
+          ],
+          "respuesta": "La actividad 1.",
+          "respuestaCorta": "La Actividad 1 describe la acción de buscar y recoger información (anécdotas) de otras personas, lo cual es la definición de recopilar fuentes de información.",
+          "solucionario": "El proceso de escritura se divide en etapas. La recopilación de información es parte de la planificación. La Actividad 1, que consiste en preguntar a otros para obtener anécdotas, es una forma de investigación y acopio de datos. La Actividad 2 es de organización de la información ya recopilada, y la Actividad 3 es de definición de la estructura y el registro, que también son parte de la planificación pero posteriores a la recopilación inicial.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Dos estudiantes le han comentado al docente que quieren escribir una semblanza sobre el secretario de la IE, pero no saben cómo empezar. Por ello, el docente busca orientar a las estudiantes en el proceso de planificación de textos escritos. ¿Cuál de las siguientes acciones pedagógicas es más adecuada para que logre su propósito?",
+          "opciones": [
+            "Pedir que busquen ejemplos de semblanzas para mostrarles la estructura que presentan. Después, solicitar que elijan la semblanza cuya estructura se ajusta más a su destinatario y a la situación comunicativa. Luego, pedirles que organicen la información que recopilarán para su propio escrito usando la estructura de la semblanza que eligieron.",
+            "Indicarles que el propósito de una semblanza es ofrecer, de forma resumida, datos biográficos relevantes de una persona. Después, pedirles que mencionen algunos datos del secretario de la IE y mostrarles cómo organizarlos. Luego, solicitar que, cuando escriban su texto, tengan en cuenta que debe mantenerse un registro formal.",
+            "Solicitar que mencionen qué aspectos sobre la labor del secretario buscan destacar en su texto. Después, sugerir, por ejemplo, que recojan información entrevistando a las personas que forman parte del entorno de este trabajador. Luego, pedirles que revisen la información recopilada, y la ordenen cronológica y jerárquicamente en un organizador."
+          ],
+          "respuesta": "Solicitar que mencionen qué aspectos sobre la labor del secretario buscan destacar en su texto. Después, sugerir, por ejemplo, que recojan información entrevistando a las personas que forman parte del entorno de este trabajador. Luego, pedirles que revisen la información recopilada, y la ordenen cronológica y jerárquicamente en un organizador.",
+          "respuestaCorta": "Esta opción guía a los estudiantes a través de las etapas clave de la planificación: definir el enfoque, recopilar información de fuentes primarias y organizar las ideas antes de escribir.",
+          "solucionario": "Una orientación efectiva para la planificación debe ser un proceso guiado que fomente la autonomía. La opción 'c' es la más completa porque parte de la intención del escritor ('qué aspectos buscan destacar'), sugiere métodos de investigación ('entrevistando') y finaliza con la organización de ideas ('ordenen en un organizador'). Esto contrasta con la opción 'a', que promueve la imitación de un modelo, y la 'b', que es demasiado directiva y le da al estudiante la información ya procesada.",
+          "seccion": "Casuística"
+        },
+        {
+          "contexto": "El docente les ha propuesto a los estudiantes analizar la función que cumple un determinado conector en uno de los textos escritos por ellos. A continuación, se presenta un fragmento extraído de uno de estos textos:",
+          "imagen":"img/ascenso/secundaria/2019/comunicación/6.jpg",
+          "pregunta":"¿Qué estudiante ha identificado la función del conector 'pues bien'?",
+          "opciones": [
+            "Ana.",
+            "Bruno.",
+            "Cecilia."
+          ],
+          "respuesta": "Bruno.",
+          "respuestaCorta": "Bruno identifica correctamente que 'pues bien' introduce una conclusión o una toma de conciencia que se deriva de las premisas anteriores, marcando el paso de la enumeración a la reflexión.",
+          "solucionario": "El conector discursivo 'pues bien' se utiliza para introducir una conclusión, un resumen o una reflexión que se desprende de lo anteriormente dicho. En el texto, después de enumerar las acciones de los docentes, el autor llega a una realización: 'ahora me doy cuenta'. Bruno capta esta función de introducir una nueva conciencia. Ana lo confunde con un conector causal y Cecilia con uno de contraste, ambas interpretaciones incorrectas para este contexto.",
+          "seccion": "Casuística"
+        },
+        {
+          "contexto": "Un estudiante ha escrito una anécdota dedicada a la directora de la IE. Él le ha pedido al docente que lo ayude a revisar la primera versión de su escrito. Este es el texto que el estudiante ha presentado: ",
+          "imagen":"img/ascenso/secundaria/2019/comunicación/7.jpg",
+          "pregunta": "El docente nota que la puntuación del texto del estudiante dificulta la comprensión del mensaje que desea comunicar. Por esta razón, busca ayudarlo a reflexionar sobre el uso apropiado del punto y seguido. ¿Cuál de las siguientes acciones pedagógicas es más adecuada para ello?",
+          "opciones": [
+            "Pedir que lea las dos primeras líneas de su texto y que señale dónde inician y dónde terminan sus primeras dos oraciones. Luego, solicitar que explique qué función cumplen los puntos usados en dichas líneas. Después, proponerle reescribir su texto considerando que el punto y seguido debe ayudar a delimitar ideas con sentido completo.",
+            "Revisar, delante de él, varios ejemplos en que el uso erróneo del punto y seguido dificulta la comprensión de un texto. Luego, subrayar las ideas de su escrito en las que este signo se ha utilizado inadecuadamente. Después, pedirle que, tomando como base los ejemplos y las ideas subrayadas, reescriba una nueva versión de su texto.",
+            "Leer en voz alta el texto del estudiante realizando pausas cuando aparezca un punto y seguido. Luego, comentar que los puntos que utilizó dificultan la lectura de su escrito. Después, subrayar los errores que, necesariamente, debe revisar y corregir, de modo que su texto sea legible para el lector."
+          ],
+          "respuesta": "Pedir que lea las dos primeras líneas de su texto y que señale dónde inician y dónde terminan sus primeras dos oraciones. Luego, solicitar que explique qué función cumplen los puntos usados en dichas líneas. Después, proponerle reescribir su texto considerando que el punto y seguido debe ayudar a delimitar ideas con sentido completo.",
+          "respuestaCorta": "Esta estrategia promueve la autorreflexión, al guiar al estudiante para que él mismo identifique las unidades de sentido (oraciones) y comprenda la función del punto para delimitarlas.",
+          "solucionario": "La opción 'a' es la más adecuada porque se basa en un enfoque de retroalimentación reflexiva. En lugar de simplemente señalar el error, el docente guía al estudiante para que analice su propio texto, comprenda el concepto de oración con sentido completo y aplique ese conocimiento para corregir su escrito. Este proceso fomenta un aprendizaje más profundo y autónomo de la norma de puntuación.",
+          "seccion": "Casuística"
+        },
+        {
+          "contexto": "Una estudiante ha culminado la segunda versión de su texto dedicado a una trabajadora del Área Administrativa de la IE. La estudiante le ha solicitado al docente que la ayude con la revisión. A continuación, se presenta su escrito: ",
+          "imagen": " img/ascenso/secundaria/2019/comunicación/8.jpg",
+          "pregunta": "El docente nota que la estudiante puede mejorar su escrito si incluye recursos cohesivos, como pronombres o sinónimos, que ayuden a esclarecer los referentes de su texto. Por ello, busca orientar a la estudiante a mejorar este aspecto de su escrito. ¿Cuál de las siguientes acciones pedagógicas es más adecuada para que logre su propósito?",
+          "opciones": [
+            "Releer con ella el segundo párrafo de su texto y decirle que, en la segunda oración, escriba el nombre de la persona que 'tiene muchos ánimos de salir adelante'. Luego, pedirle que realice el mismo procedimiento en las demás oraciones de su texto.",
+            "Comentarle que, en las oraciones del primer párrafo y del segundo, es necesario aclarar a quiénes se está refiriendo. Luego, facilitarle algunos pronombres y sinónimos para que los utilice en ambos párrafos, de modo que pueda comunicar claramente su mensaje.",
+            "Pedir a la estudiante que lea su texto y evalúe si una persona que lee el segundo párrafo notará en qué casos habla de Juanita o de la hija de Juanita. Luego, solicitar que añada información que ayude a aclarar de quién se habla en todas las oraciones de su escrito."
+          ],
+          "respuesta": "Pedir a la estudiante que lea su texto y evalúe si una persona que lee el segundo párrafo notará en qué casos habla de Juanita o de la hija de Juanita. Luego, solicitar que añada información que ayude a aclarar de quién se habla en todas las oraciones de su escrito.",
+          "respuestaCorta": "Esta acción fomenta la metacognición al pedirle a la estudiante que adopte la perspectiva del lector para identificar la ambigüedad de los referentes y, a partir de ahí, corregir su propio texto.",
+          "solucionario": "El problema del texto es la ambigüedad referencial. La mejor estrategia es hacer que la autora sea consciente de cómo su texto puede ser interpretado por un lector externo. La opción 'c' logra esto al invitarla a evaluar la claridad desde la perspectiva de otra persona. Esto es más efectivo que simplemente decirle dónde está el error (opción 'a') o darle las herramientas sin que ella misma haya identificado la necesidad de usarlas (opción 'b').",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p08",
+      "contexto": "Con el objetivo de conmemorar el Día de las Lenguas Originarias del Perú, los estudiantes de cuarto grado, acompañados por el docente, están escribiendo ensayos sobre la importancia de preservar las lenguas originarias. Dichos ensayos serán publicados en el boletín de la IE.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Luego de la búsqueda de información, el docente está conversando con los estudiantes sobre la utilidad de escribir un borrador como parte del proceso de escritura de un texto. A continuación, se presentan los comentarios de tres estudiantes:<br>\n\nAriana: Profe, el borrador nos hace notar nuestros errores, como los de ortografía y puntuación, y otros más. Por eso, no me gusta presentarlo, aunque es cierto que gracias al borrador podemos ir viendo en qué debemos tener más cuidado para realizar mejor nuevas versiones de nuestros textos.<br>\nBriset: Los borradores sirven para mostrar que el escritor de un texto o no sabe cómo comenzar a escribir o no ha investigado lo suficiente sobre un tema. Además, me parece que hacer un borrador significa escribir de forma innecesaria un mismo texto varias veces.<br>\nCristina: Creo que no deberíamos dejar de escribir el borrador de un texto. Con el borrador, puedo ir escribiendo las ideas que tengo, y a la vez, voy leyendo y corrigiendo lo que me parece que no queda claro en el texto. Por eso, es útil el borrador y para mí es mejor escribir así.<br>\n\n¿Cuál de los comentarios de las estudiantes evidencia una concepción errónea sobre el proceso de escritura de un texto?",
+          "opciones": [
+            "El de Ariana.",
+            "El de Briset.",
+            "El de Cristina."
+          ],
+          "respuesta": "El de Briset.",
+          "respuestaCorta": "Briset concibe el borrador como una señal de incompetencia y una pérdida de tiempo, lo cual es una visión errónea que ignora la naturaleza recursiva y constructiva del proceso de escritura.",
+          "solucionario": "La didáctica de la escritura actual entiende la redacción como un proceso recursivo, donde el borrador es una herramienta fundamental para explorar ideas, organizar el texto y revisarlo. La concepción de Briset, que ve el borrador como una evidencia de incapacidad o un trabajo innecesario, es errónea y se alinea con una visión antigua que solo valora el producto final. Ariana y Cristina, en cambio, demuestran comprender la utilidad del borrador para la revisión y mejora del texto.",
+          "seccion": "Casuística"
+        },
+        {
+          "contexto": "Una estudiante ha escrito la segunda versión de una parte de su ensayo y le ha pedido al docente que la ayude a mejorarla. A continuación, se presenta dicha versión: ",
+          "imagen":" img/ascenso/secundaria/2019/comunicación/9.jpg",
+          "pregunta": "El docente busca brindar una retroalimentación para que la estudiante mejore la progresión temática del primer párrafo de su texto. ¿Cuál de las siguientes acciones pedagógicas es más adecuada para que logre su propósito?",
+          "opciones": [
+            "Releer con la estudiante el primer párrafo del texto y pedirle que señale la idea que se repite. Luego, decirle qué ideas puede utilizar para evitar que dicho párrafo sea repetitivo. A partir de esto, solicitarle que escriba una nueva versión del primer párrafo de su escrito.",
+            "Indicar a la estudiante que, en el primer párrafo de su texto, ha escrito una misma idea varias veces. Luego, comentarle que es suficiente escribir dicha idea una sola vez. Finalmente, pedirle que complemente el contenido de dicho párrafo con nueva información.",
+            "Solicitar que lea el primer párrafo e identifique si se repite alguna idea. Luego, pedir que explique si, en todos los casos, necesita escribir dicha idea y por qué. Sobre esta base, proponer que añada otras ideas que contribuyan a desarrollar el subtema que aborda ese párrafo."
+          ],
+          "respuesta": "Solicitar que lea el primer párrafo e identifique si se repite alguna idea. Luego, pedir que explique si, en todos los casos, necesita escribir dicha idea y por qué. Sobre esta base, proponer que añada otras ideas que contribuyan a desarrollar el subtema que aborda ese párrafo.",
+          "respuestaCorta": "Esta acción promueve la autorregulación, guiando a la estudiante para que identifique la redundancia, reflexione sobre su función y genere nuevas ideas para enriquecer el texto.",
+          "solucionario": "El problema del párrafo es la falta de progresión temática debido a la repetición de la misma idea. La opción 'c' es la más adecuada porque sigue un enfoque de retroalimentación por descubrimiento: primero, la estudiante identifica el problema; segundo, reflexiona sobre él; y tercero, busca soluciones (añadir nuevas ideas). Este proceso es más formativo que las opciones 'a' y 'b', donde el docente identifica el problema y/o provee la solución directamente.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p09",
+      "contexto": "Con el objetivo de conmemorar el Día de las Lenguas Originarias del Perú, los estudiantes de cuarto grado, acompañados por el docente, están escribiendo ensayos sobre la importancia de preservar las lenguas originarias. Dichos ensayos serán publicados en el boletín de la IE. Los estudiantes han terminado de escribir los párrafos correspondientes al cuerpo de sus ensayos.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Ahora, el docente busca que elaboren una introducción para contextualizar y presentar el tema que abordan dichos ensayos. ¿Cuál de las siguientes acciones pedagógicas es más adecuada para ello?",
+          "opciones": [
+            "Mostrar varios ejemplos de introducción para explicarles la estructura que presentan. Luego, pedirles que elijan uno de estos ejemplos y lo utilicen como modelo para escribir la contextualización y presentación de sus propias introducciones.",
+            "Indicar qué ideas pueden emplear para contextualizar y presentar el tema de sus ensayos. Luego, señalar que empiecen la escritura de su introducción con la información referida al contexto y, después, presenten el tema específico de dichos ensayos.",
+            "Proponer que ofrezcan ideas para contextualizar y presentar el tema de los párrafos que han escrito. Luego, solicitar que, en parejas, conversen sobre si sus propuestas cumplen con el propósito de dar un contexto al tema de sus propios textos y anunciarlo."
+          ],
+          "respuesta": "Proponer que ofrezcan ideas para contextualizar y presentar el tema de los párrafos que han escrito. Luego, solicitar que, en parejas, conversen sobre si sus propuestas cumplen con el propósito de dar un contexto al tema de sus propios textos y anunciarlo.",
+          "respuestaCorta": "Esta acción promueve que los estudiantes generen sus propias ideas y las evalúen colaborativamente, fomentando la autonomía y la comprensión de la función de una introducción.",
+          "solucionario": "La opción 'c' es la más adecuada porque se centra en el proceso de construcción del conocimiento por parte de los estudiantes. Al proponer sus propias ideas y discutirlas en pares, internalizan la función de la introducción (contextualizar y presentar). Esto es más formativo que seguir un modelo (opción 'a') o recibir instrucciones directas del docente (opción 'b').",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p10",
+      "contexto": "En el marco de las elecciones municipales de la localidad, una docente y los estudiantes de cuarto grado conversan sobre la edad mínima para ejercer el derecho a votar. Durante el diálogo, una de las estudiantes comentó que en algunos países las personas pueden votar a partir de los 16 años. En este contexto, la docente les pidió buscar información acerca de las diversas posturas existentes sobre el tema. Estos son dos textos que los estudiantes han seleccionado para comentarlos en clase:\n\nTexto A\nLa razón principal para que la edad de sufragio en España se reduzca radica en que la gran mayoría de derechos y deberes de las personas se adquieren a los 16 años y no a los 18 años de edad. Es conveniente que a los 16 años se tenga derecho al voto, de la misma manera que se les reconoce a los adolescentes otros derechos que exigen una gran responsabilidad. Así, se suele olvidar que la ley española reconoce que los adolescentes pueden tener licencia de armas desde los 14, a los 16 pueden contraer matrimonio (hasta la ley de 1981, la mujer podía contraer matrimonio a los 12 y el varón a los 14), pueden dejar los estudios, pueden buscar trabajo y pagar impuestos. Para todo ello, pensamos que los adolescentes están suficientemente maduros, pero... ¿no para votar? Por ello, resulta fundamental que las autoridades legislativas reflexionen sobre la necesidad de modificar la edad mínima para ejercer la ciudadanía española a plenitud. De otro modo, seguirán siendo evidentes las incoherencias legales que existen en cuanto a los derechos y deberes que se adquieren durante la adolescencia.\n\nTexto B\nAdelantar la edad del voto a los 16 años en España, además de no ser consecuente con nuestro marco jurídico, es una medida que le otorgaría a los adolescentes una responsabilidad para la que no están preparados. Los defensores de la reducción de la edad del voto arguyen que a los 16 años los adolescentes asumen responsabilidades penales. Pero no dicen que son aquellas contempladas en la Ley del Menor y no en el Código Penal, por lo que, por ejemplo, un menor español de 18 años no puede ir a prisión. De otro lado, diversos estudios en psicología del desarrollo han demostrado que los adolescentes suelen tener actitudes más impulsivas que los adultos, debido a que son menos objetivos y emocionalmente más vulnerables que a los 18 o 21 años. Asimismo, se interesan más por las consecuencias de sus decisiones en un corto plazo que por las consecuencias que esas mismas decisiones conllevarían en un largo tiempo. Esto, sin duda, pensando en políticas gubernamentales y de Estado, es peligroso. Entonces, creemos que lo mejor es dejar de centrarse solo en el derecho al voto y reorientar la vista hacia todos los deberes que supone la mayoría de edad en nuestro país.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Durante el diálogo de los estudiantes sobre los textos, la docente ha propuesto varias preguntas. ¿Cuál de las siguientes preguntas se centra en que los estudiantes deduzcan información solo del texto B?",
+          "opciones": [
+            "Según el texto, ¿por qué los adolescentes suelen ser más impulsivos que los adultos?",
+            "Según las leyes españolas, ¿a qué edad una persona tiene responsabilidades penales?",
+            "¿Por qué, según el texto, los adolescentes no están listos para ejercer su derecho al voto?"
+          ],
+          "respuesta": "¿Por qué, según el texto, los adolescentes no están listos para ejercer su derecho al voto?",
+          "respuestaCorta": "Esta pregunta requiere que el estudiante sintetice las diferentes razones expuestas en el texto (marco jurídico, impulsividad, visión a corto plazo) para construir la conclusión general del autor, lo que implica una deducción.",
+          "solucionario": "Para responder la pregunta 'c', el estudiante no puede citar una única oración. Debe inferir y conectar varias ideas presentadas en el Texto B: que no están preparados legalmente (Ley del Menor vs. Código Penal) y que psicológicamente son más impulsivos y se centran en el corto plazo. Las otras preguntas apuntan a información más localizada o explícita en el texto.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "En otro momento de la actividad de lectura, la docente busca que los estudiantes obtengan información explícita presentada únicamente en el texto A. ¿Cuál de las siguientes preguntas es más adecuada para ello?",
+          "opciones": [
+            "¿Cuál es la razón principal por la que se debe reducir la edad del voto en España?",
+            "¿Por qué crees que ha cambiado la edad mínima para contraer matrimonio en España?",
+            "¿Qué quiere decir el autor cuando afirma que existen incoherencias en las leyes de España?"
+          ],
+          "respuesta": "¿Cuál es la razón principal por la que se debe reducir la edad del voto en España?",
+          "respuestaCorta": "La respuesta a esta pregunta está declarada de forma literal al inicio del Texto A, requiriendo únicamente la localización de la información.",
+          "solucionario": "La obtención de información explícita implica encontrar datos que están textualmente en el documento. La primera oración del Texto A dice: 'La razón principal para que la edad de sufragio en España se reduzca radica en que la gran mayoría de derechos y deberes... se adquieren a los 16 años'. La pregunta 'a' corresponde directamente a esta información. Las preguntas 'b' y 'c' requieren opinión e interpretación, respectivamente.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "La docente pidió a los estudiantes que comenten algún aspecto de los textos A y B que les haya llamado la atención. A continuación, se presentan las intervenciones de tres estudiantes:<br>\n\nAmalia: Yo pienso que los menores de 18 años sí podemos ser objetivos a la hora de elegir a las personas que nos representarán. Por ello, no estoy de acuerdo con lo que dice el texto B.<br>\nBerta: Yo creo que estos textos han sido escritos por representantes de algunos partidos políticos. Ellos buscan que los adolescentes voten por ellos en las elecciones para beneficiarse. <br>\nCamila: Los textos A y B utilizan información sobre las leyes para defender sus propuestas. Dicha información está relacionada con los deberes y derechos de los españoles menores de 18 años.\n\n <br>¿Qué estudiante ha elaborado una deducción que integra información de los textos A y B?",
+          "opciones": [
+            "Amalia.",
+            "Berta.",
+            "Camila."
+          ],
+          "respuesta": "Camila.",
+          "respuestaCorta": "Camila identifica un punto en común en la estrategia argumentativa de ambos textos (el uso de información legal), lo cual requiere haber procesado e integrado la información de las dos fuentes.",
+          "solucionario": "Integrar información de múltiples fuentes implica compararlas para encontrar similitudes, diferencias o patrones. Camila logra esto al señalar que tanto el Texto A (que menciona el matrimonio, trabajo, etc.) como el Texto B (que menciona la Ley del Menor) basan sus argumentos en el marco legal sobre los derechos y deberes de los adolescentes. Amalia solo opina sobre el Texto B y Berta hace una suposición que no se sustenta en la información provista.",
+          "seccion": "Casuística"
+        },
+        {
+          
+          "contexto": "La docente ha elaborado una ficha con preguntas para conocer las opiniones de los estudiantes sobre la lectura de los dos textos anteriores. A continuación, se presentan tres de las preguntas incluidas en la ficha: ",
+          "imagen": " img/ascenso/secundaria/2019/comunicación/10.jpg",
+          "pregunta": "¿Cuál es el proceso de aprendizaje que se busca promover principalmente con las preguntas presentadas?",
+          "opciones": [
+            "La metacognición sobre la lectura de los textos acerca del derecho a votar de los adolescentes.",
+            "El recojo de saberes previos de los estudiantes sobre la edad mínima para ejercer el derecho al voto.",
+            "Un conflicto cognitivo a partir de la lectura de los textos acerca del derecho a votar de los adolescentes."
+          ],
+          "respuesta": "La metacognición sobre la lectura de los textos acerca del derecho a votar de los adolescentes.",
+          "respuestaCorta": "Las preguntas de la ficha incitan a los estudiantes a reflexionar sobre su propio proceso de aprendizaje: la utilidad de lo leído, su aplicabilidad y las estrategias para superar dificultades, lo cual es esencialmente un ejercicio de metacognición.",
+          "solucionario": "La metacognición es la capacidad de reflexionar sobre los propios procesos de pensamiento y aprendizaje. Las tres preguntas de la ficha apuntan a ello: la primera evalúa la utilidad del proceso ('¿fue útil?'), la segunda su transferencia ('¿cómo puede ayudarte?'), y la tercera las estrategias para afrontar dificultades ('¿qué recomendaciones darías?'). No se centran en recoger saberes previos ni en generar un conflicto cognitivo, sino en analizar el proceso de lectura en sí mismo.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Los estudiantes están intercambiando opiniones sobre la edad mínima para votar. Durante el diálogo, la docente toma nota de los aspectos mejor logrados de las intervenciones de los estudiantes para compartirlos con ellos al final de la sesión. ¿Cuál de las siguientes anotaciones se centra en destacar un aspecto positivo de la cohesión de las intervenciones de los estudiantes?",
+          "opciones": [
+            "\"Han usado varios conectores para establecer una relación de causa y consecuencia entre sus ideas\".",
+            "\"Han mantenido el contacto visual con sus interlocutores durante sus intervenciones\".",
+            "\"Han expresado argumentos cuyas ideas se vinculan temáticamente con sus posturas\"."
+          ],
+          "respuesta": "\"Han usado varios conectores para establecer una relación de causa y consecuencia entre sus ideas\".",
+          "respuestaCorta": "Esta anotación se enfoca en el uso de conectores, que son mecanismos lingüísticos explícitos utilizados para enlazar ideas y asegurar la cohesión del texto.",
+          "solucionario": "La cohesión se refiere a los recursos lingüísticos que conectan las diferentes partes de un texto. El uso de conectores lógicos (de causa, consecuencia, etc.) es un ejemplo paradigmático de un mecanismo de cohesión. La opción 'b' alude a elementos no verbales de la comunicación. La opción 'c' describe la coherencia, que es la relación lógica y temática de las ideas con el tema central.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p11",
+      "contexto": "Con el apoyo de la docente, los estudiantes de cuarto grado están escribiendo crónicas para publicarlas en el boletín de la IE. Una estudiante está escribiendo un texto sobre el partido final del campeonato interescolar de futsal femenino en el que participó. Ella le pidió a la docente que la ayude a mejorar su escrito, el cual se presenta a continuación:",
+      "imagen": " img/ascenso/secundaria/2019/comunicación/11.jpg",
+      "preguntas": [
+        {
+          "pregunta": "La docente valora que Alicia haya escrito una crónica. Sin embargo, busca ayudarla a mejorar algunos aspectos asociados con la coherencia de su texto. ¿Cuál de los siguientes problemas de coherencia debe priorizar en su retroalimentación?",
+          "opciones": [
+            "La repetición de ideas.",
+            "Los vacíos de información.",
+            "La inclusión de algunas digresiones."
+          ],
+          "respuesta": "Los vacíos de información.",
+          "respuestaCorta": "El texto presenta un vacío de información crucial: omite narrar cómo se ganó el partido, saltando del 'cero a cero' a la celebración final, lo que rompe la coherencia narrativa.",
+          "solucionario": "La coherencia de una crónica deportiva sobre una final depende de que se narren los hechos clave. El texto salta desde que el marcador estaba empatado hasta la celebración de la victoria, omitiendo el clímax del partido (el gol o la jugada decisiva). Este vacío de información es el problema de coherencia más grave, ya que deja al lector sin entender cómo se produjo el desenlace. Otros posibles problemas como repeticiones o digresiones son secundarios frente a esta omisión.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "La docente nota que la estudiante ha usado adecuadamente los signos de puntuación en casi todo su escrito. ¿Cuál de las siguientes oraciones extraídas del texto presenta un uso adecuado de estos signos?",
+          "opciones": [
+            "Demoramos en llegar, ya que, el bus que nos llevó se malogró.",
+            "Teníamos que ganar el partido; si no, la fregábamos.",
+            "Pisamos con cierta ansiedad, el campo de juego."
+          ],
+          "respuesta": "Teníamos que ganar el partido; si no, la fregábamos.",
+          "respuestaCorta": "Esta oración utiliza correctamente el punto y coma para separar dos proposiciones yuxtapuestas que guardan una estrecha relación de sentido (condición-consecuencia).",
+          "solucionario": "La opción 'b' es la única con puntuación correcta. El punto y coma se usa para unir dos cláusulas independientes estrechamente relacionadas. En la opción 'a', la coma después de 'ya que' es incorrecta. En la opción 'c', la coma entre 'ansiedad' y 'el campo' separa indebidamente el modo del complemento directo, lo cual es un error.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p12",
+      "contexto": "En una IE, los estudiantes de segundo grado quieren implementar un biohuerto. En este contexto, el docente les ha sugerido buscar la ayuda de profesionales que puedan asesorarlos en dicha implementación.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "contexto": "Los estudiantes encargados de contactar a un ingeniero agrónomo de la localidad le han pedido al docente que revise el borrador de la carta de invitación que han escrito. A continuación, se presenta dicho borrador: ",
+          "imagen": " img/ascenso/secundaria/2019/comunicación/12.jpg",
+          "pregunta" : "El docente nota que hay varios aspectos del texto que los estudiantes pueden mejorar. ¿Cuál de los siguientes aspectos debe priorizar en su retroalimentación?",
+          "opciones": [
+            "La ausencia del motivo de la invitación y la falta de adecuación del registro a la situación comunicativa.",
+            "La falta de concordancia gramatical en algunas oraciones y el uso erróneo de algunas mayúsculas.",
+            "La omisión de las tildes diacríticas y el empleo inadecuado de algunos signos de puntuación."
+          ],
+          "respuesta": "La ausencia del motivo de la invitación y la falta de adecuación del registro a la situación comunicativa.",
+          "respuestaCorta": "Los problemas más graves son la falta de adecuación al contexto formal (registro informal) y la ambigüedad del propósito, que impiden que la carta cumpla su función comunicativa principal.",
+          "solucionario": "Antes de corregir errores de superficie como la gramática o la ortografía (opciones 'b' y 'c'), es fundamental asegurar que el texto cumpla con su propósito comunicativo. En este caso, la carta falla en dos aspectos clave: el registro es demasiado informal para dirigirse a un profesional ('Que tal Ingen.') y no especifica claramente para qué se le invita (¿a dar una charla, a asesorar, a una inauguración?). Estos problemas de adecuación son prioritarios porque afectan la efectividad del mensaje.",
+          "seccion": "Casuística"
+        },
+        {
+          "contexto": "Otro equipo le ha escrito una invitación a una ingeniera forestal que se dedica a trabajar en biohuertos. Los integrantes de dicho equipo le han pedido al docente que revise su texto antes de enviarlo. Este es el escrito que han presentado: ",
+          "imagen": " img/ascenso/secundaria/2019/comunicación/13.jpg",
+          "pregunta": "El docente busca resaltar los aspectos positivos del texto relacionados con el uso adecuado de los signos de puntuación. ¿Cuál de las siguientes acciones es apropiada para ello?",
+          "opciones": [
+            "Mencionar que han delimitado correctamente con una coma los conectores de secuencia utilizados en su invitación.",
+            "Indicar que han usado bien el punto y aparte para distinguir la presentación, el contenido y la despedida de su invitación.",
+            "Señalar que han colocado adecuadamente los puntos para escribir las abreviaturas incluidas en su invitación."
+          ],
+          "respuesta": "Indicar que han usado bien el punto y aparte para distinguir la presentación, el contenido y la despedida de su invitación.",
+          "respuestaCorta": "El texto demuestra un uso correcto de los párrafos para organizar la información, separando claramente las distintas partes de la carta, lo cual es un logro en la estructuración textual.",
+          "solucionario": "Al analizar el texto en busca de aciertos de puntuación, se observa que la opción 'b' es la correcta. Los estudiantes han estructurado la carta en párrafos que corresponden a la introducción, el cuerpo y la despedida, usando el punto y aparte para delimitarlos, lo cual es un uso adecuado de este signo para la organización textual. La opción 'a' es incorrecta porque el conector 'Luego' no está seguido de coma. La opción 'c' es incorrecta porque la abreviatura 'ud' carece del punto correspondiente.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p13",
+      "contexto": "En el taller de lectura y escritura literaria, los estudiantes de tercer grado, acompañados por la docente, están leyendo cuentos fantásticos. A continuación, se presenta uno de estos cuentos:\n\n'Espiral'\n\nRegresé a casa en la madrugada, muriéndome de sueño. Al entrar, todo obscuro. Para no despertar a nadie, avancé de puntillas y llegué a la escalera de caracol que conducía a mi cuarto. Apenas puse el pie en el primer escalón, dudé de si esa era mi casa o una casa idéntica a la mía. Y mientras subía temí que otro muchacho, igual a mí, estuviera durmiendo en mi cuarto y acaso soñándome en el acto mismo de subir por la escalera de caracol. Di la última vuelta, abrí la puerta y allí estaba él, o yo, todo iluminado de Luna, sentado en la cama, con los ojos bien abiertos. Nos quedamos un instante mirándonos de hito en hito. Nos sonreímos. Sentí que la sonrisa de él era la que también me pesaba en la boca: como en un espejo, uno de los dos era falaz. «¿Quién sueña con quién?», exclamó uno de nosotros, o quizá ambos simultáneamente. En ese momento, oímos ruidos de pasos en la escalera de caracol: de un salto nos metimos uno en otro y así fundidos nos pusimos a soñar al que venía subiendo, que era yo otra vez.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "La docente busca promover que los estudiantes interpreten el sentido global del cuento. ¿Cuál de las siguientes acciones pedagógicas es más adecuada para que logre su propósito?",
+          "opciones": [
+            "Mencionarles que el narrador del cuento \"Espiral\" reflexiona sobre el siguiente hecho: no sabe si lo que le sucede es real o es un sueño. Luego, explicarles cómo, a partir de esta reflexión, se genera una ambigüedad que se prolonga hasta el final del relato.",
+            "Preguntarles por qué creen que el autor escogió el título \"Espiral\" para el cuento. Luego, pedirles que, en el texto, seleccionen las acciones y expresiones que aluden, explícita o implícitamente, a los movimientos en espiral, y que expliquen el porqué de su elección.",
+            "Comentarles que escribir sobre hechos irreales que se presentan en un contexto cotidiano es un recurso literario empleado habitualmente en los cuentos fantásticos. Luego, pedirles que vuelvan a leer el cuento \"Espiral\" e identifiquen este tipo de hechos."
+          ],
+          "respuesta": "Preguntarles por qué creen que el autor escogió el título \"Espiral\" para el cuento. Luego, pedirles que, en el texto, seleccionen las acciones y expresiones que aluden, explícita o implícitamente, a los movimientos en espiral, y que expliquen el porqué de su elección.",
+          "respuestaCorta": "Esta acción guía a los estudiantes a construir el sentido del texto a partir de un elemento clave (el título) y su relación con la trama y la estructura recursiva del cuento.",
+          "solucionario": "Para interpretar el sentido global, los estudiantes deben integrar los elementos clave del texto. La opción 'b' los enfoca en el título, 'Espiral', un potente símbolo que resume la estructura y el tema del cuento (la repetición infinita, la escalera de caracol, el ciclo de soñadores). Al buscar las conexiones entre el título y el contenido, los estudiantes construyen activamente el significado central. La opción 'a' les da la interpretación hecha, y la 'c' se queda en la identificación de una característica general del género fantástico.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "La docente ha planteado varias preguntas para favorecer la interpretación del cuento. ¿Cuál de las siguientes preguntas promueve que identifiquen los recursos literarios que aportan en la construcción de su sentido global?",
+          "opciones": [
+            "¿Cuál creen que es la figura retórica que se evidencia en la expresión 'muriéndome de sueño'?",
+            "¿Por qué el protagonista de la historia y el muchacho que encontró en su habitación se sonrieron?",
+            "¿Qué cambiaría en la historia si el autor del texto la hubiese contado usando un narrador omnisciente?"
+          ],
+          "respuesta": "¿Qué cambiaría en la historia si el autor del texto la hubiese contado usando un narrador omnisciente?",
+          "respuestaCorta": "Esta pregunta obliga a reflexionar sobre la elección del tipo de narrador (un recurso literario fundamental) y cómo este impacta directamente en el tema de la incertidumbre y la subjetividad del cuento.",
+          "solucionario": "El tipo de narrador es un recurso literario crucial que define la perspectiva de la historia. El cuento 'Espiral' se basa en la confusión del narrador en primera persona. La pregunta 'c' hace que los estudiantes analicen el efecto de esta elección al contrastarla con una alternativa (narrador omnisciente), lo que les permite comprender cómo este recurso construye el sentido de ambigüedad y duda. La opción 'a' se centra en una hipérbole aislada, y la 'b' es una pregunta sobre el contenido de la trama.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p14",
+      "contexto": "Los estudiantes de segundo grado están interesados en dar a conocer a la comunidad educativa las medidas para prevenir la propagación del dengue. En este contexto, el docente les ha sugerido a los estudiantes que, organizados en grupos, elaboren diversos textos tanto escritos como orales para lograr su propósito.",
+      "imagen": " img/ascenso/secundaria/2019/comunicación/14.jpg",
+      "preguntas": [
+        {
+          
+          "pregunta": "¿Qué estudiante utiliza un criterio inadecuado para determinar la confiabilidad de una fuente de internet?",
+          "opciones": [
+            "Arón.",
+            "Bárbara.",
+            "Cintia."
+          ],
+          "respuesta": "Arón.",
+          "respuestaCorta": "El criterio de Arón es inadecuado porque la cantidad de auspiciadores se relaciona con el financiamiento comercial de una página y no con la veracidad o fiabilidad de su contenido.",
+          "solucionario": "Evaluar la confiabilidad de una fuente web requiere criterios sólidos. Bárbara (revisar el dominio, como .gob o .org) y Cintia (verificar el respaldo en fuentes académicas) utilizan criterios válidos que apuntan a la autoridad y rigurosidad de la fuente. Por el contrario, Arón se basa en la cantidad de publicidad, un criterio que no garantiza, e incluso puede comprometer, la objetividad de la información.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Uno de los grupos ha decidido exponer sobre las medidas para prevenir que en la IE se propague el virus del dengue. Sin embargo, el docente nota que los integrantes de dicho grupo han preparado su presentación individualmente, sin compartir la información que han encontrado. Por esta razón, él busca que estos estudiantes reflexionen sobre la importancia de recopilar fuentes de información de forma colaborativa. ¿Cuál de las siguientes acciones pedagógicas es más adecuada para ello?",
+          "opciones": [
+            "Indicarles que la información que han recopilado no es suficiente para la exposición que van a presentar. Luego, facilitarles más fuentes bibliográficas para que cuenten con una mayor cantidad de datos acerca del tema de su texto oral.",
+            "Solicitar que expliquen por qué han recopilado información individualmente. Luego, proponer que, basándose en criterios de relevancia y pertinencia, decidan entre todos cómo pueden organizar dicha información para exponerla.",
+            "Pedir que ensayen su exposición tal y como la han planificado para que se den cuenta de su error. Luego, dialogar con los integrantes del grupo para solicitar que realicen el proceso de búsqueda de información nuevamente."
+          ],
+          "respuesta": "Solicitar que expliquen por qué han recopilado información individualmente. Luego, proponer que, basándose en criterios de relevancia y pertinencia, decidan entre todos cómo pueden organizar dicha información para exponerla.",
+          "respuestaCorta": "Esta acción promueve la metacognición sobre su método de trabajo y los orienta hacia una tarea colaborativa concreta: organizar la información conjuntamente, fomentando así el trabajo en equipo.",
+          "solucionario": "El objetivo es fomentar la colaboración. La opción 'b' es la más adecuada porque parte de la reflexión de los propios estudiantes sobre su accionar ('expliquen por qué...') y luego les propone una tarea que requiere necesariamente de la colaboración para ser exitosa (organizar toda la información recopilada). La opción 'a' resuelve el problema por ellos y la 'c' es una estrategia de 'ensayo y error' que puede resultar frustrante e ineficiente.",
+          "seccion": "Casuística"
+        },
+        {
+          
+          "contexto": "Un grupo de estudiantes ha decidido elaborar una infografía sobre las medidas para prevenir el dengue. A continuación, se presenta la primera versión de dicha infografía: ",
+          "imagen": " img/ascenso/secundaria/2019/comunicación/15.jpg",
+          "pregunta": "Como parte del monitoreo de la actividad, el docente busca orientar a los estudiantes para que mejoren el texto en función de su propósito comunicativo. ¿Cuál de las siguientes acciones pedagógicas es más adecuada para ello?",
+          "opciones": [
+            "Preguntarles si creen que una infografía debe presentar imágenes e información escrita que permitan comprender el mensaje. Luego, entregarles algunas infografías sobre cómo prevenir enfermedades para que elijan la que más les gusta y la tomen como modelo para mejorar su texto.",
+            "Solicitarles que lean los párrafos y expliquen si leyéndolos el lector podrá saber cómo prevenir el dengue. Luego, pedirles que analicen las imágenes y preguntarles si es necesario complementarlas con información nueva que contribuya a lograr su propósito comunicativo.",
+            "Comentarles que las medidas para prevenir el virus del dengue se pueden comprender claramente con los gráficos que han elaborado. Luego, indicarles que la información que han presentado en los párrafos no contribuye al logro de su propósito comunicativo y recomendar que prescindan de ella."
+          ],
+          "respuesta": "Solicitarles que lean los párrafos y expliquen si leyéndolos el lector podrá saber cómo prevenir el dengue. Luego, pedirles que analicen las imágenes y preguntarles si es necesario complementarlas con información nueva que contribuya a lograr su propósito comunicativo.",
+          "respuestaCorta": "Esta acción guía a los estudiantes a evaluar si su infografía cumple con su propósito (prevenir) y a identificar las carencias de información, fomentando la autorregulación y la mejora del texto.",
+          "solucionario": "El principal problema de la infografía es que, a pesar de su título, no menciona ninguna medida de prevención; solo describe al mosquito. La opción 'b' es la más pertinente porque enfoca a los estudiantes en esta contradicción entre el propósito y el contenido, haciéndoles reflexionar sobre qué información falta para que el texto sea efectivo. La opción 'a' se centra en la forma, no en el contenido, y la 'c' parte de una premisa falsa al afirmar que las medidas se comprenden.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Un grupo de estudiantes ha acordado difundir información sobre las medidas para prevenir el dengue. Para ello, utilizarán la radio de la institución educativa. A continuación, se presenta una parte del diálogo que se suscitó entre los integrantes de dicho grupo: <br>\n\nÓscar: Para este caso, lo mejor sería que invitemos a doctores para entrevistarlos. Hay que pensar bien en cuatro o cinco preguntas para no pasarnos del tiempo que nos han dado.<br>\nJulio: Me parece una buena idea hacer una entrevista, pero no tenemos tanto tiempo para elegir a los doctores invitados. Más bien, pienso que podemos hacer una especie de comercial en el que participemos... <br>\nIrene: ¿Qué? No, no. Yo creo que ni entrevista ni comercial. Mejor hagamos una exposición nosotros mismos sobre cómo prevenir el dengue. O sea, hay que explicar de frente que el dengue es una enfermedad transmitida por un virus que lo propaga un mosquito y eso.<br>\nJulio: No estoy de acuerdo. Creo que si hacemos una exposición...<br>\nIrene: Nada que ver. Una exposición es lo mejor. Más bien, ¿por qué no vamos decidiendo quiénes empezarán a hablar en la exposición?\n\nComo parte del monitoreo de la actividad, el docente decide intervenir para promover que el grupo interactúe colaborativamente. ¿Cuál de las siguientes acciones pedagógicas es más adecuada para ello?",
+          "opciones": [
+            "Decirle al grupo que, según la actividad que han propuesto, deben priorizar la difusión de información, e indicar, a la vez, que todos propongan formas creativas para comunicarla. Luego, sugerir que ofrezcan nuevas ideas y trabajen sobre la que prefiere la mayoría.",
+            "Preguntarle al grupo si considera importante escuchar a sus compañeros en la explicación de sus propuestas. Luego, pedir que todos discutan sobre cuál de ellas se ajusta más al propósito inicial, y que, a través del diálogo y de consensos, traten de elegir una.",
+            "Comentarle al grupo que una exposición es un género que se suele adecuar a contextos formales. Luego, decirle que, en este caso, es necesario elegir otro género que se ajuste mejor a la situación comunicativa de difundir información a través de la radio."
+          ],
+          "respuesta": "Preguntarle al grupo si considera importante escuchar a sus compañeros en la explicación de sus propuestas. Luego, pedir que todos discutan sobre cuál de ellas se ajusta más al propósito inicial, y que, a través del diálogo y de consensos, traten de elegir una.",
+          "respuestaCorta": "Esta acción aborda directamente el problema de la falta de escucha y colaboración, promoviendo la reflexión sobre la importancia del diálogo y la toma de decisiones por consenso.",
+          "solucionario": "El diálogo evidencia una dinámica de comunicación deficiente, con interrupciones y la imposición de una idea. El problema central no es la elección del género, sino la falta de colaboración. La opción 'b' ataca este problema de raíz, invitando a los estudiantes a reflexionar sobre la importancia de escucharse y a utilizar el diálogo y el consenso como herramientas para tomar una decisión grupal alineada a su propósito. Las otras opciones no abordan la dinámica interpersonal disfuncional.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p15",
+      "contexto": "Los estudiantes de quinto grado han acordado participar en un festival artístico que se realizará en su distrito. En este contexto, la docente ha propuesto a los estudiantes buscar información sobre la importancia de la educación artística en la escuela y del arte en la sociedad. A continuación, se presenta uno de los textos que han encontrado para compartirlos en clase:\n\nEn la sociedad actual, existe una suerte de consenso acerca de que las actividades artísticas, y el arte en general, no construyen competencias 'que vayan a ser útiles' para las personas. Se piensa, de manera errónea, que dichas actividades, además de ser poco rentables económicamente, involucran un alto nivel de emoción, mas no de reflexión. Así, para desterrar estas descaminadas concepciones sobre el arte, es fundamental el rol que cumple la educación.\nEn principio, la escuela es el espacio propicio para hacer notar que el arte contribuye a la formación integral y plena de los estudiantes, pues permite que ellos desplieguen diversas habilidades transversales a toda su etapa de escolaridad. La realización de actividades artísticas ayudaría a que los estudiantes formen su personalidad, la confianza en sí mismos, y el respeto y la tolerancia por otros. Asimismo, a través del arte, los estudiantes pueden reconocer y valorar las manifestaciones artísticas de culturas diferentes a las suyas, lo cual enriquece sus perspectivas acerca del entorno del que forman parte. En segundo lugar, el arte favorece el desarrollo de su capacidad crítica y de reflexión, necesaria para vivir en una sociedad que cambia vertiginosamente. Además, el arte es primordial para que los estudiantes desarrollen su poder imaginativo, su curiosidad y creatividad.\nEn definitiva, el arte es imprescindible no solo dentro, sino también fuera de la escuela, porque promueve que los estudiantes adquieran una cantidad de competencias sociales y emocionales esenciales para la vida, y que los hacen ser más felices. Y esto, en una sociedad como la actual, al fin y al cabo, es lo 'verdaderamente útil'.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Durante el diálogo con los estudiantes sobre la lectura, la docente les plantea varias preguntas. ¿Cuál de las siguientes preguntas se centra en que deduzcan información implícita del texto?",
+          "opciones": [
+            "Según el texto, ¿qué capacidades son necesarias para vivir en la sociedad?",
+            "Hacia el final del texto, ¿por qué el autor dice que el arte es imprescindible?",
+            "En el primer párrafo del texto, ¿qué quiere decir la palabra 'descaminadas'?"
+          ],
+          "respuesta": "En el primer párrafo del texto, ¿qué quiere decir la palabra 'descaminadas'?",
+          "respuestaCorta": "Esta pregunta requiere que los estudiantes infieran el significado de la palabra 'descaminadas' a partir del contexto en que se usa, una habilidad de deducción de información implícita.",
+          "solucionario": "Deducir información implícita incluye inferir el significado de vocabulario desconocido a partir de las pistas contextuales. El texto califica las concepciones sobre el arte como 'erróneas' y luego como 'descaminadas', permitiendo deducir que el término significa 'equivocadas' o 'desorientadas'. Las otras preguntas ('a' y 'b') pueden responderse localizando información que está explícitamente declarada en el texto.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "La docente busca que los estudiantes reflexionen sobre los aspectos formales del texto. ¿Cuál de las siguientes preguntas es más adecuada para ello?",
+          "opciones": [
+            "¿Qué beneficios tiene para las personas desarrollar actividades artísticas?",
+            "¿Cuáles son las concepciones sobre el arte que existen en la sociedad actual?",
+            "¿Con qué objetivo el autor ha usado las comillas en la expresión 'verdaderamente útil'?"
+          ],
+          "respuesta": "¿Con qué objetivo el autor ha usado las comillas en la expresión 'verdaderamente útil'?",
+          "respuestaCorta": "Esta pregunta se centra en el uso intencional de un signo de puntuación (las comillas) como un recurso formal para transmitir un significado particular, en este caso, la ironía.",
+          "solucionario": "Los aspectos formales se refieren a cómo está construido el texto. La pregunta 'c' indaga sobre la función retórica de las comillas, un recurso formal. El autor las usa irónicamente para resignificar el concepto de 'útil', contrastándolo con la visión economicista presentada al inicio. Las preguntas 'a' y 'b' se refieren al contenido o las ideas del texto, no a su forma.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Los estudiantes están comentando la información que ofrece el texto. En este contexto, la docente les realiza la siguiente pregunta:\n\n\"El texto afirma que el arte desarrolla algunas competencias esenciales para la vida. ¿Están de acuerdo con esa afirmación? ¿Por qué?\".\n\n¿Por qué la pregunta es adecuada para que los estudiantes reflexionen sobre el contenido del texto?",
+          "opciones": [
+            "Porque promueve que los estudiantes vinculen la información que presenta el texto con lo que saben sobre el arte.",
+            "Porque favorece que los estudiantes se convenzan de que deben involucrarse en actividades artísticas.",
+            "Porque busca que los estudiantes puedan identificar cuál es el propósito principal del autor del texto."
+          ],
+          "respuesta": "Porque promueve que los estudiantes vinculen la información que presenta el texto con lo que saben sobre el arte.",
+          "respuestaCorta": "La pregunta invita a los estudiantes a evaluar una afirmación del texto desde su propia perspectiva y conocimientos previos, lo que genera una reflexión crítica sobre el contenido.",
+          "solucionario": "Una reflexión efectiva sobre el contenido de un texto se produce cuando el lector lo contrasta con sus propias experiencias, conocimientos y opiniones. Al preguntar '¿Están de acuerdo?' y '¿Por qué?', la docente propicia exactamente ese vínculo entre el texto y el mundo del estudiante, fomentando un pensamiento crítico y una apropiación personal del tema. No busca convencerlos (opción 'b') ni se limita a identificar el propósito del autor (opción 'c').",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "En otro momento, la docente propone a los estudiantes dialogar en grupos a partir de las siguientes preguntas: ¿creen que el arte es útil?, ¿el arte es útil en sus vidas? Durante el monitoreo de la actividad, la docente se detiene a escuchar el siguiente diálogo entre los integrantes de uno de los grupos:<br>\n\nRocío: Eh... el arte es súper útil. A mí me sirve para mostrar lo que siento a través del dibujo. Y...<br>\nMiguel: (interrumpiendo a Rocío) Ah, no sé. Yo creo que las personas hacen arte.... porque el arte te hace pasar buenos momentos, ¿no? Por ejemplo, es chévere ensayar y presentar una coreografía y hacer...<br>\nRocío: (interfiriendo) Ya. Yo decía que el arte es súper útil para expresar sentimientos, ¿no? Y dibujar es la manera en que me gusta expresar mis sentimientos. Desde que...<br>\nEnzo: (interrumpiendo a Rocío) Sí, a mí me gustan los dibujos que haces, Rocío. El otro día vi que dibujabas en tu cuaderno y me pareció bien bacán lo que hacías.\n\n <br>La docente busca ofrecer una retroalimentación para ayudar a los estudiantes a desarrollar sus capacidades de comunicación oral. ¿Cuál de las siguientes acciones es adecuada para que logre su propósito?",
+          "opciones": [
+            "Pedir que utilicen un registro de lenguaje apropiado para la situación comunicativa.",
+            "Pedir que eviten repetir algunas palabras de forma innecesaria en sus intervenciones.",
+            "Pedir que establezcan turnos de conversación para que expresen completamente sus ideas."
+          ],
+          "respuesta": "Pedir que establezcan turnos de conversación para que expresen completamente sus ideas.",
+          "respuestaCorta": "El problema más evidente y perjudicial en el diálogo es la constante interrupción, que impide la comunicación efectiva. La acción prioritaria es establecer el respeto por los turnos de habla.",
+          "solucionario": "El principal obstáculo para la comunicación en este grupo son las interrupciones constantes, que impiden a Rocío desarrollar sus ideas. Por lo tanto, la retroalimentación más urgente y necesaria es la que aborda esta falta de respeto por los turnos de habla. Si bien el registro (opción 'a') y la repetición de palabras (opción 'b') podrían ser aspectos a mejorar, son secundarios frente al problema fundamental de la dinámica conversacional.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p16",
+      "contexto": "Los estudiantes de primer grado van a participar en la Feria Escolar Nacional de Ciencia y Tecnología Eureka.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "contexto": "Un grupo de estudiantes está elaborando un tríptico informativo sobre la importancia del consumo de la quinua. En este contexto, los estudiantes le piden al docente que los ayude con la revisión de la sección en la que mencionan los aportes nutritivos de la quinua. Esta es la primera versión de su texto: ",
+          "imagen": " img/ascenso/secundaria/2019/comunicación/16.jpg",
+          "pregunta": "El docente busca retroalimentar a los estudiantes para que desarrollen adecuadamente el tema de la sección sobre los aportes nutritivos de la quinua. ¿Cuál de las siguientes acciones pedagógicas es más adecuada para que logre su propósito?",
+          "opciones": [
+            "Preguntar si creen que es necesario incluir información respaldada por especialistas en el tema que buscan desarrollar. Después, sugerirles que, en la siguiente versión, citen las fuentes de donde obtendrían esta información para mostrar que se han basado en datos confiables.",
+            "Solicitar que mencionen cuál es el propósito principal de la sección que han presentado. Después, pedir que identifiquen las ideas que no se relacionan con dicho propósito para que prescindan de ellas y añadan otras que los ayuden a profundizar más en el tema de la sección.",
+            "Comentar que han trabajado dos temas en su escrito: por un lado, el del aporte nutricional de la quinua y, por otro, su valor económico. Después, explicarles que, de acuerdo con su propósito, solo deben desarrollar el primero de estos temas en una segunda versión."
+          ],
+          "respuesta": "Solicitar que mencionen cuál es el propósito principal de la sección que han presentado. Después, pedir que identifiquen las ideas que no se relacionan con dicho propósito para que prescindan de ellas y añadan otras que los ayuden a profundizar más en el tema de la sección.",
+          "respuestaCorta": "Esta acción guía a los estudiantes para que ellos mismos identifiquen la digresión temática y, a partir de la reflexión sobre su propósito, corrijan el texto eliminando lo irrelevante y añadiendo información pertinente.",
+          "solucionario": "El texto sufre de una clara digresión: se titula 'aporte nutricional' pero habla principalmente del 'valor económico'. La opción 'b' es la más efectiva pedagógicamente porque promueve la autorregulación. Guía a los estudiantes a: 1. Recordar su propósito, 2. Identificar las ideas que no se ajustan a él (la información económica), y 3. Corregir el texto añadiendo la información que sí es pertinente. Esto es más formativo que simplemente señalarles los dos temas (opción 'c') o enfocarse en las fuentes sin antes corregir el tema central (opción 'a').",
+          "seccion": "Casuística"
+        },
+        {
+          "contexto": "Otro de los grupos, luego de revisar información variada acerca de los efectos negativos del consumo de bebidas gaseosas, ha empezado a escribir su informe sobre el tema. Luego, los integrantes del grupo le han pedido al docente que los ayude con la revisión. A continuación, se presenta una parte de su texto: ",
+          "imagen": " img/ascenso/secundaria/2019/comunicación/17.jpg",
+          "pregunta": "El docente quiere ayudar a los integrantes del grupo a conectar mejor las ideas de su texto, de modo que comuniquen su mensaje con claridad. ¿Cuál de las siguientes acciones pedagógicas es más adecuada para que logre su propósito?",
+          "opciones": [
+            "Pedirles que subrayen algunos conectores como 'por lo tanto' y 'por eso'. Luego, decirles que los han empleado para establecer una relación de consecuencia-causa entre las ideas de su escrito. Después, indicarles que reemplacen estos conectores con otros como 'porque' o 'ya que' para establecer una relación de causa-consecuencia entre las ideas de su texto.",
+            "Entregarles una lista de conectores de causa y de consecuencia en la que se presenten algunos ejemplos de su uso. Luego, sugerirles que elaboren oraciones por cada conector incluido en la lista entregada hasta que distingan claramente en qué caso utilizar uno u otro. Sobre esta base, solicitarles que reemplacen los conectores que han empleado de manera inadecuada en su escrito.",
+            "Solicitarles que identifiquen cuál es la causa y cuál es la consecuencia entre la segunda y la tercera oración de su texto. Luego, pedirles que expliquen si el conector 'por lo tanto' ayuda a hacer explícita la relación que existe entre dichas oraciones. Después, darles algunos conectores de causa para que los usen en este caso y pedir que evalúen en qué otras partes del texto también es necesario hacerlo."
+          ],
+          "respuesta": "Solicitarles que identifiquen cuál es la causa y cuál es la consecuencia entre la segunda y la tercera oración de su texto. Luego, pedirles que expliquen si el conector 'por lo tanto' ayuda a hacer explícita la relación que existe entre dichas oraciones. Después, darles algunos conectores de causa para que los usen en este caso y pedir que evalúen en qué otras partes del texto también es necesario hacerlo.",
+          "respuestaCorta": "Esta acción promueve la reflexión sobre la relación lógica entre las ideas antes de abordar el conector, permitiendo que los estudiantes comprendan el error y lo corrijan de manera significativa.",
+          "solucionario": "El problema es el uso incorrecto de conectores de consecuencia ('por lo tanto') donde deberían ir conectores de causa ('porque'). La opción 'c' es la más efectiva porque se enfoca en el razonamiento subyacente. Al pedir a los estudiantes que primero identifiquen la relación lógica de causa-efecto, y luego evalúen si el conector es el adecuado, se asegura una comprensión profunda del error. Las otras opciones son más mecánicas, centradas en la sustitución de palabras sin garantizar la comprensión del porqué.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p17",
+      "contexto": "Los estudiantes de quinto grado se han mostrado muy interesados en obtener más información sobre un reciente caso de sarampión reportado en el Perú. Por ello, la docente ha seleccionado diversos textos acerca del sarampión y sus consecuencias en la salud pública. Este es uno de los textos que los estudiantes están leyendo:\n\nEl sarampión es una enfermedad viral extremadamente contagiosa, más que el ébola o la gripe. Afecta principalmente a los niños, aunque también se puede presentar en adultos. Este virus se propaga mediante la tos y los estornudos, el contacto directo con secreciones nasales o faríngeas infectadas.\n¿Cuáles son las cifras que se han registrado sobre el control de esta enfermedad en el mundo? Entre 2000 y 2016, los reportes anuales mostraron un decrecimiento del brote de la enfermedad de 145 a 19 casos por millón, y una reducción de las muertes por sarampión de 550 100 casos a 89 780 en todo el mundo. En África, por ejemplo, si bien ha sido lento el proceso, la ampliación de la cobertura en la vacunación contra el virus permitió reducir los casos de muerte de 340 800 a 37 500.\nSin embargo, pese a los esfuerzos de los países que forman parte de la Organización Mundial de la Salud (OMS), la meta de eliminar totalmente los brotes de sarampión ha tenido un golpe importante en los últimos años. Por ejemplo, en 2017, la enfermedad causó 110 000 defunciones en el mundo, la mayoría en regiones africanas y asiáticas donde aún es difícil universalizar la cobertura de las vacunas, y, además, se presentan altos índices de malnutrición.\nSolo en los países del continente americano se había logrado controlar casi en su totalidad el brote de sarampión, al punto de que, en 2016, únicamente se registraron 12 casos confirmados que no ocasionaron ninguna muerte. Sin embargo, este panorama alentador está cambiando. Por ejemplo, hasta el 10 de junio de 2019, se ha confirmado la aparición de 330 casos de sarampión localizados en Nueva York, Estados Unidos. En Europa, también se han estado confirmando casos entre 2017 y 2019. ¿Qué ha sucedido en estos casos? Es posible que, pese a la buena cobertura existente, algunos infantes no estén siendo inmunizados debido a que, en ciertas regiones de América y Europa, está circulando información en contra de la aplicación de vacunas.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "La docente y los estudiantes están conversando sobre el texto. En este contexto, la docente realiza la siguiente pregunta:\n\n\"Según el cuarto párrafo del texto, ¿qué razón podría explicar la aparición de casos de sarampión en América y Europa?\".\n\n¿Qué capacidad de comprensión de textos escritos busca promover principalmente la docente con esta pregunta?",
+          "opciones": [
+            "Obtener información explícita del texto.",
+            "Reflexionar sobre el contenido del texto.",
+            "Interpretar información implícita del texto."
+          ],
+          "respuesta": "Obtener información explícita del texto.",
+          "respuestaCorta": "La pregunta requiere localizar una razón que está escrita textualmente en el cuarto párrafo, por lo que la capacidad evaluada es la obtención de información explícita.",
+          "solucionario": "La capacidad de obtener información explícita se refiere a la habilidad del lector para encontrar datos específicos que están literalmente presentes en el texto. El cuarto párrafo menciona que una posible razón es que 'está circulando información en contra de la aplicación de vacunas'. La pregunta solo requiere que el estudiante ubique y extraiga esta información, sin necesidad de inferencias complejas o reflexiones valorativas.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Durante el intercambio de ideas sobre el propósito principal del autor del texto, uno de los estudiantes manifiesta lo siguiente:\n\n\"Creo que el autor quiere convencernos de que debemos vacunarnos siempre, ya que así no aparecerán más casos de sarampión\".\n\nLa docente busca dar una retroalimentación al estudiante para orientarlo en la deducción del propósito principal del texto. ¿Cuál de las siguientes acciones pedagógicas es más adecuada para que logre su propósito?",
+          "opciones": [
+            "Indicarle cuáles son las características típicas de los textos argumentativos. Luego, preguntarle si puede identificar la tesis del autor y los argumentos que ha empleado para defenderla. A partir de esto, solicitar que reconsidere su idea de que el propósito principal del autor es convencer a los lectores.",
+            "Comentarle que, en el texto, hay pocos elementos para afirmar que el propósito principal del autor es convencer. Luego, mencionarle las ideas principales de cada párrafo. Finalmente, pedirle que, entre estas ideas, identifique aquella que puede ayudarlo a reconocer el propósito principal del autor.",
+            "Pedirle que trate de buscar, en el texto, otros propósitos del autor, además de convencer. Luego, pedir que explique qué elementos del texto le permitieron identificar dichos propósitos. Sobre esta base, proponerle que vuelva a evaluar si, en efecto, el propósito principal del autor es el que mencionó inicialmente."
+          ],
+          "respuesta": "Pedirle que trate de buscar, en el texto, otros propósitos del autor, además de convencer. Luego, pedir que explique qué elementos del texto le permitieron identificar dichos propósitos. Sobre esta base, proponerle que vuelva a evaluar si, en efecto, el propósito principal del autor es el que mencionó inicialmente.",
+          "respuestaCorta": "Esta acción invita al estudiante a reexaminar el texto en busca de evidencia para otros propósitos, fomentando una reevaluación crítica de su hipótesis inicial de manera autónoma.",
+          "solucionario": "El texto es predominantemente expositivo (informa sobre la situación del sarampión), no argumentativo (no busca principalmente convencer). El estudiante ha hecho una inferencia incorrecta sobre el propósito. La opción 'c' es la mejor retroalimentación porque no le da la respuesta, sino que lo guía para que él mismo la descubra. Le pide que reconsidere su postura buscando evidencia de otros propósitos (como informar o explicar), lo cual lo llevará a matizar o corregir su idea inicial. Es un enfoque basado en el descubrimiento y la evidencia textual.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p18",
+      "contexto": "Los estudiantes de quinto grado están leyendo un texto acerca del sarampión y sus consecuencias en la salud pública. El texto es el siguiente:\n\nEl sarampión es una enfermedad viral extremadamente contagiosa, más que el ébola o la gripe. Afecta principalmente a los niños, aunque también se puede presentar en adultos. Este virus se propaga mediante la tos y los estornudos, el contacto directo con secreciones nasales o faríngeas infectadas.\n¿Cuáles son las cifras que se han registrado sobre el control de esta enfermedad en el mundo? Entre 2000 y 2016, los reportes anuales mostraron un decrecimiento del brote de la enfermedad de 145 a 19 casos por millón, y una reducción de las muertes por sarampión de 550 100 casos a 89 780 en todo el mundo. En África, por ejemplo, si bien ha sido lento el proceso, la ampliación de la cobertura en la vacunación contra el virus permitió reducir los casos de muerte de 340 800 a 37 500.\nSin embargo, pese a los esfuerzos de los países que forman parte de la Organización Mundial de la Salud (OMS), la meta de eliminar totalmente los brotes de sarampión ha tenido un golpe importante en los últimos años. Por ejemplo, en 2017, la enfermedad causó 110 000 defunciones en el mundo, la mayoría en regiones africanas y asiáticas donde aún es difícil universalizar la cobertura de las vacunas, y, además, se presentan altos índices de malnutrición.\nSolo en los países del continente americano se había logrado controlar casi en su totalidad el brote de sarampión, al punto de que, en 2016, únicamente se registraron 12 casos confirmados que no ocasionaron ninguna muerte. Sin embargo, este panorama alentador está cambiando. Por ejemplo, hasta el 10 de junio de 2019, se ha confirmado la aparición de 330 casos de sarampión localizados en Nueva York, Estados Unidos. En Europa, también se han estado confirmando casos entre 2017 y 2019. ¿Qué ha sucedido en estos casos? Es posible que, pese a la buena cobertura existente, algunos infantes no estén siendo inmunizados debido a que, en ciertas regiones de América y Europa, está circulando información en contra de la aplicación de vacunas.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "La docente propone diversas actividades de lectura a partir del texto anterior. A continuación, se presentan tres de estas actividades:\n\n1. Los estudiantes brindarán propuestas de títulos según la información que ofrece el texto. Luego, deberán explicar por qué consideran que el título que ellos han propuesto es el más adecuado.\n2. Los estudiantes discutirán acerca de por qué el sarampión ha brotado nuevamente en algunos lugares. Luego, formularán hipótesis sobre las medidas que pueden contrarrestar el impacto de esta enfermedad.\n3. Los estudiantes conversarán sobre por qué el autor ha empleado preguntas en el segundo y cuarto párrafo del texto. Luego, comentarán de qué manera creen que dichas preguntas aportan en la lectura de dicho texto.\n\n¿Cuál de estas actividades busca que los estudiantes reflexionen sobre los aspectos formales del texto?",
+          "opciones": [
+            "La 1.",
+            "La 2.",
+            "La 3."
+          ],
+          "respuesta": "La 3.",
+          "respuestaCorta": "La actividad 3 se enfoca en el análisis del uso de preguntas como un recurso retórico y estructural, lo cual es una reflexión sobre la forma del texto y no sobre su contenido.",
+          "solucionario": "Los aspectos formales se refieren a la construcción del texto, sus recursos y estructura. La actividad 3 pide analizar el propósito y efecto del uso de preguntas retóricas, un recurso formal del autor para organizar la información y guiar al lector. Las actividades 1 y 2 se centran en el contenido: la idea principal (título) y las ideas temáticas (causas y soluciones), respectivamente.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Luego de la lectura del texto, los estudiantes están conversando con la docente sobre los aspectos del texto que más les interesaron. Uno de los estudiantes comentó lo siguiente:\n\nEzequiel: Este texto es muy interesante, profesora. Me gustó mucho que se dé información bien exacta sobre los casos de sarampión en el mundo; aunque, eso sí, el segundo párrafo es un poco pesado de leer porque hay muchos datos de números. Cuando pasa esto, prefiero leer varias veces esa parte para que me quede clara la información que se ofrece.\n\n¿Cuál de los siguientes procesos de aprendizaje se evidencia principalmente en la intervención del estudiante?",
+          "opciones": [
+            "La metacognición sobre su proceso de lectura.",
+            "La generación de un conflicto cognitivo a partir de la lectura del texto.",
+            "La activación de saberes previos sobre los casos de sarampión en el mundo."
+          ],
+          "respuesta": "La metacognición sobre su proceso de lectura.",
+          "respuestaCorta": "Ezequiel demuestra metacognición al ser consciente de una dificultad en su lectura y al describir la estrategia que utiliza para superarla (releer).",
+          "solucionario": "La metacognición es la capacidad de reflexionar sobre los propios procesos de pensamiento. Ezequiel no solo identifica una dificultad ('es un poco pesado de leer'), sino que también verbaliza la estrategia consciente que aplica para asegurar su comprensión ('prefiero leer varias veces'). Está pensando sobre cómo lee y cómo resuelve un problema de lectura.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p19",
+      "contexto": "Los estudiantes de segundo grado realizarán una campaña de sensibilización para enfrentar el cambio climático. Para decidir sobre el tipo de campaña que van a realizar, el docente conversa con los estudiantes.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Este es un fragmento de la conversación que sostuvieron:\n\nDocente: A ver, chicos, ¿qué actividades creen que podríamos realizar para llevar a cabo esta campaña de sensibilización?\nZoraida: No sé, profe. Quizás podríamos proponer la participación de todos en actividades como la Hora del Planeta.\nDocente: Ah, ¿sí? ¿Y en qué consiste esta actividad, Zoraida?\nZoraida: Eh... Yo sé que esta actividad, aunque no es la solución, es como un gesto simbólico, en el que solo tenemos que apagar las luces. Con eso, llamamos la atención de las personas frente al problema del cambio climático.\nGabriela: Profesor, no entiendo. ¿Qué quiere decir Zoraida con que la Hora del Planeta es un gesto simbólico?\nDocente: Uhm... Chicos, ¿alguien nos puede ayudar con la pregunta de Gabriela?\nVíctor: Profesor, cuando Zoraida dice que la Hora del Planeta es un gesto simbólico, lo que entiendo es que es una forma pequeña, pero importante, de mostrar nuestra preocupación por un problema sobre el que queremos que las personas sean más conscientes.\n\n¿Cuál de las siguientes tareas asociadas con la comunicación oral se evidencia principalmente en la intervención de Víctor?",
+          "opciones": [
+            "Ofrecer una opinión acerca del comentario de Zoraida.",
+            "Elaborar una paráfrasis a partir del comentario de Zoraida.",
+            "Deducir el significado de una expresión del comentario de Zoraida."
+          ],
+          "respuesta": "Deducir el significado de una expresión del comentario de Zoraida.",
+          "respuestaCorta": "Víctor no opina ni parafrasea todo el comentario, sino que se centra en interpretar y explicar el significado específico de la expresión 'gesto simbólico' para aclarar la duda de Gabriela.",
+          "solucionario": "La intervención de Víctor responde directamente a la pregunta de Gabriela sobre el significado de 'gesto simbólico'. Él deduce e interpreta el sentido de esa expresión particular dentro del contexto de la conversación. No está simplemente repitiendo con otras palabras todo lo que dijo Zoraida (paráfrasis) ni está dando su propia opinión sobre la Hora del Planeta.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Un grupo de estudiantes expondrá las medidas que sus compañeros pueden implementar en sus hogares para enfrentar el cambio climático. Uno de los integrantes del grupo le ha pedido al docente que escuche una parte de su texto oral, cuya transcripción es la siguiente:\n\n\"Buenas tardes al público. Eh... nosotros creemos que hay alternativas para reducir el impacto del cambio climático desde nuestras casas. Este... podemos apagar y desenchugar los electrodomésticos, como el televisor, antes de dormir. Eh... esto es importante porque, así, ahorramos energía que a la larga nos afecta a toditos. Eh... está muy mal que... algunas personas no se den cuenta de eso. Eh... a mi papá le pasó una vez que le recomendó a un vecino, que tiene una bodega, que mientras atienda, no tenga su tele prendida o que apague la luz... O sea, cuando atiende en las mañanas. Eh... pero el vecino no lo tomó bien. Eh... le dijo que no es asunto suyo, y que podía tener su luz prendida en cualquier momento. Desde ese día, compramos en otra tienda porque el señor ya no es amable con nosotros. Eh... incluso, a veces, cuando le pagamos con un billete de 20 o 10, nos dice que no puede darnos vuelto porque no tiene sencillo\".\n\nEl docente espera a que el estudiante termine esta parte de su exposición para ayudarlo a mejorar en algunos aspectos. ¿Cuál de los siguientes aspectos debe priorizar el docente en su retroalimentación?",
+          "opciones": [
+            "El desvío del propósito comunicativo de su texto oral.",
+            "Las pausas constantes para exponer las ideas de su texto oral.",
+            "La falta de adecuación del registro de su texto oral a la situación comunicativa."
+          ],
+          "respuesta": "El desvío del propósito comunicativo de su texto oral.",
+          "respuestaCorta": "El problema principal es la extensa digresión sobre una anécdota personal que desvía el foco del tema central (medidas contra el cambio climático), afectando la coherencia del discurso.",
+          "solucionario": "Si bien el estudiante utiliza muletillas y pausas (un problema de fluidez) y un registro coloquial, el error más grave que atenta contra la eficacia del mensaje es la digresión. El texto se desvía de su propósito principal (exponer medidas) para contar una larga anécdota irrelevante sobre un conflicto con un vecino. Este desvío temático es un problema de coherencia que debe ser priorizado en la retroalimentación.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p20",
+      "contexto": "Los estudiantes de tercer grado tienen como propósito sensibilizar a la comunidad educativa sobre la convivencia intercultural. En este contexto, el docente les propone escenificar una obra de teatro. Entre diversos textos, los estudiantes han seleccionado Los músicos ambulantes del Grupo Yuyachkani. A continuación, se presenta una parte del guion teatral de dicha obra:\n\nBurro: Yo soy un burro y me llamo como cualquier otro asno, sin nombre ni apellidos, un burro y punto. Me estoy yendo de mi tierra. Allá el patrón me mandó que trabajara toda mi vida, día y noche, como burro de carga. Hasta la comida, el forraje, teníamos que buscarlo nosotros en las pampas o trotando cerros. Será por eso que dicen que soy bien burro. Pero el otro día estaba trotando con mi atado de leña, con mucho cuidadito, no me fuera a caer, y el patrón que estaba por detrás me ofendió diciéndome: \"¡Apúrate, mula ociosa!\". \"¡Qué cosa!\", dije yo. \"¿Ocioso, yo?, y mula encima\". No es que tenga nada contra las mulas, pero esto se acabó. Me voy a la ciudad, caracho, no me voy a dejar pisar el poncho, pues. Así pues, empecé a andar por un lado y por otro. Al principio, estaba triste, pero ahí nomás me acordé de una vieja cancioncita que más o menos dice así: \"Este burrito trabajador / yo les juro trabajador. / Papaypas mamaypas nihuanmi burruchaquina asnuchaquina runakanayquipaq. / Cuando el lomo ya no aguanta, / otra vez volver a empezar./Saratas papapas ocapas/trigupas leñapas charquipas/las talegas a reventar. / Hasta cuándo esta vida, / quién carga con todo esto. / Ahora cambio de trabajo, / tanta pena, tanto llanto, / esta carga ya no aguanto. / Ya me voy, ya me voy yendo, / ya me voy, ya me voy yendo\". Así pues, estaba andando y ahí no más me acuerdo de mi abuela, que me decía: \"Asnuchay, nuestra musiquita siempre le habla al corazón\". Caracho, si yo bailo, si yo toco, si yo canto, ¿por qué no podría ser lo que quiero, pues? Entonces, me dije: \"¡Ahora me voy a la ciudad!\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Después de que los estudiantes leyeron el texto, el docente busca que ellos reflexionen sobre su contenido. ¿Cuál de las siguientes acciones es más adecuada para que logre su propósito?",
+          "opciones": [
+            "Pedir que identifiquen las razones por las que el burro decidió dejar su tierra y expliquen si ellos hubieran hecho lo mismo.",
+            "Pedir que mencionen los recursos literarios que han podido identificar en la caracterización del burro.",
+            "Pedir que señalen quién fue la persona que influyó en la decisión que tomó el burro para convertirse en músico."
+          ],
+          "respuesta": "Pedir que identifiquen las razones por las que el burro decidió dejar su tierra y expliquen si ellos hubieran hecho lo mismo.",
+          "respuestaCorta": "Esta acción promueve una reflexión profunda al conectar la comprensión del texto (las razones del personaje) con la propia experiencia y juicio de valor del estudiante.",
+          "solucionario": "Para reflexionar sobre el contenido, es necesario que los estudiantes no solo comprendan lo que leen, sino que también lo evalúen y lo relacionen con su propio mundo. La opción 'a' cumple esto al pedirles primero que identifiquen las motivaciones del personaje (comprensión) y luego que tomen una postura personal al respecto (reflexión). La opción 'b' se enfoca en aspectos formales y la 'c' es una pregunta de comprensión literal.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "En otro momento de la actividad de lectura, el docente busca que los estudiantes obtengan información explícita del texto. ¿Cuál de las siguientes preguntas es más adecuada para lograr dicho propósito?",
+          "opciones": [
+            "¿Qué quería lograr el burro al irse a la ciudad?",
+            "¿Cuáles fueron las palabras que ofendieron al burro?",
+            "¿Por qué el burro dijo que 'no se va a dejar pisar el poncho'?"
+          ],
+          "respuesta": "¿Cuáles fueron las palabras que ofendieron al burro?",
+          "respuestaCorta": "La respuesta a esta pregunta está citada textualmente en el monólogo del burro, por lo que solo requiere la localización de información explícita.",
+          "solucionario": "La obtención de información explícita implica localizar datos literales en el texto. El burro dice: '...el patrón que estaba por detrás me ofendió diciéndome: \"¡Apúrate, mula ociosa!\"'. La pregunta 'b' pide exactamente esas palabras. Las preguntas 'a' y 'c' requieren que el lector infiera el propósito del personaje o el significado de una frase idiomática.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Los estudiantes están conversando sobre cómo ha sido caracterizado el personaje principal de este fragmento. En particular, están realizando comentarios sobre el modo en que se expresa dicho personaje. A continuación, se presentan las intervenciones de tres estudiantes:\n\nAndrés: Hay expresiones, como 'dejarse pisar el poncho' o 'caracho', que creo que son demasiado informales y deberían cambiarse. El texto se vería mejor escrito y sería más apropiado para una obra de teatro.\nBoris: Varias veces el burro termina sus frases diciendo 'pues'. Nosotros usamos 'pues' cuando nos sentimos en confianza, por ejemplo, con nuestros amigos. Creo que el autor de la obra quiso mostrar que el burro también se siente así.\nCiana: Me gustó que el personaje hable en quechua. Hubiera preferido que aparezca la traducción de esas palabras para saber su significado. Supongo que tendré que buscar por mi cuenta qué quieren decir esas palabras.\n\n¿Cuál de los comentarios de los estudiantes evidencia una concepción errónea sobre el lenguaje empleado en textos literarios?",
+          "opciones": [
+            "El de Andrés.",
+            "El de Boris.",
+            "El de Ciana."
+          ],
+          "respuesta": "El de Andrés.",
+          "respuestaCorta": "Andrés muestra una concepción errónea al creer que el lenguaje literario debe ser siempre formal, sin comprender que el uso de un registro informal es un recurso deliberado para construir la voz y la identidad del personaje.",
+          "solucionario": "La literatura utiliza diversos registros lingüísticos como una herramienta estética y de caracterización. La concepción de Andrés es errónea porque impone una norma prescriptiva y homogénea al texto literario, desconociendo que la informalidad y los regionalismos son elecciones intencionadas del autor para dar verosimilitud y voz al personaje del burro. Boris y Ciana, por el contrario, entienden el lenguaje como una elección con un propósito.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Los estudiantes están discutiendo sobre cómo realizar la adaptación de la obra Los músicos ambulantes. ¿Cuál de las siguientes acciones pedagógicas es más adecuada que realice el docente para ayudarlos a lograr su propósito?",
+          "opciones": [
+            "Mostrar varios guiones de la misma obra teatral adaptados por otras instituciones educativas. A partir de esto, pedirles que identifiquen los criterios y recursos que se emplearon en dichos guiones, con la finalidad de que los puedan utilizar en su propio proceso de adaptación.",
+            "Comentar que es posible realizar cambios a la obra teatral según las características del público ante el que se van a presentar y los recursos de los que disponen. Luego, discutir sobre qué partes del guion original pueden mantener y qué otras pueden modificar para comunicar su mensaje.",
+            "Pedir que traten de mantener el modo en que se abordan los temas de esta obra y cómo han sido caracterizados los personajes en cuanto a su aspecto físico y a sus motivaciones. Sobre esa base, solicitar que decidan quiénes de sus compañeros podrían interpretar a los personajes para ensayar la obra."
+          ],
+          "respuesta": "Comentar que es posible realizar cambios a la obra teatral según las características del público ante el que se van a presentar y los recursos de los que disponen. Luego, discutir sobre qué partes del guion original pueden mantener y qué otras pueden modificar para comunicar su mensaje.",
+          "respuestaCorta": "Esta acción proporciona a los estudiantes los criterios fundamentales para una adaptación (público y recursos) y fomenta una discusión creativa y colaborativa para que tomen sus propias decisiones.",
+          "solucionario": "Adaptar una obra implica tomar decisiones creativas basadas en un propósito y un contexto. La opción 'b' es la más adecuada porque empodera a los estudiantes: les brinda los principios de la adaptación (adecuación al público y a los recursos disponibles) y luego los guía en un proceso de discusión para que ellos mismos decidan qué cambiar y qué conservar. La opción 'a' promueve la imitación, y la 'c' limita la adaptación al pedir que se mantenga la obra casi intacta.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p21",
+      "contexto": "Los docentes de Comunicación han elaborado una encuesta dirigida a los estudiantes para seleccionar los libros que leerán el siguiente año. A continuación, se presentan tres de las preguntas incluidas en dicha encuesta:\n\nPREGUNTAS\n1. ¿Con qué libro has sentido mayor identificación? ¿Lo recomendarías? ¿Por qué razón?\n2. ¿Conoces algún libro que haya sido adaptado al cine? ¿Qué libro es? ¿Viste la película?\n3. ¿Qué tipo de obras literarias has leído más? ¿Los cuentos, las novelas o los poemas?",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué pregunta es adecuada para conocer si los estudiantes se vinculan significativamente con textos literarios?",
+          "opciones": [
+            "La 1.",
+            "La 2.",
+            "La 3."
+          ],
+          "respuesta": "La 1.",
+          "respuestaCorta": "La pregunta 1 indaga sobre la identificación personal y la recomendación razonada, aspectos que revelan un vínculo afectivo e intelectual profundo con la obra, es decir, una conexión significativa.",
+          "solucionario": "Un vínculo significativo con un texto literario trasciende la simple lectura; implica una conexión personal. La pregunta 1 aborda esto directamente al preguntar por la 'identificación' y al pedir una justificación para recomendarlo. Esto permite conocer el impacto que el libro tuvo en el estudiante. Las otras preguntas recogen información sobre hábitos de consumo cultural (pregunta 2) o preferencias de género (pregunta 3), pero no sobre la profundidad del vínculo.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+ {
+      "idGrupo": "asc_secundaria_2019_p22",
+      "contexto": "El docente y los estudiantes de cuarto grado están leyendo una antología de poesía estadounidense. En este contexto, los estudiantes se han mostrado interesados en comentar el siguiente poema:\n\nEl hombre muerto baja del cadalso. Lleva su cabeza debajo del brazo.\nLos manzanos están en flor. Está yendo a la taberna del pueblo mientras todos lo miran.\nUna vez allí, se sienta a una de las mesas y ordena dos cervezas, una para él y otra para su cabeza.\nMi madre se seca las manos en el delantal y le sirve.\nHay tanto silencio en el mundo. Se puede oír el viejo río, que en su confusión a veces se olvida y fluye hacia atrás.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Durante la actividad de lectura, el docente busca que los estudiantes construyan interpretaciones sobre el sentido global del poema. ¿Cuál de las siguientes acciones pedagógicas es más adecuada para ello?",
+          "opciones": [
+            "Leerles una biografía del autor del poema. Luego, solicitar que mencionen las experiencias trágicas que han podido identificar en dicha biografía. Después, pedir que expliquen de qué forma estas experiencias se reflejan en el poema leído.",
+            "Pedirles que mencionen quién es el personaje que cuenta la historia en el poema. Luego, preguntar por los indicios del texto en los que basan sus respuestas. Después, explicarles de qué modo cambiaría el sentido del poema si otro personaje narra la historia.",
+            "Indicarles que el poema puede interpretarse de varias maneras. Luego, pedir que elaboren sus propias interpretaciones considerando los versos que les parecen esenciales para comprenderlo. Después, solicitar que compartan sus propuestas y discutan sobre ellas."
+          ],
+          "respuesta": "Indicarles que el poema puede interpretarse de varias maneras. Luego, pedir que elaboren sus propias interpretaciones considerando los versos que les parecen esenciales para comprenderlo. Después, solicitar que compartan sus propuestas y discutan sobre ellas.",
+          "respuestaCorta": "Esta acción valida la naturaleza polisémica de la poesía y empodera a los estudiantes para que construyan y compartan sus propias interpretaciones basadas en evidencia textual.",
+          "solucionario": "Un poema surrealista como este se presta a múltiples interpretaciones. La estrategia pedagógica más adecuada es la que fomenta la lectura abierta y la construcción de sentido por parte de los estudiantes (opción 'c'). Al indicarles que hay varias interpretaciones posibles y pedirles que sustenten las suyas, el docente promueve el pensamiento crítico y el diálogo interpretativo. Las otras opciones proponen enfoques más limitados (biográfico o centrado en el narrador).",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Como parte del intercambio de ideas sobre el texto, el docente ha planteado varias preguntas. ¿Cuál de las siguientes preguntas favorece que los estudiantes interpreten el sentido global del poema?",
+          "opciones": [
+            "¿Cuál es el lugar en el que ocurren los principales hechos del poema?",
+            "¿Cuál es la intención del autor al mencionar que el viejo río fluye hacia atrás?",
+            "¿Cuál es la palabra que podría reemplazar el significado del término 'cadalso'?"
+          ],
+          "respuesta": "¿Cuál es la intención del autor al mencionar que el viejo río fluye hacia atrás?",
+          "respuestaCorta": "Esta pregunta se enfoca en una imagen simbólica y disruptiva clave, cuya interpretación es fundamental para comprender el tono y el sentido global de un mundo anormal en el poema.",
+          "solucionario": "La interpretación del sentido global de un poema a menudo depende de la comprensión de sus imágenes más potentes y simbólicas. La imagen del río que fluye hacia atrás rompe con las leyes de la naturaleza y es central para el ambiente surrealista y perturbador del texto. La pregunta 'b' obliga a los estudiantes a interpretar este símbolo, conectándolo con el resto del poema. Las preguntas 'a' y 'c' se enfocan en la comprensión literal.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "El docente pidió a los estudiantes que mencionen los aspectos que dificultaron la lectura de este poema. A continuación, se presentan los comentarios de tres estudiantes:\n\nAdela: Me causó sorpresa leer un poema que trate sobre hechos que pueden dar miedo. Ahora veo que también los poemas tienen este tipo de temas que, por ejemplo, sí los he leído en cuentos o los he visto en las películas de terror.\nBernardo: No entiendo cómo esto puede ser un poema. Parece más un cuento corto, en realidad. De hecho, si alguien me pidiera que le explique por qué es un poema, yo no sabría qué decir.\nCeleste: Fue complicado entender el poema, pero si comprendí lo que quería decir el poeta. Este verso me resultó difícil de entender: 'Los manzanos están en flor'. Quizá otros no comprendan qué significa.\n\n¿Qué estudiante da indicios suficientes para afirmar que tiene un conflicto cognitivo con relación a algún aspecto del texto?",
+          "opciones": [
+            "Adela.",
+            "Bernardo.",
+            "Celeste."
+          ],
+          "respuesta": "Bernardo.",
+          "respuestaCorta": "Bernardo expresa un claro conflicto cognitivo porque el texto choca con su esquema mental de lo que es un 'poema', generando una contradicción que no puede resolver.",
+          "solucionario": "Un conflicto cognitivo surge cuando una nueva información contradice las estructuras mentales o conocimientos previos de una persona. Bernardo manifiesta este conflicto de manera explícita: su concepto de 'poema' no encaja con la forma narrativa del texto que ha leído ('Parece más un cuento corto'). Esta disonancia es la esencia del conflicto cognitivo. Adela está ampliando su esquema temático de la poesía, y Celeste señala una dificultad de interpretación, pero no un conflicto con el género en sí.",
+          "seccion": "Casuística"
+        }
+      ]
+    }
+  ]
+}
