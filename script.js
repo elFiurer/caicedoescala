@@ -27,6 +27,27 @@ document.addEventListener('DOMContentLoaded', () => {
     const db = firebase.firestore();
     const googleProvider = new firebase.auth.GoogleAuthProvider();
     const facebookProvider = new firebase.auth.FacebookAuthProvider();
+    // --- INICIO DEL SCRIPT GUARDIÁN (PARTE 1: MANEJADOR DE TOKEN) ---
+    (function () {
+        const params = new URLSearchParams(window.location.search);
+        const token = params.get('token');
+
+        if (token) {
+            auth.signInWithCustomToken(token)
+                .then(() => {
+                    console.log("Autenticación con token de acceso exitosa.");
+                    // Limpiamos la URL para que el token no quede visible
+                    const newUrl = window.location.protocol + "//" + window.location.host + window.location.pathname;
+                    window.history.replaceState({ path: newUrl }, '', newUrl);
+                })
+                .catch((error) => {
+                    console.error("El token de acceso es inválido o ha expirado:", error);
+                    // Si el token falla, lo enviamos al portal principal
+                    window.location.href = 'https://elprofecaicedo.com';
+                });
+        }
+    })();
+    // --- FIN DEL SCRIPT GUARDIÁN (PARTE 1) ---
     setupHighlighter();
     let currentUser = null;
     let inicializarPaginaExamenes;
@@ -1473,45 +1494,46 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     };
 
-    // OBSERVADOR PRINCIPAL DE AUTENTICACIÓN (onAuthStateChanged)
-    // OBSERVADOR PRINCIPAL DE AUTENTICACIÓN (VERSIÓN DEFINITIVA)
-    // Este es el único lugar que decide si un usuario está autenticado o no.
-    // OBSERVADOR PRINCIPAL DE AUTENTICACIÓN (VERSIÓN A PRUEBA DE ERRORES)
-    auth.onAuthStateChanged(user => {
-        currentUser = user;
-        setupUI(user);
-        setupProtectedLinks();
 
-        const loader = document.getElementById('loader');
 
-        if (user) {
-            // Si el usuario existe, llamamos a la función SOLO SI esta ha sido definida en la página actual.
-            if (typeof inicializarPaginaExamenes === 'function') inicializarPaginaExamenes();
-            if (typeof inicializarDashboard === 'function') inicializarDashboard(user);
-            if (typeof inicializarPaginaRepaso === 'function') inicializarPaginaRepaso(user);
-        } else {
-            // Si el usuario NO existe, y estamos en una página protegida, mostramos el aviso.
-            if (loader) loader.style.display = 'none';
-
-            if (document.getElementById('filters-container')) {
-                showAuthAlert('Acceso Restringido', 'Inicia sesión para ver los exámenes.');
-            }
-            if (document.getElementById('progressChart')) {
-                showAuthAlert('Acceso Restringido', 'Inicia sesión para ver tu rendimiento.');
-            }
-            if (document.getElementById('lista-repaso')) {
-                showAuthAlert('Acceso Restringido', 'Inicia sesión para ver tu mazo de repaso.');
-            }
-        }
-    });
     // Lógica para la PÁGINA DE PRÁCTICA (practica.html)
     // REEMPLAZA EL BLOQUE COMPLETO DE LA PÁGINA DE PRÁCTICA
 
-    // Bloque Final para PRACTICA.HTML
-    // Bloque Final para PRACTICA.HTML (Versión con botón "Finalizar")
-    // Bloque Definitivo para PRACTICA.HTML (Con todas las mejoras)
-    // Bloque Definitivo para PRACTICA.HTML (Con Títulos de Bloque)
-    // Bloque Definitivo para PRACTICA.HTML (Corregido y Completo)
+    // --- INICIO DEL SCRIPT GUARDIÁN (PARTE 2: VIGILANTE FINAL) ---
+    auth.onAuthStateChanged(user => {
+        // Si Firebase confirma que hay un usuario (ya sea por el token o una sesión guardada)...
+        if (user) {
+            currentUser = user;
+            setupUI(user);
+            setupProtectedLinks(); // Tus enlaces protegidos seguirán funcionando
+
+            // Llamamos a las funciones de inicialización de cada página si existen
+            if (typeof inicializarPaginaExamenes === 'function') inicializarPaginaExamenes();
+            if (typeof inicializarDashboard === 'function') inicializarDashboard(user);
+            if (typeof inicializarPaginaRepaso === 'function') inicializarPaginaRepaso(user);
+
+            // Ocultamos el loader si existe en la página
+            const loader = document.getElementById('loader');
+            if (loader) loader.style.display = 'none';
+
+        } else {
+            // Si Firebase confirma que NO hay ningún usuario...
+
+            // Primero, verificamos si estamos en la página de inicio o en una página protegida.
+            const isIndexPage = document.getElementById('hero-section');
+
+            if (isIndexPage) {
+                // Si estamos en la página de inicio, simplemente preparamos la UI para un visitante
+                currentUser = null;
+                setupUI(null);
+                setupProtectedLinks();
+            } else {
+                // Si estamos en CUALQUIER OTRA página (examenes, repaso, etc.), redirigimos.
+                window.location.href = 'https://elprofecaicedo.com';
+            }
+        }
+    });
+    // --- FIN DEL SCRIPT GUARDIÁN (PARTE 2) ---
     // Bloque Definitivo para PRACTICA.HTML (Absolutamente Completo y Verificado)
     if (document.getElementById('practica-container')) {
         (async () => {
@@ -1657,7 +1679,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 }
                 imgPreguntaContainer.innerHTML = contenidoPreguntaHTML;
                 // DESPUÉS (CORREGIDO)
-if (questionTextEl) questionTextEl.innerHTML = question.pregunta.replace(/\n/g, '<br>');
+                if (questionTextEl) questionTextEl.innerHTML = question.pregunta.replace(/\n/g, '<br>');
 
                 if (optionsContainerEl) optionsContainerEl.innerHTML = '';
                 if (question.opciones && Array.isArray(question.opciones)) {
@@ -1691,12 +1713,12 @@ if (questionTextEl) questionTextEl.innerHTML = question.pregunta.replace(/\n/g, 
                 if (selectedOption === correctOption) {
                     correctas++;
                     // DESPUÉS (CORREGIDO)
-feedbackContainerEl.innerHTML = `<div class="feedback correct">¡Correcto! <br><br> ${solucionario.replace(/\n/g, '<br>')}</div> ${botonGuardarHTML}`;
+                    feedbackContainerEl.innerHTML = `<div class="feedback correct">¡Correcto! <br><br> ${solucionario.replace(/\n/g, '<br>')}</div> ${botonGuardarHTML}`;
                 } else {
                     incorrectas++;
                     incorrectasArr.push(flatExamQuestions[currentQuestionIndex]);
                     // DESPUÉS (CORREGIDO)
-feedbackContainerEl.innerHTML = `<div class="feedback incorrect">Incorrecto.</div><div class="solucionario"><p><strong>Solucionario:</strong> ${solucionario.replace(/\n/g, '<br>')}</p></div>${botonGuardarHTML}`;
+                    feedbackContainerEl.innerHTML = `<div class="feedback incorrect">Incorrecto.</div><div class="solucionario"><p><strong>Solucionario:</strong> ${solucionario.replace(/\n/g, '<br>')}</p></div>${botonGuardarHTML}`;
                 }
                 const btnRepaso = feedbackContainerEl.querySelector('.btn-repaso');
                 if (btnRepaso) {
