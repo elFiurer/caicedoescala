@@ -384,68 +384,66 @@ document.addEventListener('DOMContentLoaded', () => {
     };
 
     // 👇 REEMPLAZA TU FUNCIÓN setupUI COMPLETA CON ESTA VERSIÓN MEJORADA 👇
+    // ▼▼▼ REEMPLAZA TU FUNCIÓN setupUI COMPLETA CON ESTA VERSIÓN ▼▼▼
     const setupUI = (user) => {
         const mainNav = document.querySelector('.main-nav');
-        if (!mainNav) return; // Si no hay barra de navegación, no hacemos nada
+        if (!mainNav) return;
 
-        // --- 1. LIMPIAR ESTADO ANTERIOR (AHORA MÁS COMPLETO) ---
+        // --- 1. LIMPIAR ESTADO ANTERIOR ---
         const oldLoginBtn = document.getElementById('login-btn');
         const oldUserProfile = mainNav.querySelector('.user-profile');
-        const oldLogoutLink = mainNav.querySelector('.logout-link'); // <-- Buscamos también el botón de logout viejo
         if (oldLoginBtn) oldLoginBtn.remove();
         if (oldUserProfile) oldUserProfile.remove();
-        if (oldLogoutLink) oldLogoutLink.remove(); // <-- Y lo eliminamos si existe
 
-        // --- 2. LÓGICA DE BOTONES GLOBALES (en la barra de navegación) ---
+        // --- 2. LÓGICA DE BOTONES GLOBALES ---
         if (user) {
-            // PARTE A: Creamos el perfil (foto y nombre) y lo ponemos en la barra principal.
+            // --- INICIA LA CORRECCIÓN ---
+            // Si el usuario no tiene un nombre a mostrar, usamos su email.
+            const nombrePrincipal = user.displayName || user.email;
+            // Tomamos solo la primera parte (antes de un espacio o un @).
+            const nombreCorto = nombrePrincipal.split(' ')[0].split('@')[0];
+            // --- FIN DE LA CORRECCIÓN ---
+
             const userProfile = document.createElement('div');
             userProfile.classList.add('user-profile');
+            // Usamos las nuevas variables para evitar el error
             userProfile.innerHTML = `
-        <img src="${user.photoURL || 'default-avatar.png'}" alt="${user.displayName}" class="profile-pic">
-        <span class="profile-name">${user.displayName.split(' ')[0]}</span>
-    `; // <-- ¡Hemos quitado el botón de aquí!
+            <img src="${user.photoURL || 'default-avatar.png'}" alt="${nombrePrincipal}" class="profile-pic">
+            <span class="profile-name">${nombreCorto}</span>
+        `;
             mainNav.appendChild(userProfile);
 
-            // PARTE B: Creamos el botón "Cerrar Sesión" y lo metemos DENTRO del menú.
+            // El resto de tu lógica para el botón de logout y el menú
             const navLinksMenu = mainNav.querySelector('.nav-links');
             if (navLinksMenu) {
-                const logoutLi = document.createElement('li');
-                logoutLi.classList.add('logout-link'); // Clase para darle estilos
-                logoutLi.innerHTML = `<button class="btn-logout" id="logout-btn">Cerrar Sesión</button>`;
-                navLinksMenu.appendChild(logoutLi); // <-- Lo añadimos al final del <ul> del menú
+                // Eliminar botón de logout viejo si existe
+                const oldLogoutLink = navLinksMenu.querySelector('.logout-link');
+                if (oldLogoutLink) oldLogoutLink.remove();
 
-                // Finalmente, le damos vida al botón.
-                const logoutBtn = document.getElementById('logout-btn');
-                if (logoutBtn) {
-                    logoutBtn.addEventListener('click', logout);
-                }
+                const logoutLi = document.createElement('li');
+                logoutLi.classList.add('logout-link');
+                logoutLi.innerHTML = `<button class="btn-logout" id="logout-btn">Cerrar Sesión</button>`;
+                navLinksMenu.appendChild(logoutLi);
+                document.getElementById('logout-btn').addEventListener('click', logout);
             }
 
         } else {
-            // ... (el código para cuando no hay usuario sigue igual)
-            // Si el usuario NO ha iniciado sesión, CREAMOS el botón de "Iniciar Sesión"
+            // Si no hay usuario, creamos el botón de "Iniciar Sesión"
+            // (Aunque ya no se usará, lo dejamos por si quieres una página pública)
             const loginBtn = document.createElement('button');
             loginBtn.id = 'login-btn';
             loginBtn.className = 'btn-login';
             loginBtn.innerText = 'Iniciar Sesión';
             mainNav.appendChild(loginBtn);
-
-            // CÓDIGO CORREGIDO
             loginBtn.addEventListener('click', () => openModal());
         }
 
-        // --- 3. LÓGICA DE BOTONES ESPECÍFICOS (en el cuerpo de la página de inicio) ---
-        // --- 3. LÓGICA DE BOTONES ESPECÍFICOS (en el cuerpo de la página de inicio) ---
-        // --- 3. LÓGICA DE BOTONES ESPECÍFICOS (en el cuerpo de la página de inicio) ---
+        // --- 3. LÓGICA DEL BOTÓN CTA (Llamada a la acción) ---
         const ctaBtn = document.getElementById('cta-btn');
-        if (ctaBtn) { // Solo si estamos en una página que tiene este botón
-            // 1. Clonamos el botón. Esto crea una copia exacta pero SIN los event listeners (órdenes) anteriores.
+        if (ctaBtn) {
             const ctaBtnLimpio = ctaBtn.cloneNode(true);
-            // 2. Reemplazamos el botón viejo y "sucio" por nuestro clon limpio en la página.
             ctaBtn.parentNode.replaceChild(ctaBtnLimpio, ctaBtn);
 
-            // 3. Ahora, trabajamos ÚNICAMENTE con el botón limpio (ctaBtnLimpio).
             if (user) {
                 ctaBtnLimpio.innerText = "Ir a mis exámenes";
                 ctaBtnLimpio.addEventListener('click', () => {
@@ -453,14 +451,13 @@ document.addEventListener('DOMContentLoaded', () => {
                 });
             } else {
                 ctaBtnLimpio.innerText = "Empieza a Practicar Gratis";
+                // Ya no abrimos el modal, el login es centralizado
                 ctaBtnLimpio.addEventListener('click', () => {
-                    openModal();
+                    // Redirigimos al portal principal
+                    window.location.href = 'https://elprofecaicedo.com';
                 });
             }
         }
-
-        // --- 4. INTERCEPTOR INTELIGENTE DEL ENLACE DE EXÁMENES ---
-
     };
 
     // --- FUNCIÓN PARA ABRIR EL MODAL (Asegúrate de que esté disponible) ---
