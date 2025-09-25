@@ -1500,36 +1500,41 @@ document.addEventListener('DOMContentLoaded', () => {
     // REEMPLAZA EL BLOQUE COMPLETO DE LA PÁGINA DE PRÁCTICA
 
     // --- INICIO DEL SCRIPT GUARDIÁN (PARTE 2: VIGILANTE FINAL) ---
-    auth.onAuthStateChanged(user => {
-        // Si Firebase confirma que hay un usuario (ya sea por el token o una sesión guardada)...
-        if (user) {
-            currentUser = user;
-            setupUI(user);
-            setupProtectedLinks(); // Tus enlaces protegidos seguirán funcionando
+    // ▼▼▼ REEMPLAZA TU onAuthStateChanged CON ESTE BLOQUE CORREGIDO ▼▼▼
 
-            // Llamamos a las funciones de inicialización de cada página si existen
+    auth.onAuthStateChanged(user => {
+        // Una vez que Firebase responde, actualizamos la variable global
+        currentUser = user;
+
+        if (user) {
+            // --- SI HAY USUARIO ---
+            // El usuario está autenticado, todo funciona como antes.
+            setupUI(user);
+            setupProtectedLinks();
+
+            // Llamamos a las funciones de inicialización de cada página
             if (typeof inicializarPaginaExamenes === 'function') inicializarPaginaExamenes();
             if (typeof inicializarDashboard === 'function') inicializarDashboard(user);
             if (typeof inicializarPaginaRepaso === 'function') inicializarPaginaRepaso(user);
 
-            // Ocultamos el loader si existe en la página
-            const loader = document.getElementById('loader');
-            if (loader) loader.style.display = 'none';
-
         } else {
-            // Si Firebase confirma que NO hay ningún usuario...
+            // --- SI NO HAY USUARIO ---
+            // Firebase ha confirmado que NO hay sesión. Ahora el guardián actúa.
 
-            // Primero, verificamos si estamos en la página de inicio o en una página protegida.
-            const isIndexPage = document.getElementById('hero-section');
+            // Identificamos si la página actual es una que requiere protección
+            // (examenes.html, repaso.html, dashboard.html)
+            const isProtectedPage = document.getElementById('filters-container') ||
+                document.getElementById('progressChart') ||
+                document.getElementById('lista-repaso');
 
-            if (isIndexPage) {
-                // Si estamos en la página de inicio, simplemente preparamos la UI para un visitante
-                currentUser = null;
+            if (isProtectedPage) {
+                // Si es una página protegida, redirigimos al portal principal
+                window.location.href = 'https://elprofecaicedo.com';
+            } else {
+                // Si es una página pública (como tu index.html), simplemente
+                // preparamos la interfaz para un visitante no autenticado.
                 setupUI(null);
                 setupProtectedLinks();
-            } else {
-                // Si estamos en CUALQUIER OTRA página (examenes, repaso, etc.), redirigimos.
-                window.location.href = 'https://elprofecaicedo.com';
             }
         }
     });
