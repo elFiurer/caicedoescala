@@ -10,9 +10,8 @@
     --font-family: 'Poppins', sans-serif;
 }
 /* Oculta el cuerpo de la página hasta que el script de seguridad decida qué hacer */
-body {
-    visibility: hidden;
-}
+
+
 * {
     margin: 0;
     padding: 0;
