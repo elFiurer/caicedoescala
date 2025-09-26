@@ -2406,16 +2406,3 @@ h2 { font-size: 28px; }
     margin: 5px 0;
     transition: all 0.3s ease-in-out;
 }
-/* ======================================================= */
-/* ==   ESTILOS PARA TRANSICIÓN SUAVE ENTRE PÁGINAS     == */
-/* ======================================================= */
-
-body.fade-out {
-    opacity: 0;
-    transition: opacity 0.3s ease-out;
-}
-
-body {
-    opacity: 1;
-    transition: opacity 0.3s ease-in;
-}
