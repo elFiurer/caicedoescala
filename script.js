@@ -1510,58 +1510,42 @@ document.addEventListener('DOMContentLoaded', () => {
     // --- INICIO DEL SCRIPT GUARDIÁN (PARTE 2: VIGILANTE FINAL) ---
     // ▼▼▼ REEMPLAZA TU onAuthStateChanged CON ESTE BLOQUE CORREGIDO ▼▼▼
 
-    // ========================================================================
-    // == INICIO: GUARDIÁN DE AUTENTICACIÓN FINAL Y ROBUSTO ===================
-    // ========================================================================
-    // ========================================================================
-    // == INICIO: GUARDIÁN DE AUTENTICACIÓN VERSIÓN FINAL Y A PRUEBA DE FALLOS ==
-    // ========================================================================
     auth.onAuthStateChanged(user => {
+        // Una vez que Firebase responde, actualizamos la variable global
         currentUser = user;
 
         if (user) {
             // --- SI HAY USUARIO ---
+            // El usuario está autenticado, todo funciona como antes.
             setupUI(user);
             setupProtectedLinks();
 
+            // Llamamos a las funciones de inicialización de cada página
             if (typeof inicializarPaginaExamenes === 'function') inicializarPaginaExamenes();
             if (typeof inicializarDashboard === 'function') inicializarDashboard(user);
             if (typeof inicializarPaginaRepaso === 'function') inicializarPaginaRepaso(user);
 
-            // Hacemos visible la página ahora que sabemos que el usuario tiene acceso
-            document.body.style.visibility = 'visible';
-
         } else {
             // --- SI NO HAY USUARIO ---
-            const currentPage = window.location.pathname.split('/').pop() || 'index.html';
-            const paginasProtegidas = [
-                'examenes.html',
-                'dashboard.html',
-                'repaso.html',
-                'resultados.html',
-                'practica.html',
-                'simulacro.html'
-            ];
-            const isProtectedPage = paginasProtegidas.includes(currentPage);
+            // Firebase ha confirmado que NO hay sesión. Ahora el guardián actúa.
+
+            // Identificamos si la página actual es una que requiere protección
+            // (examenes.html, repaso.html, dashboard.html)
+            const isProtectedPage = document.getElementById('filters-container') ||
+                document.getElementById('progressChart') ||
+                document.getElementById('lista-repaso');
 
             if (isProtectedPage) {
-                // Usamos .replace() que es más fuerte y no deja historial
-                window.location.replace('https://elprofecaicedo.com');
+                // Si es una página protegida, redirigimos al portal principal
+                window.location.href = 'https://elprofecaicedo.com';
             } else {
-                // Si es una página pública, la preparamos para el visitante
+                // Si es una página pública (como tu index.html), simplemente
+                // preparamos la interfaz para un visitante no autenticado.
                 setupUI(null);
                 setupProtectedLinks();
-                // Y la hacemos visible
-                document.body.style.visibility = 'visible';
             }
         }
     });
-    // ========================================================================
-    // == FIN: GUARDIÁN DE AUTENTICACIÓN ======================================
-    // ========================================================================
-    // ========================================================================
-    // == FIN: GUARDIÁN DE AUTENTICACIÓN ======================================
-    // ========================================================================
     // --- FIN DEL SCRIPT GUARDIÁN (PARTE 2) ---
     // Bloque Definitivo para PRACTICA.HTML (Absolutamente Completo y Verificado)
     if (document.getElementById('practica-container')) {
@@ -1837,7 +1821,7 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     });
 
-});
+}); 
 
 // =======================================================
 // == SCRIPT PARA TRANSICIÓN SUAVE ENTRE PÁGINAS        ==
@@ -1858,7 +1842,7 @@ window.addEventListener('click', function (e) {
 
     // Nos aseguramos de que sea un enlace de navegación válido
     if (link && link.href && !link.href.startsWith('#') && link.target !== '_blank') {
-
+        
         // Prevenimos la navegación inmediata
         e.preventDefault();
         const destination = link.href;
