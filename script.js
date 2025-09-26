@@ -1822,3 +1822,70 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
 }); 
+
+// =======================================================
+// == SCRIPT PARA TRANSICIÓN SUAVE ENTRE PÁGINAS        ==
+// =======================================================
+
+// EFECTO DE "FADE IN" AL CARGAR LA PÁGINA
+// Preparamos el cuerpo para aparecer suavemente
+document.body.style.opacity = "0";
+window.addEventListener('DOMContentLoaded', () => {
+    document.body.style.opacity = "1";
+});
+
+
+// EFECTO DE "FADE OUT" AL SALIR DE LA PÁGINA
+// Escuchamos los clics en todos los enlaces <a>
+window.addEventListener('click', function (e) {
+    const link = e.target.closest('a');
+
+    // Nos aseguramos de que sea un enlace de navegación válido
+    if (link && link.href && !link.href.startsWith('#') && link.target !== '_blank') {
+        
+        // Prevenimos la navegación inmediata
+        e.preventDefault();
+        const destination = link.href;
+
+        // Añadimos la clase para que la página se desvanezca
+        document.body.classList.add('fade-out');
+
+        // Esperamos a que termine la animación (300ms) para navegar
+        setTimeout(() => {
+            window.location.href = destination;
+        }, 300);
+    }
+});
+// =======================================================
+// == SCRIPT PARA TRANSICIÓN SUAVE ENTRE PÁGINAS        ==
+// =======================================================
+
+// EFECTO DE "FADE IN" AL CARGAR LA PÁGINA
+// Preparamos el cuerpo para aparecer suavemente
+document.body.style.opacity = "0";
+window.addEventListener('DOMContentLoaded', () => {
+    document.body.style.opacity = "1";
+});
+
+
+// EFECTO DE "FADE OUT" AL SALIR DE LA PÁGINA
+// Escuchamos los clics en todos los enlaces <a>
+window.addEventListener('click', function (e) {
+    const link = e.target.closest('a');
+
+    // Nos aseguramos de que sea un enlace de navegación válido
+    if (link && link.href && !link.href.startsWith('#') && link.target !== '_blank') {
+        
+        // Prevenimos la navegación inmediata
+        e.preventDefault();
+        const destination = link.href;
+
+        // Añadimos la clase para que la página se desvanezca
+        document.body.classList.add('fade-out');
+
+        // Esperamos a que termine la animación (300ms) para navegar
+        setTimeout(() => {
+            window.location.href = destination;
+        }, 300);
+    }
+});
