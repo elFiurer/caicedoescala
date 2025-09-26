@@ -1510,42 +1510,55 @@ document.addEventListener('DOMContentLoaded', () => {
     // --- INICIO DEL SCRIPT GUARDIÁN (PARTE 2: VIGILANTE FINAL) ---
     // ▼▼▼ REEMPLAZA TU onAuthStateChanged CON ESTE BLOQUE CORREGIDO ▼▼▼
 
+    // ========================================================================
+    // == INICIO: GUARDIÁN DE AUTENTICACIÓN FINAL Y ROBUSTO ===================
+    // ========================================================================
     auth.onAuthStateChanged(user => {
-        // Una vez que Firebase responde, actualizamos la variable global
         currentUser = user;
 
         if (user) {
             // --- SI HAY USUARIO ---
-            // El usuario está autenticado, todo funciona como antes.
+            // El comportamiento para un usuario logueado no cambia y es correcto.
             setupUI(user);
             setupProtectedLinks();
 
-            // Llamamos a las funciones de inicialización de cada página
             if (typeof inicializarPaginaExamenes === 'function') inicializarPaginaExamenes();
             if (typeof inicializarDashboard === 'function') inicializarDashboard(user);
             if (typeof inicializarPaginaRepaso === 'function') inicializarPaginaRepaso(user);
 
         } else {
             // --- SI NO HAY USUARIO ---
-            // Firebase ha confirmado que NO hay sesión. Ahora el guardián actúa.
+            // Aquí es donde aplicamos la nueva lógica, mucho más segura.
 
-            // Identificamos si la página actual es una que requiere protección
-            // (examenes.html, repaso.html, dashboard.html)
-            const isProtectedPage = document.getElementById('filters-container') ||
-                document.getElementById('progressChart') ||
-                document.getElementById('lista-repaso');
+            // 1. Obtenemos el nombre del archivo de la URL actual (ej: "examenes.html")
+            const currentPage = window.location.pathname.split('/').pop();
+
+            // 2. Definimos una lista clara de todas las páginas que deben estar protegidas.
+            const paginasProtegidas = [
+                'examenes.html',
+                'dashboard.html',
+                'repaso.html',
+                'resultados.html',
+                'practica.html',
+                'simulacro.html'
+            ];
+
+            // 3. Comprobamos si la página actual está en nuestra lista de protección.
+            const isProtectedPage = paginasProtegidas.includes(currentPage);
 
             if (isProtectedPage) {
-                // Si es una página protegida, redirigimos al portal principal
+                // Si es una página protegida, la redirección es inmediata y segura.
                 window.location.href = 'https://elprofecaicedo.com';
             } else {
-                // Si es una página pública (como tu index.html), simplemente
-                // preparamos la interfaz para un visitante no autenticado.
+                // Si es una página pública (como tu index.html), preparamos la interfaz para un visitante.
                 setupUI(null);
                 setupProtectedLinks();
             }
         }
     });
+    // ========================================================================
+    // == FIN: GUARDIÁN DE AUTENTICACIÓN ======================================
+    // ========================================================================
     // --- FIN DEL SCRIPT GUARDIÁN (PARTE 2) ---
     // Bloque Definitivo para PRACTICA.HTML (Absolutamente Completo y Verificado)
     if (document.getElementById('practica-container')) {
@@ -1821,7 +1834,7 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     });
 
-}); 
+});
 
 // =======================================================
 // == SCRIPT PARA TRANSICIÓN SUAVE ENTRE PÁGINAS        ==
@@ -1842,7 +1855,7 @@ window.addEventListener('click', function (e) {
 
     // Nos aseguramos de que sea un enlace de navegación válido
     if (link && link.href && !link.href.startsWith('#') && link.target !== '_blank') {
-        
+
         // Prevenimos la navegación inmediata
         e.preventDefault();
         const destination = link.href;
