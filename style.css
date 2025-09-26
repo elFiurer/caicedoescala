@@ -2327,3 +2327,40 @@ h2 { font-size: 28px; }
     margin: 5px 0;
     transition: all 0.3s ease-in-out;
 }
+/* Estilos para el Botón Flotante de Volver al Dashboard */
+
+#back-to-dashboard-btn {
+    position: fixed; /* Fija el botón en la pantalla */
+    bottom: 25px;    /* 25px desde abajo */
+    right: 25px;     /* 25px desde la derecha */
+    z-index: 1000;   /* Se asegura de que esté por encima de otros elementos */
+
+    display: flex;
+    align-items: center;
+    gap: 8px; /* Espacio entre el icono y el texto */
+    
+    background-color: #0056b3; /* Un color azul similar al de tu tema */
+    color: white;
+    
+    padding: 12px 18px;
+    border-radius: 50px; /* Lo hace ovalado/circular */
+    
+    font-size: 16px;
+    font-weight: 500;
+    text-decoration: none; /* Quita el subrayado del enlace */
+    
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); /* Sombra para que resalte */
+    
+    transition: transform 0.2s ease-in-out, background-color 0.2s ease-in-out;
+}
+
+#back-to-dashboard-btn:hover {
+    background-color: #004494; /* Un azul más oscuro al pasar el mouse */
+    transform: scale(1.05);   /* Lo agranda un poco */
+}
+
+/* Estilo para el icono dentro del botón */
+#back-to-dashboard-btn i {
+    width: 20px;
+    height: 20px;
+}
