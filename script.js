@@ -1513,12 +1513,14 @@ document.addEventListener('DOMContentLoaded', () => {
     // ========================================================================
     // == INICIO: GUARDIÁN DE AUTENTICACIÓN FINAL Y ROBUSTO ===================
     // ========================================================================
+    // ========================================================================
+    // == INICIO: GUARDIÁN DE AUTENTICACIÓN VERSIÓN FINAL Y A PRUEBA DE FALLOS ==
+    // ========================================================================
     auth.onAuthStateChanged(user => {
         currentUser = user;
 
         if (user) {
             // --- SI HAY USUARIO ---
-            // El comportamiento para un usuario logueado no cambia y es correcto.
             setupUI(user);
             setupProtectedLinks();
 
@@ -1526,14 +1528,12 @@ document.addEventListener('DOMContentLoaded', () => {
             if (typeof inicializarDashboard === 'function') inicializarDashboard(user);
             if (typeof inicializarPaginaRepaso === 'function') inicializarPaginaRepaso(user);
 
+            // Hacemos visible la página ahora que sabemos que el usuario tiene acceso
+            document.body.style.visibility = 'visible';
+
         } else {
             // --- SI NO HAY USUARIO ---
-            // Aquí es donde aplicamos la nueva lógica, mucho más segura.
-
-            // 1. Obtenemos el nombre del archivo de la URL actual (ej: "examenes.html")
-            const currentPage = window.location.pathname.split('/').pop();
-
-            // 2. Definimos una lista clara de todas las páginas que deben estar protegidas.
+            const currentPage = window.location.pathname.split('/').pop() || 'index.html';
             const paginasProtegidas = [
                 'examenes.html',
                 'dashboard.html',
@@ -1542,20 +1542,23 @@ document.addEventListener('DOMContentLoaded', () => {
                 'practica.html',
                 'simulacro.html'
             ];
-
-            // 3. Comprobamos si la página actual está en nuestra lista de protección.
             const isProtectedPage = paginasProtegidas.includes(currentPage);
 
             if (isProtectedPage) {
-                // Si es una página protegida, la redirección es inmediata y segura.
-                window.location.href = 'https://elprofecaicedo.com';
+                // Usamos .replace() que es más fuerte y no deja historial
+                window.location.replace('https://elprofecaicedo.com');
             } else {
-                // Si es una página pública (como tu index.html), preparamos la interfaz para un visitante.
+                // Si es una página pública, la preparamos para el visitante
                 setupUI(null);
                 setupProtectedLinks();
+                // Y la hacemos visible
+                document.body.style.visibility = 'visible';
             }
         }
     });
+    // ========================================================================
+    // == FIN: GUARDIÁN DE AUTENTICACIÓN ======================================
+    // ========================================================================
     // ========================================================================
     // == FIN: GUARDIÁN DE AUTENTICACIÓN ======================================
     // ========================================================================
