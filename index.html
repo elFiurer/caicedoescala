@@ -131,10 +131,57 @@
 <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-auth-compat.js"></script>
 <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-firestore-compat.js"></script>
 
-
-
-
 <script src="script.js"></script>
+<script>
+    (function() {
+        // 1. Creamos e inyectamos el CSS necesario directamente en la página.
+        // No necesitas tocar tu archivo style.css.
+        const styles = `
+            body {
+                /* Por defecto, la página aparecerá suavemente */
+                opacity: 1;
+                transition: opacity 0.4s ease-in-out;
+            }
+            body.is-fading-out {
+                /* Cuando la página se va, se desvanece */
+                opacity: 0;
+            }
+        `;
+        const styleSheet = document.createElement("style");
+        styleSheet.innerText = styles;
+        document.head.appendChild(styleSheet);
+
+        // 2. Controlamos la salida de la página.
+        window.addEventListener('click', function(e) {
+            // Buscamos si el clic fue en un enlace <a>
+            const link = e.target.closest('a');
+
+            // Nos aseguramos de que sea un enlace de navegación normal
+            if (link && link.href && !link.href.startsWith('#') && link.target !== '_blank') {
+                
+                // Detenemos la navegación brusca
+                e.preventDefault();
+                const destination = link.href;
+
+                // Aplicamos la clase para desvanecer la página
+                document.body.classList.add('is-fading-out');
+
+                // Esperamos que termine la animación antes de cambiar de página
+                setTimeout(() => {
+                    window.location.href = destination;
+                }, 400);
+            }
+        });
+
+        // 3. Controlamos la entrada a la página.
+        // Hacemos que la página no se muestre hasta que esté lista para evitar parpadeos.
+        document.body.style.opacity = '0';
+        window.addEventListener('load', () => {
+            document.body.style.opacity = '1';
+        });
+
+    })();
+</script>
 </body>
 
 </html>
