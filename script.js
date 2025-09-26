@@ -385,41 +385,53 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // 👇 REEMPLAZA TU FUNCIÓN setupUI COMPLETA CON ESTA VERSIÓN MEJORADA 👇
     // ▼▼▼ REEMPLAZA TU FUNCIÓN setupUI COMPLETA CON ESTA VERSIÓN ▼▼▼
+    // ======================================================================
+    // == CÓDIGO FINAL Y VERIFICADO PARA REEMPLAZAR LA FUNCIÓN setupUI =====
+    // ======================================================================
     const setupUI = (user) => {
         const mainNav = document.querySelector('.main-nav');
         if (!mainNav) return;
 
-        // --- 1. LIMPIAR ESTADO ANTERIOR ---
+        // --- Limpiamos el estado anterior para evitar duplicados ---
         const oldLoginBtn = document.getElementById('login-btn');
-        const oldUserProfile = mainNav.querySelector('.user-profile');
         if (oldLoginBtn) oldLoginBtn.remove();
+
+        const oldUserProfile = mainNav.querySelector('.user-profile');
         if (oldUserProfile) oldUserProfile.remove();
 
-        // --- 2. LÓGICA DE BOTONES GLOBALES ---
+        const navLinksMenu = mainNav.querySelector('.nav-links');
+        if (navLinksMenu) {
+            const oldLogoutLink = navLinksMenu.querySelector('.logout-link');
+            if (oldLogoutLink) oldLogoutLink.remove();
+
+            const oldDashboardLink = navLinksMenu.querySelector('.dashboard-link-li');
+            if (oldDashboardLink) oldDashboardLink.remove();
+        }
+
+        // --- Configuramos la UI según si el usuario existe o no ---
         if (user) {
-            // --- INICIA LA CORRECCIÓN ---
-            // Si el usuario no tiene un nombre a mostrar, usamos su email.
+            // --- SI HAY USUARIO ---
             const nombrePrincipal = user.displayName || user.email;
-            // Tomamos solo la primera parte (antes de un espacio o un @).
             const nombreCorto = nombrePrincipal.split(' ')[0].split('@')[0];
-            // --- FIN DE LA CORRECCIÓN ---
 
             const userProfile = document.createElement('div');
             userProfile.classList.add('user-profile');
-            // Usamos las nuevas variables para evitar el error
             userProfile.innerHTML = `
             <img src="${user.photoURL || 'default-avatar.png'}" alt="${nombrePrincipal}" class="profile-pic">
             <span class="profile-name">${nombreCorto}</span>
         `;
             mainNav.appendChild(userProfile);
 
-            // El resto de tu lógica para el botón de logout y el menú
-            const navLinksMenu = mainNav.querySelector('.nav-links');
             if (navLinksMenu) {
-                // Eliminar botón de logout viejo si existe
-                const oldLogoutLink = navLinksMenu.querySelector('.logout-link');
-                if (oldLogoutLink) oldLogoutLink.remove();
+                // --- INICIO: CÓDIGO AÑADIDO CUIDADOSAMENTE ---
+                // Creamos y añadimos el botón para volver al Dashboard
+                const dashboardLi = document.createElement('li');
+                dashboardLi.classList.add('dashboard-link-li');
+                dashboardLi.innerHTML = `<a href="https://elprofecaicedo.com/dashboard.html" class="dashboard-button">Volver al Inicio</a>`;
+                navLinksMenu.prepend(dashboardLi);
+                // --- FIN: CÓDIGO AÑADIDO ---
 
+                // Crea y añade el botón de Cerrar Sesión (lógica original)
                 const logoutLi = document.createElement('li');
                 logoutLi.classList.add('logout-link');
                 logoutLi.innerHTML = `<button class="btn-logout" id="logout-btn">Cerrar Sesión</button>`;
@@ -428,17 +440,18 @@ document.addEventListener('DOMContentLoaded', () => {
             }
 
         } else {
-            // Si no hay usuario, creamos el botón de "Iniciar Sesión"
-            // (Aunque ya no se usará, lo dejamos por si quieres una página pública)
-            const loginBtn = document.createElement('button');
-            loginBtn.id = 'login-btn';
-            loginBtn.className = 'btn-login';
-            loginBtn.innerText = 'Iniciar Sesión';
-            mainNav.appendChild(loginBtn);
-            loginBtn.addEventListener('click', () => openModal());
+            // --- SI NO HAY USUARIO ---
+            // (Esta parte es de tu código original, no se toca)
+            const ctaBtn = document.getElementById('cta-btn');
+            if (ctaBtn) {
+                ctaBtn.innerText = "Empieza a Practicar Gratis";
+                ctaBtn.addEventListener('click', () => {
+                    openModal();
+                });
+            }
         }
 
-        // --- 3. LÓGICA DEL BOTÓN CTA (Llamada a la acción) ---
+        // Lógica del botón CTA que ya tenías (se mantiene igual)
         const ctaBtn = document.getElementById('cta-btn');
         if (ctaBtn) {
             const ctaBtnLimpio = ctaBtn.cloneNode(true);
@@ -451,10 +464,8 @@ document.addEventListener('DOMContentLoaded', () => {
                 });
             } else {
                 ctaBtnLimpio.innerText = "Empieza a Practicar Gratis";
-                // Ya no abrimos el modal, el login es centralizado
                 ctaBtnLimpio.addEventListener('click', () => {
-                    // Redirigimos al portal principal
-                    window.location.href = 'https://elprofecaicedo.com';
+                    openModal();
                 });
             }
         }
