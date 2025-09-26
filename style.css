@@ -24,12 +24,13 @@ body {
 }
 
 .container {
-    max-width: 1100px;
+     max-width: 1320px;
     margin: 0 auto;
     padding: 0 20px;
 }
 
 /* Header y Navegación */
+/* Header y Navegación (VERSIÓN FINAL CON AJUSTES DE TAMAÑO) */
 .main-header {
     background-color: #fff;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
@@ -42,8 +43,8 @@ body {
 
 .main-nav {
     display: flex;
-    justify-content: space-between;
     align-items: center;
+    gap: 30px; 
 }
 
 .logo {
@@ -61,21 +62,92 @@ body {
 .nav-links {
     list-style: none;
     display: flex;
+    align-items: center;
+    flex-grow: 1;
+    justify-content: center; /* Centra los elementos en el espacio disponible */
 }
 
 .nav-links li {
-    margin-left: 30px;
+    margin-left: 0;
+    padding: 0 15px; /* Reducimos un poco el espaciado para dar más aire */
+    border-right: 1px solid #e0e0e0;
 }
 
-.nav-links a {
+.nav-links li:last-child {
+    border-right: none;
+    padding-right: 0; 
+}
+
+.nav-links a, .nav-links .btn-logout {
+    position: relative;
+    display: inline-flex;
+    align-items: center;
+    height: 40px;
+    white-space: nowrap;
     text-decoration: none;
     color: var(--text-color);
     font-weight: 600;
     transition: color 0.3s ease;
+    font-size: 15px; /* <-- AJUSTE: Reducimos un poco la letra del menú */
+}
+
+.nav-links a:not(.dashboard-button)::after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 2px;
+    background-color: var(--primary-color);
+    bottom: 5px; 
+    left: 0;
+    transform: scaleX(0);
+    transform-origin: center;
+    transition: transform 0.3s ease;
+}
+
+.nav-links a:not(.dashboard-button):hover::after {
+    transform: scaleX(1);
 }
 
 .nav-links a:hover {
     color: var(--primary-color);
+}
+
+/* ======================================================= */
+/* ==   NUEVO: REGLAS PARA PERFIL DE USUARIO CORREGIDO    == */
+/* ======================================================= */
+.user-profile {
+    display: flex;       /* ¡La clave! Hacemos que sea flexible */
+    align-items: center; /* ¡Y centramos su contenido verticalmente! */
+    gap: 10px;
+}
+
+.profile-pic {
+    width: 36px;   /* Reducimos el tamaño para que coincida con la altura de 40px del menú */
+    height: 36px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 2px solid var(--primary-color); /* El borde suma 4px, total 40px de altura */
+}
+
+.profile-name {
+    font-weight: 600;
+    font-size: 15px; /* Mismo tamaño que el resto del menú */
+}
+
+
+/* Estilo para el botón especial que añadimos */
+.dashboard-button {
+    background-color: #FFC107 !important;
+    color: #333 !important;
+    font-weight: 600;
+    padding: 0 16px;
+    border-radius: 50px;
+    transition: all 0.3s ease;
+}
+.dashboard-button:hover {
+    background-color: #e0a800 !important;
+    transform: scale(1.05);
+    color: #333 !important;
 }
 
 .btn-login {
@@ -1205,7 +1277,14 @@ h2 { font-size: 28px; }
 .hamburger-menu {
     display: block !important; /* ¡Añadimos !important para forzar su aparición! */
 }
-
+/* Ajuste para que el botón del Dashboard se vea como un enlace normal en el menú móvil */
+    .dashboard-button {
+        background-color: transparent;
+        color: var(--text-color) !important; /* Usa el color de texto normal */
+        padding: 15px 20px; /* Iguala el padding de los otros enlaces */
+        margin-left: 0;
+        border: none;
+    }
 .main-nav {
     flex-direction: row; /* Volvemos a poner el logo y el botón en fila */
     justify-content: space-between; /* Uno a cada lado */
@@ -2326,41 +2405,4 @@ h2 { font-size: 28px; }
     background-color: var(--text-color);
     margin: 5px 0;
     transition: all 0.3s ease-in-out;
-}
-/* Estilos para el Botón Flotante de Volver al Dashboard */
-
-#back-to-dashboard-btn {
-    position: fixed; /* Fija el botón en la pantalla */
-    bottom: 25px;    /* 25px desde abajo */
-    right: 25px;     /* 25px desde la derecha */
-    z-index: 1000;   /* Se asegura de que esté por encima de otros elementos */
-
-    display: flex;
-    align-items: center;
-    gap: 8px; /* Espacio entre el icono y el texto */
-    
-    background-color: #0056b3; /* Un color azul similar al de tu tema */
-    color: white;
-    
-    padding: 12px 18px;
-    border-radius: 50px; /* Lo hace ovalado/circular */
-    
-    font-size: 16px;
-    font-weight: 500;
-    text-decoration: none; /* Quita el subrayado del enlace */
-    
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); /* Sombra para que resalte */
-    
-    transition: transform 0.2s ease-in-out, background-color 0.2s ease-in-out;
-}
-
-#back-to-dashboard-btn:hover {
-    background-color: #004494; /* Un azul más oscuro al pasar el mouse */
-    transform: scale(1.05);   /* Lo agranda un poco */
-}
-
-/* Estilo para el icono dentro del botón */
-#back-to-dashboard-btn i {
-    width: 20px;
-    height: 20px;
 }
