@@ -1532,6 +1532,7 @@ document.addEventListener('DOMContentLoaded', () => {
             // --- INICIO: ESCUCHA DE CIERRE DE SESIÓN GLOBAL (CORREGIDO) ---
             const userRef = db.collection("users").doc(user.uid);
             userRef.onSnapshot((docSnapshot) => {
+                console.log("3. Receptor: onSnapshot se ejecutó. Verificando datos...");
                 if (docSnapshot.exists) {
                     const userData = docSnapshot.data();
                     if (userData.sessionValidUntil) {
