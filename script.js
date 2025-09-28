@@ -36,6 +36,19 @@ document.addEventListener('DOMContentLoaded', () => {
             auth.signInWithCustomToken(token)
                 .then(() => {
                     console.log("Autenticación con token de acceso exitosa.");
+                    // ▼▼▼ INICIA CÓDIGO AÑADIDO ▼▼▼
+                    const user = auth.currentUser;
+                    if (user) {
+                        const userRef = db.collection("users").doc(user.uid);
+                        userRef.update({
+                            sessionValidUntil: firebase.firestore.FieldValue.delete()
+                        }).then(() => {
+                            console.log("Marca de cierre de sesión anterior eliminada.");
+                        }).catch((error) => {
+                            console.error("Error al limpiar la marca de sesión:", error);
+                        });
+                    }
+                    // ▲▲▲ FIN CÓDIGO AÑADIDO ▲▲▲
                     // Limpiamos la URL para que el token no quede visible
                     const newUrl = window.location.protocol + "//" + window.location.host + window.location.pathname;
                     window.history.replaceState({ path: newUrl }, '', newUrl);
@@ -1513,23 +1526,23 @@ document.addEventListener('DOMContentLoaded', () => {
     auth.onAuthStateChanged(user => {
         // Una vez que Firebase responde, actualizamos la variable global
         currentUser = user;
-       
+
 
         if (user) {
             // --- INICIO: ESCUCHA DE CIERRE DE SESIÓN GLOBAL (CORREGIDO) ---
-        const userRef = db.collection("users").doc(user.uid);
-        userRef.onSnapshot((docSnapshot) => {
-            if (docSnapshot.exists) {
-                const userData = docSnapshot.data();
-                if (userData.sessionValidUntil) {
-                    console.log("Señal de cierre de sesión global recibida. Cerrando sesión...");
-                    auth.signOut();
+            const userRef = db.collection("users").doc(user.uid);
+            userRef.onSnapshot((docSnapshot) => {
+                if (docSnapshot.exists) {
+                    const userData = docSnapshot.data();
+                    if (userData.sessionValidUntil) {
+                        console.log("Señal de cierre de sesión global recibida. Cerrando sesión...");
+                        auth.signOut();
+                    }
                 }
-            }
-        }, (error) => {
-            console.error("Error escuchando cambios de sesión:", error);
-        });
-        // --- FIN: ESCUCHA DE CIERRE DE SESIÓN GLOBAL ---
+            }, (error) => {
+                console.error("Error escuchando cambios de sesión:", error);
+            });
+            // --- FIN: ESCUCHA DE CIERRE DE SESIÓN GLOBAL ---
 
             // --- SI HAY USUARIO ---
             // El usuario está autenticado, todo funciona como antes.
