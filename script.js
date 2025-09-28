@@ -1513,24 +1513,23 @@ document.addEventListener('DOMContentLoaded', () => {
     auth.onAuthStateChanged(user => {
         // Una vez que Firebase responde, actualizamos la variable global
         currentUser = user;
-        // --- INICIO: ESCUCHA DE CIERRE DE SESIÓN GLOBAL ---
-        if (user) {
-            const userRef = db.collection("users").doc(user.uid);
-            userRef.onSnapshot((docSnapshot) => {
-                if (docSnapshot.exists) {
-                    const userData = docSnapshot.data();
-                    if (userData.sessionValidUntil) {
-                        console.log("Señal de cierre de sesión global recibida. Cerrando sesión...");
-                        auth.signOut();
-                    }
-                }
-            }, (error) => {
-                console.error("Error escuchando cambios de sesión:", error);
-            });
-        }
-        // --- FIN: ESCUCHA DE CIERRE DE SESIÓN GLOBAL ---
+       
 
         if (user) {
+            // --- INICIO: ESCUCHA DE CIERRE DE SESIÓN GLOBAL (CORREGIDO) ---
+        const userRef = db.collection("users").doc(user.uid);
+        userRef.onSnapshot((docSnapshot) => {
+            if (docSnapshot.exists) {
+                const userData = docSnapshot.data();
+                if (userData.sessionValidUntil) {
+                    console.log("Señal de cierre de sesión global recibida. Cerrando sesión...");
+                    auth.signOut();
+                }
+            }
+        }, (error) => {
+            console.error("Error escuchando cambios de sesión:", error);
+        });
+        // --- FIN: ESCUCHA DE CIERRE DE SESIÓN GLOBAL ---
 
             // --- SI HAY USUARIO ---
             // El usuario está autenticado, todo funciona como antes.
