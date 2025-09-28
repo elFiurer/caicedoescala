@@ -1530,14 +1530,19 @@ document.addEventListener('DOMContentLoaded', () => {
 
         if (user) {
             // --- INICIO: ESCUCHA DE CIERRE DE SESIÓN GLOBAL (CORREGIDO) ---
+            let isLoggingOut = false; // AGREGAR ESTA LÍNEA
+
             const userRef = db.collection("users").doc(user.uid);
             userRef.onSnapshot((docSnapshot) => {
                 console.log("3. Receptor: onSnapshot se ejecutó. Verificando datos...");
                 if (docSnapshot.exists) {
                     const userData = docSnapshot.data();
-                    if (userData.sessionValidUntil) {
+                    if (userData.sessionValidUntil && !isLoggingOut) {
                         console.log("Señal de cierre de sesión global recibida. Cerrando sesión...");
-                        auth.signOut();
+                        isLoggingOut = true;
+                        auth.signOut().then(() => {
+                            window.location.href = 'https://elprofecaicedo.com';
+                        });
                     }
                 }
             }, (error) => {
