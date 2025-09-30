@@ -175,6 +175,31 @@
     "archivos": {
       "especifico": "data/ascenso/secundaria/2018/ascenso_cyt2018.json"
     }
+  },
+  {
+    "id": 27,
+    "proceso": "Ascenso",
+    "anio": 2021,
+    "nivel": "inicial",
+    "especialidad": "inicial",
+    "modalidad": "EBR",
+    "preguntas": 60,
+    "tiempo": 180,
+    "archivos": {
+      "especifico": "data/ascenso/inicial/2021/ascenso_inicial2021.json"
+    }
+  },
+  {
+    "id": 28,
+    "proceso": "Ascenso",
+    "anio": 2022,
+    "nivel": "Secundaria",
+    "especialidad": "Comunicación ",
+    "modalidad": "EBR",
+    "preguntas": 60,
+    "tiempo": 180,
+    "archivos": {
+      "especifico": "data/ascenso/secundaria/2022/ascenso_comunicacion2022.json"
+    }
   }
-  
 ]

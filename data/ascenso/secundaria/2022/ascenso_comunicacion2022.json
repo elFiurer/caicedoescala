@@ -1,0 +1,855 @@
+{
+  "completo": [
+    {
+      "idGrupo": "asc_secundaria_2023_p01",
+      "contexto": "En un taller de lectura y escritura literaria, la docente propone a sus estudiantes de quinto grado seleccionar textos literarios de autores peruanos del siglo XX.\nEste es uno de los textos seleccionado por una de las estudiantes:\n\nCómo reconocer a un dinosaurio\n\nEn estos días, no tendría nada de raro toparse con un melancólico alosaurio o un laplatasaurio deambulando, sin orden ni concierto, por las calles de un barrio (el suyo, por ejemplo) al final de la tarde.\nLos dinosaurios, aunque extinguidos hace sesenta y tres millones de años, nunca han dejado de existir para la humanidad. Maravillas que poblaron el planeta durante los períodos triásico, jurásico y cretáceo (unos 150 millones de años) y cuyas grandes masas aún se bambolean en todas las memorias.\nEn primer lugar, de las 300 y pico especies conocidas (o más sospechadas) apenas unas cuantas tenían esa facha gentil y aparatosa (como el dinosaurio verde de la etiqueta de un lubricante) del brontosaurio o el aspecto feroz del colmilludo tiranosaurio. Los había escamados, arrugados y lisos, blandos, acorazados, recubiertos de plumas, espinosos, variopintos y de alegres colores. Vivían en el aire, las aguas y la tierra. Saltaban, nadaban, volaban, corrían, reptaban y algunos eran bípedos (como usted). Sobra decir que los hábitos gastronómicos (carnívoros, herbívoros, omnívoros) de los dinosaurios complican el asunto.\nPor lo demás, no habitaron el mundo, juntos y revueltos, a una misma vez: entre el fin de una especie y el comienzo de otra pasaban, a menudo, varios millones de años. Como usted puede notar, no es nada fácil su identificación. Y menos todavía cuando la gente cree que todas esas verdes criaturas eran descomunales como una catedral. Si bien los mayores (braquisaurios, ultrasaurios) solían medir, según parece, casi 40 metros y su peso era de 30 toneladas, los más pequeños (musaurios, nanosaurios) medían tres pulgadas del hocico a la punta de la cola.\nDe modo que si usted, incauto peatón, vigila el ancho cielo dispuesto a detectar algún iguanodón o el cuello interminable de los mamenquisaurios, tenga presente que, en menos de lo que canta un gallo, puede ser devorado por una infame jauría de carnívoros hambrientos, no más grandes que una gran cucaracha.\n\nAdaptado de Cisneros, Antonio. (1997). El libro del buen salvaje.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "La docente y los estudiantes están dialogando sobre los dinosaurios descritos por el autor. De este diálogo, se han extraído los comentarios de tres estudiantes. ¿Cuál de los siguientes comentarios evidencia una reflexión sobre el contenido del texto?",
+          "opciones": [
+            "\"Al final, hay un contraste sobre los dinosaurios: son increíbles, pero a la vez peligrosos. Me parece bien que el autor, después de todo, quiera que tengamos cuidado\".",
+            "\"Por lo que menciona el autor, entiendo que los dinosaurios eran muy diferentes unos de otros. Por ejemplo, unos eran capaces de reptar y otros podían volar\".",
+            "\"El autor hace referencia a que los dinosaurios podían ser muy pequeños, como de tres pulgadas. Esto es igual a unos siete centímetros, más o menos\"."
+          ],
+          "respuesta": "\"Al final, hay un contraste sobre los dinosaurios: son increíbles, pero a la vez peligrosos. Me parece bien que el autor, después de todo, quiera que tengamos cuidado\".",
+          "respuestaCorta": "Este comentario reflexiona sobre la intención del autor y el efecto del final del texto, yendo más allá de la simple identificación de información explícita.",
+          "solucionario": "La reflexión sobre el contenido implica interpretar y evaluar las ideas del texto, así como la intención del autor. La opción 'a' cumple con esto al analizar el contraste final y la advertencia implícita del autor. Las opciones 'b' y 'c' se limitan a parafrasear o localizar información explícita del texto (la diversidad de los dinosaurios y su tamaño), lo cual corresponde a un nivel de comprensión literal, no reflexivo.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Durante el intercambio de ideas sobre el texto, la docente pide a los estudiantes que realicen comentarios sobre los aspectos que llamaron su atención. Tres estudiantes deciden intervenir. ¿Qué estudiante identifica un recurso literario que contribuye a la construcción de interpretaciones del sentido global del texto?",
+          "opciones": [
+            "Antonio dice: \"El autor compara el tamaño de los ultrasaurios con el de las catedrales. Pero no creo que actualmente existan animales como esos dinosaurios\".",
+            "Bartolomé dice: \"El autor utiliza 'usted' en varias partes del texto. Me gusta, porque siento que me está hablando a mí y, así, presto más atención a lo que dice\".",
+            "Claudia dice: \"El autor usa muchas palabras para caracterizar a los dinosaurios. Con eso, queda claro que no es fácil reconocer si uno se topa con un dinosaurio o no\"."
+          ],
+          "respuesta": "Claudia dice: \"El autor usa muchas palabras para caracterizar a los dinosaurios. Con eso, queda claro que no es fácil reconocer si uno se topa con un dinosaurio o no\".",
+          "respuestaCorta": "Claudia identifica que el uso de una amplia adjetivación (recurso léxico) es clave para construir la idea principal del texto: la dificultad de identificar a un dinosaurio.",
+          "solucionario": "El comentario de Claudia conecta un recurso literario (la enumeración y adjetivación variada para describir a los dinosaurios) con el sentido global del texto (la dificultad de su identificación). El comentario de Antonio identifica una comparación pero luego se desvía a una opinión personal. El de Bartolomé identifica el uso de 'usted' pero se enfoca en el efecto personal (captar su atención) y no en cómo construye el sentido irónico o cercano del texto en su totalidad.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "La docente tiene como propósito que los estudiantes reflexionen sobre los aspectos formales del texto. ¿Cuál de las siguientes acciones pedagógicas es adecuada para ayudar a los estudiantes en el logro de dicho propósito?",
+          "opciones": [
+            "Pedir que establezcan diferencias y semejanzas en la función que cumplen los paréntesis empleados a lo largo del texto.",
+            "Pedir que mencionen qué animales que habitan en su localidad tienen rasgos comunes con los dinosaurios mencionados en el relato.",
+            "Pedir que indiquen si, por las descripciones presentadas, creen que el autor es un experto realizando investigaciones sobre los dinosaurios."
+          ],
+          "respuesta": "Pedir que establezcan diferencias y semejanzas en la función que cumplen los paréntesis empleados a lo largo del texto.",
+          "respuestaCorta": "Analizar el uso de los paréntesis es una reflexión directa sobre un aspecto formal (un signo de puntuación) y su función estilística y gramatical en el texto.",
+          "solucionario": "Los aspectos formales de un texto se refieren a su estructura, la elección del lenguaje, la puntuación, los recursos estilísticos, entre otros. La opción 'a' se enfoca directamente en un elemento de puntuación (los paréntesis) y su función. Las opciones 'b' y 'c' se centran en el contenido del texto, ya sea relacionándolo con la realidad del estudiante o evaluando la figura del autor, pero no en los aspectos formales del escrito.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Luego de haber leído el texto varias veces, la docente pregunta a los estudiantes sobre la función que cumple el título \"Cómo reconocer a un dinosaurio\" en el relato. Tres estudiantes ofrecen sus comentarios. ¿Qué estudiante identifica la función principal de dicho título?",
+          "opciones": [
+            "Ada dice: \"El título ayuda a anticipar que conoceremos los pasos que debemos seguir para reconocer a un dinosaurio si lo vemos\".",
+            "Braulio dice: \"Yo creo que el título hace que el texto sea irónico, porque, si bien se describe a los dinosaurios, estos ya no existen\".",
+            "Camila dice: \"Pienso que el título sirve para que los lectores sepan que se van a dar los nombres de los dinosaurios conocidos hasta hoy\"."
+          ],
+          "respuesta": "Braulio dice: \"Yo creo que el título hace que el texto sea irónico, porque, si bien se describe a los dinosaurios, estos ya no existen\".",
+          "respuestaCorta": "Braulio identifica la ironía del título, ya que el texto demuestra repetidamente lo difícil que es identificar a los dinosaurios, contradiciendo la promesa de una guía simple.",
+          "solucionario": "La función principal del título es irónica. Promete una guía para reconocer dinosaurios, pero todo el texto se dedica a explicar por qué es una tarea casi imposible debido a su diversidad, la vasta escala de tiempo en que vivieron y la existencia de especies muy pequeñas. Braulio capta esta ironía. Ada lo interpreta de manera literal (opción a), y Camila se enfoca en un detalle secundario (los nombres) y no en la idea central (la dificultad de identificación).",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p02",
+      "contexto": "Una estudiante de primer grado le comenta a la docente que leyó una noticia sobre las corridas de toros. A partir de esto, varios estudiantes empezaron a opinar acerca de si están de acuerdo o no con este tipo de eventos. En este contexto, la docente les propuso escribir textos en los que expresen estas opiniones a fin de publicarlas en la revista de la IE.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Como parte de la preparación para la actividad de escritura, la docente les propone a los estudiantes recoger información sobre las opiniones de sus compañeros de otros grados y de los docentes de la IE acerca de las corridas de toros. ¿Cuál de las siguientes actividades es adecuada para recoger dichas opiniones?",
+          "opciones": [
+            "Llevar a cabo un debate.",
+            "Realizar una serie de entrevistas.",
+            "Organizar varias conferencias magistrales."
+          ],
+          "respuesta": "Realizar una serie de entrevistas.",
+          "respuestaCorta": "Las entrevistas son la herramienta más directa y efectiva para recoger sistemáticamente las opiniones individuales de diversas personas.",
+          "solucionario": "El objetivo es 'recoger información sobre las opiniones' de diferentes personas. La entrevista (opción b) es el instrumento de investigación ideal para este fin. Un debate (opción a) sirve para confrontar posturas, no para recogerlas sistemáticamente. Una conferencia magistral (opción c) es para exponer información de un experto a una audiencia, no para recabar opiniones de la comunidad.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Uno de los estudiantes va a empezar a escribir su texto sobre las corridas de toros. En este contexto, le solicita ayuda a la docente para saber cómo llevar a cabo la escritura de su texto. La docente le entrega al estudiante una lista con varias recomendaciones. A continuación, se muestran tres recomendaciones incluidas en dicha lista:\n1. Selecciona fuentes de información confiables que ayuden a enriquecer las ideas de tu texto.\n2. Elige un registro de lenguaje apropiado considerando los lectores de tu texto.\n3. Desarrolla las ideas de tu texto tomando en cuenta el plan de escritura.\n¿Cuál de estas recomendaciones NO corresponde al proceso de planificación?",
+          "opciones": [
+            "La 1.",
+            "La 2.",
+            "La 3."
+          ],
+          "respuesta": "La 3.",
+          "respuestaCorta": "Desarrollar las ideas según un plan ya elaborado corresponde al proceso de textualización (escritura), no al de planificación.",
+          "solucionario": "El proceso de escritura tiene tres grandes etapas: planificación, textualización y revisión. La planificación implica generar ideas, seleccionar fuentes (recomendación 1), definir el propósito, el destinatario y el registro de lenguaje (recomendación 2). La textualización es el acto de escribir o 'desarrollar las ideas' siguiendo el plan (recomendación 3). Por lo tanto, la recomendación 3 no pertenece a la etapa de planificación.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Daniela ha culminado la segunda versión de su escrito y se lo presenta a la docente para que lo revise. Esta es una parte del escrito de Daniela:\n\nAunque no esté de acuerdo con hacer las corridas de toros, sé que muchas personas van a estos espectáculos. El público se emociona en las plazas en donde se hacen estas corridas. Se hará difícil concientizar en algo a las personas en el corto plazo. Pero pienso que algo pueden hacer las autoridades para cambiar.\n\nLa docente ha notado que Daniela presenta dificultades para utilizar un léxico variado (en las palabras subrayadas, por ejemplo). ¿Cuál de las siguientes recomendaciones es más adecuada para orientar a Daniela en la mejora de su escrito?",
+          "opciones": [
+            "\"En la primera oración, debes reemplazar la palabra 'hacer' con 'llevar a cabo'; en la segunda oración, utiliza 'celebran' en lugar de 'hacen'\".",
+            "\"¿Cuántas veces has utilizado 'algo' y 'hacer'? Deberías dejar de emplear términos tan generales porque hacen que tu escrito se vuelva poco preciso\".",
+            "\"En la tercera oración, ¿qué quiere decir 'se hará'? ¿Podemos usar otra palabra en su lugar? Cuando usas la palabra 'algo' en dos oraciones distintas, ¿se refiere a lo mismo?\"."
+          ],
+          "respuesta": "\"En la tercera oración, ¿qué quiere decir 'se hará'? ¿Podemos usar otra palabra en su lugar? Cuando usas la palabra 'algo' en dos oraciones distintas, ¿se refiere a lo mismo?\".",
+          "respuestaCorta": "Esta opción utiliza preguntas reflexivas para que la estudiante se dé cuenta por sí misma de la imprecisión de su léxico, fomentando la autorregulación.",
+          "solucionario": "La retroalimentación más efectiva es la que promueve la reflexión y autonomía del estudiante. La opción 'c' lo logra mediante preguntas que guían a Daniela a analizar el significado de las palabras que usó ('hacer', 'algo') y a considerar por qué son imprecisas en su contexto. La opción 'a' es prescriptiva y le da la solución directamente. La opción 'b' identifica el problema pero de forma directiva ('deberías dejar de emplear'), siendo menos pedagógica que la 'c'.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Carlos ha culminado la primera versión de su texto sobre las corridas de toros. Este es el escrito que ha elaborado:\n\nA mí no me gustan las corridas de toros. He visto en televisión cómo son.\nEstos eventos. En ellos, hay mucho maltrato hacia el toro y me impacta.\nQue haya tanta gente aplaudiendo. Quisiera que dejen de practicar este tipo de actividades.\n\n¿Cuál de los siguientes problemas de escritura presenta esta primera versión del texto de Carlos?",
+          "opciones": [
+            "Las ideas carecen de conectores de causa que organicen el texto.",
+            "El uso del punto y aparte afecta la comprensión del texto.",
+            "Algunas ideas del texto se contradicen entre sí."
+          ],
+          "respuesta": "El uso del punto y aparte afecta la comprensión del texto.",
+          "respuestaCorta": "El texto utiliza incorrectamente el punto y aparte, separando ideas que deberían estar conectadas en un mismo párrafo, lo que fragmenta el discurso y dificulta su lectura fluida.",
+          "solucionario": "El principal problema del texto es la segmentación inadecuada de las oraciones. Por ejemplo, 'He visto en televisión cómo son. Estos eventos.' son ideas que deberían estar unidas. Igualmente, 'hay mucho maltrato hacia el toro y me impacta. Que haya tanta gente aplaudiendo.' son ideas que se complementan y no deberían estar separadas por un punto y aparte. Este uso incorrecto de la puntuación (opción b) afecta la cohesión y la comprensión. No hay una carencia específica de conectores de causa (opción a) ni contradicciones (opción c).",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p03",
+      "contexto": "Los estudiantes de primer grado, orientados por la docente, van a elaborar anécdotas orales sobre los paseos y viajes que han realizado con sus familias o con la IE. Estas anécdotas serán presentadas en el aula.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "La docente nota que los estudiantes tienen algunos problemas en la generación de ideas para planificar sus anécdotas orales. ¿Cuál de las siguientes acciones pedagógicas es más adecuada para orientarlos en la generación de ideas?",
+          "opciones": [
+            "Contar una anécdota a los estudiantes, haciendo énfasis en el episodio central de la historia. Luego, pedir que piensen en una experiencia propia e interesante, y que anoten en sus cuadernos en qué situación se encontraban, qué acciones realizaron en dicha situación y quiénes los acompañaron en la experiencia.",
+            "Proponer a los estudiantes ver juntos un video que presenta una anécdota narrada por un estudiante de otro grado. Luego, realizar preguntas para identificar cuáles fueron los momentos más relevantes de la historia, cuál fue el tema principal y cuál fue el propósito comunicativo del narrador al contar esa historia.",
+            "Indicar a los estudiantes que una anécdota es un tipo de narración breve que presenta una historia que, por lo general, es divertida. Luego, indicar que, para escribir dicha historia, se debe utilizar un narrador en primera persona gramatical, conectores de secuencia y un lenguaje sencillo."
+          ],
+          "respuesta": "Contar una anécdota a los estudiantes, haciendo énfasis en el episodio central de la historia. Luego, pedir que piensen en una experiencia propia e interesante, y que anoten en sus cuadernos en qué situación se encontraban, qué acciones realizaron en dicha situación y quiénes los acompañaron en la experiencia.",
+          "respuestaCorta": "Esta acción combina un modelado (contar una anécdota) con preguntas guía específicas que ayudan a los estudiantes a estructurar sus propias ideas y recuerdos.",
+          "solucionario": "Para la generación de ideas, la acción más adecuada es la que provee un modelo y luego andamia el proceso de los estudiantes. La opción 'a' hace precisamente eso: modela el tipo de texto y luego les da una estructura de preguntas (situación, acciones, personajes) para que puedan evocar y organizar sus propias experiencias. La opción 'b' se centra más en el análisis de un texto ajeno, y la 'c' en la definición teórica del tipo textual, siendo menos efectivas para la generación de ideas propias.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Un estudiante ha terminado de elaborar su anécdota. Él le pide a la docente que escuche el texto oral para que lo ayude con la revisión. Esta es la transcripción de la anécdota del estudiante:\n\n\"Nuestro paseo para visitar el mirador de Yanahuara fue muy estresante. Este... nos perdimos y no la pasamos bien. Por un lado, todos estábamos muy ansiosos por ir a conocer el mirador. Este... llegamos un poco tarde y tuvimos que esperar. Estuvimos como una hora viendo el paisaje desde el mirador. Este... de un momento a otro, comenzó a llover muy fuerte. Este... no estábamos usando la ropa adecuada y nos empapamos. Este... al regreso, nos dimos cuenta de que el conductor no conocía bien el camino y nos perdimos. Todo lo que ocurrió en el paseo fue muy divertido. Este... si pudiera retroceder el tiempo, volvería a visitar el mirador. Finalmente, la vista de la ciudad desde allí es impresionante. Nos quedan las fotos de recuerdo. Felizmente, la profesora llevó una cámara\".\n\nEn la presentación oral de la anécdota, la docente ha notado algunos aspectos que el estudiante puede mejorar. Por ello, busca orientarlo para que identifique el problema principal de su texto. ¿Cuál es este problema?",
+          "opciones": [
+            "La presencia de información contradictoria en el texto oral.",
+            "La utilización errónea de conectores en el texto oral.",
+            "El excesivo empleo de muletillas en el texto oral."
+          ],
+          "respuesta": "La presencia de información contradictoria en el texto oral.",
+          "respuestaCorta": "El texto presenta una contradicción fundamental al calificar la experiencia como \"muy estresante\" y \"no la pasamos bien\", para luego afirmar que fue \"muy divertido\".",
+          "solucionario": "El problema principal que afecta la coherencia global del texto es la contradicción. El narrador describe una serie de eventos negativos (llegar tarde, lluvia, perderse) y califica el paseo como \"estresante\", pero luego lo describe como \"muy divertido\" y expresa el deseo de repetirlo. Esta incongruencia es el fallo más importante del texto. Si bien hay un uso excesivo de muletillas ('Este...'), el problema de coherencia es más grave.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Una estudiante está practicando su anécdota. Ella le pide a la docente que la escuche y le haga comentarios para mejorar. Esta es la transcripción de la anécdota de la estudiante:\n\n\"Voy a contarles la anécdota de cómo un perrito se convirtió en la mascota de mi familia. Eso pasó un domingo que salimos a pasear al campo. Primero, todos pasamos la mañana jugando pelota. Nos dimos cuenta de que un perrito merodeaba por el lugar. Luego, mi hermano y yo nos acercamos al río para refrescarnos. Nos asustamos un poco al ver cerca al perro. Y así fue la historia sobre cómo llegamos a tener un perrito viviendo con nuestra familia\".\n\nLa docente escucha la presentación de la estudiante y nota un problema de coherencia en su texto oral. ¿Cuál es este problema?",
+          "opciones": [
+            "La ausencia de información relevante para comprender la historia.",
+            "La inclusión de ideas que se alejan del tema central de la historia.",
+            "La presentación desorganizada de los hechos de la historia."
+          ],
+          "respuesta": "La ausencia de información relevante para comprender la historia.",
+          "respuestaCorta": "La anécdota promete contar cómo el perro se convirtió en su mascota, pero omite los hechos clave que explican este suceso, dejando la historia incompleta.",
+          "solucionario": "El texto presenta un problema de coherencia por omisión. Se establece un propósito claro al inicio (\"cómo un perrito se convirtió en la mascota de mi familia\"), pero la narración de los hechos no llega a cumplirlo. Falta la información esencial sobre cómo interactuaron con el perro, por qué decidieron adoptarlo y cómo lo llevaron a casa. La historia termina abruptamente sin resolver el nudo argumental prometido.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Otro estudiante está practicando su anécdota frente a la docente. Ella nota que el estudiante utiliza una misma entonación de voz a lo largo de la narración de su texto oral. Por ello, la docente busca orientarlo para que, por sí mismo, mejore este aspecto en su presentación. ¿Cuál de las siguientes acciones pedagógicas es más adecuada para que logre su propósito?",
+          "opciones": [
+            "Proyectar varios videos de presentaciones de oradores expertos. Luego, pedir al estudiante que tome nota de la manera en que los oradores hacen uso de la voz. Después, sugerir que, en una nueva práctica, replique, en su texto oral, el uso de la entonación de voz de dichos oradores expertos.",
+            "Indicar que puede realizar variaciones en la entonación de su voz durante la presentación de su texto oral. Luego, mencionar que esas variaciones sirven para causar sorpresa al contar algunos episodios de su narración. Después, mostrar el modo en que puede incorporar dichas variaciones en su anécdota.",
+            "Grabar el texto oral del estudiante en audio. Luego, reproducir la grabación y pedir que preste atención a la entonación de voz que utilizó en su presentación. Después, solicitar que indique en qué partes de su texto oral sería apropiado añadir matices en la entonación de su voz para generar interés en la audiencia."
+          ],
+          "respuesta": "Grabar el texto oral del estudiante en audio. Luego, reproducir la grabación y pedir que preste atención a la entonación de voz que utilizó en su presentación. Después, solicitar que indique en qué partes de su texto oral sería apropiado añadir matices en la entonación de su voz para generar interés en la audiencia.",
+          "respuestaCorta": "Esta acción promueve la metacognición, ya que el estudiante se escucha a sí mismo, identifica el problema y propone sus propias soluciones, fomentando su autonomía.",
+          "solucionario": "La acción pedagógica más adecuada es aquella que promueve la autorregulación y el aprendizaje autónomo. La opción 'c' es un claro ejemplo de retroalimentación reflexiva: al grabarse y escucharse, el estudiante toma conciencia de su propia ejecución. Luego, la docente lo guía con preguntas para que él mismo descubra las oportunidades de mejora. Las opciones 'a' (imitación) y 'b' (instrucción directa) son menos efectivas para que el estudiante internalice el aprendizaje por sí mismo.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+   
+    {
+      "idGrupo": "asc_secundaria_2023_p03",
+      "contexto": "Los estudiantes de primer grado, orientados por la docente, van a elaborar anécdotas orales sobre los paseos y viajes que han realizado con sus familias o con la IE. Estas anécdotas serán presentadas en el aula.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Una estudiante está practicando la presentación de su anécdota frente a sus compañeros. Dichos compañeros le ofrecen algunos comentarios. ¿Cuál de los siguientes comentarios destaca el uso de recursos paraverbales en el texto oral de la estudiante?",
+          "opciones": [
+            "\"Al mover tus manos, enfatizaste las partes más graciosas de tu anécdota. Y desplazarte por el salón al hablar ayudó a que todos pudieran escucharte\".",
+            "\"El volumen de tu voz estuvo bien, ni muy alto ni muy bajo. Además, al hacer énfasis en algunas ideas, se sintió que buscabas la atención del público\".",
+            "\"La foto que usaste para mostrarnos el lugar al que fuiste con tus primos fue muy buena idea. Así, uno puede imaginarse el sitio a donde fueron\"."
+          ],
+          "respuesta": "\"El volumen de tu voz estuvo bien, ni muy alto ni muy bajo. Además, al hacer énfasis en algunas ideas, se sintió que buscabas la atención del público\".",
+          "respuestaCorta": "Este comentario se centra en el volumen y el énfasis de la voz, que son elementos paraverbales que modulan y dan sentido al discurso oral.",
+          "solucionario": "Los recursos paraverbales son aquellos que acompañan a la comunicación verbal y se relacionan con la voz, como el volumen, el tono, el ritmo y el énfasis. La opción 'b' describe claramente el uso del volumen y el énfasis. La opción 'a' se refiere a recursos no verbales kinésicos (movimiento de manos, desplazamiento). La opción 'c' alude a un recurso de apoyo visual (una fotografía), que no es un elemento paraverbal.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p04",
+      "contexto": "En el taller de lectura y escritura literaria, los estudiantes de cuarto grado leerán cuentos policiales. En este contexto, antes de empezar la lectura de \"Los crímenes de la calle Morgue\" de Edgar Allan Poe, el docente pide a los estudiantes que lean el epígrafe presentado al inicio del cuento.\n\nLOS CRÍMENES DE LA CALLE MORGUE\n\n¿Qué canción entonaban las sirenas? ¿Qué nombre adoptó Aquiles al ocultarse entre las mujeres?\n\n- Preguntas son estas de difícil contestación, es muy cierto; pero no superiores a toda una conjetura.\n\nSir Thomas Browne",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "El docente busca utilizar el epígrafe como recurso para orientar a los estudiantes en la interpretación del texto. ¿Cuál de las siguientes acciones pedagógicas es más adecuada para ello?",
+          "opciones": [
+            "Explicarles que este epígrafe sostiene que diversas situaciones, incluso aquellas que son consideradas misteriosas o sobrenaturales, pueden ser explicadas de una manera convincente mediante la razón. Luego, pedirles que identifiquen cómo se demuestra esta idea en el texto.",
+            "Pedirles que mencionen qué ideas les surgen al leer el epígrafe y qué función podría tener en el cuento. Luego, al finalizar la lectura, solicitar que expliquen si las anticipaciones que elaboraron sobre el epígrafe se han confirmado o han cambiado luego de realizar la lectura del cuento.",
+            "Indicarles que los epígrafes son textos que se emplean para presentar o anticipar una idea que los escritores buscan comunicar en sus textos. Luego, comentarles que, en este caso, el autor emplea este epígrafe como una ayuda que permite comprender el conflicto principal de este relato."
+          ],
+          "respuesta": "Pedirles que mencionen qué ideas les surgen al leer el epígrafe y qué función podría tener en el cuento. Luego, al finalizar la lectura, solicitar que expliquen si las anticipaciones que elaboraron sobre el epígrafe se han confirmado o han cambiado luego de realizar la lectura del cuento.",
+          "respuestaCorta": "Esta acción promueve que los estudiantes formulen sus propias hipótesis sobre el texto (anticipación) y luego las verifiquen, un proceso clave para la construcción de la interpretación.",
+          "solucionario": "La estrategia pedagógica más adecuada es aquella que fomenta un rol activo del lector. La opción 'b' promueve el proceso de anticipación y verificación, donde los estudiantes primero elaboran hipótesis a partir del epígrafe y luego las contrastan con la lectura del cuento completo. Las opciones 'a' y 'c' son más expositivas, ya que el docente brinda la interpretación o la función del epígrafe, limitando el proceso de descubrimiento por parte de los estudiantes.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p05",
+      "contexto": "Los estudiantes de quinto grado están leyendo diversos textos sobre las lenguas originarias del Perú. A continuación, se presenta uno de estos textos que trata acerca de la lengua muchik:\n\nEl muchik (mochica), una de las lenguas de mayor importancia en la época colonial, se habló en el norte del Perú, desde Motupe hasta el valle de Jequetepeque. De esta lengua, provienen los nombres de lugares como Ferreñafe, Monsefú, Mórrope y Reque, así como los apellidos Chapilliquén, Llontop, Macolopú, Suyón, entre otros.\nEn las primeras décadas del siglo XX, cuando el muchik estuvo a punto de extinguirse, varios investigadores alemanes se dirigieron a Lambayeque (Monsefú y Etén), a fin de obtener información sobre la lengua. Lamentablemente, durante su exploración, dichos investigadores se enteraron de que la última persona que hablaba fluidamente el muchik había fallecido a inicios de ese siglo.\nSin embargo, hacia finales de 1999, en San Pedro de Lloc, Américo Herrera, un profesor del colegio Andrés Rázuri, le contó al investigador Stefan Ziemendorff, quien se encontraba en Lambayeque para la implementación de un programa de agua potable y alcantarillado, que tenía unas grabaciones en audio del muchik. Herrera le reveló que la voz de las grabaciones, que él mismo realizó en 1974, le pertenecía a Simón Quesquén, profesor de música y colega del colegio Andrés Rázuri. Si bien Quesquén no era un hablante fluido, había aprendido algunas palabras y frases directamente de Manuela Nuntón, su abuela.\nEste material fue analizado por la lingüista alemana Michaela Ziemendorff, quien confirmó el gran aporte científico de las grabaciones, pues contribuyeron sustancialmente al estudio lingüístico del muchik; sobre todo, en los aspectos relacionados con su entonación y pronunciación. Como resultado de un dedicado trabajo de recuperación dirigido por Ziemendorff, dichas grabaciones, publicadas por el Instituto Ibero-Americano de Berlín, están disponibles en internet desde 2019, junto con su respectivo análisis lingüístico.\nSumado a ello, se sabe que diversas autoridades locales hacen esfuerzos para difundir la historia de esa lengua a los ciudadanos. Además, en varias escuelas de La Libertad, Lambayeque, Piura e, incluso, Cajamarca, los estudiantes reciben clases para conocer y aprender el muchik.\nSin duda, todo esto constituye un valioso aporte para el proceso de revitalización de la lengua, que forma parte importante de nuestra gran diversidad lingüística.\n\nAdaptado de varios autores. (2019). \"Recordings of the Extinct Mochica Language\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "El docente tiene como propósito que los estudiantes obtengan información explícita del texto. ¿Cuál de las siguientes acciones pedagógicas se centra en el logro de dicho propósito?",
+          "opciones": [
+            "Pedir que, en sus propios términos, expresen qué información llamó más su atención acerca de la lengua muchik.",
+            "Pedir que elaboren una línea de tiempo con aquellos hechos que dieron lugar al intento de revitalización de la lengua muchik.",
+            "Pedir que propongan una lista con ideas que ayuden a explicar por qué el texto es útil para revalorizar lenguas como el muchik."
+          ],
+          "respuesta": "Pedir que elaboren una línea de tiempo con aquellos hechos que dieron lugar al intento de revitalización de la lengua muchik.",
+          "respuestaCorta": "Elaborar una línea de tiempo requiere que los estudiantes localicen, extraigan y ordenen datos específicos y hechos concretos que están presentes en el texto.",
+          "solucionario": "La obtención de información explícita se refiere a la capacidad de identificar y extraer datos tal como aparecen en el texto. La elaboración de una línea de tiempo (opción b) es una tarea que exige localizar fechas, nombres y sucesos específicos para organizarlos cronológicamente. Las otras opciones implican procesos de mayor complejidad: la opción 'a' involucra una valoración personal y la 'c' una reflexión sobre la utilidad del texto.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "El docente tiene como propósito que los estudiantes reflexionen sobre el contenido del texto. ¿Cuál de las siguientes acciones pedagógicas es adecuada para ello?",
+          "opciones": [
+            "Indicar que, en el texto, se menciona que varias personas directa e indirectamente ayudaron para la recuperación del muchik. Luego, preguntar cuál de las personas mencionadas trabajó en la revitalización de esa lengua.",
+            "Comentar que los esfuerzos por revitalizar una lengua deben estar acompañados de compromisos políticos y ciudadanos. Luego, solicitar que señalen en qué párrafo del texto se hace referencia a estos compromisos.",
+            "Pedir que indiquen si consideran que la información ofrecida en el texto podría estar incluida, por ejemplo, en una enciclopedia o en una revista. Luego, solicitar que expliquen el porqué de sus respuestas."
+          ],
+          "respuesta": "Pedir que indiquen si consideran que la información ofrecida en el texto podría estar incluida, por ejemplo, en una enciclopedia o en una revista. Luego, solicitar que expliquen el porqué de sus respuestas.",
+          "respuestaCorta": "Esta acción invita a los estudiantes a evaluar el formato y el propósito del texto, reflexionando sobre sus características y su adecuación a otros contextos de publicación.",
+          "solucionario": "Reflexionar sobre el contenido implica que el estudiante tome distancia del texto para evaluarlo, opinar sobre él o valorar su forma y propósito. La opción 'c' promueve esta reflexión al pedir a los estudiantes que analicen el tipo de texto y justifiquen su adecuación a diferentes géneros discursivos (enciclopedia, revista). Las opciones 'a' y 'b' se centran en la localización de información dentro del texto, lo cual es una habilidad de menor nivel cognitivo.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Para contribuir a la comprensión de los estudiantes, el docente busca orientarlos en la elaboración de conclusiones sobre el sentido global del texto. ¿Cuál de las siguientes acciones pedagógicas es adecuada para ello?",
+          "opciones": [
+            "Volver a leer con los estudiantes el último párrafo del texto y preguntar si consideran que la enseñanza del muchik es un aporte para su proceso de revitalización. Luego, mencionar qué otras lenguas se encuentran atravesando dicho proceso en el Perú.",
+            "Pedir a los estudiantes que subrayen la información que dé cuenta de los sucesos más relevantes sobre el muchik, que presenta el texto. Después, solicitar que, en sus propias palabras, elaboren nuevas ideas a partir de los sucesos identificados.",
+            "Solicitar a los estudiantes que, en el texto, identifiquen aquellas palabras que provienen de la lengua muchik. Sobre esta base, pedir que mencionen qué aspectos lingüísticos consideran que tienen en común aquellas palabras."
+          ],
+          "respuesta": "Pedir a los estudiantes que subrayen la información que dé cuenta de los sucesos más relevantes sobre el muchik, que presenta el texto. Después, solicitar que, en sus propias palabras, elaboren nuevas ideas a partir de los sucesos identificados.",
+          "respuestaCorta": "Esta secuencia de acciones guía a los estudiantes en el proceso de sintetizar la información principal para luego integrarla y formular una idea nueva, que es la esencia de una conclusión.",
+          "solucionario": "Elaborar una conclusión sobre el sentido global implica integrar las ideas más importantes del texto y sintetizarlas en una nueva formulación. La opción 'b' guía este proceso de manera efectiva: primero, los estudiantes identifican la información clave (subrayar sucesos relevantes) y, segundo, la integran para generar nuevas ideas (conclusiones). La opción 'a' se limita al último párrafo y la 'c' se enfoca en detalles léxicos, no en el sentido global.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "En otro momento de la actividad de lectura, los estudiantes, organizados en equipos, dialogan sobre la información ofrecida en el texto. Del diálogo de uno de los equipos, se han extraído los comentarios de tres estudiantes. ¿Cuál de los siguientes comentarios evidencia una reflexión sobre el contenido de dicho texto?",
+          "opciones": [
+            "\"Debe haber sido trabajoso estudiar el muchik escuchando a una única persona. Por eso, pienso que vale mucho lo que se cuenta en el texto\".",
+            "\"Entonces, la última persona que conocía y hablaba la lengua muchik no murió a inicios de 1900. ¿Puede haber sido un poco antes de 1974?\".",
+            "\"Es decir, antes de que se conociera que las grabaciones existían, no se sabía cómo era la pronunciación de las palabras de la lengua muchik\"."
+          ],
+          "respuesta": "\"Debe haber sido trabajoso estudiar el muchik escuchando a una única persona. Por eso, pienso que vale mucho lo que se cuenta en el texto\".",
+          "respuestaCorta": "Este comentario emite un juicio de valor sobre la información presentada (\"vale mucho lo que se cuenta\"), lo cual constituye una reflexión sobre el contenido.",
+          "solucionario": "La reflexión sobre el contenido implica evaluar o emitir un juicio de valor sobre la información leída. La opción 'a' hace esto al calificar el esfuerzo de los investigadores como \"trabajoso\" y al valorar la importancia de la historia contada. La opción 'b' es una pregunta que busca aclarar un dato (inferencia), mientras que la opción 'c' es una inferencia directa de la información del texto. Ninguna de las dos últimas constituye un juicio de valor.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "El docente tiene como propósito orientar a los estudiantes en la elaboración de un título apropiado para el texto. ¿Cuál de las siguientes acciones pedagógicas es adecuada para ello?",
+          "opciones": [
+            "Comentar que el título puede ser una frase u oración que permita englobar el tema central del texto. Luego, escribir en la pizarra algunas alternativas de título e indicar cuál se ajusta más a dicho tema.",
+            "Solicitar que identifiquen la idea principal del texto e indiquen qué párrafos los ayudaron a reconocer esa idea. Luego, pedir que formulen una expresión que permita resumir dicha idea en pocas palabras.",
+            "Pedir que, en equipos, vuelvan a leer el texto y subrayen aquellas ideas en las que aparece el término \"muchik\". Luego, indicar que, en el título que propongan, deben considerar la inclusión de dicho término."
+          ],
+          "respuesta": "Solicitar que identifiquen la idea principal del texto e indiquen qué párrafos los ayudaron a reconocer esa idea. Luego, pedir que formulen una expresión que permita resumir dicha idea en pocas palabras.",
+          "respuestaCorta": "Esta acción guía a los estudiantes a través del proceso cognitivo correcto: primero, identificar la idea principal y luego, sintetizarla en una frase corta que funcione como título.",
+          "solucionario": "Un buen título debe sintetizar la idea principal del texto. La opción 'b' propone la secuencia pedagógica más adecuada para lograrlo: primero, se asegura de que los estudiantes comprendan la idea central y, a partir de ahí, les pide que la condensen en una frase. La opción 'a' es demasiado directiva, ya que el docente da las alternativas. La opción 'c' se enfoca en una palabra clave pero no garantiza que se capture la idea principal.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "El docente busca que los estudiantes profundicen en la comprensión del texto sobre el muchik. Para ello, realiza la siguiente secuencia de acciones:\nAcción 1. Pregunta si, en su localidad, se hablan algunas lenguas originarias y si existen instituciones que enseñen a hablarlas.\nAcción 2. Pide que, en el texto, identifiquen los hechos que contribuyeron al proceso de revitalización del muchik y los expertos involucrados en ese proceso.\nAcción 3. Explica cuál es el impacto social y lingüístico de revitalizar una lengua originaria.\nAcción 4. Solicita que, tomando en cuenta todo lo anterior, indiquen si la revitalización de lenguas podría realizarse en su localidad, y que expliquen por qué.\n¿Por qué la secuencia promueve que los estudiantes reflexionen sobre el contenido del texto?",
+          "opciones": [
+            "Porque favorece que los estudiantes apliquen algunas ideas del texto a situaciones de su propia realidad.",
+            "Porque favorece que los estudiantes ofrezcan argumentos que estén alineados a la postura de los autores del texto.",
+            "Porque favorece que los estudiantes puedan reconocer el impacto social de la revitalización de lenguas originarias."
+          ],
+          "respuesta": "Porque favorece que los estudiantes apliquen algunas ideas del texto a situaciones de su propia realidad.",
+          "respuestaCorta": "La secuencia culmina pidiendo a los estudiantes que conecten lo aprendido en el texto con su propio contexto local, lo cual es una forma de reflexión profunda.",
+          "solucionario": "La reflexión se promueve eficazmente cuando los estudiantes son capaces de transferir y aplicar el conocimiento de un texto a su propio contexto. La secuencia de acciones parte de la realidad del estudiante (Acción 1), analiza el texto (Acción 2), profundiza en el tema (Acción 3) y culmina pidiendo una aplicación a su realidad (Acción 4). Este último paso, conectar el texto con su vida, es lo que caracteriza a esta secuencia como una actividad de reflexión.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p06",
+      "contexto": "Los estudiantes de tercer grado están conversando sobre la obligatoriedad de utilizar uniformes escolares en la IE. En este contexto, la docente les ha propuesto que formen grupos para debatir en torno a la siguiente pregunta: ¿los estudiantes deben utilizar uniforme?",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Durante el proceso de planificación de sus textos orales, la docente está conversando con los estudiantes sobre los criterios en los que se basan para seleccionar fuentes de información confiables de internet. A continuación, se presentan las intervenciones de tres estudiantes:\nArón: Yo trato de ver la cantidad de auspiciadores que tiene la página.\nBárbara: Más bien, yo reviso el dominio de la página. O sea, si dice 'org' o 'gob'.\nCintia: Yo me fijo en si la página difunde información de libros escritos por científicos.\n¿Qué estudiante utiliza un criterio inadecuado para determinar la confiabilidad de una fuente de internet?",
+          "opciones": [
+            "Arón.",
+            "Bárbara.",
+            "Cintia"
+          ],
+          "respuesta": "Arón.",
+          "respuestaCorta": "La cantidad de auspiciadores no es un indicador de confiabilidad; al contrario, puede sugerir un sesgo comercial o publicitario en la información.",
+          "solucionario": "El criterio de Arón es inadecuado porque el número de auspiciadores no garantiza la veracidad o la objetividad de la información y, de hecho, podría ser un indicio de intereses comerciales. En cambio, los criterios de Bárbara (revisar el dominio para identificar organizaciones o entidades gubernamentales) y Cintia (verificar si se basa en fuentes académicas o científicas) son prácticas recomendadas para evaluar la confiabilidad de una fuente en línea.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "La docente ha elaborado una lista de cotejo para evaluar la participación de los estudiantes durante el debate. A continuación, se presentan los aspectos que incluye dicha lista:\n1. El estudiante adapta el vocabulario de su texto oral según el público.\n2. El estudiante une las ideas de su texto oral con diversos tipos de conectores.\n3. El estudiante varía la entonación al presentar su texto oral para enfatizar algunas ideas.\n¿Cuál de los aspectos permite evaluar principalmente la cohesión de los textos orales de los estudiantes?",
+          "opciones": [
+            "El 1.",
+            "El 2.",
+            "El 3."
+          ],
+          "respuesta": "El 2.",
+          "respuestaCorta": "La cohesión textual se refiere a los mecanismos lingüísticos que conectan las ideas, y el uso de conectores es uno de los elementos principales para lograrla.",
+          "solucionario": "La cohesión es la propiedad textual que asegura la conexión entre las diferentes partes de un texto. El uso de conectores lógicos (de causa, consecuencia, adición, etc.) es un recurso fundamental para establecer estas relaciones y garantizar la cohesión. El aspecto 1 (vocabulario) se relaciona con la adecuación, y el aspecto 3 (entonación) con los recursos paraverbales de la oralidad.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Al inicio del debate, le corresponde exponer a uno de los grupos que está a favor de que se continúen utilizando uniformes para asistir a la escuela. A continuación, se presenta la argumentación que realizó una de las integrantes del grupo:\n\nAbelina: Nosotros queremos seguir usando el uniforme porque... eh... lo ordena el director. Eh... nosotros tenemos que hacer caso en todo lo que él diga. Por eso, yo quiero utilizar uniforme.\n\nLuego de escuchar la intervención de Abelina, la docente busca que reflexione sobre cómo mejorar su argumentación oral. ¿Cuál de las siguientes acciones pedagógicas es más adecuada para conseguir su propósito?",
+          "opciones": [
+            "Pedirle que cuente si alguna vez ha asistido a la IE con ropa distinta del uniforme. A partir de esto, solicitarle que reflexione sobre si se sentiría más cómoda viniendo a la escuela con ropa que ella misma escogiera.",
+            "Preguntarle si cree que mencionar la postura de una autoridad como argumento es suficiente para defender su propia tesis. Luego, invitarla a que evalúe las posibles razones del director para ordenar el uso de uniformes.",
+            "Comentarle que su argumento presenta una falacia y que debe cambiarlo por otro argumento para hacer sólida su postura. Después, sugerirle que proponga algunos ejemplos para el nuevo argumento que utilice en una segunda intervención del grupo."
+          ],
+          "respuesta": "Preguntarle si cree que mencionar la postura de una autoridad como argumento es suficiente para defender su propia tesis. Luego, invitarla a que evalúe las posibles razones del director para ordenar el uso de uniformes.",
+          "respuestaCorta": "Esta acción guía a la estudiante, a través de preguntas, a cuestionar la validez de su propio argumento (basado en la autoridad) y a buscar razones más profundas y sólidas.",
+          "solucionario": "El argumento de Abelina incurre en una falacia de autoridad (ad verecundiam). La acción pedagógica más adecuada es la que le ayuda a identificar esta debilidad por sí misma. La opción 'b' lo logra al hacerla cuestionar si la autoridad es un argumento suficiente y la anima a indagar sobre las verdaderas razones, promoviendo un pensamiento más crítico. La opción 'a' desvía el tema. La opción 'c' es demasiado directa al señalarle el error, siendo menos constructivista que la 'b'.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Uno de los grupos que está en contra del uso de uniformes para asistir al colegio está a punto de comenzar su participación en el debate. La docente le otorga la palabra a uno de los integrantes, quien intervino de la siguiente manera:\n\nVicente: Buenas..., bueno... eh... nosotros creemos que los uniformes son útiles, de hecho. Pero queremos dejar de usarlos porque... eh... Creo que no hay que usar uniformes porque quiero dejar de usarlos, ¿no?\n\nLa docente busca darle a Vicente una retroalimentación adecuada para que mejore su texto oral. ¿Qué aspecto del discurso de Vicente debe priorizar la docente en su retroalimentación?",
+          "opciones": [
+            "La inadecuación del léxico que utiliza con relación a la situación comunicativa.",
+            "La ausencia de argumentos válidos para sostener la tesis del discurso oral.",
+            "La falta de fluidez del texto oral debido a la presencia de varias muletillas."
+          ],
+          "respuesta": "La ausencia de argumentos válidos para sostener la tesis del discurso oral.",
+          "respuestaCorta": "El problema principal del discurso es que no presenta ninguna razón o argumento; se limita a repetir la tesis de forma circular (\"quiero dejar de usarlos porque quiero dejar de usarlos\").",
+          "solucionario": "El aspecto más crítico y que debe ser priorizado en la retroalimentación es la falta total de sustento para su postura. El discurso de Vicente es tautológico y carece de argumentos que lo respalden. Si bien presenta muletillas que afectan la fluidez (opción c) y un léxico coloquial (opción a), el problema fundamental que invalida su intervención como texto argumentativo es la ausencia de razones válidas (opción b).",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+   
+    {
+      "idGrupo": "asc_secundaria_2023_p07",
+      "contexto": "En el marco de una campaña nutricional de la localidad, los estudiantes de cuarto grado conversan sobre los productos transgénicos. Algunos se encuentran a favor de su consumo; otros, en contra. Algunos estudiantes aún no han definido su postura. En ese contexto, el docente les propone que se organicen en equipos y escriban ensayos en los que sustenten sus posturas sobre el consumo de dichos productos.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Durante la planificación de los ensayos, los integrantes de uno de los equipos le comentan al docente que no saben qué postura asumir acerca del consumo de productos transgénicos. Por ello, el docente busca orientarlos para que asuman una posición informada sobre el tema. ¿Cuál de las siguientes acciones pedagógicas es más adecuada para ello?",
+          "opciones": [
+            "Preguntar qué fuentes de información han podido recabar sobre el consumo de transgénicos. Luego, pedir que identifiquen cuál es la postura que la mayoría de fuentes defiende, a fin de que asuman dicha postura como equipo.",
+            "Indicar a cada integrante del equipo que comente cuál es su posición sobre el consumo de transgénicos y por qué. Luego, mencionar cuál de las posturas cuenta con fuentes más actualizadas y sugerir que asuman dicha postura como equipo.",
+            "Ofrecer una selección de fuentes confiables de información con posturas diversas acerca del consumo de transgénicos. Luego, pedir que conversen sobre la postura que presente sustentos más sólidos para que evalúen qué posición deben asumir como equipo."
+          ],
+          "respuesta": "Ofrecer una selección de fuentes confiables de información con posturas diversas acerca del consumo de transgénicos. Luego, pedir que conversen sobre la postura que presente sustentos más sólidos para que evalúen qué posición deben asumir como equipo.",
+          "respuestaCorta": "Esta acción promueve el pensamiento crítico al proveer fuentes con diversas posturas y guiar a los estudiantes a que analicen la solidez de los argumentos para tomar su propia decisión.",
+          "solucionario": "Para asumir una postura informada, los estudiantes necesitan analizar argumentos de diferentes perspectivas. La opción 'c' es la más adecuada porque el docente actúa como mediador, facilitando fuentes variadas y confiables, y promoviendo que los propios estudiantes evalúen la calidad de los sustentos para decidir. Las opciones 'a' y 'b' son inadecuadas porque inducen a tomar una decisión basada en criterios poco sólidos como la popularidad de una postura o la sugerencia del docente.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Un grupo de estudiantes está en contra del consumo de productos transgénicos. Como parte de la planificación del ensayo, el equipo ha seleccionado información de diversas fuentes y la ha organizado en un esquema. Los integrantes del equipo le presentan dicho esquema al docente para recibir su retroalimentación.\n\nIntroducción\nEn contra del consumo de productos transgénicos\n• ¿Qué son los organismos genéticamente modificados (OGM) o transgénicos?\n• No consumamos más productos transgénicos\n\nDesarrollo\n• ¿Cómo surgieron los transgénicos?\n• Países productores de transgénicos\n\nCierre\n• Reflexión final\n\nEl docente nota que las ideas incluidas en la sección \"desarrollo\" no corresponden al propósito de los estudiantes de sustentar su postura en contra del consumo de transgénicos. Por ello, busca ofrecer una orientación para que se den cuenta de este problema. ¿Cuál de las siguientes acciones pedagógicas es más adecuada para ello?",
+          "opciones": [
+            "Comentar a los estudiantes que su texto debe tener como objetivo argumentar por qué debemos evitar el consumo de productos transgénicos. Luego, ofrecer algunos argumentos que pueden incluir en la sección \"desarrollo\" para que logren su propósito.",
+            "Indicar a los estudiantes que el esquema de su ensayo debe anticipar los argumentos que sustentan por qué se debe evitar el consumo de productos transgénicos. Luego, señalar que estos argumentos deben presentarse en la sección \"desarrollo\".",
+            "Pedir a los estudiantes que mencionen qué razones han identificado en sus fuentes para sostener su postura de evitar el consumo de productos transgénicos. Luego, preguntar qué ideas de la sección \"desarrollo\" permiten conocer dichas razones."
+          ],
+          "respuesta": "Pedir a los estudiantes que mencionen qué razones han identificado en sus fuentes para sostener su postura de evitar el consumo de productos transgénicos. Luego, preguntar qué ideas de la sección \"desarrollo\" permiten conocer dichas razones.",
+          "respuestaCorta": "Mediante preguntas, esta opción guía a los estudiantes a contrastar las razones que tienen para su postura con lo que han planificado escribir, permitiéndoles descubrir la incoherencia por sí mismos.",
+          "solucionario": "La retroalimentación más efectiva es la que guía al estudiante a descubrir el problema. La opción 'c' lo logra al hacer que los estudiantes verbalicen sus argumentos y luego los comparen con su esquema. Este contraste les permitirá notar que las ideas del 'desarrollo' son informativas y no argumentativas. Las opciones 'a' y 'b' son menos adecuadas porque el docente les da la respuesta o les señala el problema de forma directa, limitando el proceso de reflexión del estudiante.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Un equipo de estudiantes, que está a favor del consumo de productos transgénicos, ha escrito la primera versión del cuerpo de su ensayo. Los integrantes del equipo le han pedido al docente que revise dicha versión. Este es un fragmento del texto:\n\nNosotros, como equipo, hemos tomado una postura. Sobre los productos transgénicos. Estamos a favor de consumir dichos productos transgénicos. Por lo tanto, nuestra postura se sostiene en que los productos transgénicos están protegidos. Frente al ataque de plagas de insectos. Por lo tanto, los productos transgénicos son resistentes. A los herbicidas. Generan un impacto. Positivo para el ambiente. Por lo tanto, este nos parece un buen motivo. Para consumir productos transgénicos.\n\nEl docente se da cuenta de que el escrito de los estudiantes presenta varios problemas de escritura. ¿Cuál de los siguientes problemas debe priorizar en su retroalimentación?",
+          "opciones": [
+            "La falta de variedad en el empleo de conectores de consecuencia.",
+            "La repetición innecesaria de la expresión \"productos transgénicos\".",
+            "La inadecuada delimitación de ideas del texto mediante punto seguido."
+          ],
+          "respuesta": "La inadecuada delimitación de ideas del texto mediante punto seguido.",
+          "respuestaCorta": "El problema más grave es la fragmentación de las oraciones mediante el uso incorrecto del punto seguido, lo que rompe la estructura sintáctica y afecta severamente la legibilidad del texto.",
+          "solucionario": "Si bien el texto repite conectores y expresiones, el problema fundamental que debe priorizarse es el de la puntuación. El uso incorrecto del punto seguido crea fragmentos de oraciones (ej. 'Sobre los productos transgénicos.', 'Frente al ataque de plagas de insectos.') que no son sintácticamente autónomos. Corregir este aspecto es prioritario porque afecta la estructura básica de las oraciones y la cohesión del párrafo, siendo un error más elemental que los de variedad léxica o de conectores.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Un equipo de estudiantes le ha pedido al docente que revise la primera versión de su ensayo que presenta una postura a favor del consumo de productos transgénicos. Durante la revisión, el docente nota que los estudiantes han presentado ideas que contradicen la postura que quieren defender. Por esta razón, busca que se den cuenta de este problema en su texto. ¿Cuál de las siguientes acciones pedagógicas es más adecuada para ello?",
+          "opciones": [
+            "Comentar que el propósito de su texto es defender su postura a favor del consumo de transgénicos. A partir de esto, pedir que identifiquen los argumentos más convincentes y que los refuercen con información nueva en una segunda versión de su ensayo.",
+            "Solicitar que, de forma oral, expliquen por qué están de acuerdo con el consumo de transgénicos. Luego, pedir que lean su ensayo y subrayen con un color las ideas que creen que sirven para apoyar su postura y con otro, las ideas que no lo hacen.",
+            "Indicar que las contradicciones en un texto son un problema de coherencia que afecta la claridad del mensaje que se quiere comunicar. Luego, señalar cuáles son las ideas de su ensayo que contradicen su postura acerca del consumo de transgénicos."
+          ],
+          "respuesta": "Solicitar que, de forma oral, expliquen por qué están de acuerdo con el consumo de transgénicos. Luego, pedir que lean su ensayo y subrayen con un color las ideas que creen que sirven para apoyar su postura y con otro, las ideas que no lo hacen.",
+          "respuestaCorta": "Esta estrategia permite a los estudiantes visualizar las incoherencias al contrastar su postura oral con las ideas escritas, facilitando que identifiquen las contradicciones por sí mismos.",
+          "solucionario": "La acción más adecuada es la que promueve la autorreflexión. La opción 'b' crea una actividad concreta (subrayar con colores) que permite a los estudiantes comparar sus intenciones con su producto escrito. Este ejercicio visual y cognitivo les facilita la identificación de las ideas contradictorias sin que el docente se las señale directamente, como ocurre en la opción 'c'. La opción 'a' se enfoca en reforzar argumentos, pero no aborda directamente el problema de la contradicción.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p08",
+      "contexto": "Los estudiantes de cuarto grado leerán poesía peruana del siglo XX. En este contexto, la docente ha propuesto que los estudiantes lean algunos poemas de Blanca Varela. A continuación, se muestra uno de los poemas que los estudiantes están leyendo:\n\nNadie nos dice\n\nNadie nos dice cómo [1]\nvoltear la cara contra la pared\ny\nmorirnos sencillamente\nasí como lo hicieron el gato [5]\no el perro de la casa\no el elefante\nque caminó en pos de su agonía\ncomo quien va\na una impostergable ceremonia [10]\nbatiendo orejas\nal compás\ndel cadencioso resuello\nde su trompa\nsolo en el reino animal [15]\nhay ejemplares de tal\ncomportamiento\ncambiar el paso\nacercarse\ny oler lo ya vivido [20]\ny dar la vuelta\nsencillamente\ndar la vuelta\n\nTomado de El falso teclado (2000).",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "La docente busca que los estudiantes realicen interpretaciones sobre el sentido global del poema. ¿Cuál de las siguientes acciones pedagógicas es más adecuada para lograr su propósito?",
+          "opciones": [
+            "Preguntarles qué opinan del título del poema. Luego, pedirles que lean el poema completo para que, sobre esta base, evalúen la elección de dicho título para el poema.",
+            "Explicarles que en el poema se aborda el tema de la existencia humana. Luego, solicitarles que subrayen los versos del poema en los que se evidencie este tema.",
+            "Comentarles sobre los temas más recurrentes en la poesía de Varela. Luego, pedirles que identifiquen cuál de estos temas se evidencia en el poema."
+          ],
+          "respuesta": "Preguntarles qué opinan del título del poema. Luego, pedirles que lean el poema completo para que, sobre esta base, evalúen la elección de dicho título para el poema.",
+          "respuestaCorta": "Esta acción promueve la interpretación global al invitar a los estudiantes a relacionar una parte clave (el título) con la totalidad del texto para construir su sentido.",
+          "solucionario": "Para interpretar el sentido global, es fundamental que los estudiantes establezcan relaciones entre las partes y el todo del texto. La opción 'a' fomenta este proceso al usar el título como punto de partida para una reflexión que abarque todo el poema. La opción 'b' es demasiado directiva, ya que la docente revela el tema central. La opción 'c' recurre a información externa a la obra, lo que puede desviar el foco del análisis del texto en sí.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Cuál de las siguientes acciones es más adecuada para orientar a los estudiantes en la identificación de los recursos literarios que aportan al sentido global del poema?",
+          "opciones": [
+            "Proponerles releer el poema en voz alta desde el verso 11 hasta el 14 para que noten las cualidades sonoras y rítmicas de dichos versos.",
+            "Comentarles que muchos poetas contemporáneos suelen omitir los signos de puntuación como una forma de oponerse a la escritura normativa.",
+            "Pedirles que expliquen, basándose en el contenido del poema, por qué la poeta decidió usar la palabra \"oler\" en la expresión \"oler lo ya vivido\"."
+          ],
+          "respuesta": "Pedirles que expliquen, basándose en el contenido del poema, por qué la poeta decidió usar la palabra \"oler\" en la expresión \"oler lo ya vivido\".",
+          "respuestaCorta": "Esta acción enfoca la atención en una figura literaria específica (metáfora o sinestesia) y pide a los estudiantes que interpreten su significado en el contexto del poema.",
+          "solucionario": "La opción 'c' es la más adecuada porque dirige a los estudiantes a analizar un uso no literal del lenguaje, una figura retórica (oler lo vivido), y a desentrañar su significado para la comprensión del poema. Este análisis de un recurso específico contribuye directamente a la interpretación del sentido global. La opción 'a' se centra en aspectos sonoros, y la 'b' ofrece información contextual sobre la puntuación en vez de promover un análisis del texto por parte de los estudiantes.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p09",
+      "contexto": "Los estudiantes de tercer grado están leyendo textos narrativos. A continuación, se presenta el fragmento de uno de los relatos propuestos por el docente:\n\nLa gente me provoca confusión. Eso me pasa por dos razones principales. La primera razón es que la gente habla mucho sin utilizar ninguna palabra. Mi amiga Vanesa dice que si uno arquea una ceja puede querer decir montones de cosas distintas. Puede significar: \"Quiero invitarte a una cena romántica\", y también puede querer decir: \"Creo que lo que acabas de decir es una estupidez\". Vanesa también dice que si cierras la boca y expeles aire con fuerza por la nariz puede significar que estás relajado, o que estás aburrido o que estás enfadado, y todo depende de cuánto aire te salga por la nariz y con qué rapidez y de qué forma tenga tu boca cuando lo hagas y de cómo estés sentado y de lo que hayas dicho justo antes y de cientos de otras cosas que son demasiado peliagudas para entenderlas en solo unos segundos.\nLa segunda razón es que la gente con frecuencia utiliza algo que se llama metáforas. Yo creo que deberían llamarse mentiras porque, por ejemplo, no hay días de mil demonios y los hijos no llegan con un pan bajo el brazo. Cuando trato de formar una imagen en mi cabeza de estas frases, me siento perdido. Y olvido lo que la persona me está queriendo decir.\n\nAdaptado de Haddon, Mark. (2003). El curioso incidente del asesinato del perro a medianoche.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Al terminar de leer el texto, una estudiante pide la palabra y comenta: \"Profesor, no sé qué quiere decir 'peliagudas'. ¿Tiene que ver con que algo es dificultoso?\". Ante esto, el docente le pregunta lo siguiente:\n\"A ver, ¿por qué dices que tendría que ver con algo dificultoso? ¿Cómo llegas a esta conclusión? ¿Puedes explicarnos tu respuesta?\".\n¿Por qué las preguntas del docente favorecen que la estudiante desarrolle un proceso metacognitivo?",
+          "opciones": [
+            "Porque las preguntas permiten que la estudiante explicite las razones de su hipótesis.",
+            "Porque las preguntas formuladas a la estudiante se plantean cuando terminó la lectura.",
+            "Porque las preguntas buscan que la estudiante siga desarrollando su gusto por la lectura."
+          ],
+          "respuesta": "Porque las preguntas permiten que la estudiante explicite las razones de su hipótesis.",
+          "respuestaCorta": "Las preguntas del docente instan a la estudiante a reflexionar y verbalizar sobre su propio proceso de pensamiento para llegar a una conclusión.",
+          "solucionario": "La metacognición es la capacidad de reflexionar sobre los propios procesos de pensamiento y aprendizaje. Al preguntar '¿por qué dices...?' y '¿cómo llegas a esta conclusión?', el docente no se enfoca en la respuesta (el significado de 'peliagudas'), sino en el camino mental que la estudiante siguió para formular su hipótesis. Esto la obliga a tomar conciencia de sus propias estrategias de comprensión, lo cual es un ejercicio metacognitivo.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "El docente busca que los estudiantes deduzcan información del relato anterior. ¿Cuál de las siguientes preguntas es apropiada para conseguir este objetivo?",
+          "opciones": [
+            "¿Qué quiere decir \"expeles\" en el cuento anterior?",
+            "¿Por qué \"días de mil demonios\" está escrito en cursiva?",
+            "Según el narrador, ¿cómo debería llamarse a las metáforas?"
+          ],
+          "respuesta": "¿Qué quiere decir \"expeles\" en el cuento anterior?",
+          "respuestaCorta": "Para responder esta pregunta, el estudiante debe deducir el significado de 'expeles' a partir de las pistas contextuales que ofrece la oración.",
+          "solucionario": "Deducir o inferir implica obtener información que no está explícitamente escrita. El significado de la palabra 'expeles' no se define en el texto, pero se puede deducir por el contexto: 'cierras la boca y expeles aire con fuerza por la nariz'. La pregunta 'b' se refiere a una convención tipográfica y la 'c' solicita información explícita, ya que el texto dice claramente: 'Yo creo que deberían llamarse mentiras'.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Cuál de las siguientes ideas está explícita en el texto?",
+          "opciones": [
+            "Para el narrador es complicado entablar una conversación.",
+            "La gente con frecuencia utiliza algo que se llama metáforas.",
+            "Un mismo gesto puede dar dos mensajes totalmente opuestos."
+          ],
+          "respuesta": "La gente con frecuencia utiliza algo que se llama metáforas.",
+          "respuestaCorta": "Esta frase se encuentra de manera literal en el texto, por lo que es una idea explícita y no una inferencia.",
+          "solucionario": "Una idea explícita es aquella que se puede encontrar textualmente en el relato. La oración 'La gente con frecuencia utiliza algo que se llama metáforas' está escrita tal cual en el segundo párrafo. La opción 'a' es una inferencia general sobre la personalidad del narrador. La opción 'c', si bien se basa en un ejemplo explícito, está formulada como una conclusión general, mientras que la 'b' es una cita directa.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p10",
+      "contexto": "En el marco del proceso de elección de los representantes del Municipio Escolar, la docente está orientando a los estudiantes de cuarto grado en la elaboración de ensayos que respondan a la pregunta: \"¿Qué actitudes observadas en la escuela contribuyen a la democracia?\". En este contexto, dichos estudiantes, organizados en equipos, se encuentran recabando información para la escritura de sus ensayos.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Los integrantes de uno de los equipos han escrito la primera versión de la introducción de su ensayo y se la han presentado a la docente. Durante la revisión, ella nota que algunas ideas no son pertinentes para esta parte del ensayo, sino para el cuerpo. Por esta razón, busca ofrecerles una orientación para que noten este problema en su texto. ¿Cuál de las siguientes acciones pedagógicas es más adecuada para ello?",
+          "opciones": [
+            "Proponer a los estudiantes seleccionar la introducción de algún libro de texto y leerla juntos. Después, indicar que la introducción que ellos escribieron, aunque presenta ideas interesantes, ofrece información que se aleja de la función que debe cumplir, en contraste con la introducción leída.",
+            "Pedir a los estudiantes que mencionen qué información específica han pensado incluir en el cuerpo del ensayo. Luego, comentar que la introducción está adelantando una parte de la información mencionada y que, por eso mismo, deben prescindir de ella para evitar repetirla en el cuerpo.",
+            "Preguntar a los estudiantes si saben cuál es el propósito de escribir una introducción y qué información consideran que debería presentar. Luego, solicitar que identifiquen qué ideas creen que no contribuyen a lograr dicho propósito, y que expliquen qué ideas de su escrito sí lo hacen."
+          ],
+          "respuesta": "Preguntar a los estudiantes si saben cuál es el propósito de escribir una introducción y qué información consideran que debería presentar. Luego, solicitar que identifiquen qué ideas creen que no contribuyen a lograr dicho propósito, y que expliquen qué ideas de su escrito sí lo hacen.",
+          "respuestaCorta": "Esta acción activa los conocimientos previos de los estudiantes sobre la función de una introducción y los guía para que apliquen ese conocimiento en la revisión de su propio texto.",
+          "solucionario": "La retroalimentación más efectiva es la que fomenta la autonomía y la metacognición. La opción 'c' lo logra al hacer que los estudiantes reflexionen sobre la teoría (propósito de una introducción) y luego la apliquen a su práctica (revisar su propio texto). De esta manera, son ellos quienes identifican las ideas que no son pertinentes. Las opciones 'a' y 'b' son más directivas, ya que el docente señala el problema o la información que deben quitar.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Las integrantes de un equipo han culminado la primera versión de su texto. A continuación, se presenta el párrafo correspondiente al cierre del ensayo, el cual están revisando colaborativamente:\n\nEn conclusión, pudimos verificar que, en nuestra escuela, existen algunos comportamientos y actitudes que contribuyen a la democracia. Durante los recreos, los chicos y las chicas utilizan los espacios del patio equitativa y respetuosamente. De igual forma, nos enteramos de que nuestros compañeros sienten que se les permite participar en clases. Por otra parte, comprobamos que la directora siempre está dispuesta a atender a los estudiantes que necesiten hablar con ella en la dirección. La directora escucha a los estudiantes en su oficina. En consecuencia, hemos notado que, en nuestra escuela, son pocas las personas que tratan de practicar attitudes y comportamientos que contribuyan a la democracia.\n\nLas estudiantes dialogan para decidir qué mejoras pueden incorporar al cierre del texto. Tres integrantes del equipo ofrecen sus comentarios. ¿Qué estudiante identifica un problema de coherencia que afecta la comprensión del cierre del ensayo?",
+          "opciones": [
+            "Ana dice: \"Hay una contradicción entre el inicio y el final del cierre. Se supone que debemos reforzar nuestra idea principal, no negarla\".",
+            "Briseida dice: \"Al final del párrafo de cierre, he notado que se repite una idea. Sugiero que la saquemos y la cambiemos por información nueva\".",
+            "Carmen dice: \"Falta una idea que ayude a darle un mejor cierre al texto. Debemos incluir una reflexión sobre por qué debemos ser más democráticos\"."
+          ],
+          "respuesta": "Ana dice: \"Hay una contradicción entre el inicio y el final del cierre. Se supone que debemos reforzar nuestra idea principal, no negarla\".",
+          "respuestaCorta": "Ana identifica correctamente la contradicción lógica: el párrafo presenta ejemplos positivos de democracia para concluir afirmando que son pocas las personas que practican dichas actitudes.",
+          "solucionario": "La coherencia es una propiedad del texto que se refiere a la relación lógica entre las ideas. El párrafo de cierre presenta una grave incoherencia al afirmar primero que existen actitudes democráticas (y dar ejemplos) para luego concluir con la idea opuesta ('son pocas las personas...'). Ana detecta este problema de contradicción. Briseida se enfoca en la redundancia, un problema menor. Carmen propone añadir una reflexión, lo cual es una sugerencia de mejora pero no identifica el error de coherencia existente.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Otro equipo de estudiantes ha terminado de escribir la primera versión del cuerpo de su ensayo y le ha pedido a la docente que la revise. La docente nota que el cuerpo, aunque aborda temas diversos, está escrito en un solo párrafo. Por ello, la docente busca que los estudiantes reconozcan, por sí mismos, que deberían reescribir su texto en varios párrafos para facilitar el procesamiento de la información. ¿Cuál de las siguientes acciones pedagógicas es más adecuada para ello?",
+          "opciones": [
+            "Leer el escrito con los estudiantes y señalar en qué parte del texto termina un subtema y en qué parte comienza el siguiente. Luego, indicar que, en su próxima versión, deberían delimitar estos subtemas utilizando el punto aparte.",
+            "Comentar a los estudiantes que, para facilitar la comprensión de su texto, los subtemas deben delimitarse apropiadamente en párrafos. Luego, ofrecer algunos ejemplos de textos cuyos párrafos están separados con punto aparte.",
+            "Pedir a los estudiantes que lean su texto y subrayen con distintos colores los subtemas que presenta. Luego, preguntar si su escrito sería más claro para el lector si dichos subtemas estuviesen organizados en varios párrafos delimitados con punto aparte."
+          ],
+          "respuesta": "Pedir a los estudiantes que lean su texto y subrayen con distintos colores los subtemas que presenta. Luego, preguntar si su escrito sería más claro para el lector si dichos subtemas estuviesen organizados en varios párrafos delimitados con punto aparte.",
+          "respuestaCorta": "Esta estrategia guía a los estudiantes a visualizar la estructura temática de su propio texto para que ellos mismos lleguen a la conclusión de que necesita ser dividido en párrafos.",
+          "solucionario": "La opción 'c' representa una estrategia de descubrimiento guiado. Al hacer que los estudiantes identifiquen y marquen los subtemas, toman conciencia de la estructura interna de su texto. La pregunta final los lleva a reflexionar sobre la claridad para el lector, permitiéndoles concluir por sí mismos la necesidad de usar párrafos. Las opciones 'a' y 'b' son menos efectivas porque el docente señala el error o da la solución teórica, en lugar de facilitar que el estudiante la descubra.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    
+    {
+      "idGrupo": "asc_secundaria_2023_p11",
+      "contexto": "En el marco de un taller de lectura literaria, una docente propone a sus estudiantes de cuarto grado leer un texto relacionado con los morochucos, personajes representativos de los Andes peruanos. A continuación, se presenta el poema que están leyendo:\n\nLos morochucos\n\nCascos duros de piedra,\nerizados pellejos serranos,\npulmones de distancia y de altura\nbebedores de vientos y cielos.\nOteadores de invisibles caminos,\nincansables y humildes\ncomedores de ichu\nque abrevan en el fango\ny ruedan como galgas hacia abajo\npara volar como cóndores a las cumbres.\n\nCual el corcel del llanero y del gaucho\nvienen de la Conquista,\npero anidando en los Andes\nse han hecho indios.\nIncansables, tenaces y fuertes,\ninvencibles donde\nel aire en la altura se afila.\n\nAdaptado de Bustamante y Ballivián, Enrique. (1930). Junín.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Para contribuir a la comprensión del texto, la docente plantea a los estudiantes diversas preguntas. ¿Cuál de las siguientes preguntas se centra en la obtención de información explícita del poema?",
+          "opciones": [
+            "¿Qué atributos sobre los morochucos se mencionan en el poema?",
+            "¿En qué regiones peruanas pueden vivir los morochucos según el poema?",
+            "¿Cuál es el sentido de la expresión \"se han hecho indios\" en el contexto del poema?"
+          ],
+          "respuesta": "¿Qué atributos sobre los morochucos se mencionan en el poema?",
+          "respuestaCorta": "Esta pregunta solicita identificar características que están literalmente escritas en el poema, como \"incansables, tenaces y fuertes\".",
+          "solucionario": "La obtención de información explícita implica localizar datos que están presentes de forma literal en el texto. La pregunta de la opción 'a' pide enumerar los atributos mencionados en el poema (ej. \"cascos duros de piedra\", \"incansables y humildes\"), lo cual es una tarea de recuperación de información explícita. Las preguntas de las opciones 'b' y 'c' requieren inferir o interpretar información que no está directamente declarada.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "La docente busca que los estudiantes profundicen en las interpretaciones sobre el sentido global del poema. ¿Cuál de las siguientes acciones pedagógicas es más adecuada para ello?",
+          "opciones": [
+            "Subrayar los versos referidos a los atributos de los morochucos. Luego, mencionar cuál de los atributos es reiterado con mayor frecuencia en el poema.",
+            "Ofrecer información sobre el origen histórico de los morochucos. Luego, preguntar en qué estrofa del poema consideran que se da cuenta de este origen.",
+            "Indicar las condiciones climáticas y geográficas que tienen los Andes. Luego, preguntar si, según el poema, los morochucos podrían imponerse o no en esas condiciones."
+          ],
+          "respuesta": "Indicar las condiciones climáticas y geográficas que tienen los Andes. Luego, preguntar si, según el poema, los morochucos podrían imponerse o no en esas condiciones.",
+          "respuestaCorta": "Esta acción promueve una interpretación profunda al hacer que los estudiantes relacionen las características de los personajes con su entorno, sintetizando información para entender su fortaleza.",
+          "solucionario": "Para profundizar en la interpretación, es necesario que los estudiantes integren diversas informaciones y establezcan relaciones complejas. La opción 'c' lo logra al pedirles que conecten el entorno andino con los atributos de los morochucos, llevándolos a concluir sobre su capacidad de adaptación y dominio. Las opciones 'a' y 'b' se centran en la localización de información o en la identificación de datos puntuales, sin promover una síntesis interpretativa tan profunda.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "En otro momento de la sesión, los estudiantes comparten sus comentarios acerca del texto. ¿Cuál de los comentarios se ajusta a una reflexión sobre el contenido del poema?",
+          "opciones": [
+            "\"El poema da a entender que los morochucos son tan veloces que parece que vuelan como cóndores por las cumbres\".",
+            "\"A mí me llamó la atención que en el poema se mencione que los gauchos vienen de la misma época que los morochucos\".",
+            "\"Me gustó el poema, porque pienso que los morochucos, que son fuertes y tienen mucha energía, son algo así como superhéroes\"."
+          ],
+          "respuesta": "\"Me gustó el poema, porque pienso que los morochucos, que son fuertes y tienen mucha energía, son algo así como superhéroes\".",
+          "respuestaCorta": "Este comentario constituye una reflexión porque emite un juicio de valor (\"Me gustó\") y establece una conexión personal y analógica (\"son algo así como superhéroes\").",
+          "solucionario": "Una reflexión sobre el contenido implica opinar, valorar o establecer relaciones entre el texto y el conocimiento o las experiencias propias. El comentario de la opción 'c' hace precisamente esto: expresa una opinión personal y crea una analogía con la idea de 'superhéroes' para valorar a los personajes. Los comentarios de las opciones 'a' y 'b' son inferencias o paráfrasis de la información contenida en el poema, correspondiendo a un nivel de comprensión literal o inferencial, pero no reflexivo.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Durante el diálogo con los estudiantes sobre el poema, la docente plantea varias preguntas. ¿Cuál de las siguientes preguntas es más adecuada para que identifiquen los recursos literarios que aportan a la interpretación del sentido global del poema?",
+          "opciones": [
+            "¿Qué significa que los morochucos sean \"bebedores de vientos y cielos\" de acuerdo con el contenido del poema?",
+            "¿Qué quiere decir la palabra \"oteadores\" teniendo en cuenta el verso en el que dicha palabra aparece?",
+            "¿Qué figura retórica se ha utilizado en el siguiente verso del poema: \"el aire en la altura se afila\"?"
+          ],
+          "respuesta": "¿Qué significa que los morochucos sean \"bebedores de vientos y cielos\" de acuerdo con el contenido del poema?",
+          "respuestaCorta": "Esta pregunta se centra en la interpretación de una metáfora, un recurso literario clave, para comprender la profunda conexión de los morochucos con su entorno.",
+          "solucionario": "La pregunta más adecuada para identificar y comprender el aporte de un recurso literario es aquella que se enfoca en su significado y función. La opción 'a' pide interpretar el sentido de la metáfora \"bebedores de vientos y cielos\", lo que es fundamental para entender la simbiosis del morochuco con la naturaleza andina. La opción 'b' es una pregunta de vocabulario contextual. La opción 'c' pide nombrar la figura retórica, lo cual es un ejercicio de clasificación teórica, no de interpretación de su aporte al sentido del poema.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p12",
+      "contexto": "Una IE, en coordinación con el municipio de la localidad, está realizando una campaña para elaborar estrategias orientadas a mejorar el manejo de residuos sólidos de la localidad. En este contexto, los estudiantes de cuarto grado, organizados en equipos y acompañados por la docente, van a elaborar diferentes tipos de textos para compartirlos con la comunidad mediante los paneles de la escuela.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Como parte del proceso de evaluación formativa, la docente está planificando implementar diversas acciones para orientar la producción de los textos. ¿Cuál de las siguientes acciones pedagógicas es adecuada para que logre su propósito?",
+          "opciones": [
+            "Presentar a los estudiantes los criterios para la revisión de los textos. Después, comentar que los avances y la versión final de los escritos serán revisados entre pares, con ayuda de la docente. Luego, indicar que, en cada revisión, se ofrecerá información detallada sobre los aspectos que los equipos van logrando y los que faltan mejorarse.",
+            "Mostrar a los estudiantes un cronograma con las fechas en que deben presentar los avances y la versión final de los textos. Después, comentar que la docente realizará revisiones en las que señalará cuáles son los errores y de qué manera deben subsanarse. Luego, indicar que dichas revisiones se llevarán a cabo durante las sesiones de clase.",
+            "Indicar a los estudiantes que la elaboración de los textos se organizará en tres etapas. Después, comentar que, en cada etapa, los equipos deben presentar sus avances y estos, luego de ser revisados por la docente, tendrán una calificación. Luego, mencionar que la nota final de la elaboración de los textos se va a obtener al sumar dichas calificaciones."
+          ],
+          "respuesta": "Presentar a los estudiantes los criterios para la revisión de los textos. Después, comentar que los avances y la versión final de los escritos serán revisados entre pares, con ayuda de la docente. Luego, indicar que, en cada revisión, se ofrecerá información detallada sobre los aspectos que los equipos van logrando y los que faltan mejorarse.",
+          "respuestaCorta": "Esta opción describe un proceso de evaluación formativa: se comparten criterios, se usa la coevaluación y se ofrece retroalimentación continua centrada en el progreso.",
+          "solucionario": "La evaluación formativa se caracteriza por ser un proceso continuo que busca mejorar el aprendizaje. La opción 'a' describe un enfoque formativo al transparentar los criterios, utilizar la revisión entre pares como herramienta de aprendizaje y ofrecer retroalimentación descriptiva sobre logros y aspectos por mejorar. La opción 'b' es más correctiva que formativa. La opción 'c' describe una evaluación sumativa, centrada en la calificación y no en la mejora del proceso.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Un equipo de estudiantes ha decidido elaborar un folleto que describa los pasos para reciclar los residuos sólidos producidos en la escuela. Durante la búsqueda de información, la docente nota que algunos estudiantes no están usando criterios apropiados para seleccionar fuentes confiables. Por esta razón, ella busca orientarlos en la identificación de algunos de estos criterios. ¿Cuál de las siguientes acciones pedagógicas es más adecuada para ello?",
+          "opciones": [
+            "Entregar a los estudiantes una fuente confiable y otra que no lo sea, para que identifiquen, por ejemplo, si la información que ofrecen está respaldada por organizaciones dedicadas al cuidado del ambiente. Luego, pedir que expliquen por qué motivo creen que este respaldo serviría para reconocer fuentes confiables.",
+            "Mencionar que las fuentes, además de ofrecer información actualizada y vigente, deben ser publicadas por un autor o autores expertos en el tema sobre el cuidado del ambiente. Luego, facilitar algunas fuentes confiables que sirvan de base para que empiecen la escritura de la primera versión de sus folletos.",
+            "Compartir con los estudiantes un listado con los criterios que deben cumplir las fuentes confiables. Luego, solicitar que inicien la búsqueda de fuentes de información sobre el cuidado del ambiente, haciendo énfasis en que deben seleccionar, únicamente, las que cumplen los criterios incluidos en la lista."
+          ],
+          "respuesta": "Entregar a los estudiantes una fuente confiable y otra que no lo sea, para que identifiquen, por ejemplo, si la información que ofrecen está respaldada por organizaciones dedicadas al cuidado del ambiente. Luego, pedir que expliquen por qué motivo creen que este respaldo serviría para reconocer fuentes confiables.",
+          "respuestaCorta": "Esta estrategia se basa en el aprendizaje por descubrimiento, donde los estudiantes comparan ejemplos y construyen el conocimiento sobre los criterios de confiabilidad por sí mismos.",
+          "solucionario": "La acción más adecuada es la que promueve que los estudiantes construyan el conocimiento. La opción 'a' utiliza una estrategia de contraste (fuente confiable vs. no confiable) que permite a los estudiantes identificar las diferencias y deducir los criterios de confiabilidad. Además, fomenta la metacognición al pedirles que expliquen por qué un criterio es válido. Las opciones 'b' y 'c' son más expositivas, ya que la docente simplemente entrega los criterios o la información.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Otro equipo de estudiantes ha elaborado un ensayo expositivo sobre las prácticas individuales para el manejo adecuado de los residuos sólidos. Los estudiantes han terminado la primera versión de su escrito y le han pedido a la docente que lo revise para saber qué aspectos pueden mejorar. Este es un fragmento del escrito:\n\nPrácticas individuales\n\nUna forma fácil de cuidar nuestra localidad es no botar desperdicios a la vía pública, por eso, sugerimos esperar hasta ver un tacho de basura para botar envolturas de plástico o residuos de frutas, con nuestras familias podemos clasificar la basura de nuestra casa y botarla en lugares autorizados para que no termine en las calles.\n\nEn segundo lugar, no se debe tirar el plástico a la calle, como sugerencia para todos, debemos darle un nuevo uso al plástico para evitar que llegue a los océanos. Si no se cuida la forma en que desechamos el plástico, llegará a los ríos y terminará en el mar.\n\nLa docente nota que los estudiantes han usado comas en vez de puntos seguidos para delimitar sus ideas. Por ello, les ofrece comentarios para ayudarlos a identificar, por sí mismos, este problema. ¿Cuál de los siguientes comentarios es más adecuado para que la docente logre su propósito?",
+          "opciones": [
+            "\"En el texto, mencionan: 'En segundo lugar, no se debe tirar el plástico a la calle, como sugerencia para todos, debemos darle un nuevo uso al plástico'. ¿Cuál es la sugerencia: no tirar el plástico a la calle o darle un nuevo uso? ¿Creen que sería más clara esta parte si usan punto seguido? ¿En dónde podría colocarse dicho signo?\".",
+            "\"La oración 'Si no se cuida la forma en que desechamos el plástico, llegará a los ríos y terminará en el mar.' culmina en punto, y eso es correcto. En cambio, la oración '(...) sugerimos esperar hasta ver un tacho de basura para botar envolturas de plástico o residuos de frutas' finaliza en coma. ¿Notan que la coma está mal usada?\".",
+            "\"Inician su texto con 'Una forma fácil de cuidar nuestra localidad es no botar desperdicios a la vía pública, por eso (...)' y usaron coma antes del conector. Los puntos pueden ayudar al lector a saber cuándo termina una idea y comienza otra. Lo más apropiado, en este caso, es indicar el fin de la oración utilizando un punto seguido antes del conector\"."
+          ],
+          "respuesta": "\"En el texto, mencionan: 'En segundo lugar, no se debe tirar el plástico a la calle, como sugerencia para todos, debemos darle un nuevo uso al plástico'. ¿Cuál es la sugerencia: no tirar el plástico a la calle o darle un nuevo uso? ¿Creen que sería más clara esta parte si usan punto seguido? ¿En dónde podría colocarse dicho signo?\".",
+          "respuestaCorta": "Esta opción utiliza preguntas reflexivas sobre una oración específica para que los estudiantes noten la ambigüedad causada por la mala puntuación y deduzcan la solución.",
+          "solucionario": "La retroalimentación más efectiva es la que guía al estudiante a identificar el error a través de la reflexión. La opción 'a' lo logra al plantear preguntas que evidencian la confusión generada por el uso de la coma (comma splice) y luego los invita a considerar el uso del punto seguido como solución. Las opciones 'b' y 'c' son más directivas, ya que el docente señala explícitamente el error ('la coma está mal usada') o da la regla ('Lo más apropiado, en este caso, es...'), limitando el proceso de descubrimiento del estudiante.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Los estudiantes de otro equipo elaboran un tríptico que presenta prácticas que ayudan a reducir la contaminación de recursos hídricos, causada por residuos sólidos. A continuación, se presenta la primera versión del texto que los estudiantes han entregado a la docente para que los ayude con la revisión:\n\nLa contaminación del mar, de los ríos y lagos por residuos sólidos es un problema. Explicaremos algunas prácticas que podemos seguir en nuestra vida. Se buscará sensibilizar a más personas para luchar contra la contaminación de los recursos hídricos.\nCambiar hábitos. Tenemos que cambiar hábitos cuando visitemos los lagos o las playas. Podemos llevar una bolsa para guardar nuestros desperdicios y botarla en casa. Lamentablemente, algunas personas acostumbran dejar sus desperdicios en las orillas. Los residuos orgánicos se descomponen. El oxígeno del agua se reduce, hay especies acuáticas en peligro. No debemos dejar nuestros desperdicios.\nUnirse a organizaciones. Podemos unirnos y colaborar con colectivos ambientalistas que protejan los recursos hídricos. La iniciativa de la ONG Clip, desde 2015, realiza la limpieza de la bahía del lago Titicaca, que estuvo contaminada por bolsas plásticas, envases y otros residuos sólidos.\n\nLa docente nota que los estudiantes debieron usar conectores para explicitar las relaciones lógicas entre algunas ideas. Por ello, busca orientarlos, a fin de que mejoren este aspecto en su escrito. ¿Cuál de las siguientes acciones pedagógicas es más adecuada para ello?",
+          "opciones": [
+            "Comentar que los conectores tienen la función de establecer relaciones lógicas, como de contraste, de adición, y otras, entre las ideas de un texto, y su ausencia puede dificultar la comprensión del lector. Luego, compartir con ellos una lista con los conectores que pueden emplear para mejorar la conexión de las ideas de su texto.",
+            "Escribir el último párrafo en la pizarra añadiendo un conector de ejemplificación: '(...). Por ejemplo, la iniciativa de la ONG Clip, desde el 2015, realiza (...)', para que comenten si creen que dicho conector aclaró la relación entre ambas ideas. Luego, indicar en qué otras partes del texto también pueden usar conectores.",
+            "Leer con ellos '(...) El oxígeno del agua se reduce, hay especies acuáticas en peligro', y solicitar que, en el texto, indiquen si el peligro en el que están esas especies se produce por la falta de oxígeno en el agua. Luego, preguntar qué conector explicitaría la relación lógica entre esas ideas, y pedir que identifiquen qué otras necesitan unir con conectores."
+          ],
+          "respuesta": "Leer con ellos '(...) El oxígeno del agua se reduce, hay especies acuáticas en peligro', y solicitar que, en el texto, indiquen si el peligro en el que están esas especies se produce por la falta de oxígeno en el agua. Luego, preguntar qué conector explicitaría la relación lógica entre esas ideas, y pedir que identifiquen qué otras necesitan unir con conectores.",
+          "respuestaCorta": "Esta acción guía a los estudiantes a primero identificar la relación lógica de causa-efecto entre dos ideas y luego a buscar el conector adecuado, promoviendo un uso consciente y no mecánico.",
+          "solucionario": "Para que los estudiantes usen conectores de forma significativa, primero deben comprender la relación lógica subyacente entre las ideas. La opción 'c' es la más adecuada porque sigue esta secuencia: primero, hace que los estudiantes identifiquen la relación de causalidad entre la reducción de oxígeno y el peligro para las especies; segundo, les pide que piensen en un conector que exprese esa relación. Las otras opciones son menos efectivas porque ofrecen listas de conectores (opción a) o ejemplos (opción b) sin asegurar que los estudiantes hayan comprendido la lógica que deben expresar.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p13",
+      "contexto": "El docente y los estudiantes de cuarto grado están leyendo una antología de poesía estadounidense. En este contexto, los estudiantes se han mostrado interesados en comentar el siguiente poema:\n\nEl hombre muerto baja del cadalso. Lleva su cabeza debajo del brazo.\nLos manzanos están en flor. Está yendo a la taberna del pueblo mientras todos lo miran.\nUna vez allí, se sienta a una de las mesas y ordena dos cervezas, una para él y otra para su cabeza.\nMi madre se seca las manos en el delantal y le sirve.\nHay tanto silencio en el mundo. Se puede oír el viejo río, que en su confusión a veces se olvida y fluye hacia atrás.\n\nAdaptado de Simic, Charles. (1990). El mundo no se acaba.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Durante la actividad de lectura, el docente busca que los estudiantes construyan interpretaciones sobre el sentido global del poema. ¿Cuál de las siguientes acciones pedagógicas es más adecuada para ello?",
+          "opciones": [
+            "Leerles una biografía del autor del poema. Luego, solicitar que mencionen las experiencias trágicas que han podido identificar en dicha biografía. Después, pedir que expliquen de qué forma estas experiencias se reflejan en el poema leído.",
+            "Pedirles que mencionen quién es el personaje que cuenta la historia en el poema. Luego, preguntar por los indicios del texto en los que basan sus respuestas. Después, explicarles de qué modo cambiaría el sentido del poema si otro personaje narra la historia.",
+            "Indicarles que el poema puede interpretarse de varias maneras. Luego, pedir que elaboren sus propias interpretaciones considerando los versos que les parecen esenciales para comprenderlo. Después, solicitar que compartan sus propuestas y discutan sobre ellas."
+          ],
+          "respuesta": "Indicarles que el poema puede interpretarse de varias maneras. Luego, pedir que elaboren sus propias interpretaciones considerando los versos que les parecen esenciales para comprenderlo. Después, solicitar que compartan sus propuestas y discutan sobre ellas.",
+          "respuestaCorta": "Esta acción fomenta la construcción de interpretaciones al validar la multiplicidad de lecturas, pedir que se basen en evidencia textual y promover el diálogo entre pares.",
+          "solucionario": "La construcción de interpretaciones se enriquece cuando se reconoce la naturaleza polisémica de la literatura y se promueve el diálogo. La opción 'c' es la más adecuada porque valida las múltiples interpretaciones, exige que estas se sustenten en el texto ('considerando los versos esenciales') y genera un espacio para el intercambio y la discusión de ideas entre estudiantes. La opción 'a' se centra en un enfoque biográfico y la 'b' en el narrador, que son análisis más específicos y no necesariamente del sentido global.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Como parte del intercambio de ideas sobre el texto, el docente ha planteado varias preguntas. ¿Cuál de las siguientes preguntas favorece que los estudiantes interpreten el sentido global del poema?",
+          "opciones": [
+            "¿Cuál es el lugar en el que ocurren los principales hechos del poema?",
+            "¿Cuál es la intención del autor al mencionar que el viejo río \"fluye hacia atrás\"?",
+            "¿Cuál es la palabra que podría reemplazar el significado del término \"cadalso\"?"
+          ],
+          "respuesta": "¿Cuál es la intención del autor al mencionar que el viejo río \"fluye hacia atrás\"?",
+          "respuestaCorta": "Esta pregunta apunta a la interpretación de un elemento simbólico y surrealista que es clave para desentrañar el tono, la atmósfera y el sentido general del poema.",
+          "solucionario": "La interpretación del sentido global depende de la comprensión de sus elementos más significativos y simbólicos. La imagen del río que 'fluye hacia atrás' es un verso clave que rompe con la lógica y contribuye a la atmósfera onírica y extraña del poema. Preguntar por su intención (opción b) obliga a los estudiantes a ir más allá de lo literal y a construir significado. Las preguntas de las opciones 'a' y 'c' se enfocan en la localización de información y en el vocabulario, respectivamente, que son niveles de comprensión más básicos.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "El docente pidió a los estudiantes que mencionen los aspectos que dificultaron la lectura de este poema. A continuación, se presentan los comentarios de tres estudiantes:\n\nAdela: Me causó sorpresa leer un poema que trate sobre hechos que pueden dar miedo. Ahora veo que también los poemas tienen este tipo de temas que, por ejemplo, sí los he leído en cuentos o los he visto en las películas de terror.\nBernardo: No entiendo cómo esto puede ser un poema. Parece más un cuento corto, en realidad. De hecho, si alguien me pidiera que le explique por qué es un poema, yo no sabría qué decir.\nCeleste: Fue complicado entender el poema, pero sí comprendí lo que quería decir el poeta. Este verso me resultó difícil de entender: 'Los manzanos están en flor'. Quizá otros no comprendan qué significa.\n\n¿Qué estudiante da indicios suficientes para afirmar que tiene un conflicto cognitivo con relación a algún aspecto del texto?",
+          "opciones": [
+            "Adela.",
+            "Bernardo.",
+            "Celeste."
+          ],
+          "respuesta": "Bernardo.",
+          "respuestaCorta": "Bernardo experimenta un conflicto cognitivo porque el texto desafía su esquema mental previo de lo que es un \"poema\", generando una contradicción que no puede resolver.",
+          "solucionario": "Un conflicto cognitivo ocurre cuando una nueva información choca con las creencias o esquemas preexistentes de una persona. Bernardo tiene una idea definida de lo que es un poema, y este texto en prosa no encaja en ella ('Parece más un cuento corto'). Su incapacidad para clasificarlo ('no entiendo cómo esto puede ser un poema', 'yo no sabría qué decir') es un claro indicio de este desequilibrio cognitivo. Adela amplía su concepto de los temas de la poesía, y Celeste identifica una dificultad puntual sin entrar en conflicto con la naturaleza del texto.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p14",
+      "contexto": "Durante una actividad de producción de textos, el docente escucha a un estudiante de segundo grado decirle a otro que solo es correcto usar una palabra si está en el diccionario. Por ejemplo -afirma el estudiante-, aunque haya personas que usan la palabra 'nadies', esta no aparece en el diccionario. Por ello, se trata de una palabra incorrecta, que no se debería usar.\nAnte esto, el docente les propone a ambos buscar la palabra 'pecana' en sus diccionarios. Luego, les pregunta si la pudieron encontrar (el docente sabe, sin embargo, que la palabra 'pecana' no está registrada en los diccionarios). Cuando los estudiantes se dan cuenta de que la palabra no aparece en el diccionario, el docente dice lo siguiente: \"Muchas personas usan la palabra 'pecana', pero esta palabra no está en el diccionario. ¿Ustedes creen que es una palabra incorrecta?\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es el principal proceso de aprendizaje que busca promover el docente a través de su intervención?",
+          "opciones": [
+            "Metacognición.",
+            "Conflicto cognitivo.",
+            "Transferencia del aprendizaje."
+          ],
+          "respuesta": "Conflicto cognitivo.",
+          "respuestaCorta": "El docente genera un conflicto cognitivo al presentar un contraejemplo (la palabra 'pecana') que desafía la creencia rígida del estudiante sobre la corrección lingüística.",
+          "solucionario": "El docente interviene para desestabilizar la creencia prescriptivista del estudiante ('solo es correcto lo que está en el diccionario'). Al presentarle el caso de 'pecana', una palabra de uso común y aceptado que no figura en el diccionario, genera una contradicción con su esquema mental. Este choque entre la creencia previa y la nueva evidencia es lo que se conoce como conflicto cognitivo, un motor fundamental para la reestructuración del conocimiento.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+   
+    {
+      "idGrupo": "asc_secundaria_2023_p15",
+      "contexto": "En el marco de un proyecto sobre bioética, los estudiantes de quinto grado, organizados en equipos, van a debatir sobre la experimentación con animales para la medicina humana.\nEl docente está ayudando a buscar fuentes de información a los estudiantes que están en contra del uso de animales en la experimentación. En este contexto, comparte con ellos una grabación de un debate tomado de internet. Esta es la transcripción de un fragmento de dicha grabación:\n\"[...] Nosotros, como ciudadanos, no podemos ser indiferentes ante el sufrimiento de los animales. O sea... jcómo vamos a estar tranquilos con la idea de que en la experimentación se sacrifica menos que... eh... en la industria alimentaria! Uno no puede permanecer impasible ante esta preocupante afirmación...\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Luego de escuchar la grabación, el docente nota que el equipo tiene dudas sobre lo que quiere decir \"impasible\". En este contexto, luego de reproducir el audio varias veces, busca promover que los estudiantes deduzcan el significado de esa palabra. ¿Cuál de las siguientes acciones pedagógicas es más adecuada para ello?",
+          "opciones": [
+            "Pedir que mencionen qué idea es enfatizada en el fragmento escuchado. A partir de esto, solicitar que indiquen qué partes del audio los ayudaron a identificarla y cuál es el sentido de la palabra \"impasible\" en la grabación.",
+            "Escribir en la pizarra una lista de palabras similares a \"impasible\", como \"impecable\", \"intachable\" o \"insolente\". Después, pedir que comenten los aspectos morfológicos que dichas palabras tienen en común.",
+            "Indicar que el término \"impasible\" es un adjetivo usado para referirse a que una persona no siente o no demuestra ninguna emoción. Luego, realizar algunas preguntas para verificar si han comprendido."
+          ],
+          "respuesta": "Pedir que mencionen qué idea es enfatizada en el fragmento escuchado. A partir de esto, solicitar que indiquen qué partes del audio los ayudaron a identificarla y cuál es el sentido de la palabra \"impasible\" en la grabación.",
+          "respuestaCorta": "Esta acción guía a los estudiantes a usar las pistas del contexto (la idea de no ser 'indiferentes') para deducir el significado de 'impasible' por sí mismos.",
+          "solucionario": "Para deducir el significado de una palabra, la estrategia más efectiva es analizar el contexto en que se usa. La opción 'a' promueve esto al pedir a los estudiantes que identifiquen la idea central del fragmento (la necesidad de no ser indiferente al sufrimiento) y usen esa información para inferir que 'impasible' es un sinónimo de indiferente o insensible. La opción 'b' puede llevar a confusiones y la 'c' es una explicación directa que no fomenta la habilidad de deducción.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "En la práctica del debate, el docente nota que la estudiante que eligió cumplir el rol de moderadora hace evidente su propia postura sobre el tema del debate y realiza gestos de desaprobación ante las intervenciones de algunos estudiantes. Por esta razón, busca ayudar a la estudiante a que se dé cuenta de su error. ¿Cuál de las siguientes acciones pedagógicas es más adecuada para ello?",
+          "opciones": [
+            "Pedir a los estudiantes que opinen, en plenaria, acerca del rol de los moderadores en la práctica. Luego, señalar a todos que el rol del moderador se debe centrar en asignar los turnos y tiempos de intervención de los debatientes, y resumir las posturas presentadas por cada uno de ellos.",
+            "Comentar a la estudiante que debe evitar realizar gestos de desaprobación durante las intervenciones de los participantes del debate. Luego, en la siguiente práctica, mostrar la manera en que puede ejercer el rol de moderadora e indicar que tome nota sobre los aspectos que debe cumplir.",
+            "Preguntar a la estudiante qué papel cree que debe cumplir una moderadora en un debate y cuáles son las diferencias en relación con el rol de los debatientes. Luego, pedir que indique si cree que, en la práctica realizada, ella mostró algún comportamiento que se alejara de dicho papel."
+          ],
+          "respuesta": "Preguntar a la estudiante qué papel cree que debe cumplir una moderadora en un debate y cuáles son las diferencias en relación con el rol de los debatientes. Luego, pedir que indique si cree que, en la práctica realizada, ella mostró algún comportamiento que se alejara de dicho papel.",
+          "respuestaCorta": "Esta acción promueve la autorreflexión, guiando a la estudiante con preguntas para que ella misma defina su rol y evalúe su propio desempeño en función de esa definición.",
+          "solucionario": "La retroalimentación más efectiva es la que lleva al estudiante a la autoevaluación. La opción 'c' es un ejemplo de retroalimentación reflexiva: el docente no le dice a la estudiante cuál fue su error, sino que la guía a través de preguntas para que ella misma contraste su actuación con la función teórica de un moderador imparcial. Las opciones 'a' y 'b' son menos personalizadas y más directivas.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Durante la práctica del debate, dos equipos están ensayando, uno frente al otro, sus intervenciones. El docente nota que los integrantes de ambos equipos no respetan los turnos que les corresponden. Por esta razón, él busca ofrecer una retroalimentación para ayudarlos a identificar que las interrupciones pueden afectar la presentación de sus textos orales. ¿Cuál de las siguientes acciones pedagógicas es más adecuada para ello?",
+          "opciones": [
+            "Solicitar a los equipos que detengan un momento la práctica de sus intervenciones. Luego, enumerar las interrupciones que se han observado y mencionar que estas impiden la fluidez del debate y generan la distracción de la audiencia.",
+            "Proponer a los equipos volver a practicar sus textos orales para grabarlos en audio. Luego, escuchar juntos la grabación para identificar las interrupciones, y pedir que comenten si dichas interrupciones dificultan o no la comprensión de sus ideas.",
+            "Indicar a los equipos que cada vez que interrumpen a sus compañeros estos pierden el hilo temático de sus intervenciones orales. Luego, comentar que las interrupciones reducen el tiempo de participación y esto afecta la presentación de sus argumentos."
+          ],
+          "respuesta": "Proponer a los equipos volver a practicar sus textos orales para grabarlos en audio. Luego, escuchar juntos la grabación para identificar las interrupciones, y pedir que comenten si dichas interrupciones dificultan o no la comprensión de sus ideas.",
+          "respuestaCorta": "Grabar y reproducir la práctica permite a los estudiantes experimentar las interrupciones desde la perspectiva del oyente, lo que facilita que tomen conciencia del problema.",
+          "solucionario": "Utilizar una grabación (opción b) es una poderosa herramienta metacognitiva. Permite a los estudiantes objetivar su propia práctica oral, escucharse como si fueran la audiencia y, por lo tanto, identificar más fácilmente los problemas como las interrupciones y su impacto en la comprensión. Esta estrategia es más efectiva que simplemente decirles cuáles son las consecuencias del problema (opciones a y c).",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "En otro momento de la práctica del debate, un estudiante presentó su texto oral a sus compañeros de equipo y al docente. Esta es la transcripción de un fragmento de dicho texto:\n\n\"Buenas tardes. Nuestro equipo está en contra del uso de animales en los experimentos. Las fuentes que revisamos nos dan varios argumentos. Pero nuestro argumento principal es que da pena. Bueno, yo creo que es claro que no es correcto. Creo que no se debería permitir que se usen animales. Entonces, queda claro que estamos en contra del uso de animales\".\n\nEl docente espera a que el estudiante culmine su intervención para ofrecerle una orientación que lo ayude a desarrollar argumentos sólidos en función de su postura. ¿Cuál de las siguientes acciones pedagógicas es más adecuada para ello?",
+          "opciones": [
+            "Preguntar a los compañeros de equipo si el argumento ofrecido logró convencerlos sobre la postura de no utilizar animales en la experimentación médica. Sobre esta base, solicitar que, entre ellos mismos, evalúen la argumentación teniendo en cuenta que esta debe ser pertinente y consistente.",
+            "Resaltar que, en su intervención, se evidencia con claridad cuál es la postura sobre la experimentación con animales que quiere defender el equipo. Después, sugerir que, a partir de dicha postura, vuelva a proponer argumentos fundamentados en fuentes de información acerca de bioética y no en sus creencias.",
+            "Solicitar que mencione las fuentes que ha utilizado y las evidencias que ha encontrado para desarrollar su argumento principal. Luego, pedir que explique por qué dichas evidencias le darían sustento a su postura, y que las organice para incorporarlas en su argumento, a modo de ejemplos o definiciones de términos claves."
+          ],
+          "respuesta": "Solicitar que mencione las fuentes que ha utilizado y las evidencias que ha encontrado para desarrollar su argumento principal. Luego, pedir que explique por qué dichas evidencias le darían sustento a su postura, y que las organice para incorporarlas en su argumento, a modo de ejemplos o definiciones de términos claves.",
+          "respuestaCorta": "Esta acción guía al estudiante a conectar sus afirmaciones con evidencia concreta de sus fuentes, ayudándolo a pasar de un argumento emocional a uno sustentado y estructurado.",
+          "solucionario": "El problema del estudiante es que su argumento se basa en la emoción ('da pena') y no en evidencia. La opción 'c' aborda este problema de manera constructiva. Guía al estudiante a revisar sus fuentes, extraer evidencias específicas y, lo más importante, a verbalizar la conexión lógica entre esa evidencia y su postura. Este proceso lo ayuda a construir un argumento sólido y bien fundamentado. Las otras opciones son menos directas o específicas en la orientación.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Un equipo de estudiantes se encuentra practicando sus intervenciones para el debate frente al docente. Esta es la transcripción de la intervención de uno de los integrantes del equipo:\n\n\"Les quiero agradecer a mis compañeros... eh... y al público por interesarse por este tema. Nosotros creemos que, de todas maneras, la experimentación con animales es necesaria, y estamos... eh... a favor de que sea así. Estamos a favor porque yo no sé de qué se quejan los que están en contra. Yo he visto que ellos ni siquiera se preocupan por sus mascotas o por otros animales...\".\n\nEl docente pide al equipo hacer una pausa en la práctica, pues busca ofrecer una retroalimentación que los ayude a plantear argumentos consistentes. ¿Cuál de los siguientes grupos de preguntas es más adecuado para ello?",
+          "opciones": [
+            "\"¿Han escuchado hablar del término 'falacia'? ¿Cuántos tipos de falacia argumentativa existen? ¿Qué falacia es aquella en la que se busca desacreditar a las personas que toman una postura contraria a la de nosotros?\".",
+            "\"¿Cuántos argumentos han preparado para defender su postura? ¿Cuál de esos argumentos tiene más información? ¿Los autores en que han basado ese argumento son expertos en el tema de la experimentación con animales?\".",
+            "\"¿Qué razones sostienen las personas que rechazan la experimentación con animales? ¿Mencionar el trato que les dan a sus mascotas ayuda a discutir esas razones? ¿Qué otros argumentos podrían poner en discusión las ideas de esas personas?\"."
+          ],
+          "respuesta": "\"¿Qué razones sostienen las personas que rechazan la experimentación con animales? ¿Mencionar el trato que les dan a sus mascotas ayuda a discutir esas razones? ¿Qué otros argumentos podrían poner en discusión las ideas de esas personas?\".",
+          "respuestaCorta": "Estas preguntas guían al estudiante a darse cuenta de que está atacando a la persona y no a sus ideas (falacia ad hominem) y lo reorientan hacia la refutación de argumentos reales.",
+          "solucionario": "El estudiante está utilizando una falacia ad hominem, atacando a sus oponentes en lugar de sus argumentos. El grupo de preguntas de la opción 'c' es el más adecuado porque, sin usar terminología técnica, le hace reflexionar sobre la irrelevancia de su ataque ('¿...ayuda a discutir esas razones?') y lo redirige hacia lo que debería ser el foco del debate: contraargumentar las ideas del otro equipo. La opción 'a' es demasiado teórica y la 'b' no aborda el problema específico de la falacia.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Durante la práctica de los textos orales, el docente se da cuenta de que los estudiantes emplean pocos recursos expresivos no verbales para apoyar la presentación de sus argumentos. Por ello, al final de la práctica, les ofrece comentarios para que noten la utilidad de dichos recursos. ¿Cuál de los siguientes comentarios se centra en el uso de recursos expresivos no verbales?",
+          "opciones": [
+            "\"Recuerden que pueden proponer ejemplos para explicar mejor sus argumentos. De este modo, contribuyen a que la audiencia comprenda más fácilmente las ideas complejas de sus presentaciones orales\".",
+            "\"Para saber si los oyentes siguen el hilo de su presentación, busquen hacer contacto visual con ellos. Asimismo, pueden acompañar su argumentación con movimientos de las manos para hacer énfasis en ideas que son claves\".",
+            "\"Hacer pausas mientras van exponiendo los ayudará a reorganizar las ideas de su texto oral. Incluso, pueden cambiar la entonación de su voz para que quede claro en qué momento inician o finalizan la presentación de un argumento\"."
+          ],
+          "respuesta": "\"Para saber si los oyentes siguen el hilo de su presentación, busquen hacer contacto visual con ellos. Asimismo, pueden acompañar su argumentación con movimientos de las manos para hacer énfasis en ideas que son claves\".",
+          "respuestaCorta": "Este comentario se enfoca específicamente en el contacto visual y los gestos con las manos, que son elementos clave de la comunicación no verbal.",
+          "solucionario": "La comunicación no verbal se refiere al lenguaje corporal: gestos, posturas, contacto visual, etc. El comentario de la opción 'b' se centra exclusivamente en estos elementos. El comentario de la opción 'a' se refiere a recursos de contenido (ejemplos). El comentario de la opción 'c' describe recursos paraverbales, que tienen que ver con la modulación de la voz (pausas, entonación).",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Los equipos han culminado la práctica de sus intervenciones orales. Durante el monitoreo, el docente tomó nota de algunos recursos empleados por los estudiantes para presentar sus argumentos. En este contexto, él desea promover la capacidad de reflexionar sobre los aspectos formales de los textos orales. ¿Cuál de las siguientes acciones pedagógicas es más adecuada para ello?",
+          "opotions": [
+            "Preguntar a los estudiantes si identificaron las preguntas retóricas usadas por algunos de sus compañeros al presentar sus textos orales. Luego, solicitar que comenten qué intención creen que tuvieron al emplearlas y qué efecto generaron.",
+            "Pedir a los estudiantes que indiquen los tipos de entonación de voz que emplearon sus compañeros para presentar sus argumentos durante el debate. Luego, mencionar que la entonación de voz permite añadir matices a los argumentos.",
+            "Proponer a los estudiantes que mencionen los argumentos que más llamaron su atención por la información que ofrecían. Luego, solicitar que compartan con el resto de la clase qué argumentos consideran que fueron más sólidos."
+          ],
+          "respuesta": "Preguntar a los estudiantes si identificaron las preguntas retóricas usadas por algunos de sus compañeros al presentar sus textos orales. Luego, solicitar que comenten qué intención creen que tuvieron al emplearlas y qué efecto generaron.",
+          "respuestaCorta": "Esta acción se enfoca en el análisis de un recurso formal específico (la pregunta retórica), pidiendo a los estudiantes que reflexionen sobre su función y efecto en el discurso.",
+          "solucionario": "Reflexionar sobre los aspectos formales implica analizar la construcción del discurso. La opción 'a' dirige la atención hacia un recurso retórico-formal específico: la pregunta retórica. Pide a los estudiantes que lo identifiquen y analicen su propósito y efecto, lo cual es una reflexión formal. La opción 'b' se refiere a aspectos paraverbales y la 'c' al contenido y la solidez de los argumentos, no a su forma.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p16",
+      "contexto": "En el marco de un proyecto conjunto entre las áreas de Ciencia y Tecnología y de Comunicación, los estudiantes de tercer grado están investigando sobre las innovaciones científicas y tecnológicas realizadas recientemente en el Perú. Organizados en equipos y orientados por la docente, los estudiantes elaborarán diversos textos con el propósito de explicar por qué estas innovaciones mejoran la calidad de vida de las personas. Dichos textos serán publicados en el periódico mural de la IE.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Como parte de la planificación, un equipo ha recabado información diversa sobre Junicha wasi, innovación que busca crear modelos de viviendas térmicas en zonas en las que las heladas afectan seriamente a las comunidades. Sin embargo, los integrantes del equipo tienen dificultades para organizar dicha información. Por ello, le piden a la docente que los oriente en la elaboración de un esquema de escritura. ¿Cuál de las siguientes acciones pedagógicas es más adecuada para ello?",
+          "opciones": [
+            "Pedir que, a partir de la información recopilada, mencionen los beneficios de la innovación Junicha wasi. Luego, preguntar qué aspectos de la vida de las personas mejoran gracias a estos beneficios. Después, junto con el equipo, elaborar un esquema para organizar la información que recabaron según los tipos de beneficios que ofrece la innovación.",
+            "Pedir que mencionen qué información han recopilado sobre Junicha wasi. Luego, comentar que realizar el esquema de escritura los ayudará a organizar sus ideas antes de escribir sobre la influencia que tiene la innovación en la mejora de la calidad de vida de las personas. Después, indicar los pasos para elaborar un esquema con esa información.",
+            "Pedir que dialoguen sobre la información que les ayuda a explicar por qué la innovación Junicha wasi mejora la vida de las personas. Luego, solicitar que establezcan una jerarquía a partir de dicha información. Después, ofrecer varios tipos de esquemas, indicar que elijan el que más les guste y sugerir las ideas que pueden incluir en él."
+          ],
+          "respuesta": "Pedir que, a partir de la información recopilada, mencionen los beneficios de la innovación Junicha wasi. Luego, preguntar qué aspectos de la vida de las personas mejoran gracias a estos beneficios. Después, junto con el equipo, elaborar un esquema para organizar la información que recabaron según los tipos de beneficios que ofrece la innovación.",
+          "respuestaCorta": "Esta acción proporciona un andamiaje claro: primero ayuda a los estudiantes a categorizar la información (por beneficios) y luego colabora con ellos para plasmarla en un esquema.",
+          "solucionario": "La opción 'a' es la más adecuada porque guía a los estudiantes de manera estructurada y colaborativa. Primero, los ayuda a procesar y categorizar la información en función del propósito del texto (los beneficios). Segundo, trabaja 'junto con el equipo' para crear el esquema, modelando el proceso y asegurando la comprensión. Las otras opciones son menos efectivas porque son más teóricas (opción b) o menos guiadas (opción c).",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Un equipo elaboró un folleto para describir el funcionamiento de la innovación Qanwan qashani, dispositivo creado para ayudar a las personas que presentan discapacidad visual a trasladarse con mayor facilidad. Durante la revisión, la docente nota que algunas ideas se alejan del propósito de su folleto. Por ello, busca ayudar a los estudiantes a que, por sí mismos, se den cuenta de este problema. ¿Cuál de las siguientes acciones pedagógicas es más adecuada para ello?",
+          "opciones": [
+            "Entregar una lista de cotejo sobre los aspectos que debe cumplir su folleto, como el propósito comunicativo, la adecuación del texto al público y el uso pertinente de imágenes. Luego, revisar el texto usando dicha lista y señalar lo que deben mejorar.",
+            "Mencionar que el propósito de su folleto es describir el funcionamiento del dispositivo que ayuda a las personas que presentan discapacidad visual a trasladarse. Luego, indicar las partes del texto que contribuyen a este propósito y las que no lo hacen.",
+            "Pedir que mencionen cuál es el propósito de su folleto, y que subrayen las ideas que consideran esenciales para lograr dicho propósito y expliquen por qué. Luego, solicitar que comenten por qué decidieron no subrayar algunas ideas."
+          ],
+          "respuesta": "Pedir que mencionen cuál es el propósito de su folleto, y que subrayen las ideas que consideran esenciales para lograr dicho propósito y expliquen por qué. Luego, solicitar que comenten por qué decidieron no subrayar algunas ideas.",
+          "respuestaCorta": "Esta estrategia fomenta la autorregulación, ya que los estudiantes deben verbalizar su propósito y luego justificar qué ideas son pertinentes, identificando por exclusión las que no lo son.",
+          "solucionario": "Para que los estudiantes se den cuenta de un problema por sí mismos, la retroalimentación debe ser reflexiva. La opción 'c' lo logra al pedirles que primero definan su propio propósito y luego realicen una acción concreta (subrayar) para evaluar su texto contra ese propósito. La pregunta final ('¿por qué decidieron no subrayar...?') es clave para que tomen conciencia de la información irrelevante. Las opciones 'a' y 'b' son directivas, ya que es el docente quien señala los problemas.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Otro equipo ha recabado información sobre el proyecto Rompemuelles-bomba, innovación que busca suministrar agua potable a las familias de zonas altoandinas. Los integrantes del equipo han elaborado la primera versión de su tríptico, que busca explicar el funcionamiento de dicho proyecto. Esta es una parte del texto que han escrito:\n\nLos Rompemuelles-bomba son una innovacion que coordina la ingeniera Sandra Vergara y, con la innovacion, se busca mejorar la calidad de vida de las personas. Se han instalado Rompemuelles-bomba en varios lugares. Consta de varias partes. Tiene un funcionamiento interesante. Por un lado, las familias de zonas de altura tienen un mejor suministro de agua. Aun asi, el uso de esta innovacion debe expandirse a más regiones de altura.\n\nLa docente busca que los estudiantes mejoren diversos aspectos de su escrito, por lo que les realiza algunas preguntas. ¿Cuál de los siguientes grupos de preguntas es adecuado para que identifiquen el principal problema de escritura de su texto?",
+          "opciones": [
+            "\"¿Creen que las palabras de su texto han sido escritas según las reglas ortográficas de tildación general? ¿Qué palabras agudas de su escrito requieren llevar tilde de forma obligatoria?\".",
+            "\"¿Creen que es necesario realizar una modificación en los conectores utilizados en el texto? ¿Qué otros conectores pueden emplear para evidenciar de modo más preciso la relación lógica entre sus ideas?\".",
+            "\"¿Creen que las ideas incluidas ayudan al lector a comprender el funcionamiento de la innovación? ¿Qué ideas deben incluirse en el texto para entender por qué esta innovación mejora el suministro de agua?\"."
+          ],
+          "respuesta": "\"¿Creen que las ideas incluidas ayudan al lector a comprender el funcionamiento de la innovación? ¿Qué ideas deben incluirse en el texto para entender por qué esta innovación mejora el suministro de agua?\".",
+          "respuestaCorta": "Estas preguntas apuntan al problema principal: el texto no cumple su propósito de explicar el funcionamiento, ya que carece de la información esencial para hacerlo.",
+          "solucionario": "El principal problema del texto es de contenido y coherencia con el propósito comunicativo. El tríptico busca 'explicar el funcionamiento', pero el fragmento no ofrece ninguna información al respecto. Las preguntas de la opción 'c' guían a los estudiantes a notar esta omisión fundamental. Los problemas de tildación (opción a) o el uso de conectores (opción b) son secundarios en comparación con el hecho de que el texto no cumple su objetivo principal.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p17",
+      "contexto": "En el taller de lectura y escritura literaria, los estudiantes de tercer grado, acompañados por la docente, están leyendo cuentos fantásticos. A continuación, se presenta uno de estos cuentos:\n\nEspiral\n\nRegresé a casa en la madrugada, muriéndome de sueño. Al entrar, todo obscuro. Para no despertar a nadie, avancé de puntillas y llegué a la escalera de caracol que conducía a mi cuarto. Apenas puse el pie en el primer escalón, dudé de si esa era mi casa o una casa idéntica a la mía. Y mientras subía temí que otro muchacho, igual a mí, estuviera durmiendo en mi cuarto y acaso soñándome en el acto mismo de subir por la escalera de caracol. Di la última vuelta, abrí la puerta y allí estaba él, o yo, todo iluminado de Luna, sentado en la cama, con los ojos bien abiertos. Nos quedamos un instante mirándonos de hito en hito. Nos sonreímos. Sentí que la sonrisa de él era la que también me pesaba en la boca: como en un espejo, uno de los dos era falaz. \"¿Quién sueña con quién?\", exclamó uno de nosotros, o quizá ambos simultáneamente. En ese momento, oímos ruidos de pasos en la escalera de caracol: de un salto nos metimos uno en otro y así fundidos nos pusimos a soñar al que venía subiendo, que era yo otra vez.\n\nAdaptado de Anderson Imbert, Enrique. (1965). El gato de Cheshire.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "La docente busca promover que los estudiantes interpreten el sentido global del cuento. ¿Cuál de las siguientes acciones pedagógicas es más adecuada para que logre su propósito?",
+          "opciones": [
+            "Mencionarles que el narrador del cuento \"Espiral\" reflexiona sobre el siguiente hecho: no sabe si lo que le sucede es real o es un sueño. Luego, explicarles cómo, a partir de esta reflexión, se genera una ambigüedad que se prolonga hasta el final del relato.",
+            "Preguntarles por qué creen que el autor escogió el título \"Espiral\" para el cuento. Luego, pedirles que, en el texto, seleccionen las acciones y expresiones que aluden, explícita o implícitamente, a los movimientos en espiral, y que expliquen el porqué de su elección.",
+            "Comentarles que escribir sobre hechos irreales que se presentan en un contexto cotidiano es un recurso literario empleado habitualmente en los cuentos fantásticos. Luego, pedirles que vuelvan a leer el cuento \"Espiral\" e identifiquen este tipo de hechos."
+          ],
+          "respuesta": "Preguntarles por qué creen que el autor escogió el título \"Espiral\" para el cuento. Luego, pedirles que, en el texto, seleccionen las acciones y expresiones que aluden, explícita o implícitamente, a los movimientos en espiral, y que expliquen el porqué de su elección.",
+          "respuestaCorta": "Esta acción guía a los estudiantes a interpretar el sentido global al analizar cómo el título, como metáfora central, se conecta con elementos de todo el texto.",
+          "solucionario": "Para interpretar el sentido global, es clave conectar las partes con el todo. El título 'Espiral' es un elemento central que encapsula la naturaleza infinita y recursiva del cuento. La acción 'b' guía a los estudiantes a explorar esta conexión, pidiéndoles que rastreen la idea del espiral a lo largo del relato (la escalera, el soñador soñado, el ciclo que se repite). La opción 'a' le da la interpretación al estudiante, y la 'c' se enfoca en una característica del género fantástico en general, no en la interpretación particular de este cuento.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "La docente ha planteado varias preguntas a los estudiantes para favorecer la interpretación del cuento. ¿Cuál de las siguientes preguntas promueve que identifiquen los recursos literarios que aportan en la construcción de su sentido global?",
+          "opciones": [
+            "¿Cuál creen que es la figura retórica que se evidencia en la expresión \"muriéndome de sueño\"?",
+            "¿Por qué el protagonista de la historia y el muchacho que encontró en su habitación se sonrieron?",
+            "¿Qué cambiaría en la historia si el autor del texto la hubiese contado usando un narrador omnisciente?"
+          ],
+          "respuesta": "¿Qué cambiaría en la historia si el autor del texto la hubiese contado usando un narrador omnisciente?",
+          "respuestaCorta": "Esta pregunta promueve la reflexión sobre el punto de vista (narrador protagonista) como un recurso literario crucial para crear la ambigüedad y la duda que definen el cuento.",
+          "solucionario": "El recurso literario más importante en este cuento es el punto de vista. La elección de un narrador protagonista en primera persona es fundamental para generar la duda entre sueño y realidad. La pregunta de la opción 'c' obliga a los estudiantes a reflexionar sobre esta elección al plantear un escenario hipotético (narrador omnisciente), lo que les permite valorar cómo este recurso construye el sentido del texto. Las otras preguntas se centran en una figura retórica menor (opción a) o en la trama (opción b).",
+          "seccion": "Casuística"
+        }
+      ]
+    }
+  ]
+}
+  
