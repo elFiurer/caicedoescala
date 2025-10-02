@@ -274,6 +274,31 @@
   "archivos": {
     "especifico": "data/cargos directivos/2023/cdirectivorotada2_2023.json"
   }
-}
-
+},
+{
+    "id": 33,
+    "proceso": "Ascenso",
+    "anio": 2018,
+    "nivel": "Secundaria",
+    "especialidad": "Matemática ",
+    "modalidad": "EBR",
+    "preguntas": 60,
+    "tiempo": 180,
+    "archivos": {
+      "especifico": "data/ascenso/secundaria/2018/ascenso_matematica2018.json"
+    }
+  },
+  {
+    "id": 34,
+    "proceso": "Ascenso",
+    "anio": 2019,
+    "nivel": "Secundaria",
+    "especialidad": "Matemática ",
+    "modalidad": "EBR",
+    "preguntas": 60,
+    "tiempo": 180,
+    "archivos": {
+      "especifico": "data/ascenso/secundaria/2019/ascenso_matematica2019.json"
+    }
+  }
 ]
