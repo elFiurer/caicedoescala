@@ -109,6 +109,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Esta función arma un examen completo, pidiendo el archivo genérico y el específico.
     // ▼▼▼ REEMPLAZA TU FUNCIÓN getBancoDePreguntas CON ESTA VERSIÓN DE DIAGNÓSTICO Y CORRECCIÓN FINAL ▼▼▼
 
+    // ▼▼▼ REEMPLAZA TU FUNCIÓN getBancoDePreguntas CON ESTA VERSIÓN FINAL ▼▼▼
     const getBancoDePreguntas = async (examId) => {
         const examenes = await getTodosLosExamenes();
         const examData = examenes.find(e => e.id == examId);
@@ -118,13 +119,9 @@ document.addEventListener('DOMContentLoaded', () => {
             return null;
         }
 
-        // --- INICIA EL MODO DE DIAGNÓSTICO ---
-        console.log("--- INICIANDO DIAGNÓSTICO DE CARGA DE EXAMEN ---");
-        console.log("1. DATOS DEL EXAMEN SELECCIONADO:", examData);
-        console.log("2. ARCHIVOS A BUSCAR:", examData.archivos);
-        // --- FIN DEL MODO DE DIAGNÓSTICO ---
-
         try {
+            // --- Esta parte no cambia: Carga los archivos JSON necesarios ---
+            // Código nuevo
             const fetchPromises = [];
             if (examData.archivos.generico) {
                 fetchPromises.push(fetch(examData.archivos.generico).then(res => res.json()));
@@ -132,13 +129,7 @@ document.addEventListener('DOMContentLoaded', () => {
             if (examData.archivos.especifico) {
                 fetchPromises.push(fetch(examData.archivos.especifico).then(res => res.json()));
             }
-
             const allDataObjects = await Promise.all(fetchPromises);
-
-            // --- MÁS DIAGNÓSTICO ---
-            console.log("3. DATOS CRUDOS DESCARGADOS (JSONs):", allDataObjects);
-            // --- FIN DE DIAGNÓSTICO ---
-
             const bancoFusionado = {};
             for (const dataObject of allDataObjects) {
                 for (const key in dataObject) {
@@ -152,14 +143,27 @@ document.addEventListener('DOMContentLoaded', () => {
                 }
             }
 
-            // --- DIAGNÓSTICO FINAL ANTES DE CONSTRUIR ---
-            console.log("4. BANCO FUSIONADO (Resultado de la mezcla):", bancoFusionado);
-            console.log("5. CLAVES/SECCIONES ENCONTRADAS:", Object.keys(bancoFusionado));
-            // --- FIN DE DIAGNÓSTICO ---
+            // ▼▼▼ INICIA LÓGICA DE FUSIÓN AUTOMÁTICA PARA EXÁMENES "CON-BLOQUES" ▼▼▼
+            if (examData.tipo === 'con-bloques') {
+                const preguntasCompletas = [];
+                // Obtenemos la lista de los bloques individuales que debemos fusionar
+                const bloquesAFusionar = examData.bloques.filter(b => b !== 'Examen Completo');
 
-            // --- INICIA LA CORRECCIÓN MÁS ROBUSTA POSIBLE ---
-            // Esta nueva lógica busca las claves ignorando mayúsculas, minúsculas y tildes,
-            // solucionando posibles errores de tipeo en los archivos JSON.
+                bloquesAFusionar.forEach(nombreDelBloque => {
+                    // Buscamos la clave correcta en el JSON (ignorando mayúsculas/tildes)
+                    const claveEnJSON = Object.keys(bancoFusionado).find(k => normalizarTexto(k) === normalizarTexto(nombreDelBloque));
+                    if (claveEnJSON && bancoFusionado[claveEnJSON]) {
+                        // Usamos el operador 'spread' (...) para añadir todos los elementos del bloque
+                        preguntasCompletas.push(...bancoFusionado[claveEnJSON]);
+                    }
+                });
+
+                // Creamos la sección 'Examen Completo' en memoria con todas las preguntas fusionadas
+                bancoFusionado['Examen Completo'] = preguntasCompletas;
+            }
+            // ▲▲▲ FIN DE LA LÓGICA DE FUSIÓN AUTOMÁTICA ▲▲▲
+
+            // --- El código original para Nombramiento sigue aquí sin cambios ---
             const findKeyInsensitive = (obj, keyToFind) => {
                 const normalizedKeyToFind = normalizarTexto(keyToFind);
                 return Object.keys(obj).find(k => normalizarTexto(k) === normalizedKeyToFind);
@@ -169,25 +173,17 @@ document.addEventListener('DOMContentLoaded', () => {
                 const clKey = findKeyInsensitive(bancoFusionado, 'Comprensión Lectora');
                 const rlKey = findKeyInsensitive(bancoFusionado, 'Razonamiento Lógico');
                 const cpKey = findKeyInsensitive(bancoFusionado, 'Conocimientos Pedagógicos');
-
-                console.log("6. CLAVES NORMALIZADAS ENCONTRADAS:", { cl: clKey, rl: rlKey, cp: cpKey });
-
                 bancoFusionado.completo = [
                     ...(clKey ? bancoFusionado[clKey] : []),
                     ...(rlKey ? bancoFusionado[rlKey] : []),
                     ...(cpKey ? bancoFusionado[cpKey] : [])
                 ];
             }
-            // --- FIN DE LA CORRECCIÓN MÁS ROBUSTA ---
-
-            console.log("7. BANCO FINAL CONSTRUIDO:", bancoFusionado);
-            console.log("--- FIN DEL DIAGNÓSTICO ---");
 
             return bancoFusionado;
 
         } catch (error) {
             console.error("ERROR FATAL AL CONSTRUIR EL BANCO DE PREGUNTAS:", error);
-            // Mostrar un mensaje al usuario aquí podría ser útil
             showToast('Error crítico al cargar las preguntas. Revisa la consola.');
             return null;
         }
@@ -601,13 +597,41 @@ document.addEventListener('DOMContentLoaded', () => {
                 examenesFiltrados.forEach(examen => {
                     const examenCard = document.createElement('div');
                     examenCard.classList.add('examen-card');
-                    examenCard.innerHTML = `<div class="examen-info"><h3>${examen.proceso} ${examen.anio} - ${examen.modalidad}</h3><p>${examen.nivel} - ${examen.especialidad}</p></div><div class="examen-details"><span>${examen.preguntas} preguntas</span><span>${examen.tiempo} min</span></div><div class="examen-actions"><button class="btn-practica" data-id="${examen.id}">Modo Práctica</button><button class="btn-simulacro" data-id="${examen.id}">Modo Simulacro</button></div>`;
+                    examenCard.innerHTML = `<div class="examen-info"><h3>${examen.proceso} ${examen.anio} - ${examen.modalidad}</h3><p>${examen.nivel} - ${examen.especialidad}</p>${examen.descripcion ? `<p class="examen-descripcion">${examen.descripcion}</p>` : ''}</div><div class="examen-details"><span>${examen.preguntas} preguntas</span><span>${examen.tiempo} min</span></div><div class="examen-actions"><button class="btn-practica" data-id="${examen.id}">Modo Práctica</button><button class="btn-simulacro" data-id="${examen.id}">Modo Simulacro</button></div>`;
                     examsListContainer.appendChild(examenCard);
                 });
                 const handleExamButtonClick = (e, mode) => {
                     const examId = e.target.dataset.id;
                     const examData = examenes.find(ex => ex.id == examId);
 
+                    // ▼▼▼ INICIA NUEVA LÓGICA PARA EXÁMENES "CON-BLOQUES" ▼▼▼
+                    if (examData && examData.tipo === 'con-bloques') {
+                        // Reutilizamos el modal que ya existe
+                        const sectionModal = document.getElementById('section-modal-overlay');
+                        const sectionModalTitle = document.getElementById('section-modal-title');
+                        const sectionButtons = document.querySelector('.section-buttons');
+
+                        sectionModalTitle.innerText = `Selecciona un bloque para el Modo ${mode}`;
+                        sectionButtons.dataset.examId = examId;
+                        sectionButtons.dataset.mode = mode;
+
+                        // Limpiamos los botones anteriores y creamos los nuevos desde examenes.json
+                        sectionButtons.innerHTML = ''; // ¡Importante! Limpiar antes de añadir.
+                        examData.bloques.forEach(nombreDelBloque => {
+                            const button = document.createElement('button');
+                            button.className = 'btn-section';
+                            // Usamos 'data-section' porque el modal ya sabe cómo leerlo.
+                            button.dataset.section = nombreDelBloque;
+                            button.innerText = nombreDelBloque;
+                            sectionButtons.appendChild(button);
+                        });
+
+                        sectionModal.classList.add('active');
+                        return; // Detenemos la ejecución aquí para no continuar con la lógica antigua.
+                    }
+                    // ▲▲▲ FIN DE LA NUEVA LÓGICA ▲▲▲
+
+                    // --- El código original para Ascenso y Nombramiento sigue aquí sin cambios ---
                     if (examData && examData.proceso === 'Ascenso') {
                         const title = `Examen de Ascenso`;
                         const message = `Estás a punto de iniciar el examen completo de ${examData.preguntas} preguntas. ¿Estás listo?`;

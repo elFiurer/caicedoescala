@@ -1,0 +1,864 @@
+{
+  "completo": [
+    {
+      "idGrupo": "asc_secundaria_2021_p01",
+      "contexto": "Con la finalidad de sensibilizar a los estudiantes de tercer grado sobre la neurodiversidad, la docente les ha propuesto leer diversos textos sobre el tema.\nA continuación, se presenta uno de los textos narrativos que dicha docente adaptó para ellos:\n\nJosé vino al hospital cuando tenía diecisiete años. Cuando llegó a mi consultorio, lo quedé mirando durante unos segundos. Era delgado, de aspecto frágil e inquieto. Me senté frente a él, cogí mi reloj de bolsillo y le pedí que lo dibujara. Al recibirlo, su fragilidad e inquietud desaparecieron de repente. Observó el reloj con mucho cuidado, como si fuese un talismán o una joya, se lo puso delante, lo miró con una concentración inmóvil y empezó a dibujarlo. Se le notaba audaz, no vacilaba. Lo dibujó rápidamente, pero con una inusual minuciosidad. La forma del reloj había sido captada de manera sorprendente. Apenas terminó, José se retiró de mi consultorio. Yo me quedé observando el dibujo. Tenía una extraña mezcla de exactitud precisa, casi obsesiva, con variaciones y elaboraciones propias. Luego, mientras volvía a casa, me sentí desconcertado.\nDurante varias semanas, José y yo repetimos nuestras sesiones de dibujo: una canoa, una trucha, un venado, un tulipán. Cada vez que venía a verme podía notar cierto entusiasmo en su expresión. Una mañana, emocionado, comenzó a hablarme (aunque no en un sentido convencional), me cogió de la mano y me llevó hacia el jardín. Una vez allí, sacó un papel blanco y un lápiz de su bolsillo. Agarró un diente de león (hoy sé que es su flor favorita), la puso sobre el pasto y la empezó a dibujar. Era un dibujo espléndido, fiel, lleno de vida.\nCon el transcurrir del tiempo, me he llegado a convencer de que José es un ser excepcional. No se atreve a hablar, sino solo para dar a conocer sus necesidades básicas. No interactúa, sino solo a través del dibujo. Le encanta ver objetos (en algunas ocasiones, solo tiene que recordarlos) y plasmarlos en una hoja o en la pared. Tiene pasión por lo particular, por el detalle y trata de imprimir su propio estilo. Tiene un don único para la forma, para lo concreto, que lo configura, a su manera, como un artista nato. Capta el mundo en trazos y lo reproduce con una fidelidad sorprendente. Pienso que así se conecta con el exterior y demuestra su amor por la realidad.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Para contribuir a la comprensión del texto, la docente plantea varias preguntas a los estudiantes. ¿Cuál de las siguientes preguntas se centra en que obtengan información explícita?",
+          "opciones": [
+            "Según el narrador de la historia, ¿en qué casos José se atrevía a hablar?",
+            "¿Qué oficio o profesión creen que tiene el narrador de la historia?",
+            "¿Por qué el narrador de la historia se sintió desconcertado?"
+          ],
+          "respuesta": "Según el narrador de la historia, ¿en qué casos José se atrevía a hablar?",
+          "respuestaCorta": "Esta pregunta requiere localizar información textual, ya que en el relato se menciona explícitamente cuándo hablaba José.",
+          "solucionario": "La obtención de información explícita consiste en identificar datos presentados literalmente en el texto. La respuesta a la pregunta 'a' se encuentra en la frase: \"No se atreve a hablar, sino solo para dar a conocer sus necesidades básicas\". Las otras opciones requieren inferencias (deducir la profesión del narrador) o interpretación (comprender la causa de su desconcierto), que son habilidades de nivel superior a la localización de información explícita.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "La docente busca que los estudiantes deduzcan información implícita del texto. ¿Cuál de las siguientes preguntas es adecuada para ello?",
+          "opciones": [
+            "Según el texto, ¿en qué momento José dejó de mostrarse inquieto y frágil?",
+            "Según el tercer párrafo, ¿qué acciones realizó José en el jardín?",
+            "Según el narrador, ¿qué motivos tenía José para dibujar?"
+          ],
+          "respuesta": "Según el narrador, ¿qué motivos tenía José para dibujar?",
+          "respuestaCorta": "El texto no declara explícitamente los motivos de José para dibujar; el narrador los infiere, por lo que el estudiante debe deducir esta información.",
+          "solucionario": "Deducir información implícita implica inferir ideas que no están directamente escritas. El texto describe cómo y qué dibuja José, pero sus motivaciones son una interpretación del narrador (\"Pienso que así se conecta con el exterior y demuestra su amor por la realidad\"). Por lo tanto, comprender sus motivos requiere una deducción. Las opciones 'a' y 'b' se responden localizando información explícita en el texto.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "La docente busca que los estudiantes reflexionen sobre el contenido del texto. ¿Cuál de las siguientes preguntas es adecuada para ello?",
+          "opciones": [
+            "El narrador afirma que José mostraba entusiasmo cuando se veían. ¿Qué razones tenía el narrador para afirmar esto?",
+            "¿Están de acuerdo con el narrador cuando sostiene que José es una persona excepcional? ¿Por qué?",
+            "Cuando el narrador conoció a José, notó algunos rasgos de su personalidad. ¿Cuál era uno de estos rasgos?"
+          ],
+          "respuesta": "¿Están de acuerdo con el narrador cuando sostiene que José es una persona excepcional? ¿Por qué?",
+          "respuestaCorta": "Esta pregunta exige que los estudiantes emitan un juicio de valor sobre el contenido del texto y lo fundamenten, lo cual es una habilidad de reflexión.",
+          "solucionario": "La reflexión sobre el contenido implica que el lector evalúe las ideas del texto y formule una opinión personal fundamentada. La pregunta 'b' pide explícitamente una toma de postura (\"¿Están de acuerdo...?\") y una justificación (\"¿Por qué?\"), lo que promueve una valoración crítica del texto. Las otras opciones se centran en la comprensión del texto (inferir o localizar información) en lugar de en su evaluación.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "En otro momento de la actividad de lectura, la docente busca que los estudiantes reflexionen sobre los aspectos formales del texto. ¿Cuál de las siguientes acciones es adecuada para ello?",
+          "opciones": [
+            "Pedir a los estudiantes que realicen comentarios sobre la función que cumplen los paréntesis en el relato.",
+            "Pedir a los estudiantes que ofrezcan propuestas de títulos que consideren apropiados para la historia de José.",
+            "Pedir a los estudiantes que elaboren una línea de tiempo para organizar los hechos presentados en el texto."
+          ],
+          "respuesta": "Pedir a los estudiantes que realicen comentarios sobre la función que cumplen los paréntesis en el relato.",
+          "respuestaCorta": "Analizar el uso de los paréntesis se enfoca en un recurso formal y estilístico del autor, no en el contenido de la historia.",
+          "solucionario": "La reflexión sobre aspectos formales se centra en cómo está construido el texto, es decir, en los recursos lingüísticos y estructurales que el autor utiliza. Analizar la función de los paréntesis, un signo de puntuación con fines específicos (en este caso, para una acotación del narrador), es una tarea de este tipo. Las opciones 'b' y 'c' se relacionan más con la comprensión y organización del contenido del texto.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Los estudiantes están conversando sobre los pasajes del texto que llamaron su atención. ¿Cuál de sus comentarios se ajusta al propósito principal del narrador de esta historia?",
+          "opciones": [
+            "Creo que el narrador quiere mostrar su admiración por el hecho de que José diga lo que siente mediante sus dibujos.",
+            "Pienso que el narrador quiere hacernos ver que, gracias a él, José ha mejorado su habilidad para dibujar.",
+            "Yo creo que el narrador quiere que nosotros nos pongamos tristes luego de leer esta historia."
+          ],
+          "respuesta": "Creo que el narrador quiere mostrar su admiración por el hecho de que José diga lo que siente mediante sus dibujos.",
+          "respuestaCorta": "El tono general del narrador, al describir a José como 'excepcional' y con un 'don único', revela una profunda admiración por su forma de comunicación.",
+          "solucionario": "El propósito principal del narrador es transmitir la idea central del texto. A lo largo del relato, el narrador utiliza adjetivos como 'excepcional' y describe el talento de José con asombro, destacando cómo se conecta con el mundo a través del arte. Esto evidencia una clara admiración. La opción 'b' es incorrecta, pues no se menciona que José mejorara gracias al narrador. La opción 'c' es errónea, ya que el tono no es de tristeza, sino de fascinación.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p02",
+      "contexto": "Los estudiantes de quinto grado han iniciado una campaña de sensibilización para fomentar el uso seguro de las redes sociales. Para ello, organizados en grupos, escribirán trípticos informativos dirigidos a la comunidad educativa.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Como parte del acompañamiento del proceso de escritura de los textos, el docente ofrece diversas sugerencias a los estudiantes. ¿Cuál de las siguientes sugerencias se centra en promover el proceso de planificación de un texto escrito?",
+          "opciones": [
+            "Asegúrense de utilizar algunos conectores para enlazar las oraciones escritas en sus trípticos.",
+            "Corrijan los errores ortográficos que identifiquen en sus trípticos, utilizando un diccionario.",
+            "Luego de leer sus fuentes, realicen un organizador gráfico con las ideas que quieren desarrollar en sus trípticos."
+          ],
+          "respuesta": "Luego de leer sus fuentes, realicen un organizador gráfico con las ideas que quieren desarrollar en sus trípticos.",
+          "respuestaCorta": "La planificación es la etapa previa a la escritura, donde se organizan las ideas. Un organizador gráfico es una herramienta clave para este proceso.",
+          "solucionario": "El proceso de escritura comprende la planificación, la textualización y la revisión. La planificación implica la generación y organización de ideas antes de redactar. La creación de un organizador gráfico es una actividad fundamental de esta etapa. En cambio, el uso de conectores (opción a) corresponde a la textualización y la corrección ortográfica (opción b) a la revisión.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Luego de revisar diversas fuentes, los integrantes de uno de los grupos están escribiendo las recomendaciones que consideran relevantes para el uso seguro de las redes sociales. Ellos le presentan al docente la primera versión de su texto para que los ayude con la revisión.\n\nNo se deben compartir demasiados datos personales, sin embargo, no se deben subir fotos personales ni de otras personas sin su consentimiento, por otro lado, no se deben aceptar todas las solicitudes de amistad que nos llegan.\n\nEl docente nota un problema de escritura que dificulta la comprensión del texto. ¿Cuál es este problema?",
+          "opciones": [
+            "La repetición innecesaria de la expresión \"no se deben\" en el texto.",
+            "La utilización de \"sin embargo\" entre las dos primeras ideas del texto.",
+            "La ausencia de punto y coma para delimitar los enunciados del texto."
+          ],
+          "respuesta": "La utilización de \"sin embargo\" entre las dos primeras ideas del texto.",
+          "respuestaCorta": "El conector 'sin embargo' expresa contraste, pero la relación entre las ideas es de adición. Este uso incorrecto crea una incoherencia lógica.",
+          "solucionario": "El texto es una enumeración de recomendaciones. El conector 'sin embargo' establece una relación de oposición o contraste, la cual no existe entre 'no compartir datos personales' y 'no subir fotos sin consentimiento'. Ambas ideas son aditivas, por lo que un conector adecuado sería 'además' o 'asimismo'. El uso incorrecto del conector adversativo es el principal problema de coherencia que afecta la comprensión.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Los integrantes de otro de los grupos le presentan al docente la tercera versión de su tríptico. A continuación, se muestra un fragmento de este texto:\n\nEs mejor configurar el perfil de una red social para que solo las personas que conoces puedan verlo. Asimismo, puede restringirse el acceso a cierta información. Así, solo los amigos podrán ver los datos más personales; los conocidos, los datos menos privados.\n\n¿Cuál es la función de la última coma en el fragmento anterior?",
+          "opciones": [
+            "Añadir información secundaria referida a \"los conocidos\".",
+            "Reemplazar el verbo compuesto del enunciado anterior.",
+            "Separar los elementos que forman una enumeración."
+          ],
+          "respuesta": "Reemplazar el verbo compuesto del enunciado anterior.",
+          "respuestaCorta": "La coma utilizada en 'los conocidos, los datos...' es una coma elíptica, que sirve para omitir el verbo 'podrán ver' que ya fue mencionado antes.",
+          "solucionario": "La función de esa coma es elíptica. Se emplea para suprimir un verbo que se sobreentiende por el contexto, ya que ha aparecido inmediatamente antes. La oración completa sería: \"los conocidos podrán ver los datos menos privados\". Para evitar la repetición del verbo \"podrán ver\", se utiliza la coma en su lugar, aportando concisión y fluidez al texto.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Un grupo de estudiantes le presentan al docente la primera versión de su tríptico para que los ayude con la revisión. Esta es una sección del texto:\n\nCuando vayas a tus redes desde un artefacto tecnológico que no es el tuyo, asegúrate de terminar todas las sesiones. Así, nadie tendrá el poder de detentar tus contraseñas. Es importante que tus aspectos personales no sean vistos por cualquier persona.\n\nEl docente busca ofrecer a los estudiantes una retroalimentación para que mejoren su texto. ¿Cuál de los siguientes problemas de escritura presenta dicho texto?",
+          "opciones": [
+            "La inadecuada selección del léxico en algunas ideas del texto.",
+            "La ausencia de progresión temática de las ideas del texto.",
+            "La falta de conexión lógica entre algunas ideas del texto."
+          ],
+          "respuesta": "La inadecuada selección del léxico en algunas ideas del texto.",
+          "respuestaCorta": "El verbo 'detentar' se usa de forma incorrecta, ya que significa 'retener ilegítimamente un poder o cargo', lo cual no es aplicable a las contraseñas.",
+          "solucionario": "El principal problema de escritura es la imprecisión léxica por el uso del verbo 'detentar'. Según la RAE, 'detentar' se refiere a ejercer ilegítimamente un poder o cargo. En el contexto de las contraseñas, sería más preciso utilizar verbos como 'obtener', 'robar', 'descubrir' o 'usurpar'. Esta elección léxica inadecuada afecta la claridad y precisión del mensaje.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Durante la revisión de los trípticos, el docente nota que varios estudiantes han usado un registro inadecuado para la situación. En este contexto, él busca que dichos estudiantes identifiquen, por sí mismos, la función que cumple el registro del lenguaje en sus producciones escritas. ¿Cuál de las siguientes acciones pedagógicas es menos adecuada para ello?",
+          "opciones": [
+            "Preguntar cuál era el propósito de sus trípticos y a qué público se estaban dirigiendo. Luego, a partir de esto, pedir que comenten qué tipo de registro del lenguaje creen que debieron utilizar.",
+            "Solicitar que, en plenaria, compartan los avances de sus trípticos para revisarlos. Luego, pedir que indiquen si el registro del lenguaje utilizado en ellos presenta diferencias y que expliquen por qué.",
+            "Comentar que, en esta situación, es necesario emplear un registro formal del lenguaje. Luego, mostrar diversos ejemplos de textos en los que se utilice este registro para que reescriban sus trípticos."
+          ],
+          "respuesta": "Comentar que, en esta situación, es necesario emplear un registro formal del lenguaje. Luego, mostrar diversos ejemplos de textos en los que se utilice este registro para que reescriban sus trípticos.",
+          "respuestaCorta": "Esta acción es la menos adecuada porque el docente da la respuesta directamente, impidiendo que los estudiantes reflexionen y lleguen a la conclusión por sí mismos.",
+          "solucionario": "El objetivo pedagógico es que los estudiantes descubran el problema por sí mismos a través de la reflexión. Las opciones 'a' y 'b' son adecuadas porque guían a los estudiantes con preguntas para que analicen el propósito, el destinatario y comparen textos, fomentando el aprendizaje autónomo. La opción 'c' es la menos adecuada porque es directiva; el docente simplemente informa cuál es el registro correcto y proporciona modelos, lo que limita el proceso de reflexión y autoevaluación del estudiante.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p03",
+      "contexto": "En el taller de lectura y escritura literaria, los estudiantes de cuarto grado, acompañados por el docente, están leyendo cuentos breves. Este es uno de los cuentos que los estudiantes están leyendo:\n\nLa soledad\n\nDebido a que quería convertirse en el mejor, un orador se encerró en su casa y, a solas, durante muchos años, practicó el arte de la oratoria. Pulía cada frase, cada inflexión de la voz, cada silencio. Ensayaba ademanes, gestos, pasos. Era capaz de repetir una y mil veces un vocablo hasta que el sonido alcanzase la perfección. Entretanto, se negó a recibir visitas en su casa, a conversar con las personas. Temía que los demás le corrompiesen el estilo, le contagiasen sus trivialidades locutivas, sus torpezas de dicción. En su opinión, esas rústicas modulaciones con que habla el pueblo contaminarían su técnica.\nCuando finalmente decidió que no le quedaba nada por aprender, salió de su casa, se encaminó al ágora y en presencia de la multitud pronunció su primer discurso. Nadie entendió una palabra. \"¿Qué idioma es ese?\", preguntaban los curiosos. Algunos se rieron, otros le lanzaron insultos, la mayoría se fue a presenciar las exhibiciones de los cómicos.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Para contribuir a la comprensión del relato, el docente plantea diversas preguntas a los estudiantes. ¿Cuál de las siguientes preguntas se centra en que obtengan información explícita?",
+          "opciones": [
+            "Según el relato, ¿a qué le temía el orador?",
+            "Para el orador, ¿en qué consistía el arte de la oratoria?",
+            "A partir de la historia, ¿qué cualidades o defectos pueden atribuirle al orador?"
+          ],
+          "respuesta": "Según el relato, ¿a qué le temía el orador?",
+          "respuestaCorta": "La respuesta a esta pregunta está escrita de forma literal en el texto, por lo que solo requiere ser localizada.",
+          "solucionario": "Una pregunta por información explícita es aquella cuya respuesta se encuentra textualmente en el relato. En este caso, el texto dice: \"Temía que los demás le corrompiesen el estilo, le contagiasen sus trivialidades locutivas, sus torpezas de dicción\". Las otras preguntas requieren que el estudiante sintetice varias ideas (opción b) o infiera rasgos de personalidad (opción c), que son habilidades distintas a la localización de información explícita.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "El docente y los estudiantes están conversando sobre los aspectos del cuento que llamaron su atención. En este contexto, él plantea varias preguntas. ¿Cuál de las siguientes preguntas NO promueve que los estudiantes interpreten el sentido global del cuento?",
+          "opciones": [
+            "¿De qué manera el orador caracterizaba la forma de hablar del pueblo?",
+            "¿Por qué la multitud no llegó a entender el discurso ofrecido por el orador?",
+            "¿Cuál de las decisiones que tomó el orador perjudicó más su objetivo de ser el mejor?"
+          ],
+          "respuesta": "¿De qué manera el orador caracterizaba la forma de hablar del pueblo?",
+          "respuestaCorta": "Esta pregunta se enfoca en localizar detalles específicos sobre la percepción del orador, en lugar de analizar el mensaje central o la moraleja del cuento.",
+          "solucionario": "Interpretar el sentido global de un texto implica comprender su tema principal, su conflicto o su moraleja. Las preguntas 'b' y 'c' apuntan a esta comprensión, pues indagan sobre las causas del fracaso del protagonista y sus decisiones erróneas, que son el núcleo del mensaje del cuento. En cambio, la pregunta 'a' se responde localizando información explícita (\"trivialidades locutivas\", \"torpezas de dicción\"), por lo que se centra en un detalle y no en la interpretación del sentido global.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    
+    {
+      "idGrupo": "asc_secundaria_2021_p03",
+      "contexto": "En el taller de lectura y escritura literaria, los estudiantes de cuarto grado, acompañados por el docente, están leyendo cuentos breves. Este es uno de los cuentos que los estudiantes están leyendo:\n\nLa soledad\n\nDebido a que quería convertirse en el mejor, un orador se encerró en su casa y, a solas, durante muchos años, practicó el arte de la oratoria. Pulía cada frase, cada inflexión de la voz, cada silencio. Ensayaba ademanes, gestos, pasos. Era capaz de repetir una y mil veces un vocablo hasta que el sonido alcanzase la perfección. Entretanto, se negó a recibir visitas en su casa, a conversar con las personas. Temía que los demás le corrompiesen el estilo, le contagiasen sus trivialidades locutivas, sus torpezas de dicción. En su opinión, esas rústicas modulaciones con que habla el pueblo contaminarían su técnica.\nCuando finalmente decidió que no le quedaba nada por aprender, salió de su casa, se encaminó al ágora y en presencia de la multitud pronunció su primer discurso. Nadie entendió una palabra. \"¿Qué idioma es ese?\", preguntaban los curiosos. Algunos se rieron, otros le lanzaron insultos, la mayoría se fue a presenciar las exhibiciones de los cómicos.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "El docente busca orientar a los estudiantes en la construcción de interpretaciones sobre el sentido global del relato. ¿Cuál de las siguientes acciones es adecuada para lograr este propósito?",
+          "opciones": [
+            "Pedir que, en el cuento, subrayen las palabras que desconocen y ofrezcan hipótesis sobre su significado según el contexto en que aparecen.",
+            "Brindar a cada estudiante una lista de cotejo para que identifiquen la estructura narrativa del cuento, sus personajes y el tipo de narrador.",
+            "Solicitar que compartan las ideas que les surgen al leer el título del cuento para que evalúen si se ajustan o no a la historia narrada."
+          ],
+          "respuesta": "Solicitar que compartan las ideas que les surgen al leer el título del cuento para que evalúen si se ajustan o no a la historia narrada.",
+          "respuestaCorta": "Relacionar el título del cuento con la trama es una estrategia clave para interpretar su sentido global, ya que el título suele sintetizar el tema central.",
+          "solucionario": "El sentido global de un texto se refiere a su tema o mensaje principal. El título, 'La soledad', es una clave esencial para la interpretación del cuento. Al pedir a los estudiantes que reflexionen sobre el título y lo contrasten con la historia, el docente los guía para que concluyan cómo el aislamiento autoimpuesto fue la causa del fracaso del orador. Las otras opciones se centran en aspectos más específicos como el vocabulario (opción a) o la estructura (opción b), que no apuntan directamente al mensaje global.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "El docente tiene como propósito que los estudiantes reflexionen sobre el contenido del relato. ¿Cuál de las siguientes preguntas es adecuada para ello?",
+          "opciones": [
+            "A partir del texto, ¿qué acciones consideran que debió realizar el orador para lograr su objetivo de ser el mejor?",
+            "Según el texto, ¿por qué el orador se negó a recibir visitas en su casa y a conversar con las personas?",
+            "De acuerdo con el texto, ¿qué decisión tomó el público luego de escuchar el discurso del orador?"
+          ],
+          "respuesta": "A partir del texto, ¿qué acciones consideran que debió realizar el orador para lograr su objetivo de ser el mejor?",
+          "respuestaCorta": "Esta pregunta promueve la reflexión al pedir a los estudiantes que evalúen críticamente las acciones del personaje y propongan alternativas, yendo más allá de la simple comprensión del texto.",
+          "solucionario": "La reflexión sobre el contenido implica que el lector emita juicios, valore las acciones de los personajes y proponga alternativas. La pregunta 'a' exige este nivel de pensamiento, pues los estudiantes deben analizar los errores del orador y plantear un curso de acción diferente. En cambio, las preguntas 'b' y 'c' son de comprensión literal, ya que sus respuestas se encuentran de forma explícita en el texto.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p04",
+      "contexto": "Los estudiantes de primer grado, organizados en equipos, van a participar en la Feria de Ciencias de la IE. Ellos van a exponer sobre el uso que se les da a las plantas medicinales en la comunidad.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Un grupo de estudiantes está planificando su exposición sobre la planta conocida como \"uña de gato\". A continuación, se presenta la transcripción del diálogo que se suscita entre ellos:\nNely dice: \"En la página de PromPerú, encontré bastante información sobre la uña de gato y... \".\nJuvenal, interrumpiendo a Nely, dice: \"Yo también revisé esa página. Hay mucha información. ¿Alguien más la ha revisado?\".\nSandra dice: \"Sí, yo también la vi. Con eso, creo que ya podríamos empezar a armar nuestra exposición para...\".\nNely, interrumpiendo a Sandra, dice: \"Claro. Se dice, por ejemplo, que la uña de gato sirve para tratar varias enfermedades\".\nJuvenal dice: \"Ah, sí. Sirve como antiinflamatorio porque...\".\nSandra, interrumpiendo a Juvenal, dice: \"No, no creo que se refiera a eso, sino a que se pueden tratar casos de gastritis, por ejemplo\".\nJuvenal dice: \"Ah, ya veo. Tienes razón\".\nComo parte de la retroalimentación para la planificación de los textos orales, el docente identifica aspectos positivos y negativos en el diálogo del equipo. ¿Qué aspecto positivo asociado con la escucha activa se evidencia en este diálogo?",
+          "opciones": [
+            "La intervención, a través de turnos, de los integrantes del equipo.",
+            "El parafraseo de ideas realizado por los participantes de la conversación.",
+            "La manifestación explícita de que comprenden las ideas de los interlocutores."
+          ],
+          "respuesta": "La manifestación explícita de que comprenden las ideas de los interlocutores.",
+          "respuestaCorta": "La expresión 'Ah, ya veo. Tienes razón' de Juvenal es una clara manifestación de que ha escuchado, comprendido y aceptado la idea de su compañera.",
+          "solucionario": "Un componente clave de la escucha activa es demostrar que se ha comprendido el mensaje del otro. En el diálogo, la frase final de Juvenal (\"Ah, ya veo. Tienes razón\") es una evidencia directa de esto. Aunque el diálogo presenta problemas (como las interrupciones constantes, lo que invalida la opción 'a') y no se realizan parafraseos (opción 'b'), sí se observa esta validación explícita de la comprensión, que es un aspecto positivo.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Un equipo de estudiantes busca recoger información sobre las plantas medicinales utilizadas en su localidad. Para ello, los estudiantes han decidido aplicar un cuestionario dentro de la IE. El docente nota que tienen problemas en la generación de ideas para plantear las preguntas de su cuestionario. ¿Cuál de las siguientes acciones pedagógicas es más adecuada para ayudarlos a generar ideas?",
+          "opciones": [
+            "Pedir que, en plenaria, compartan la información que conocen sobre las plantas medicinales de su localidad y la que creen que necesitan conocer. Luego, evaluar con ellos si la información compartida los ayudará a elaborar un cuestionario que contribuya al logro de su propósito.",
+            "Indicar que su cuestionario debe tener como fin saber cuáles son y cómo se usan las plantas medicinales en su localidad. Después, ofrecer ejemplos de cuestionarios y pedir que los revisen para identificar las preguntas que pueden adaptar, tomando en cuenta el logro de su propósito.",
+            "Facilitar diversas fuentes que incluyan información sobre las plantas medicinales que se emplean en su localidad. A partir de esto, mencionar qué ideas de estas fuentes pueden utilizar en la formulación de las preguntas de su cuestionario, de modo que puedan lograr su propósito."
+          ],
+          "respuesta": "Pedir que, en plenaria, compartan la información que conocen sobre las plantas medicinales de su localidad y la que creen que necesitan conocer. Luego, evaluar con ellos si la información compartida los ayudará a elaborar un cuestionario que contribuya al logro de su propósito.",
+          "respuestaCorta": "Esta acción fomenta que los estudiantes partan de sus propios saberes y necesidades (andamiaje) para construir el conocimiento, siendo la estrategia más constructivista.",
+          "solucionario": "La acción pedagógica más adecuada es aquella que promueve la autonomía y el aprendizaje por descubrimiento. La opción 'a' logra esto al activar los conocimientos previos de los estudiantes y ayudarles a identificar sus propios vacíos de información. Este proceso les permite generar preguntas pertinentes para su cuestionario. Las opciones 'b' y 'c' son más directivas y menos efectivas para el desarrollo de la autonomía, ya que el docente les proporciona modelos o les indica qué información usar.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Uno de los equipos decidió explicar las propiedades medicinales del achiote. Una de las integrantes del equipo le ha pedido al docente que escuche la práctica de su exposición, cuya transcripción es la siguiente:\n\n\"El achiote es una planta utilizada por un montón de gente para disminuir algunas dolencias. Este... les hablaré de algunas de sus propiedades. Este... primero, sirve para el dolor de garganta, tos, dolor de riñón y asma. Este... mi primo, que sufría de asma desde chibolo, tomaba tecito de achiote porque su mamá, o sea, mi tía, lo obligaba a tomar todos los días, mañana, tarde y noche... Y aunque a mi primo... este... le daba roche llevar su termo con té, no se libró del achiote. Luego de algún tiempo, mi primo podía jugar pelota como si no tuviera asma. Incluso, lo llamaron para que juegue en el equipo de su colegio... Eh, me acuerdo de que tuvo que viajar a Yurimaguas para participar en un campeonato... Eh, su equipo ganó varios torneos...\".\n\nEl docente le pide a la estudiante que haga una pausa, pues busca ofrecerle una retroalimentación. ¿Cuál es el principal problema que el docente debe atender en el texto oral?",
+          "opciones": [
+            "La falta de adecuación del registro para la situación.",
+            "El desvío del propósito comunicativo.",
+            "El uso excesivo de muletillas."
+          ],
+          "respuesta": "El desvío del propósito comunicativo.",
+          "respuestaCorta": "La estudiante se aleja del tema principal (las propiedades del achiote) para contar una extensa anécdota irrelevante sobre la vida deportiva de su primo.",
+          "solucionario": "El propósito de la exposición es informar sobre las propiedades medicinales del achiote. Si bien la estudiante comienza hablando de ello, rápidamente se desvía hacia una anécdota personal sobre su primo que no aporta información relevante al tema (sus viajes, sus campeonatos, etc.). Este desvío del tema central es el problema de coherencia más grave, por encima del uso de un registro coloquial (opción a) o de muletillas (opción c), que son aspectos más superficiales.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Uno de los equipos se encuentra practicando su texto oral sobre la planta marañón. Esta es la presentación que uno de los integrantes del equipo ofrece al docente y a sus compañeros de grupo:\n\n\"Buenas, profe... Eh, holas... Yo les voy a hablar sobre una planta súper, buenaza, conocida como 'marañón'. Bueno, la planta da un fruto de un color rojo bien intenso. Y también puede ser amarillo. Eh... los especialistas que consulté indican que la cáscara de ese fruto y las hojitas de la planta se usan para tratar el dolor de barriga, el insomnio y capaz que también cuando se te hincha algo. Claro, hay que hacerlas hervir...\".\n\nEl docente nota que el estudiante ha utilizado palabras, como \"holas\", \"súper\", \"profe\", que no se ajustan a la situación comunicativa. Por ello, busca darle una retroalimentación para que, por sí mismo, mejore el registro empleado en el texto. ¿Cuál de las siguientes acciones pedagógicas es más adecuada para ello?",
+          "opciones": [
+            "Indicar que, en su exposición, debe evitar usar expresiones como \"se te hincha algo\". Luego, mencionar que, en lugar de utilizar \"holas\", podría dirigirse a la audiencia con un saludo más formal, como \"buenas tardes\", por ejemplo.",
+            "Señalar que algunas palabras y expresiones de su exposición, como \"capaz que\", son de uso coloquial. Luego, comentar que dichas palabras y expresiones se suelen emplear cuando existe una relación de familiaridad entre los interlocutores.",
+            "Pedir que indique en qué situaciones usa palabras como \"profe\" y \"buenaza\", y por qué es apropiado utilizarlas en esas situaciones. Luego, solicitar que, en una nueva práctica, evalúe si esas palabras se adecúan al contexto en el que va a exponer."
+          ],
+          "respuesta": "Pedir que indique en qué situaciones usa palabras como \"profe\" y \"buenaza\", y por qué es apropiado utilizarlas en esas situaciones. Luego, solicitar que, en una nueva práctica, evalúe si esas palabras se adecúan al contexto en el que va a exponer.",
+          "respuestaCorta": "Esta opción es la más adecuada porque guía al estudiante, mediante preguntas, a reflexionar sobre su propio uso del lenguaje y la importancia de adecuarlo al contexto comunicativo.",
+          "solucionario": "La retroalimentación por descubrimiento es la más efectiva para el aprendizaje autónomo. La acción 'c' promueve que el propio estudiante reflexione sobre la adecuación del registro lingüístico. Al preguntarle en qué contextos sí son apropiadas esas palabras, el docente lo ayuda a tomar conciencia de la situación comunicativa y a decidir por sí mismo el cambio necesario. Las opciones 'a' y 'b' son menos adecuadas porque son directivas; el docente le da la solución o la explicación, en lugar de permitir que el estudiante la construya.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p05",
+      "contexto": "Los estudiantes de quinto grado van a seleccionar poemas para transcribirlos en la fachada de la IE y compartirlos con la comunidad educativa. Por este motivo, la docente ha llevado al aula diversos libros de poemas para leerlos con los estudiantes y elegir juntos los que transcribirán. A continuación, se presentan dos de los poemas seleccionados por una estudiante:" ,
+      "imagen": "img/ascenso/secundaria/2021/comunicacion/1.jpg",
+      "preguntas": [
+        {
+          "pregunta": "Los estudiantes y la docente conversan sobre los aspectos del poema \"A la realidad\" que llamaron su atención. ¿Cuál de los siguientes comentarios de los estudiantes NO evidencia una interpretación del sentido global del poema?",
+          "opciones": [
+            "\"Cuando escuché el título 'A la realidad', pensé que iba a ser un poema bien largo. Pero, al final, resultó ser corto y sin muchas vueltas\".",
+            "\"Creo que la autora dice que la realidad es como una diosa y, como a los dioses, a veces, les hacemos homenajes o los adoramos\".",
+            "\"A mí me parece que se dice que la realidad tiene dos caras: una que nos causa asombro y otra que nos llega a aburrir\"."
+          ],
+          "respuesta": "\"Cuando escuché el título 'A la realidad', pensé que iba a ser un poema bien largo. Pero, al final, resultó ser corto y sin muchas vueltas\".",
+          "respuestaCorta": "Este comentario se enfoca en aspectos superficiales y formales del poema (su extensión), en lugar de analizar su significado o mensaje temático.",
+          "solucionario": "La interpretación del sentido global implica profundizar en el tema y el mensaje del texto. Los comentarios 'b' y 'c' realizan esto al analizar la metáfora de la realidad como diosa y la antítesis entre el asombro y el aburrimiento ('bostezo'). Por el contrario, el comentario 'a' se queda en una apreciación sobre la forma y la longitud del poema, sin llegar a interpretar su contenido.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "La docente busca orientar a los estudiantes en la identificación de los recursos literarios que aportan al sentido global del poema \"A la realidad\". ¿Cuál de las siguientes preguntas es más adecuada para que logre su propósito?",
+          "opciones": [
+            "La poeta menciona que a la realidad se le rinde \"el gran homenaje\". ¿A qué tipo de situaciones se refiere? Den ejemplos.",
+            "Según el poema, la realidad genera en nosotros \"el mayor asombro\" y \"el bostezo\". ¿Qué ideas les produjo esta oposición?",
+            "En el poema \"A la realidad\", se han usado figuras literarias. ¿En qué versos se evidencia el empleo de una metáfora?"
+          ],
+          "respuesta": "Según el poema, la realidad genera en nosotros \"el mayor asombro\" y \"el bostezo\". ¿Qué ideas les produjo esta oposición?",
+          "respuestaCorta": "Esta pregunta dirige a los estudiantes a analizar la antítesis ('asombro' vs 'bostezo'), que es el recurso clave para construir el significado central del poema sobre la dualidad de la realidad.",
+          "solucionario": "El objetivo es que los estudiantes vinculen un recurso literario con el mensaje global del poema. La pregunta 'b' es la más eficaz porque se centra en la oposición (antítesis) entre \"asombro\" y \"bostezo\", que constituye el núcleo temático del poema: la doble cara de la experiencia de la realidad. Analizar esta oposición lleva directamente a la interpretación del sentido global. Las otras opciones son menos directas para lograr este propósito.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "La docente busca que los estudiantes construyan interpretaciones sobre el sentido global del poema \"Lunario musical\". ¿Cuál de las siguientes acciones pedagógicas es más adecuada para que logre su propósito?",
+          "opciones": [
+            "Pedir que mencionen qué ideas se pueden desprender del título \"Lunario musical\". Luego, comentar que dicho título ayuda a anticipar que el poeta va a asociar su experiencia de observar la Luna con la experiencia de escuchar una obra musical.",
+            "Indicar que, en el poema, se realizan asociaciones entre los diversos sentidos, como del tacto y el olfato. Luego, señalar que a este recurso se le conoce como sinestesia y que, en este caso, permite mostrar la experiencia que el poeta busca compartir.",
+            "Solicitar que visualicen las imágenes que les surgen al leer el poema y preguntar qué sensaciones les producen dichas imágenes. Luego, pedir que expliquen cómo estas imágenes aportan en la descripción de la experiencia que vive el yo poético."
+          ],
+          "respuesta": "Solicitar que visualicen las imágenes que les surgen al leer el poema y preguntar qué sensaciones les producen dichas imágenes. Luego, pedir que expliquen cómo estas imágenes aportan en la descripción de la experiencia que vive el yo poético.",
+          "respuestaCorta": "Esta estrategia es la más adecuada porque parte de la experiencia personal del lector (imágenes y sensaciones) para guiarlo a construir el significado del poema de manera autónoma.",
+          "solucionario": "La acción pedagógica más efectiva es la que promueve una construcción activa del significado por parte del estudiante. La opción 'c' lo logra al invitarlos a conectar con las imágenes sensoriales del poema y, a partir de ahí, analizar cómo estas construyen la experiencia del yo poético. Es un enfoque inductivo y centrado en el estudiante. Las opciones 'a' y 'b' son más expositivas y directivas, ya que el docente proporciona la interpretación o el concepto teórico, limitando el proceso de descubrimiento del estudiante.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p06",
+      "contexto": "En una IE, la docente y los estudiantes de segundo grado están conversando acerca del reciente festival de danzas folklóricas. En este contexto, la docente les propone escribir crónicas sobre su participación en este festival para publicarlas en el boletín escolar.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Una estudiante ha culminado la primera versión de su crónica y le ha pedido a la docente que la ayude con la revisión. A continuación, se presenta el texto que escribió dicha estudiante:\n\nEl día del festival de danzas del colegio, mis compañeros y yo llegamos muy entusiasmados. Nos habían citado a todos a las 9 de la mañana. Vimos a muchos compañeros de otros grados desfilar con vestimentas de todas las Regiones Peruanas. Nosotros elegimos bailar la jija. Éramos la sexta danza y nos tocaba esperar. La hora de inicio estaba prevista para las 10. Las danzas empezaron a presentarse a las 10 y media. Los dos primeros grupos presentaron el carnaval de Tinta, del Cuzco, y la diablada, de Puno. Mientras se acercaba nuestro turno, teníamos cierta sensación de nerviosismo. Pero, al mismo tiempo, sentíamos que íbamos a dejar todo nuestro esfuerso en la pista de baile. Faltaba solo una danza para nuestro turno. En ese momento, me di cuenta de que a una de las compañeras le faltaba una de sus mantas. No sabíamos qué hacer. Felizmente, Pedro, un amigo del salón, fue corriendo donde el profesor, quien, por suerte, tenía una manta extra. Nos sentimos un poco apenados por lo que nos pasó en la coreografía. No sabíamos qué hacer. El festival terminó a las 3 de la tarde. Lo bueno fue que conocimos muchas danzas del Perú. Y fue muy bonito ver nuestra integración cómo padres, profesores y alumnos, gracias a este festival.\n\nLa docente nota que la estudiante puede mejorar algunos aspectos de su texto. ¿Cuál de las siguientes acciones pedagógicas es adecuada para atender el vacío de información evidenciado en el último párrafo de la crónica?",
+          "opciones": [
+            "Comentar que no mencionó los nombres de todas las danzas del festival. Luego, preguntar si considera que, en el último párrafo, debe incluir información acerca de la procedencia, la vestimenta y los pasos de baile de dichas danzas.",
+            "Indicar que puede mejorar el último párrafo del texto si explica cómo se produjo la integración de la comunidad educativa. Luego, pedir que desarrolle la reflexión final acerca de la importancia de estos festivales para promover dicha integración.",
+            "Pedir que identifique la secuencia de acciones del último párrafo de su texto y preguntar si cree que dicha secuencia está completa. Luego, solicitar que indique qué información debe añadir para comprender qué sucedió durante la presentación de la coreografía."
+          ],
+          "respuesta": "Pedir que identifique la secuencia de acciones del último párrafo de su texto y preguntar si cree que dicha secuencia está completa. Luego, solicitar que indique qué información debe añadir para comprender qué sucedió durante la presentación de la coreografía.",
+          "respuestaCorta": "Esta acción guía a la estudiante a descubrir por sí misma el salto narrativo en su texto, donde menciona sentirse apenada por la coreografía sin haberla descrito.",
+          "solucionario": "El problema principal del texto es un vacío de información: la crónica narra los preparativos y un problema con el vestuario, pero luego salta a la conclusión (\"nos sentimos un poco apenados por lo que nos pasó en la coreografía\") sin haber narrado el suceso central: la presentación de la danza. La acción 'c' es la más pertinente porque, a través de preguntas, ayuda a la estudiante a tomar conciencia de esta elipsis narrativa y de la necesidad de completarla para que el texto sea coherente.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Durante la revisión del texto de la estudiante, la docente nota algunos errores ortográficos. Uno de estos errores dificulta la comprensión de las ideas de dicho texto. ¿Cuál de las siguientes oraciones presenta este tipo de error?",
+          "opciones": [
+            "\"Pero, al mismo tiempo, sentíamos que íbamos a dejar todo nuestro esfuerso en la pista de baile\".",
+            "\"Y fue muy bonito ver nuestra integración cómo padres, profesores y alumnos, gracias a este festival\".",
+            "\"Vimos a muchos compañeros de otros grados desfilar con vestimentas de todas las Regiones Peruanas\"."
+          ],
+          "respuesta": "\"Y fue muy bonito ver nuestra integración cómo padres, profesores y alumnos, gracias a este festival\".",
+          "respuestaCorta": "El uso incorrecto de 'cómo' con tilde, en lugar de 'como' sin tilde, altera la función gramatical de la palabra y dificulta la correcta comprensión de la oración.",
+          "solucionario": "La tilde diacrítica en 'cómo' le da un valor interrogativo o exclamativo. En la oración, se requiere el conector 'como' para introducir una enumeración o ejemplificación. El uso incorrecto de 'cómo' rompe la estructura lógica de la frase y afecta significativamente su comprensión. El error en 'esfuerso' (opción a) es una falta de ortografía literal que no impide entender el significado de la palabra.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p07",
+      "contexto": "En el taller de lectura y escritura literaria, los estudiantes de tercer grado, acompañados por la docente, están leyendo fábulas contemporáneas. A continuación, se presenta una de estas fábulas:\n\nEl hombre que aprendió a ladrar\n\nLo cierto es que fueron años de duro aprendizaje, con momentos en los que estuvo a punto de abandonar. Pero, al fin, triunfó la perseverancia y Raimundo aprendió a ladrar. No a imitar ladridos, como suelen hacer algunos, sino verdaderamente a ladrar. ¿Qué lo había impulsado a hacer eso? Ante sus amigos, se castigaba con humor y respondía: \"La verdad es que ladro para no llorar\". Sin embargo, la razón más importante era el desinteresado y franciscano amor hacia sus hermanos perros. Amor es comunicación. ¿Cómo amar, entonces, sin comunicarse?\nRaimundo sintió una gran alegría el día que Leo, su hermano perro, comprendió por fin su ladrido y (algo más extraordinario aún) que él también comprendió el ladrido de Leo. A partir de ese día, Raimundo y Leo se tendían en el prado y dialogaban sobre los problemas que tenían en común. A pesar de que creía conocer muy bien a sus hermanos perros, Raimundo nunca imaginó que Leo tuviera una visión del mundo tan aguda, como la de un sabio. En uno de esos diálogos, con amistosos ladridos, Raimundo se animó a preguntarle: \"Dime, Leo, con toda franqueza, ¿qué opinas de mi forma de ladrar?\". La respuesta de Leo fue bastante breve y sincera: \"Yo diría que lo haces bastante bien, pero tienes que mejorar y tratar de desaparecer, poco a poco, tu acento humano\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Para contribuir a la comprensión de la fábula, la docente plantea varias preguntas a los estudiantes. ¿Cuál de las siguientes preguntas se centra en que obtengan información explícita?",
+          "opciones": [
+            "En el texto, ¿con qué intención Raimundo les decía a sus amigos que ladraba para no llorar?",
+            "A partir del texto, ¿qué quiere decir el autor cuando utiliza la expresión \"franciscano amor\"?",
+            "De acuerdo con la opinión de Leo, ¿qué aspecto debía mejorar Raimundo en su forma de ladrar?"
+          ],
+          "respuesta": "De acuerdo con la opinión de Leo, ¿qué aspecto debía mejorar Raimundo en su forma de ladrar?",
+          "respuestaCorta": "La respuesta a esta pregunta se encuentra de forma literal en la última línea del texto, donde Leo da su opinión.",
+          "solucionario": "La información explícita es aquella que se puede encontrar directamente en el texto sin necesidad de inferencias. La pregunta 'c' se responde con la cita textual de Leo: \"tienes que mejorar y tratar de desaparecer, poco a poco, tu acento humano\". Las otras preguntas requieren interpretar la intención de un personaje (opción a) o el significado de una frase figurada (opción b), habilidades que van más allá de la simple localización de información.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    
+    {
+      "idGrupo": "asc_secundaria_2021_p07",
+      "contexto": "En el taller de lectura y escritura literaria, los estudiantes de tercer grado, acompañados por la docente, están leyendo fábulas contemporáneas. A continuación, se presenta una de estas fábulas:\n\nEl hombre que aprendió a ladrar\n\nLo cierto es que fueron años de duro aprendizaje, con momentos en los que estuvo a punto de abandonar. Pero, al fin, triunfó la perseverancia y Raimundo aprendió a ladrar. No a imitar ladridos, como suelen hacer algunos, sino verdaderamente a ladrar. ¿Qué lo había impulsado a hacer eso? Ante sus amigos, se castigaba con humor y respondía: \"La verdad es que ladro para no llorar\". Sin embargo, la razón más importante era el desinteresado y franciscano amor hacia sus hermanos perros. Amor es comunicación. ¿Cómo amar, entonces, sin comunicarse?\nRaimundo sintió una gran alegría el día que Leo, su hermano perro, comprendió por fin su ladrido y (algo más extraordinario aún) que él también comprendió el ladrido de Leo. A partir de ese día, Raimundo y Leo se tendían en el prado y dialogaban sobre los problemas que tenían en común. A pesar de que creía conocer muy bien a sus hermanos perros, Raimundo nunca imaginó que Leo tuviera una visión del mundo tan aguda, como la de un sabio. En uno de esos diálogos, con amistosos ladridos, Raimundo se animó a preguntarle: \"Dime, Leo, con toda franqueza, ¿qué opinas de mi forma de ladrar?\". La respuesta de Leo fue bastante breve y sincera: \"Yo diría que lo haces bastante bien, pero tienes que mejorar y tratar de desaparecer, poco a poco, tu acento humano\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "En otro momento de la actividad de lectura, la docente busca que los estudiantes reflexionen sobre el contenido de la fábula. ¿Cuál de las siguientes preguntas es adecuada para ello?",
+          "opciones": [
+            "Según Raimundo, Leo tenía una visión aguda del mundo. ¿Qué idea del texto permite defender o refutar la opinión de Raimundo?",
+            "De acuerdo con la fábula, Raimundo tenía una razón importante que lo motivaba a aprender a ladrar. ¿Cuál era esta razón?",
+            "Teniendo en cuenta las acciones realizadas por Raimundo, ¿qué rasgos de su personalidad pueden identificarse?"
+          ],
+          "respuesta": "Según Raimundo, Leo tenía una visión aguda del mundo. ¿Qué idea del texto permite defender o refutar la opinión de Raimundo?",
+          "respuestaCorta": "Esta pregunta requiere que el estudiante evalúe una afirmación del texto utilizando otra parte del mismo como evidencia, lo cual es una habilidad de reflexión crítica.",
+          "solucionario": "La reflexión sobre el contenido implica valorar y contrastar las ideas presentadas en el texto. La pregunta 'a' pide a los estudiantes que evalúen la opinión del narrador sobre la agudeza de Leo, usando como evidencia la respuesta final de este. Este ejercicio de sopesar y validar información es una forma avanzada de reflexión. Las otras opciones son de comprensión: la 'b' pide localizar información y la 'c' pide inferir características, pero no evaluar críticamente el contenido.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Durante la actividad de lectura, la docente les pide a los estudiantes que compartan con la clase los pasajes de la fábula que llamaron su atención. Tres estudiantes ofrecen sus comentarios. ¿Cuál de los siguientes comentarios se ajusta más a una interpretación del sentido global del texto?",
+          "opciones": [
+            "\"Me parece que nosotros podemos comunicarnos con los perros y no necesitamos imitar su ladrido para eso\".",
+            "\"Al final, por más que Raimundo se esforzó, parece que no pudo aprender a ladrar bien. Además, Leo se lo hizo notar\".",
+            "\"Creo que, aunque haya dificultades, puedes encontrar un modo de hablar con alguien a quien quieres, como hizo Raimundo\"."
+          ],
+          "respuesta": "\"Creo que, aunque haya dificultades, puedes encontrar un modo de hablar con alguien a quien quieres, como hizo Raimundo\".",
+          "respuestaCorta": "Este comentario sintetiza la moraleja o tema central de la fábula: la comunicación como un acto de amor que supera las barreras a través de la perseverancia.",
+          "solucionario": "El sentido global se refiere al mensaje principal de la historia. El comentario 'c' capta perfectamente la esencia de la fábula, que es la búsqueda de la comunicación por amor, a pesar de los obstáculos. El comentario 'a' es una opinión externa que no se deriva del texto. El comentario 'b' se centra en un detalle del final, pero no abarca la motivación y el tema central de la perseverancia por amor.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "La docente busca orientar a los estudiantes en la identificación de los recursos literarios que aportan al sentido global de la fábula. ¿Cuál de las siguientes preguntas es más adecuada para ello?",
+          "opciones": [
+            "¿Qué función cumple la pregunta \"¿Cómo amar, entonces, sin comunicarse?\", en esta narración?",
+            "¿Qué figura literaria se usa en la expresión \"[...] una visión del mundo tan aguda, como la de un sabio\"?",
+            "¿Qué quiere decir el narrador cuando menciona que Raimundo \"Ante sus amigos, se castigaba con humor\"?"
+          ],
+          "respuesta": "¿Qué función cumple la pregunta \"¿Cómo amar, entonces, sin comunicarse?\", en esta narración?",
+          "respuestaCorta": "Esta pregunta se enfoca en una pregunta retórica que funciona como el eje temático de la fábula, conectando directamente el recurso literario con el mensaje central.",
+          "solucionario": "La pregunta 'a' es la más adecuada porque apunta a una pregunta retórica que el autor incluye para enfatizar el tema principal de la historia: la necesidad de comunicarse para poder amar. Analizar la función de esta pregunta lleva a los estudiantes directamente al corazón del sentido global del texto. Las otras preguntas se centran en recursos literarios (un símil o una frase idiomática) que son más locales y no tan determinantes para la interpretación global.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "La docente busca que los estudiantes construyan interpretaciones sobre el sentido global de la fábula. ¿Cuál de las siguientes acciones es adecuada para ello?",
+          "opciones": [
+            "Proponer que subrayen las acciones del protagonista que guardan correspondencia con el título de la fábula.",
+            "Indicar el fragmento de la fábula del que puede desprenderse la moraleja y pedir que compartan sus opiniones sobre esta.",
+            "Solicitar que identifiquen la enseñanza principal de la fábula y que expliquen qué pasajes del relato usaron para reconocerla."
+          ],
+          "respuesta": "Solicitar que identifiquen la enseñanza principal de la fábula y que expliquen qué pasajes del relato usaron para reconocerla.",
+          "respuestaCorta": "Esta opción es la más completa, ya que pide a los estudiantes no solo que identifiquen la moraleja, sino que también la sustenten con evidencia textual, lo que garantiza una interpretación sólida.",
+          "solucionario": "Para construir una interpretación del sentido global, es fundamental que el estudiante pueda formular la enseñanza principal (moraleja) y basarla en evidencia del texto. La acción 'c' promueve este proceso completo. Es superior a la opción 'b', que es demasiado directiva (el docente indica dónde está la moraleja), y a la opción 'a', que se centra en una relación más simple con el título. La justificación con pasajes del relato es clave para una construcción sólida del significado.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p08",
+      "contexto": "Los estudiantes de segundo grado, organizados en equipos, participarán en una feria en la que expondrán información diversa sobre productos naturales típicos de cada región del Perú.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Un equipo de estudiantes va a realizar una presentación sobre el cultivo de la papa. Durante la práctica de la exposición, Luciano, un integrante del equipo, presenta el siguiente texto oral a sus compañeros:\n\n\"La papa es un... ¿Cómo era? Ah, ya... Es un tubérculo... Sí, un tubérculo que crece (mirando al piso) más que nada en los Andes... Es un alimento importante... este... para toda la población... Las principales regiones donde... eh... se cultiva... Perdón, ¿acá cómo era? (leyendo sus notas). Ah, este... en varias regiones, como Puno... Huánuco y Apurímac. Bueno (mirando al piso y leyendo sus notas), eh... la papa aporta proteínas, minerales y vitaminas a las personas que las comen...\".\n\nLos compañeros del equipo esperaron a que Luciano termine de exponer para ofrecerle algunos comentarios sobre su texto oral. ¿Cuál de las siguientes sugerencias NO contribuye a que Luciano mejore su presentación?",
+          "opciones": [
+            "\"Yo creo que podrías tratar de mirar siempre a la audiencia. O sea, no es recomendable que mires al piso mientras das la información\".",
+            "\"Para mí, debes evitar leer tus notas, pues parece que necesitas leer para recordar lo que vas a decir sobre el tema. ¿Y si mejor te lo aprendes de memoria?\".",
+            "\"Me parece que en lugar de hacerte preguntas a ti mismo podrías intentar hacer una pausa. Si no, el público puede perder el hilo de lo que estás diciendo\"."
+          ],
+          "respuesta": "\"Para mí, debes evitar leer tus notas, pues parece que necesitas leer para recordar lo que vas a decir sobre el tema. ¿Y si mejor te lo aprendes de memoria?\".",
+          "respuestaCorta": "Sugerir aprender el texto de memoria es una estrategia contraproducente, ya que puede generar una exposición robótica y aumentar el riesgo de bloqueo si se olvida una parte.",
+          "solucionario": "Las sugerencias sobre el contacto visual (opción a) y el uso de pausas en lugar de muletillas (opción c) son consejos válidos y útiles para mejorar una exposición. En contraste, la sugerencia de memorizar el texto (opción b) es una mala práctica. La memorización total del discurso suele resultar en una presentación poco natural y, si el expositor olvida una palabra, es muy difícil que pueda continuar. Es preferible usar las notas como una guía o apoyo, en lugar de memorizar o leer textualmente.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Otro equipo de estudiantes elaborará un texto oral sobre el ají. Luego de planificar dicho texto, una de las integrantes propuso a sus compañeros practicar la exposición que cada uno realizará. Ante esta propuesta, tres estudiantes ofrecen sus comentarios. ¿Cuál de los comentarios evidencia una concepción errónea sobre la revisión de textos orales?",
+          "opciones": [
+            "\"Me gustaría que todos grabemos en audio la práctica de nuestra presentación. Es la manera más fácil de saber qué errores estamos teniendo\".",
+            "\"Cuando expongo, utilizo muchas muletillas. Pienso que, si practico mi presentación, puedo enfocarme en usar menos muletillas para ser más fluido\".",
+            "\"Nosotros hablamos todos los días en clase. Y como exponer también es hablar, no veo por qué debemos practicar de qué modo vamos a decir las cosas\"."
+          ],
+          "respuesta": "\"Nosotros hablamos todos los días en clase. Y como exponer también es hablar, no veo por qué debemos practicar de qué modo vamos a decir las cosas\".",
+          "respuestaCorta": "Este comentario revela el error de creer que la comunicación oral cotidiana es igual a una exposición formal, ignorando la necesidad de planificación, estructura y ensayo.",
+          "solucionario": "La concepción errónea radica en no diferenciar entre la oralidad espontánea (conversación diaria) y la oralidad planificada (exposición). Una exposición requiere una cuidadosa planificación del contenido, la estructura, el lenguaje, los recursos no verbales y la práctica para asegurar la fluidez y claridad del mensaje. Creer que no es necesario practicar porque ya se 'habla' todos los días es un error conceptual. Las otras dos opciones demuestran estrategias adecuadas y una correcta autoevaluación para la mejora de un texto oral.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p09",
+      "contexto": "En el taller de lectura y escritura literaria, los estudiantes de primer grado, acompañados por el docente, están leyendo cuentos andinos. En este contexto, el docente les presentó el siguiente cuento:\n\nHabía una vez un cuy que se comía todas las plantas de una chacra de alfalfa. El dueño quería saber quién destrozaba sus plantas y, con este objetivo, puso una trampa. Por fin, a medianoche, el cuy quedó atrapado. Para que no escape, el dueño lo amarró con una soga y regresó a su casa con la idea de que comería cuy frito al día siguiente. Durante la madrugada, el cuy se la pasó mordiendo la soga inútilmente.\nFue entonces que un zorro que pasaba por allí lo encontró.\n- Compadre -le dijo el zorro al cuy-, ¿qué has hecho para que te tengan así?\n- ¡Ay, compadre! El dueño de esta chacra quiere que me case con su hija. También quiere que coma carne de gallina todos los días-mintió el cuy-. Pero... ¡A ti sí te gusta la carne de gallina! -exclamó haciéndose el inocente-.\n- A veces -le dijo el zorro haciéndose el inocente también-.\n- ¿Por qué, entonces, no me desatas y te pones en mi lugar? Así, te casarás con una bella joven y comerás carne de gallina todos los días -aseguró el cuy-.\n- Te haré ese favor, compadre -le dijo el zorro-.\nA la mañana siguiente, el dueño de la chacra encontró al zorro en lugar del cuy.\n- ¡Desgraciado! ¡Anoche eras cuy y ahora eres zorro! Te voy a zurrar -le dijo dándole latigazos-.\nEn una tregua del latigueo, el zorro le contó al dueño de la chacra las mentiras del cuy. El dueño soltó una estruendosa risotada y, por compasión, lo soltó.\nDesde ese momento, el zorro buscó incansablemente al cuy para vengarse.\nUn día, lo vio ingresar a una cueva. El zorro corrió hacia ella y el cuy, viendo que era imposible huir, empezó a fingir que detenía una enorme roca con el cuerpo. El zorro se le acercó sigilosamente y el cuy le dijo:\n- ¡Compadre zorro, qué bueno que hayas venido! Tienes que ayudarme a detener esta roca. La tierra se va a voltear y esta roca puede aplastarnos a todos.\nAl comienzo, el zorro dudó, pero la cara de asustado del cuy terminó por convencerlo. Empezó a detener la roca con todas sus fuerzas. Después, el cuy le dijo:\n- Compadre, mientras tú sostienes la roca, voy a buscar un palo grande que sirva de apoyo.\nPasaron dos días y el cuy no regresaba. El zorro estaba débil y hambriento.\n- Soltaré la roca, aunque me mate -pensó-. Dio un salto hacia atrás, pero la roca ni se movió.\n- ¡Otra vez me engañó! -dijo y salió furioso de la cueva-.\nNuevamente, el zorro buscó al cuy día y noche, hasta que lo encontró al borde de un pozo de agua. El cuy, al verlo, fingió que lloriqueaba.\n- ¡Qué mala suerte tienes, compadre! Yo te estaba llevando un queso grande como regalo por ayudarme, pero se me cayó al pozo -le dijo el cuy-.\nEl zorro se asomó al pozo y vio en el fondo el reflejo redondo de la Luna.\n- Ese es el queso, compadre -le dijo el cuy-.\n- Tenemos que sacarlo. El queso es delicioso -le dijo el zorro-.\n- ¡Ah, ya sé! -replicó el cuy-. Usted entra de cabeza y yo lo sujeto de sus patas hasta que lo alcance.\nEl zorro aceptó y estuvieron así por un buen rato, hasta que el cuy decidió soltar al zorro, que cayó al fondo del pozo. Luego, el cuy, sintiéndose aliviado, pensó: \"Por fin, el zorro ya no buscará vengarse de mí\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Varios estudiantes le comentan al docente que no conocen qué quiere decir el siguiente enunciado: \"Te voy a zurrar\". Ante esto, él les pide que, primero, identifiquen el pasaje del texto en que aparece, y, luego, que expliquen qué sucede entre el dueño de la chacra y el zorro en esa parte de la historia. A partir de esto, les solicita que ofrezcan hipótesis sobre lo que creen que quiere decir dicho enunciado. ¿Cuál es el propósito principal de las acciones del docente?",
+          "opciones": [
+            "Promover la identificación de relaciones lógicas de causa y consecuencia.",
+            "Promover la deducción del significado de una expresión a partir del contexto.",
+            "Promover la formulación de anticipaciones sobre las motivaciones de los personajes."
+          ],
+          "respuesta": "Promover la deducción del significado de una expresión a partir del contexto.",
+          "respuestaCorta": "La estrategia del docente se centra en que los estudiantes utilicen las pistas narrativas que rodean a la palabra desconocida para inferir su significado.",
+          "solucionario": "El propósito del docente es desarrollar en los estudiantes la habilidad de inferir el significado de palabras o expresiones desconocidas a través del análisis del contexto. Al pedirles que ubiquen la frase y describan la situación (el enojo del dueño, los latigazos posteriores), el docente los guía para que deduzcan que 'zurrar' significa golpear o castigar físicamente. Esta es una estrategia fundamental para la comprensión lectora autónoma.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Para contribuir a la comprensión del cuento, el docente plantea varias preguntas a los estudiantes. ¿Cuál de las siguientes preguntas se centra en que obtengan información explícita?",
+          "opciones": [
+            "¿Qué características de la Luna hicieron que el zorro la confunda con un queso?",
+            "¿Cuál es el motivo por el que el zorro se convenció de detener la roca?",
+            "¿Por qué razón el dueño de la chacra le dio latigazos al zorro?"
+          ],
+          "respuesta": "¿Cuál es el motivo por el que el zorro se convenció de detener la roca?",
+          "respuestaCorta": "La respuesta a esta pregunta está escrita de forma literal en el texto: 'la cara de asustado del cuy terminó por convencerlo'.",
+          "solucionario": "Una pregunta por información explícita requiere localizar un dato que está literalmente en el texto. En este caso, la razón por la que el zorro se convence está directamente mencionada: \"Al comienzo, el zorro dudó, pero la cara de asustado del cuy terminó por convencerlo\". La opción 'a' requiere inferir características (forma redonda, color blanco) y la opción 'c' requiere conectar la ira del dueño con el castigo, lo que también implica una pequeña inferencia.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Los estudiantes, en plenaria, están conversando sobre los personajes del cuento. Tres estudiantes comparten sus ideas con el resto de la clase. ¿Cuál de sus comentarios se ajusta más a una interpretación del sentido global del texto?",
+          "opciones": [
+            "\"Me gustó mucho la parte en la que el zorro se quedó sosteniendo una roca por dos días. Pienso que estaba dispuesto a arriesgar su vida para salvar al mundo\".",
+            "\"Creo que es muy exagerado que el cuy sea tan mentiroso y que el zorro se crea todo tan fácil. Me parece que eso es para hacer que el cuento sea divertido\".",
+            "\"Fue extraño que el dueño de la chacra haya dejado amarrado al cuy hasta el día siguiente sin vigilarlo. Era obvio que el cuy iba a ver la manera de escaparse\"."
+          ],
+          "respuesta": "\"Creo que es muy exagerado que el cuy sea tan mentiroso y que el zorro se crea todo tan fácil. Me parece que eso es para hacer que el cuento sea divertido\".",
+          "respuestaCorta": "Este comentario interpreta correctamente que la exageración en los rasgos arquetípicos de los personajes (astucia vs. ingenuidad) es un recurso intencional para generar el efecto humorístico del cuento.",
+          "solucionario": "El sentido global de este tipo de cuentos populares radica en su tono humorístico, logrado a través de la hipérbole y la caracterización de personajes arquetípicos (el astuto y el ingenuo). El comentario 'b' demuestra una comprensión de este mecanismo al identificar la exageración como un recurso para generar diversión. El comentario 'a' malinterpreta la motivación del zorro, mientras que el 'c' se centra en una crítica a la verosimilitud de un detalle de la trama, sin captar el propósito general del relato.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "En otro momento de la actividad de lectura, el docente busca que los estudiantes deduzcan información implícita del cuento. ¿Cuál de las siguientes preguntas es adecuada para ello?",
+          "opciones": [
+            "¿Con qué finalidad el dueño de la chacra puso una trampa?",
+            "¿Cómo se sintió el cuy cuando dejó caer al zorro al fondo del pozo?",
+            "¿Por qué, en la chacra de alfalfa, el zorro se puso en el lugar del cuy?"
+          ],
+          "respuesta": "",
+          "respuestaCorta": "El solucionario oficial no asigna una clave de respuesta para esta pregunta.",
+          "solucionario": "No se proporciona una respuesta correcta para esta pregunta en el solucionario oficial, lo que indica que pudo haber sido anulada, posiblemente debido a que todas las opciones podrían considerarse de comprensión explícita o la pregunta estaba formulada de manera ambigua.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "El docente y los estudiantes están conversando sobre los aspectos del cuento que llamaron su atención. En este contexto, el docente les pide que indiquen cuál es el conflicto principal del cuento. ¿Qué estudiante identifica dicho conflicto?",
+          "opciones": [
+            "Alberto dice: \"Creo que el conflicto principal es que el dueño de la chacra puso una trampa para atrapar a quien comía sus alfalfas\".",
+            "Beatriz dice: \"A mí me parece que el conflicto principal está en que el zorro creía que la Tierra iba a ser aplastada por una roca\".",
+            "Camilo dice: \"El conflicto principal es que el cuy quiere librarse de la venganza del zorro, que se sintió engañado\"."
+          ],
+          "respuesta": "Camilo dice: \"El conflicto principal es que el cuy quiere librarse de la venganza del zorro, que se sintió engañado\".",
+          "respuestaCorta": "Este comentario identifica correctamente el motor de la trama: la persecución del zorro para vengarse y los constantes engaños del cuy para sobrevivir.",
+          "solucionario": "El conflicto principal es el problema central que impulsa la mayoría de las acciones de la historia. Aunque la captura del cuy por parte del dueño es el evento que inicia la trama (opción a), el nudo o desarrollo principal se centra en la persecución del zorro para vengarse del cuy. Cada uno de los engaños posteriores del cuy es una consecuencia directa de este conflicto. Por lo tanto, la lucha entre la venganza del zorro y la astucia del cuy es el conflicto principal.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "El docente busca orientar a los estudiantes en la construcción de interpretaciones del sentido global del cuento. ¿Cuál de las siguientes preguntas es más adecuada para ello?",
+          "opciones": [
+            "¿Ustedes creen que este relato tiene como finalidad dar un mensaje a los lectores? ¿Por qué?",
+            "¿Qué opinan sobre la actitud del dueño de la chacra luego de su charla con el zorro? Expliquen.",
+            "A partir del relato, ¿en qué lugar del Perú imaginan que se desarrolla la historia del zorro y del cuy?"
+          ],
+          "respuesta": "¿Ustedes creen que este relato tiene como finalidad dar un mensaje a los lectores? ¿Por qué?",
+          "respuestaCorta": "Esta pregunta lleva a los estudiantes a considerar el propósito del texto y a buscar una moraleja, lo cual es fundamental para interpretar el sentido global de una fábula o cuento popular.",
+          "solucionario": "Para interpretar el sentido global, los estudiantes deben ir más allá de los hechos narrados y reflexionar sobre el propósito o mensaje del texto. La pregunta 'a' los dirige explícitamente a esta reflexión al preguntar por la finalidad y el mensaje del relato, lo que los lleva a discutir la moraleja (por ejemplo, 'la astucia vence a la fuerza'). Las otras preguntas se enfocan en aspectos más secundarios, como la opinión sobre un personaje (opción b) o la ambientación (opción c).",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    
+    {
+      "idGrupo": "asc_secundaria_2021_p09",
+      "contexto": "En el taller de lectura y escritura literaria, los estudiantes de primer grado, acompañados por el docente, están leyendo cuentos andinos. En este contexto, el docente les presentó el siguiente cuento:\n\nHabía una vez un cuy que se comía todas las plantas de una chacra de alfalfa. El dueño quería saber quién destrozaba sus plantas y, con este objetivo, puso una trampa. Por fin, a medianoche, el cuy quedó atrapado. Para que no escape, el dueño lo amarró con una soga y regresó a su casa con la idea de que comería cuy frito al día siguiente. Durante la madrugada, el cuy se la pasó mordiendo la soga inútilmente.\nFue entonces que un zorro que pasaba por allí lo encontró.\n- Compadre -le dijo el zorro al cuy-, ¿qué has hecho para que te tengan así?\n- ¡Ay, compadre! El dueño de esta chacra quiere que me case con su hija. También quiere que coma carne de gallina todos los días-mintió el cuy-. Pero... ¡A ti sí te gusta la carne de gallina! -exclamó haciéndose el inocente-.\n- A veces -le dijo el zorro haciéndose el inocente también-.\n- ¿Por qué, entonces, no me desatas y te pones en mi lugar? Así, te casarás con una bella joven y comerás carne de gallina todos los días -aseguró el cuy-.\n- Te haré ese favor, compadre -le dijo el zorro-.\nA la mañana siguiente, el dueño de la chacra encontró al zorro en lugar del cuy.\n- ¡Desgraciado! ¡Anoche eras cuy y ahora eres zorro! Te voy a zurrar -le dijo dándole latigazos-.\nEn una tregua del latigueo, el zorro le contó al dueño de la chacra las mentiras del cuy. El dueño soltó una estruendosa risotada y, por compasión, lo soltó.\nDesde ese momento, el zorro buscó incansablemente al cuy para vengarse.\nUn día, lo vio ingresar a una cueva. El zorro corrió hacia ella y el cuy, viendo que era imposible huir, empezó a fingir que detenía una enorme roca con el cuerpo. El zorro se le acercó sigilosamente y el cuy le dijo:\n- ¡Compadre zorro, qué bueno que hayas venido! Tienes que ayudarme a detener esta roca. La tierra se va a voltear y esta roca puede aplastarnos a todos.\nAl comienzo, el zorro dudó, pero la cara de asustado del cuy terminó por convencerlo. Empezó a detener la roca con todas sus fuerzas. Después, el cuy le dijo:\n- Compadre, mientras tú sostienes la roca, voy a buscar un palo grande que sirva de apoyo.\nPasaron dos días y el cuy no regresaba. El zorro estaba débil y hambriento.\n- Soltaré la roca, aunque me mate -pensó-. Dio un salto hacia atrás, pero la roca ni se movió.\n- ¡Otra vez me engañó! -dijo y salió furioso de la cueva-.\nNuevamente, el zorro buscó al cuy día y noche, hasta que lo encontró al borde de un pozo de agua. El cuy, al verlo, fingió que lloriqueaba.\n- ¡Qué mala suerte tienes, compadre! Yo te estaba llevando un queso grande como regalo por ayudarme, pero se me cayó al pozo -le dijo el cuy-.\nEl zorro se asomó al pozo y vio en el fondo el reflejo redondo de la Luna.\n- Ese es el queso, compadre -le dijo el cuy-.\n- Tenemos que sacarlo. El queso es delicioso -le dijo el zorro-.\n- ¡Ah, ya sé! -replicó el cuy-. Usted entra de cabeza y yo lo sujeto de sus patas hasta que lo alcance.\nEl zorro aceptó y estuvieron así por un buen rato, hasta que el cuy decidió soltar al zorro, que cayó al fondo del pozo. Luego, el cuy, sintiéndose aliviado, pensó: \"Por fin, el zorro ya no buscará vengarse de mí\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "El docente busca que los estudiantes profundicen en las interpretaciones sobre el sentido global del relato. ¿Cuál de las siguientes acciones es más adecuada para ello?",
+          "opciones": [
+            "Comentar a los estudiantes que, en el relato, se cuestionan algunos estereotipos sociales. Luego, solicitar que seleccionen los pasajes que dan cuenta de estos cuestionamientos y expliquen por qué los eligieron.",
+            "Proponer a los estudiantes buscar las expresiones coloquiales utilizadas en el relato. Luego, solicitar que expliquen a qué se refieren dichas expresiones de acuerdo con el contexto en el que aparecen.",
+            "Identificar junto con los estudiantes las principales acciones que ocurren a lo largo del relato. Luego, solicitar que subrayen aquellas acciones que representan el inicio, el nudo y el desenlace de la historia."
+          ],
+          "respuesta": "Comentar a los estudiantes que, en el relato, se cuestionan algunos estereotipos sociales. Luego, solicitar que seleccionen los pasajes que dan cuenta de estos cuestionamientos y expliquen por qué los eligieron.",
+          "respuestaCorta": "Esta acción eleva la interpretación a un nivel superior, invitando a los estudiantes a conectar el cuento con temas sociales más amplios, como el cuestionamiento del estereotipo de que el más grande siempre vence al más pequeño.",
+          "solucionario": "Profundizar en la interpretación del sentido global significa ir más allá de la moraleja evidente y explorar temas más complejos. La opción 'a' promueve esto al sugerir una lectura del cuento como una subversión de estereotipos sociales (la astucia del pequeño triunfa sobre la fuerza del grande). Esta perspectiva fomenta una reflexión más profunda y crítica. Las opciones 'b' (léxico) y 'c' (estructura) se enfocan en análisis más técnicos que no necesariamente profundizan en la interpretación temática.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Algunos estudiantes comentan que no les gustó cómo termina la historia del zorro y el cuy. Por esta razón, el docente les propone que cambien el final del cuento. La consigna es que lo reescriban sin agregar nuevos personajes, que usen el mismo tipo de narrador y que mantengan el orden cronológico (lineal) de la historia. A continuación, se presenta el final reescrito por una de las estudiantes:\n\nAl salir del pozo, busqué al cuy por todas partes. Luego de varios días, regresé a la casa del dueño de la chacra. Cuando llegué, estaba desayunando con su hija y me invitó a acompañarlos. Los tres conversamos toda la mañana sobre cómo el cuy me había engañado. Esa mañana, el dueño me propuso cuidar su chacra, pero con la condición de que no me coma las gallinas. Cuando me lo dijo, pude notar su preocupación. Temía que alguien robe sus animales y, por esa razón, acepté. Desde ese día, como empecé a sentirme cómodo viviendo con ellos, decidí abandonar la idea de vengarme del cuy.\n\n¿Por qué el escrito de la estudiante NO cumple con la consigna propuesta?",
+          "opciones": [
+            "Porque modificó la secuencia cronológica del cuento.",
+            "Porque incluyó personajes nuevos en la historia.",
+            "Porque usó un tipo de narrador diferente."
+          ],
+          "respuesta": "Porque usó un tipo de narrador diferente.",
+          "respuestaCorta": "La estudiante no cumplió la consigna porque cambió el tipo de narrador de tercera persona (omnisciente) a primera persona (el zorro como protagonista que narra su propia historia).",
+          "solucionario": "La consigna indicaba explícitamente que se debía mantener el mismo tipo de narrador del cuento original. El texto original utiliza un narrador en tercera persona (\"Había una vez un cuy...\"). El texto de la estudiante, en cambio, está escrito desde una perspectiva de primera persona, con el zorro como narrador-protagonista (\"busqué\", \"regresé\", \"me invitó\"). Este cambio en el punto de vista narrativo incumple una de las condiciones clave de la tarea.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p10",
+      "contexto": "Los estudiantes de segundo grado han notado que los pocos espacios públicos que hay en la comunidad están abandonados. Por ello, orientados por el docente, van a escribir cartas a la municipalidad para solicitar la recuperación de estos espacios.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "El docente acompaña a los estudiantes en la planificación de sus cartas. En este contexto, uno de los estudiantes le comenta lo siguiente:\n\n\"Profe, para conocer mejor el tema, tuve que revisar varias fuentes y algunas fueron difíciles de entender. Eh... en las fuentes, subrayé las ideas que me parecieron importantes e hice algunas anotaciones para elaborar un diagrama de llaves, que me ayudó a organizar mis ideas. Eh... yo quiero dar a conocer la utilidad de los espacios públicos para los niños. Eh... ahora sé que estos espacios son bien importantes para hacer deporte, por ejemplo. Lo que no sé aún es con qué ideas cerrar la carta\".\n\n¿Qué proceso de aprendizaje se evidencia en el comentario del estudiante?",
+          "opciones": [
+            "La metacognición para la planificación de textos.",
+            "La transferencia de aprendizaje sobre la planificación de textos.",
+            "La generación de conflicto cognitivo acerca de la planificación de textos."
+          ],
+          "respuesta": "La metacognición para la planificación de textos.",
+          "respuestaCorta": "El estudiante demuestra metacognición al ser consciente de su propio proceso de aprendizaje: describe las estrategias que usó, evalúa su comprensión y reconoce sus dificultades.",
+          "solucionario": "La metacognición es la habilidad de reflexionar sobre los propios procesos de pensamiento. El estudiante demuestra esto al describir las estrategias que empleó (revisar fuentes, subrayar, hacer diagramas), al ser consciente de su propósito y de lo que ha aprendido, y al identificar sus propias limitaciones o dudas (\"Lo que no sé aún es con qué ideas cerrar la carta\"). Esta autoobservación y autorregulación de su proceso de escritura es un claro ejemplo de metacognición en acción.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Tres estudiantes están dialogando sobre el proceso que han seguido para la búsqueda de información sobre los espacios públicos. ¿Qué estudiante plantea un uso menos adecuado de las fuentes de información?",
+          "opciones": [
+            "Adelaida dice: \"Yo preferí no utilizar demasiadas fuentes. Si no, voy a terminar diciendo lo que otros opinan. Para que mi carta sea propia, debo colocar solo lo que yo creo\".",
+            "Bruno dice: \"Solo me dediqué a buscar fuentes sobre canchas deportivas. Ahora, pienso que debería tener información de más espacios públicos para ser más convincente\".",
+            "Carla dice: \"Al inicio, recopilé varias fuentes porque pensé que todas servían. Pero, conversando con ustedes, me doy cuenta de que muchas de estas fuentes no son útiles\"."
+          ],
+          "respuesta": "Adelaida dice: \"Yo preferí no utilizar demasiadas fuentes. Si no, voy a terminar diciendo lo que otros opinan. Para que mi carta sea propia, debo colocar solo lo que yo creo\".",
+          "respuestaCorta": "Adelaida muestra una concepción errónea al despreciar las fuentes de información y creer que un texto argumentativo debe basarse únicamente en la opinión personal, lo cual le resta fundamento y credibilidad.",
+          "solucionario": "El uso adecuado de fuentes es crucial para la escritura de textos argumentativos, ya que proporcionan evidencia y solidez a las ideas. Adelaida plantea un uso inadecuado al rechazar las fuentes para basarse exclusivamente en su opinión personal. Esto debilita su argumento. En cambio, Bruno y Carla demuestran procesos de reflexión adecuados: Bruno reconoce la necesidad de ampliar sus fuentes para ser más convincente, y Carla evalúa la pertinencia de las fuentes que ha recopilado.",
+          "seccion": "Casuística"
+        },
+        {
+          "contexto": "Como parte de la planificación, un estudiante elaboró un esquema de ideas para escribir su carta. Dicho estudiante le ha pedido al docente que lo ayude con la revisión del esquema. ",
+          "imagen": "img/ascenso/secundaria/2021/comunicacion/2.jpg",
+          "pregunta": "El docente busca que el estudiante mejore por sí mismo el cuerpo de su esquema, de modo que la información que escriba le permita lograr su propósito. ¿Cuál de las siguientes acciones pedagógicas es más adecuada para ello?",
+          "opciones": [
+            "Solicitar al estudiante que explique qué información desarrollará con las dos primeras ideas del cuerpo de su esquema. Luego, indicar que puede incluir estas ideas en la presentación, de modo que ayuden a problematizar el tema de su carta.",
+            "Preguntar al estudiante qué mensaje quiere comunicar con su carta. Luego, pedir que explique si las dos ideas iniciales del cuerpo, tal como están, podrían contribuir a que el lector identifique por qué se deben recuperar los espacios públicos.",
+            "Indicar al estudiante que la tercera idea del cuerpo del esquema es apropiada para lograr su propósito y que las dos primeras no abordan la importancia de los espacios públicos. Luego, sugerir que prescinda de estas dos ideas al escribir su carta."
+          ],
+          "respuesta": "Preguntar al estudiante qué mensaje quiere comunicar con su carta. Luego, pedir que explique si las dos ideas iniciales del cuerpo, tal como están, podrían contribuir a que el lector identifique por qué se deben recuperar los espacios públicos.",
+          "respuestaCorta": "Esta opción es la más adecuada, pues utiliza preguntas para guiar al estudiante a que él mismo descubra la incoherencia entre su propósito (recuperar espacios) y las ideas de su esquema (eliminarlos).",
+          "solucionario": "La retroalimentación más efectiva es la que fomenta la autorreflexión. La opción 'b' logra esto mediante preguntas que invitan al estudiante a contrastar su propósito con las ideas de su esquema. De esta manera, es el propio estudiante quien puede concluir que 'Espacio para más casas' y 'Instalación de más mercados' son ideas contradictorias a su objetivo. Las otras opciones son más directivas, ya que el docente le da indicaciones (opción a) o le señala el error directamente (opción c).",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "El docente les solicita a los estudiantes que lean un fragmento extraído de una de sus cartas y mencionen qué función cumplen los dos puntos.\nA continuación, se presenta dicho fragmento:\n\nLos espacios públicos son importantes porque contribuyen a la convivencia entre los ciudadanos de diversas maneras: estimulan que las personas pasemos tiempo juntas, favorecen que compartamos espontáneamente nuestras experiencias o motivan que realicemos actividades recreativas.\n\nTres estudiantes deciden intervenir. ¿Qué estudiante identifica la función de los dos puntos en la oración presentada?",
+          "opciones": [
+            "Andrea dice: \"Me parece que los dos puntos se han utilizado para dar ejemplos que ilustren la idea anterior\".",
+            "Brunela dice: \"Pienso que los dos puntos sirven para anunciar que lo que sigue es una consecuencia de la oración anterior\".",
+            "Carmen dice: \"Creo que los dos puntos indican que la información que viene es la misma que la anterior, pero dicha en otras palabras\"."
+          ],
+          "respuesta": "Andrea dice: \"Me parece que los dos puntos se han utilizado para dar ejemplos que ilustren la idea anterior\".",
+          "respuestaCorta": "Andrea está en lo correcto, ya que los dos puntos introducen una enumeración de ejemplos que concretan la afirmación general 'de diversas maneras'.",
+          "solucionario": "En gramática, uno de los usos de los dos puntos es introducir una enumeración con valor explicativo o ejemplificador. En el fragmento, la oración principal afirma que los espacios públicos contribuyen a la convivencia 'de diversas maneras'. Lo que sigue a los dos puntos es una lista de ejemplos de esas maneras. Por lo tanto, la función es la de ejemplificar, tal como lo identifica correctamente Andrea.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "En plenaria, el docente les propone a los estudiantes revisar juntos las cartas que han escrito. En este contexto, una estudiante lee el siguiente fragmento de su carta:\n\nLos espacios públicos sirven para que todos los adolescentes se recreen y se distraigan. Por ejemplo, en estos espacios, pueden organizarse actividades deportivas y artísticas para ellos. De nada serviría una cancha y un parque grande si los adolescentes no los usan. En realidad, quizá no solo ellos, los adultos también deben aprovechar los espacios públicos.\n\nEl docente pregunta por la función que cumple el conector \"en realidad\" en el fragmento. Tres estudiantes ofrecen sus respuestas. ¿Qué estudiante identifica la función de dicho conector?",
+          "opciones": [
+            "Anel dice: \"Yo pienso que ese conector se ha utilizado para expresar de manera más simple la información ofrecida en la idea anterior\".",
+            "Brenda dice: \"Creo que ese conector se ha usado para presentar una idea que le da más peso a lo que se dice en las oraciones anteriores\".",
+            "Carolina dice: \"A mí me parece que ese conector ha sido empleado para indicar que lo que sigue es una conclusión de la información anterior\"."
+          ],
+          "respuesta": "Brenda dice: \"Creo que ese conector se ha usado para presentar una idea que le da más peso a lo que se dice en las oraciones anteriores\".",
+          "respuestaCorta": "Brenda identifica correctamente que 'en realidad' se usa como un reformulador que matiza o corrige la idea anterior, ampliando el foco (no solo adolescentes, también adultos) y reforzando así el argumento.",
+          "solucionario": "El conector 'en realidad' es un reformulador de distanciamiento. Se utiliza para introducir una corrección o matización a lo que se acaba de decir, presentando un punto de vista que se considera más cierto o de mayor peso argumentativo. En el texto, la autora amplía la idea de que los espacios son para adolescentes para incluir a los adultos, lo que refuerza su argumento general. Brenda capta esta función de refuerzo y precisión.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p11",
+      "contexto": "Los estudiantes de cuarto grado están desarrollando un proyecto cuyo propósito es concientizar a la comunidad educativa sobre las consecuencias de la discriminación. En este contexto, la docente les ha propuesto recopilar textos sobre el tema. Este es uno de los textos que un estudiante ha compartido con sus compañeros:\n\n¿Es posible que una película abra un debate sobre la discriminación que padecen las comunidades indígenas? ¿O que permita reflexionar sobre los derechos laborales de, por ejemplo, las trabajadoras del hogar? Cuando se estrenó Roma, película en la que actué en 2018, estos y otros temas empezaron a visibilizarse en mi país, México, y en el resto de Latinoamérica.\nRoma muestra que, en la sociedad mexicana, se discrimina a muchas personas por su color de piel, etnia, orientación sexual o clase social. Aunque en México casi no se habla de esto, la discriminación es muy real. Según una encuesta de 2017, la mayoría de indígenas considera que aquí se respeta poco o nada los derechos de sus comunidades. Yo he experimentado esa discriminación en carne propia al ver que algunas personas, después de mi nominación al Óscar por interpretar al personaje Cleo (en la película, es una joven indígena trabajadora del hogar), comentaron en redes sociales y en el mundo del espectáculo que una indígena no era una representante \"digna\" del país. Esto fue difícil de sobrellevar, pero, a la vez, me permitió ser consciente de muchas cosas.\nMe di cuenta de que Roma se convirtió en una herramienta poderosa para dar visibilidad a las comunidades indígenas. Generó que la sociedad reflexionara sobre la discriminación y allanó el camino para que, por ejemplo, el Congreso mexicano aprobara otorgar derechos laborales (contrato con seguro social, vacaciones, aguinaldo y días de descanso) a dos millones de trabajadoras del hogar.\nGracias a mi personaje en Roma, pude identificar que existían varias formas de luchar y todas tienen a la equidad como objetivo ulterior. ¿Acaso las personas no debemos ser tratadas con respeto? ¿No merecemos todas las mismas oportunidades? No es justo que seamos juzgadas por nuestra apariencia y que seamos encasilladas en ciertos roles, y, sobre todo, que nos limitemos nosotras mismas por lo que vemos, leemos o escuchamos.\nHoy en día, creo que, a través de Cleo, a través del cine y del arte, muchas personas han encontrado la forma de ser escuchadas, de ser vistas, de ser valoradas. Es el primer paso para que todos nos sumemos a la lucha por los derechos de vivir en un mundo más diverso e inclusivo. Esa, ni más ni menos, es la importancia del arte.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Para contribuir a la comprensión del texto, la docente plantea varias preguntas a los estudiantes. ¿Cuál de las siguientes preguntas se centra en que obtengan información explícita?",
+          "opciones": [
+            "¿Por qué la película Roma les dio visibilidad a las comunidades indígenas?",
+            "¿Qué hecho provocó que la autora viviera la discriminación en carne propia?",
+            "¿Qué títulos podrían proponer para englobar el tema principal tratado en el texto?"
+          ],
+          "respuesta": "¿Qué hecho provocó que la autora viviera la discriminación en carne propia?",
+          "respuestaCorta": "La respuesta a esta pregunta está de forma literal en el texto: los comentarios negativos que recibió en redes sociales tras su nominación al Óscar.",
+          "solucionario": "Una pregunta de información explícita es aquella cuya respuesta se encuentra textualmente en el texto. En este caso, el texto dice claramente que la autora experimentó la discriminación \"al ver que algunas personas, después de mi nominación al Óscar [...] comentaron en redes sociales... que una indígena no era una representante 'digna' del país\". Las otras opciones requieren inferir (opción a) o sintetizar (opción c).",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "En otro momento de la actividad de lectura, la docente busca que los estudiantes deduzcan información implícita del texto. ¿Cuál de las siguientes preguntas es adecuada para ello?",
+          "opciones": [
+            "En el texto, ¿qué quiere decir la autora cuando afirma que el objetivo ulterior del arte es la equidad?",
+            "En el segundo párrafo del texto, la autora menciona que la \"discriminación es muy real\". ¿Comparten esta idea?",
+            "Según el texto, el Congreso mexicano otorgó beneficios laborales a las trabajadoras del hogar. ¿Cuáles fueron estos beneficios?"
+          ],
+          "respuesta": "En el texto, ¿qué quiere decir la autora cuando afirma que el objetivo ulterior del arte es la equidad?",
+          "respuestaCorta": "Esta pregunta requiere que los estudiantes interpreten una afirmación abstracta basándose en el conjunto de ideas del texto, lo cual es un proceso de deducción de información implícita.",
+          "solucionario": "La información implícita es aquella que no está dicha literalmente, sino que debe ser inferida. La frase \"el objetivo ulterior del arte es la equidad\" es una afirmación general y abstracta. Para comprender su significado en este contexto, el lector debe deducir, a partir de los ejemplos de la película Roma, que el arte puede ser una herramienta para buscar la justicia y la igualdad. La opción 'b' pide una opinión y la 'c' solicita información explícita.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Tres estudiantes están conversando sobre las ideas del texto que llamaron su atención. ¿Cuál de sus comentarios se ajusta al propósito principal del texto?",
+          "opciones": [
+            "\"Según la autora, una forma de luchar contra la discriminación es hacer películas que tengan personajes que representen a las diversas comunidades indígenas\".",
+            "\"La película Roma generó un cambio en la sociedad mexicana. Por ejemplo, la autora dice que, mediante una ley, se benefició a muchas trabajadoras del hogar\".",
+            "\"La autora quiere que sepamos que el arte nos permite darnos cuenta de la existencia de algunos problemas que nos afectan a todos y que debemos afrontar\"."
+          ],
+          "respuesta": "\"La autora quiere que sepamos que el arte nos permite darnos cuenta de la existencia de algunos problemas que nos afectan a todos y que debemos afrontar\".",
+          "respuestaCorta": "Este comentario resume la tesis central del artículo: el poder del arte como vehículo para generar conciencia social y promover la lucha por un mundo más justo e inclusivo.",
+          "solucionario": "El propósito principal o tesis del texto es la idea que engloba a todas las demás. El texto utiliza el ejemplo de la película Roma para argumentar una idea más general sobre la función social del arte. El comentario 'c' capta esta idea general de forma precisa. Los comentarios 'a' y 'b', si bien son correctos, se refieren a ideas secundarias o ejemplos específicos que se usan para sostener la tesis principal, pero no son la tesis en sí misma.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "La docente busca que los estudiantes reflexionen sobre los aspectos formales del texto. ¿Cuál de las siguientes acciones es adecuada para ello?",
+          "opciones": [
+            "Pedir que expliquen la intención de la autora al incluir preguntas en el primer y el cuarto párrafo del texto.",
+            "Pedir que propongan algunas razones por las que recomendarían leer este texto a las personas de su entorno.",
+            "Pedir que realicen un mapa mental con aquellos hechos del texto en los que se evidencie algún acto discriminatorio."
+          ],
+          "respuesta": "Pedir que expliquen la intención de la autora al incluir preguntas en el primer y el cuarto párrafo del texto.",
+          "respuestaCorta": "Esta acción se centra en el análisis de un recurso retórico (las preguntas retóricas) utilizado por la autora para estructurar su texto y captar la atención del lector, lo cual es un aspecto formal.",
+          "solucionario": "La reflexión sobre aspectos formales implica analizar cómo está construido el texto, es decir, los recursos lingüísticos y estructurales que emplea el autor. La acción 'a' se enfoca precisamente en esto, al pedir que se analice la función de las preguntas retóricas como un elemento estilístico para introducir el tema e interpelar al lector. Las otras opciones se centran en la opinión sobre el contenido (opción b) o en la organización de la información del contenido (opción c).",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p12",
+      "contexto": "En una IE, se está realizando una campaña para ayudar a un albergue local de perros y gatos. En este contexto, los estudiantes de tercer grado, orientados por la docente y organizados en equipos, van a elaborar exposiciones orales con el propósito de solicitar donaciones dentro de la escuela.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Los estudiantes conversan sobre la información que deben presentar para persuadir al público y recaudar más donaciones. Tres estudiantes comparten sus ideas con el resto de sus compañeros. ¿Cuál de los siguientes comentarios presenta una postura y un argumento?",
+          "opciones": [
+            "\"Voy a buscar información sobre las enfermedades que tienen los animales del albergue. Hay que explicar eso para conocer bien la situación\".",
+            "\"Yo pienso que, más que nada, los animales necesitan comida y ropa, y atención médica. Si no los ayudamos, no podrán sobrevivir\".",
+            "\"Me gustaría contar la historia de mi perro Alco. Recuerdo que, cuando lo adoptamos, estaba mal, pero vivió mucho tiempo\"."
+          ],
+          "respuesta": "\"Yo pienso que, más que nada, los animales necesitan comida y ropa, y atención médica. Si no los ayudamos, no podrán sobrevivir\".",
+          "respuestaCorta": "Este comentario contiene una postura clara ('los animales necesitan ayuda') y la respalda con un argumento de consecuencia ('si no, no podrán sobrevivir'), que busca persuadir.",
+          "solucionario": "Un enunciado argumentativo se compone de una tesis (postura) y al menos un argumento (razón que la sostiene). El comentario 'b' presenta claramente una postura (\"los animales necesitan comida y ropa, y atención médica\") y la fundamenta con un argumento que apela a las consecuencias (\"Si no los ayudamos, no podrán sobrevivir\"). El comentario 'a' describe una acción a realizar, mientras que el 'c' propone usar un recurso emotivo (una anécdota), pero ninguno de los dos está estructurado como una tesis con su respectivo argumento.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+   
+    {
+      "idGrupo": "asc_secundaria_2021_p12",
+      "contexto": "En una IE, se está realizando una campaña para ayudar a un albergue local de perros y gatos. En este contexto, los estudiantes de tercer grado, orientados por la docente y organizados en equipos, van a elaborar exposiciones orales con el propósito de solicitar donaciones dentro de la escuela.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Como parte del acompañamiento a los estudiantes, la docente les propone realizar diversas acciones para la producción de sus textos orales. ¿Cuál de las siguientes acciones promueve la planificación de dichos textos?",
+          "opciones": [
+            "Solicitar que, al pedir las donaciones, modulen sus tonos de voz para dirigirse a la audiencia.",
+            "Pedir que, entre pares, ensayen sus exposiciones e intercambien sugerencias para mejorarlas.",
+            "Indicar que busquen información especializada sobre los cuidados que se debe brindar a los animales."
+          ],
+          "respuesta": "Indicar que busquen información especializada sobre los cuidados que se debe brindar a los animales.",
+          "respuestaCorta": "La búsqueda de información es una actividad fundamental de la etapa de planificación, ya que es el paso previo para definir y estructurar el contenido del discurso.",
+          "solucionario": "El proceso de producción de un texto oral consta de tres fases: planificación, textualización (ejecución) y revisión. La planificación abarca la definición del propósito, el público y la búsqueda y organización de la información. Por tanto, buscar información (opción c) es una acción de planificación. Modular la voz (opción a) corresponde a la textualización, y ensayar entre pares (opción b) forma parte de la fase de revisión y práctica.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Un grupo de estudiantes ha invitado al aula al veterinario que colabora con el albergue para conocer qué cuidados necesitan los animales rescatados. Él está ofreciendo información sobre la alimentación de los animales, con el fin de orientar al grupo en el pedido de donaciones. A continuación, se presenta un fragmento de su exposición:\n\n\"Buenos días, chicos y chicas. Gracias por invitarme a su salón para tratar este tema. Eh... ayuda mucho que todos contribuyamos con algo, por poco que sea. Este... a ver... voy a hablar sobre la alimentación de los animales. Eh... suele pasar que algunas personas donan las sobras de su comida... por lo general, huesos. Pero... es mejor que los animales no los coman, pues los huesos pueden provocarles sofocamiento. Eh... por otra parte, sugiero que pidan bidones o botellas de agua porque los animales necesitan estar bien hidratados. Ahora, si alguien quiere donar comida, pueden ir al albergue a preguntar qué comida necesitan los animales. Esto es necesario porque su alimentación está en función de su estado de salud, edad, tamaño y peso. Este... no sé si tienen alguna pregunta o comentario...\".\n\nTres estudiantes deciden intervenir. ¿Cuál de los siguientes comentarios evidencia una reflexión sobre el contenido de la exposición del veterinario?",
+          "opciones": [
+            "\"A mí también me parece que, si todos ayudamos, los animales van a estar mejor. Pero no estoy muy segura de que sea una buena idea pedir agua\".",
+            "\"En el albergue, nos pueden dar información sobre la comida que necesitan los animales. Con ese dato, podemos pedir las donaciones\".",
+            "\"No sabía que debemos evitar darles huesos a los animales. Por lo que usted nos cuenta, los huesos pueden hacerles mucho daño\"."
+          ],
+          "respuesta": "\"A mí también me parece que, si todos ayudamos, los animales van a estar mejor. Pero no estoy muy segura de que sea una buena idea pedir agua\".",
+          "respuestaCorta": "Este comentario evidencia reflexión porque la estudiante evalúa la información recibida y emite un juicio crítico o una duda sobre una de las propuestas, en lugar de solo aceptarla o resumirla.",
+          "solucionario": "La reflexión sobre un texto oral implica ir más allá de la comprensión literal. Implica evaluar, cuestionar y formarse una opinión sobre el contenido. El comentario 'a' demuestra esta habilidad, ya que la estudiante sopesa la información y expresa una duda razonada (\"no estoy muy segura...\"). En cambio, el comentario 'b' es una conclusión práctica y el 'c' es una constatación de un nuevo aprendizaje; ambos demuestran comprensión, pero no una reflexión crítica sobre el contenido expuesto.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Un equipo de estudiantes ha elaborado su exposición dirigida a los docentes de la IE. Una de las integrantes del equipo está practicando su presentación con la docente. A continuación, se presenta la transcripción de un fragmento de su texto:\n\n\"Estimados profesores, eh... los estudiantes de tercero estamos participando en una campaña de donación de comida para perros y gatos. Eh... para donarla al albergue local, ya que esos animales no tienen suficiente comida y están de hambre. Este... como estamos haciendo una campaña para juntar comida para perros y gatos, hemos venido a solicitarles una donación de alimentos. Eh... entonces, este... para la campaña de recolección de alimentos para perros y gatos que estamos haciendo, nosotros, los alumnos de tercero, queremos pedirles que puedan donar alimentos...\".\n\nLa docente le pide a la estudiante que haga una pausa en su texto oral para ofrecerle una retroalimentación que la ayude a mejorar. ¿Cuál de los siguientes problemas de coherencia presenta dicho texto?",
+          "opciones": [
+            "La falta de unidad temática del texto oral.",
+            "La ausencia de progresión de ideas del texto oral.",
+            "Los vacíos de información para conocer el propósito del texto oral."
+          ],
+          "respuesta": "La ausencia de progresión de ideas del texto oral.",
+          "respuestaCorta": "El texto es redundante y no avanza, repitiendo la misma idea varias veces sin añadir nueva información, lo que evidencia una falta de progresión temática.",
+          "solucionario": "La progresión temática es una propiedad textual que consiste en el desarrollo gradual de la información. El fragmento presenta un estancamiento: la estudiante repite la misma idea (la solicitud de donaciones para una campaña) de diversas formas, pero no aporta información nueva, argumentos o detalles. El discurso da vueltas sobre sí mismo sin avanzar, lo cual constituye una clara ausencia de progresión de ideas.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "La docente busca que los estudiantes autoevalúen sus exposiciones. Para ello, ha elaborado una lista de cotejo con varias preguntas. ¿Cuál de las preguntas extraídas de dicha lista se centra en que identifiquen las secuencias argumentativas de sus exposiciones?",
+          "opciones": [
+            "¿Basé los argumentos de mi texto oral en fuentes de información confiables?",
+            "¿Usé argumentos para persuadir a la audiencia y dejar clara mi postura?",
+            "¿Organicé mis argumentos utilizando conectores de orden?"
+          ],
+          "respuesta": "¿Usé argumentos para persuadir a la audiencia y dejar clara mi postura?",
+          "respuestaCorta": "Esta pregunta apunta a los dos elementos esenciales de una secuencia argumentativa: la presentación de una postura (tesis) y el uso de argumentos para defenderla con un fin persuasivo.",
+          "solucionario": "Una secuencia argumentativa se define por la presencia de una tesis o postura y los argumentos que la sustentan con el objetivo de convencer a la audiencia. La pregunta 'b' es la que mejor aborda esta estructura fundamental, al consultar directamente sobre la existencia de una postura clara y el uso de argumentos para persuadir. Las otras opciones se centran en aspectos complementarios, como la calidad de las fuentes (opción a) o los mecanismos de cohesión (opción c), pero no en la identificación de la secuencia argumentativa en sí.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p13",
+      "contexto": "En el taller de lectura y escritura literaria, el docente pide a los estudiantes de quinto grado que seleccionen poemas y los compartan para comentarlos en clase. Este es uno de los poemas que una estudiante compartió con sus compañeros:\n\nSi me quitaran totalmente todo\n\nSi me quitaran totalmente todo\nsi, por ejemplo, me quitaran el saludo\nde los pájaros, o los buenos días\ndel sol sobre la tierra,\nme quedaría\naún\nuna palabra. Aún me quedaría una palabra\ndonde apoyar la voz.\nSi me quitaran las palabras\no la lengua,\nhablaría con el corazón\nen la mano,\no con las manos en el corazón.\nSi me quitaran una pierna\nbailaría en un pie.\nSi me quitaran un ojo\nlloraría en un ojo.\nSi me quitaran un brazo\nme quedaría el otro,\npara saludar a mis hermanos,\npara sembrar los surcos de la tierra,\npara escribir todas las playas del mundo, con tu nombre,\namor mío.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Los estudiantes están ofreciendo comentarios sobre los aspectos del poema que llamaron su atención. ¿Qué estudiante identifica un recurso literario que aporta al sentido global del poema?",
+          "opciones": [
+            "Anastasia dice: \"A mí me parece que el poeta habla de muchas cosas graves, como la pérdida de un brazo o de una pierna. A pesar de estas situaciones, él se mantiene optimista\".",
+            "Boris dice: \"Me gustó el verso 'para escribir todas las playas del mundo, con tu nombre'. Con esto, el poeta quiere decir que recordar a la persona amada lo ayudará a soportar sus problemas\".",
+            "Clorinda dice: \"Al leer 'totalmente todo' en el título, pensé que era redundante. Pero parece que se puso de ese modo para resaltar todas esas situaciones extremas que el poeta va mencionando\"."
+          ],
+          "respuesta": "Clorinda dice: \"Al leer 'totalmente todo' en el título, pensé que era redundante. Pero parece que se puso de ese modo para resaltar todas esas situaciones extremas que el poeta va mencionando\".",
+          "respuestaCorta": "Clorinda identifica un recurso de énfasis (el pleonasmo 'totalmente todo') y explica correctamente su función: intensificar la idea de pérdida total, que es clave para el sentido global de resiliencia del poema.",
+          "solucionario": "El comentario de Clorinda es el más acertado porque identifica un recurso literario específico (el énfasis o pleonasmo en el título) y lo relaciona directamente con el sentido global del poema. Esta redundancia intencionada establece el tono y la magnitud del desafío al que se enfrenta el yo poético, haciendo más potente el mensaje de superación. Anastasia describe el tema sin señalar un recurso, y Boris interpreta una hipérbole, pero su función es más específica dentro del final del poema.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Para contribuir a la comprensión del poema, el docente busca que los estudiantes construyan interpretaciones sobre su sentido global. ¿Cuál de las siguientes preguntas NO favorece el logro de este propósito?",
+          "opciones": [
+            "El poeta utiliza estas expresiones: \"hablaría con el corazón en la mano\" y \"[hablaría] con las manos en el corazón\". ¿Existe alguna diferencia entre ellas?",
+            "El poeta finaliza el poema dirigiéndose a un interlocutor con la expresión \"amor mío\". ¿Qué efecto produce en el lector que el poema finalice así?",
+            "A lo largo del poema, se utiliza de manera recurrente la expresión \"si me quitaran\". ¿Con qué intención el poeta utiliza dicha expresión?"
+          ],
+          "respuesta": "El poeta utiliza estas expresiones: \"hablaría con el corazón en la mano\" y \"[hablaría] con las manos en el corazón\". ¿Existe alguna diferencia entre ellas?",
+          "respuestaCorta": "Esta pregunta se centra en un análisis semántico muy detallado y específico de dos versos, lo que desvía la atención de la interpretación del mensaje general del poema.",
+          "solucionario": "Las preguntas 'b' y 'c' apuntan a elementos clave para la construcción del sentido global: el efecto del cierre del poema y la función de la anáfora (\"si me quitaran\"), que estructura todo el texto. En cambio, la pregunta 'a' se enfoca en una distinción sutil entre dos expresiones. Si bien es un análisis válido, es de un nivel de detalle que no contribuye de manera significativa a la interpretación del mensaje central de resiliencia y amor como fuerza vital.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p14",
+      "contexto": "Los estudiantes de segundo grado están participando en un proyecto que consiste en elaborar diversos textos, como infografías, biografías, entre otros, sobre su ascendencia familiar. Dichos textos serán compartidos con sus compañeros de clase.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Un estudiante elaborará una infografía sobre la migración de sus bisabuelos al Perú. Para recopilar información sobre su historia familiar, propuso algunas preguntas y le pidió a la docente que lo ayude con la revisión.\n\nLista de preguntas para saber sobre mis bisabuelos\nPregunta 1. ¿En qué trabajaban mis bisabuelos en su país de origen?\nPregunta 2. ¿En qué año llegaron a Perú y qué edades tenían?\nPregunta 3. ¿Aprendieron el castellano?\nPregunta 4. ¿Tenemos parientes en el país de mis bisabuelos para ir a visitarlos?\nPregunta 5. ¿Algunos de estos familiares tienen mi edad?\n\nLa docente nota que algunas preguntas propuestas por el estudiante no se ajustan al propósito de recopilar información sobre su ascendencia familiar. Por esa razón, busca ayudarlo a identificar este problema. ¿Cuál de las siguientes acciones pedagógicas es más adecuada para ello?",
+          "opciones": [
+            "Recomendar que no utilice las dos últimas preguntas, pues se alejan de su propósito. Después, solicitar que inicie la entrevista con las preguntas restantes y vaya añadiendo otras si cree que es necesario recopilar más información.",
+            "Pedir que explique en qué medida las dos últimas preguntas contribuirán al logro de su propósito. Sobre esta base, proponer que elabore otras preguntas, centrándose en recopilar información acerca de sus bisabuelos.",
+            "Solicitar que, teniendo en cuenta su propósito, comente por qué incluyó las dos últimas preguntas. Luego, indicar que plantee una sección adicional con la información que recogerá sobre sus otros parientes."
+          ],
+          "respuesta": "Pedir que explique en qué medida las dos últimas preguntas contribuirán al logro de su propósito. Sobre esta base, proponer que elabore otras preguntas, centrándose en recopilar información acerca de sus bisabuelos.",
+          "respuestaCorta": "Esta acción es la más adecuada porque, a través de una pregunta reflexiva, guía al estudiante para que él mismo evalúe la pertinencia de sus preguntas respecto a su objetivo y se autorregule.",
+          "solucionario": "La retroalimentación por descubrimiento es la estrategia pedagógica más efectiva en este caso. La opción 'b' la aplica al pedirle al estudiante que justifique sus preguntas en función de su propósito. Esto lo llevará a darse cuenta por sí mismo de que las dos últimas preguntas se desvían del tema central (la historia de sus bisabuelos). Las otras opciones son menos adecuadas porque son directivas: la 'a' le da la solución y la 'c' le gestiona el problema en lugar de que él lo resuelva.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Una de las estudiantes escribió la primera versión de la biografía de su abuelo y se la presentó a la docente para que la ayude con la revisión. Este es el texto de la estudiante:\n\nYo voy a contar la historia de mi abuelo Manuel. Mi abuelo vivia en Contumazá. Mi abuelo se fue hasta Trujillo porque quería buscar un futuro mejor. Mi abuelo tenía que trabajar en varios lugares para mantener a sus cinco hijos, o sea, mis tíos y mi papá. Confeccionar ropa, vender y distribuir ropa fue los trabajos de mi abuelo. Mi abuelo también vendia postres ricos. Todo lo hacía a la vez. Mi abuelo siempre tuvo que trabajar muy duro. Hasta hace poco viviamos con mi abuelo. Siempre me cuenta sus historias.\n\nLa docente busca que la estudiante identifique el problema principal de su texto. ¿Cuál de las siguientes preguntas es más adecuada para ello?",
+          "opción": [
+            "¿Sabes por qué tienen que llevar tilde palabras como \"tenía\" o \"quería\"? ¿En qué otras palabras de tu texto faltan este tipo de tildes?",
+            "¿Has notado que en casi todo el texto aparece la expresión \"mi abuelo\"? ¿Crees que podría reemplazarse por un pronombre u omitirse?",
+            "¿Todas las oraciones de tu texto tienen una concordancia adecuada? ¿Podrías revisar en cuál de las oraciones existe un error de concordancia?"
+          ],
+          "respuesta": "¿Has notado que en casi todo el texto aparece la expresión \"mi abuelo\"? ¿Crees que podría reemplazarse por un pronombre u omitirse?",
+          "respuestaCorta": "Esta pregunta es la más adecuada porque se enfoca en el problema más notorio del texto: la repetición excesiva del sujeto, que afecta la cohesión y fluidez de la escritura.",
+          "solucionario": "Si bien el texto tiene errores de tildación y concordancia, el problema principal que afecta su calidad es la falta de cohesión por la repetición constante de \"mi abuelo\". La pregunta 'b' es la más pertinente porque apunta directamente a este problema y, además, ofrece pistas para solucionarlo (uso de pronombres o elipsis). Abordar este aspecto es prioritario para mejorar la redacción del texto de manera significativa.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p15",
+      "contexto": "En el taller de lectura y escritura literaria, los estudiantes de tercer grado, acompañados por la docente, están leyendo cuentos de ciencia ficción. Este es uno de los cuentos que están leyendo:\n\nUno\n\nAl verse desplazado y olvidado en su trabajo, el viejo, colmado de celos, se propuso eliminar al joven empleado. Un día, lo encontró en un bar y se puso a beber con él. Lo notó un poco huidizo, pensó que le temía y, acusándolo de querer quedarse con su trabajo, intentó buscarle camorra. El joven, quien consideraba una estupidez los celos del viejo y no deseaba hacerle daño, se levantó con disimulo, pagó la cuenta y desapareció de aquel lugar.\nCaminó varias cuadras, pero no tardó en darse cuenta de que el otro lo perseguía. Entonces, decidió evadirlo enrumbándose hacia un edificio a medio levantar. En pocos segundos, el joven lo perdió de vista. Su perseguidor llegó al edificio. Observó la construcción y, tras un minucioso análisis, ingresó al edificio. El joven, oculto en un rincón, cometió el error de moverse. Tuvo tan mala fortuna que un ruido lo delató. Quiso correr, pero no encontró salida. El viejo, furioso, le cerró el paso.\nEl joven intentó hacerle comprender la estupidez de sus celos. Pero el otro se negaba a escucharlo, pues estaba invadido por la ira y la desconfianza. Al notar esto, al joven no le quedó más remedio que aceptar el desafío y le salió al frente.\nUnos minutos después, el joven cayó al suelo del edificio a medio construir. De inmediato, el viejo cogió una comba, la levantó y, sin compasión alguna, se la descargó una y otra vez, con toda la rabia que reflejaba un odio desmedido.\nUnos minutos después, el viejo huyó rápidamente porque se percató del sonido de una sirena policial.\nCuando se alejó, el joven se palpó la abolladura que le había hecho en la espalda y murmuró:\n- Tendré que ir mañana al taller para que me planchen.\nY sin agregar una palabra más, el joven robot se alejó lentamente.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Para contribuir a la compresión del relato, la docente busca que los estudiantes deduzcan información implícita. ¿Cuál de las siguientes preguntas es adecuada para ello?",
+          "opciones": [
+            "¿Qué decisión tomó el joven al darse cuenta de que el viejo lo perseguía?",
+            "¿Qué quería lograr el viejo al cerrarle el paso al joven en el edificio?",
+            "¿Qué pensaba el joven acerca de los celos que mostraba el viejo?"
+          ],
+          "respuesta": "¿Qué quería lograr el viejo al cerrarle el paso al joven en el edificio?",
+          "respuestaCorta": "La intención del viejo al cerrarle el paso no se dice explícitamente, por lo que el lector debe inferirla a partir de sus acciones y emociones (furia, deseo de eliminarlo).",
+          "solucionario": "La información implícita es aquella que se deduce del texto. La pregunta 'b' requiere una inferencia, ya que el texto describe la acción ('le cerró el paso') pero no la intención directa en ese momento. El lector debe deducir que el objetivo era confrontarlo y atacarlo. En cambio, las respuestas a las preguntas 'a' (\"decidió evadirlo\") y 'c' (\"consideraba una estupidez los celos\") se encuentran de forma explícita en el relato.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "En otro momento de la actividad de lectura, la docente plantea diversas preguntas a los estudiantes. ¿Cuál de las siguientes preguntas se centra en que obtengan información explícita?",
+          "opciones": [
+            "A partir de la información del texto, ¿qué significa la expresión \"buscar camorra\"?",
+            "En el texto, ¿con qué intención el viejo se puso a beber con el joven en un bar?",
+            "Según el primer párrafo del texto, ¿por qué el viejo quería eliminar al joven?"
+          ],
+          "respuesta": "Según el primer párrafo del texto, ¿por qué el viejo quería eliminar al joven?",
+          "respuestaCorta": "La respuesta a esta pregunta se encuentra de manera literal en el primer párrafo, que explica las motivaciones del viejo.",
+          "solucionario": "Una pregunta por información explícita se responde localizando información textual. La pregunta 'c' pide la razón del conflicto, y esta se encuentra directamente en el primer párrafo: \"Al verse desplazado y olvidado en su trabajo, el viejo, colmado de celos, se propuso eliminar al joven empleado\". Las otras preguntas requieren inferir el significado de una frase (a) o la intención detrás de una acción (b).",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "La docente tiene como propósito que los estudiantes deduzcan información implícita del relato. ¿Cuál de las siguientes preguntas es adecuada para ello?",
+          "opciones": [
+            "¿Por qué el viejo decidió huir luego de su pelea con el joven?",
+            "¿Por qué el viejo sentía un odio desmedido por el joven?",
+            "¿Por qué el viejo se negaba a escuchar al joven?"
+          ],
+          "respuesta": "",
+          "respuestaCorta": "El solucionario oficial no asigna una clave de respuesta para esta pregunta.",
+          "solucionario": "No se proporciona una respuesta correcta para esta pregunta en el solucionario oficial, lo que indica que pudo haber sido anulada, probablemente por ambigüedad en las opciones o porque varias de ellas podían considerarse explícitas en el texto.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Los estudiantes, orientados por la docente, se han organizado en equipos para intercambiar comentarios y profundizar en la comprensión del relato. En este contexto, las integrantes de uno de los equipos sostienen el siguiente diálogo:\n\nJaviera dice: \"Es claro que el viejo es una persona que se ve amenazada por el joven robot\".\nEliana dice: \"Es que, seguro, el robot mostró ser mejor en el trabajo\".\nAlma dice: \"¿Pero el viejo era un robot o una persona? La historia cambia si es uno u otra\".\nEliana dice: \"No sé. Creo que, igual, perder el trabajo por culpa de una máquina debe sentirse feo\".\nJaviera dice: \"En realidad, yo no estoy de acuerdo con el viejo. El robot no hizo nada\".\nAlma dice: \"Quizá ese fue el problema: si el robot insistía en tratar de entender al viejo, no hubieran peleado\".\n\nA partir del diálogo, ¿por qué se puede afirmar que las estudiantes reflexionan sobre el contenido del texto?",
+          "opciones": [
+            "Porque las estudiantes reconocen la postura crítica del autor con respecto al conflicto tratado en el relato.",
+            "Porque las estudiantes se identifican con los personajes y logran evidenciar el conflicto que se desprende del relato.",
+            "Porque, a partir de su conocimiento del mundo, las estudiantes plantean hipótesis para explicar el conflicto propuesto en el relato."
+          ],
+          "respuesta": "Porque, a partir de su conocimiento del mundo, las estudiantes plantean hipótesis para explicar el conflicto propuesto en el relato.",
+          "respuestaCorta": "Las estudiantes demuestran reflexión al ir más allá del texto, utilizando su conocimiento previo y empatía ('sentirse feo') para formular hipótesis sobre las motivaciones y el conflicto entre los personajes.",
+          "solucionario": "La reflexión sobre un texto implica conectar lo leído con el conocimiento y las experiencias propias para construir interpretaciones más profundas. Las estudiantes no se limitan a resumir la trama, sino que plantean hipótesis explicativas sobre el conflicto (\"seguro, el robot mostró ser mejor\"), exploran las emociones de los personajes basándose en su comprensión del mundo (\"perder el trabajo por culpa de una máquina debe sentirse feo\") y evalúan sus acciones. Este proceso de hipotetizar y explicar es una clara manifestación de la reflexión.",
+          "seccion": "Casuística"
+        }
+      ]
+    }
+  ]
+}
+  

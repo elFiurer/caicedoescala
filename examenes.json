@@ -201,5 +201,58 @@
     "archivos": {
       "especifico": "data/ascenso/secundaria/2022/ascenso_comunicacion2022.json"
     }
+  },
+  {
+    "id": 29,
+    "proceso": "Ascenso",
+    "anio": 2021,
+    "nivel": "Secundaria",
+    "especialidad": "Comunicación ",
+    "modalidad": "EBR",
+    "preguntas": 60,
+    "tiempo": 180,
+    "archivos": {
+      "especifico": "data/ascenso/secundaria/2021/asecenso_comunicacion2021.json"
+    }
+  },
+  {
+  "id": 30,
+  "proceso": "Cargo Directivo",
+  "anio": 2023,
+  "descripcion": "Simulacro actualizado basado en el temario 2023.",
+  "nivel": "General",
+  "especialidad": "Acceso a Cargos Directivos",
+  "modalidad": "EBR",
+  "preguntas": 70,
+  "tiempo": 180,
+  "tipo": "con-bloques",
+  "bloques": [
+  "Examen Completo",
+  "Comprensión lectora",
+  "Conocimientos de Gestión Educativa y Gestión Pública"
+],
+  "archivos": {
+    "especifico": "data/cargos directivos/2023/cdirectivo_2023.json"
   }
+},
+{
+  "id": 31,
+  "proceso": "Cargo Directivo",
+  "anio": 2023,
+  "descripcion": "versión rotada 1",
+  "nivel": "General",
+  "especialidad": "Acceso a Cargos Directivos",
+  "modalidad": "EBR",
+  "preguntas": 70,
+  "tiempo": 180,
+  "tipo": "con-bloques",
+  "bloques": [
+  "Examen Completo",
+  "Comprensión lectora",
+  "Conocimientos de Gestión Educativa y Gestión Pública"
+],
+  "archivos": {
+    "especifico": "data/cargos directivos/2023/cdirectivorotada1_2023.json"
+  }
+}
 ]
