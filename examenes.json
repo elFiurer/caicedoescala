@@ -254,5 +254,26 @@
   "archivos": {
     "especifico": "data/cargos directivos/2023/cdirectivorotada1_2023.json"
   }
+},
+{
+  "id": 32,
+  "proceso": "Cargo Directivo",
+  "anio": 2023,
+  "descripcion": "versión rotada 2",
+  "nivel": "General",
+  "especialidad": "Acceso a Cargos Directivos",
+  "modalidad": "EBR",
+  "preguntas": 70,
+  "tiempo": 180,
+  "tipo": "con-bloques",
+  "bloques": [
+  "Examen Completo",
+  "Comprensión lectora",
+  "Conocimientos de Gestión Educativa y Gestión Pública"
+],
+  "archivos": {
+    "especifico": "data/cargos directivos/2023/cdirectivorotada2_2023.json"
+  }
 }
+
 ]
