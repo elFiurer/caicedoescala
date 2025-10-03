@@ -352,5 +352,18 @@
     "archivos": {
       "especifico": "data/ascenso/primaria/2018/ascenso_educacionfisicaprimaria2018.json"
     }
+  },
+  {
+    "id": 39,
+    "proceso": "Ascenso",
+    "anio": 2018,
+    "nivel": "Secundaria",
+    "especialidad": "Arte y Cultura",
+    "modalidad": "EBR",
+    "preguntas": 60,
+    "tiempo": 180,
+    "archivos": {
+      "especifico": "data/ascenso/secundaria/2018/ascenso_arte2018.json"
+    }
   }
 ]
