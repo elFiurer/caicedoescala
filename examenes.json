@@ -417,5 +417,18 @@
     "archivos": {
       "especifico": "data/ascenso/secundaria/2018/ascenso_educaciontrabajo2018.json"
     }
+  },
+  {
+    "id": 44,
+    "proceso": "Ascenso",
+    "anio": 2018,
+    "nivel": "Secundaria",
+    "especialidad": "Educación Religiosa",
+    "modalidad": "EBR",
+    "preguntas": 60,
+    "tiempo": 180,
+    "archivos": {
+      "especifico": "data/ascenso/secundaria/2018/ascenso_religión2018.json"
+    }
   }
 ]
