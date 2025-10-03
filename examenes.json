@@ -430,5 +430,19 @@
     "archivos": {
       "especifico": "data/ascenso/secundaria/2018/ascenso_religión2018.json"
     }
+  },
+  {
+    "id": 45,
+    "proceso": "Ascenso",
+    "anio": 2019,
+    "nivel": "Secundaria",
+    "especialidad": "Inglés",
+    "modalidad": "EBR",
+    "preguntas": 60,
+    "tiempo": 180,
+    "archivos": {
+      "especifico": "data/ascenso/secundaria/2019/ascenso_ingles2019.json"
+    }
   }
+  
 ]
