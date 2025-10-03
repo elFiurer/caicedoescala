@@ -378,5 +378,44 @@
     "archivos": {
       "especifico": "data/ascenso/secundaria/2018/ascenso_ingles2018.json"
     }
+  },
+  {
+    "id": 41,
+    "proceso": "Ascenso",
+    "anio": 2018,
+    "nivel": "Secundaria",
+    "especialidad": "Innovación Pedagógica (AIP)",
+    "modalidad": "EBR",
+    "preguntas": 60,
+    "tiempo": 180,
+    "archivos": {
+      "especifico": "data/ascenso/secundaria/2018/ascenso_innovacion2018.json"
+    }
+  },
+  {
+    "id": 42,
+    "proceso": "Ascenso",
+    "anio": 2018,
+    "nivel": "Secundaria",
+    "especialidad": "Educación Física ",
+    "modalidad": "EBR",
+    "preguntas": 60,
+    "tiempo": 180,
+    "archivos": {
+      "especifico": "data/ascenso/secundaria/2018/ascenso_educacionfisica2018.json"
+    }
+  },
+  {
+    "id": 43,
+    "proceso": "Ascenso",
+    "anio": 2018,
+    "nivel": "Secundaria",
+    "especialidad": "Educación para el Trabajo (EPT)",
+    "modalidad": "EBR",
+    "preguntas": 60,
+    "tiempo": 180,
+    "archivos": {
+      "especifico": "data/ascenso/secundaria/2018/ascenso_educaciontrabajo2018.json"
+    }
   }
 ]
