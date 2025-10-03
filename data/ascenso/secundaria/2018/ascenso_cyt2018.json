@@ -60,7 +60,7 @@
     {
       "idGrupo": "asc_secundaria_2018_p04",
       "contexto": "KOÑICHUYAWASI: Casa Caliente-Limpia\nAño a año, mueren más de 500 personas y se reportan más de 20 mil casos de enfermedades respiratorias en las zonas alto andinas del Perú debido, principalmente, a los siguientes factores: la exposición frecuente al humo nocivo dentro del ambiente donde se ubica la cocina, los cambios bruscos de temperatura y el recrudecimiento del frío nocturno. KOÑICHUYAWASI es un proyecto de un grupo de investigación que busca atender esta problemática mediante: (1) una \"Cocina Mejorada\" que, a diferencia de la cocina tradicional, permite que la persona esté menos expuesta al humo que se produce al cocinar; (2) un \"Sistema Muro Trombe\" que permite aumentar la temperatura de la vivienda hasta en 10° C con respecto al exterior, mediante energía solar, y (3) un \"Techo con Sistema de Aislamiento\", que permite conservar el calor generado por el Sistema Muro Trombe, como se observa en la siguiente figura:",
-      "imagen": "img/ascenso_secundaria_2018_q04.png",
+      "imagen": "img/ascenso/secundaria/2018/cyt/1.jpg",
       "preguntas": [
         {
           "pregunta": "Se recomienda pintar de negro las piedras y paredes del Sistema Muro Trombe. ¿Por qué es un beneficio pintarlas de negro?",
@@ -134,7 +134,7 @@
     {
       "idGrupo": "asc_secundaria_2018_p09",
       "contexto": "Con el propósito de recoger saberes previos de los estudiantes sobre el efecto de los movimientos terrestres, el docente les pide que representen, mediante un dibujo, a qué se debe el cambio de estaciones durante cada año. Un grupo de estudiantes propone la siguiente representación:",
-      "imagen": "img/ascenso_secundaria_2018_q09.png",
+      "imagen": "img/ascenso/secundaria/2018/cyt/2.jpg",
       "preguntas": [
         {
           "pregunta": "¿Cuál de los siguientes es uno de los errores que se evidencia en la representación de los estudiantes?",
@@ -165,7 +165,7 @@
     {
       "idGrupo": "asc_secundaria_2018_p11",
       "contexto": "Central Hidroeléctrica\nUna central hidroeléctrica es considerada una fuente de energía renovable, ya que depende básicamente del curso natural del agua. La mayoría de ellas consisten en una represa (1), que sostiene el agua estancada proveniente de un río y en un canal (2) que conduce el agua hacia las turbinas (3) ubicadas al mismo nivel de la continuación del río (9). El agua choca contra sus aspas y, por esta causa, hace rotar su eje. En consecuencia, los electroimanes de un generador eléctrico (4) giran y se induce corriente eléctrica. Finalmente, la energía eléctrica es transmitida a través de torres de alta tensión (5). El agua utilizada en el proceso es devuelta generalmente a la continuación del mismo río.",
-      "imagen": "img/ascenso_secundaria_2018_q11.png",
+      "imagen": "img/ascenso/secundaria/2018/cyt/3.jpg",
       "preguntas": [
         {
           "pregunta": "¿De cuál de los siguientes factores depende la energía máxima que puede transmitir la central hidroeléctrica?",
@@ -196,8 +196,8 @@
     
     {
       "idGrupo": "asc_secundaria_2018_p13",
-      "contexto": "Central Hidroeléctrica\nUna central hidroeléctrica es considerada una fuente de energía renovable, ya que depende básicamente del curso natural del agua. La mayoría de ellas consisten en una represa (1), que sostiene el agua estancada proveniente de un río y en un canal (2) que conduce el agua hacia las turbinas (3) ubicadas al mismo nivel de la continuación del río (9). El agua choca contra sus aspas y, por esta causa, hace rotar su eje. En consecuencia, los electroimanes de un generador eléctrico (4) giran y se induce corriente eléctrica. Finalmente, la energía eléctrica es transmitida a través de torres de alta tensión (5). El agua utilizada en el proceso es devuelta generalmente a la continuación del mismo río.",
-      "imagen": "img/ascenso_secundaria_2018_q11.png",
+      
+      
       "preguntas": [
         {
           "pregunta": "¿Qué relación se establece entre la cantidad de energía inicial que ingresa a la central hidroeléctrica y la cantidad de energía eléctrica final que transmite la central hidroeléctrica?",
@@ -216,7 +216,7 @@
     {
       "idGrupo": "asc_secundaria_2018_p14",
       "contexto": "Una docente presenta a sus estudiantes la siguiente indagación:\nLas cucarachas son las únicas que pueden sobrevivir a una explosión nuclear: ¿mito o verdad?\nEl equipo de un reconocido programa de televisión expuso doce grupos de insectos de tres diferentes especies (cucarachas, moscas de la fruta y gorgojos de harina) a distintos niveles de radiación con cobalto-60 ($^{60}Co)$: 0 rads, 1000 rads (dosis letal para el ser humano), 10 000 rads y 100 000 rads. Finalmente, registraron el porcentaje de insectos muertos en el día 1, el día 15 y el día 30. Los resultados de la indagación se muestran en la siguiente tabla:",
-      "imagen": "img/ascenso_secundaria_2018_q14.png",
+      "imagen": "img/ascenso/secundaria/2018/cyt/4.jpg",
       "preguntas": [
         {
           "pregunta": "¿Cuál de las siguientes preguntas se puede responder con la indagación realizada?",
@@ -283,7 +283,7 @@
     {
       "idGrupo": "asc_secundaria_2018_p19",
       "contexto": "Como parte de una unidad de aprendizaje sobre cómo los sistemas del cuerpo humano trabajan de manera integrada, un docente solicita a sus estudiantes que representen al sistema digestivo. A continuación, se muestra la representación realizada por uno de sus estudiantes:",
-      "imagen": "img/ascenso_secundaria_2018_q19.png",
+      "imagen": "img/ascenso/secundaria/2018/cyt/5.jpg",
       "preguntas": [
         {
           "pregunta": "¿Cuál de los siguientes es uno de los errores que se evidencia en la representación realizada por el estudiante?",
@@ -321,7 +321,7 @@
     {
       "idGrupo": "asc_secundaria_2018_p21",
       "contexto": null,
-      "imagen": "img/ascenso_secundaria_2018_q21.png",
+      "imagen": "img/ascenso/secundaria/2018/cyt/6.jpg",
       "preguntas": [
         {
           "pregunta": "¿Cuál de los siguientes gráficos representa una dieta que NO es perjudicial para la salud del ser humano?",
@@ -340,7 +340,7 @@
     {
       "idGrupo": "asc_secundaria_2018_p22",
       "contexto": "Una docente muestra a sus estudiantes la siguiente etiqueta de valores nutricionales de una bebida que se comercializa en botellas de 450 mL:",
-      "imagen": "img/ascenso_secundaria_2018_q22.png",
+      "imagen": "img/ascenso/secundaria/2018/cyt/7.jpg",
       "preguntas": [
         {
           "pregunta": "¿Cuál de los siguientes conjuntos de preguntas es pertinente plantear a los estudiantes para que analicen la conveniencia de la ingesta de esta bebida sobre la base de la información presentada?",
@@ -378,7 +378,7 @@
     {
       "idGrupo": "asc_secundaria_2018_p24",
       "contexto": "Un docente se encuentra trabajando una unidad de aprendizaje sobre la salud y la enfermedad. Un grupo de estudiantes comenta lo siguiente:\n\"Profesor, nosotros nos dimos cuenta de que basta con que uno de nosotros se resfrie para que todos nos resfriemos, incluso ya ni a clase venimos. Para averiguarlo hemos anotado lo que pasa con los demás desde que uno de nosotros se resfría. Aquí están nuestros resultados\".",
-      "imagen": "img/ascenso_secundaria_2018_q24.png",
+      "imagen": "img/ascenso/secundaria/2018/cyt/8.jpg",
       "preguntas": [
         {
           "pregunta": "¿Cuál de las siguientes preguntas debería plantear primero el docente para que los estudiantes reflexionen respecto de su error?",
@@ -398,7 +398,7 @@
     {
       "idGrupo": "asc_secundaria_2018_p25",
       "contexto": "Otro grupo de estudiantes presenta al docente el siguiente gráfico con los resultados de su indagación:",
-      "imagen": "img/ascenso_secundaria_2018_q25.png",
+      "imagen": "img/ascenso/secundaria/2018/cyt/9.jpg",
       "preguntas": [
         {
           "pregunta": "¿En qué días es más rápida la propagación del resfrío?",
@@ -417,10 +417,11 @@
     {
       "idGrupo": "asc_secundaria_2018_p26",
       "contexto": "Una docente trabaja con los estudiantes el concepto de \"cuerpo en caída libre\", es decir, un cuerpo sobre el que únicamente actúa la fuerza de la gravedad. Para ello, muestra a sus estudiantes la siguiente imagen de la trayectoria de una pelota de fútbol luego de ser pateada y solicita que la analicen considerando nulo el efecto del aire:",
-      "imagen": "img/ascenso_secundaria_2018_q26.png",
+      "imagen": "img/ascenso/secundaria/2018/cyt/10.jpg",
       "preguntas": [
         {
           "pregunta": "¿Cuál de las siguientes opciones representa la fuerza neta sobre la pelota mientras esta se encuentra en movimiento?",
+          "imagen":"img/ascenso/secundaria/2018/cyt/11.jpg",
           "opciones": [
             "a",
             "b",
@@ -433,6 +434,7 @@
         },
         {
           "pregunta": "¿Cuál de las siguientes opciones representa la velocidad de la pelota cuando esta se encuentra en su altura máxima?",
+          "imagen": "img/ascenso/secundaria/2018/cyt/12.jpg",
           "opciones": [
             "a",
             "b",
@@ -445,6 +447,7 @@
         },
         {
           "pregunta": "Teniendo en cuenta el sistema de referencia indicado, ¿en cuál de los siguientes gráficos se representa correctamente la componente vertical de la aceleración de la pelota?",
+          "imagen": "img/ascenso/secundaria/2018/cyt/13.jpg",
           "opciones": [
             "a",
             "b",
@@ -484,8 +487,8 @@
     },
     {
       "idGrupo": "asc_secundaria_2018_p31",
-      "contexto": "Un docente presenta a sus estudiantes la siguiente información:\nLa cochinilla: oro rojo\nLa cochinilla es el nombre común de Dactylopius coccus, insecto que se instala en la superficie de las plantas de tuna para nutrirse de su savia, llegando incluso a matarlas en unos pocos meses. El ácido carmínico extraído de la cochinilla es empleado tradicionalmente en el Perú, desde las civilizaciones preincaicas, para teñir lana de alpaca y algodón. Actualmente, nuestro país es el principal productor de cochinilla en el mundo la cual es utilizada para colorear bebidas, jarabes, golosinas, embutidos, entre otros.",
-      "imagen": "img/ascenso_secundaria_2018_q31.png",
+      "contexto": "Un docente presenta a sus estudiantes la siguiente información:",
+      "imagen": "img/ascenso/secundaria/2018/cyt/14.jpg",
       "preguntas": [
         {
           "pregunta": "¿Cuál de las siguientes características permite afirmar que la cochinilla es un insecto?",
@@ -527,8 +530,8 @@
     },
     {
       "idGrupo": "asc_secundaria_2018_p34",
-      "contexto": "Una docente presenta la siguiente información a sus estudiantes:\nElysia chlorotica\nLa imagen corresponde a un ser vivo llamado Elysia chlorotica que presenta las siguientes características: tiene células eucariotas, se alimenta, respira, presenta circulación, excreción, respuesta, movimiento y reproducción. Los adultos tienen un tamaño aproximado de 20 a 30 mm, pero se han documentado especímenes de hasta 60 mm. Elysia chlorotica se alimenta de algas y adquiere una coloración verde debido a que es capaz de asimilar los cloroplastos de dichas algas en sus células intestinales, desechando todo lo demás. Los cloroplastos se mantienen funcionando en Elysia chlorotica por un período aproximado de diez meses, dentro de los cuales comienzan a formar parte de sus tejidos.",
-      "imagen": "img/ascenso_secundaria_2018_q34.png",
+      "contexto": "Una docente presenta la siguiente información a sus estudiantes:",
+      "imagen": "img/ascenso/secundaria/2018/cyt/15.jpg",
       "preguntas": [
         {
           "pregunta": "Luego de leer la información, un estudiante realiza el siguiente comentario: \"Si este organismo respira, es un animal porque solo los animales respiran; después, todas las demás características como alimentación, circulación, excreción, respuesta, movimiento y reproducción, también las cumplen las plantas\". ¿Cuál es el error que evidencia el estudiante en su comentario?",
@@ -572,7 +575,7 @@
     {
       "idGrupo": "asc_secundaria_2018_p37",
       "contexto": "Observe la siguiente imagen de un organismo:",
-      "imagen": "img/ascenso_secundaria_2018_q37.png",
+      "imagen": "img/ascenso/secundaria/2018/cyt/16.jpg",
       "preguntas": [
         {
           "pregunta": "¿Cuál de las siguientes características de este organismo impide que pertenezca al reino animal?",
@@ -610,7 +613,7 @@
     {
       "idGrupo": "asc_secundaria_2018_p39",
       "contexto": "A continuación, se muestra la representación de tres tipos de vasos sanguíneos (F, G, H):",
-      "imagen": "img/ascenso_secundaria_2018_q39.png",
+      "imagen": "img/ascenso/secundaria/2018/cyt/17.jpg",
       "preguntas": [
         {
           "pregunta": "¿Qué tipo de vaso sanguíneo corresponde a cada representación?",
@@ -641,7 +644,7 @@
     {
       "idGrupo": "asc_secundaria_2018_p41",
       "contexto": "El siguiente diagrama muestra la heredabilidad (mendeliana) de una enfermedad en una familia:",
-      "imagen": "img/ascenso_secundaria_2018_q41.png",
+      "imagen": "img/ascenso/secundaria/2018/cyt/18.jpg",
       "preguntas": [
         {
           "pregunta": "De acuerdo al diagrama, ¿a qué cromosomas NO podría estar ligada esta enfermedad?",
@@ -681,6 +684,7 @@
         },
         {
           "pregunta": "Ahora, observe el siguiente diagrama:\n¿Cuál de las siguientes alternativas podría describir el genotipo de los progenitores en relación con la enfermedad?",
+          "imagen":"img/ascenso/secundaria/2018/cyt/19.jpg",
           "opciones": [
             "Ambos son heterocigotos.",
             "Ambos son homocigotos recesivos.",
@@ -696,7 +700,7 @@
     {
       "idGrupo": "asc_secundaria_2018_p45",
       "contexto": "A continuación, se muestra el resultado de un test de embarazo:",
-      "imagen": "img/ascenso_secundaria_2018_q45.png",
+      "imagen": "img/ascenso/secundaria/2018/cyt/20.jpg",
       "preguntas": [
         {
           "pregunta": "¿Cuál es el resultado de este test de embarazo?",
@@ -715,7 +719,7 @@
     {
       "idGrupo": "asc_secundaria_2018_p46",
       "contexto": "Una docente presenta a sus estudiantes el siguiente gráfico sobre el volumen de sudor de una persona entre las 9:00 am y las 2:00 pm del mismo día:",
-      "imagen": "img/ascenso_secundaria_2018_q46.png",
+      "imagen": "img/ascenso/secundaria/2018/cyt/21.jpg",
       "preguntas": [
         {
           "pregunta": "¿Cuál de las siguientes actividades es pertinente para que los estudiantes formulen hipótesis sobre los resultados presentados en el gráfico?",
@@ -733,8 +737,8 @@
     },
     {
       "idGrupo": "asc_secundaria_2018_p47",
-      "contexto": "Un docente presenta la siguiente información a sus estudiantes:\nLa gran variedad de papa en el Perú\nLa papa (Solanum tuberosum) es uno de los cultivos más consumidos en el mundo y, debido a su rico contenido de nutrientes y adaptación a una gran variedad de ecosistemas, se ha convertido en un alimento indispensable para la seguridad alimentaria global. La papa es originaria del Perú, país que posee la mayor variedad de papa en el mundo (2300 de las más de 4000 variedades conocidas). A medida que crece la planta de la papa se produce almidón, este se almacena en los extremos de sus tallos terminales (o estolones), los cuales se ensanchan para formar hasta veinte tubérculos cerca de la superficie del suelo. Los tubérculos tienen entre dos y diez yemas u \"ojos\", a partir de los cuales crecen nuevas plantas cuando las condiciones son nuevamente favorables. La planta de la papa también presenta flores como se muestra en la figura.",
-      "imagen": "img/ascenso_secundaria_2018_q47.png",
+      "contexto": "Un docente presenta la siguiente información a sus estudiantes:",
+      "imagen": "img/ascenso/secundaria/2018/cyt/22.jpg",
       "preguntas": [
         {
           "pregunta": "¿Cuál de los siguientes es uno de los factores que explica que la papa sea un cultivo con alta diversidad genética?",
@@ -784,8 +788,8 @@
     },
     {
       "idGrupo": "asc_secundaria_2018_p50",
-      "contexto": "Una docente presenta la siguiente situación a sus estudiantes:\nLas moléculas más abundantes en las membranas celulares son los fosfolípidos. En las células, los fosfolípidos adoptan un ordenamiento denominado \"bicapa lipídica\", como se muestra en la siguiente figura:",
-      "imagen": "img/ascenso_secundaria_2018_q50.png",
+      "contexto": "Una docente presenta la siguiente situación a sus estudiantes:",
+      "imagen": "img/ascenso/secundaria/2018/cyt/23.jpg",
       "preguntas": [
         {
           "pregunta": "¿Cuál de las siguientes alternativas es una posible función de las proteínas insertadas en la membrana celular?",
@@ -834,8 +838,8 @@
     },
     {
       "idGrupo": "asc_secundaria_2018_p53",
-      "contexto": "El agua de mar es una mezcla de agua, oxígeno ($O_{2}$), dióxido de carbono ($CO_{2}$), sales, como el cloruro de sodio (NaCl), entre otros componentes.",
-      "imagen": "img/ascenso_secundaria_2018_q53.png",
+      "contexto": "El agua de mar es una mezcla de agua, oxígeno (O2), dióxido de carbono (CO2), sales, como el cloruro de sodio (NaCl), entre otros componentes.",
+      "imagen": "img/ascenso/secundaria/2018/cyt/24.jpg",
       "preguntas": [
         {
           "pregunta": "¿Cuál de las siguientes representaciones permite explicar por qué el NaCl se disuelve en agua?",
@@ -869,13 +873,13 @@
       "imagen": null,
       "preguntas": [
         {
-          "pregunta": "El cloruro de sodio (NaCl) tiene una masa de 58,4 g/mol y un punto de fusión, a 1 atm, de 801°C, mientras que el tetracloruro de carbono ($CCl_{4}$), un contaminante común en fuentes de agua, tiene una masa de 153,8 g/mol y un punto de fusión, a 1 atm, de -22,9°C. ¿A qué se debe la diferencia entre sus puntos de fusión?",
+          "pregunta": "El cloruro de sodio (NaCl) tiene una masa de 58,4 g/mol y un punto de fusión, a 1 atm, de 801°C, mientras que el tetracloruro de carbono (CCl4), un contaminante común en fuentes de agua, tiene una masa de 153,8 g/mol y un punto de fusión, a 1 atm, de -22,9°C. ¿A qué se debe la diferencia entre sus puntos de fusión?",
           "opciones": [
-            "A la diferencia en masa molar entre el NaCl y el $CCl_{4}$",
-            "A la diferencia entre la fuerza de los enlaces iónicos en el NaCl y la fuerza de los enlaces covalentes en el $CCl_{4}$",
-            "A la diferencia en magnitud entre las fuerzas que unen los iones del NaCl y las fuerzas que unen las moléculas del $CCl_{4}$"
+            "A la diferencia en masa molar entre el NaCl y el CCl4",
+            "A la diferencia entre la fuerza de los enlaces iónicos en el NaCl y la fuerza de los enlaces covalentes en el CCl4",
+            "A la diferencia en magnitud entre las fuerzas que unen los iones del NaCl y las fuerzas que unen las moléculas del CCl4"
           ],
-          "respuesta": "A la diferencia en magnitud entre las fuerzas que unen los iones del NaCl y las fuerzas que unen las moléculas del $CCl_{4}$",
+          "respuesta": "A la diferencia en magnitud entre las fuerzas que unen los iones del NaCl y las fuerzas que unen las moléculas del CCl4",
           "respuestaCorta": "La enorme diferencia en los puntos de fusión se debe a los tipos de fuerzas interpartícula que deben superarse. El NaCl tiene fuertes atracciones electrostáticas entre sus iones en una red cristalina, mientras que el CCl₄ solo tiene débiles fuerzas intermoleculares (de van der Waals) entre sus moléculas.",
           "solucionario": "El punto de fusión refleja la energía necesaria para romper las fuerzas que mantienen unidas a las partículas en estado sólido. El NaCl es un sólido iónico, donde los iones Na⁺ y Cl⁻ están fuertemente unidos por fuerzas electrostáticas en una red. Se requiere una gran cantidad de energía (alta temperatura) para romper esta red. Por otro lado, el CCl₄ es un sólido molecular apolar. Sus moléculas individuales están unidas entre sí por fuerzas intermoleculares muy débiles (fuerzas de dispersión de London). Se necesita muy poca energía (baja temperatura) para superar estas fuerzas y que la sustancia se funda. La masa molar no es el factor determinante aquí.",
           "seccion": "Casuística"
@@ -884,8 +888,8 @@
     },
     {
       "idGrupo": "asc_secundaria_2018_p56",
-      "contexto": "Una docente comenta a los estudiantes que el carbonato de calcio ($CaCO_{3}$) es una sustancia estructural fundamental para la construcción de caparazones de numerosos organismos marinos. Luego, les pide que propongan la estructura de Lewis de este compuesto. A continuación, se muestra la propuesta realizada por una de sus estudiantes:",
-      "imagen": "img/ascenso_secundaria_2018_q56.png",
+      "contexto": "Una docente comenta a los estudiantes que el carbonato de calcio CaCO3 es una sustancia estructural fundamental para la construcción de caparazones de numerosos organismos marinos. Luego, les pide que propongan la estructura de Lewis de este compuesto. A continuación, se muestra la propuesta realizada por una de sus estudiantes:",
+      "imagen": "img/ascenso/secundaria/2018/cyt/25.jpg",
       "preguntas": [
         {
           "pregunta": "¿En cuál de los siguientes aspectos se encuentra el principal error de la estudiante?",
@@ -896,7 +900,7 @@
           ],
           "respuesta": "En la distinción entre la representación de enlaces iónicos y covalentes.",
           "respuestaCorta": "El error fundamental es representar el enlace entre el metal (Calcio) y el anión poliatómico (carbonato) como si fuera un enlace covalente (una línea), cuando en realidad se trata de un enlace iónico basado en la atracción electrostática.",
-          "solucionario": "El carbonato de calcio ($CaCO_{3}$) es un compuesto iónico, formado por el catión metálico Calcio ($Ca^{2+}$) y el anión poliatómico carbonato ($CO_{3}^{2-}$). La unión entre el calcio y el grupo carbonato es de naturaleza iónica (transferencia de electrones). Los enlaces dentro del ion carbonato (entre C y O) sí son covalentes. La estructura propuesta por la estudiante es incorrecta porque dibuja una línea entre Ca y C, que simboliza un enlace covalente que no existe. Una representación correcta mostraría los iones $Ca^{2+}$ y $[CO_{3}]^{2-}$ separados, interactuando por fuerzas electrostáticas.",
+          "solucionario": "El carbonato de calcio CaCO3 es un compuesto iónico, formado por el catión metálico Calcio Ca2+ y el anión poliatómico carbonato CO3-2. La unión entre el calcio y el grupo carbonato es de naturaleza iónica (transferencia de electrones). Los enlaces dentro del ion carbonato (entre C y O) sí son covalentes. La estructura propuesta por la estudiante es incorrecta porque dibuja una línea entre Ca y C, que simboliza un enlace covalente que no existe. Una representación correcta mostraría los iones $Ca^{2+}$ y $[CO_{3}]^{2-}$ separados, interactuando por fuerzas electrostáticas.",
           "seccion": "Casuística"
         }
       ]
@@ -909,11 +913,11 @@
         {
           "pregunta": "Un estudiante realiza la siguiente pregunta:\n\"¿Por qué los caparazones de los animales marinos no se disuelven en el agua si están hechos de carbonato de calcio que también es una sal como la sal de cocina?\".\n¿Cuál de los siguientes factores determina la diferencia en el comportamiento de ambas sales?",
           "opciones": [
-            "La diferencia en el tipo de enlace del NaCl y del $CaCO_{3}$",
-            "La diferencia en el tamaño de los iones del NaCl y del $CaCO_{3}$",
-            "La diferencia en las cargas de los iones del NaCl y del $CaCO_{3}$"
+            "La diferencia en el tipo de enlace del NaCl y del CaCO3",
+            "La diferencia en el tamaño de los iones del  NaCl y del CaCO3",
+            "La diferencia en las cargas de los iones del  NaCl y del CaCO3"
           ],
-          "respuesta": "La diferencia en las cargas de los iones del NaCl y del $CaCO_{3}$",
+          "respuesta": "La diferencia en las cargas de los iones del NaCl y del  NaCl y del CaCO3",
           "respuestaCorta": "La mayor magnitud de las cargas de los iones en el CaCO₃ (Ca²⁺ y CO₃²⁻) en comparación con el NaCl (Na⁺ y Cl⁻) resulta en una atracción electrostática mucho más fuerte dentro de la red cristalina, lo que dificulta enormemente su disolución por parte del agua.",
           "solucionario": "La solubilidad de un compuesto iónico depende de un equilibrio entre la energía reticular (que mantiene unidos a los iones en el cristal) y la energía de hidratación. Según la ley de Coulomb, la fuerza de atracción electrostática es directamente proporcional al producto de las cargas. El NaCl está compuesto por iones de carga +1 y -1, mientras que el $CaCO_{3}$ está compuesto por iones de carga +2 y -2. La atracción entre los iones en el cristal de $CaCO_{3}$ es, por tanto, mucho más fuerte, lo que resulta en una energía reticular muy alta que las moléculas de agua no pueden superar fácilmente. Esto explica su baja solubilidad.",
           "seccion": "Casuística"
@@ -942,7 +946,7 @@
     {
       "idGrupo": "asc_secundaria_2018_p59",
       "contexto": "Observe el siguiente modelo:",
-      "imagen": "img/ascenso_secundaria_2018_q59.png",
+      "imagen": "img/ascenso/secundaria/2018/cyt/26.jpg",
       "preguntas": [
         {
           "pregunta": "¿Cuál de los siguientes fenómenos se puede explicar a partir de este modelo?",
@@ -961,7 +965,7 @@
     {
       "idGrupo": "asc_secundaria_2018_p60",
       "contexto": "Observe el siguiente gráfico elaborado a partir de información extraída de una localidad costera en cincuenta años:",
-      "imagen": "img/ascenso_secundaria_2018_q60.png",
+      "imagen": "img/ascenso/secundaria/2018/cyt/27.jpg",
       "preguntas": [
         {
           "pregunta": "¿Cuál de las siguientes relaciones se puede establecer entre los eventos señalados en el gráfico?",

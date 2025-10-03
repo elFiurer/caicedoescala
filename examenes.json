@@ -326,5 +326,31 @@
     "archivos": {
       "especifico": "data/ascenso/secundaria/2018/ascenso_dpcc2018.json"
     }
+  },
+  {
+    "id": 37,
+    "proceso": "Ascenso",
+    "anio": 2018,
+    "nivel": "Secundaria",
+    "especialidad": "Ciencias Sociales ",
+    "modalidad": "EBR",
+    "preguntas": 60,
+    "tiempo": 180,
+    "archivos": {
+      "especifico": "data/ascenso/secundaria/2018/ascenso_sociales2018.json"
+    }
+  },
+  {
+    "id": 38,
+    "proceso": "Ascenso",
+    "anio": 2018,
+    "nivel": "Primaria",
+    "especialidad": "Educación Física ",
+    "modalidad": "EBR",
+    "preguntas": 60,
+    "tiempo": 180,
+    "archivos": {
+      "especifico": "data/ascenso/primaria/2018/ascenso_educacionfisicaprimaria2018.json"
+    }
   }
 ]
