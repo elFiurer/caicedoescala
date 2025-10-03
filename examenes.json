@@ -365,5 +365,18 @@
     "archivos": {
       "especifico": "data/ascenso/secundaria/2018/ascenso_arte2018.json"
     }
+  },
+  {
+    "id": 40,
+    "proceso": "Ascenso",
+    "anio": 2018,
+    "nivel": "Secundaria",
+    "especialidad": "Inglés",
+    "modalidad": "EBR",
+    "preguntas": 60,
+    "tiempo": 180,
+    "archivos": {
+      "especifico": "data/ascenso/secundaria/2018/ascenso_ingles2018.json"
+    }
   }
 ]

@@ -163,7 +163,9 @@
           "seccion": "Casuística"
         },
         {
-          "pregunta": "Después de generar ideas y familiarizarse con el uso de la tinta china, los estudiantes van a comenzar la elaboración de su caligrafiti. Antes de comenzar, el docente les presenta una rúbrica que se centra en tres aspectos: la aplicación visual de la exploración realizada previamente por medio del movimiento del cuerpo, el manejo de los elementos organizativos de las artes visuales en relación a la idea central, tema o mensaje, y la composición. Luego reflexionan en conjunto sobre el significado de estos conceptos y analizan la gradación de los niveles de desempeño de la rúbrica. ¿Cuál es el propósito pedagógico de socializar el uso de la rúbrica antes de que los estudiantes comiencen la elaboración de su trabajo?",
+          "contexto": "Después de generar ideas y familiarizarse con el uso de la tinta china, los estudiantes van a comenzar la elaboración de su caligrafiti. Antes de comenzar, el docente les presenta una rúbrica que se centra en tres aspectos: la aplicación visual de la exploración realizada previamente por medio del movimiento del cuerpo, el manejo de los elementos organizativos de las artes visuales en relación a la idea central, tema o mensaje, y la composición. Luego reflexionan en conjunto sobre el significado de estos conceptos y analizan la gradación de los niveles de desempeño de la rúbrica. ",
+          "pregunta": "¿Cuál es el propósito pedagógico de socializar el uso de la rúbrica antes de que los estudiantes comiencen la elaboración de su trabajo?",
+          "imagen": "img/ascenso/secundaria/2018/arte/1.jpg",
           "opciones": [
             "Favorecer el trabajo consciente de los estudiantes al plantearles de manera clara las expectativas que se tiene de su desempeño.",
             "Permitir a los estudiantes compararse entre sí en cada uno de los criterios durante el desarrollo de sus trabajos y así fomentar una sana competencia.",
@@ -230,7 +232,7 @@
     {
       "idGrupo": "asc_arteycultura_2018_p14",
       "contexto": "En una sesión de aprendizaje, la docente les muestra a los estudiantes las siguientes imágenes y les pregunta: \"¿Son estas obras de arte? ¿Por qué?\". Los estudiantes le dan diversas respuestas, pero muchos opinan que los objetos mostrados no son obras de arte. Al preguntarles por qué, algunos responden que porque carecen de belleza y otros alegan que cualquier persona podría hacer este tipo de trabajo sin necesidad de ser un artista. A continuación, la docente les comenta a los estudiantes que las imágenes corresponden a obras de arte muy conocidas y les indica en qué museo se encuentra cada una.",
-      "imagen": "[IMAGEN_01]",
+      "imagen": "img/ascenso/secundaria/2018/arte/2.jpg",
       "preguntas": [
         {
           "pregunta": "¿Qué proceso de aprendizaje busca promover la docente con esta actividad?",
@@ -438,7 +440,7 @@
     {
       "idGrupo": "asc_arteycultura_2018_p26",
       "contexto": null,
-      "imagen": "[IMAGEN_02]",
+      "imagen": "img/ascenso/secundaria/2018/arte/3.jpg",
       "preguntas": [
         {
           "pregunta": "¿Cuál es el recurso visual que más destaca en la siguiente fotografía de Bill Wadman (Estados Unidos, 1975)?",
@@ -495,7 +497,7 @@
     {
       "idGrupo": "asc_arteycultura_2018_p29",
       "contexto": null,
-      "imagen": "[IMAGEN_03]",
+      "imagen": "img/ascenso/secundaria/2018/arte/4.jpg",
       "preguntas": [
         {
           "pregunta": "¿Cuál es la manera más eficiente de construir un jarrón de arcilla como el de la figura?",
@@ -705,7 +707,7 @@
     {
       "idGrupo": "asc_arteycultura_2018_p40",
       "contexto": null,
-      "imagen": "[IMAGEN_04]",
+      "imagen": "img/ascenso/secundaria/2018/arte/5.jpg",
       "preguntas": [
         {
           "pregunta": "¿Cuál es la secuencia de sonidos musicales escritos en el siguiente gráfico?",
@@ -743,7 +745,7 @@
     {
       "idGrupo": "asc_arteycultura_2018_p42",
       "contexto": null,
-      "imagen": "[IMAGEN_05]",
+      "imagen": "img/ascenso/secundaria/2018/arte/6.jpg",
       "preguntas": [
         {
           "pregunta": "¿Cuál de los siguientes fragmentos musicales contiene errores de notación rítmica?",
