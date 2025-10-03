@@ -300,5 +300,31 @@
     "archivos": {
       "especifico": "data/ascenso/secundaria/2019/ascenso_matematica2019.json"
     }
+  },
+  {
+    "id": 35,
+    "proceso": "Ascenso",
+    "anio": 2019,
+    "nivel": "Secundaria",
+    "especialidad": "DPCC ",
+    "modalidad": "EBR",
+    "preguntas": 60,
+    "tiempo": 180,
+    "archivos": {
+      "especifico": "data/ascenso/secundaria/2019/ascenso_dpcc2019.json"
+    }
+  },
+  {
+    "id": 36,
+    "proceso": "Ascenso",
+    "anio": 2018,
+    "nivel": "Secundaria",
+    "especialidad": "DPCC ",
+    "modalidad": "EBR",
+    "preguntas": 60,
+    "tiempo": 180,
+    "archivos": {
+      "especifico": "data/ascenso/secundaria/2018/ascenso_dpcc2018.json"
+    }
   }
 ]

@@ -1547,59 +1547,45 @@ document.addEventListener('DOMContentLoaded', () => {
     // --- INICIO DEL SCRIPT GUARDIÁN (PARTE 2: VIGILANTE FINAL) ---
     // ▼▼▼ REEMPLAZA TU onAuthStateChanged CON ESTE BLOQUE CORREGIDO ▼▼▼
 
+    // ▼▼▼ REEMPLAZA TU onAuthStateChanged COMPLETO CON ESTE BLOQUE ▼▼▼
     auth.onAuthStateChanged(user => {
-        // Una vez que Firebase responde, actualizamos la variable global
-        currentUser = user;
+        const isDevelopment = window.location.hostname === '127.0.0.1' || window.location.hostname === 'localhost';
+        let effectiveUser = user; // Por defecto, usamos al usuario real que nos da Firebase.
 
+        // Si NO hay usuario real Y SÍ estamos en modo desarrollo...
+        if (!user && isDevelopment) {
+            // ...creamos un "usuario falso" para poder probar las páginas protegidas.
+            console.warn("MODO DESARROLLO: Se está usando un usuario de prueba para cargar la página.");
+            effectiveUser = {
+                uid: 'DEV_USER_01',
+                displayName: 'Modo Prueba',
+                email: 'test@example.com',
+                photoURL: '' // Puedes poner una URL a una imagen por defecto si quieres
+            };
+        }
 
-        if (user) {
-            // --- INICIO: ESCUCHA DE CIERRE DE SESIÓN GLOBAL (CORREGIDO) ---
-            let isLoggingOut = false; // AGREGAR ESTA LÍNEA
-
-            const userRef = db.collection("users").doc(user.uid);
-            userRef.onSnapshot((docSnapshot) => {
-                console.log("3. Receptor: onSnapshot se ejecutó. Verificando datos...");
-                if (docSnapshot.exists) {
-                    const userData = docSnapshot.data();
-                    if (userData.sessionValidUntil && !isLoggingOut) {
-                        console.log("Señal de cierre de sesión global recibida. Cerrando sesión...");
-                        isLoggingOut = true;
-                        auth.signOut().then(() => {
-                            window.location.href = 'https://elprofecaicedo.com';
-                        });
-                    }
-                }
-            }, (error) => {
-                console.error("Error escuchando cambios de sesión:", error);
-            });
-            // --- FIN: ESCUCHA DE CIERRE DE SESIÓN GLOBAL ---
-
-            // --- SI HAY USUARIO ---
-            // El usuario está autenticado, todo funciona como antes.
-            setupUI(user);
-            setupProtectedLinks();
+        // A partir de aquí, toda la lógica se basa en si tenemos un "usuario efectivo" (real o falso).
+        if (effectiveUser) {
+            // --- ESTE BLOQUE AHORA SE EJECUTA PARA USUARIOS REALES Y PARA EL MODO DE PRUEBA ---
+            setupUI(effectiveUser);
+            setupProtectedLinks(); // Lo movemos aquí para que se configure en ambos casos.
 
             // Llamamos a las funciones de inicialización de cada página
             if (typeof inicializarPaginaExamenes === 'function') inicializarPaginaExamenes();
-            if (typeof inicializarDashboard === 'function') inicializarDashboard(user);
-            if (typeof inicializarPaginaRepaso === 'function') inicializarPaginaRepaso(user);
+            if (typeof inicializarDashboard === 'function') inicializarDashboard(effectiveUser);
+            if (typeof inicializarPaginaRepaso === 'function') inicializarPaginaRepaso(effectiveUser);
 
         } else {
-            // --- SI NO HAY USUARIO ---
-            // Firebase ha confirmado que NO hay sesión. Ahora el guardián actúa.
-
-            // Identificamos si la página actual es una que requiere protección
-            // (examenes.html, repaso.html, dashboard.html)
+            // --- ESTE BLOQUE AHORA SOLO SE EJECUTA EN PRODUCCIÓN CUANDO NO HAY USUARIO ---
             const isProtectedPage = document.getElementById('filters-container') ||
                 document.getElementById('progressChart') ||
                 document.getElementById('lista-repaso');
 
             if (isProtectedPage) {
-                // Si es una página protegida, redirigimos al portal principal
+                // Si la página es protegida, redirigimos (esto no pasará en desarrollo).
                 window.location.href = 'https://elprofecaicedo.com';
             } else {
-                // Si es una página pública (como tu index.html), simplemente
-                // preparamos la interfaz para un visitante no autenticado.
+                // Si es una página pública (index.html), la configuramos para un visitante.
                 setupUI(null);
                 setupProtectedLinks();
             }
