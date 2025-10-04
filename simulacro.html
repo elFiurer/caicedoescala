@@ -11,16 +11,16 @@
 
 <body>
     <div id="highlighter-guide-overlay">
-    <div class="guide-container">
-        <h3>¡Usa el Resaltador de Texto!</h3>
-        <p>Selecciona cualquier parte de una pregunta o lectura para marcarla.</p>
-        <div class="guide-animation">
-            <span class="guide-text">La respuesta correcta es...</span>
-            <div class="hand-icon">👇</div>
+        <div class="guide-container">
+            <h3>¡Usa el Resaltador de Texto!</h3>
+            <p>Selecciona cualquier parte de una pregunta o lectura para marcarla.</p>
+            <div class="guide-animation">
+                <span class="guide-text">La respuesta correcta es...</span>
+                <div class="hand-icon">👇</div>
+            </div>
+            <button id="close-guide-btn">Entendido</button>
         </div>
-        <button id="close-guide-btn">Entendido</button>
     </div>
-</div>
     <div id="highlighter-guide-overlay">
         <div id="guide-content">
             <div id="guide-animation">
@@ -42,7 +42,8 @@
                     <div class="timer-controls">
                         <div id="timer" class="timer">00:00:00</div>
                         <button id="pause-btn" class="btn-secondary">Pausar</button>
-                        <button id="finish-btn" class="btn-finish">Finalizar</button>
+                        <button id="reset-btn" class="btn-secondary">Reiniciar</button> <button id="finish-btn"
+                            class="btn-finish">Finalizar</button>
                     </div>
                 </div>
             </nav>
@@ -90,7 +91,7 @@
     <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-auth-compat.js"></script>
     <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-firestore-compat.js"></script>
 
-    
+
     <script src="script.js"></script>
 </body>
 

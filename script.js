@@ -895,6 +895,7 @@ document.addEventListener('DOMContentLoaded', () => {
                         opt.addEventListener('click', (e) => {
                             const idx = parseInt(e.target.dataset.questionIndex);
                             userAnswers[idx] = e.target.innerText;
+                            localStorage.setItem(`progresoSimulacro_${examId}`, JSON.stringify(userAnswers));
                             const parentOptions = e.target.closest('.options-container').querySelectorAll('.option');
                             parentOptions.forEach(o => o.classList.remove('selected'));
                             e.target.classList.add('selected');
@@ -903,6 +904,23 @@ document.addEventListener('DOMContentLoaded', () => {
                         });
                     });
                 });
+                Object.keys(userAnswers).forEach(questionIndex => {
+                    const answeredValue = userAnswers[questionIndex];
+                    const questionWrapper = document.getElementById(`question-wrapper-${questionIndex}`);
+                    if (questionWrapper) {
+                        const options = questionWrapper.querySelectorAll('.option');
+                        options.forEach(opt => {
+                            if (opt.innerText === answeredValue) {
+                                opt.classList.add('selected');
+                            }
+                        });
+                        const navButton = document.querySelector(`.nav-question-btn[data-index="${questionIndex}"]`);
+                        if (navButton) {
+                            navButton.classList.add('answered');
+                        }
+                    }
+                });
+
             };
             const finalizarExamen = () => {
                 document.body.classList.add('results-view');
@@ -928,6 +946,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     fecha: new Date().toISOString()
                 };
                 localStorage.setItem('resultadosExamen', JSON.stringify(resultados));
+                localStorage.removeItem(`progresoSimulacro_${examId}`);
                 if (currentUser && db) {
                     db.collection('usuarios').doc(currentUser.uid).collection('historialExamenes').add(resultados)
                         .then(() => console.log("¡Historial del examen guardado en Firestore!"))
@@ -947,6 +966,10 @@ document.addEventListener('DOMContentLoaded', () => {
             const params = new URLSearchParams(window.location.search);
             const examId = params.get('id');
             const seccion = params.get('seccion');
+            const savedProgress = localStorage.getItem(`progresoSimulacro_${examId}`);
+            if (savedProgress) {
+                userAnswers = JSON.parse(savedProgress);
+            }
             const examData = (await getTodosLosExamenes()).find(e => e.id == examId);
             const examQuestionSets = await getBancoDePreguntas(examId);
 
@@ -977,6 +1000,15 @@ document.addEventListener('DOMContentLoaded', () => {
             if (finishBtn) { finishBtn.addEventListener('click', () => { if (confirmOverlay) confirmOverlay.classList.add('active'); }); }
             if (confirmYesBtn) { confirmYesBtn.addEventListener('click', () => { if (confirmOverlay) confirmOverlay.classList.remove('active'); finalizarExamen(); }); }
             if (confirmNoBtn) { confirmNoBtn.addEventListener('click', () => { if (confirmOverlay) confirmOverlay.classList.remove('active'); }); }
+            const resetBtn = document.getElementById('reset-btn');
+            if (resetBtn) {
+                resetBtn.addEventListener('click', () => {
+                    if (confirm("¿Estás seguro? Se borrará todo tu progreso para este examen.")) {
+                        localStorage.removeItem(`progresoSimulacro_${examId}`);
+                        location.reload();
+                    }
+                });
+            }
         })();
     }
     // 👇 REEMPLAZA EL BLOQUE COMPLETO DE LA PÁGINA DE RESULTADOS CON ESTE 👇
@@ -1616,9 +1648,23 @@ document.addEventListener('DOMContentLoaded', () => {
             const startPracticaTimer = () => { clearInterval(practicaTimerInterval); practicaTimerInterval = setInterval(() => { if (practicaTimeRemaining > 0) { practicaTimeRemaining--; updatePracticaTimerDisplay(); } else { clearInterval(practicaTimerInterval); } }, 1000); };
             const stopPracticaTimer = () => { clearInterval(practicaTimerInterval); };
 
+            // ▼▼▼ AÑADIR ESTA NUEVA FUNCIÓN ▼▼▼
+            const guardarProgresoPractica = () => {
+                const estado = {
+                    currentQuestionIndex,
+                    userAnswersPractica,
+                    correctas,
+                    incorrectas,
+                    incorrectasArr,
+                    practicaTimeRemaining
+                };
+                localStorage.setItem(`progresoPractica_${examId}`, JSON.stringify(estado));
+            };
+
             // --- FUNCIÓN PARA FINALIZAR (AHORA COMPLETA) ---
             const finalizarPractica = () => {
                 stopPracticaTimer();
+                localStorage.removeItem(`progresoPractica_${examId}`);
                 const totalPreguntas = flatExamQuestions.length;
                 const puntaje = totalPreguntas > 0 ? (correctas / totalPreguntas) * 100 : 0;
                 if (nextBtnEl) nextBtnEl.style.display = 'none';
@@ -1790,12 +1836,24 @@ document.addEventListener('DOMContentLoaded', () => {
                     });
                 }
                 if (nextBtnEl) nextBtnEl.disabled = false;
+                guardarProgresoPractica();
             };
 
             // --- LÓGICA PRINCIPAL DE ARRANQUE (AHORA COMPLETA) ---
             const params = new URLSearchParams(window.location.search);
             const examId = params.get('id');
             const seccion = params.get('seccion');
+            const savedProgress = localStorage.getItem(`progresoPractica_${examId}`);
+            if (savedProgress) {
+                const estado = JSON.parse(savedProgress);
+                currentQuestionIndex = estado.currentQuestionIndex;
+                userAnswersPractica = estado.userAnswersPractica;
+                correctas = estado.correctas;
+                incorrectas = estado.incorrectas;
+                incorrectasArr = estado.incorrectasArr;
+                practicaTimeRemaining = estado.practicaTimeRemaining;
+                console.log("Progreso de práctica recuperado.");
+            }
             const examData = (await getTodosLosExamenes()).find(e => e.id == examId);
             const examQuestionSets = await getBancoDePreguntas(examId);
 
@@ -1848,6 +1906,15 @@ document.addEventListener('DOMContentLoaded', () => {
                         .catch(() => {
                             console.log("El usuario canceló la finalización de la práctica.");
                         });
+                });
+            }
+            const resetBtnPractica = document.getElementById('reset-btn-practica');
+            if (resetBtnPractica) {
+                resetBtnPractica.addEventListener('click', () => {
+                    if (confirm("¿Estás seguro? Se borrará el progreso de esta práctica.")) {
+                        localStorage.removeItem(`progresoPractica_${examId}`);
+                        location.reload();
+                    }
                 });
             }
         })();
