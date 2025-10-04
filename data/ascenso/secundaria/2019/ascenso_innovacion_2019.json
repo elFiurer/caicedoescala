@@ -1,0 +1,1016 @@
+{
+  "completo": [
+    {
+      "idGrupo": "asc_aip_2019_p01",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Un docente desea compartir información disponible en páginas web con los estudiantes, de manera que puedan consultarlas en sus casas o en el AIP de la IE. Sin embargo, es consciente de que muchos de ellos no están familiarizados con el uso de internet. ¿Cuál de las siguientes actividades es pertinente realizar con los estudiantes antes de compartir información digital?",
+          "opciones": [
+            "Promover y modelar el intercambio de información e interacciones sociales aplicando procedimientos que aseguren la integridad y protección de su información e identidad.",
+            "Promover la construcción de objetos digitales significativos que respondan a las necesidades de su entorno, así como la organización y análisis de la información.",
+            "Promover el uso de herramientas digitales para proteger la información generada a través de las TIC contra diversas amenazas de malware."
+          ],
+          "respuesta": "Promover y modelar el intercambio de información e interacciones sociales aplicando procedimientos que aseguren la integridad y protección de su información e identidad.",
+          "respuestaCorta": "Antes de exponer a los estudiantes a la web, es prioritario enseñarles a proteger su información personal e identidad, un pilar de la ciudadanía digital segura.",
+          "solucionario": "La opción A es la más adecuada porque aborda la competencia fundamental de la ciudadanía digital: la seguridad en línea. Antes de que los estudiantes consuman o compartan contenido en la web, deben aprender a navegar de forma segura, protegiendo sus datos personales y comprendiendo los riesgos potenciales. Las otras opciones son importantes, pero secundarias a la seguridad personal del estudiante en el entorno digital.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_aip_2019_p02",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Un docente ha cambiado el formato de un archivo que corresponde a una canción con licencia compartida de MP3 a MIDI para generar una pista de karaoke y la ha subido a su sitio web. De acuerdo con la Estrategia nacional de las tecnologías digitales en la educación básica, ¿a qué etapa de la inteligencia digital corresponde la acción de este docente?",
+          "opciones": [
+            "Ciudadanía digital.",
+            "Creatividad digital.",
+            "Emprendimiento digital."
+          ],
+          "respuesta": "Creatividad digital.",
+          "respuestaCorta": "La acción de transformar un archivo multimedia (MP3 a MIDI) para crear un nuevo recurso (pista de karaoke) es un claro ejemplo de producción y creación de contenido digital.",
+          "solucionario": "La acción del docente corresponde a la Creatividad digital. Esta etapa de la inteligencia digital implica el uso de herramientas tecnológicas para crear, modificar y generar nuevos contenidos u objetos digitales. Al convertir el formato del archivo y darle un nuevo propósito, el docente está demostrando creatividad. La ciudadanía digital se enfoca en el uso ético y seguro, mientras que el emprendimiento se orientaría más a proyectos con impacto social o económico.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_aip_2019_p03",
+      "contexto": "El director y el equipo de docentes de una IE han elaborado un nuevo proyecto educativo institucional cuya vigencia abarcará desde el año 2020 hasta el año 2024. En este contexto, los docentes han recogido la siguiente información relacionada a las condiciones del AIP de la IE.\nAspectos positivos:\n• Se cuenta con laptops XO.\n• Se cuenta con servicio de internet.\n• La UGEL capacita a los DAIP de manera continua.\n• Existen varias cabinas de internet que cuentan con filtro de contenido, cercanas a la IE.\nAspectos negativos:\n• Los equipos de cómputo están desactualizados.\n• No se cuenta con filtro de contenido en el AIP.\n• No se dispone de un registro de visitas de los docentes al AIP.\n• La IE se encuentra en una zona con alto índice de delincuencia y pandillaje.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes elementos del FODA de la IE corresponde a la desactualización de los equipos de cómputo?",
+          "opciones": [
+            "Amenaza.",
+            "Debilidad.",
+            "Oportunidad."
+          ],
+          "respuesta": "Debilidad.",
+          "respuestaCorta": "La desactualización de equipos es una Debilidad porque es un factor interno que limita la capacidad de la IE para cumplir sus objetivos.",
+          "solucionario": "En un análisis FODA, las Debilidades son factores internos que perjudican o limitan a la organización. La desactualización de los equipos de cómputo es un aspecto negativo que pertenece a la institución y que dificulta el aprovechamiento de la tecnología, por lo tanto, es una Debilidad. Las Amenazas son factores externos negativos, y las Oportunidades son factores externos positivos.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes elementos del FODA de la IE corresponde a la existencia de cabinas de internet con filtro de contenido cercanas a la IE?",
+          "opciones": [
+            "Oportunidad.",
+            "Debilidad.",
+            "Fortaleza."
+          ],
+          "respuesta": "Oportunidad.",
+          "respuestaCorta": "La existencia de cabinas de internet cercanas es una Oportunidad, ya que es un factor externo que la IE puede aprovechar para complementar sus recursos.",
+          "solucionario": "En un análisis FODA, las Oportunidades son factores externos que la organización puede aprovechar en su beneficio. La existencia de cabinas de internet cercanas con filtros de contenido es un recurso del entorno, no de la IE, que puede ser utilizado por los estudiantes para continuar sus actividades. Por tanto, representa una Oportunidad. Las Fortalezas son factores internos positivos.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_aip_2019_p05",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Un estudiante ingresó a su red social para visualizar información de su grupo de estudios, y, para no distraerse, desactivó el chat de su cuenta. Sin embargo, mantuvo activo el chat para los miembros de su grupo. ¿Qué capacidad evidencia el estudiante en la situación presentada?",
+          "opciones": [
+            "Personaliza entornos virtuales.",
+            "Gestiona información del entorno virtual.",
+            "Crea objetos virtuales en diversos formatos."
+          ],
+          "respuesta": "Personaliza entornos virtuales.",
+          "respuestaCorta": "El estudiante demuestra la capacidad de personalizar su entorno virtual al modificar la configuración de la herramienta (chat) para adaptarla a sus necesidades de estudio.",
+          "solucionario": "La capacidad de 'Personaliza entornos virtuales' se refiere a la habilidad de adaptar y configurar espacios y herramientas digitales según las propias necesidades y objetivos. Al desactivar el chat para unos y mantenerlo para otros, el estudiante está modificando activamente la funcionalidad del entorno para optimizar su concentración y comunicación, lo que encaja perfectamente con esta capacidad.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_aip_2019_p06",
+      "contexto": "Una DAIP dirige un curso en mundos virtuales para los docentes de una IE. Al iniciar, la DAIP plantea una actividad en la que les solicita que ingresen a una plataforma online y seleccionen un avatar de forma humana para identificarse. Posteriormente, les pide que se desplacen en dicha plataforma y que realicen actividades sociales con otros avatars que se encuentran en este mundo. Finalmente, les indica que deben consolidar su experiencia en un informe.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué capacidad se favorece al realizar actividades sociales con otros avatars?",
+          "opciones": [
+            "Interactúa en entornos virtuales.",
+            "Gestiona información del entorno virtual.",
+            "Crea objetos virtuales en diversos formatos."
+          ],
+          "respuesta": "Interactúa en entornos virtuales.",
+          "respuestaCorta": "La realización de actividades sociales con otros avatares implica directamente la comunicación y colaboración con otros en un espacio digital, lo cual define la capacidad de interactuar en entornos virtuales.",
+          "solucionario": "La capacidad 'Interactúa en entornos virtuales' se manifiesta cuando las personas se comunican, colaboran y construyen vínculos con otros a través de plataformas digitales. Realizar actividades sociales, aunque sea a través de avatares, es una forma de interacción social en un entorno virtual. Las otras opciones se centran en el manejo de información o la creación de contenido, no en la interacción social.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Qué característica de los mundos virtuales representa la selección de un avatar de forma humana para identificarse?",
+          "opciones": [
+            "Corporeidad.",
+            "Persistencia.",
+            "Interactividad."
+          ],
+          "respuesta": "Corporeidad.",
+          "respuestaCorta": "La corporeidad en los mundos virtuales se refiere a la representación del usuario a través de un avatar, que le da una presencia y un 'cuerpo' dentro de ese espacio digital.",
+          "solucionario": "La Corporeidad es la característica de los mundos virtuales que permite a los usuarios tener una representación de sí mismos, generalmente a través de un avatar. Este avatar actúa como el 'cuerpo' del usuario dentro del entorno virtual, permitiéndole moverse, interactuar y tener una presencia visible. La Persistencia se refiere a que el mundo sigue existiendo aunque el usuario se desconecte, y la Interactividad a la capacidad de relacionarse con el entorno y otros usuarios.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_aip_2019_p08",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes enunciados presenta una diferencia entre la tecnología de realidad aumentada y la tecnología de realidad virtual?",
+          "opciones": [
+            "La realidad aumentada demanda un mayor ancho de banda de internet que la aplicación de la tecnología de realidad virtual.",
+            "La realidad aumentada modifica parcialmente el ambiente real sin cambiarlo en su totalidad, mientras que la realidad virtual crea un ambiente totalmente diferente del real.",
+            "La realidad aumentada se apoya necesariamente en gafas especiales para su aplicación; en cambio, la realidad virtual puede prescindir de ellas y aplicarse sin restricción en tablets o smartphones."
+          ],
+          "respuesta": "La realidad aumentada modifica parcialmente el ambiente real sin cambiarlo en su totalidad, mientras que la realidad virtual crea un ambiente totalmente diferente del real.",
+          "respuestaCorta": "La diferencia clave es que la realidad aumentada superpone información digital al mundo real, mientras que la realidad virtual sumerge al usuario en un entorno completamente digital y artificial.",
+          "solucionario": "La opción B describe la diferencia fundamental entre ambas tecnologías. La Realidad Aumentada (RA) enriquece el entorno real añadiendo capas de información digital (como ver un mueble 3D en tu sala a través del móvil). En contraste, la Realidad Virtual (RV) reemplaza completamente el entorno real por uno simulado, creando una inmersión total. Las otras opciones son incorrectas; por ejemplo, la RA no requiere necesariamente gafas especiales, a menudo usa smartphones.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_aip_2019_p09",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Los docentes de una IE van a desarrollar un proyecto que integra diversas áreas. Por esta razón, necesitan compartir la programación de sus actividades en tiempo real y sincronizar las relacionadas a este proyecto al correo electrónico de cada docente. ¿Cuál de las siguientes herramientas es más adecuada para este fin?",
+          "opciones": [
+            "Podcast.",
+            "Calendario.",
+            "Mensajería instantánea."
+          ],
+          "respuesta": "Calendario.",
+          "respuestaCorta": "Una herramienta de calendario en línea es la más adecuada para programar actividades, compartirlas en tiempo real y sincronizarlas con los correos de los participantes.",
+          "solucionario": "Para la gestión de actividades y programación en un proyecto colaborativo, un calendario digital (como Google Calendar, Outlook Calendar, etc.) es la herramienta idónea. Permite crear eventos, invitar participantes, establecer fechas y horas, y se sincroniza automáticamente con los correos electrónicos para enviar notificaciones y recordatorios. Un podcast es para contenido de audio y la mensajería es para comunicación sincrónica, no para programación estructurada.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_aip_2019_p10",
+      "contexto": "Los docentes de una IE reciben una capacitación para la realización de un registro de calificación en una hoja de cálculo. Este registro permitirá el ingreso de calificaciones para tres evaluaciones (E1, E2 y E3) y una calificación final (EF), tal como se muestra en el siguiente gráfico:",
+      "imagen": "img/ascenso/secundaria/2019/aip/1.jpg",
+      "preguntas": [
+        {
+          "pregunta": "El DAIP solicita a los docentes que configuren la hoja de cálculo para que solo permita el ingreso de los valores AD, A, B o C al calificar las evaluaciones. ¿Qué opción deben aplicar los docentes para ello?",
+          "opciones": [
+            "Rastrear precedente.",
+            "Validación de datos.",
+            "Filtro avanzado."
+          ],
+          "respuesta": "Validación de datos.",
+          "respuestaCorta": "La herramienta 'Validación de datos' en una hoja de cálculo permite restringir el tipo de datos o los valores que los usuarios pueden introducir en una celda.",
+          "solucionario": "La función 'Validación de datos' está diseñada específicamente para controlar lo que se puede ingresar en una celda. Se puede configurar una regla que solo permita la entrada de valores desde una lista predefinida (en este caso, 'AD', 'A', 'B', 'C'), evitando así errores de digitación y asegurando la consistencia de los datos. Las otras opciones tienen propósitos diferentes: 'Rastrear precedente' muestra qué celdas afectan a una fórmula y 'Filtro avanzado' sirve para consultar datos.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "El DAIP pide a los docentes que configuren la hoja de cálculo para que, cuando la calificación final sea C, el color de fondo de la celda se oscurezca, y el color de la letra cambie a blanco de forma automática. ¿Qué opción deben aplicar los docentes para ello?",
+          "opciones": [
+            "Formato condicional.",
+            "Tabla dinámica.",
+            "Buscar objetivo."
+          ],
+          "respuesta": "Formato condicional.",
+          "respuestaCorta": "La herramienta 'Formato condicional' permite aplicar automáticamente un formato específico (como color de fondo o de letra) a las celdas que cumplen con una determinada condición.",
+          "solucionario": "El 'Formato condicional' es la función precisa para esta tarea. Permite establecer reglas que cambian la apariencia de una celda en función de su valor. En este caso, la regla sería: 'Si el valor de la celda es igual a C, aplicar fondo oscuro y letra blanca'. Una tabla dinámica se usa para resumir datos y 'Buscar objetivo' para encontrar un valor de entrada que dé un resultado deseado en una fórmula.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_aip_2019_p12",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es la principal diferencia entre un servidor y una PC de escritorio?",
+          "opciones": [
+            "El servidor utiliza discos rígidos para proteger los datos, mientras que la PC de escritorio permite instalar discos sólidos, lo que agiliza la transferencia interna de información.",
+            "El servidor es un equipo de mayor capacidad de trabajo que una PC de escritorio, lo que le permite trabajar las 24 horas del día, los 365 días del año sin interrumpir su servicio.",
+            "El servidor tiene una gran capacidad de memoria RAM, por lo que puede trabajar múltiples procesos en tiempo real; esto no se puede realizar con una PC de escritorio, por tener una memoria RAM de menor capacidad."
+          ],
+          "respuesta": "El servidor es un equipo de mayor capacidad de trabajo que una PC de escritorio, lo que le permite trabajar las 24 horas del día, los 365 días del año sin interrumpir su servicio.",
+          "respuestaCorta": "Un servidor está diseñado para una operación continua (24/7) y para gestionar solicitudes de múltiples usuarios, a diferencia de una PC de escritorio diseñada para un solo usuario y uso intermitente.",
+          "solucionario": "La diferencia fundamental radica en el propósito y la fiabilidad. Los servidores están construidos con componentes de mayor calidad (fuentes de poder redundantes, memoria ECC, etc.) diseñados para funcionar ininterrumpidamente 24/7 y atender a muchos clientes a la vez. Una PC de escritorio está diseñada para el uso de una persona y no para estar encendida y trabajando a plena carga constantemente. Las otras opciones son incorrectas o imprecisas; ambas pueden usar discos sólidos y las PC modernas pueden manejar múltiples procesos.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_aip_2019_p13",
+      "contexto": "En una IE, los estudiantes están trabajando una investigación sobre desarrollo sostenible. Esta actividad incluye el registro semanal de información a través de una encuesta online que los estudiantes aplicarán a tres integrantes de su familia o amistades durante tres meses. A continuación, se muestran cuatro preguntas que forman parte de la encuesta.\n• ¿Apagó las luces de su domicilio cuando no era necesario tenerlas encendidas?\n• ¿Cuántas bolsas plásticas empleó esta semana?\n• ¿Recicló algunos materiales que empleó en la semana?\n• ¿Cómo considera que está actuando frente al calentamiento global?",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Para registrar las respuestas, se propone que los encuestados registren la información en la siguiente dirección: http://315.12.65.122. Sin embargo, según la opinión de algunos estudiantes, esta codificación resulta complicada de recordar y, por ello, sugieren cambiar la dirección por http://www.desarrollosostenible2019.pe. ¿Qué elemento corresponde al cambio sugerido?",
+          "opciones": [
+            "Hosting.",
+            "Dominio.",
+            "Servidor."
+          ],
+          "respuesta": "Dominio.",
+          "respuestaCorta": "El cambio de una dirección IP numérica (315.12.65.122) a un nombre fácil de recordar (www.desarrollosostenible2019.pe) corresponde a la asignación de un nombre de dominio.",
+          "solucionario": "Una dirección IP (como 315.12.65.122) es la dirección numérica real de un servidor en internet. Un nombre de Dominio (como www.desarrollosostenible2019.pe) es un 'alias' o nombre amigable que apunta a esa dirección IP, facilitando que los humanos lo recuerden y usen. El Hosting es el servicio de almacenamiento de los archivos del sitio web, y el Servidor es la máquina física donde se aloja.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "La docente de Matemática propone a los estudiantes representar la información que obtengan, cuando se aplique la encuesta, en tablas y gráficos en una hoja de cálculo. En ese contexto, Manuel, un estudiante, expresa que la pregunta \"¿Cómo considera que está actuando frente al calentamiento global?\" no se puede procesar automáticamente. La docente recoge el problema identificado por Manuel y solicita a los estudiantes que propongan una alternativa de solución a dicho problema. ¿Cuál de los siguientes estudiantes manifiesta la alternativa más pertinente?",
+          "opciones": [
+            "Mario: Debemos colocar en la encuesta categorías de respuesta para esa pregunta, de tal forma que puedan elegir entre bien, regular o mal.",
+            "Micaela: Se debe excluir la pregunta del procesamiento de datos y solo debemos considerarla como una referencia.",
+            "Luisa: Considero que debemos reemplazar la pregunta por otra que pueda responderse con sí o no."
+          ],
+          "respuesta": "Mario: Debemos colocar en la encuesta categorías de respuesta para esa pregunta, de tal forma que puedan elegir entre bien, regular o mal.",
+          "respuestaCorta": "Para procesar datos cualitativos automáticamente, es necesario convertirlos en datos cuantitativos o categóricos, como sugiere Mario al proponer opciones cerradas (bien, regular, mal).",
+          "solucionario": "La pregunta original es abierta y cualitativa, lo que dificulta su tabulación y análisis automático en una hoja de cálculo. La propuesta de Mario es la más pertinente porque convierte la pregunta abierta en una pregunta cerrada con opciones predefinidas (escala de Likert simple). Esto permite cuantificar las respuestas (por ejemplo, contar cuántos respondieron 'bien', 'regular' o 'mal') y así poder crear tablas y gráficos fácilmente. Excluir la pregunta o simplificarla a 'sí/no' haría perder la riqueza de la información.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_aip_2019_p15",
+      "contexto": "La DAIP de una IE está realizando un video para capacitar a los docentes sobre el uso del software 3D y su aplicación en el desarrollo de prototipos. Para ello, ha elegido como ejemplo la construcción de una casa en 3D, por lo que debe renderizar un video del recorrido en su interior. Al realizar este procedimiento, aparece el siguiente mensaje: \"No se puede renderizar el video. El sistema está bajo de memoria\". La DAIP se percata de que, a pesar de haber elaborado el prototipo en una PC de última generación, la tarjeta de video se encuentra integrada en la placa madre y tiene baja capacidad de memoria designada, por lo que decide adquirir una tarjeta de video dedicada para esta PC.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué tipo de slot ocupa la tarjeta de video dedicada que implementará la DAIP?",
+          "opciones": [
+            "ISA.",
+            "AGP.",
+            "PCI Express."
+          ],
+          "respuesta": "PCI Express.",
+          "respuestaCorta": "En las PC de última generación, las tarjetas de video dedicadas se instalan en el slot PCI Express (PCIe), que ofrece el mayor ancho de banda.",
+          "solucionario": "PCI Express (PCIe) es el estándar moderno para conectar componentes de alta velocidad, como las tarjetas de video, a la placa madre de una computadora. Los slots ISA y AGP son tecnologías mucho más antiguas y obsoletas que no se encuentran en una 'PC de última generación'. Por lo tanto, la única opción viable y correcta es PCI Express.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "La DAIP no ha encontrado una tarjeta de video dedicada para instalar en la PC, por lo que no ha podido concluir con la renderización del video. Al observar nuevamente las propiedades de la PC, ha notado que tiene 8 GB de memoria RAM, de los cuales solo distribuye 1 GB de memoria RAM a la tarjeta de video; no obstante, para renderizar el video necesita como mínimo 2 GB de memoria designada para la tarjeta de video. Ante el inconveniente presentado, ¿cuál es la solución más adecuada para renderizar el video?",
+          "opciones": [
+            "Instalar un módulo adicional de memoria RAM para aumentar la memoria destinada a la tarjeta de video.",
+            "Modificar la configuración del UEFI o BIOS, y aumentar la capacidad de memoria destinada a la tarjeta de video.",
+            "Reinstalar el software de diseño 3D en una versión anterior, de tal forma que los archivos originados ocupen menos memoria."
+          ],
+          "respuesta": "Modificar la configuración del UEFI o BIOS, y aumentar la capacidad de memoria destinada a la tarjeta de video.",
+          "respuestaCorta": "En sistemas con gráficos integrados, la cantidad de memoria RAM del sistema asignada al video se puede ajustar en la configuración del UEFI/BIOS.",
+          "solucionario": "La solución más directa y adecuada es acceder a la configuración del sistema (UEFI o BIOS) y modificar la cantidad de memoria RAM compartida que se asigna a los gráficos integrados. Dado que la PC tiene 8 GB de RAM total y solo está usando 1 GB para video, es muy probable que se pueda reasignar hasta 2 GB o más sin afectar significativamente el rendimiento general del sistema para esta tarea específica. Instalar más RAM no garantiza que el sistema asigne más memoria al video automáticamente, y reinstalar el software es una medida menos eficiente.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_aip_2019_p17",
+      "contexto": "El DAIP ha instalado el Servidor Escuela de la IE, el cual tiene los siguientes datos estáticos en su configuración de tarjeta de red:\nDirección IP: 172.16.74.114\nMáscara de subred: 255.255.255.252\nPuerta de enlace: 172.16.74.113",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué clase de dirección IP tiene la tarjeta de red?",
+          "opciones": [
+            "Clase A.",
+            "Clase B.",
+            "Clase C."
+          ],
+          "respuesta": "Clase B.",
+          "respuestaCorta": "Las direcciones IP que comienzan con un primer octeto entre 128 y 191, como 172, pertenecen a la Clase B.",
+          "solucionario": "La clasificación de direcciones IP por clase se basa en el valor del primer octeto. El rango para la Clase B es de 128 a 191. Dado que la dirección IP es 172.16.74.114 y su primer octeto (172) se encuentra dentro de ese rango, pertenece a la Clase B.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Qué cantidad de hosts por subred permite la máscara configurada?",
+          "opciones": [
+            "254",
+            "128",
+            "2"
+          ],
+          "respuesta": "2",
+          "respuestaCorta": "Una máscara de subred 255.255.255.252 (/30) deja solo 2 bits para hosts, lo que permite 4 direcciones en total, de las cuales 2 son utilizables para dispositivos (hosts).",
+          "solucionario": "La máscara 255.255.255.252 en binario es 11111111.11111111.11111111.11111100. Esto deja los últimos 2 bits para las direcciones de host. Con 2 bits, se pueden crear 2^2 = 4 direcciones. Sin embargo, la primera dirección se reserva para la red y la última para el broadcast, dejando solo 2 direcciones IP utilizables para hosts.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Qué tipo de dirección IP posee la tarjeta de red?",
+          "opciones": [
+            "Pública.",
+            "Privada.",
+            "Dinámica."
+          ],
+          "respuesta": "Privada.",
+          "respuestaCorta": "La dirección 172.16.74.114 se encuentra dentro del rango de direcciones IP privadas de Clase B (172.16.0.0 a 172.31.255.255).",
+          "solucionario": "Existen rangos de direcciones IP reservados para redes privadas que no son enrutables en internet. Para la Clase B, este rango va desde 172.16.0.0 hasta 172.31.255.255. Como la dirección 172.16.74.114 está dentro de este rango, es una dirección IP privada. Dinámica se refiere al método de asignación, no al tipo de dirección.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_aip_2019_p20",
+      "contexto": "Una docente está realizando una actividad con los estudiantes de quinto grado con las laptops XO del AIP. Como parte de la actividad, solicita a los estudiantes que ingresen a su \"vecindario\", donde visualizarán a sus compañeros de clase. Luego, les pide que elijan a un estudiante seleccionando la opción \"Invitar a la actividad charla\" que aparece al hacer clic sobre el ícono del compañero visualizado, para realizarle una breve entrevista.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Al iniciar la actividad, un estudiante indica a la docente que no puede visualizar a sus compañeros en el \"vecindario\". ¿Cuál es la primera acción que debe realizar el DAIP para brindar solución al problema reportado por el estudiante?",
+          "opciones": [
+            "Realizar el testeo de la XO.",
+            "Cambiar las antenas inalámbricas.",
+            "Reinstalar el sistema operativo de la XO."
+          ],
+          "respuesta": "Realizar el testeo de la XO.",
+          "respuestaCorta": "El primer paso para diagnosticar un problema de conectividad en una XO es realizar el testeo de sus componentes, especialmente los de red, para identificar la falla.",
+          "solucionario": "El testeo de la XO es una herramienta de diagnóstico integrada que permite verificar el estado del hardware, incluyendo la tarjeta de red inalámbrica. Antes de tomar medidas drásticas como cambiar componentes o reinstalar el sistema, es fundamental realizar un diagnóstico para identificar la causa raíz del problema. El testeo puede revelar si la tarjeta de red está fallando, lo que guiará los siguientes pasos.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_aip_2019_p21",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cómo se denomina el tipo de red que permite que las laptops XO se conecten directamente entre sí?",
+          "opciones": [
+            "Estrella.",
+            "Malla.",
+            "Bus."
+          ],
+          "respuesta": "Malla.",
+          "respuestaCorta": "Las laptops XO utilizan una red en malla (mesh network), que permite que los dispositivos se conecten directamente entre sí sin necesidad de un punto de acceso central.",
+          "solucionario": "La topología de red en Malla es una característica distintiva de las laptops XO. En este tipo de red, cada nodo (laptop) puede comunicarse directamente con otros nodos dentro de su alcance, retransmitiendo datos para otros. Esto crea una red descentralizada y resiliente, ideal para entornos sin infraestructura de red tradicional. Las topologías en Estrella y Bus dependen de un punto central o un cable común, respectivamente.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_aip_2019_p22",
+      "contexto": "Una IE cuenta con un AIP implementada con laptops y PC de escritorio. Sin embargo, la IE solo posee conexión a internet en las aulas que están ubicadas en un radio de 5 metros del AIP. El Gobierno Regional ha acordado mejorar las condiciones del AIP y encontrar una solución para proveer de internet a toda la institución a fin de que los profesores y los estudiantes puedan conectarse sin problemas con sus propios dispositivos, ya sean laptops, tablets o smartphones.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes acciones es la más adecuada para proveer de internet a toda la IE?",
+          "opciones": [
+            "Instalar un access point en cada aula y conectar los access point por medio de un cable de red al switch ubicado en el AIP.",
+            "Adquirir otra línea internet para proveer de este servicio a toda la institución por medio de una conexión cableada en cada aula.",
+            "Realizar un cableado estructurado de datos implementando un switch en cada aula a través de un cable ethernet categoría 5e conectado desde el switch del AIP."
+          ],
+          "respuesta": "Instalar un access point en cada aula y conectar los access point por medio de un cable de red al switch ubicado en el AIP.",
+          "respuestaCorta": "Para dar cobertura de internet inalámbrico (WiFi) a toda una institución y permitir la conexión de diversos dispositivos, la solución más escalable y adecuada es instalar puntos de acceso (access points) en ubicaciones estratégicas.",
+          "solucionario": "La opción A es la solución estándar y más eficiente para extender una red y proveer cobertura Wi-Fi en un área amplia como una escuela. Cada 'access point' (punto de acceso) crea una zona de cobertura inalámbrica, y al conectarlos por cable al switch principal, se asegura una conexión estable y de buena velocidad en toda la institución, permitiendo que dispositivos móviles se conecten. Las otras opciones se centran en conexiones cableadas, lo que no satisface el requisito de conectar tablets y smartphones fácilmente.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_aip_2019_p23",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué nombre recibe la dirección IP del servidor que permite el acceso a internet de los dispositivos conectados?",
+          "opciones": [
+            "Máscara de subred.",
+            "Puerta de enlace.",
+            "Servidor DNS."
+          ],
+          "respuesta": "Puerta de enlace.",
+          "respuestaCorta": "La puerta de enlace (gateway) es la dirección IP del dispositivo (generalmente un router) que actúa como punto de salida de una red local hacia internet.",
+          "solucionario": "La 'Puerta de enlace' o 'Gateway' es el dispositivo que enruta el tráfico desde la red local hacia redes externas, como internet. Cuando un dispositivo en el AIP necesita comunicarse con un servidor fuera de la IE, envía los datos a la puerta de enlace, que se encarga de reenviarlos. La máscara de subred define el tamaño de la red local, y el servidor DNS traduce nombres de dominio a direcciones IP.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_aip_2019_p24",
+      "contexto": "La DAIP de una IE nota que la señal wifi del AIP puede llegar a los domicilios y establecimientos cercanos a la IE. Con el propósito de evitar amenazas a la conexión, decide establecer un protocolo de seguridad.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes protocolos es más seguro?",
+          "opciones": [
+            "Filtrado MAC.",
+            "Cifrado WEP.",
+            "Cifrado WPA2."
+          ],
+          "respuesta": "Cifrado WPA2.",
+          "respuestaCorta": "WPA2 (Wi-Fi Protected Access 2) es el protocolo de cifrado más robusto y seguro comúnmente utilizado en redes Wi-Fi modernas, superando significativamente a WEP y al filtrado MAC.",
+          "solucionario": "WPA2 es el estándar de seguridad más fuerte entre las opciones. Utiliza un cifrado avanzado (AES) que es muy difícil de vulnerar. WEP es un protocolo antiguo y altamente inseguro que puede ser descifrado en minutos. El filtrado MAC, aunque puede añadir una capa de seguridad, es fácil de eludir falsificando la dirección MAC de un dispositivo autorizado. Por lo tanto, WPA2 es la elección correcta para proteger la red.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_aip_2019_p25",
+      "contexto": "El AIP de una IE cuenta con servicio de internet, laptops XO, PC de escritorio, módem y switch; sin embargo, las laptops XO no pueden conectarse a internet, pues requieren de un dispositivo adicional.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué dispositivo se necesita para conectar estos equipos a internet?",
+          "opciones": [
+            "Access point.",
+            "Servidor.",
+            "Hub."
+          ],
+          "respuesta": "Access point.",
+          "respuestaCorta": "Para que dispositivos inalámbricos como las laptops XO se conecten a una red cableada (que tiene un módem y un switch), se necesita un punto de acceso (Access Point) que sirva de puente.",
+          "solucionario": "Un 'Access Point' (Punto de Acceso) es un dispositivo que crea una red de área local inalámbrica (WLAN). Funciona como un puente entre los dispositivos inalámbricos (laptops XO) y la red cableada existente (conectada al switch y al módem). Un servidor tiene otras funciones y un hub es un dispositivo de red cableada obsoleto y menos eficiente que un switch.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_aip_2019_p26",
+      "contexto": "El Ministerio de Educación viene capacitando a los docentes de todo el país en alfabetización digital, a través de la plataforma PerúEduca. Sin embargo, algunos docentes no pueden acceder a dicha plataforma porque las IE donde laboran no cuentan con conexión a internet.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué tipo de conexión de internet es más recomendable para una IE que se encuentra en una zona en la que no existen proveedores de servicio de internet?",
+          "opciones": [
+            "ADSL.",
+            "Satelital.",
+            "Fibra óptica."
+          ],
+          "respuesta": "Satelital.",
+          "respuestaCorta": "El internet satelital es la opción más viable en zonas remotas o rurales donde no llega la infraestructura de redes terrestres como ADSL o fibra óptica.",
+          "solucionario": "Tanto ADSL como la Fibra óptica requieren una infraestructura física de cableado que llegue hasta la ubicación de la IE. Si en la zona no existen proveedores, es porque esa infraestructura no está disponible. El internet Satelital, en cambio, solo necesita una antena receptora con vista al cielo para funcionar, lo que lo convierte en la solución ideal para lugares sin cobertura terrestre.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "El director de una IE ubicada en una zona atendida por proveedores de servicio de internet ha conseguido, a través del presupuesto participativo, la implementación de una línea de internet para el AIP, cuyo pago será asumido por el municipio del distrito, por ello debe elegir una de las empresas que ofrece el servicio. ¿Cuál de las siguientes opciones es la más recomendable?",
+          "opciones": [
+            "La empresa A ofrece servicio de internet por medio de un modem USB que trabaja con conectividad 4G y que cuenta con una velocidad de 10 Mbps con un límite de 10 GB de transferencia.",
+            "La empresa B ofrece servicio de internet por medio de una conexión ADSL con una velocidad de 8 Mbps y transferencia de datos ilimitada.",
+            "La empresa C ofrece servicio de internet por medio de conexión satelital con una velocidad de 5 Mbps y tasa de transferencia ilimitada."
+          ],
+          "respuesta": "La empresa B ofrece servicio de internet por medio de una conexión ADSL con una velocidad de 8 Mbps y transferencia de datos ilimitada.",
+          "respuestaCorta": "Para un entorno educativo como un AIP, una conexión con transferencia de datos ilimitada es crucial, incluso si la velocidad es ligeramente menor, ya que evita quedarse sin servicio a mitad de mes.",
+          "solucionario": "La opción B es la más recomendable para un AIP. Aunque su velocidad (8 Mbps) es un poco menor que la opción A (10 Mbps), la característica clave es la 'transferencia de datos ilimitada'. Un AIP tendrá múltiples usuarios navegando, descargando recursos y viendo videos, lo que consumiría rápidamente un límite de datos como el de 10 GB de la opción A, dejando a la escuela sin internet. La opción C (satelital) es más lenta y generalmente tiene mayor latencia, siendo menos ideal si hay ADSL disponible.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "El especialista de la UGEL entrega al DAIP de la IE los archivos portables del curso, para que pueda compartirlos en la intranet de la escuela. ¿Qué debe implementar el DAIP para que los docentes puedan acceder al curso desde las computadoras del AIP?",
+          "opciones": [
+            "Hosting.",
+            "Servidor web.",
+            "Gestor de base de datos."
+          ],
+          "respuesta": "Servidor web.",
+          "respuestaCorta": "Para alojar y servir archivos o una aplicación web en una red local (intranet), se necesita instalar un software de servidor web en una de las computadoras.",
+          "solucionario": "Un 'Servidor web' (como Apache, Nginx o IIS) es el software que permite que una computadora responda a las solicitudes de los navegadores y sirva páginas web y archivos a través de una red. Para crear una intranet donde los docentes accedan a los archivos del curso, el DAIP debe configurar un servidor web en una máquina de la red local. 'Hosting' es un servicio externo para internet y un 'gestor de base de datos' sería necesario solo si la aplicación del curso lo requiere, pero el componente fundamental es el servidor web.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_aip_2019_p29",
+      "contexto": "Ha llegado un lote de 20 laptops, que tienen las mismas características, para el AIP de una IE que posee una red inalámbrica con identificación SSID de nombre MINEDU. Sin embargo, al encender las laptops, ninguna puede detectar el SSID de la red inalámbrica del AIP, aunque sí detectan los SSID de las redes inalámbricas externas.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Por qué razón se presenta el problema detectado?",
+          "opciones": [
+            "Porque la frecuencia del access point es diferente a la frecuencia de las tarjetas de red de las laptops.",
+            "Porque la configuración de la dirección IP de la tarjeta de red del access point es incorrecta.",
+            "Porque la configuración del firewall del access point es muy restrictiva."
+          ],
+          "respuesta": "Porque la frecuencia del access point es diferente a la frecuencia de las tarjetas de red de las laptops.",
+          "respuestaCorta": "Si las laptops ven otras redes pero no la del AIP, es muy probable que haya una incompatibilidad de frecuencia (ej. el AP transmite en 5 GHz y las laptops solo soportan 2.4 GHz).",
+          "solucionario": "Las redes Wi-Fi operan en diferentes bandas de frecuencia, principalmente 2.4 GHz y 5 GHz. Si el 'access point' del AIP está configurado para transmitir exclusivamente en la banda de 5 GHz, pero las tarjetas de red de las nuevas laptops solo son compatibles con la banda de 2.4 GHz, estas no podrán 'ver' ni conectarse a la red MINEDU, aunque sí detectarán otras redes cercanas que transmitan en 2.4 GHz. Un problema de IP o firewall no impediría que el SSID sea visible.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_aip_2019_p30",
+      "contexto": "El municipio de un distrito brinda el servicio de internet de manera inalámbrica a las IE cercanas. Sin embargo, una IE no posee internet hasta la fecha porque su access point tiene una configuración incorrecta.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué función se debe activar en el access point para que esta IE se conecte a internet?",
+          "opciones": [
+            "WDS.",
+            "DHCP.",
+            "WPA2."
+          ],
+          "respuesta": "WDS.",
+          "respuestaCorta": "La función WDS (Wireless Distribution System) permite que un punto de acceso se conecte de forma inalámbrica a otro para extender la red, actuando como repetidor o puente.",
+          "solucionario": "WDS (Sistema de Distribución Inalámbrico) es una función que permite a un 'access point' actuar como un cliente o repetidor de otra señal Wi-Fi. En este caso, para que el 'access point' de la IE se conecte a la red inalámbrica del municipio y a su vez provea de internet a la escuela, debe configurarse en un modo compatible con WDS, como puente o repetidor. DHCP es para asignar IPs y WPA2 es un protocolo de seguridad.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_aip_2019_p31",
+      "contexto": "Un equipo de estudiantes desea realizar una investigación en el área de Educación para el Trabajo sobre la integración de la tecnología biométrica en los smartphones, pero aún no deciden qué aspecto específico de dicho tema van a investigar.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes estudiantes plantea una propuesta adecuada para realizar dicha investigación?",
+          "opciones": [
+            "Pedro: Yo creo que deberíamos investigar el acceso a las aplicaciones cifradas instaladas en el dispositivo por medio de un patrón de coordenadas.",
+            "José: Propongo que investiguemos sobre la graduación automática del brillo de la pantalla del dispositivo de acuerdo con la luz del ambiente.",
+            "Hayde: Sugiero que investiguemos sobre el desbloqueo de dispositivos a través del reconocimiento del iris."
+          ],
+          "respuesta": "Hayde: Sugiero que investiguemos sobre el desbloqueo de dispositivos a través del reconocimiento del iris.",
+          "respuestaCorta": "El reconocimiento del iris es un ejemplo directo de tecnología biométrica, ya que se basa en la medición de una característica física única del individuo.",
+          "solucionario": "La tecnología biométrica se refiere a la identificación de personas basada en sus características biológicas o de comportamiento únicas. El reconocimiento del iris (propuesta de Hayde) es un claro ejemplo de biometría. Un patrón de coordenadas (Pedro) es un método basado en el conocimiento, no biométrico. La graduación del brillo (José) se basa en sensores ambientales, no en características del usuario.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_aip_2019_p32",
+      "contexto": "Para evitar ataques informáticos y, a su vez, mejorar la digitalización de textos, muchas páginas web utilizan un método que les permite determinar si sus usuarios son humanos o no.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es el nombre que recibe este método?",
+          "opciones": [
+            "Captcha.",
+            "Timegate.",
+            "Recaptcha."
+          ],
+          "respuesta": "Recaptcha.",
+          "respuestaCorta": "Recaptcha es el sistema que, además de verificar que el usuario es humano, utiliza este proceso para ayudar a digitalizar textos o identificar objetos en imágenes.",
+          "solucionario": "Mientras que un Captcha genérico es una prueba para diferenciar humanos de bots, el sistema Recaptcha (adquirido por Google) tiene un doble propósito: seguridad y ayuda a la digitalización. Al resolver un Recaptcha que muestra texto distorsionado, los usuarios ayudan a digitalizar libros y archivos que el reconocimiento óptico de caracteres (OCR) no pudo procesar. Por lo tanto, Recaptcha encaja perfectamente con la descripción de la pregunta.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_aip_2019_p33",
+      "contexto": "Un estudiante está desarrollando un prototipo de brazo robótico en el área de Ciencia y Tecnología. Él describe su dispositivo de la siguiente manera:\n\"Este prototipo tiene una estructura en la que el esfuerzo se encuentra entre la resistencia y el punto de apoyo. El codo sería el punto de apoyo; el biceps sería el esfuerzo; y la mano, la resistencia\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué tipo de dispositivo describe el estudiante?",
+          "opciones": [
+            "Engranaje.",
+            "Palanca.",
+            "Polea."
+          ],
+          "respuesta": "Palanca.",
+          "respuestaCorta": "La descripción corresponde a una palanca de tercer género, donde el esfuerzo se aplica entre el punto de apoyo (fulcro) y la resistencia.",
+          "solucionario": "El dispositivo descrito es una palanca, que es una máquina simple compuesta por una barra rígida que gira sobre un punto de apoyo (fulcro). La descripción específica (esfuerzo entre resistencia y punto de apoyo) corresponde a una palanca de tercer género, que es exactamente cómo funciona el antebrazo humano, modelo que el estudiante está replicando. Un engranaje y una polea son tipos diferentes de máquinas simples.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_aip_2019_p34",
+      "contexto": "El DAIP de una IE propone al director generar espacios virtuales para la capacitación de los docentes, de tal forma que estos les permitan organizar las sesiones por módulos de aprendizaje, subir información, generar actividades y evaluaciones, y brindar retroalimentación oportuna a los docentes que ingresen a dicho entorno.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes plataformas es más adecuada para la implementación de dichos espacios virtuales?",
+          "opciones": [
+            "Content management system (CMS).",
+            "Massive open online course (MOOC).",
+            "Learning management system (LMS)."
+          ],
+          "respuesta": "Learning management system (LMS).",
+          "respuestaCorta": "Un LMS (Sistema de Gestión de Aprendizaje) es la plataforma diseñada específicamente para administrar, distribuir y controlar actividades de formación y capacitación en línea.",
+          "solucionario": "Un LMS (como Moodle, Canvas, Blackboard) es la herramienta ideal para lo que se describe. Está diseñado para gestionar cursos completos, incluyendo la organización por módulos, subida de materiales, creación de tareas y cuestionarios, seguimiento del progreso y foros de discusión. Un CMS (como WordPress) se centra en la gestión de contenido web en general, y un MOOC es un tipo de curso masivo, no la plataforma en sí misma.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_aip_2019_p35",
+      "contexto": "Una docente le indica a la administradora del aula virtual, que está instalada en la plataforma moodle, que puede observar a sus estudiantes y calificarlos, pero no logra modificar las actividades.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué rol debe asignarle la administradora del aula virtual a la docente para que pueda modificar las actividades del curso que se le ha asignado?",
+          "opciones": [
+            "Creador de curso.",
+            "Administrador.",
+            "Profesor."
+          ],
+          "respuesta": "Profesor.",
+          "respuestaCorta": "En Moodle, el rol de 'Profesor' (o 'Profesor con permiso de edición') es el que permite agregar, modificar y eliminar actividades y recursos dentro de un curso.",
+          "solucionario": "Dentro de la jerarquía de roles de Moodle, el rol de 'Profesor' es el adecuado para gestionar el contenido pedagógico de un curso. Le permite no solo calificar y ver a los estudiantes, sino también activar la edición para añadir, configurar o eliminar actividades y recursos. El rol de 'Administrador' tiene control total sobre el sitio, lo cual es excesivo. El rol 'Creador de curso' permite crear nuevos cursos, pero no necesariamente editar uno existente si no se le asigna también el rol de profesor en él.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Luego de que la administradora solucionó el problema de la docente, esta desea incluir una actividad cuyos resultados puedan evaluarse automáticamente. ¿Cuál de las siguientes categorías de preguntas NO es adecuada para esta actividad?",
+          "opciones": [
+            "Verdadero/Falso.",
+            "Opción múltiple.",
+            "Tipo ensayo."
+          ],
+          "respuesta": "Tipo ensayo.",
+          "respuestaCorta": "Las preguntas de tipo ensayo requieren una respuesta abierta y la intervención humana para su corrección, por lo que no pueden evaluarse de forma automática.",
+          "solucionario": "Las plataformas LMS como Moodle pueden calificar automáticamente preguntas cerradas donde la respuesta correcta está predefinida, como 'Verdadero/Falso' y 'Opción múltiple'. Sin embargo, una pregunta de 'Tipo ensayo' genera una respuesta de texto libre que requiere ser leída, interpretada y calificada por una persona (el docente), ya que la plataforma no puede evaluar la calidad, coherencia y profundidad del argumento de forma automática.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "La docente desea recoger información sobre los aprendizajes de los estudiantes. Para esto ha formulado una serie de preguntas que colocará en la plataforma, las cuales serán calificadas de manera automática. ¿Qué tipo de actividad debe implementar la docente para este fin?",
+          "opciónes": [
+            "Consulta.",
+            "Encuesta.",
+            "Cuestionario."
+          ],
+          "respuesta": "Cuestionario.",
+          "respuestaCorta": "En Moodle, la actividad 'Cuestionario' es la herramienta diseñada para crear evaluaciones con diversos tipos de preguntas que pueden ser calificadas automáticamente.",
+          "solucionario": "La actividad específica en Moodle para crear evaluaciones calificadas es el 'Cuestionario'. Permite al docente construir un examen con preguntas de opción múltiple, verdadero/falso, emparejamiento, etc., asignarles una puntuación y que la plataforma las corrija automáticamente. Una 'Consulta' es para una sola pregunta rápida y una 'Encuesta' se utiliza para recoger opiniones y datos, generalmente sin calificación.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_aip_2019_p38",
+      "contexto": "Rosa participa en un curso virtual de Perú Educa. Al ingresar al aula virtual, ella puede visualizar a los participantes de todo el país; sin embargo, al intervenir en el foro \"Presentación\", solamente puede interactuar con los participantes de su región.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué opción de distribución presenta el aula virtual en el que participa Rosa?",
+          "opciones": [
+            "Grupos separados.",
+            "Grupos visibles.",
+            "No hay grupos."
+          ],
+          "respuesta": "Grupos visibles.",
+          "respuestaCorta": "El modo 'Grupos visibles' permite a los participantes ver la actividad de otros grupos, pero solo pueden interactuar y participar dentro de su propio grupo.",
+          "solucionario": "En Moodle, el modo 'Grupos visibles' funciona exactamente como se describe: Rosa puede ver a todos los participantes del curso (de todo el país), pero cuando participa en una actividad como un foro, su interacción se limita a los miembros de su propio grupo (su región). Si fueran 'Grupos separados', no podría ver a los miembros de otros grupos en absoluto. Si no hubiera grupos, podría interactuar con todos por igual.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_aip_2019_p39",
+      "contexto": "Augusto desarrolla un curso virtual para docentes en la plataforma moodle, el cual considera cuatro actividades que tienen los siguientes porcentajes de la calificación final:\nActividad 1 = 15%\nActividad 2 = 25%\nActividad 3 = 20%\nActividad 4 = 40%\nSi la nota máxima para todas las calificaciones es 20, ¿cuál de las siguientes fórmulas es adecuada para hallar la calificación final en el curso virtual propuesto por Augusto?",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes fórmulas es adecuada para hallar la calificación final en el curso virtual propuesto por Augusto?",
+          "opciones": [
+            "=[[Actividad1]]*0.15+[[Actividad2]]*0.25+[[Actividad3]]*0.2+[[Actividad4]]*0.4",
+            "=([[Actividad1]]*15+[[Actividad2]]*25+[[Actividad3]]*20+[[Actividad4]]*40)/20",
+            "=([[Actividadad1]]+[[Actividadad2]]+[[Actividad3]]+[[Actividadad4]])/4"
+          ],
+          "respuesta": "=[[Actividad1]]*0.15+[[Actividad2]]*0.25+[[Actividad3]]*0.2+[[Actividad4]]*0.4",
+          "respuestaCorta": "Para calcular un promedio ponderado, se multiplica cada nota por su peso porcentual (expresado como decimal) y luego se suman los resultados.",
+          "solucionario": "La fórmula correcta para un promedio ponderado, que es la sintaxis utilizada en el calificador de Moodle, consiste en multiplicar la nota de cada actividad ([[Actividad1]]) por su peso expresado en decimal (15% = 0.15) y sumar todos los productos. La opción A realiza esta operación correctamente. La opción B tiene una lógica incorrecta y la opción C calcula un promedio simple, ignorando los diferentes pesos de cada actividad.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_aip_2019_p40",
+      "contexto": "Un equipo de estudiantes está trabajando un algoritmo que calcula el tiempo que demora un móvil en llegar a un punto, luego de ingresar su rapidez constante y la distancia recorrida. El pseudocódigo es el siguiente:",
+      "imagen": "img/ascenso/secundaria/2019/aip/2.jpg",
+      "preguntas": [
+        {
+          "pregunta": "¿Qué proceso deben incluir los estudiantes en la línea 5, considerando que la fórmula de la rapidez es \"rapidez = distancia/tiempo\"?",
+          "opciones": [
+            "H = K/R",
+            "H = R*K",
+            "H = R/K"
+          ],
+          "respuesta": "H = K/R",
+          "respuestaCorta": "Si Rapidez (R) = Distancia (K) / Tiempo (H), entonces despejando el Tiempo (H) se obtiene Tiempo (H) = Distancia (K) / Rapidez (R).",
+          "solucionario": "La fórmula dada es R = K/H. El objetivo del algoritmo es calcular el tiempo, es decir, la variable H. Para ello, se debe despejar H de la ecuación. Al hacerlo, la variable H pasa a multiplicar al lado izquierdo (R*H = K) y luego la variable R pasa a dividir al lado derecho, resultando en H = K/R. Esta es la operación correcta que debe ir en la línea 5 del pseudocódigo.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+   
+    {
+      "idGrupo": "asc_aip_2019_p41",
+      "contexto": "Como parte de una campaña contra la anemia, el Ministerio de Salud ha recogido muestras de sangre para evaluar los niveles de hemoglobina de todos los estudiantes de 5 a 11 años de edad de las IE de una localidad. En este contexto, los docentes de una IE desean sistematizar esta información de acuerdo con los criterios que se muestran en la siguiente tabla:",
+      "imagen": "img/ascenso/secundaria/2019/aip/3.jpg",
+      "preguntas": [
+        {
+          "pregunta": "¿Qué prueba lógica se debe incluir en la línea 5?",
+          "opciones": [
+            "HS <= 11,4",
+            "HS >= 11,4",
+            "HS > 8,0"
+          ],
+          "respuesta": "HS <= 11,4",
+          "respuestaCorta": "La lógica anidada ya descartó que HS < 8, por lo que la siguiente condición debe abarcar el rango 'Moderado a leve', que es hasta 11,4 inclusive.",
+          "solucionario": "El pseudocódigo sigue una estructura Si-Sino-Si. La primera condición (línea 3) ya ha evaluado si HS es menor que 8 ('Severo'). Por lo tanto, en la línea 5, solo llegan los valores donde HS es 8 o más. La siguiente categoría es 'Moderado a leve', que incluye valores desde 8,0 hasta 11,4. La prueba lógica `HS <= 11,4` captura correctamente este rango. Si esta condición es falsa, significa que HS es mayor que 11,4, lo que corresponde a 'Sin anemia'.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Qué rama de la inteligencia artificial corresponde a la programación realizada por Carla?",
+          "opciones": [
+            "Algoritmos genéticos.",
+            "Redes neuronales.",
+            "Lógica difusa."
+          ],
+          "respuesta": "Lógica difusa.",
+          "respuestaCorta": "La lógica difusa se utiliza para manejar la incertidumbre y clasificar valores en categorías que no son estrictamente binarias, como los niveles 'severo', 'moderado' y 'leve'.",
+          "solucionario": "La Lógica Difusa (Fuzzy Logic) es una rama de la IA que trabaja con el razonamiento que es aproximado en lugar de preciso. Permite que una variable pertenezca a múltiples categorías con diferentes grados de certeza. Clasificar un valor numérico (nivel de hemoglobina) en categorías lingüísticas (severo, moderado, sin anemia) es una aplicación clásica de la lógica difusa. Los algoritmos genéticos y las redes neuronales son otros enfoques de la IA con propósitos diferentes.",
+          "seccion": "Casuística"
+        },
+        {
+          "contexto": "Isaías, otro docente, propone como alternativa el desarrollo de una hoja de cálculo para automatizar el proceso de registro de los niveles de hemoglobina de los estudiantes, tal como se muestra en la siguiente tabla: ",
+          "imagen":"img/ascenso/secundaria/2019/aip/4.jpg",
+          "pregunta":"¿Cuál de las siguientes fórmulas empleó Isaías en la celda C3 para determinar qué nivel de anemia presenta el Estudiante 1? (Nota: Para este caso, consideraremos que, por la configuración regional del idioma del teclado, se acepta como separador de argumentos la coma (,).)",
+          "opciones": [
+            "=SI(B3<11.4,\"Sin anemia\", SI(B3<=11.4,\"Moderado a leve\",\"Severo\"))",
+            "=SI(B3<=8,\"Severo\", SI(B3>=11.4,\"Moderado a leve\",\"Sin anemia\"))",
+            "=SI(B3>11.4,\"Sin anemia\", SI(B3>=8,\"Moderado a leve\",\"Severo\"))"
+          ],
+          "respuesta": "=SI(B3>11.4,\"Sin anemia\", SI(B3>=8,\"Moderado a leve\",\"Severo\"))",
+          "respuestaCorta": "Esta fórmula anidada `SI` evalúa correctamente las tres condiciones en el orden correcto: primero verifica si es '>11.4' (Sin anemia), luego si es '>=8' (Moderado a leve), y si no, es 'Severo'.",
+          "solucionario": "La fórmula en la opción C sigue una lógica correcta para clasificar los niveles de anemia según la tabla. Primero, comprueba la condición más alta: `SI(B3>11.4,\"Sin anemia\", ...)`. Si es verdadero, devuelve 'Sin anemia'. Si es falso, pasa a la segunda función SI, que comprueba `SI(B3>=8,\"Moderado a leve\",...)`. Como ya sabemos que B3 no es mayor que 11.4, esta condición cubre el rango de 8 a 11.4. Si es falso, la única opción restante es que sea menor que 8, devolviendo 'Severo'.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_aip_2019_p44",
+      "contexto": "Una DAIP ha planificado trabajar la programación orientada a objetos (POO) con los docentes de la IE durante una capacitación.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes recursos es más adecuado emplear para iniciar la comprensión de las nociones básicas de la POO?.",
+          "opciones": [
+            "Un diagrama de flujo.",
+            "Una secuencia por bloques.",
+            "Una secuencia de programación HTML."
+          ],
+          "respuesta": "Una secuencia por bloques.",
+          "respuestaCorta": "La programación por bloques (como Scratch o Blockly) es una herramienta visual e intuitiva ideal para introducir conceptos de programación como objetos, propiedades y eventos sin la complejidad de la sintaxis.",
+          "solucionario": "Para iniciar la comprensión de la POO, la programación por bloques es el recurso más adecuado. Permite a los principiantes manipular objetos (sprites), asignarles propiedades (tamaño, color) y hacer que respondan a eventos (clic, presionar tecla) de una manera visual y tangible, lo que facilita la comprensión de los pilares de la POO antes de pasar a un lenguaje basado en texto. Un diagrama de flujo es para la lógica procedural y HTML es un lenguaje de marcado, no de programación.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes lenguajes de programación es más adecuado emplear para iniciar la comprensión de la POO?",
+          "opciones": [
+            "Lenguaje de bajo nivel.",
+            "Lenguaje de alto nivel.",
+            "Lenguaje de máquina."
+          ],
+          "respuesta": "Lenguaje de alto nivel.",
+          "respuestaCorta": "Los lenguajes de alto nivel (como Python, Java, C#) son los que implementan los paradigmas de la POO y utilizan una sintaxis más cercana al lenguaje humano, facilitando su aprendizaje.",
+          "solucionario": "La Programación Orientada a Objetos es un paradigma que se implementa en lenguajes de alto nivel. Estos lenguajes (como Python, Java, JavaScript) abstraen la complejidad del hardware y ofrecen construcciones (clases, objetos, herencia) que permiten aplicar la POO. Los lenguajes de bajo nivel y de máquina están muy cerca del hardware y no están diseñados para este tipo de paradigma de programación abstracto.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "La DAIP desea emplear una analogía para explicar en qué consiste un \"evento\" dentro de una secuencia de programación. ¿Cuál de las siguientes actividades es más adecuada para lograr este propósito?",
+          "opciones": [
+            "Pedir que los docentes describan de manera secuencial las características de un determinado elemento de su entorno.",
+            "Presentar a los docentes una receta de cocina conformada por diez pasos de forma desordenada y pedir que la ordenen.",
+            "Pedir a los docentes que establezcan diferencias entre las secuencias de acciones que realizan al llegar al colegio caminando y manejando bicicleta."
+          ],
+          "respuesta": "Pedir a los docentes que establezcan diferencias entre las secuencias de acciones que realizan al llegar al colegio caminando y manejando bicicleta.",
+          "respuestaCorta": "Esta analogía es adecuada porque un 'evento' (llegar al colegio) puede desencadenar diferentes secuencias de acciones (caminar o manejar bicicleta) dependiendo de la condición, similar a la programación por eventos.",
+          "solucionario": "Un 'evento' en programación es una acción o suceso (como un clic del mouse, presionar una tecla, o en este caso, 'llegar al colegio') que puede ser detectado y desencadenar una respuesta o una secuencia de código. La actividad C es la mejor analogía porque muestra que un mismo evento puede tener diferentes manejadores o secuencias de acciones asociadas. Las otras opciones se centran en la descripción de propiedades o en la lógica secuencial (algoritmos), pero no en el concepto de disparador-respuesta de un evento.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Qué función cumple el proceso de abstracción en la creación de programas informáticos?",
+          "opciones": [
+            "Permite el diseño de diagramas de flujo más funcionales y escalables para dar solución al problema presentado.",
+            "Permite dejar de lado algunas propiedades de un objeto para atender solo aquellas que se encuentran asociadas a la solución del problema presentado.",
+            "Ofrece la posibilidad de heredar características de un elemento con el fin de obtener soluciones al problema presentado con el menor uso de recursos."
+          ],
+          "respuesta": "Permite dejar de lado algunas propiedades de un objeto para atender solo aquellas que se encuentran asociadas a la solución del problema presentado.",
+          "respuestaCorta": "La abstracción es un pilar de la POO que consiste en simplificar la complejidad de un objeto, enfocándose solo en sus características y comportamientos relevantes para el problema a resolver.",
+          "solucionario": "La abstracción es el proceso de identificar las características esenciales de un objeto e ignorar los detalles irrelevantes. Por ejemplo, si programamos un objeto 'Carro' para un juego de carreras, nos abstraemos en sus propiedades relevantes (velocidad, color, posición) e ignoramos detalles como el material de los asientos o la marca de las llantas. La opción B describe perfectamente este proceso de simplificación. La opción C describe la herencia, otro concepto de la POO.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_aip_2019_p48",
+      "contexto": "Como parte de un proyecto, un estudiante ha programado el movimiento de un personaje que ha creado para visualizarlo como si estuviera bailando. Ha especificado que el personaje avance tres pasos y regrese uno, y que realice esta acción cinco veces consecutivas; para ello, ha insertado el bloque \"por siempre si\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es la característica principal de la programación realizada por el estudiante?",
+          "opciones": [
+            "Toma decisiones evaluando varias condiciones.",
+            "Devuelve un valor en función a datos ingresados.",
+            "Reutiliza instrucciones propuestas, evaluando una condición."
+          ],
+          "respuesta": "Reutiliza instrucciones propuestas, evaluando una condición.",
+          "respuestaCorta": "El uso de un bucle (como 'por siempre si' o 'repetir N veces') permite reutilizar un bloque de instrucciones, y la condición determina si esa reutilización continúa o se detiene.",
+          "solucionario": "El estudiante está utilizando una estructura de control repetitiva o bucle. Esta estructura permite que un conjunto de instrucciones (avanzar tres pasos, regresar uno) se ejecute múltiples veces (cinco veces). El bloque 'por siempre si' combina la repetición (reutilización de instrucciones) con una condición que se evalúa en cada ciclo. Por lo tanto, la característica principal es la reutilización de código sujeta a una condición.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_aip_2019_p49",
+      "contexto": "Un DAIP desea potenciar una PC operativa del AIP cambiando el microprocesador que tiene instalado por un microprocesador de una generación mayor. Ambos microprocesadores son compatibles porque pueden ser instalados en el mismo socket de la placa madre. Sin embargo, al instalar el nuevo microprocesador e intentar encender la PC, esta no muestra la pantalla del POST, ni carga el sistema operativo.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué acción debe realizar el DAIP para solucionar este problema?",
+          "opciones": [
+            "Actualizar la BIOS.",
+            "Reconectar el disco duro.",
+            "Reinstalar el sistema operativo."
+          ],
+          "respuesta": "Actualizar la BIOS.",
+          "respuestaCorta": "La BIOS/UEFI de la placa madre debe ser actualizada para que pueda reconocer y ser compatible con microprocesadores más nuevos, incluso si encajan en el mismo socket.",
+          "solucionario": "Aunque un nuevo procesador sea físicamente compatible con el socket de la placa madre, el firmware de la placa (BIOS o UEFI) necesita el 'microcódigo' para poder inicializarlo correctamente. Los fabricantes de placas madre publican actualizaciones de BIOS que añaden soporte para nuevos procesadores. Si la BIOS es anterior al lanzamiento del nuevo CPU, no lo reconocerá, y la PC no podrá iniciar el POST. La solución es reinstalar el procesador antiguo, actualizar la BIOS a la última versión y luego instalar el nuevo procesador.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_aip_2019_p50",
+      "contexto": "Una docente comenta que ingresó a la página web de cierta universidad para revisar la información de un diplomado. No obstante, a pesar de haber cerrado dicha página sin realizar ninguna compra, observa que, mientras visualiza un video en otra página web, en la pantalla aparece una pequeña publicidad del diplomado revisado con anterioridad.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Por qué la publicidad sobre el diplomado consultado aparece en el navegador de la docente, a pesar de haber cerrado dicha página?",
+          "opciones": [
+            "Por la presencia de spam.",
+            "Por el funcionamiento de los cookies.",
+            "Por el accionar de la caché del navegador."
+          ],
+          "respuesta": "Por el funcionamiento de los cookies.",
+          "respuestaCorta": "Las cookies de seguimiento son utilizadas por las redes de publicidad para registrar los sitios que un usuario visita y mostrarle anuncios relevantes (retargeting) en otras páginas web.",
+          "solucionario": "Este fenómeno se conoce como 'retargeting' o 'remarketing' y funciona a través de cookies. Cuando la docente visitó la página de la universidad, esta colocó una cookie en su navegador. Posteriormente, cuando visitó otra página que forma parte de la misma red publicitaria, dicha red leyó la cookie, identificó su interés previo en el diplomado y le mostró un anuncio relacionado. El spam se refiere a correo no deseado y la caché almacena elementos de la web para cargarla más rápido, no para mostrar anuncios dirigidos.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "La docente ha descargado la aplicación de la universidad que ofrece el diplomado. En dicha aplicación, se muestran las opciones de pago. ¿Cuál de las siguientes formas de confirmación de pago es menos segura para las transacciones vía web?",
+          "opciones": [
+            "El touch ID.",
+            "El uso de dispositivos token.",
+            "El método usuario-contraseña."
+          ],
+          "respuesta": "El método usuario-contraseña.",
+          "respuestaCorta": "El método de usuario y contraseña es el menos seguro porque es vulnerable a ataques de phishing, fuerza bruta y filtraciones de bases de datos, a diferencia de los métodos biométricos o de doble factor.",
+          "solucionario": "El método de usuario y contraseña es el más débil. Las contraseñas pueden ser adivinadas, robadas o filtradas. En cambio, el Touch ID (biometría) y el uso de un token (autenticación de dos factores o 2FA) son métodos mucho más seguros. La biometría requiere una característica física única del usuario, y el token genera un código de un solo uso que cambia constantemente, haciendo mucho más difícil que un atacante pueda acceder a la cuenta incluso si conoce la contraseña.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_aip_2019_p52",
+      "contexto": "Un docente les comenta a los estudiantes acerca de una tendencia sobre la automatización de las viviendas llamada \"domótica\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es la característica principal de la domótica?",
+          "opciones": [
+            "Emplea sensores.",
+            "Utiliza nanotecnología.",
+            "Integra información sobre rasgos anatómicos."
+          ],
+          "respuesta": "Emplea sensores.",
+          "respuestaCorta": "La domótica se basa en el uso de sensores para recopilar información del entorno (temperatura, luz, movimiento) y actuadores para ejecutar acciones automáticas.",
+          "solucionario": "La característica fundamental de la domótica es la automatización del hogar, la cual se logra a través de una red de sensores y actuadores. Los sensores (de movimiento, de temperatura, de luz, etc.) recogen datos del ambiente y envían esa información a una unidad central. Esta unidad procesa los datos y da órdenes a los actuadores (interruptores, motores de persianas, termostatos) para que realicen una acción. Por tanto, el empleo de sensores es clave para su funcionamiento.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+   
+    {
+      "idGrupo": "asc_aip_2019_p53",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es el principal efecto del malware conocido como \"keylogger\"?",
+          "opciones": [
+            "Guardar las pulsaciones realizadas en el teclado de un equipo con la finalidad de registrar las contraseñas y así acceder a información confidencial del usuario.",
+            "Engañar por medio del envío de mensajes, falsas alarmas de virus, cadenas, denuncias o alertas a través de correo electrónico o redes sociales.",
+            "Secuestrar la página de inicio del navegador para mostrar una página web del atacante o infectar la PC con un virus."
+          ],
+          "respuesta": "Guardar las pulsaciones realizadas en el teclado de un equipo con la finalidad de registrar las contraseñas y así acceder a información confidencial del usuario.",
+          "respuestaCorta": "Un keylogger es un tipo de malware que registra en secreto cada tecla que se pulsa, con el objetivo principal de capturar credenciales como usuarios y contraseñas.",
+          "solucionario": "La función específica de un keylogger es registrar (log) las pulsaciones de teclas (key). Este malware se ejecuta en segundo plano y captura todo lo que el usuario escribe, incluyendo contraseñas, números de tarjetas de crédito y mensajes privados, para luego enviarlo a un atacante. La opción B describe el 'hoax' (bulo) y la C describe un 'browser hijacker' (secuestrador de navegador).",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_aip_2019_p54",
+      "contexto": "Un docente encontró un simulador que podría servirle para una actividad de aprendizaje de los estudiantes. El docente abrió el archivo con normalidad en su PC, pero, cuando intentó abrirlo en las computadoras del AIP antes de iniciar las clases, se mostró el siguiente mensaje en el navegador: \"El contenido de esta página requiere una versión más reciente del visor SWF\". Por ello, no se visualizó la simulación.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes acciones es más adecuada para que se pueda ejecutar el simulador en las computadoras del AIP, sin eliminar la configuración que se encuentra en el navegador?",
+          "opciones": [
+            "Buscar el archivo en otro formato y reproducirlo en el navegador.",
+            "Actualizar el plugin del navegador a través de internet.",
+            "Descargar nuevamente el navegador para reinstalarlo."
+          ],
+          "respuesta": "Actualizar el plugin del navegador a través de internet.",
+          "respuestaCorta": "El mensaje de error indica que el problema es una versión desactualizada del visor SWF (Flash Player), por lo que la solución directa es actualizar el plugin correspondiente.",
+          "solucionario": "El formato SWF era utilizado por Adobe Flash Player. El mensaje de error es explícito: la versión del visor (plugin) instalado en los navegadores del AIP es demasiado antigua para reproducir el contenido. La solución más directa y adecuada es actualizar ese componente específico (el plugin de Flash o un emulador compatible como Ruffle) a su última versión. Reinstalar todo el navegador es una medida excesiva y buscar el archivo en otro formato puede no ser posible.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_aip_2019_p55",
+      "contexto": "Un DAIP ha observado que las PC del AIP están funcionando a una velocidad menor que la usual, lo que impide a los estudiantes ejecutar algunas aplicaciones ofimáticas. Por esta razón, decide realizar un escaneo con el antivirus instalado. Al realizar el escaneo, en la mayoría de las PC aparece el siguiente mensaje: \"Virus potencialmente detectado\"; en vista de ello, el DAIP activa la función \"eliminar virus y reiniciar la PC\". Luego del reinicio, la mayoría de las PC empiezan a trabajar con normalidad.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué tipo de mantenimiento realizó el DAIP?",
+          "opciones": [
+            "Correctivo de hardware.",
+            "Correctivo de software.",
+            "Preventivo de software."
+          ],
+          "respuesta": "Correctivo de software.",
+          "respuestaCorta": "Se trata de un mantenimiento correctivo de software porque se realizó una acción (eliminar virus) para solucionar un problema de funcionamiento ya existente (lentitud del sistema).",
+          "solucionario": "El mantenimiento correctivo se realiza para corregir una falla o un problema que ya se ha presentado. En este caso, el problema era la lentitud de las PC, y la causa era un virus. Al eliminar el virus, el DAIP corrigió el problema. Es de software porque la falla estaba en el sistema operativo y no en un componente físico (hardware). El mantenimiento preventivo se realiza antes de que ocurra la falla, para evitarla.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_aip_2019_p56",
+      "contexto": "Los docentes han notado que la conexión a internet en el AIP es muy lenta y genera contratiempos durante las sesiones de aprendizaje. Por ello, consultan al DAIP cómo solucionar este problema sin perder las aplicaciones e historial de las páginas web visitadas.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes propuestas de solución es más adecuada?",
+          "opciones": [
+            "Implementar un servidor de caché web.",
+            "Migrar a un sistema operativo open source.",
+            "Formatear, desfragmentar y liberar los discos duros."
+          ],
+          "respuesta": "Implementar un servidor de caché web.",
+          "respuestaCorta": "Un servidor de caché web almacena localmente el contenido de internet solicitado con frecuencia, lo que acelera el acceso posterior y reduce el consumo de ancho de banda.",
+          "solucionario": "Un servidor de caché web (o proxy caché) es una solución de red diseñada específicamente para este problema. Cuando un usuario del AIP visita una página, el servidor la descarga de internet y la guarda en su almacenamiento local (caché). Cuando otro usuario solicita la misma página, el servidor la entrega directamente desde su caché local, lo cual es mucho más rápido y no consume ancho de banda de internet. Esto es muy eficaz en un entorno escolar donde muchos estudiantes acceden a los mismos recursos educativos.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_aip_2019_p57",
+      "contexto": "Al realizar el mantenimiento preventivo en un AIP de una IE, el especialista en soporte técnico olvidó colocarse la pulsera antiestática.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Ante esta situación, ¿cuál es la parte de la unidad de disco duro que presenta mayor riesgo de sufrir daños por una descarga estática?",
+          "opciones": [
+            "Los platos magnéticos.",
+            "La tarjeta lógica.",
+            "Los conectores."
+          ],
+          "respuesta": "La tarjeta lógica.",
+          "respuestaCorta": "La tarjeta lógica (PCB) del disco duro contiene circuitos integrados y componentes electrónicos muy sensibles que pueden ser dañados irreversiblemente por una descarga de electricidad estática.",
+          "solucionario": "La tarjeta lógica, también conocida como PCB (Printed Circuit Board), es la placa de circuitos que controla el funcionamiento del disco duro. Está llena de microchips y componentes electrónicos extremadamente sensibles a la electricidad estática (ESD). Una pequeña descarga puede quemar estos circuitos y dejar la unidad inutilizable. Los platos magnéticos están protegidos dentro de la carcasa hermética y los conectores son más robustos, aunque no inmunes.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_aip_2019_p58",
+      "contexto": "El docente de Ciencias Sociales ha organizado a 30 estudiantes en parejas para desarrollar una actividad de búsqueda de información en el AIP de la IE, la cual dispone de un servidor y 15 PC. Todas las PC y el servidor cuentan con sistema operativo gráfico y aplicaciones de oficina. Sin embargo, al encender los equipos, el DAIP notó que en una de las PC no cargaba el sistema operativo, y emitia pitidos cortos y continuos.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes acciones es más pertinente realizar para brindar una correcta atención a los estudiantes sin afectar el desarrollo de la actividad?",
+          "opciones": [
+            "Informar al director sobre lo acontecido y postergar para una siguiente sesión la actividad con los estudiantes afectados.",
+            "Detener la sesión en el AIP hasta revisar la totalidad de los equipos y asegurar que se encuentran completamente operativos.",
+            "Desconectar la PC afectada, inhabilitarla para su funcionamiento y reubicar a los estudiantes para que desarrollen la actividad en el servidor."
+          ],
+          "respuesta": "Desconectar la PC afectada, inhabilitarla para su funcionamiento y reubicar a los estudiantes para que desarrollen la actividad en el servidor.",
+          "respuestaCorta": "La acción más pertinente es aislar el problema y utilizar los recursos disponibles (el servidor) para asegurar la continuidad de la actividad pedagógica de los estudiantes afectados.",
+          "solucionario": "La prioridad del DAIP durante una sesión de aprendizaje es garantizar su continuidad. La opción C es la más proactiva y eficiente: resuelve el problema inmediato para la pareja de estudiantes afectada reubicándolos en un equipo funcional (el servidor) y aísla el equipo defectuoso para una revisión posterior, permitiendo que el resto de la clase continúe sin interrupciones. Las otras opciones detienen innecesariamente el proceso de aprendizaje.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Los pitidos emitidos por la placa madre se producen por errores en el funcionamiento de la PC. Sin embargo, no todas las placas madre emiten los mismos pitidos para un mismo error. ¿Qué información se debe considerar para interpretar a qué falla corresponden los pitidos?",
+          "opciones": [
+            "El modelo de la placa madre.",
+            "El factor de forma del CPU.",
+            "El fabricante del BIOS."
+          ],
+          "respuesta": "El fabricante del BIOS.",
+          "respuestaCorta": "Los códigos de pitidos (beep codes) son específicos del fabricante del BIOS (como AMI, Award, Phoenix), por lo que es necesario conocerlo para interpretar el error correctamente.",
+          "solucionario": "Cada fabricante de BIOS (AMI, Award, Phoenix, etc.) tiene su propio conjunto de 'beep codes' para diagnosticar fallas de hardware durante el POST (Power-On Self-Test). Una secuencia de pitidos que significa 'falla de memoria RAM' en un BIOS AMI puede significar 'falla de tarjeta de video' en un BIOS Award. Por lo tanto, para interpretar correctamente los pitidos, es fundamental identificar primero el fabricante del BIOS de la placa madre.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Los sonidos emitidos por la placa madre correspondían a una falla en la memoria RAM, por lo que el DAIP decidió desconectar el suministro de energía eléctrica del CPU, retirar el módulo de la memoria RAM del zócalo de la placa madre, limpiarlo y volver a colocarlo. Finalmente, conectó el suministro de energía a la PC y apareció la pantalla del POST. No obstante, también se apreciaron los siguientes mensajes \"CMOS Checksum Error\", \"CMOS Date/Time Not Set\". Luego de haber solucionado el problema de la memoria RAM de la placa madre, ¿qué error se está presentando en la PC?",
+          "opciones": [
+            "La placa madre se ha sobrecargado.",
+            "La pila de la placa madre está descargada.",
+            "Existe un falso contacto en el módulo de la memoria RAM."
+          ],
+          "respuesta": "La pila de la placa madre está descargada.",
+          "respuestaCorta": "Los errores 'CMOS Checksum Error' y 'Date/Time Not Set' son síntomas clásicos de que la pila (batería) de la placa madre, que mantiene la configuración del BIOS/UEFI, se ha agotado.",
+          "solucionario": "La CMOS es una pequeña memoria en la placa madre que almacena la configuración del BIOS, incluyendo la fecha y la hora. Para mantener esta información cuando la PC está apagada, utiliza una pequeña pila de tipo botón. Cuando esta pila se agota, la información se pierde, lo que genera un error de 'checksum' (suma de verificación) y la pérdida de la fecha/hora al encender el equipo. El problema de la RAM ya fue solucionado, por lo que el nuevo error es independiente y corresponde a la pila descargada.",
+          "seccion": "Casuística"
+        }
+      ]
+    }
+  ]
+}
+  

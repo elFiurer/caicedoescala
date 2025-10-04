@@ -443,6 +443,32 @@
     "archivos": {
       "especifico": "data/ascenso/secundaria/2019/ascenso_ingles2019.json"
     }
+  },
+  {
+    "id": 46,
+    "proceso": "Ascenso",
+    "anio": 2019,
+    "nivel": "Secundaria",
+    "especialidad": "Innovación Pedagógica (AIP)",
+    "modalidad": "EBR",
+    "preguntas": 60,
+    "tiempo": 180,
+    "archivos": {
+      "especifico": "data/ascenso/secundaria/2019/ascenso_innovacion_2019.json"
+    }
+  },
+  {
+    "id": 47,
+    "proceso": "Ascenso",
+    "anio": 2019,
+    "nivel": "Secundaria",
+    "especialidad": "Educación Física ",
+    "modalidad": "EBR",
+    "preguntas": 60,
+    "tiempo": 180,
+    "archivos": {
+      "especifico": "data/ascenso/secundaria/2019/ascenso_educacionfisica2019.json"
+    }
   }
   
 ]
