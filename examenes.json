@@ -469,6 +469,32 @@
     "archivos": {
       "especifico": "data/ascenso/secundaria/2019/ascenso_educacionfisica2019.json"
     }
-  }
+  },
+  {
+    "id": 48,
+    "proceso": "Ascenso",
+    "anio": 2019,
+    "nivel": "Secundaria",
+    "especialidad": "Ciencias Sociales ",
+    "modalidad": "EBR",
+    "preguntas": 60,
+    "tiempo": 180,
+    "archivos": {
+      "especifico": "data/ascenso/secundaria/2019/ascenso_sociales2019.json"
+    }
+  },
+{
+    "id": 49,
+    "proceso": "Ascenso",
+    "anio": 2019,
+    "nivel": "inicial",
+    "especialidad": "inicial",
+    "modalidad": "EBR",
+    "preguntas": 60,
+    "tiempo": 180,
+    "archivos": {
+      "especifico": "data/ascenso/inicial/2019/ascenso_inicial2019.json"
+    }
+  }  
   
 ]
