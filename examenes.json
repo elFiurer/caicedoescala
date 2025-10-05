@@ -586,5 +586,18 @@
     "archivos": {
       "especifico": "data/ascenso/primaria/2021/ascenso_primaria2021.json"
     }
-  }  
+  },
+    {
+    "id": 57,
+    "proceso": "Ascenso",
+    "anio": 2021,
+    "nivel": "Secundaria",
+    "especialidad": "Educación para el Trabajo (EPT)",
+    "modalidad": "EBR",
+    "preguntas": 60,
+    "tiempo": 180,
+    "archivos": {
+      "especifico": "data/ascenso/secundaria/2021/ascenso_ept2021.json"
+    }
+  }
 ]
