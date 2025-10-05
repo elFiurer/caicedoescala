@@ -521,6 +521,45 @@
     "archivos": {
       "especifico": "data/ascenso/secundaria/2019/ascenso_arte2019.json"
     }
+  },
+  {
+    "id": 52,
+    "proceso": "Ascenso",
+    "anio": 2021,
+    "nivel": "Secundaria",
+    "especialidad": "Inglés",
+    "modalidad": "EBR",
+    "preguntas": 60,
+    "tiempo": 180,
+    "archivos": {
+      "especifico": "data/ascenso/secundaria/2021/ascenso_ingles2021.json"
+    }
+  },
+   {
+    "id": 53,
+    "proceso": "Ascenso",
+    "anio": 2021,
+    "nivel": "Secundaria",
+    "especialidad": "DPCC ",
+    "modalidad": "EBR",
+    "preguntas": 60,
+    "tiempo": 180,
+    "archivos": {
+      "especifico": "data/ascenso/secundaria/2021/ascenso_dpcc2021.json"
+    }
+  },
+  {
+    "id": 54,
+    "proceso": "Ascenso",
+    "anio": 2021,
+    "nivel": "Primaria",
+    "especialidad": "Innovación Pedagógica (AIP)",
+    "modalidad": "EBR",
+    "preguntas": 60,
+    "tiempo": 180,
+    "archivos": {
+      "especifico": "data/ascenso/primaria/2021/ascenso_aip2021.json"
+    }
   }
   
 ]
