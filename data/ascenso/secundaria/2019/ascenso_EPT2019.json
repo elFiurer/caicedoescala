@@ -1,0 +1,1087 @@
+{
+  "completo": [
+    {
+      "idGrupo": "asc_secundaria_2019_p01",
+      "contexto": "Luego de que los estudiantes han identificado las características de los modelos de negocio centrados en el cliente para formular sus propios modelos de negocio, una docente ha planificado realizar las siguientes actividades:\n1. Organizar en equipos a los estudiantes para que recojan información de diversas fuentes sobre la visión y misión de empresas nacionales o internacionales exitosas en diferentes rubros.\n2. Solicitar a los equipos que describan oralmente las semejanzas y diferencias de la visión y misión de las diferentes empresas.\n3. Pedir a los estudiantes que, de manera individual, respondan a las siguientes preguntas: \"¿Qué procedimientos utilizaron para seleccionar la visión y misión de estas empresas?, ¿qué dificultades tuvieron para seleccionar esta información?\".\n4. Finalmente, luego de promover un diálogo, preguntar: \"¿Contribuyen estas actividades en la formulación de su modelo de negocio?\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es el propósito principal de la docente al realizar las actividades 3 y 4?",
+          "opciones": [
+            "Recoger los saberes previos de los estudiantes.",
+            "Promover la metacognición en los estudiantes.",
+            "Generar conflicto cognitivo en los estudiantes."
+          ],
+          "respuesta": "Promover la metacognición en los estudiantes.",
+          "respuestaCorta": "Las actividades 3 y 4 buscan que los estudiantes reflexionen sobre su propio proceso de aprendizaje, evaluando sus estrategias y la utilidad de lo aprendido.",
+          "solucionario": "La metacognición implica que el estudiante sea consciente de su propio proceso de aprendizaje. Al preguntar sobre los procedimientos, dificultades y la utilidad de las actividades, la docente está guiando a los estudiantes a reflexionar sobre cómo aprenden, qué estrategias usan y cómo pueden mejorar, lo cual es el núcleo del desarrollo de la competencia metacognitiva.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p02",
+      "contexto": "Un equipo de estudiantes busca incorporar mejoras a su proyecto. Para ello, ha recurrido a diversas técnicas para recoger información acerca de la aceptación de su producto en el mercado, y ha identificado algunos defectos en su empaque.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Las acciones realizadas por los estudiantes, ¿a cuál de las siguientes capacidades de la competencia \"Gestiona proyectos de emprendimiento económico o social\" corresponden principalmente?",
+          "opciones": [
+            "Evalúa los resultados del proyecto de emprendimiento.",
+            "Aplica habilidades técnicas.",
+            "Crea propuestas de valor."
+          ],
+          "respuesta": "Evalúa los resultados del proyecto de emprendimiento.",
+          "respuestaCorta": "La acción de recoger información sobre la aceptación del producto e identificar defectos es parte fundamental de la evaluación para realizar mejoras.",
+          "solucionario": "La capacidad 'Evalúa los resultados del proyecto de emprendimiento' implica elaborar instrumentos de recojo de información, analizarla y contrastarla con los objetivos iniciales para tomar decisiones de mejora. Las acciones descritas, como recoger información de aceptación e identificar defectos, encajan directamente en esta capacidad, ya que buscan valorar el estado actual del proyecto para optimizarlo.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p03",
+      "contexto": "Un docente planifica una actividad en la que los estudiantes elaborarán el Diagrama de Operaciones del Proceso (DOP) del producto desarrollado en su proyecto de emprendimiento.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes capacidades de la competencia \"Gestiona proyectos de emprendimiento económico o social\" desarrolla principalmente esta actividad?",
+          "opciones": [
+            "Trabaja cooperativamente para lograr objetivos y metas.",
+            "Evalúa los resultados del proyecto de emprendimiento.",
+            "Aplica habilidades técnicas."
+          ],
+          "respuesta": "Aplica habilidades técnicas.",
+          "respuestaCorta": "La elaboración de un Diagrama de Operaciones del Proceso (DOP) es una habilidad técnica específica para planificar y optimizar la producción.",
+          "solucionario": "La capacidad 'Aplica habilidades técnicas' se refiere al uso de conocimientos, herramientas y procedimientos específicos para la producción de un bien o servicio. El Diagrama de Operaciones del Proceso (DOP) es una herramienta técnica de ingeniería de métodos que permite representar gráficamente los pasos de un proceso productivo, por lo que su elaboración desarrolla directamente esta capacidad.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p04",
+      "contexto": "Una docente tiene como propósito orientar a los estudiantes en la implementación de la fase de evaluación de la metodología Design Thinking.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué grupo de preguntas es más adecuado para favorecer al logro de dicho propósito?",
+          "opciones": [
+            "¿A quiénes solicitarán su opinión en esta fase? ¿Quiénes son los usuarios o expertos?",
+            "¿Es oportuno utilizar la técnica del brainstorming en esta fase? ¿Les permitirá plantear soluciones creativas?",
+            "¿Qué técnicas utilizarán para el recojo de información de las necesidades de los usuarios? ¿Han identificado aspectos sobre los cuales les gustaría actuar?"
+          ],
+          "respuesta": "¿A quiénes solicitarán su opinión en esta fase? ¿Quiénes son los usuarios o expertos?",
+          "respuestaCorta": "La fase de evaluación en Design Thinking se centra en obtener retroalimentación del prototipo por parte de los usuarios finales o expertos en el tema.",
+          "solucionario": "La fase de evaluación (o 'Testear') del Design Thinking consiste en presentar el prototipo a los usuarios para obtener su opinión y retroalimentación. Por lo tanto, las preguntas más adecuadas son aquellas que orientan a los estudiantes a identificar a las personas correctas (usuarios, clientes, expertos) para realizar esta validación. Las otras opciones se refieren a fases anteriores como la ideación (brainstorming) o la empatía (recojo de necesidades).",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p05",
+      "contexto": "Una docente propone a los estudiantes desarrollar varias tareas para diseñar una imagen que represente al producto que están elaborando.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes tareas propuestas por la docente es de mayor demanda cognitiva?",
+          "opciones": [
+            "Crear elementos gráficos o textuales que permitan identificar rápidamente su producto.",
+            "Buscar en internet alguna imagen que sea de dominio público y que represente a su producto.",
+            "Escoger una imagen de la galería de imágenes de un programa de diseño, que se asemeje a su producto, e insertarla en la hoja de trabajo."
+          ],
+          "respuesta": "Crear elementos gráficos o textuales que permitan identificar rápidamente su producto.",
+          "respuestaCorta": "Crear algo nuevo implica procesos cognitivos superiores como la síntesis y la evaluación, a diferencia de buscar o escoger elementos ya existentes.",
+          "solucionario": "La demanda cognitiva se refiere al nivel de pensamiento requerido para una tarea. 'Crear' es una tarea de alta demanda cognitiva porque exige que los estudiantes sinteticen su comprensión del producto, el mercado y los principios de diseño para generar una solución original. En cambio, 'buscar' y 'escoger' son tareas de menor demanda, ya que implican reconocer y seleccionar información o elementos preexistentes.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p06",
+      "contexto": "En el desarrollo de una sesión de aprendizaje, un docente realiza preguntas a los estudiantes relacionadas a las visitas que ellos realizaron en algún momento a los establecimientos de comida de la localidad. Estas preguntas son: \"¿Qué han notado en la indumentaria de los trabajadores de estos establecimientos?, ¿cómo manipulan los insumos con los que preparan los alimentos?, ¿qué observaron acerca del tratamiento de los desechos en estos establecimientos?\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es el propósito del docente al realizar dichas preguntas?",
+          "opciones": [
+            "Generar conflicto cognitivo en los estudiantes.",
+            "Recoger los saberes previos de los estudiantes.",
+            "Brindar retroalimentación a los estudiantes."
+          ],
+          "respuesta": "Recoger los saberes previos de los estudiantes.",
+          "respuestaCorta": "El docente está activando los conocimientos y experiencias que los estudiantes ya poseen sobre un tema antes de introducir nueva información.",
+          "solucionario": "El propósito de las preguntas es conectar el nuevo aprendizaje con las experiencias vividas por los estudiantes. Al preguntarles sobre sus observaciones en establecimientos de comida, el docente está indagando sobre sus conocimientos y vivencias previas relacionadas con temas como la higiene, la manipulación de alimentos y la gestión de residuos. Esta es una estrategia fundamental para anclar los nuevos conceptos.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p07",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes alternativas es una ventaja de realizar entrevistas estructuradas?",
+          "opciones": [
+            "Facilidad para procesar la información recolectada.",
+            "Libertad para que el entrevistado responda lo que considere conveniente.",
+            "Flexibilidad para profundizar acerca de un tema que surge durante la entrevista."
+          ],
+          "respuesta": "Facilidad para procesar la información recolectada.",
+          "respuestaCorta": "Al usar un guion de preguntas fijo y estandarizado, las respuestas son más uniformes, lo que simplifica su análisis y comparación.",
+          "solucionario": "Las entrevistas estructuradas utilizan un cuestionario con preguntas idénticas y en el mismo orden para todos los entrevistados. Esta estandarización produce datos consistentes y comparables, lo que facilita enormemente su tabulación y análisis cuantitativo. Las opciones B y C son características de entrevistas no estructuradas o semiestructuradas, que ofrecen mayor flexibilidad pero complican el procesamiento de datos.",
+          "seccion": "Conocimientos Disciplinares y Curriculares"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p08",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes tareas es de mayor demanda cognitiva?",
+          "opciones": [
+            "Seleccionar la herramienta 'gráficos' para representar los datos en una hoja de cálculo.",
+            "Ingresar y ordenar los datos de texto de manera alfabética en una hoja de cálculo.",
+            "Interpretar los datos procesados en una hoja de cálculo."
+          ],
+          "respuesta": "Interpretar los datos procesados en una hoja de cálculo.",
+          "respuestaCorta": "Interpretar implica analizar, encontrar patrones y sacar conclusiones, lo cual requiere un nivel de pensamiento más alto que ejecutar comandos.",
+          "solucionario": "La tarea de 'interpretar' los datos es de mayor demanda cognitiva porque va más allá de la simple ejecución de procedimientos (como ingresar datos u ordenar). Requiere que el estudiante analice la información, identifique tendencias, establezca relaciones y elabore conclusiones significativas a partir de los datos. Este proceso de análisis y síntesis es cognitivamente más complejo.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p09",
+      "contexto": "Al realizar el monitoreo de los equipos de estudiantes, una docente observa que uno de ellos ya terminó de elaborar el prototipo de su producto. Entonces, la docente les propone la siguiente tarea:\n\"Ahora, realicen entrevistas a un grupo de posibles clientes, y anoten las observaciones y sugerencias que ellos tengan sobre el prototipo presentado. Luego, organicen la información según criterios que consideren importantes y expliquen los resultados\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Por qué la tarea propuesta por la docente es de alta demanda cognitiva?",
+          "opciones": [
+            "Porque implica el análisis de la información recogida.",
+            "Porque implica utilizar mucho tiempo para realizarla.",
+            "Porque requiere de varias acciones para organizarla."
+          ],
+          "respuesta": "Porque implica el análisis de la información recogida.",
+          "respuestaCorta": "La tarea exige no solo recoger datos, sino también organizarlos, establecer criterios, analizarlos y explicar los resultados, lo que involucra pensamiento crítico.",
+          "solucionario": "Una tarea es de alta demanda cognitiva cuando requiere que los estudiantes hagan más que reproducir información. En este caso, se les pide recoger datos (entrevistas), pero lo crucial es que deben 'organizar la información según criterios que consideren importantes' y 'explicar los resultados'. Estas acciones requieren análisis, síntesis y evaluación, procesos mentales de orden superior.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p10",
+      "contexto": "Al planificar una unidad didáctica, el docente busca, entre otros, el desarrollo del siguiente desempeño: \"Aplica entrevistas estructuradas para indagar los posibles factores que originan las necesidades o problemas de un grupo de usuarios\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes acciones pedagógicas es pertinente para evaluar el logro de este desempeño?",
+          "opciones": [
+            "Revisar y calificar el guion de la entrevista estructurada elaborada por cada equipo.",
+            "Pedir que, en pares e intercambiando roles, simulen la entrevista estructurada delante de sus compañeros.",
+            "Elaborar y aplicar una prueba de opción múltiple antes de que los estudiantes realicen la entrevista estructurada."
+          ],
+          "respuesta": "Pedir que, en pares e intercambiando roles, simulen la entrevista estructurada delante de sus compañeros.",
+          "respuestaCorta": "Para evaluar la aplicación de una técnica, la mejor estrategia es observar su ejecución, aunque sea en una simulación que permita evaluar el desempeño real.",
+          "solucionario": "El desempeño a evaluar es 'aplica entrevistas estructuradas'. La evaluación debe ser coherente con el verbo de la acción. Revisar el guion (opción A) solo evalúa la planificación. Una prueba escrita (opción C) evalúa el conocimiento teórico. En cambio, una simulación (opción B) permite observar directamente cómo los estudiantes aplican la técnica, manejan las preguntas y se desenvuelven en el rol, siendo la forma más auténtica y pertinente de evaluar ese desempeño.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p11",
+      "contexto": "Los estudiantes, organizados en equipos, están recopilando información sobre diversas técnicas de venta. A continuación, tres estudiantes presentan la información que recopilaron:\nÁngel: Yo obtuve información de una técnica que consiste en que el vendedor, primero, le realiza preguntas al cliente para conocer su situación actual. A partir de esas respuestas va identificando las necesidades o problemas que tiene el cliente. Luego, el vendedor le presenta los beneficios de su producto o servicio para que el cliente resuelva esas necesidades y se concrete la venta.\nBeatriz: Yo entrevisté a un vendedor de muebles y me dijo que la técnica que utiliza consiste solamente en preguntar a sus clientes qué les interesa más, el precio o la calidad del producto. Él hace esto para ofrecerles aquello que sea adecuado.\nCarlos: Yo entrevisté a un vendedor de celulares y me dijo que, antes de convencer a sus clientes de comprar un celular, atrae su atención por medio de un estímulo. Los motiva a interesarse por el celular ofreciéndoles alguna promoción u oferta. Luego, les detalla los beneficios de algunos celulares. Finalmente, el cliente se anima a comprar y el vendedor cierra la venta.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué estudiante ha recopilado información sobre la técnica de ventas AIDA?",
+          "opciones": [
+            "Ángel.",
+            "Beatriz.",
+            "Carlos."
+          ],
+          "respuesta": "Carlos.",
+          "respuestaCorta": "El proceso descrito por Carlos (atraer atención, generar interés, detallar beneficios para el deseo y cerrar la venta) corresponde a las cuatro fases del modelo AIDA.",
+          "solucionario": "La técnica AIDA se basa en cuatro etapas secuenciales: Atención, Interés, Deseo y Acción. La descripción de Carlos se ajusta perfectamente a este modelo: 1) Atrae la Atención con un estímulo. 2) Genera Interés con una promoción u oferta. 3) Provoca el Deseo detallando los beneficios. 4) Impulsa a la Acción cuando el cliente se anima a comprar. Las descripciones de Ángel y Beatriz corresponden a otras técnicas de venta.",
+          "seccion": "Conocimientos Disciplinares y Curriculares"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p12",
+      "contexto": "Luis es un estudiante que presenta hemiplejia y, por tanto, tiene la mitad de su cuerpo paralizado. En el aula, la docente observa que los estudiantes no quieren formar equipos de trabajo con Luis. Incluso, ha escuchado el siguiente comentario de uno de ellos: \"No elijamos a Luis en nuestro equipo. Por su discapacidad, él no podrá realizar las tareas y entonces no lograremos cumplir con nuestras metas\". La docente busca que los estudiantes reflexionen críticamente sobre sus ideas acerca de lo que las personas que presentan discapacidad pueden lograr.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes acciones pedagógicas es pertinente para este propósito?",
+          "opciones": [
+            "Comentar a los estudiantes las diversas habilidades de Luis y lo favorable que sería su participación en cualquier equipo. Luego, solicitarles que se comprometan a incluir a Luis en alguno de los equipos.",
+            "Pedir a los estudiantes que averigüen acerca de los diferentes tipos de discapacidad. Luego, indicarles que elaboren una presentación multimedia acerca de la información encontrada y la compartan con sus compañeros.",
+            "Mostrar a los estudiantes historias de personas que presentan discapacidad y que obtuvieron diversos logros gracias a las oportunidades que les brindó su entorno. Luego, preguntarles si consideran que la discapacidad es un obstáculo para salir adelante."
+          ],
+          "respuesta": "Mostrar a los estudiantes historias de personas que presentan discapacidad y que obtuvieron diversos logros gracias a las oportunidades que les brindó su entorno. Luego, preguntarles si consideran que la discapacidad es un obstáculo para salir adelante.",
+          "respuestaCorta": "Esta acción busca cambiar la perspectiva de los estudiantes a través de ejemplos concretos y una pregunta reflexiva, combatiendo directamente el prejuicio.",
+          "solucionario": "La estrategia más pertinente es la que ataca el prejuicio de raíz, que es la creencia de que la discapacidad es sinónimo de incapacidad. Al mostrar historias de éxito de personas con discapacidad, la docente ofrece contraejemplos poderosos que desafían esa idea. La pregunta final (\"¿consideran que la discapacidad es un obstáculo?\") promueve una reflexión crítica sobre sus propias creencias, lo cual es más efectivo que imponer la inclusión (opción A) o abordar el tema de forma puramente teórica (opción B).",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+   
+    {
+      "idGrupo": "asc_secundaria_2019_p13",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes es uno de los propósitos del uso del storytelling?",
+          "opciones": [
+            "Recopilar testimonios de potenciales clientes para identificar sus necesidades no satisfechas.",
+            "Publicitar organizadamente los logros de la empresa para conseguir diversas fuentes de financiamiento.",
+            "Conectar emocionalmente al producto con el público objetivo para que este recuerde con facilidad lo que se desea comunicar."
+          ],
+          "respuesta": "Conectar emocionalmente al producto con el público objetivo para que este recuerde con facilidad lo que se desea comunicar.",
+          "respuestaCorta": "El storytelling busca crear una conexión emocional a través de una historia, haciendo que el mensaje sea más memorable y persuasivo.",
+          "solucionario": "El storytelling es una técnica de marketing que utiliza narrativas para generar una conexión emocional con la audiencia. En lugar de simplemente listar las características de un producto, se cuenta una historia que evoca sentimientos y valores, logrando que el público se identifique con la marca y recuerde el mensaje de manera más efectiva. Su propósito principal es la conexión emocional, no la recopilación de datos ni la búsqueda de financiamiento.",
+          "seccion": "Conocimientos Disciplinares y Curriculares"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p14",
+      "contexto": "Un docente va a realizar una evaluación con el propósito de orientar el proceso de enseñanza y aprendizaje, y la toma de decisiones oportuna para que los estudiantes alcancen los aprendizajes previstos.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes acciones pedagógicas es más pertinente para lograr dicho propósito?",
+          "opciones": [
+            "Plantear a los estudiantes una meta. Luego, en coordinación con sus padres, motivarlos para que se comprometan a lograrla y firmar un acta de compromiso.",
+            "Identificar los niveles de avance de los estudiantes de manera permanente y brindarles oportunidades diferenciadas de acuerdo con sus dificultades y logros.",
+            "Asignar actividades a los estudiantes y registrar cada una de las que logran cumplir. Al finalizar las actividades, contar la cantidad de registros."
+          ],
+          "respuesta": "Identificar los niveles de avance de los estudiantes de manera permanente y brindarles oportunidades diferenciadas de acuerdo con sus dificultades y logros.",
+          "respuestaCorta": "La evaluación formativa se caracteriza por ser un proceso continuo que identifica el progreso y las dificultades para ajustar la enseñanza y ofrecer apoyo diferenciado.",
+          "solucionario": "El propósito descrito en el caso corresponde a la evaluación formativa. Esta evaluación no busca solo calificar (opción C) o establecer compromisos externos (opción A), sino que es un proceso permanente de seguimiento. Su finalidad es recoger evidencia sobre el aprendizaje de los estudiantes para identificar sus avances y dificultades, y a partir de ello, tomar decisiones pedagógicas oportunas, como ofrecer retroalimentación y adaptar la enseñanza a sus necesidades.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p15",
+      "contexto": "Un docente tiene como propósito que los estudiantes, organizados en equipos, identifiquen los aspectos de la técnica de ventas AIDA. Para ello, les presenta parte de una página web diseñada para la búsqueda de empleo. Esta página contiene los siguientes títulos en su portal: \"¿No consigues empleo?\", \"¿Estás cansado de buscar ofertas de empleo?\", \"¿No sabes cómo identificar las mejores ofertas de empleo?\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿A qué aspecto de la técnica AIDA se refieren los títulos mostrados en la página web?",
+          "opciones": [
+            "A la atención (A).",
+            "Al interés (I).",
+            "Al deseo (D)."
+          ],
+          "respuesta": "A la atención (A).",
+          "respuestaCorta": "Las preguntas directas sobre un problema común del público objetivo buscan captar su atención inicial, que es el primer paso del modelo AIDA.",
+          "solucionario": "El modelo AIDA comienza con la etapa de Atención (A), cuyo objetivo es captar el interés del potencial cliente. Los títulos presentados son preguntas que apelan directamente a un problema o necesidad común (la dificultad para encontrar empleo). Esta estrategia es utilizada para atraer la atención del lector y motivarlo a seguir explorando el contenido de la página web.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p16",
+      "contexto": "Un docente tiene como propósito que los estudiantes desarrollen principalmente la capacidad \"Gestiona información del entorno virtual\" de la competencia \"Se desenvuelve en entornos virtuales generados por las TIC\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes actividades es más pertinente que plantee para lograr este propósito?",
+          "opciones": [
+            "Crear un boceto y el arte final que representa la marca del producto de su proyecto de emprendimiento.",
+            "Seleccionar y agregar información de los productos de su proyecto de emprendimiento en el perfil de su cuenta personal de una red social.",
+            "Identificar y sistematizar información de fuentes confiables de internet para fortalecer la elaboración de estrategias de venta de sus productos."
+          ],
+          "respuesta": "Identificar y sistematizar información de fuentes confiables de internet para fortalecer la elaboración de estrategias de venta de sus productos.",
+          "respuestaCorta": "Esta actividad implica buscar, seleccionar, evaluar la fiabilidad y organizar información de internet, lo que se alinea directamente con la capacidad de gestionar información del entorno virtual.",
+          "solucionario": "La capacidad \"Gestiona información del entorno virtual\" consiste en que el estudiante sea capaz de navegar, buscar, filtrar, evaluar y organizar información de diversas fuentes digitales. La opción 'c' describe precisamente este proceso: identificar fuentes (evaluar), y sistematizar (organizar) la información para un propósito específico. Las otras opciones se relacionan más con la creación de objetos virtuales o la interacción en entornos virtuales.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p17",
+      "contexto": "Un docente propone a los estudiantes difundir su proyecto de emprendimiento. Para ello, les sugiere elaborar una presentación multimedia que contenga videos, animaciones, sonido, entre otros.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes capacidades de la competencia \"Se desenvuelve en entornos virtuales generados por las TIC\" se desarrolla principalmente al realizar esta actividad?",
+          "opciones": [
+            "Personaliza entornos virtuales.",
+            "Interactúa en entornos virtuales.",
+            "Crea objetos virtuales en diversos formatos."
+          ],
+          "respuesta": "Crea objetos virtuales en diversos formatos.",
+          "respuestaCorta": "La elaboración de una presentación multimedia que integra video, sonido y animaciones es un claro ejemplo de creación de un objeto virtual en un formato complejo.",
+          "solucionario": "La capacidad \"Crea objetos virtuales en diversos formatos\" implica que el estudiante construya materiales digitales combinando diferentes formatos (texto, imagen, video, sonido). La tarea de elaborar una presentación multimedia con estas características es una aplicación directa de esta capacidad, ya que el producto final es un objeto virtual creado por ellos.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p18",
+      "contexto": "Los estudiantes, organizados en equipos, están trabajando un proyecto de emprendimiento. Durante el monitoreo, la docente le pregunta a uno de los equipos qué entienden por propuesta de valor. Enrique, uno de los integrantes de este equipo, respondió lo siguiente: \"Propuesta de valor es lo que vendemos\".\nAl escuchar la respuesta, la docente realiza las siguientes acciones:\n• Le dice al estudiante: \"Por favor, abre tu guía y revisa nuevamente la definición de propuesta de valor. Puedes mejorar tu definición si te lo propones\".\n• Después de unos minutos, el estudiante dice lo siguiente: \"Profesora, ¡la propuesta de valor es el precio que le asignamos a nuestro producto cuando lo vendemos!\".\n• Luego, la docente le lee una definición de propuesta de valor de otra fuente de información; inmediatamente, propone varios ejemplos y pregunta al estudiante si los comprendió.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Por qué las acciones de la docente NO corresponden a una retroalimentación centrada en la reflexión del estudiante sobre su error?",
+          "opciones": [
+            "Porque le indica al estudiante la definición de propuesta de valor sin dar la oportunidad de que él descubra el origen de su error.",
+            "Porque le propone al estudiante diversos ejemplos a partir del análisis de la definición de propuesta de valor.",
+            "Porque le ofrece al estudiante dos definiciones de propuesta de valor basadas en fuentes de información."
+          ],
+          "respuesta": "Porque le indica al estudiante la definición de propuesta de valor sin dar la oportunidad de que él descubra el origen de su error.",
+          "respuestaCorta": "La retroalimentación reflexiva guía al estudiante para que descubra su error, mientras que la docente, al final, le da la respuesta directamente en lugar de hacerle preguntas para guiarlo.",
+          "solucionario": "La retroalimentación por descubrimiento o reflexiva busca, a través de preguntas, que el estudiante analice su propio razonamiento e identifique su error. En este caso, aunque la docente inicialmente intenta que el estudiante se autocorrija, ante la segunda respuesta incorrecta, ella le proporciona la definición correcta y ejemplos. Esta acción es una retroalimentación descriptiva o correctiva, pero no fomenta que el estudiante reflexione y descubra por sí mismo en qué consistía su confusión.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p19",
+      "contexto": "Como parte del desarrollo de una actividad, un equipo de estudiantes está evaluando los aspectos de las 4P del marketing. Antonio, integrante de uno de los equipos, opina lo siguiente: \"Es necesario que busquemos estrategias para establecer el valor de intercambio del beneficio que recibirán los clientes al adquirir nuestro producto\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿A cuál de los aspectos de las 4P del marketing se refiere Antonio?",
+          "opciones": [
+            "Al precio.",
+            "A la plaza.",
+            "Al producto."
+          ],
+          "respuesta": "Al precio.",
+          "respuestaCorta": "El 'valor de intercambio' es la definición del precio, que es la cantidad monetaria que un cliente paga por un producto o servicio.",
+          "solucionario": "Dentro de las 4P del marketing (Producto, Precio, Plaza, Promoción), el Precio es el único elemento que se refiere al valor monetario que se asigna a un producto o servicio a cambio de los beneficios que ofrece. La expresión 'valor de intercambio' utilizada por Antonio es un sinónimo técnico para referirse al precio.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p20",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "La identificación del problema, ¿a cuál de las siguientes fases de la metodología Design Thinking corresponde?",
+          "opciones": [
+            "A idear.",
+            "A definir.",
+            "A empatizar."
+          ],
+          "respuesta": "A definir.",
+          "respuestaCorta": "La fase 'Definir' consiste en analizar la información recogida en la fase de empatía para identificar y formular claramente el problema a resolver.",
+          "solucionario": "La metodología Design Thinking consta de cinco fases: Empatizar, Definir, Idear, Prototipar y Evaluar. Después de recopilar información sobre el usuario en la fase de 'Empatizar', la fase de 'Definir' se centra en procesar esa información para articular de manera clara y precisa el problema o necesidad fundamental que se buscará solucionar.",
+          "seccion": "Conocimientos Disciplinares y Curriculares"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p21",
+      "contexto": "Micaela es una estudiante que presenta discapacidad intelectual leve, habla de forma pausada y tiene dificultades para articular algunas palabras. Ella realiza trabajos muy creativos con material reciclado. La docente ha realizado actividades de sensibilización previa con los estudiantes. Sin embargo, cuando forman equipos de trabajo, algunos de ellos no incluyen a Micaela en sus equipos debido a la dificultad que muestra al hablar.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes acciones pedagógicas es más pertinente que realice la docente para favorecer la inclusión de Micaela en esta situación?",
+          "opciones": [
+            "Destacar las habilidades que presenta Micaela al realizar los trabajos con material reciclado y manifestar a los estudiantes que deberían estar orgullosos de ella. Luego, pedirles que la incluyan en sus equipos.",
+            "Promover que dialoguen acerca de sus propias fortalezas y dificultades. Luego, preguntarles cómo podrían trabajar en equipos tomando en cuenta las fortalezas y dificultades que presenta cada uno de ellos.",
+            "Pedir a los estudiantes que vuelvan a leer las normas de convivencia del aula, específicamente los acuerdos relacionados con el trabajo en equipo. Luego, indicarles que cumplan con lo que ellos mismos propusieron en estas normas."
+          ],
+          "respuesta": "Promover que dialoguen acerca de sus propias fortalezas y dificultades. Luego, preguntarles cómo podrían trabajar en equipos tomando en cuenta las fortalezas y dificultades que presenta cada uno de ellos.",
+          "respuestaCorta": "Esta acción promueve la empatía y la colaboración, haciendo que los propios estudiantes descubran cómo integrar las habilidades de todos, en lugar de imponer una solución.",
+          "solucionario": "La acción más pertinente es la que fomenta la reflexión y la autogestión del grupo. Al hacer que todos los estudiantes reconozcan sus propias fortalezas y debilidades, se crea un ambiente de igualdad y se entiende que todos pueden aportar de diferentes maneras. Esto les permite valorar las habilidades creativas de Micaela y planificar cómo organizarse para que todos contribuyan al éxito del equipo, logrando una inclusión auténtica y no forzada.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p22",
+      "contexto": "Los estudiantes, organizados en equipos, se encuentran desarrollando una actividad relacionada con la técnica de ventas SPIN. En este contexto, Mercedes, una estudiante del aula, propone a su equipo lo siguiente:\n\"En el proceso de la venta, debemos incidir en preguntar a nuestros clientes acerca de las fallas que ellos han detectado en el producto que poseen actualmente\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿A cuál de los siguientes aspectos de la técnica SPIN corresponde lo propuesto por Mercedes?",
+          "opciones": [
+            "A la situación (S).",
+            "Al problema (P).",
+            "A las implicancias (I)."
+          ],
+          "respuesta": "Al problema (P).",
+          "respuestaCorta": "Las preguntas sobre 'fallas' o dificultades con el producto actual están diseñadas para descubrir y resaltar el problema del cliente.",
+          "solucionario": "La técnica de ventas SPIN se estructura en cuatro tipos de preguntas: Situación (S), Problema (P), Implicancia (I) y Necesidad de solución (N). La propuesta de Mercedes de preguntar sobre las 'fallas' del producto actual corresponde directamente a la fase de Problema, cuyo objetivo es que el cliente reconozca y verbalice las insatisfacciones o dificultades que enfrenta.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p23",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes actividades corresponde a una propuesta de mayor nivel de apropiación de las TIC?",
+          "opciones": [
+            "Modelar su prototipo utilizando un aplicativo 3D a partir de la información recogida en una encuesta online.",
+            "Insertar efectos de transición y animación en las diapositivas de la presentación de un proyecto de emprendimiento.",
+            "Digitar el plan de un proyecto de emprendimiento utilizando las herramientas de estilo."
+          ],
+          "respuesta": "Modelar su prototipo utilizando un aplicativo 3D a partir de la información recogida en una encuesta online.",
+          "respuestaCorta": "Esta opción integra el uso de TIC para investigar (encuesta online) y para crear un producto complejo (modelo 3D), demostrando una transformación de las prácticas de trabajo.",
+          "solucionario": "Un mayor nivel de apropiación de las TIC implica no solo usar las herramientas para tareas básicas (como digitar o añadir efectos), sino para transformar la manera en que se trabaja y se crea. Modelar un prototipo en 3D a partir de datos recogidos digitalmente es una tarea compleja que integra investigación, análisis y creación a un nivel superior. Demuestra que las TIC se utilizan para potenciar y redefinir el proceso de diseño, lo cual representa un nivel de apropiación más profundo.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p24",
+      "contexto": "Los estudiantes, organizados en equipos, formulan sus estrategias de marketing. Uno de los equipos plantea lo siguiente: \"Realizaremos la venta de nuestros productos por medio de los mercados de la localidad. Además, distribuiremos catálogos de nuestros productos\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿A qué aspectos de las 4P del marketing corresponde la propuesta de este equipo de estudiantes?",
+          "opciones": [
+            "Precio y producto.",
+            "Plaza y promoción.",
+            "Producto y promoción."
+          ],
+          "respuesta": "Plaza y promoción.",
+          "respuestaCorta": "Los 'mercados' se refieren al canal de distribución (Plaza), y los 'catálogos' a la comunicación para dar a conocer el producto (Promoción).",
+          "solucionario": "Dentro de las 4P del marketing: 'Plaza' (Place) se refiere a los canales de distribución, es decir, dónde y cómo se venderá el producto; en este caso, 'los mercados de la localidad'. 'Promoción' (Promotion) se refiere a las actividades de comunicación para dar a conocer el producto e incentivar la compra; en este caso, 'distribuir catálogos'. Por lo tanto, la propuesta del equipo aborda los aspectos de Plaza y Promoción.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+ 
+    {
+      "idGrupo": "asc_secundaria_2019_p25",
+      "contexto": "Los estudiantes, organizados en equipos, realizan propuestas de mejora de sus productos utilizando la técnica SCAMPER. En este contexto, uno de los equipos propone lo siguiente:\n\"Sugerimos aumentar el tamaño de nuestro producto para utilizar empaques estandarizados y comerciales, y no tener que elaborar nuestros propios empaques\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes aspectos de la técnica SCAMPER se evidencia en la propuesta del equipo de estudiantes?",
+          "opciones": [
+            "Adaptar (A).",
+            "Eliminar (E).",
+            "Modificar (M)."
+          ],
+          "respuesta": "Modificar (M).",
+          "respuestaCorta": "La acción de 'aumentar el tamaño' es un cambio en un atributo del producto, lo que corresponde a la letra M (Modificar) en el acrónimo SCAMPER.",
+          "solucionario": "La técnica SCAMPER es un acrónimo de siete acciones para la generación de ideas: Sustituir, Combinar, Adaptar, Modificar, Poner en otros usos, Eliminar y Reorganizar. La acción de 'Modificar' se refiere a cambiar alguna característica del producto, como su tamaño, forma, color o textura. La propuesta de 'aumentar el tamaño' encaja directamente en esta categoría.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p26",
+      "contexto": "Un equipo de estudiantes está formulando un guion de entrevista estructurada para aplicarla a clientes potenciales. Dicho equipo ha considerado las siguientes variables: edad, género, grado de instrucción, estilo de vida y personalidad.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué criterios de segmentación ha considerado el equipo de estudiantes para elaborar el guion de entrevista?",
+          "opciones": [
+            "Demográfico y comportamental.",
+            "Geográfico y comportamental.",
+            "Demográfico y psicográfico."
+          ],
+          "respuesta": "Demográfico y psicográfico.",
+          "respuestaCorta": "Las variables 'edad', 'género' y 'grado de instrucción' son demográficas, mientras que 'estilo de vida' y 'personalidad' son psicográficas.",
+          "solucionario": "La segmentación de mercado clasifica a los clientes en grupos. El criterio Demográfico se basa en características poblacionales objetivas como edad, género, nivel socioeconómico y grado de instrucción. El criterio Psicográfico se basa en características subjetivas como el estilo de vida, la personalidad, los valores y los intereses. El equipo ha combinado variables de ambos criterios.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p27",
+      "contexto": "Los estudiantes, organizados en equipos, realizan diversas actividades del plan de implementación de su proyecto de emprendimiento. Una de las actividades que han considerado realizar es elaborar un plano y construir un modelo del producto.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿A qué fase de la metodología Design Thinking corresponde esta actividad?",
+          "opciones": [
+            "Al testeo del producto.",
+            "A la generación de ideas.",
+            "Al prototipado del producto."
+          ],
+          "respuesta": "Al prototipado del producto.",
+          "respuestaCorta": "La elaboración de planos y la construcción de modelos son acciones centrales de la fase de 'Prototipado', donde las ideas se vuelven tangibles.",
+          "solucionario": "En la metodología Design Thinking, la fase de 'Prototipado' es aquella en la que se crean representaciones tangibles de las soluciones ideadas. Estas pueden ser de baja o alta fidelidad, e incluyen desde bocetos y storyboards hasta modelos físicos o planos detallados. El objetivo es materializar la idea para poder evaluarla en la siguiente fase (Testeo).",
+          "seccion": "Conocimientos Disciplinares y Curriculares"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p28",
+      "contexto": "Durante una sesión de aprendizaje, el docente plantea a los estudiantes algunas preguntas sobre la elaboración de prototipos. En este contexto, uno de los estudiantes afirma lo siguiente:\n\"Los prototipos nos ayudan a comprobar la hipótesis de un problema encontrado y también a validar el diseño del producto; por lo tanto, el prototipo siempre debe ser un producto físico\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es el error que se evidencia en la afirmación del estudiante?",
+          "opciones": [
+            "Considerar que el prototipo es necesariamente un producto físico.",
+            "Considerar que se puede comprobar la hipótesis de un problema.",
+            "Considerar que se puede validar el diseño del prototipo."
+          ],
+          "respuesta": "Considerar que el prototipo es necesariamente un producto físico.",
+          "respuestaCorta": "El error es creer que un prototipo debe ser siempre físico. Un prototipo puede tener muchos formatos, incluyendo digitales, bocetos o representaciones.",
+          "solucionario": "Si bien un prototipo puede ser un producto físico, esta no es la única forma. Un prototipo es cualquier representación de una idea que permita validarla con usuarios. Puede ser un dibujo, un storyboard, una maqueta digital (wireframe), un video o incluso una representación teatral (role playing). La afirmación del estudiante es errónea porque limita el concepto de prototipo a una sola de sus múltiples formas.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p29",
+      "contexto": "Un equipo de estudiantes está dialogando sobre los procedimientos que deben seguir para construir su estrategia de marketing utilizando la técnica del storytelling. Eduardo, uno de los integrantes del equipo, menciona lo siguiente:\n\"Es necesario que consideremos que nuestra historia sea creativa y auténtica. En ella, podemos usar metáforas. Además, debemos repetir el nombre del producto la mayor cantidad de veces para que los potenciales clientes lo recuerden\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es el error que se evidencia en el comentario de Eduardo?",
+          "opciones": [
+            "Considerar que la historia deba ser creativa y auténtica.",
+            "Considerar que en la historia se pueden usar metáforas.",
+            "Considerar que en la historia se debe repetir el nombre del producto la mayor cantidad de veces."
+          ],
+          "respuesta": "Considerar que en la historia se debe repetir el nombre del producto la mayor cantidad de veces.",
+          "respuestaCorta": "El storytelling busca una conexión sutil y emocional; la repetición excesiva del nombre del producto rompe la narrativa y se percibe como publicidad agresiva.",
+          "solucionario": "El storytelling efectivo se enfoca en la historia, los personajes y el mensaje emocional, no en la promoción directa y repetitiva del producto. Repetir el nombre del producto de forma insistente interrumpe la fluidez de la narrativa, puede generar rechazo en la audiencia y convierte la historia en un anuncio publicitario tradicional, perdiendo así el poder de conexión emocional que caracteriza a esta técnica.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p30",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes acciones pedagógicas es más adecuada para implementar la evaluación formativa en el aula?",
+          "opciones": [
+            "Promover que los estudiantes reflexionen sobre sus aciertos y desaciertos en las sesiones de aprendizaje.",
+            "Comunicar a los estudiantes sus errores durante el desarrollo de la sesión e indicarles la respuesta correcta.",
+            "Aplicar una prueba objetiva a los estudiantes al final de cada sesión y, luego, alcanzarles las respuestas correctas para que se califiquen entre ellos."
+          ],
+          "respuesta": "Promover que los estudiantes reflexionen sobre sus aciertos y desaciertos en las sesiones de aprendizaje.",
+          "respuestaCorta": "La evaluación formativa busca que el estudiante sea partícipe de su aprendizaje, y la reflexión sobre aciertos y errores es clave para la autorregulación.",
+          "solucionario": "La esencia de la evaluación formativa es que sea un proceso para mejorar el aprendizaje. Promover la autorreflexión (opción A) permite a los estudiantes tomar conciencia de su progreso y sus dificultades, fomentando la autonomía y la metacognición. Indicar la respuesta correcta (opción B) es directivo y limita la reflexión, mientras que calificar al final (opción C) tiene un enfoque más sumativo que formativo.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p31",
+      "contexto": "Los estudiantes, por medio de entrevistas estructuradas, recogieron información acerca de los problemas y necesidades de un grupo de personas de su localidad en el ámbito de la organización de sus eventos familiares (cumpleaños, bautizos, etc.). Después de que procesaron estos datos y obtuvieron conclusiones, la docente les preguntó: \"¿Qué proponen para atender a estas necesidades?\". Tres estudiantes responden lo siguiente:\n• Angélica: Nosotros sabemos elaborar pasteles. Entonces, a nuestros potenciales clientes ofrezcámosles pasteles de diversos sabores para sus reuniones.\n• Bernardo: Mejor les ofrecemos un servicio de creación de páginas web a las empresas de organización de eventos de la localidad para que ofrezcan sus servicios a las personas.\n• Carmen: Nuestros potenciales clientes trabajan todo el día e indican que no tienen tiempo para organizar sus eventos familiares. Por lo tanto, podríamos ofrecerles un servicio de organización de eventos.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los estudiantes ofrece una propuesta de valor?",
+          "opciones": [
+            "Angélica.",
+            "Bernardo.",
+            "Carmen."
+          ],
+          "respuesta": "Carmen.",
+          "respuestaCorta": "Carmen identifica una necesidad clave del cliente (falta de tiempo) y ofrece una solución directa a ese problema específico (servicio de organización).",
+          "solucionario": "Una propuesta de valor no es solo ofrecer un producto (Angélica), sino ofrecer una solución que resuelve un problema o satisface una necesidad específica del cliente. Carmen es la única que parte de la necesidad identificada ('no tienen tiempo') para formular su servicio ('organización de eventos'). Su propuesta ataca directamente el 'dolor' del cliente, lo que constituye una verdadera propuesta de valor.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p32",
+      "contexto": "Un docente presenta a los estudiantes un lienzo LEAN CANVAS de un proyecto de emprendimiento que consiste en desarrollar un curso para aprender quechua utilizando una aplicación móvil. Luego les pide que, organizados en equipos, analicen cada uno de los módulos de este lienzo.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "contexto": "Durante el monitoreo, el docente observa que un equipo está analizando las notas de uno de los módulos del lienzo que se presentan a continuación: ",
+          "imagen": "img/ascenso/secundaria/2019/ept/1.jpg",
+          "pregunta": "¿A cuál de los siguientes módulos del lienzo pertenecen estas notas?",
+          "opciones": [
+            "Al problema.",
+            "A la solución.",
+            "A las métricas clave."
+          ],
+          "respuesta": "A la solución.",
+          "respuestaCorta": "Estas notas describen las características específicas que el producto ofrecerá para resolver el problema, lo cual corresponde al módulo 'Solución'.",
+          "solucionario": "En el lienzo LEAN CANVAS, el módulo 'Problema' define las dificultades del cliente. En contraste, el módulo 'Solución' detalla las tres características o funcionalidades más importantes del producto que resolverán directamente esos problemas. 'Asistencia inmediata', 'Flexibilidad de horarios' y 'Atención personalizada' son rasgos de la solución que se propone.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Rosa, una estudiante de otro equipo, pide la palabra y, señalando uno de los módulos del lienzo, comenta lo siguiente:\n\"Ese módulo indica cómo es que se va a ganar dinero\".\n¿A cuál de los módulos del lienzo se refiere Rosa?",
+          "opciones": [
+            "A los canales.",
+            "Al flujo de ingresos.",
+            "A la estructura de costos."
+          ],
+          "respuesta": "Al flujo de ingresos.",
+          "respuestaCorta": "El módulo que describe cómo se va a generar dinero en un modelo de negocio es el 'Flujo de ingresos' (Revenue Streams).",
+          "solucionario": "El lienzo LEAN CANVAS desglosa un modelo de negocio en nueve módulos. El módulo que específicamente detalla las fuentes y formas en que la empresa obtendrá dinero de sus clientes es el 'Flujo de ingresos'. La 'Estructura de costos' describe los gastos, y los 'Canales' son las vías para llegar al cliente.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "El docente ha ocultado las notas del módulo \"Segmento de clientes\" del lienzo y les pide a los equipos que redacten una nota al terminar de leer el lienzo. ¿Cuál de las siguientes notas NO corresponde a este módulo?",
+          "opciones": [
+            "Turistas extranjeros.",
+            "Niños en edad escolar.",
+            "Profesionales peruanos."
+          ],
+          "respuesta": "Niños en edad escolar.",
+          "respuestaCorta": "Dado que el producto es una app móvil para aprender quechua, los turistas y profesionales peruanos son segmentos lógicos, mientras que los niños en edad escolar son un público menos probable.",
+          "solucionario": "El módulo 'Segmento de clientes' debe definir el público objetivo del producto. Para una app de aprendizaje de quechua, los 'Turistas extranjeros' (interesados en la cultura local) y los 'Profesionales peruanos' (que trabajan en zonas quechuahablantes) son segmentos de clientes muy plausibles. En cambio, los 'Niños en edad escolar' son un segmento menos directo y probable para este producto específico, a menos que se indique un enfoque educativo formal que no se menciona.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Durante el monitoreo realizado por el docente, un estudiante le comenta lo siguiente:\n\"Debemos iniciar la elaboración de nuestro lienzo con la formulación de la 'Propuesta de valor único', la cual consiste en un módulo en el que se presenta, con pocas palabras, la esencia del producto. Además, indicaremos por qué nuestro producto es diferente y merece la atención de los clientes\".\n¿Cuál es el error que se evidencia en el comentario que realiza el estudiante sobre el módulo \"Propuesta de valor único\"?",
+          "opciones": [
+            "Considerar que en este módulo se refleja la esencia del producto con pocas palabras.",
+            "Considerar que en este módulo se debe indicar por qué el producto es diferente.",
+            "Considerar que la elaboración del lienzo se debe iniciar con este módulo."
+          ],
+          "respuesta": "Considerar que la elaboración del lienzo se debe iniciar con este módulo.",
+          "respuestaCorta": "El error es pensar que se inicia con la Propuesta de Valor. El método LEAN CANVAS recomienda empezar por los módulos 'Problema' y 'Segmento de Clientes'.",
+          "solucionario": "La descripción que hace el estudiante del módulo 'Propuesta de valor único' es correcta en su contenido. Sin embargo, el error está en el procedimiento. La metodología LEAN CANVAS, a diferencia de otras, postula un enfoque centrado en el cliente y el problema. Por ello, se recomienda comenzar llenando simultáneamente los módulos de 'Problema' y 'Segmento de Clientes', para luego definir una 'Propuesta de Valor' que conecte a ambos.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p36",
+      "contexto": "Luego de haber leído información acerca de los modelos de negocio, la docente les pide a los estudiantes que comenten con sus propias palabras qué es una propuesta de valor.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes comentarios de los estudiantes corresponde a la propuesta de valor?",
+          "opciones": [
+            "Alejandra: Es la mejora continua de la productividad de la empresa.",
+            "Baltazar: Es la cantidad de dinero que se invierte en la empresa.",
+            "César: Es la ventaja que una empresa ofrece a los clientes."
+          ],
+          "respuesta": "César: Es la ventaja que una empresa ofrece a los clientes.",
+          "respuestaCorta": "La propuesta de valor es el conjunto de beneficios o ventajas diferenciales que una empresa ofrece y que la hacen atractiva para sus clientes.",
+          "solucionario": "La propuesta de valor es el factor que hace que un cliente elija una empresa sobre otra; su objetivo es resolver un problema o satisfacer una necesidad del cliente de una manera única y diferenciada. Por lo tanto, se define como la ventaja o el conjunto de beneficios que una empresa ofrece a sus clientes. Las otras opciones se refieren a conceptos distintos como la productividad o la inversión de capital.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+ 
+    {
+      "idGrupo": "asc_secundaria_2019_p37",
+      "contexto": "Como parte de las actividades programadas para diseñar un proyecto de emprendimiento, un equipo de estudiantes recoge información de los turistas que visitan su localidad. El equipo busca identificar la frecuencia con la que los turistas utilizan un determinado medio de transporte para trasladarse del terminal terrestre a la localidad y qué los motiva a elegir dicho medio.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes técnicas es más pertinente para que los estudiantes logren dicho propósito?",
+          "opciones": [
+            "La entrevista.",
+            "La observación.",
+            "La recopilación documental."
+          ],
+          "respuesta": "La entrevista.",
+          "respuestaCorta": "La entrevista permite no solo registrar la frecuencia de uso, sino también indagar directamente sobre las razones y motivaciones de la elección.",
+          "solucionario": "Para cumplir el propósito de identificar la frecuencia y, crucialmente, las motivaciones, la entrevista es la técnica más completa. La observación permitiría ver qué transporte usan y con qué frecuencia, pero no revelaría las razones detrás de esa elección. La recopilación documental no es aplicable para obtener esta información de primera mano. La entrevista, en cambio, permite un diálogo directo para explorar las motivaciones de los turistas.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p38",
+      "contexto": "Una docente propone diversas tareas con el propósito de que los estudiantes reconozcan las diferentes habilidades asociadas al emprendimiento.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes tareas propuestas es de menor demanda cognitiva?",
+          "opciones": [
+            "Redactar un ensayo sobre las habilidades emprendedoras.",
+            "Elaborar una infografía acerca de las habilidades emprendedoras.",
+            "Seleccionar en diversas páginas de internet definiciones de habilidades emprendedoras."
+          ],
+          "respuesta": "Seleccionar en diversas páginas de internet definiciones de habilidades emprendedoras.",
+          "respuestaCorta": "Seleccionar definiciones es una tarea de menor demanda cognitiva porque implica identificar y recopilar información, a diferencia de crear o sintetizar.",
+          "solucionario": "Las tareas de alta demanda cognitiva requieren análisis, síntesis y creación. Redactar un ensayo y elaborar una infografía implican organizar ideas, sintetizar información y crear un producto nuevo. En cambio, seleccionar definiciones es una tarea de nivel inferior que se basa en la búsqueda y el reconocimiento de información existente, sin requerir una transformación profunda de la misma.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p39",
+      "contexto": "Un equipo de estudiantes evalúa los canales de distribución para su modelo de negocio. Como resultado de las entrevistas realizadas a los potenciales clientes, han decidido comercializar su producto utilizando correos electrónicos y su página web.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes tipos de canales está utilizando el equipo?",
+          "opciones": [
+            "Canal directo.",
+            "Canal detallista.",
+            "Canal mayorista."
+          ],
+          "respuesta": "Canal directo.",
+          "respuestaCorta": "Al vender a través de su propia página web y correos electrónicos, la empresa llega al cliente final sin intermediarios, lo que define a un canal directo.",
+          "solucionario": "Un canal de distribución es directo cuando la empresa productora vende su producto directamente al consumidor final, sin utilizar intermediarios. El uso de una página web propia o el correo electrónico para la venta son ejemplos clásicos de un canal directo. Los canales detallistas o mayoristas (canales indirectos) implican la participación de uno o más intermediarios (tiendas, distribuidores, etc.).",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p40",
+      "contexto": "Un docente realiza una actividad en la que los estudiantes deben planificar las acciones y tareas de su proyecto, de modo que cada uno de ellos asuma de manera responsable sus roles.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes capacidades de la competencia \"Gestiona proyectos de emprendimiento económico o social\" se desarrolla principalmente al realizar esta actividad?",
+          "opciones": [
+            "Crea propuestas de valor.",
+            "Evalúa los resultados del proyecto de emprendimiento.",
+            "Trabaja cooperativamente para lograr objetivos y metas."
+          ],
+          "respuesta": "Trabaja cooperativamente para lograr objetivos y metas.",
+          "respuestaCorta": "La actividad de planificar tareas, asignar roles y asumir responsabilidades es el núcleo de la capacidad de trabajar cooperativamente.",
+          "solucionario": "La capacidad 'Trabaja cooperativamente para lograr objetivos y metas' implica la integración de los miembros del equipo, la planificación conjunta, la distribución de roles y la asunción de responsabilidades para alcanzar una meta común. La actividad descrita se centra precisamente en estos aspectos de organización y colaboración.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p41",
+      "contexto": "Luego de haber desarrollado sesiones de aprendizaje para que los estudiantes conozcan las 4P del marketing, un docente les pide que, en equipos, respondan las siguientes preguntas: \"¿Qué van a vender?, ¿qué necesidades o demandas pueden resolver?, ¿cuáles son los beneficios que ofrece cada una de sus características?, ¿aportan estos beneficios un valor añadido?\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes aspectos de las 4P del marketing corresponde a las preguntas formuladas por el docente?",
+          "opciones": [
+            "Plaza.",
+            "Producto.",
+            "Promoción."
+          ],
+          "respuesta": "Producto.",
+          "respuestaCorta": "Las preguntas se centran en definir la naturaleza del bien o servicio, sus características, beneficios y valor añadido, todos elementos clave del 'Producto'.",
+          "solucionario": "En las 4P del marketing, el 'Producto' se refiere a todo lo relacionado con el bien o servicio que se ofrece. Las preguntas del docente buscan que los estudiantes definan qué es su producto, qué problemas resuelve, cuáles son sus atributos y beneficios, y cuál es su valor diferencial. Todas estas son interrogantes fundamentales para definir la P de Producto.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p42",
+      "contexto": "Una docente presenta a los estudiantes el siguiente gráfico en el que trabajarán los aspectos relacionados al punto de equilibrio.",
+      "imagen": "img/ascenso/secundaria/2019/ept/2.jpg",
+      "preguntas": [
+        {
+          "pregunta": "Considerando el gráfico presentado, ¿cuál de las siguientes afirmaciones es correcta?",
+          "opciones": [
+            "El punto P indica que al producir C unidades no hay pérdidas ni ganancias.",
+            "El segmento cuyos extremos son los puntos B y F representa el costo total.",
+            "El segmento cuyos extremos son los puntos B y E representa el costo variable."
+          ],
+          "respuesta": "El punto P indica que al producir C unidades no hay pérdidas ni ganancias.",
+          "respuestaCorta": "El punto P es el punto de equilibrio, donde la línea de ingresos totales se cruza con la línea de costos totales, indicando cero ganancias y cero pérdidas.",
+          "solucionario": "El punto P en el gráfico representa la intersección de la línea de ingresos totales (OD) y la línea de costos totales (BE). Este punto, conocido como punto de equilibrio, indica el nivel de producción (C unidades) en el cual los ingresos por ventas son exactamente iguales a los costos totales. Por lo tanto, en ese punto la utilidad es cero, es decir, no hay ni pérdidas ni ganancias.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Considerando el gráfico presentado, ¿qué información ofrece la región sombreada?",
+          "opciones": [
+            "El equilibrio de ingresos y costos.",
+            "Las utilidades netas.",
+            "Los costos totales."
+          ],
+          "respuesta": "Las utilidades netas.",
+          "respuestaCorta": "La región sombreada se encuentra entre la línea de ingresos totales y la línea de costos totales, representando la ganancia o utilidad.",
+          "solucionario": "La región sombreada en el gráfico del punto de equilibrio es el área donde la línea de ingresos totales (OD) está por encima de la línea de costos totales (BE). La diferencia vertical entre estas dos líneas representa la ganancia o utilidad. Por lo tanto, la región sombreada visualiza las utilidades netas que se obtienen al producir y vender más unidades que las del punto de equilibrio.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Considerando el gráfico presentado, ¿qué representa el segmento cuyos extremos son los puntos O y D?",
+          "opciones": [
+            "El costo fijo.",
+            "El ingreso por ventas.",
+            "El costo fijo más el costo variable."
+          ],
+          "respuesta": "El ingreso por ventas.",
+          "respuestaCorta": "El segmento OD es una línea que parte del origen (0 ventas, 0 ingresos) y muestra cómo aumentan los ingresos a medida que se venden más unidades. Representa el ingreso total por ventas.",
+          "solucionario": "La línea que parte del origen (O) en un gráfico de punto de equilibrio representa los ingresos totales por ventas. Comienza en cero porque si no se vende ninguna unidad, no hay ingresos. A medida que las unidades producidas (y vendidas) aumentan en el eje horizontal, los ingresos aumentan proporcionalmente en el eje vertical, formando la línea recta OD.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p45",
+      "contexto": "Los estudiantes han implementado un proyecto que consiste en la venta de un producto y le han presentado al docente datos de su estructura de costos. \"En el periodo de un mes, nuestro costo fijo total será de S/ 1200; nuestro costo variable por unidad será de S/ 11; y el precio de venta por cada producto será de S/ 15\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes alternativas NO corresponde a los costos fijos?",
+          "opciones": [
+            "El pago del personal.",
+            "El alquiler de un local.",
+            "Los insumos para elaborar el producto."
+          ],
+          "respuesta": "Los insumos para elaborar el producto.",
+          "respuestaCorta": "Los insumos son costos variables, ya que su cantidad y costo total dependen directamente del número de unidades producidas.",
+          "solucionario": "Los costos fijos son aquellos que no cambian independientemente del nivel de producción (ej. alquiler, sueldos administrativos). Los costos variables, en cambio, están directamente relacionados con la producción; a más unidades producidas, mayor será el costo variable total. Los insumos o materia prima son el ejemplo más claro de un costo variable.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Sobre la base de la información presentada por el equipo, ¿cuánto será el punto de equilibrio en unidades producidas?",
+          "opciones": [
+            "80 unidades.",
+            "300 unidades.",
+            "301 unidades."
+          ],
+          "respuesta": "300 unidades.",
+          "respuestaCorta": "El punto de equilibrio se calcula dividiendo los costos fijos (1200) entre la diferencia del precio de venta (15) y el costo variable por unidad (11), lo que da 300 unidades.",
+          "solucionario": "La fórmula para calcular el punto de equilibrio en unidades es: Costos Fijos Totales / (Precio de Venta por Unidad - Costo Variable por Unidad). Aplicando los datos del caso: PE = 1200 / (15 - 11) = 1200 / 4 = 300. Se necesitan vender 300 unidades para cubrir todos los costos.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p47",
+      "contexto": "Una docente tiene como propósito que los estudiantes realicen la representación gráfica de la marca del producto que están elaborando. Durante el monitoreo, uno de los equipos le entrega a la docente la siguiente representación gráfica, y le comenta que se trata del logotipo de su proyecto, que consiste en elaborar galletas que contienen hierro.",
+      "imagen": "img/ascenso/secundaria/2019/ept/3.jpg",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es el error que se evidencia en el comentario realizado por este equipo de estudiantes?",
+          "opciones": [
+            "Confundir el logotipo con el imagotipo.",
+            "Confundir el logotipo con el isotipo.",
+            "Confundir el logotipo con el isologo."
+          ],
+          "respuesta": "Confundir el logotipo con el isologo.",
+          "respuestaCorta": "El equipo confunde logotipo (solo texto) con isologo, que es la fusión de texto e imagen en una sola unidad indivisible.",
+          "solucionario": "En diseño de marcas: un logotipo es solo texto (ej. Google); un isotipo es solo el símbolo (ej. la manzana de Apple); un imagotipo es la combinación de símbolo y texto que pueden funcionar por separado (ej. el cocodrilo y la palabra Lacoste). Un isologo es cuando el texto y el ícono están fusionados en un solo elemento y no pueden separarse (ej. Burger King). La imagen 'Dulci-Hierro' integra el texto dentro de la forma de la galleta, por lo que es un isologo.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p48",
+      "contexto": "Los integrantes del Comité de Gestión del Riesgo de Desastres de la IE y el docente de EPT consideran necesario señalizar el aula y el taller de la institución. A continuación, se presentan algunas señales que han considerado emplear en estos ambientes:",
+      "imagen": "img/ascenso/secundaria/2019/ept/4.jpg",
+      "preguntas": [
+        {
+          "pregunta": "Considerando las características de cada una de estas señales de seguridad, ¿cuál de ellas es una advertencia?",
+          "opciones": [
+            "La primera.",
+            "La segunda.",
+            "La tercera."
+          ],
+          "respuesta": "La segunda.",
+          "respuestaCorta": "Las señales de advertencia tienen forma triangular y alertan sobre un posible riesgo o peligro, como la señal de riesgo eléctrico.",
+          "solucionario": "Las señales de seguridad tienen formas y colores estandarizados. La primera señal es de obligación (circular, fondo azul). La tercera es de prohibición (circular, con borde y barra diagonal rojos). La segunda señal, de forma triangular con fondo amarillo y pictograma negro, es la que corresponde a una señal de advertencia, en este caso, de riesgo eléctrico.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+ 
+    {
+      "idGrupo": "asc_secundaria_2019_p49",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "En el Diagrama de Análisis de Procesos (DAP), ¿con cuál de los siguientes símbolos se representa el proceso: \"Examinar la calidad y cantidad de los materiales\"?",
+          "opciones": [
+            "Se representa con el símbolo ☐ (cuadrado).",
+            "Se representa con el símbolo ○ (círculo).",
+            "Se representa con el símbolo ▽ (triángulo)."
+          ],
+          "respuesta": "Se representa con el símbolo ▽ (triángulo).",
+          "respuestaCorta": "Según el solucionario oficial, la acción de examinar materiales se representa con el símbolo de almacenamiento (triángulo).",
+          "solucionario": "En la simbología estándar del Diagrama de Análisis de Procesos (DAP), un cuadrado representa una inspección (examinar calidad y cantidad). Sin embargo, siguiendo la clave de respuestas proporcionada para esta evaluación específica, la opción correcta es la que presenta el triángulo, que usualmente simboliza almacenamiento o espera.",
+          "seccion": "Conocimientos Disciplinares y Curriculares"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p50",
+      "contexto": "Una docente tiene como propósito que los estudiantes elaboren un diagrama de causa-efecto.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes acciones se debe tener en cuenta para iniciar la elaboración de este diagrama?",
+          "opciones": [
+            "Identificar el problema que se va a analizar.",
+            "Identificar el factor que origina el problema.",
+            "Identificar si la propuesta de valor constituye un bien o un servicio."
+          ],
+          "respuesta": "Identificar el problema que se va a analizar.",
+          "respuestaCorta": "El primer paso para construir un diagrama de causa-efecto (Ishikawa) es definir claramente el problema o 'efecto' que se va a analizar.",
+          "solucionario": "El diagrama de causa-efecto, también conocido como diagrama de Ishikawa o de espina de pescado, es una herramienta para identificar las posibles causas de un problema específico. Por lo tanto, el punto de partida indispensable y la primera acción a realizar es definir con precisión el problema (el 'efecto'), que se ubica en la 'cabeza' del pescado. A partir de ahí, se exploran las posibles 'causas'.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p51",
+      "contexto": "Los estudiantes elaboran diversos productos para su comercialización. Jorge es un estudiante que hace cerámicas con diseños andinos que tienen mucha demanda y por ello ha recibido constantes reconocimientos por su trabajo. Fernando es un estudiante que recientemente ha sido trasladado de otro taller. Ahora, ambos compartirán tareas en la elaboración de piezas de cerámica. Fernando ha aprendido rápidamente a elaborar las piezas de cerámica con los diseños que Jorge utiliza. Por ello, le propuso a Jorge incorporar nuevos diseños y le comentó que ha indagado acerca de técnicas de pintado innovadoras. Jorge, mostrando su molestia y con voz alta, contesta: \"¡Tú recién acabas de llegar, y no vas a venir a cambiar las cosas de la noche a la mañana!\". Fernando, al notar la incomodidad de Jorge, le dice: \"Cuando te calmes continuaremos conversando\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes acciones pedagógicas es más pertinente para ayudar a Jorge a autorregular sus emociones?",
+          "opciones": [
+            "Preguntar a Jorge: \"¿Cuáles son los acuerdos de convivencia?, ¿no consideras que estás incumpliendo alguno de ellos?\". Luego, pedirle que analice las normas que no ha cumplido. Finalmente, solicitarle que él mismo establezca una acción reparadora.",
+            "Preguntar a Jorge: \"¿Consideras que las propuestas de Fernando son interesantes?, ¿por qué?\". Luego, pedirle que se acerque a su compañero y le ofrezca disculpas. Finalmente, solicitarle que entregue a Fernando algunas piezas de cerámica para que él incorpore sus diseños.",
+            "Preguntar a Jorge: \"¿Qué hizo que respondieras a Fernando de esa manera?\". Luego, pedirle que manifieste cómo cree que se sintió su compañero después de lo que le dijo. Finalmente, solicitarle que mencione de qué manera puede expresar lo que le molesta sin lastimar a los demás."
+          ],
+          "respuesta": "Preguntar a Jorge: \"¿Qué hizo que respondieras a Fernando de esa manera?\". Luego, pedirle que manifieste cómo cree que se sintió su compañero después de lo que le dijo. Finalmente, solicitarle que mencione de qué manera puede expresar lo que le molesta sin lastimar a los demás.",
+          "respuestaCorta": "Esta opción guía a Jorge a identificar el origen de su emoción, a desarrollar empatía por su compañero y a buscar estrategias asertivas para gestionar futuros conflictos.",
+          "solucionario": "La autorregulación emocional implica reconocer la emoción, comprender su causa, considerar su efecto en los demás y encontrar formas constructivas de expresarla. La opción 'c' guía a Jorge a través de este proceso completo: primero, la reflexión sobre la causa de su reacción; segundo, el desarrollo de la empatía al ponerse en el lugar de Fernando; y tercero, la búsqueda de estrategias de comunicación asertiva. Las otras opciones son punitivas o impositivas, y no fomentan el desarrollo de la habilidad de autorregulación.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p52",
+      "contexto": "Como parte del desarrollo de su proyecto de emprendimiento, los estudiantes, organizados en equipos, elaboran un Diagrama de Operaciones del Proceso. A continuación, se presenta parte del diagrama elaborado por uno de los equipos:",
+      "imagen": "img/ascenso/secundaria/2019/ept/5.jpg",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es el error que se evidencia en el diagrama de este equipo de estudiantes?",
+          "opciones": [
+            "Considerar que los dos símbolos del primer proceso son correctos.",
+            "Considerar que el símbolo del segundo proceso es correcto.",
+            "Considerar que el símbolo del cuarto proceso es correcto."
+          ],
+          "respuesta": "Considerar que el símbolo del segundo proceso es correcto.",
+          "respuestaCorta": "El error en el diagrama es el uso del símbolo de almacenamiento (triángulo) para la acción 'Echar en un recipiente', que es una operación o transporte.",
+          "solucionario": "El error en el diagrama está en el segundo paso, 'Echar en un recipiente'. Esta acción es una operación (simbolizada por un círculo) o un transporte (flecha), pero el diagrama utiliza un triángulo, que representa almacenamiento o demora. Por lo tanto, la creencia errónea del equipo, que se evidencia en el diagrama, es considerar que el símbolo del segundo proceso (triángulo) es el correcto para esa acción.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p53",
+      "contexto": "El área de EPT ha recibido nuevas herramientas. El docente ha realizado actividades para asegurarse de que todos los estudiantes sepan utilizarlas de manera correcta, pues esto les facilitará la elaboración de sus productos; sin embargo, observa que, en un equipo, dos de los estudiantes se resisten a utilizarlas. Este es el diálogo que se suscitó entre el docente y dichos estudiantes:\nDocente: Observo que aún no están utilizando las nuevas herramientas. ¿Necesitan apoyo para empezar a utilizarlas?\nPedro: Con las herramientas anteriores, nos sentimos más seguros y no hemos tenido problemas.\nDocente: Pero estas herramientas les ayudarán a mejorar la calidad de sus productos y podrán producir mayor cantidad en menos tiempo.\nRaúl: Profesor, no creo que necesitemos utilizar las nuevas herramientas, pues ya nos hemos acostumbrado a las anteriores.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "En este contexto, el docente busca promover que los estudiantes reflexionen acerca de la importancia de la adaptación al cambio. ¿Cuál de las siguientes acciones pedagógicas es más pertinente para cumplir con dicho propósito?",
+          "opciones": [
+            "Preguntar a los estudiantes: \"¿Cuáles son los procedimientos para el uso de estas herramientas?\". Luego, pedirles que demuestren lo que han aprendido y felicitarlos por utilizar estas herramientas. Finalmente, solicitarles que elaboren una guía resumida acerca de los beneficios que implica el uso de estas herramientas en la elaboración de sus productos.",
+            "Preguntar a los estudiantes: \"¿Cuáles serían las consecuencias de no utilizar las nuevas herramientas en la elaboración de sus productos?\". Luego, reiterarles que estas herramientas deben emplearse, pues contribuirán a que sus productos presenten menos fallas, e incluso, que puedan producir más y en menor tiempo. Finalmente, pedirles que se organicen con sus compañeros con la finalidad de utilizar estas nuevas herramientas.",
+            "Preguntar a los estudiantes: \"¿Qué diferencia a las nuevas herramientas de las anteriores? ¿Cómo les está yendo a sus compañeros que están utilizando las nuevas herramientas? ¿Les ayuda en el trabajo que realizan?\". Luego, pedirles que evalúen si, ante la oportunidad de tener más demanda en sus productos cómo quedarían con sus clientes si incumplieran con atender sus pedidos. Finalmente, solicitarles que mencionen los beneficios de utilizar estas herramientas y que propongan acciones para utilizarlas."
+          ],
+          "respuesta": "Preguntar a los estudiantes: \"¿Qué diferencia a las nuevas herramientas de las anteriores? ¿Cómo les está yendo a sus compañeros que están utilizando las nuevas herramientas? ¿Les ayuda en el trabajo que realizan?\". Luego, pedirles que evalúen si, ante la oportunidad de tener más demanda en sus productos cómo quedarían con sus clientes si incumplieran con atender sus pedidos. Finalmente, solicitarles que mencionen los beneficios de utilizar estas herramientas y que propongan acciones para utilizarlas.",
+          "respuestaCorta": "Esta secuencia de preguntas promueve la reflexión comparativa, la observación de pares y el análisis de consecuencias, guiando a los estudiantes a descubrir por sí mismos los beneficios del cambio.",
+          "solucionario": "La acción más pertinente es aquella que guía a los estudiantes a construir su propio convencimiento. La opción 'c' logra esto al hacerles comparar, observar a sus pares, proyectar consecuencias a futuro ('¿cómo quedarían con sus clientes?') y, finalmente, llegar a sus propias conclusiones sobre los beneficios y proponer acciones. Este enfoque reflexivo es más eficaz para superar la resistencia al cambio que uno directivo o impositivo.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p54",
+      "contexto": "Una docente ha notado que uno de los equipos que está implementando su proyecto de emprendimiento no está cumpliendo las metas que ellos mismos han establecido. Al conversar con ellos y preguntarles por lo sucedido, ellos manifiestan que se les dificulta trabajar en equipo y que prefieren trabajar su proyecto individualmente.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "En este contexto, ¿cuál de las siguientes acciones pedagógicas es más pertinente para promover la reflexión de los estudiantes sobre el trabajo cooperativo?",
+          "opciones": [
+            "Realizar las siguientes preguntas: \"¿Cuántas metas tienen?, ¿se repartieron equitativamente las actividades?, ¿a todos les asignaron tareas y responsabilidades?, ¿quiénes realizaron la tarea y quiénes no?\". Finalmente, pedir que propongan una fecha para entregar las tareas que no terminaron.",
+            "Plantear las siguientes preguntas: \"¿Tuvieron alguna dificultad en los roles que asumieron?, ¿cuáles? ¿Las metas fueron claras?, ¿por qué?\". Luego, solicitar que dialoguen sobre las dificultades que tuvieron para cumplir sus tareas individuales y para consolidar dichas tareas en equipo. Finalmente, pedir que propongan acciones de mejora a fin de cumplir con sus metas.",
+            "Entregar una lista de cotejo para que la llenen individualmente y preguntar: \"¿Qué actividades cumplieron y qué actividades no lograron cumplir?\". Luego, reunirlos para entregarles un cronograma en el que se indica cuándo entregarán lo pendiente. Finalmente, pedir a cada uno que firme un acta de compromiso para cumplir su cronograma."
+          ],
+          "respuesta": "Plantear las siguientes preguntas: \"¿Tuvieron alguna dificultad en los roles que asumieron?, ¿cuáles? ¿Las metas fueron claras?, ¿por qué?\". Luego, solicitar que dialoguen sobre las dificultades que tuvieron para cumplir sus tareas individuales y para consolidar dichas tareas en equipo. Finalmente, pedir que propongan acciones de mejora a fin de cumplir con sus metas.",
+          "respuestaCorta": "Esta opción se enfoca en el proceso del trabajo en equipo (roles, metas, dificultades de consolidación) y promueve que los propios estudiantes encuentren soluciones, fomentando la autorregulación del equipo.",
+          "solucionario": "Para promover la reflexión sobre el trabajo cooperativo, es necesario centrarse en el 'cómo' trabajaron, no solo en el 'qué' hicieron. La opción 'b' es la más pertinente porque indaga sobre las dificultades en los roles y la claridad de las metas, y promueve el diálogo sobre los problemas de articulación. Culmina pidiendo que ellos mismos propongan acciones de mejora, lo que fomenta la responsabilidad y la capacidad del equipo para resolver sus propios problemas.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p55",
+      "contexto": "Los integrantes de un equipo han realizado diversos comentarios sobre las fortalezas, debilidades, amenazas y oportunidades de un modelo de negocio.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes afirmaciones de los estudiantes corresponde a una debilidad?",
+          "opciones": [
+            "Ana: No hemos podido atender algunas quejas sobre nuestros productos.",
+            "Bernardo: Existen productos similares al nuestro con precios más bajos.",
+            "Camila: Hay épocas de escasez de demanda de nuestros productos."
+          ],
+          "respuesta": "Ana: No hemos podido atender algunas quejas sobre nuestros productos.",
+          "respuestaCorta": "Una debilidad es un factor interno y negativo. La incapacidad para gestionar quejas es un problema interno del negocio.",
+          "solucionario": "En un análisis FODA, las debilidades son factores internos que perjudican a la empresa. 'No poder atender quejas' es una falla en los procesos internos de servicio al cliente. Las otras opciones son factores externos: 'productos similares con precios más bajos' (amenaza) y 'escasez de demanda por épocas' (amenaza).",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Cuál de las siguientes afirmaciones de los estudiantes corresponde a una amenaza?",
+          "opciones": [
+            "Ana: Alcanzamos las metas de producción, pero desperdiciamos materiales.",
+            "Bernardo: La competencia ha iniciado campañas masivas de publicidad.",
+            "Camila: Dependemos de un solo canal de distribución."
+          ],
+          "respuesta": "Bernardo: La competencia ha iniciado campañas masivas de publicidad.",
+          "respuestaCorta": "Una amenaza es un factor externo y negativo. Las acciones de la competencia son externas y pueden perjudicar al negocio.",
+          "solucionario": "En un análisis FODA, las amenazas son factores externos que están fuera del control de la empresa y que pueden afectarla negativamente. Una campaña publicitaria de la competencia es un claro ejemplo de una amenaza del entorno. Las otras dos opciones son debilidades, ya que son factores internos negativos (desperdicio de materiales, dependencia de un solo canal).",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Cuál de las siguientes afirmaciones de los estudiantes corresponde a una oportunidad?",
+          "opciones": [
+            "Alejandra: Personas de otras zonas tienen demandas similares a las de nuestros clientes.",
+            "Felipe: Contamos con suficiente capital para realizar un estudio de mercado.",
+            "Camila: Nuestra ventaja competitiva es innovadora."
+          ],
+          "respuesta": "Alejandra: Personas de otras zonas tienen demandas similares a las de nuestros clientes.",
+          "respuestaCorta": "Una oportunidad es un factor externo y positivo. La existencia de nuevos mercados potenciales es una oportunidad del entorno que se puede aprovechar.",
+          "solucionario": "En un análisis FODA, las oportunidades son factores externos que la empresa puede capitalizar a su favor. La existencia de 'personas de otras zonas con demandas similares' representa un mercado potencial sin explotar, lo cual es una oportunidad. Las otras opciones son fortalezas, ya que son factores internos positivos (contar con capital, tener una ventaja competitiva).",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Cuál de las siguientes afirmaciones de los estudiantes corresponde a una fortaleza?",
+          "opciones": [
+            "Alejandra: El diseño de nuestro prototipo ha sido validado por expertos y usuarios.",
+            "Felipe: Las empresas de la localidad están interesadas en establecer alianzas.",
+            "Camila: Las redes sociales pueden contribuir en el desarrollo del proyecto."
+          ],
+          "respuesta": "Alejandra: El diseño de nuestro prototipo ha sido validado por expertos y usuarios.",
+          "respuestaCorta": "Una fortaleza es un factor interno y positivo. Tener un prototipo validado es un recurso interno valioso que le da solidez al proyecto.",
+          "solucionario": "En un análisis FODA, las fortalezas son los atributos internos de la empresa que le dan una ventaja sobre otras. Un 'prototipo validado por expertos y usuarios' es un activo interno muy importante que reduce el riesgo y confirma el valor del producto. Las otras opciones son oportunidades, ya que son factores externos positivos (interés de otras empresas, potencial de las redes sociales).",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p59",
+      "contexto": "Una docente pide a los estudiantes que, por medio de una lluvia de ideas, comenten acerca de lo que conocen sobre las empresas sociales. A continuación, se presentan los comentarios de tres estudiantes:\nÁlvaro: Las empresas sociales las conforman las ONG, porque benefician a las poblaciones más vulnerables.\nBraulio: Las empresas sociales utilizan modelos de negocio para alcanzar objetivos sociales o ambientales.\nCelia: Las empresas sociales son aquellas que, además de dedicarse a su producción principal, crean proyectos para generar un impacto responsable y positivo en la sociedad.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los comentarios de los estudiantes corresponde al concepto de empresa social?",
+          "opciones": [
+            "El de Álvaro.",
+            "El de Braulio.",
+            "El de Celia."
+          ],
+          "respuesta": "El de Braulio.",
+          "respuestaCorta": "La definición de Braulio es la más precisa, ya que una empresa social se caracteriza por usar mecanismos de mercado (un modelo de negocio) para lograr una misión social o ambiental.",
+          "solucionario": "El concepto central de una empresa social es que no es una caridad tradicional (ONG) ni una empresa comercial con un proyecto de responsabilidad social (descripción de Celia). Una empresa social integra su misión social o ambiental en el núcleo de su modelo de negocio; es decir, genera ingresos y es autosostenible a través de una actividad comercial que, a su vez, resuelve un problema social. La afirmación de Braulio captura esta dualidad fundamental.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2019_p60",
+      "contexto": "Un equipo de estudiantes busca conocer la evolución de la venta que ha tenido su producto en los últimos seis meses. A continuación, se muestran los registros de las ventas mensuales:",
+      "imagen": "img/ascenso/secundaria/2019/ept/6.jpg",
+      "preguntas": [
+        {
+          "pregunta": "¿Qué gráfico estadístico es pertinente utilizar para mostrar la evolución de la cantidad de productos vendidos en los meses indicados?",
+          "opciones": [
+            "Gráfico de líneas.",
+            "Gráfico circular.",
+            "Histograma."
+          ],
+          "respuesta": "Gráfico de líneas.",
+          "respuestaCorta": "El gráfico de líneas es el más adecuado para mostrar la evolución de una variable a lo largo del tiempo.",
+          "solucionario": "Para visualizar datos continuos a lo largo de un período de tiempo y mostrar tendencias o 'evolución', el gráfico de líneas es la herramienta estándar y más efectiva. Conecta puntos de datos sucesivos, lo que facilita ver el aumento, la disminución o la estabilidad de una variable (en este caso, las ventas) a través de los meses. Un gráfico circular muestra partes de un todo, y un histograma muestra la distribución de frecuencias de una variable.",
+          "seccion": "Casuística"
+        }
+      ]
+    }
+  ]
+}

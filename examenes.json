@@ -495,6 +495,19 @@
     "archivos": {
       "especifico": "data/ascenso/inicial/2019/ascenso_inicial2019.json"
     }
-  }  
+  },
+  {
+    "id": 50,
+    "proceso": "Ascenso",
+    "anio": 2019,
+    "nivel": "Secundaria",
+    "especialidad": "Educación para el Trabajo (EPT)",
+    "modalidad": "EBR",
+    "preguntas": 60,
+    "tiempo": 180,
+    "archivos": {
+      "especifico": "data/ascenso/secundaria/2019/ascenso_EPT2019.json"
+    }
+  }
   
 ]
