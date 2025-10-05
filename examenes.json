@@ -508,6 +508,19 @@
     "archivos": {
       "especifico": "data/ascenso/secundaria/2019/ascenso_EPT2019.json"
     }
+  },
+  {
+    "id": 51,
+    "proceso": "Ascenso",
+    "anio": 2019,
+    "nivel": "Secundaria",
+    "especialidad": "Arte y Cultura",
+    "modalidad": "EBR",
+    "preguntas": 60,
+    "tiempo": 180,
+    "archivos": {
+      "especifico": "data/ascenso/secundaria/2019/ascenso_arte2019.json"
+    }
   }
   
 ]

@@ -1,0 +1,971 @@
+{
+  "completo": [
+    {
+      "idGrupo": "asc_arte_2019_g01",
+      "contexto": "Los estudiantes van a llevar a cabo un proyecto artístico al que han titulado \"Retratos de mi colegio\". En este proyecto realizarán una serie de fotografías de diversos miembros de la comunidad educativa con ayuda de algunos teléfonos celulares con cámara. La docente se propone que los estudiantes exploren los fundamentos de la iluminación fotográfica para ponerlos en práctica en sus retratos y, por eso, les plantea realizar una actividad con los celulares que les ha pedido traer a la clase. La docente saca algunas linternas y les pide a los estudiantes que tapen las ventanas del aula con cartulinas negras y que apaguen la luz. Luego, les propone tomarse fotos entre ellos poniendo las linternas en diversos ángulos para ir explorando los efectos que produce la iluminación sobre el rostro según la posición de la fuente de luz.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Durante la exploración con las linternas, la docente les plantea lo siguiente a los estudiantes: \"A ver, chicas y chicos, un voluntario para un experimento\". Rocío se ofrece. La docente continúa: \"Si quisiera hacer un retrato de Rocío, pero que dé miedo, como en las películas de terror, ¿dónde debería poner la linterna?\". Tres estudiantes hacen sus propuestas. ¿Cuál de ellas es más pertinente para lograr el efecto mencionado por la docente?",
+          "opciones": [
+            "Christian dice: \"Lo mejor es poner la linterna por debajo de la cara de Rocío\".",
+            "Marilú dice: \"Yo creo que mejor es ubicar la luz detrás de la cabeza de Rocío\".",
+            "Jaime dice: \"Mejor una linterna a la derecha y otra a la izquierda, ligeramente delante de la cara de Rocío\"."
+          ],
+          "respuesta": "Christian dice: \"Lo mejor es poner la linterna por debajo de la cara de Rocío\".",
+          "respuestaCorta": "La iluminación desde abajo (luz nadir) crea sombras antinaturales y distorsionadas en el rostro, un recurso ampliamente utilizado en el cine de terror para generar miedo.",
+          "solucionario": "La opción 'a' es la más pertinente. Colocar una fuente de luz directamente debajo del rostro invierte las sombras naturales a las que estamos acostumbrados, acentuando los pómulos y creando cavidades oscuras en los ojos, lo que produce un efecto siniestro y perturbador, ideal para un retrato de terror. La opción 'b' (contraluz) crearía una silueta, y la 'c' (iluminación frontal dividida) es más usada para retratos dramáticos, pero no específicamente de terror.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Luego, la docente les plantea la siguiente situación a los estudiantes: \"Imaginemos que estamos aquí con doña Nancy, la señora del quiosco. Si quisiéramos que en el retrato se noten claramente sus arruguitas para destacar su edad y su experiencia de vida, ¿dónde deberíamos poner la linterna?\". Tres estudiantes hacen sus propuestas. ¿Cuál de ellas es más pertinente para lograr el efecto sugerido por la docente?",
+          "opciones": [
+            "Moisés dice: \"Pondría una luz detrás de la cabeza de doña Nancy, un poquito hacia uno de los lados\".",
+            "Karina dice: \"Pondría la luz a un lado de la cabeza de doña Nancy, ligeramente delante de su rostro\".",
+            "Luis dice: \"Pondría una luz encima de la cabeza de doña Nancy, un poco delante del rostro\"."
+          ],
+          "respuesta": "Karina dice: \"Pondría la luz a un lado de la cabeza de doña Nancy, ligeramente delante de su rostro\".",
+          "respuestaCorta": "La luz lateral o rasante es la más efectiva para resaltar la textura de una superficie, como las arrugas, ya que crea sombras marcadas que revelan cada detalle del relieve de la piel.",
+          "solucionario": "Para acentuar la textura, la mejor técnica de iluminación es la luz lateral. Al incidir sobre el rostro desde un costado, la luz crea sombras pronunciadas en cada surco y arruga, haciendo que la textura de la piel sea mucho más evidente y dramática, lo que cumple el objetivo de destacar la edad y experiencia del sujeto. Una luz desde atrás o desde arriba tendería a aplanar o a ocultar estos detalles.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_arte_2019_g02",
+      "contexto": "El collage es una técnica creada por las vanguardias europeas de principios del siglo XX, y consiste en unir y pegar diversas imágenes, fotografías (o fragmentos de estas) u objetos en una misma superficie, y crear así una nueva imagen con un nuevo significado. El docente de Arte y Cultura va a trabajar con sus estudiantes el concepto de collage y está buscando ejemplos en internet.",
+      "imagen": "img/ascenso/secundaria/2019/arte/1.jpg",
+      "preguntas": [
+        {
+          "pregunta": "El docente encuentra las siguientes tres imágenes de obras de arte. ¿Cuál de ellas es un collage?",
+          "opciones": [
+            "a",
+            "b",
+            "c"
+          ],
+          "respuesta": "b",
+          "respuestaCorta": "La imagen 'b' es un collage porque está compuesta por la unión y superposición de fragmentos de diferentes imágenes para crear una nueva composición, de acuerdo con la definición de la técnica.",
+          "solucionario": "La imagen 'b' es la única que corresponde a la técnica del collage, ya que se observa claramente el ensamblaje de múltiples recortes de imágenes diversas. La imagen 'a' (Andy Warhol) es una serigrafía, que es una técnica de impresión. La imagen 'c' (Marcel Duchamp) es un 'ready-made' intervenido, donde se modifica una obra existente, lo cual es conceptualmente distinto al collage.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Luego de investigar y desarrollar el concepto junto con los estudiantes, el docente les propone realizar un collage, y ellos aceptan entusiasmados. ¿Cuál de las siguientes es la estrategia más pertinente para llevar a cabo este trabajo en el aula?",
+          "opciones": [
+            "Luego de que los estudiantes identifican posibles temas relevantes para ellos, solicitarles que traigan al aula revistas, periódicos, encartes y otros materiales impresos; luego, proponerles que seleccionen imágenes interesantes, que las recorten y peguen en una cartulina haciendo una composición propia que transmita un mensaje sobre el tema escogido por cada uno.",
+            "Sugerir a los estudiantes que lleven a clase diversas piezas de papel o cartulina de distintos colores, y proponerles cortarlas en cuadrados pequeños, de aproximadamente un centímetro de lado; luego, proponerles que dibujen sobre una cartulina una figura sencilla y que peguen sobre ella los pedazos de papel hasta cubrir todo el dibujo, tomando en cuenta los colores en su composición.",
+            "Proponer a los estudiantes que conformen grupos y que cada integrante realice un dibujo libre que lo represente; luego, pedirles a los miembros del grupo que, entre todos, peguen todos los dibujos del grupo en un papelógrafo de una manera novedosa para mostrar las principales características de todos los integrantes en un solo trabajo."
+          ],
+          "respuesta": "Luego de que los estudiantes identifican posibles temas relevantes para ellos, solicitarles que traigan al aula revistas, periódicos, encartes y otros materiales impresos; luego, proponerles que seleccionen imágenes interesantes, que las recorten y peguen en una cartulina haciendo una composición propia que transmita un mensaje sobre el tema escogido por cada uno.",
+          "respuestaCorta": "Esta estrategia es la más completa y pertinente porque abarca el proceso esencial del collage: partir de un tema, usar imágenes preexistentes de diversas fuentes y recombinarlas para crear un nuevo significado.",
+          "solucionario": "La opción 'a' describe el proceso pedagógico más adecuado para realizar un collage. Involucra la conceptualización (elegir un tema), la recolección de material diverso (revistas, periódicos), la técnica propia del collage (seleccionar, recortar, pegar) y el propósito final de la técnica (crear una nueva composición con un nuevo mensaje). La opción 'b' se asemeja más a un mosaico, mientras que la 'c' es la creación de un mural con dibujos propios, no un collage.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Desde una perspectiva pedagógica, ¿cuál de las siguientes afirmaciones describe la principal ventaja de realizar collages con los estudiantes?",
+          "opciones": [
+            "Permite reutilizar materiales en desuso disponibles en el aula, lo que, además de ser económico y de fácil acceso, desarrolla la conciencia ambiental de los estudiantes al contribuir con el cuidado del planeta.",
+            "Permite crear imágenes muy novedosas que son apreciadas por el público en general, lo que les brinda a los estudiantes la posibilidad de desarrollar sus proyectos artísticos generando sus propios ingresos.",
+            "Permite explorar las relaciones entre las imágenes dándoles un nuevo significado y desarrollar nociones de composición de manera amena con materiales económicos y fácilmente accesibles."
+          ],
+          "respuesta": "Permite explorar las relaciones entre las imágenes dándoles un nuevo significado y desarrollar nociones de composición de manera amena con materiales económicos y fácilmente accesibles.",
+          "respuestaCorta": "La ventaja pedagógica central del collage es que permite a los estudiantes resignificar imágenes existentes y, al mismo tiempo, aprender sobre composición de una forma creativa y con recursos accesibles.",
+          "solucionario": "Si bien las otras opciones mencionan beneficios secundarios (conciencia ambiental, potencial económico), la principal ventaja pedagógica del collage, como se describe en la opción 'c', es su capacidad para que los estudiantes exploren la semántica de las imágenes. Al descontextualizar y recontextualizar fragmentos, los estudiantes desarrollan el pensamiento crítico y la creatividad, a la vez que practican de forma intuitiva y lúdica los principios de la composición visual.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_arte_2019_g03",
+      "contexto": "A continuación, se presentan tres pinturas realizadas por Piet Mondrian en las que el autor representa un árbol. Observe las imágenes y responda la pregunta.",
+      "imagen": "img/ascenso/secundaria/2019/arte/2.jpg",
+      "preguntas": [
+        {
+          "pregunta": "¿Qué proceso se evidencia en esta secuencia de imágenes?",
+          "opciones": [
+            "Sincretismo.",
+            "Abstracción.",
+            "Desmaterialización."
+          ],
+          "respuesta": "Abstracción.",
+          "respuestaCorta": "La secuencia muestra un claro proceso de abstracción, donde el artista simplifica progresivamente las formas de un árbol real hasta reducirlas a sus líneas y estructuras esenciales.",
+          "solucionario": "La serie de árboles de Mondrian es un ejemplo canónico del proceso de abstracción en el arte moderno. El artista parte de una representación figurativa de un árbol y, en obras sucesivas, elimina detalles para enfocarse cada vez más en la estructura subyacente de líneas y formas, evolucionando hacia un lenguaje puramente abstracto. El sincretismo es una mezcla de culturas y la desmaterialización es un concepto más filosófico sobre la pérdida de la fisicalidad del objeto artístico.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_arte_2019_g04",
+      "contexto": null,
+      "imagen": "img/ascenso/secundaria/2019/arte/3.jpg",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes NO es una pintura figurativa?",
+          "opciones": [
+            "a",
+            "b",
+            "c"
+          ],
+          "respuesta": "b",
+          "respuestaCorta": "La pintura 'b' no es figurativa porque es abstracta; no representa figuras u objetos reconocibles del mundo real, sino que se centra en elementos plásticos como el color y la textura.",
+          "solucionario": "El arte figurativo se define por la representación de formas identificables de la realidad. Las pinturas 'a' y 'c' claramente muestran figuras humanas y objetos reconocibles. Por el contrario, la pintura 'b' es un ejemplo de abstracción, donde el artista no busca representar el mundo visible, sino crear una composición a partir de elementos puramente visuales como formas, colores y texturas.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_arte_2019_g05",
+      "contexto": "En Argentina, durante la dictadura cívico-militar autodenominada \"Proceso de Reorganización Nacional\" (1976-1983), hubo miles de víctimas y personas desaparecidas. En el año 1999, la artista argentina Lucila Quieto inicia un proyecto novedoso llamado Arqueología de la ausencia, que consistía en la elaboración de una colección de retratos familiares \"imposibles\". La fotografía de una persona desaparecida durante la dictadura cívico-militar era proyectada sobre una pared. Sobre la proyección, posaba el hijo o hija de la persona desaparecida y, sobre este montaje, se tomaba una nueva fotografía donde aparecen juntos el hijo o hija y el familiar ausente.",
+      "imagen": "img/ascenso/secundaria/2019/arte/4.jpg",
+      "preguntas": [
+        {
+          "pregunta": "¿Qué reflexión plantea principalmente el trabajo Arqueología de la ausencia de Lucila Quieto?",
+          "opciones": [
+            "Reflexiona sobre la importancia de utilizar recursos visuales novedosos para la representación artística.",
+            "Reflexiona sobre la importancia de los lazos de parentesco en la familia y las formas en que se pueden representar.",
+            "Reflexiona sobre la importancia del rescate de vínculos emocionales en sociedades que han padecido violencia política."
+          ],
+          "respuesta": "Reflexiona sobre la importancia del rescate de vínculos emocionales en sociedades que han padecido violencia política.",
+          "respuestaCorta": "El proyecto utiliza el arte para reconstruir simbólicamente los vínculos familiares rotos por la violencia política, abordando temas como la memoria, la identidad y la sanación de traumas sociales.",
+          "solucionario": "El núcleo del proyecto de Lucila Quieto no es la técnica fotográfica en sí, ni la representación familiar en un sentido general. Es un acto de memoria y reparación. Al crear estos \"retratos imposibles\", la artista aborda el trauma social de la desaparición forzada, permitiendo un reencuentro simbólico que busca sanar y rescatar los vínculos emocionales quebrados por la violencia de Estado, convirtiéndose en una poderosa reflexión sobre la memoria histórica.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "El docente desea analizar con los estudiantes el proyecto Arqueología de la ausencia. Antes de mostrarles las fotografías, el docente desea realizar una actividad con el propósito de que los estudiantes comprendan las posibles motivaciones de la artista. ¿Cuál de las siguientes actividades es más pertinente para dicho fin?",
+          "opciones": [
+            "Solicitar a los estudiantes que traigan una foto suya con uno de sus padres o con un familiar muy querido. Mientras observan sus fotos, preguntarles: \"¿Por qué han escogido esa foto? ¿Para qué les sirve tener una foto así? ¿Qué sentirían al ver la foto si sus padres o familiares ya no estuvieran entre nosotros?\", y los estudiantes comparten sus opiniones.",
+            "Proponer a los estudiantes formar equipos y entregar a cada grupo un texto en el que se describen diversos episodios de violencia social y política ocurridos en Latinoamérica, para que lo discutan y compartan sus impresiones. Luego, los estudiantes discuten en plenario sobre la importancia de la democracia en nuestra sociedad.",
+            "Presentar a los estudiantes ejemplos de diversos artistas que han realizado retratos fotográficos de formas novedosas o con técnicas no convencionales. Luego, preguntarles qué es lo que más les llama la atención de cada retrato y por qué, y reflexionar con ellos sobre la importancia de la innovación en la fotografía artística."
+          ],
+          "respuesta": "Solicitar a los estudiantes que traigan una foto suya con uno de sus padres o con un familiar muy querido. Mientras observan sus fotos, preguntarles: \"¿Por qué han escogido esa foto? ¿Para qué les sirve tener una foto así? ¿Qué sentirían al ver la foto si sus padres o familiares ya no estuvieran entre nosotros?\", y los estudiantes comparten sus opiniones.",
+          "respuestaCorta": "Esta actividad es la más pertinente porque conecta a los estudiantes con la dimensión emocional y personal del proyecto, permitiéndoles empatizar con la importancia de la memoria fotográfica y el dolor de la ausencia.",
+          "solucionario": "Para comprender la motivación de la artista, es crucial que los estudiantes conecten con el núcleo emocional de la obra. La opción 'a' logra esto al partir de la experiencia personal de los estudiantes con sus propias fotografías familiares. Esta reflexión sobre el valor afectivo de las fotos y la potencial pérdida los prepara para entender la profundidad y la urgencia del proyecto de Quieto de una manera mucho más significativa que un análisis puramente político (opción b) o técnico (opción c).",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_arte_2019_g06",
+      "contexto": "El docente ha planificado una unidad didáctica a la que ha titulado \"Superhéroes y antihéroes\" con el propósito de desarrollar capacidades relacionadas con la apreciación crítica y la creación artística en los estudiantes.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Al iniciar la unidad, el docente desea recoger los saberes previos de los estudiantes sobre los superhéroes y sus principales características. ¿Cuál de las siguientes acciones es más apropiada?",
+          "opciones": [
+            "Preguntar a los estudiantes: \"¿Sabían que los superhéroes siempre protegen a los habitantes de una ciudad o de un país? ¿Por qué motivo creen que los superhéroes actúan así? ¿Sabían que eso es algo que tienen en común con los héroes de la mitología griega?\".",
+            "Conformar grupos y entregarles una definición de superhéroe extraída del diccionario y pedir a los estudiantes que discutan si están de acuerdo o no con la definición, y que agreguen o modifiquen lo que consideren necesario hasta estar todos de acuerdo con ella.",
+            "Mostrar a los estudiantes imágenes de distintos superhéroes y superheroínas populares y preguntarles: \"¿Qué tienen en común los personajes mostrados en estas imágenes? ¿Cuáles son sus atributos? ¿Cuál es su forma de actuar? ¿Qué los motiva a actuar de esa manera?\"."
+          ],
+          "respuesta": "Mostrar a los estudiantes imágenes de distintos superhéroes y superheroínas populares y preguntarles: \"¿Qué tienen en común los personajes mostrados en estas imágenes? ¿Cuáles son sus atributos? ¿Cuál es su forma de actuar? ¿Qué los motiva a actuar de esa manera?\".",
+          "respuestaCorta": "Esta acción es la más apropiada para recoger saberes previos porque parte de referentes visuales conocidos por los estudiantes y utiliza preguntas abiertas para que ellos mismos construyan el concepto.",
+          "solucionario": "Pedagógicamente, la mejor manera de activar saberes previos es partir de estímulos concretos y familiares (imágenes de superhéroes) y usar preguntas abiertas y exploratorias. Esto permite que los estudiantes expresen sus propias ideas y conocimientos sin ser inducidos (como en la opción 'a') o limitados por una definición ya dada (como en la opción 'b'). La opción 'c' promueve que los estudiantes construyan el conocimiento de forma colaborativa.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_arte_2019_g07",
+      "contexto": "Al recoger los saberes previos de los estudiantes, todos coinciden en que los superhéroes son personajes virtuosos con poderes sobrehumanos y que luchan por el bien de los demás. Entonces, el docente muestra a los estudiantes la siguiente reseña con la imagen de una pintura realizada por el artista peruano, Fernando Gutiérrez Cassinelli.\nEl Superchaco: un superhéroe de sabor nacional\nLa serie de óleos \"Pop Chicha\", de Fernando Gutiérrez Cassinelli (alias Huanchaco), relata las aventuras del \"Superchaco\" combinando las técnicas tradicionales de la pintura, la fotografía, el video, y la estética del cómic y las novelas gráficas. El artista se retrata a sí mismo con un traje de color rojo, guantes, botas, capa azul y una letra \"H\" en su pecho. Lima es, en esta ficción, la Ciudad Caótica (haciendo alusión a la Ciudad Gótica de Batman), en donde se despliegan la informalidad, la discriminación y el oportunismo. Superchaco no tiene superpoderes y es un vago que busca eludir el desempleo y ganarse alguito haciendo el mínimo esfuerzo. Rastrero y ocioso, es incapaz de ningún sacrificio, de ninguna nobleza.",
+      "imagen": "img/ascenso/secundaria/2019/arte/5.jpg",
+      "preguntas": [
+        {
+          "pregunta": "¿Qué proceso promueve principalmente el docente al mostrar esta imagen y reseña a los estudiantes luego de recoger sus saberes previos?",
+          "opciones": [
+            "Metacognición.",
+            "Conflicto cognitivo.",
+            "Autoevaluación."
+          ],
+          "respuesta": "Conflicto cognitivo.",
+          "respuestaCorta": "Al presentar un 'superhéroe' que contradice radicalmente las características que los estudiantes habían establecido, el docente genera un conflicto cognitivo, obligándolos a cuestionar y reestructurar sus ideas previas.",
+          "solucionario": "El conflicto cognitivo es un proceso pedagógico clave que ocurre cuando un estudiante se enfrenta a una información nueva que choca con sus esquemas mentales existentes. Aquí, los estudiantes tienen una idea clara de 'superhéroe'. La figura del 'Superchaco' (sin poderes, vago, ocioso) rompe por completo ese esquema, creando una disonancia que motiva al estudiante a buscar una nueva comprensión que pueda incluir esta nueva y contradictoria información, abriendo paso al concepto de 'antihéroe'.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Después de leer la reseña, Sofía, una de las estudiantes, dice lo siguiente: \"Profesor, me parece que esta obra es muy pesimista porque solo dice cosas feas y malas de la ciudad de Lima y del personaje Superchaco. ¿Por qué nos ha mostrado esta obra? ¿Qué puede aportar una obra tan negativa?\". Después de agradecer a Sofía por su aporte, ¿cuál de las siguientes alternativas es la respuesta más pertinente para favorecer que la estudiante reflexione sobre el propósito de la obra?",
+          "opciones": [
+            "\"Sofía, me parece que los aspectos negativos que se indican en la reseña señalan problemas reales de la sociedad peruana. Seguramente todos conocemos a alguien que se parece al Superchaco y, algunas veces, nos portamos como él. Para solucionar un problema, primero es necesario identificarlo. Lo que el autor quiere es cuestionar al público, hacerlo reflexionar\".",
+            "\"Sofía, ¿acaso tú te sientes aludida por las cosas negativas que se señalan en la reseña? ¿Alguna vez te has comportado como el Superchaco? ¿Qué tipo de personas podrían verse reflejadas en lo descrito? ¿Cómo deberían reaccionar al ver esta obra? ¿Por qué? Entonces, el propósito del artista es denunciar los problemas de nuestra sociedad, ¿estás de acuerdo?\".",
+            "\"Sofía, cuéntanos un poco más, ¿por qué dices que la obra te parece pesimista? ¿Tiene algo de cierto lo que dice la reseña sobre la ciudad de Lima? ¿Cuál crees que fue la intención del artista al crear a este personaje? ¿Por qué lo dices? ¿Qué efecto quiso producir en el público? Entonces, ¿cuál puede ser el aporte de una obra como esta a la sociedad peruana?\"."
+          ],
+          "respuesta": "\"Sofía, cuéntanos un poco más, ¿por qué dices que la obra te parece pesimista? ¿Tiene algo de cierto lo que dice la reseña sobre la ciudad de Lima? ¿Cuál crees que fue la intención del artista al crear a este personaje? ¿Por qué lo dices? ¿Qué efecto quiso producir en el público? Entonces, ¿cuál puede ser el aporte de una obra como esta a la sociedad peruana?\".",
+          "respuestaCorta": "La respuesta más pertinente es la que utiliza preguntas de andamiaje para guiar a la estudiante a que ella misma descubra el propósito crítico del arte, en lugar de darle una respuesta directa o confrontarla.",
+          "solucionario": "La opción 'c' representa la mejor práctica pedagógica. En lugar de dar la respuesta (opción 'a') o interpelar de forma personal (opción 'b'), el docente utiliza una serie de preguntas reflexivas (andamiaje) que invitan a la estudiante a profundizar en su propia opinión, analizar la intención del artista y el efecto en el público. Este proceso dialógico permite que sea la propia estudiante quien construya una comprensión más compleja sobre el rol crítico y social del arte.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+  
+    {
+      "idGrupo": "asc_arte_2019_g07",
+      
+      "preguntas": [
+        {
+          "pregunta": "El docente solicita a los estudiantes que comenten qué aspectos de la pintura de Fernando Gutiérrez les han llamado más la atención. Tres estudiantes responden. ¿Cuál de ellos evidencia una apreciación NO solamente formal de la obra?",
+          "opciones": [
+            "Luis dice: \"Profesor, a mí lo que más me ha llamado la atención es cómo el artista ha hecho su dibujo con muchos detalles; por ejemplo, los ojos del personaje y la comida parecen de verdad, son muy realistas\".",
+            "Indira dice: \"Profesor, a mí lo que me gusta es cómo el artista junta en su dibujo cosas que no tienen nada que ver. Es como si fuera irónico con los superhéroes y con la gente que vive en Lima\".",
+            "José dice: \"A mí me parece interesante cómo el artista ha dibujado un montón de objetos de distinto tipo en un espacio tan pequeño y ha agregado letras chinas para acompañar todo\"."
+          ],
+          "respuesta": "Indira dice: \"Profesor, a mí lo que me gusta es cómo el artista junta en su dibujo cosas que no tienen nada que ver. Es como si fuera irónico con los superhéroes y con la gente que vive en Lima\".",
+          "respuestaCorta": "La apreciación de Indira no es solo formal porque interpreta el significado y la intención de la obra (ironía, crítica social), trascendiendo la mera descripción de sus elementos visuales.",
+          "solucionario": "Un análisis formal se enfoca en los elementos plásticos de la obra como la línea, el color, la composición y el grado de realismo, tal como lo hacen Luis y José. Indira, en cambio, realiza una apreciación crítica que va más allá de lo formal, ya que interpreta la yuxtaposición de elementos para deducir la intención del artista y el mensaje de la obra, relacionándola con una crítica irónica a la sociedad y al arquetipo del superhéroe.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "El docente comenta a los estudiantes que el Superchaco no es un superhéroe convencional, sino que, más bien, es lo que algunos llaman \"antihéroe\". ¿Cuál de las siguientes actividades es más pertinente para que los estudiantes comprendan las diferencias entre los superhéroes y los antihéroes?",
+          "opciones": [
+            "Entregar a los estudiantes varias definiciones de los términos \"superhéroe\" y \"antihéroe\" para que ellos las analicen y encuentren las diferencias entre ellas; luego, pedirles que escriban su propia definición de ambos términos.",
+            "Dar a los estudiantes varios ejemplos de superhéroes y antihéroes conocidos por ellos y solicitarles que hagan un cuadro comparativo con las diferencias entre ambas categorías, y al final pedirles que escriban su propia definición de \"antihéroe\".",
+            "Leer a los estudiantes una definición de \"antihéroe\", para que ellos la contrasten con su noción de superhéroe y encuentren las diferencias de significado entre ambos términos; finalmente, pedirles que escriban su propia definición de \"antihéroe\"."
+          ],
+          "respuesta": "Dar a los estudiantes varios ejemplos de superhéroes y antihéroes conocidos por ellos y solicitarles que hagan un cuadro comparativo con las diferencias entre ambas categorías, y al final pedirles que escriban su propia definición de \"antihéroe\".",
+          "respuestaCorta": "Esta actividad es la más pertinente porque utiliza un enfoque constructivista: los estudiantes analizan y comparan ejemplos concretos para construir activamente su propia comprensión y definición del concepto.",
+          "solucionario": "La opción 'b' propone la estrategia pedagógica más efectiva. Parte de los referentes de los estudiantes (personajes conocidos), utiliza una herramienta de aprendizaje activo (el cuadro comparativo) para que ellos mismos descubran y organicen las características de cada categoría, y culmina en la construcción de su propio conocimiento (escribir su definición). Este método es más significativo que recibir las definiciones ya hechas.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Los estudiantes han construido la siguiente definición del término \"antihéroe\": \"Un antihéroe es el protagonista de una historia que es todo lo contrario de lo que es un superhéroe. No es noble, ni tiene poderes, ni está siempre buscando el bien de los otros. A veces este tipo de personaje es utilizado en historias para criticar cosas que suceden en la sociedad\". El docente desea proponer una actividad creativa en la cual los estudiantes puedan desarrollar su pensamiento crítico utilizando los conceptos aprendidos en la unidad. ¿Cuál de las siguientes actividades es más pertinente que proponga el docente?",
+          "opciones": [
+            "Pedir a los estudiantes que cada uno reflexione sobre cuáles son sus principales defectos y que cree un antihéroe que resalte sus aspectos personales más negativos de manera irónica; luego, pedirles que le pongan un nombre sarcástico, que diseñen su vestimenta y expongan su trabajo ante sus compañeros.",
+            "Dividir a la clase en grupos y pedirles que analicen las principales virtudes y defectos de los jóvenes de su generación; luego, proponerles que diseñen un superhéroe y un antihéroe basados en su análisis, y que describan sus principales características frente a sus compañeros de clase.",
+            "Solicitar a los estudiantes que elijan una persona real a la que admiren y a una persona que conozcan que no les caiga bien; luego, pedirles que representen a estas personas como superhéroe y antihéroe respectivamente, y que señalen sus principales virtudes y defectos en una exposición frente a sus compañeros."
+          ],
+          "respuesta": "Dividir a la clase en grupos y pedirles que analicen las principales virtudes y defectos de los jóvenes de su generación; luego, proponerles que diseñen un superhéroe y un antihéroe basados en su análisis, y que describan sus principales características frente a sus compañeros de clase.",
+          "respuestaCorta": "Esta actividad es la más pertinente porque conecta los conceptos aprendidos con el pensamiento crítico sobre su propio contexto social (su generación), culminando en un producto creativo que refleja dicho análisis.",
+          "solucionario": "La pertinencia de la opción 'b' reside en su capacidad para integrar el aprendizaje conceptual, el pensamiento crítico y la creación artística. Pide a los estudiantes que apliquen los conceptos de superhéroe y antihéroe no a sí mismos de forma aislada (opción a) o a personas específicas (opción c), sino a un análisis social de su propio entorno. Esto fomenta una reflexión más profunda y una creación con mayor relevancia y propósito.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_arte_2019_g08",
+      "contexto": "Observe la siguiente fotografía y responda la pregunta.",
+      "imagen": "img/ascenso/secundaria/2019/arte/6.jpg",
+      "preguntas": [
+        {
+          "pregunta": "Teniendo en cuenta la composición fotográfica, ¿cuál de las siguientes alternativas es una línea implícita?",
+          "opciones": [
+            "La dirección de la mirada de Óscar Avilés.",
+            "Las cuerdas de la guitarra que toca Óscar Avilés.",
+            "La línea vertical de color negro detrás de Óscar Avilés."
+          ],
+          "respuesta": "La dirección de la mirada de Óscar Avilés.",
+          "respuestaCorta": "La dirección de la mirada es una línea implícita porque, sin ser una línea física, crea una fuerte conexión visual que guía el ojo del espectador a través de la composición.",
+          "solucionario": "En composición visual, las líneas pueden ser explícitas (trazos visibles como las cuerdas de la guitarra) o implícitas (sugeridas por la relación entre elementos). La dirección de la mirada de un sujeto es un ejemplo clásico de línea implícita, ya que crea un vector de fuerza invisible que dirige la atención del espectador hacia el punto al que se mira, siendo un recurso compositivo muy poderoso.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_arte_2019_g09",
+      "contexto": "Durante el siglo XIX, el pintor costumbrista Pancho Fierro representó en sus acuarelas la realidad limeña de aquel entonces. A continuación, se muestra una de sus acuarelas, que representa una danza que se ejecutaba en el Perú:",
+      "imagen": "img/ascenso/secundaria/2019/arte/7.jpg",
+      "preguntas": [
+        {
+          "pregunta": "¿A qué danza hace referencia la acuarela?",
+          "opciones": [
+            "Zamacueca.",
+            "Marinera.",
+            "Landó."
+          ],
+          "respuesta": "Zamacueca.",
+          "respuestaCorta": "La acuarela representa la Zamacueca, una danza de pareja con pañuelos muy popular en el siglo XIX, considerada la precursora de la actual Marinera y documentada por Pancho Fierro.",
+          "solucionario": "Las acuarelas de Pancho Fierro son un valioso testimonio de las costumbres del Perú en el siglo XIX. La imagen muestra una pareja en actitud de cortejo usando pañuelos, lo que es característico de la Zamacueca, danza que gozó de gran popularidad en esa época y que dio origen a la Marinera. La vestimenta y la pose son consistentes con las representaciones históricas de dicha danza.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_arte_2019_g10",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿En qué se diferencia el vestuario del varón que baila marinera estilo mochero del vestuario de los bailarines de otros estilos de marinera del norte peruano?",
+          "opciones": [
+            "No utilizan sombrero ni pañuelo.",
+            "Cargan siempre una alforja en el hombro.",
+            "Usan el pantalón remangado y no usan zapatos."
+          ],
+          "respuesta": "Usan el pantalón remangado y no usan zapatos.",
+          "respuestaCorta": "El bailarín de marinera mochera se diferencia por usar el pantalón remangado y bailar descalzo, representando al campesino y pescador de Moche en contacto directo con la tierra.",
+          "solucionario": "La marinera estilo mochero tiene una fuerte conexión con las actividades cotidianas del pueblo de Moche (pesca y agricultura). A diferencia de los estilos más señoriales de la marinera norteña, donde el varón usa zapatos y un traje elegante, en el estilo mochero el hombre baila descalzo y con el pantalón arremangado, como lo harían para trabajar en el campo o a la orilla del mar, lo que le da un carácter más popular y terrenal.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_arte_2019_g11",
+      "contexto": "Como parte de un proyecto orientado a promover que los estudiantes interactúen con manifestaciones culturales de distintos lugares del Perú, la docente de Arte y Cultura de una IE ubicada en Lima propone a la clase desarrollar una muestra de danzas folklóricas peruanas. Los estudiantes, entusiasmados por participar en la muestra, proponen no ejecutar las danzas que típicamente se presentan, como la Marinera, el Huaylarsh o el Festejo, sino presentar otras danzas aprovechando la riqueza cultural de nuestro país. Tomando en cuenta la idea de los estudiantes, la docente les propone hacer una investigación sobre otras danzas del Perú menos conocidas por ellos, y les solicita traer para la siguiente clase la descripción o reseña de alguna danza que les gustaría presentar en la muestra.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "En la clase siguiente, la docente les pide a los estudiantes que presenten la reseña de la danza que han investigado, y David, uno de los estudiantes, dice lo siguiente: \"Yo encontré en internet el video de una danza que me gustó mucho. Es una danza de los pueblos aymaras, y en sus pasos muestra la labor realizada por las hilanderas y los tejedores. Esta danza es ejecutada durante la festividad de la Virgen de la Candelaria de Puno, y muestra nuestra riqueza folklórica, además de difundir la importancia de la textilería en el Perú\". ¿A cuál de las siguientes danzas corresponde lo descrito por David?",
+          "opciones": [
+            "Sikuris de Taquile.",
+            "Llamerada.",
+            "Kullawada."
+          ],
+          "respuesta": "Kullawada.",
+          "respuestaCorta": "La descripción corresponde a la Kullawada, una danza aymara ligada a los hilanderos y tejedores, caracterizada por el uso de una rueca y presentada en la Festividad de la Candelaria.",
+          "solucionario": "Las características mencionadas por David coinciden plenamente con la danza de la Kullawada. Es de origen aymara, se presenta en la Festividad de la Candelaria de Puno y su temática central es la representación de los antiguos hilanderos y tejedores, portando los danzantes una rueca (kapu) como elemento distintivo. La Llamerada representa a pastores de llamas y los Sikuris es una danza de músicos.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Diana, otra estudiante, deseosa de participar, levanta la mano y dice: \"Profesora, la mayoría de los salones presentan danzas de la sierra; yo propongo que mejor bailemos esta danza de la selva. Le leo mi reseña: Es una danza que se baila en el departamento de San Martín, es ágil y divertida porque en sus pasos muestra la alegría de los pobladores del barrio el Huayku. Con respecto a la vestimenta, las mujeres llevan pañuelos de varios colores encima de sus faldas, y también cintas de muchos colores encima de sus cabellos sueltos. Esta danza muestra las costumbres de una comunidad de la selva\". ¿A cuál de las siguientes danzas se refiere Diana?",
+          "opciones": [
+            "Cholones de Rupa Rupa.",
+            "Carnaval de Lamas.",
+            "Io Patatí."
+          ],
+          "respuesta": "Carnaval de Lamas.",
+          "respuestaCorta": "La descripción se refiere al Carnaval de Lamas, una danza festiva del departamento de San Martín, originaria del barrio quechua-hablante de Huayku, conocida por su alegría y vestimenta colorida.",
+          "solucionario": "Todos los elementos de la reseña de Diana apuntan al Carnaval de Lamas: es del departamento de San Martín, es una danza carnavalesca y alegre, y tiene su origen en la comunidad del barrio el Huayku en la ciudad de Lamas. La descripción del vestuario con pañuelos y cintas de colores también es característica de esta danza de la selva alta peruana.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Esther, otra estudiante, pide la palabra y comenta lo siguiente: \"Profesora, hay que bailar Pallas de Cajatambo, que es una danza que se baila en la provincia de Cajatambo, acá en el departamento de Lima. Les he preguntado a mis compañeros y solo tres conocen esta danza... Además, esta danza es muy bonita, yo la he bailado con mi familia\". Tomando en cuenta la sugerencia de Esther, ¿cuál de las siguientes posibles intervenciones de la docente está alineada en mayor medida con el enfoque intercultural?",
+          "opciones": [
+            "\"Chicos, para poder valorar nuestra cultura lo primero es conocerla, y las danzas son parte importante de ella. Sobre todo si se trata de una danza de nuestra propia región. Conocer nuestras manifestaciones culturales es importante para construir nuestra identidad nacional\".",
+            "\"A ver chicos, ¿cuántos conocen otras danzas de Lima? ¿Conocen la danza Pastoras de Yauyos? ¿Y la danza Pallas de Laraos? ¿Y el Son de los Diablos? ¿Y la Polka limeña? Para la próxima clase les pido que por favor realicen una pequeña investigación sobre alguna de estas danzas\".",
+            "\"A ver, ¿quiénes más conocen las Pallas de Cajatambo? ¿Nos contarían más sobre esta danza? ¿Cuándo la han bailado? ¿Con quiénes? ¿Cómo era la música? ¿Cómo era la vestimenta? ¿Alguien desea hacer alguna pregunta a sus compañeros? ¿Se animarían a enseñarnos algunos pasos?\"."
+          ],
+          "respuesta": "\"A ver, ¿quiénes más conocen las Pallas de Cajatambo? ¿Nos contarían más sobre esta danza? ¿Cuándo la han bailado? ¿Con quiénes? ¿Cómo era la música? ¿Cómo era la vestimenta? ¿Alguien desea hacer alguna pregunta a sus compañeros? ¿Se animarían a enseñarnos algunos pasos?\".",
+          "respuestaCorta": "Esta intervención promueve un enfoque intercultural al valorar y dar protagonismo al saber vivencial de los estudiantes, fomentando un diálogo horizontal donde comparten su cultura con sus pares.",
+          "solucionario": "El enfoque intercultural se basa en el diálogo y el reconocimiento equitativo entre diferentes culturas y saberes. La opción 'c' es la que mejor encarna este principio, ya que la docente valida la experiencia de Esther, la posiciona a ella y a sus compañeros como portadores de un conocimiento valioso y promueve un intercambio directo y horizontal de esa cultura vivida dentro del aula. Las otras opciones son más expositivas o directivas por parte de la docente.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_arte_2019_g12",
+      "contexto": "Los estudiantes están ensayando la danza Shacshas de Huaraz, que es muy intensa y requiere mucho esfuerzo físico. Antes de los ensayos, el docente de Arte y Cultura siempre realiza el calentamiento corporal con sus estudiantes para lograr que estén predispuestos tanto física como emocional y mentalmente para danzar y, luego de los ensayos, realiza ejercicios que favorecen la vuelta a la calma.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "En el contexto descrito, ¿cuál de las siguientes actividades es adecuada como calentamiento corporal?",
+          "opciones": [
+            "Indicar a los estudiantes que realicen movimientos suaves, como rotaciones, flexiones y estiramientos, empezando por la cabeza hasta llegar a los pies, mientras dirigen su atención a cada parte de su cuerpo y su respiración; luego, trotar ligeramente por el espacio e ir aumentando la velocidad paulatinamente.",
+            "Colocar una música suave para que los estudiantes se preparen mentalmente y se concentren en su respiración y en los latidos de su corazón, sintiendo cómo la sangre fluye por todo su cuerpo; luego, pedirles que dirijan su atención a cada parte de su cuerpo y repasen mentalmente los movimientos que van a realizar durante la danza.",
+            "Realizar competencias de carreras entre los estudiantes, indicándoles que partan al mismo tiempo y que corran alrededor del patio durante cierta cantidad de veces; luego, pedirles que se detengan y presten atención a las sensaciones que experimenta su cuerpo, los latidos de su corazón y su respiración, y terminar con estiramientos y ejercicios de respiración."
+          ],
+          "respuesta": "Indicar a los estudiantes que realicen movimientos suaves, como rotaciones, flexiones y estiramientos, empezando por la cabeza hasta llegar a los pies, mientras dirigen su atención a cada parte de su cuerpo y su respiración; luego, trotar ligeramente por el espacio e ir aumentando la velocidad paulatinamente.",
+          "respuestaCorta": "Esta actividad es la más adecuada porque sigue el principio de progresividad del calentamiento: comienza con activación articular y estiramientos dinámicos, y luego eleva gradualmente el ritmo cardíaco.",
+          "solucionario": "Un calentamiento efectivo debe preparar al cuerpo de forma progresiva para el esfuerzo. La opción 'a' describe la secuencia ideal: se inicia con movilidad articular para lubricar las articulaciones, se sigue con una activación muscular y se finaliza con un incremento gradual del ritmo cardiovascular para preparar el sistema para una actividad intensa. La opción 'b' es más una preparación mental, y la 'c' es demasiado brusca y competitiva para un calentamiento.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Tomando en cuenta solo el aspecto físico, ¿por qué es importante realizar el calentamiento corporal antes de ensayar la danza?",
+          "opciones": [
+            "Porque permitirá que el cuerpo de los estudiantes se active de manera progresiva para ejecutar movimientos intensos durante el ensayo.",
+            "Porque si los estudiantes no calientan previamente, los músculos no tendrán la tonicidad suficiente y en el futuro podría disminuir su masa muscular.",
+            "Porque de esa manera el docente se asegura de que los estudiantes no sufrirán esguinces y luxaciones durante el ensayo."
+          ],
+          "respuesta": "Porque permitirá que el cuerpo de los estudiantes se active de manera progresiva para ejecutar movimientos intensos durante el ensayo.",
+          "respuestaCorta": "El calentamiento es crucial porque prepara gradualmente al cuerpo para el esfuerzo físico, aumentando la temperatura muscular, la elasticidad y el flujo sanguíneo para ejecutar movimientos intensos de forma más segura y eficaz.",
+          "solucionario": "La función primordial del calentamiento es la transición del cuerpo desde el reposo hacia la actividad intensa. Esta activación progresiva eleva la temperatura de los músculos, mejora su elasticidad y la de los tendones, y aumenta el flujo sanguíneo, preparando al sistema musculoesquelético para responder a las demandas del ejercicio. Esto optimiza el rendimiento y, fundamentalmente, reduce el riesgo de sufrir lesiones. La opción 'c' es una aseveración demasiado fuerte, ya que el riesgo nunca se elimina por completo.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Cuál de las siguientes secuencias de acciones es adecuada para que los estudiantes vuelvan a la calma luego del ensayo de danza?",
+          "opciones": [
+            "Los estudiantes se echan en el piso, cierran los ojos e imaginan que son árboles y que el viento roza sus hojas, mientras respiran profundamente; luego, realizan estiramientos y ejercicios de relajación.",
+            "Los estudiantes ejecutan un último ensayo de la danza con mucha intensidad; luego, hacen un alto y se hidratan mientras descansan sentados en el piso; luego de recuperarse, realizan estiramientos y ejercicios de relajación.",
+            "Los estudiantes disminuyen poco a poco la velocidad y fuerza de los pasos de danza; luego, caminan por el espacio y terminan con estiramientos y ejercicios de relajación, enfocando su atención en cada parte de su cuerpo."
+          ],
+          "respuesta": "Los estudiantes disminuyen poco a poco la velocidad y fuerza de los pasos de danza; luego, caminan por el espacio y terminan con estiramientos y ejercicios de relajación, enfocando su atención en cada parte de su cuerpo.",
+          "respuestaCorta": "Esta secuencia es la más adecuada para la vuelta a la calma porque reduce la intensidad del ejercicio de forma gradual, permitiendo que el ritmo cardíaco y la respiración vuelvan a su estado normal antes de los estiramientos finales.",
+          "solucionario": "La vuelta a la calma (o 'cool down') debe ser un proceso gradual para permitir que el cuerpo transite de un estado de alta intensidad a uno de reposo de forma segura. La opción 'c' describe este proceso correctamente: primero se reduce la intensidad del movimiento principal, luego se pasa a una actividad de baja intensidad como caminar, y finalmente, cuando el ritmo cardíaco ha descendido, se realizan estiramientos estáticos para relajar la musculatura y ayudar en la recuperación. Detenerse abruptamente (opción a) puede causar mareos.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+  
+    {
+      "idGrupo": "asc_arte_2019_g13",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes actividades es más adecuada para promover el desarrollo de la conciencia corporal en los estudiantes?",
+          "opciones": [
+            "Proponer a los estudiantes colocar una cuerda larga en el piso para que, al ritmo de una melodía, caminen sobre ella, poniendo un pie delante del otro sin dejar espacio entre ellos y evitando salirse de la línea trazada por la cuerda.",
+            "Indicar a los estudiantes que caminen por el espacio haciendo rebotar una pelota con las manos al pulso de una melodía y, cada cierto tiempo, indicar con una palmada que se detengan y dejen de rebotar la pelota hasta que el docente dé otra palmada.",
+            "Solicitar a los estudiantes que se recuesten sobre el piso con los ojos cerrados y que realicen respiraciones profundas mientras imaginan cómo el aire que inhalan recorre todo su cuerpo; luego, pedirles mover muy lentamente cada parte de su cuerpo."
+          ],
+          "respuesta": "Solicitar a los estudiantes que se recuesten sobre el piso con los ojos cerrados y que realicen respiraciones profundas mientras imaginan cómo el aire que inhalan recorre todo su cuerpo; luego, pedirles mover muy lentamente cada parte de su cuerpo.",
+          "respuestaCorta": "Esta actividad es la más adecuada porque promueve una conexión introspectiva con el cuerpo, enfocando la atención en las sensaciones internas, la respiración y el movimiento consciente, que son la base de la conciencia corporal.",
+          "solucionario": "La conciencia corporal se refiere a la capacidad de sentir y percibir el propio cuerpo desde una perspectiva interna, no solo externa. La opción 'c' es la única que se enfoca en esta introspección, utilizando la relajación, la respiración y el movimiento lento y consciente para que los estudiantes conecten con sus sensaciones. Las otras opciones se centran en capacidades como el equilibrio (opción a) o la coordinación óculo-manual y el ritmo (opción b), que son habilidades motrices, pero no el desarrollo de la conciencia corporal en su núcleo.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_arte_2019_g14",
+      "contexto": "El docente propone a los estudiantes realizar la dinámica del \"cardumen\". Todos los estudiantes deben pararse muy juntos en el centro del aula. Uno de los estudiantes será el líder y propondrá diversos movimientos y desplazamientos, que deberán ser copiados por todo el grupo al unísono, como si fueran un banco de peces o una bandada de aves que se mueve coordinadamente. El rol de líder será rotativo entre los estudiantes y todos los demás deberán imitarlo, realizando sus movimientos al mismo tiempo y sin hablar entre ellos.",
+      "imagen": "img/ascenso/secundaria/2019/arte/8.jpg",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes capacidades es la que menos se desarrolla con la dinámica descrita?",
+          "opciones": [
+            "Atención y concentración.",
+            "Comunicación no verbal.",
+            "Memoria corporal."
+          ],
+          "respuesta": "Memoria corporal.",
+          "respuestaCorta": "La memoria corporal es la capacidad que menos se desarrolla porque la dinámica se basa en la imitación inmediata y la reacción en tiempo real, no en la memorización de secuencias de movimiento.",
+          "solucionario": "La dinámica del \"cardumen\" exige una altísima atención y concentración para seguir al líder y al grupo, así como una comunicación no verbal constante para mantener la cohesión. Sin embargo, la memoria corporal, entendida como la capacidad de retener y reproducir una secuencia de movimientos aprendida, no es el foco. El ejercicio se centra en la respuesta instantánea y la adaptación, no en la memorización de una coreografía.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Qué tipo de capacidades están desarrollando principalmente los estudiantes con esta dinámica?",
+          "opciones": [
+            "Perceptivo-motrices.",
+            "Socio-motrices.",
+            "Físico-motrices."
+          ],
+          "respuesta": "Perceptivo-motrices.",
+          "respuestaCorta": "Se desarrollan principalmente capacidades perceptivo-motrices, ya que los estudiantes deben percibir estímulos visuales (el líder, los compañeros) y coordinar sus propios movimientos en respuesta a ellos.",
+          "solucionario": "Las capacidades perceptivo-motrices son aquellas que integran la percepción de estímulos con una respuesta motora coordinada. En esta dinámica, el núcleo del ejercicio es percibir visualmente los movimientos del líder y de los compañeros y traducir esa información en una acción motriz propia y sincronizada. Aunque se desarrollan también capacidades socio-motrices (interacción) y físico-motrices (resistencia, agilidad), la base del ejercicio es la conexión percepción-acción.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Terminada la dinámica, se produce una conversación entre el docente y los estudiantes. El docente les plantea las siguientes preguntas: \"¿Cómo se sintieron al realizar la dinámica? ¿Les gustó realizarla? ¿Qué les gustó más? ¿Algo no les gustó? ¿Por qué? ¿Qué podríamos mejorar la siguiente vez que realicemos el ejercicio?\", y luego les pide que repitan la dinámica tomando en cuenta sus ideas. ¿Qué proceso ha promovido el docente en los estudiantes con estas preguntas?",
+          "opciones": [
+            "Transferencia del aprendizaje.",
+            "Conflicto cognitivo.",
+            "Metacognición."
+          ],
+          "respuesta": "Metacognición.",
+          "respuestaCorta": "El docente promueve la metacognición al guiar a los estudiantes a reflexionar sobre su propio proceso de aprendizaje, evaluando la experiencia, identificando dificultades y proponiendo mejoras.",
+          "solucionario": "La metacognición es el acto de reflexionar sobre el propio proceso de pensamiento y aprendizaje. Las preguntas del docente no se centran en el resultado, sino en el proceso: cómo se sintieron, qué funcionó, qué no y cómo se puede mejorar. Esto lleva a los estudiantes a ser conscientes de sus propias estrategias y a regular su aprendizaje, lo cual es la esencia del desarrollo metacognitivo.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_arte_2019_g15",
+      "contexto": "Los estudiantes se encuentran ensayando una coreografía de danza contemporánea creada por ellos, en la que realizan muchos movimientos rápidos. La docente observa que varios de los estudiantes están demasiado activos y con excesiva energía, lo que les impide enfocarse en el trabajo, y por eso se propone realizar un ejercicio con el propósito de bajar la intensidad para que sean capaces de equilibrar y gestionar sus emociones y atención en favor de su aprendizaje, pero manteniendo la energía alta para continuar con el ensayo.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes ejercicios es más adecuado?",
+          "opciones": [
+            "Solicitar a los estudiantes que, de pie, cierren los ojos, suban lentamente las manos y se toquen los omóplatos inhalando por la nariz, y que luego bajen las manos mientras exhalan por la boca; repetir el ejercicio algunas veces y, al final, realizar respiraciones profundas mientras repasan mentalmente la secuencia de movimientos de la coreografía.",
+            "Pedir a los estudiantes que corran por todo el espacio y que, a la indicación de la docente, sacudan con fuerza las manos y luego que sacudan los pies, como si estuvieran pateando un balón; repetir las acciones hasta que los estudiantes estén muy cansados y tranquilos, y luego solicitarles que vuelvan a realizar la secuencia de movimientos de la coreografía, pero muy lentamente.",
+            "Indicar a los estudiantes que se recuesten en el piso y que cierren los ojos; luego, pedirles que cuenten regresivamente desde veinte hasta cero mientras respiran profundamente y que recorran mentalmente las diferentes partes de su cuerpo, empezando por los pies hasta llegar a la cabeza, imaginando la sensación que experimentarían si estuvieran realizando los pasos de la coreografía."
+          ],
+          "respuesta": "Solicitar a los estudiantes que, de pie, cierren los ojos, suban lentamente las manos y se toquen los omóplatos inhalando por la nariz, y que luego bajen las manos mientras exhalan por la boca; repetir el ejercicio algunas veces y, al final, realizar respiraciones profundas mientras repasan mentalmente la secuencia de movimientos de la coreografía.",
+          "respuestaCorta": "Este ejercicio es el más adecuado porque logra un equilibrio: utiliza la respiración controlada y el movimiento lento para calmar la agitación y centrar la atención, sin eliminar la energía corporal necesaria para continuar.",
+          "solucionario": "El objetivo es canalizar la energía, no agotarla. La opción 'a' logra esto al combinar un ejercicio de respiración consciente con movimiento lento para calmar el sistema nervioso y enfocar la mente. El repaso mental final los reconecta con la tarea. La opción 'b' busca agotar físicamente, lo cual es contraproducente. La opción 'c' induce a una relajación demasiado profunda que haría difícil retomar un ensayo de alta energía.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_arte_2019_g16",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Durante una unidad didáctica, un docente muestra a los estudiantes varias grabaciones de fragmentos de piezas musicales, de las cuales solo dos son de música folklórica. Luego de escuchar las grabaciones, el docente pregunta a los estudiantes: \"¿Han escuchado música como esta antes? ¿En dónde han escuchado música similar?\". Los estudiantes responden. Luego, el docente dice: \"De las piezas que hemos escuchado, ¿cuáles son de música folklórica?\". El docente escucha sus respuestas y les pregunta: \"¿Qué características les han permitido reconocer que eran piezas de música folklórica?\". ¿Qué proceso pedagógico está promoviendo principalmente el docente?",
+          "opciones": [
+            "Activación de saberes previos.",
+            "Transferencia del aprendizaje.",
+            "Autoevaluación."
+          ],
+          "respuesta": "Activación de saberes previos.",
+          "respuestaCorta": "El docente está promoviendo la activación de saberes previos al incitar a los estudiantes a conectar la nueva información con sus experiencias pasadas y a verbalizar los conocimientos que ya poseen sobre la música folklórica.",
+          "solucionario": "La secuencia de preguntas está diseñada para que los estudiantes recurran a sus conocimientos y experiencias anteriores. Las preguntas \"¿Han escuchado música como esta antes?\" y \"¿Qué características les han permitido reconocer...?\" buscan explícitamente que los estudiantes hagan uso de su bagaje cultural y musical para analizar el nuevo material. Este es el propósito fundamental de la activación de saberes previos en un proceso de aprendizaje.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_arte_2019_g17",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "En el tercer movimiento de su obra Sinfonía (1968), el compositor Luciano Berio utiliza porciones de obras de compositores clásicos como Beethoven, Bach, Debussy y Ravel, y también de obras de compositores del siglo XX, como Stravinsky, Hindemith, Boulez y Berg, entre otros; y construye con estos retazos una composición musical de mayores proporciones. ¿A qué acción artística corresponde lo descrito?",
+          "opciones": [
+            "Apropiación.",
+            "Intervención.",
+            "Remake."
+          ],
+          "respuesta": "Apropiación.",
+          "respuestaCorta": "La acción descrita corresponde a la apropiación artística, una técnica que consiste en tomar elementos o fragmentos de obras preexistentes y recontextualizarlos dentro de una nueva creación para generar un nuevo significado.",
+          "solucionario": "La apropiación es un recurso característico del arte posmoderno donde un artista incorpora de manera deliberada obras o fragmentos de otros artistas en su propia creación. El acto de Berio de tejer un collage sonoro con \"retazos\" de múltiples compositores es un claro ejemplo de apropiación. No es una 'intervención' (que modifica una obra o espacio existente) ni un 'remake' (que es una nueva versión de una sola obra).",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_arte_2019_g18",
+      "contexto": "La \"Pedagogía de la Creación Musical\" (PCM) es una propuesta que proviene de las experiencias de principios del siglo XXI con la música concreta (piezas sonoras que no utilizan notas musicales sino sonidos grabados y manipulados por medios electrónicos). Según la PCM, lo importante no es que los estudiantes aprendan a tocar un instrumento convencional o aprendan teoría musical, sino que experimenten libremente con el sonido, aportando soluciones a retos creativos que poco a poco los encaminen a formas de creación musical que escapen de lo convencional.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Si un docente desea implementar la pedagogía descrita con los estudiantes, ¿cuál de las siguientes actividades es pertinente?",
+          "opciones": [
+            "Construir junto con los estudiantes xilófonos con botellas de vidrio y utilizarlos para componer melodías libremente.",
+            "Distribuir entre los estudiantes sonajas y vuvuzelas e invitarlos a explorar todas las posibilidades sonoras que dichos instrumentos ofrecen.",
+            "Proponer a los estudiantes que intenten contar una historia breve con una variedad de sonidos producidos con sus útiles escolares y otros objetos que encuentren en el aula."
+          ],
+          "respuesta": "Proponer a los estudiantes que intenten contar una historia breve con una variedad de sonidos producidos con sus útiles escolares y otros objetos que encuentren en el aula.",
+          "respuestaCorta": "Esta actividad es la más pertinente porque se alinea con los principios de la PCM: se enfoca en la experimentación con sonidos de objetos cotidianos (no instrumentos convencionales) para un fin creativo y narrativo.",
+          "solucionario": "La PCM se basa en la exploración del sonido por sí mismo, más allá de las notas musicales, utilizando cualquier objeto como fuente sonora. La opción 'c' es la que mejor refleja esta filosofía al proponer la creación de un paisaje sonoro narrativo con objetos no musicales. Las otras opciones, si bien son creativas, todavía se enmarcan en la lógica de usar 'instrumentos' (convencionales o no) para producir tonos o ritmos, en lugar de explorar el universo sonoro de forma más amplia.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_arte_2019_g19",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes tipos de canto coral es más apropiado desarrollar con estudiantes que nunca antes han cantado en coro?",
+          "opciones": [
+            "Canto en canon.",
+            "Canto al unísono.",
+            "Canto polifónico."
+          ],
+          "respuesta": "Canto al unísono.",
+          "respuestaCorta": "El canto al unísono, donde todos cantan la misma melodía simultáneamente, es el punto de partida ideal para un coro principiante, ya que permite desarrollar la afinación, la escucha grupal y la seguridad vocal.",
+          "solucionario": "Para iniciar un coro, es fundamental establecer una base sólida de empaste vocal y afinación conjunta. El canto al unísono (todos cantando la misma línea melódica) es la forma más directa y efectiva de lograrlo. El canon y la polifonía son formas más complejas que requieren que los cantantes puedan mantener su propia melodía mientras escuchan otras diferentes, una habilidad que se desarrolla una vez que el canto al unísono está consolidado.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Cuál es la ventaja de usar el metrónomo en la clase de música?",
+          "opciones": [
+            "Ayuda a mejorar la afinación.",
+            "Ayuda a mejorar problemas de precisión rítmica.",
+            "Ayuda a corregir problemas de postura al tocar un instrumento."
+          ],
+          "respuesta": "Ayuda a mejorar problemas de precisión rítmica.",
+          "respuestaCorta": "La ventaja principal del metrónomo es que provee una referencia de pulso constante y objetiva, lo que ayuda a los músicos a desarrollar un sentido del tempo estable y a corregir problemas de precisión rítmica.",
+          "solucionario": "La función específica del metrónomo es marcar un pulso (tempo) de manera constante. Su uso en la práctica musical es fundamental para desarrollar la precisión rítmica, es decir, la capacidad de ejecutar las figuras musicales en el momento exacto que corresponden. Ayuda a internalizar el tempo y a evitar aceleraciones o retrasos involuntarios. No tiene un efecto directo sobre la afinación (la altura de las notas) ni sobre la postura corporal.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_arte_2019_g20",
+      "contexto": "Un docente planifica construir instrumentos musicales con sus estudiantes. Estos les servirán luego para formar un conjunto instrumental que les permita desarrollar su competencia de creación de proyectos artísticos. El docente les propone a los estudiantes buscar información sobre instrumentos que se podrían construir en el aula y los estudiantes traen las siguientes propuestas:",
+      "imagen": "img/ascenso/secundaria/2019/arte/9.jpg",
+      "preguntas": [
+        {
+          "pregunta": "Entre las posibilidades propuestas por los estudiantes, ¿cuál es el instrumento más sencillo de construir?",
+          "opciones": [
+            "Zampoña de tubos de PVC.",
+            "Xilófono de botellas.",
+            "Kalimba de lata."
+          ],
+          "respuesta": "Xilófono de botellas.",
+          "respuestaCorta": "El xilófono de botellas es el más sencillo de construir porque solo requiere alinear botellas y afinarlas agregando o quitando agua, un proceso simple y reversible.",
+          "solucionario": "Analizando la complejidad de construcción, el xilófono de botellas es el más simple. Requiere materiales comunes (botellas, agua) y el proceso de afinación es directo. En cambio, la zampoña de PVC exige cortar tubos a medidas precisas, un proceso más laborioso y que no admite error. La kalimba de lata es aún más compleja, pues implica fabricar y fijar un puente y unas lengüetas metálicas a una caja de resonancia.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Entre las posibilidades propuestas por los estudiantes, ¿cuál es el instrumento más sencillo de tocar?",
+          "opciones": [
+            "Zampoña de tubos de PVC.",
+            "Xilófono de botellas.",
+            "Kalimba de lata."
+          ],
+          "respuesta": "Xilófono de botellas.",
+          "respuestaCorta": "El xilófono de botellas es el más sencillo de tocar porque su interfaz es muy directa y visual: golpear una botella produce una nota. Esto facilita la ejecución de melodías simples sin requerir una técnica compleja.",
+          "solucionario": "La facilidad para tocar un instrumento a nivel básico radica en la inmediatez entre la acción y el sonido. El xilófono de botellas, al igual que un piano o un xilófono convencional, tiene una correspondencia directa y visual: cada botella es una nota. La zampoña, por otro lado, requiere desarrollar una técnica de soplido (embocadura) que es considerablemente más difícil para un principiante. La kalimba, aunque percutida, requiere coordinación fina de los pulgares.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+ 
+    {
+      "idGrupo": "asc_arte_2019_g21",
+      "contexto": "Los estudiantes han construido con su docente xilófonos con tubos de PVC. Ahora los estudiantes desean usarlos para aprender a tocar sus canciones favoritas. El docente desea aprovechar esta oportunidad para introducir a los estudiantes en la lectura de partituras y propone como primera meta que los estudiantes se familiaricen con las alturas de los sonidos en el pentagrama y toquen la nota correspondiente en el instrumento.",
+      "imagen": "img/ascenso/secundaria/2019/arte/10.jpg",
+      "preguntas": [
+        {
+          "pregunta": "¿Qué estrategia es más apropiada para dicho fin?",
+          "opciones": [
+            "Asignar un color para cada una de las notas musicales y solicitar a los estudiantes colocar stickers de los colores correspondientes en la barras de sus xilófonos de PVC. Luego, entregar a los estudiantes partituras y pedirles que coloreen cada una de las notas, de tal manera que haya correspondencia entre el color de la nota y el sticker de la barra que se debe tocar.",
+            "Recortar la partitura y entregar a cada estudiante una porción breve de ella, explicándoles que para tocar la melodía completa deberán trabajar de manera colaborativa, pues cada uno tiene una porción de la melodía pero nadie la tiene completa. Cuidar que cada uno de los segmentos que reciban los estudiantes tenga un número reducido de notas, de tal forma que los estudiantes no tengan que aprender a identificar las alturas de todas las notas en el pentagrama.",
+            "Entregar a los estudiantes una partitura en la que se ha escrito el nombre de la nota correspondiente debajo de cada nota que aparece en el pentagrama. Luego, solicitar a los estudiantes que memoricen la secuencia de notas en la partitura utilizando los nombres de las notas escritas en ella. Finalmente, solicitar a los estudiantes que toquen de memoria la secuencia de notas en sus instrumentos."
+          ],
+          "respuesta": "Asignar un color para cada una de las notas musicales y solicitar a los estudiantes colocar stickers de los colores correspondientes en la barras de sus xilófonos de PVC. Luego, entregar a los estudiantes partituras y pedirles que coloreen cada una de las notas, de tal manera que haya correspondencia entre el color de la nota y el sticker de la barra que se debe tocar.",
+          "respuestaCorta": "La estrategia de asociar notas con colores es la más apropiada para principiantes porque crea un puente visual directo entre la partitura y el instrumento, facilitando la lectura musical de manera lúdica y efectiva.",
+          "solucionario": "Para un primer acercamiento a la lectura musical, especialmente en niños y jóvenes, la codificación por colores es una estrategia pedagógica de gran eficacia. Transforma la tarea abstracta de leer una nota en el pentagrama en una asociación visual concreta: el color en la partitura corresponde al color en la barra del instrumento. Esto reduce la carga cognitiva y permite a los estudiantes tener una experiencia musical exitosa desde el principio, motivándolos a continuar aprendiendo.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_arte_2019_g22",
+      "contexto": "El solfeo rítmico es una herramienta efectiva para enseñar a leer partituras y consiste en recitar los ritmos en una partitura.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes alternativas es el recurso más pertinente para la enseñanza del solfeo rítmico?",
+          "opciones": [
+            "Asociar el solfeo de grupos de figuras musicales con conjuntos de sílabas predeterminadas para fomentar su memorización.",
+            "Asociar el solfeo de grupos de figuras musicales con el sonido producido por un metrónomo, imaginando subdivisiones del pulso cuando sea necesario.",
+            "Asociar el solfeo de determinadas figuras musicales con colores, para que, al colorear dichas figuras en la partitura, puedan ser identificadas con mayor rapidez."
+          ],
+          "respuesta": "Asociar el solfeo de grupos de figuras musicales con conjuntos de sílabas predeterminadas para fomentar su memorización.",
+          "respuestaCorta": "El recurso más pertinente es el uso de sílabas rítmicas (como en los métodos Kodály u Orff), que asocian patrones rítmicos con fonemas fáciles de recitar, facilitando su internalización y ejecución precisa.",
+          "solucionario": "El uso de sílabas rítmicas es una técnica pedagógica estándar y muy efectiva para la enseñanza del ritmo. Al asignar una sílaba específica a cada figura o patrón rítmico (p. ej., 'ta' para la negra, 'ti-ti' para las corcheas), se convierte la notación abstracta en un lenguaje hablado y corporal, lo que hace que la lectura y la ejecución rítmica sean mucho más intuitivas y fáciles de memorizar para los estudiantes.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_arte_2019_g23",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes alternativas es una característica de los instrumentos musicales melódicos?",
+          "opciones": [
+            "Tienen un timbre armonioso y dulce.",
+            "Pueden producir solo una nota musical por vez.",
+            "Tienen un rango que permite tocar la melodía de una canción."
+          ],
+          "respuesta": "Pueden producir solo una nota musical por vez.",
+          "respuestaCorta": "La característica definitoria de un instrumento melódico (o monofónico) es que está diseñado para producir una sola nota a la vez, creando así una sucesión de sonidos que conforma una melodía.",
+          "solucionario": "En la clasificación funcional de los instrumentos, los 'melódicos' son aquellos que, por su diseño, solo pueden emitir un sonido a la vez (son monofónicos). Instrumentos como la flauta, el saxofón o la trompeta entran en esta categoría. Su función principal es llevar la línea melódica de una composición. Se distinguen de los instrumentos 'armónicos' o 'polifónicos' (como el piano o la guitarra), que pueden producir varias notas simultáneamente.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Cuál de las siguientes características es exclusiva de los instrumentos armónicos?",
+          "opciones": [
+            "Permiten tocar arpegios.",
+            "Permiten tocar melodías.",
+            "Permiten tocar acordes."
+          ],
+          "respuesta": "Permiten tocar acordes.",
+          "respuestaCorta": "La característica exclusiva de los instrumentos armónicos (o polifónicos) es su capacidad para producir múltiples notas musicales de manera simultánea, es decir, tocar acordes.",
+          "solucionario": "Si bien los instrumentos armónicos como el piano o la guitarra pueden tocar melodías (una nota a la vez) y arpegios (notas de un acorde de forma sucesiva), su capacidad distintiva y exclusiva es la de tocar acordes (varias notas a la vez). Los instrumentos melódicos también pueden tocar melodías y simular arpegios, pero no pueden ejecutar acordes, que es la base de la armonía.",
+          "seccion": "Casuística"
+        },
+        {
+          
+            "pregunta": "Observe la siguiente imagen de un pentagrama. Lo mostrado en el pentagrama es:",
+          
+          "opciones": [
+            "Un acorde.",
+            "Un intervalo.",
+            "Un patrón rítmico."
+          ],
+          "respuesta": "Un acorde.",
+          "respuestaCorta": "La imagen muestra un acorde, que se define como un conjunto de tres o más notas musicales que suenan simultáneamente, representadas en la partitura de forma vertical.",
+          "solucionario": "En notación musical, cuando varias notas se escriben superpuestas verticalmente, indica que deben sonar al mismo tiempo. Un conjunto de dos notas sonando simultáneamente se llama intervalo armónico. Un conjunto de tres o más notas se denomina acorde. La imagen muestra tres notas (Do-Mi-Sol), lo que constituye un acorde de Do mayor.",
+          "imagen": "img/ascenso/secundaria/2019/arte/11.jpg",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_arte_2019_g24",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes partituras presenta un intervalo?",
+          "opciones": [
+            "a",
+            "b",
+            "c"
+          ],
+          "respuesta": "a",
+          "respuestaCorta": "La partitura 'a' es la única que presenta un intervalo simple, definido como la distancia entre dos notas. En la imagen, se muestran dos notas superpuestas verticalmente, lo que constituye un intervalo armónico.",
+          "solucionario": "Un intervalo musical es la relación de altura entre dos notas. Puede ser melódico (notas sucesivas) o armónico (notas simultáneas). La opción 'a' muestra dos notas superpuestas (un intervalo armónico de tercera). Las otras opciones muestran elementos más complejos como acordes (más de dos notas) o silencios, por lo que la 'a' es la representación más clara y precisa de un intervalo.",
+          "imagen": "img/ascenso/secundaria/2019/arte/12.jpg",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Cuál de las siguientes partituras presenta un arpegio?",
+          "opciones": [
+            "a",
+            "b",
+            "c"
+          ],
+          "respuesta": "a",
+          "respuestaCorta": "La partitura 'a' presenta un arpegio, que es la ejecución sucesiva de las notas de un acorde. La secuencia Do-Mi-Sol-Do' corresponde a las notas del acorde de Do mayor tocadas una tras otra.",
+          "solucionario": "El término 'arpegio' significa tocar las notas de un acorde de manera sucesiva en lugar de simultánea. La partitura 'a' muestra exactamente eso: las notas Do, Mi, Sol (que forman el acorde de Do mayor) seguidas de su octava, escritas como notas sucesivas. Las otras opciones muestran diferentes combinaciones de acordes y melodías que no corresponden a la definición estricta de un arpegio.",
+          "imagen": "img/ascenso/secundaria/2019/arte/13.jpg",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_arte_2019_g25",
+      "contexto": "Los estudiantes van a representar una obra de teatro y, como parte de la preparación actoral, la docente les propone realizar la siguiente dinámica: La docente divide a los estudiantes en dos equipos y les propone jugar un partido de voleibol muy especial, puesto que utilizarán una pelota imaginaria. Un estudiante realizará el saque con la pelota imaginaria y los compañeros deben \"seguirla con la mirada\" y responder la jugada. Es muy importante que todos los estudiantes participen y presten atención a sus compañeros, en especial al compañero que está golpeando la pelota, para predecir la trayectoria del balón e imaginar su recorrido, de manera que logren \"jugar el partido\" de forma coherente, sin superponerse o adelantarse en las jugadas.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué aspecto desarrolla principalmente el juego descrito?",
+          "opciones": [
+            "La escucha activa y la comunicación al trabajar en equipo.",
+            "La capacidad de predecir la trayectoria de un objeto en movimiento.",
+            "La coordinación y la precisión al realizar movimientos con todo el cuerpo."
+          ],
+          "respuesta": "La escucha activa y la comunicación al trabajar en equipo.",
+          "respuestaCorta": "El juego desarrolla principalmente la escucha activa y la comunicación no verbal, habilidades cruciales para el trabajo actoral en equipo, ya que obliga a los participantes a estar atentos a las acciones de los demás para construir una realidad ficticia de forma colectiva.",
+          "solucionario": "En el lenguaje teatral, la 'escucha' no es solo auditiva, sino una atención plena a los impulsos, gestos y propuestas de los compañeros de escena. Este ejercicio con un objeto imaginario obliga a los estudiantes a 'escucharse' mutuamente a través de la mirada y el gesto para que la pelota exista de forma creíble para todos. Es un entrenamiento fundamental para la conexión y la creación colectiva en escena.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Tomando en cuenta que los estudiantes representarán una obra de teatro, ¿para qué les sirve principalmente realizar el juego descrito?",
+          "opciones": [
+            "Para darle mayor intensidad a la interpretación mediante el contacto visual.",
+            "Para aprender a dirigir el foco de atención de la escena ante el público.",
+            "Para que los estudiantes estén más sueltos durante las escenas."
+          ],
+          "respuesta": "Para aprender a dirigir el foco de atención de la escena ante el público.",
+          "respuestaCorta": "El juego sirve principalmente para que los actores aprendan a crear y dirigir colectivamente el foco de atención del público. Hacia donde todos miran y reaccionan es hacia donde el espectador dirigirá su atención.",
+          "solucionario": "El foco de atención es un elemento clave de la puesta en escena. Los actores guían la mirada del público a través de la dirección de su propia mirada y energía. Al seguir todos la trayectoria de la pelota imaginaria, los estudiantes practican de manera lúdica cómo crear un punto de interés común, mantenerlo y pasarlo a otro compañero, una habilidad esencial para construir escenas claras y dirigir la percepción del espectador.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Entre los siguientes tipos de capacidades, ¿cuál es la que menos están desarrollando los estudiantes con esta dinámica?",
+          "opciones": [
+            "Socio-motrices.",
+            "Físico-motrices.",
+            "Perceptivo-motrices."
+          ],
+          "respuesta": "Físico-motrices.",
+          "respuestaCorta": "Las capacidades físico-motrices (como fuerza, resistencia o velocidad) son las que menos se desarrollan, ya que el énfasis del ejercicio está en la percepción, la coordinación y la interacción, no en el esfuerzo físico intenso.",
+          "solucionario": "El ejercicio es rico en el desarrollo de capacidades socio-motrices (interactuar y comunicarse con otros) y perceptivo-motrices (percibir acciones para coordinar movimientos). Sin embargo, las capacidades físico-motrices, que se relacionan con la condición física (fuerza, resistencia, velocidad, etc.), no son el objetivo. El esfuerzo físico es mínimo y simulado, por lo que este es el aspecto menos desarrollado en la dinámica.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_arte_2019_g26",
+      "contexto": "Durante el desarrollo de un proyecto, los estudiantes escribirán el guion de una obra de teatro. Al iniciar la escritura, el docente nota que varios estudiantes tienen dificultades para comenzar a escribir, se sienten bloqueados y les cuesta enfrentarse a la página en blanco.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Entonces, el docente decide proponerles un ejercicio previo a la escritura del guion que les permita \"soltarse\" para comenzar a escribir. ¿Cuál de los siguientes ejercicios es más adecuado para lograr su propósito?",
+          "opciones": [
+            "Pedir a los estudiantes que en casa pregunten a un familiar, de preferencia a un adulto mayor, sobre una historia que ellos conozcan para que, haciendo uso de la tecnología, lo graben y luego transcriban toda la grabación en una hoja de papel, sin dejar escapar ningún detalle, y luego la compartan en clase.",
+            "Mostrar a los estudiantes una pintura o fotografía que represente una escena con varios personajes y luego pedirles que, en menos de dos minutos, imaginen quiénes son los personajes, qué relación hay entre ellos y qué están haciendo, y que escriban un párrafo breve narrando lo que está ocurriendo en la escena.",
+            "Solicitar a los estudiantes que en una hoja de papel coloquen como título \"El momento más inolvidable de mi vida\", luego, pedirles que escojan un recuerdo personal o experiencia significativa y la describan. Luego de la primera versión, solicitarles que aumenten, quiten o modifiquen contenido en la historia para hacerla más interesante."
+          ],
+          "respuesta": "Mostrar a los estudiantes una pintura o fotografía que represente una escena con varios personajes y luego pedirles que, en menos de dos minutos, imaginen quiénes son los personajes, qué relación hay entre ellos y qué están haciendo, y que escriban un párrafo breve narrando lo que está ocurriendo en la escena.",
+          "respuestaCorta": "Este ejercicio es el más adecuado para desbloquear la escritura porque proporciona un estímulo visual concreto y un límite de tiempo corto, lo que fomenta una respuesta creativa rápida e intuitiva sin la presión de la 'página en blanco'.",
+          "solucionario": "Para superar el bloqueo del escritor, una estrategia efectiva es usar un detonante creativo y establecer restricciones que bajen la autoexigencia. La opción 'b' es ideal porque la imagen ofrece un punto de partida lleno de posibilidades (personajes, acciones, atmósferas) y el límite de tiempo corto fomenta la escritura automática, sin pensar demasiado. Esto ayuda a los estudiantes a 'soltarse' y a generar material de forma rápida y lúdica.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_arte_2019_g27",
+      "contexto": "Lea el siguiente fragmento de escena teatral y responda las preguntas 48, 49 y 50.\n\nCAMPANITA yace sobre una cama diminuta, después de haber tomado un veneno que estaba destinado a PETER.\n\nPETER. Su luz se está apagando, isi desaparece significa que ha muerto! Su voz es tan baja que apenas puedo oír lo que dice. Ella dice... ¡Ella dice que piensa que se pondrá bien si los niños vuelven a creer en las hadas!\n\n(Se levanta y estira los brazos hacia fuera del escenario, sin saber hacia quién.)\n\nPETER. ¿Creen en las hadas? ¡Digan rápido que sí creen! ¡Si creen en las hadas, aplaudan!",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Desde el punto de vista dramatúrgico, ¿cuál es el conflicto principal de este fragmento?",
+          "opciones": [
+            "El público se sentirá muy incómodo e intimidado para aplaudir, lo que elevará la tensión dramática.",
+            "Peter necesita desesperadamente ayuda de los niños entre el público, pero no puede verlos.",
+            "Campanita está a punto de morir por haber ingerido un veneno y Peter quiere impedirlo."
+          ],
+          "respuesta": "Campanita está a punto de morir por haber ingerido un veneno y Peter quiere impedirlo.",
+          "respuestaCorta": "El conflicto principal es la lucha de un protagonista (Peter) contra una fuerza antagonista (la muerte de Campanita por el veneno) para alcanzar un objetivo claro y urgente (salvarla).",
+          "solucionario": "El conflicto dramático es el motor de la acción y se define como la oposición entre el objetivo de un personaje y el obstáculo que se lo impide. En esta escena, el objetivo de Peter es salvar a Campanita. El obstáculo es la muerte inminente causada por el veneno. Esta confrontación entre la vida y la muerte, y la voluntad de Peter por impedirlo, constituye el conflicto central del fragmento. Las otras opciones son consecuencias o elementos secundarios de este conflicto principal.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+ 
+    {
+      "idGrupo": "asc_arte_2019_g27",
+      "contexto": "Lea el siguiente fragmento de escena teatral y responda las preguntas 48, 49 y 50.\n\nCAMPANITA yace sobre una cama diminuta, después de haber tomado un veneno que estaba destinado a PETER.\n\nPETER. Su luz se está apagando, isi desaparece significa que ha muerto! Su voz es tan baja que apenas puedo oír lo que dice. Ella dice... ¡Ella dice que piensa que se pondrá bien si los niños vuelven a creer en las hadas!\n\n(Se levanta y estira los brazos hacia fuera del escenario, sin saber hacia quién.)\n\nPETER. ¿Creen en las hadas? ¡Digan rápido que sí creen! ¡Si creen en las hadas, aplaudan!",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Los estudiantes están realizando en clase adaptaciones a la obra Peter Pan. Javier, uno de los estudiantes, le entrega la siguiente versión de la escena anterior al docente:\nCAMPANITA yace sobre una cama diminuta, después de haber tomado un veneno que estaba destinado a PETER.\nPETER. Su luz se está apagando, isi desaparece significa que ha muerto! Su voz es tan baja que apenas puedo oír lo que dice. Ella dice... ¡Ella dice que piensa que se pondrá bien si los niños vuelven a creer en las hadas!\n(Se levanta y estira los brazos hacia fuera del escenario, sin saber hacia quién.)\nPETER. ¿Creen en las hadas? ¡Digan rápido que sí creen! ¡Si creen en las hadas, aplaudan!\nCAMPANITA. (Mirando al público con complicidad) Típico de Peter. ¡Otra vez está tratando de salvarme!\nPETER. ¡Aplaudan! ¡Aplaudan más fuerte que se muere!\n¿Cuál de los siguientes recursos se aprecia en la modificación introducida por Javier?",
+          "opciones": [
+            "Elipsis.",
+            "Aparte.",
+            "Fuera de escena."
+          ],
+          "respuesta": "Aparte.",
+          "respuestaCorta": "El recurso utilizado es un 'aparte', que es cuando un personaje se dirige directamente al público para expresar un pensamiento que los demás personajes en escena supuestamente no oyen.",
+          "solucionario": "Un 'aparte' es una convención teatral en la que un personaje, apartándose de la acción principal, comparte sus pensamientos o comentarios directamente con la audiencia. La línea que Javier añade para Campanita, \"Típico de Peter. ¡Otra vez está tratando de salvarme!\", acompañada de la acotación \"(Mirando al público con complicidad)\", es un ejemplo claro de este recurso, ya que rompe la ilusión para crear un lazo de complicidad con el espectador.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Qué término corresponde a la frase agregada por Javier \"(Mirando al público con complicidad)\"?",
+          "opciones": [
+            "Acotación.",
+            "Transición.",
+            "Descripción."
+          ],
+          "respuesta": "Acotación.",
+          "respuestaCorta": "La frase corresponde a una 'acotación', que son las indicaciones que el dramaturgo incluye en el texto teatral para guiar las acciones, intenciones o movimientos de los personajes.",
+          "solucionario": "En un guion teatral, las acotaciones o didascalias son todas las instrucciones escritas por el autor que no son parte del diálogo. Generalmente se escriben entre paréntesis y en cursiva, y sirven para guiar al director y a los actores sobre la puesta en escena. \"(Mirando al público con complicidad)\" es una instrucción de actuación, por lo tanto, es una acotación.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_arte_2019_g28",
+      "contexto": "Lea la siguiente escena adaptada de la obra teatral Dios (1975), de Woody Allen, y responda la pregunta.\n\nLORENZO MILLER sale de entre bastidores.\nAUTOR. ¿Quién eres tú?\nLORENZO. Lorenzo Miller. Este público es creación mía. Soy escritor.\nAUTOR. ¿Qué quieres decir?\nLORENZO. Yo escribí que un numeroso grupo de personas van al Golden Theater para ver una obra. Y ahí están.\nDORIS. (Señalando al público.) ¿Quieres decir que son ficticios también? (LORENZO asiente.) ¿No son libres de hacer lo que les venga en gana?\nLORENZO. Ellos creen que lo son, pero siempre hacen lo que está previsto.\nMUJER. (De pronto una MUJER se levanta del público, muy enojada.) ¡Yo no soy ficticia!\nLORENZO. Lo siento, señora, pero así es.\nHOMBRE. (Se levanta entre el público.) Ya le enseñaré yo lo ficticio que soy. Voy a salir de este teatro y haré que me devuelvan el dinero. Esta obra es una estupidez. De hecho, no es una obra. Cuando voy al teatro, quiero ver algo que tenga argumento -con un principio, un centro y un final y no esta porquería. Buenas noches. (Sale enojado por un pasillo.)\nLORENZO. (Al público.) No es un personaje muy bueno. Lo he escrito muy irritable. Más tarde se siente culpable y se pega un tiro. (Suena una detonación.) ¡Más tarde!\nHOMBRE. (Vuelve a entrar con una pistola humeante.) Lo siento, ¿he disparado demasiado pronto?\nLORENZO. ¡Fuera de aquí!\nHOMBRE. Estaré en Sardi. (Sale.)",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes recursos teatrales se aprecia en la escena?",
+          "opciones": [
+            "Ruptura de la cuarta pared.",
+            "Personaje invisible o ausente.",
+            "Historia dentro de una historia."
+          ],
+          "respuesta": "Ruptura de la cuarta pared.",
+          "respuestaCorta": "El recurso principal es la 'ruptura de la cuarta pared', ya que los personajes del escenario interactúan directamente con miembros del público, reconociendo su existencia y borrando la frontera entre ficción y realidad.",
+          "solucionario": "La 'cuarta pared' es la barrera imaginaria que separa el mundo de la ficción en el escenario del mundo real del público. Cuando un personaje se dirige a la audiencia o, como en este caso extremo, interactúa con ella haciéndola parte de la trama, se produce una 'ruptura de la cuarta pared'. Es un recurso metateatral que evidencia la naturaleza ficticia de la obra, algo muy característico del estilo de Woody Allen.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_arte_2019_g29",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "En las obras teatrales de la antigua Grecia, ¿de qué forma solían indicarse las divisiones entre actos o episodios?",
+          "opciones": [
+            "Mediante la caída del telón.",
+            "Mediante el uso de carteles.",
+            "Mediante la intervención del coro."
+          ],
+          "respuesta": "Mediante la intervención del coro.",
+          "respuestaCorta": "En el teatro griego clásico, las intervenciones cantadas y danzadas del coro, llamadas 'estásimos', separaban los episodios de la obra y servían como marcadores estructurales, análogos a los actos modernos.",
+          "solucionario": "La estructura de la tragedia griega clásica se articulaba en una alternancia entre 'episodios' (donde los actores desarrollaban la acción) y 'estásimos' (partes líricas a cargo del coro). Estas intervenciones del coro no solo comentaban la trama, sino que también funcionaban como separadores, dando tiempo para posibles cambios y marcando las grandes divisiones de la obra en una época donde no se usaba el telón para este fin.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Tradicionalmente, los dramas en la antigua Grecia se concebían como una estructura dividida en tres partes, las cuales eran llamadas prótasis, epítasis y catástrofe. ¿Cuál de las siguientes alternativas describe la naturaleza de la última de estas partes?",
+          "opciones": [
+            "Final trágico.",
+            "Resolución del conflicto.",
+            "Derrota de los antagonistas."
+          ],
+          "respuesta": "Resolución del conflicto.",
+          "respuestaCorta": "La catástrofe, en la estructura dramática clásica, se refiere a la resolución del conflicto o el desenlace de la trama. Aunque en las tragedias este desenlace es funesto, el término describe la resolución en sí.",
+          "solucionario": "Según la poética clásica, la estructura de una obra dramática se compone de tres partes: prótasis (planteamiento), epítasis (nudo o desarrollo) y catástrofe (desenlace). El término 'catástrofe' se refiere al punto final de la trama donde el conflicto principal llega a su conclusión. Si bien en el género de la tragedia esta resolución suele ser un 'final trágico', el concepto técnico de 'catástrofe' es más amplio y se aplica a la resolución como tal.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Lea la siguiente descripción y responda la pregunta.\n\"Pieza teatral breve de un solo acto, presentada antes de una obra teatral o entre los dos primeros actos de la misma, especialmente en comedias, para entretener al auditorio. Suele ser humorística, inspirada en la tradición popular, y posee un humor festivo y picaresco. Surgió a fines del siglo XVI y fue muy difundida durante los siglos XVII y XVIII hasta su prohibición en 1780. Fue un género cultivado por numerosos dramaturgos, entre los que figuran Cervantes, Lope de Rueda, Quiñones de Benavente, Quevedo y Calderón de la Barca\".\n¿A qué género teatral se refiere la descripción?",
+          "opciones": [
+            "Vodevil.",
+            "Zarzuela.",
+            "Entremés."
+          ],
+          "respuesta": "Entremés.",
+          "respuestaCorta": "La descripción corresponde al entremés, una pieza teatral corta y cómica que se representaba en los entreactos de las obras más largas durante el Siglo de Oro español.",
+          "solucionario": "Cada una de las características descritas apunta directamente al entremés del Siglo de Oro español: su brevedad (un acto), su función (representarse en los intermedios), su tono (humorístico y popular) y los autores que lo cultivaron (como Cervantes o Calderón de la Barca). Es una definición precisa de este género teatral clásico.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_arte_2019_g30",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué tipo de respiración es adecuada para proyectar la voz ante una audiencia?",
+          "opciones": [
+            "Respiración torácica.",
+            "Respiración clavicular.",
+            "Respiración diafragmática."
+          ],
+          "respuesta": "Respiración diafragmática.",
+          "respuestaCorta": "La respiración diafragmática es la técnica correcta para la proyección vocal, ya que permite una mayor ingesta de aire y un control sostenido del flujo, lo que proporciona potencia y soporte a la voz sin generar tensión.",
+          "solucionario": "Para el uso profesional de la voz, como en el teatro o el canto, se requiere la respiración costo-diafragmática. Esta técnica utiliza el músculo diafragma para bajar y expandir la capacidad pulmonar, logrando una inhalación más profunda. Luego, permite controlar la exhalación de manera eficiente, lo que se traduce en un apoyo ('appoggio') para la voz, permitiendo proyectarla con potencia, claridad y sin forzar la garganta. Las respiraciones torácica y clavicular son superficiales e inadecuadas para este fin.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Un docente pregunta a los estudiantes: \"¿Cuál creen que es la utilidad de dividir una obra de teatro en actos?\". Tres estudiantes responden. ¿Cuál de ellos da la explicación más adecuada sobre la función de los actos en el teatro actualmente?",
+          "opciones": [
+            "Marita dice: \"Yo creo que es importante tener actos dentro de un guion para que la lectura sea cómoda, o sea, para que el que lee la obra pueda descansar por unos segundos antes de seguir leyendo\".",
+            "Dalmiro dice: \"A mí me parece que cuando hay varios actos dentro de una obra, se pueden organizar mejor las cosas que pasan en ella, como por ejemplo en qué momento el público conoce a los personajes o en qué momento se resuelven los problemas de los protagonistas\".",
+            "Gladys dice: \"Yo pienso que la división de la obra en actos ayuda en el manejo del vestuario y de la utilería. Si no hubiera pausas, los actores no tendrían cuándo cambiarse y sería imposible introducir decorados, herramientas, muebles, etc. Cuando acaba un acto, se puede hacer una pausa, correr el telón y cambiar lo que haya que cambiar en la escenografía y en los actores\"."
+          ],
+          "respuesta": "Dalmiro dice: \"A mí me parece que cuando hay varios actos dentro de una obra, se pueden organizar mejor las cosas que pasan en ella, como por ejemplo en qué momento el público conoce a los personajes o en qué momento se resuelven los problemas de los protagonistas\".",
+          "respuestaCorta": "La explicación de Dalmiro es la más adecuada porque se enfoca en la función dramatúrgica principal de los actos: estructurar la trama de la obra en grandes unidades narrativas (planteamiento, nudo, desenlace).",
+          "solucionario": "Si bien la división en actos tiene consecuencias prácticas como permitir cambios de escenografía (lo que menciona Gladys), su función primordial es narrativa y estructural. Como bien explica Dalmiro, los actos organizan el desarrollo de la trama, marcando los grandes giros de la historia y controlando el ritmo y la tensión dramática. Cada acto suele contener una unidad de acción que hace avanzar la historia hacia su conclusión.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_arte_2019_g31",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "El Diccionario del Teatro (1987), de Patrice Pavis, muestra una clasificación de ocho tipos de representación del tiempo dramático en una obra teatral. Sobre uno de estos tipos, llamado \"concentración\", dice lo siguiente: \"[Sucede cuando] se pasa de una acción a otra quemando las etapas intermedias. Solo cuenta el resultado final, y varios hechos parecen sucederse unos a otros mientras que en la realidad estarían espaciados\". ¿Cuál de las siguientes alternativas presenta una escena en la que se ha recurrido a la concentración del tiempo dramático?",
+          "opciones": [
+            "En una escena se observa a un albañil que está construyendo un muro; mientras avanza en la construcción, ocurre un movimiento sísmico y una parte de la pared que estaba construyendo cae sobre él, dejándolo temporalmente inmovilizado.",
+            "En una escena se observa a Guillermo que juega con una pelota en un patio; tras un mal disparo, la pelota sale de escena y se escucha cómo se rompe una ventana. Octavio, vecino de Guillermo, entra en escena muy molesto.",
+            "En una escena se observa a un político ser acusado de malos manejos durante una ceremonia protocolar; luego de la acusación, en la misma escena, es apresado, llevado a juicio y condenado."
+          ],
+          "respuesta": "En una escena se observa a un político ser acusado de malos manejos durante una ceremonia protocolar; luego de la acusación, en la misma escena, es apresado, llevado a juicio y condenado.",
+          "respuestaCorta": "Esta escena utiliza la 'concentración del tiempo' al comprimir eventos que en la realidad tomarían meses o años (un proceso judicial) en una sucesión inmediata de acciones dentro de una misma escena.",
+          "solucionario": "La 'concentración del tiempo' es un recurso de elipsis que condensa una larga duración real en un corto tiempo escénico. La opción 'c' es un ejemplo claro: el proceso completo desde una acusación hasta una condena judicial se presenta de manera continua y rápida, omitiendo todas las etapas intermedias para enfocarse en los momentos clave y el resultado final, tal como lo describe la definición de Pavis.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "El Diccionario del Teatro (1987), de Patrice Pavis, muestra una clasificación de ocho tipos de representación del tiempo dramático en una obra teatral. Sobre uno de estos tipos, llamado \"aceleración/desaceleración\", dice lo siguiente: \"Hay aceleración cuando el acontecimiento anunciado y esperado surge abruptamente; desaceleración, cuando la tensión (el suspenso) entre lo que prevemos y lo que efectivamente sucede se mantiene al máximo\". ¿Cuál de las siguientes alternativas presenta un uso de la desaceleración del tiempo en una puesta teatral?",
+          "opciones": [
+            "Federico toca la puerta de Sonia, quien la abre con una sonrisa en los labios. Sonia pregunta \"¿Compraste las entradas para el cine?\" y Federico responde \"Compré algo mejor, jentradas para el teatro! Hay una obra con Roberto Rodríguez que no podemos perdernos\". Sonia replica \"¡Pero sabes muy bien que no me gusta cómo actúa Roberto Rodríguez!\", a lo que Federico responde sorprendido \"¡Nunca me dijiste que no te gustaba Roberto Rodríguez!\".",
+            "Luis intenta forzar la cerradura de la puerta de una casa. Estelita, la policía, ingresa por el extremo izquierdo del escenario sin notar la presencia de Luis. Estelita patrulla alrededor del escenario, aún sin ver a Luis. De pronto, las miradas de ambos se cruzan, y Estelita saca su arma gritando \"¡Está usted arrestado!\". Luis intenta escapar, pero es apresado con poco esfuerzo por Estelita.",
+            "Octavio apunta con un revólver a Francesco, jurando vengar la muerte de su padre. Francesco mira al frente diciendo \"Mi hora ha llegado\", y luego hace un breve monólogo sobre la cercanía de la muerte. Octavio se acerca cuidadosamente y pone el revólver contra la sien de Francesco, preguntando \"¿Qué es lo que has dicho?\". Francesco se mantiene en silencio, mientras mira fijamente a los ojos de Octavio. Luego de mirarse fijamente por algunos segundos, Octavio dispara."
+          ],
+          "respuesta": "Octavio apunta con un revólver a Francesco, jurando vengar la muerte de su padre. Francesco mira al frente diciendo \"Mi hora ha llegado\", y luego hace un breve monólogo sobre la cercanía de la muerte. Octavio se acerca cuidadosamente y pone el revólver contra la sien de Francesco, preguntando \"¿Qué es lo que has dicho?\". Francesco se mantiene en silencio, mientras mira fijamente a los ojos de Octavio. Luego de mirarse fijamente por algunos segundos, Octavio dispara.",
+          "respuestaCorta": "Esta escena es un claro ejemplo de desaceleración, ya que alarga deliberadamente un momento de máxima tensión (el instante previo a un disparo) a través de pausas, monólogos y acciones lentas para maximizar el suspenso.",
+          "solucionario": "La desaceleración es una técnica para manipular el tiempo escénico con el fin de aumentar la tensión y el suspenso. En la opción 'c', el evento esperado (el disparo) se pospone repetidamente. La acción se ralentiza con diálogos, monólogos, pausas y miradas, extendiendo el momento de clímax y manteniendo al espectador en vilo. Esto coincide exactamente con la definición de 'mantener al máximo la tensión entre lo que prevemos y lo que sucede'.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "El dramaturgo alemán Bertolt Brecht buscaba realizar un tipo de teatro que, en lugar de ser un entretenimiento pasajero para los espectadores, los hiciera conscientes de cambios que él consideraba importantes para la sociedad. Como consecuencia, crea el llamado \"teatro épico\", que usaba una serie de técnicas para que el público se mantuviera consciente de que estaba presenciando una obra teatral y, en lugar de simplemente emocionarse ante la obra, pudiera formarse un juicio crítico sobre las acciones de los personajes. Una de las técnicas que Brecht usó para este fin es llamada \"distanciamiento\", y el Diccionario Akal del Teatro (1997) la describe de la siguiente forma: \"[...] acción y efecto de privar al público de la ilusión teatral y la identificación con los personajes, obligándolo a asumir una posición despierta y crítica ante el espectáculo que presencia. La técnica del distanciamiento se realiza mediante la frecuente interrupción del discurso de los personajes y del propio espectáculo, la proyección de películas, los cambios de escenografía ante los espectadores, etc.\". ¿Cuál de las siguientes acciones durante una escena es más pertinente para lograr el efecto de distanciamiento?",
+          "opciones": [
+            "Dos personajes que son malabaristas cometen constantemente errores en su actuación; uno de ellos le dice al otro: \"Nos estás haciendo quedar mal, no has ensayado lo suficiente\".",
+            "Un personaje mira sus manos durante una escena y se pregunta, mirando hacia el fondo de la sala de teatro: \"¿Qué tipo de persona soy yo realmente?\".",
+            "En plena escena, un personaje voltea hacia el público y dice: \"Espero que ustedes no sean ciudadanos hipócritas como nosotros\"."
+          ],
+          "respuesta": "En plena escena, un personaje voltea hacia el público y dice: \"Espero que ustedes no sean ciudadanos hipócritas como nosotros\".",
+          "respuestaCorta": "Esta acción logra el distanciamiento brechtiano al romper la cuarta pared para interpelar directamente al público, obligándolo a salir de la ilusión dramática y a reflexionar críticamente sobre el tema presentado.",
+          "solucionario": "El efecto de distanciamiento (Verfremdungseffekt) de Brecht busca impedir la catarsis e identificación emocional del público para fomentar un análisis crítico. La opción 'c' es la técnica más paradigmática para lograrlo: el personaje se dirige frontalmente a la audiencia, rompe la ficción, y la confronta con una reflexión que conecta la escena con su propia realidad social y moral. Esto obliga al espectador a tomar una posición activa y crítica.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_arte_2019_g32",
+      "contexto": "En sus Lecciones sobre la estética, el filósofo alemán Georg Wilhelm Friedrich Hegel sostiene lo siguiente sobre lo trágico en una historia: \"Lo trágico consiste en esto: que en un conflicto ambas partes tengan razón, pero que no puedan alcanzar el verdadero contenido de su finalidad sino negando e hiriendo a la otra fuerza, que también tiene los mismos derechos, y de este modo se hacen culpables en su moralidad y por esta moralidad misma\". En el contexto de una sesión de aprendizaje, el docente y los estudiantes leen y analizan el pasaje citado. Luego de la discusión, el docente les propone crear la sinopsis de una obra de teatro o película que se ajuste a lo descrito en el texto.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Tres estudiantes escriben las siguientes sinopsis. ¿Cuál de ellas recoge los elementos fundamentales de la tragedia según la cita de Hegel?",
+          "opciones": [
+            "\"Laura, madre de cuatro niños, necesita un trasplante para salvar su vida, pero es la segunda persona en la lista de espera. La primera persona es Pablo, un pequeño de solo cinco años que morirá si no recibe el trasplante. Con gran remordimiento, Laura soborna al personal del hospital para que cambie el orden de la lista y la ponga a ella antes de Pablo\".",
+            "\"Después de una larga búsqueda, Moisés logra ubicar a Mauricio, la persona que despojó de los ahorros de toda su vida a la madre de Moisés, fingiendo estar enamorado de ella. Moisés sabe que Mauricio tiene influencias en el sistema de justicia y nunca podrá ser condenado, por lo que decide tomar la justicia en sus propias manos\".",
+            "\"Un gran terremoto azota la región de Lambayeque, sembrando la muerte e inhabilitando todos los caminos. Héctor tendrá que recorrer cientos de kilómetros, a pie y con gran esfuerzo, para encontrar a su madre en peligro de muerte, quien no ha evacuado la zona por estar gravemente herida\"."
+          ],
+          "respuesta": "\"Laura, madre de cuatro niños, necesita un trasplante para salvar su vida, pero es la segunda persona en la lista de espera. La primera persona es Pablo, un pequeño de solo cinco años que morirá si no recibe el trasplante. Con gran remordimiento, Laura soborna al personal del hospital para que cambie el orden de la lista y la ponga a ella antes de Pablo\".",
+          "respuestaCorta": "Esta sinopsis presenta una tragedia hegeliana, ya que el conflicto se da entre dos posturas igualmente justificadas (el derecho a la vida de Laura por sus hijos frente al derecho a la vida de Pablo), donde la afirmación de una implica la negación culpable de la otra.",
+          "solucionario": "La concepción hegeliana de la tragedia no es un conflicto entre el bien y el mal, sino un choque irreconciliable entre dos 'bienes' o dos derechos igualmente legítimos. La sinopsis 'a' encarna perfectamente esta idea: el derecho de Laura a vivir por sus hijos y el derecho de Pablo a vivir son ambos moralmente válidos. La acción de Laura, aunque ilegal, surge de una justificación ética poderosa. Es esta colisión de dos fuerzas con 'los mismos derechos', donde cualquier elección conduce a la culpa, lo que define el núcleo de lo trágico para Hegel.",
+          "seccion": "Casuística"
+        }
+      ]
+    }
+  ]
+}
+  
