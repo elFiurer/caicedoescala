@@ -1,0 +1,440 @@
+{
+  "completo": [
+    {
+      "idGrupo": "asc_primaria_2021_p01",
+      "contexto": "Como parte de un taller para docentes sobre realidad virtual, el DAIP realiza las siguientes preguntas a los participantes:\n\"¿Han jugado algún videojuego? ¿Conocen o han jugado algún videojuego en el que la simulación genere la sensación de interacción real con los escenarios de dicho videojuego? ¿Cómo se sintieron durante el juego?\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué proceso de aprendizaje ha promovido principalmente el DAIP en los docentes al realizar estas preguntas?",
+          "opciones": [
+            "La activación de saberes previos.",
+            "La generación de conflicto cognitivo.",
+            "La metacognición sobre las estrategias de aprendizaje."
+          ],
+          "respuesta": "La activación de saberes previos.",
+          "respuestaCorta": "Las preguntas del DAIP buscan que los docentes recuerden y conecten sus experiencias pasadas con videojuegos, lo cual es una estrategia directa para activar sus conocimientos previos sobre el tema.",
+          "solucionario": "Al interrogar a los docentes sobre sus experiencias previas con videojuegos y simulaciones, el DAIP está utilizando una estrategia pedagógica fundamental: la activación de saberes previos. Este proceso permite establecer un puente entre lo que los participantes ya conocen y el nuevo concepto de 'realidad virtual' que se va a introducir, facilitando así un aprendizaje más significativo y una mejor comprensión del nuevo tema.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2021_p02",
+      "contexto": "Arturo es un estudiante muy respetuoso. Durante la elaboración de un documento en el AIP y mientras la docente brindaba indicaciones sobre la entrega del trabajo, él, accidentalmente, movió el cable de alimentación de su computadora y esta se apagó. Arturo no había guardado el documento en el que se encontraba trabajando, lo que hizo que se desesperara y, levantando la voz, con enojo le dijo a la docente: \"¡Profesora, he perdido todo mi trabajo! ¡Ahora ya no podré terminar a tiempo!\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes alternativas es la acción más pertinente que debe realizar la docente para promover el manejo de emociones en el estudiante?",
+          "opciones": [
+            "Comentarle que es necesario mantener la calma, sobre todo en situaciones como esta. Luego, analizar juntos lo sucedido, identificar las alternativas para enfrentar la situación y las acciones para regular sus emociones.",
+            "Manifestarle que es necesario regular sus emociones para expresar lo que siente y piensa. Luego, indicarle que, al final de la clase, le brindará un tiempo adicional para que él pueda culminar la redacción del documento.",
+            "Decirle que para todo problema siempre hay una solución, por ello, nunca debemos perder la paciencia; por el contrario, debemos regular nuestras emociones. Luego, recuperar rápidamente el archivo que el estudiante no logró guardar para que él continúe trabajando."
+          ],
+          "respuesta": "Comentarle que es necesario mantener la calma, sobre todo en situaciones como esta. Luego, analizar juntos lo sucedido, identificar las alternativas para enfrentar la situación y las acciones para regular sus emociones.",
+          "respuestaCorta": "La acción más formativa es guiar al estudiante a través del proceso de reconocer su emoción, analizar la situación y buscar soluciones, fomentando así su autonomía y autorregulación emocional.",
+          "solucionario": "La opción más pertinente se enfoca en el desarrollo de la competencia socioemocional del estudiante. En lugar de simplemente resolver el problema técnico por él o darle una solución directa, la docente lo acompaña en un proceso reflexivo. Le ayuda a calmarse, a analizar objetivamente lo que pasó y a pensar en posibles soluciones. Este enfoque no solo atiende la urgencia, sino que también le proporciona herramientas para gestionar futuras situaciones de frustración.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "El DAIP sabe que, en el programa en el que Arturo estaba trabajando, se ha configurado la opción de autorrecuperación. Esta configuración permite generar automáticamente un archivo temporal que contiene la información en la que se está trabajando, por lo que esta puede ser recuperada casi en su totalidad. ¿Cuál de las siguientes extensiones corresponde al archivo de autorrecuperación temporal generado por este programa?",
+          "opciones": [
+            "RTF",
+            "ASD",
+            "DOCM"
+          ],
+          "respuesta": "ASD",
+          "respuestaCorta": "La extensión .asd corresponde a los archivos de Autorrecuperación de Microsoft Word, que se crean automáticamente como respaldo.",
+          "solucionario": "Los procesadores de texto como Microsoft Word utilizan archivos de autorrecuperación para guardar copias de seguridad de los documentos en proceso. Estos archivos temporales se guardan con la extensión .asd (AutoSave Document). En caso de un cierre inesperado del programa, esta función permite restaurar el trabajo que no fue guardado manualmente. Las otras extensiones corresponden a formatos diferentes: RTF (Rich Text Format) y DOCM (documento de Word habilitado para macros).",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2021_p03",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿En cuál de las siguientes actividades se promueve menos el pensamiento crítico en los estudiantes?",
+          "opciones": [
+            "El uso de un video tutorial para elaborar un mapa conceptual sobre las características de la célula.",
+            "El uso de un cuestionario en línea para responder preguntas abiertas acerca de personajes de la historia que los inspiran.",
+            "El uso de un foro para el intercambio de opiniones acerca del impacto de la publicidad en la adquisión de determinados productos."
+          ],
+          "respuesta": "El uso de un video tutorial para elaborar un mapa conceptual sobre las características de la célula.",
+          "respuestaCorta": "Seguir un tutorial es una actividad principalmente procedimental que implica seguir instrucciones, requiriendo menos análisis, evaluación o creación en comparación con las otras opciones.",
+          "solucionario": "El pensamiento crítico implica habilidades de orden superior como analizar, evaluar, argumentar y crear. Responder preguntas abiertas sobre personajes inspiradores (opción B) exige reflexión y justificación. Participar en un foro de opinión (opción C) requiere argumentar y evaluar diferentes puntos de vista. En contraste, seguir los pasos de un video tutorial (opción A) es una tarea más dirigida y reproductiva, que si bien ayuda a organizar información, no fomenta el pensamiento crítico al mismo nivel que las otras dos actividades.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2021_p04",
+      "contexto": "Antes de iniciar el año escolar, una DAIP brindará el mantenimiento a las laptops XO de la IE. Dichas laptops XO se encuentran inoperativas debido a fallas en el registro del sistema operativo; estas fallas no permiten que este sistema inicie su funcionamiento. Por esta razón, la DAIP reinstalará el sistema operativo en dichos dispositivos.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes opciones debe utilizar la DAIP para reinstalar el sistema operativo en las laptops XO?",
+          "opciones": [
+            "Un CD instalador con la imagen del sistema operativo.",
+            "Una memoria USB con la imagen del sistema operativo.",
+            "Un servidor de archivos local con la imagen del sistema operativo."
+          ],
+          "respuesta": "Una memoria USB con la imagen del sistema operativo.",
+          "respuestaCorta": "Las laptops XO carecen de unidades de CD/DVD, por lo que el método estándar para la instalación o reinstalación del sistema operativo es a través de una memoria USB de arranque.",
+          "solucionario": "Las laptops del proyecto OLPC (One Laptop Per Child), conocidas como XO, fueron diseñadas como dispositivos de bajo costo y robustos, y por ello no incluyen unidades ópticas (lector de CD o DVD). El procedimiento establecido para reinstalar su sistema operativo (Sugar) es mediante una memoria USB que contenga la imagen de instalación, la cual se prepara previamente para que el equipo pueda arrancar desde ella.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2021_p05",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las actividades que realiza el DAIP durante el mantenimiento del AIP requiere un mayor dominio de las TIC?",
+          "opciones": [
+            "Instalar y configurar un navegador web.",
+            "Instalar y configurar una suite ofimática.",
+            "Instalar y configurar un sistema operativo."
+          ],
+          "respuesta": "Instalar y configurar un sistema operativo.",
+          "respuestaCorta": "La instalación de un sistema operativo es una tarea fundamental y compleja que requiere conocimientos técnicos más avanzados que la instalación de aplicaciones como navegadores o suites ofimáticas.",
+          "solucionario": "Instalar y configurar un sistema operativo es una tarea de mayor complejidad técnica. Involucra la gestión de particiones del disco, la instalación de controladores (drivers) para que todo el hardware funcione correctamente, la configuración de la red y la seguridad a nivel del sistema. Instalar un navegador o una suite ofimática son tareas de instalación de software de aplicación, que generalmente son procesos más sencillos y automatizados que se ejecutan sobre un sistema operativo ya funcional.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2021_p06",
+      "contexto": "En una red local se desea reemplazar una de las computadoras por una computadora nueva. Esta nueva computadora debe conservar la configuración de red de la computadora anterior.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "En la configuración de la nueva computadora, ¿cuál es el único dato que cambiaría de valor?",
+          "opciones": [
+            "La dirección IP.",
+            "La dirección física.",
+            "El nombre del host."
+          ],
+          "respuesta": "La dirección física.",
+          "respuestaCorta": "La dirección física (MAC) es un identificador único de hardware asignado de fábrica a la tarjeta de red, por lo tanto, es inherente a la nueva computadora y no se puede transferir.",
+          "solucionario": "En una configuración de red, la dirección IP y el nombre del host son identificadores lógicos que se pueden asignar y cambiar. Para que la nueva computadora cumpla la misma función en la red, se le pueden asignar la misma dirección IP y nombre de host que tenía la anterior. Sin embargo, la dirección física o dirección MAC (Media Access Control) es un identificador único grabado en el hardware de la tarjeta de red por el fabricante. Al cambiar de computadora, se cambia de hardware y, por consiguiente, la dirección física será diferente e imposible de modificar.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2021_p07",
+      "contexto": "Un usuario cuenta con una computadora con las siguientes especificaciones técnicas:\n\n| Característica | Especificación |\n| :--- | :--- |\n| Procesador | 2.4 GHz de 64 bits 10ma generación |\n| Memoria RAM | 8 GB |\n| Disco de almacenamiento | 512 GB |\n| Tarjeta de video | 2 GB |\n\nEl usuario ha instalado un sistema operativo de 32 bits en dicha computadora.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes especificaciones técnicas de la computadora NO se aprovecharía al máximo?",
+          "opciones": [
+            "La capacidad del disco de almacenamiento.",
+            "La capacidad de la tarjeta de video.",
+            "La capacidad de la memoria RAM."
+          ],
+          "respuesta": "La capacidad de la memoria RAM.",
+          "respuestaCorta": "Un sistema operativo de 32 bits solo puede direccionar y utilizar un máximo de 4 GB de memoria RAM, por lo que los 4 GB restantes de los 8 GB instalados no serían aprovechados.",
+          "solucionario": "La arquitectura de un sistema operativo determina la cantidad máxima de memoria RAM que puede gestionar. Los sistemas de 32 bits tienen un límite teórico de 4 GB (2^32 bytes) de memoria RAM direccionable. Al instalar un SO de 32 bits en una máquina con 8 GB de RAM, el sistema solo podrá reconocer y utilizar aproximadamente entre 3.2 y 4 GB, desperdiciando el resto de la capacidad instalada. Para aprovechar los 8 GB completos, sería necesario instalar un sistema operativo de 64 bits.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2021_p08",
+      "contexto": "Teodoro, un estudiante, está elaborando una monografía acerca de las expresiones culturales de la población shipibo konibo. Él ha organizado el contenido del documento de acuerdo al siguiente índice:\n1. Aspectos culturales-Época\n1.1. Precolombina\n1.2. Colonial\n1.3. Republicana",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Teodoro tiene como propósito agregar a la lista la numeración \"2. Aspectos económicos\". Sin embargo, al presionar la tecla enter le aparece la numeración 1.4. ¿Cuál de las siguientes acciones le permitirá a Teodoro cambiar la numeración 1.4. por la numeración 2. de forma automática en la lista?",
+          "opciones": [
+            "Establecer valor de numeración.",
+            "Iniciar una lista nueva.",
+            "Disminuir sangría."
+          ],
+          "respuesta": "Disminuir sangría.",
+          "respuestaCorta": "En una lista multinivel, disminuir la sangría promueve un subelemento (como el 1.4) al nivel superior inmediato (en este caso, el nivel 2).",
+          "solucionario": "Los procesadores de texto gestionan las listas multinivel mediante la sangría. Los puntos 1.1, 1.2 y 1.3 están en un segundo nivel de la lista (con mayor sangría). Al presionar 'enter' después de 1.3, el programa asume que se continuará en el mismo nivel, ofreciendo 1.4. Para pasar al primer nivel y obtener la numeración '2.', es necesario disminuir el nivel de sangría de esa línea, lo que la promueve al nivel principal de la lista.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Teodoro ha agregado marcadores en los títulos y los subtítulos de las diferentes páginas en el cuerpo del documento. ¿Cuál es la función de los marcadores insertados por Teodoro en el cuerpo del documento?",
+          "opciones": [
+            "Permiten generar las referencias bibliográficas en cada título y subtítulo del documento.",
+            "Permiten crear hipervínculos desde el índice hacia los títulos y subtítulos del documento.",
+            "Permiten crear una tabla de contenido con los títulos y subtítulos para insertarla en el documento."
+          ],
+          "respuesta": "Permiten crear hipervínculos desde el índice hacia los títulos y subtítulos del documento.",
+          "respuestaCorta": "Los marcadores funcionan como anclas o destinos dentro de un documento, a los cuales se puede apuntar mediante hipervínculos para una navegación rápida y directa.",
+          "solucionario": "La función principal de un 'marcador' (bookmark) en un procesador de texto es identificar una ubicación específica dentro de un documento para poder referenciarla fácilmente. Una de sus aplicaciones más comunes es la creación de hipervínculos internos. Al colocar un marcador en un título del documento, se puede crear un hipervínculo en el índice que, al hacerle clic, lleve al lector directamente a esa sección marcada, facilitando la navegación.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2021_p09",
+      "contexto": "Como parte de un proyecto sobre la alimentación saludable, los estudiantes de una IE han recogido información sobre las preferencias en el consumo de diferentes frutas y vegetales por parte de los pobladores de su localidad. Luego, los estudiantes desean sistematizar dicha información utilizando una herramienta de un programa ofimático. Esta herramienta debe cumplir con los siguientes requerimientos:\n\n- Dividir la información ingresada al programa en criterios o categorías que se destacan en el proyecto.\n- Representar la información ingresada al programa en gráficos generados automáticamente.\n- Los gráficos generados automáticamente por el programa deben contar con botones que permitan seleccionar filtros para cambiar la información que se presenta en estos gráficos.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes herramientas de un programa ofimático cumple con todos los requerimientos de los estudiantes?",
+          "opciones": [
+            "Dashboard.",
+            "Base de datos.",
+            "Tabla dinámica."
+          ],
+          "respuesta": "Dashboard.",
+          "respuestaCorta": "Un dashboard es una interfaz visual que integra y muestra datos de forma gráfica e interactiva, cumpliendo con los requisitos de categorización, gráficos automáticos y filtros interactivos.",
+          "solucionario": "Un dashboard (o panel de control) es la herramienta que mejor se ajusta a todos los requerimientos. Está diseñado para presentar información de manera visual y resumida. Permite organizar los datos en categorías, generar gráficos que se actualizan automáticamente y, fundamentalmente, incorporar elementos interactivos como filtros o segmentadores de datos (botones) que permiten al usuario explorar la información dinámicamente. Si bien una tabla dinámica es un componente clave para construir un dashboard en Excel, el 'dashboard' es el producto final que engloba todas las funcionalidades descritas.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2021_p10",
+      "contexto": "Una docente ha automatizado la conversión de dólares a soles en una tabla contenida en una hoja de cálculo. En la tabla, se muestran los siguientes datos:\n- En la celda B2, correspondiente al tipo de cambio del día, en soles, se ha ingresado el valor 3,5\n- En la celda B3, correspondiente al monto en dólares, se ha ingresado el valor 1000\n- En la celda B4 aparece el cálculo automático en soles que, en este caso, es 3500. Este cálculo se ha realizado mediante la fórmula \"=B2*B3\"",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Ahora, la docente tiene como propósito ingresar un monto total en soles, para saber a cuántos dólares equivale este monto, sin modificar la fórmula ni el tipo de cambio previamente ingresados. ¿Cuál de las siguientes herramientas de la hoja de cálculo permitiría a la docente lograr su propósito?",
+          "opciones": [
+            "Administrador de escenarios.",
+            "Buscar objetivo.",
+            "Tabla de datos."
+          ],
+          "respuesta": "Buscar objetivo.",
+          "respuestaCorta": "La herramienta 'Buscar objetivo' está diseñada para realizar un cálculo inverso: encontrar el valor de una celda de entrada que se necesita para obtener un resultado deseado en una celda de fórmula.",
+          "solucionario": "La herramienta 'Buscar objetivo' (Goal Seek) es ideal para esta situación. La docente conoce el resultado que desea obtener en la celda B4 (el nuevo monto en soles) y necesita saber cuál debe ser el valor de la celda de entrada B3 (monto en dólares) para alcanzar ese resultado. 'Buscar objetivo' ajusta automáticamente el valor de la celda de entrada (B3) hasta que la fórmula en la celda de resultado (B4) devuelva el valor deseado, sin necesidad de alterar la fórmula original.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+ 
+    {
+      "idGrupo": "asc_primaria_2021_p11",
+      "contexto": "Como parte de las acciones de un proyecto, un equipo de estudiantes ha registrado, en una tabla dentro de una hoja de cálculo, la información correspondiente a los textos que se encuentran en la sala de recursos de la IE. Por ejemplo, en dicha tabla se ha registrado cada uno de los ejemplares de una misma obra de un autor; títulos de las obras de varios autores, revistas, fascículos coleccionables, archivadores con documentos de trabajo del equipo de docentes de la IE, entre otros. La tabla contiene los siguientes campos:\n\nTabla: Texto\nCampos: Código_Libro, ISBN, Título, Autor, Especialidad, Editorial, Año, Ciudad",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Si tanto el idioma de la hoja de cálculo como el de la computadora están configurados en español, ¿qué combinación de teclas deben utilizar los estudiantes para encontrar un dato específico en esta hoja?",
+          "opciones": [
+            "Ctrl+R",
+            "Ctrl+E",
+            "Ctrl+B"
+          ],
+          "respuesta": "Ctrl+B",
+          "respuestaCorta": "En las versiones en español de la mayoría de los programas de hoja de cálculo, el atajo de teclado para abrir el cuadro de diálogo 'Buscar' es Ctrl+B.",
+          "solucionario": "La combinación de teclas para la función 'Buscar' varía según el idioma del software. Mientras que en inglés es 'Ctrl+F' (Find), en la configuración en español es 'Ctrl+B' (Buscar). Este comando abre una ventana que permite al usuario ingresar texto o números para localizarlos rápidamente dentro de la hoja de cálculo.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Para optimizar la funcionalidad de búsqueda de información en la hoja de cálculo, los estudiantes desean implementar un formulario con cuadro de texto. En este cuadro de texto, el usuario ingresará la información a buscar, seleccionando la búsqueda por título, por autor, por especialidad o por año. Además, este formulario contará con un botón de comando que al hacer clic mostrará los resultados de la búsqueda. ¿Cuál de las siguientes opciones permite desarrollar dicha funcionalidad?",
+          "opciones": [
+            "Una macro.",
+            "Un dashboard.",
+            "Una tabla dinámica."
+          ],
+          "respuesta": "Una macro.",
+          "respuestaCorta": "Las macros permiten programar funcionalidades personalizadas, como la creación de formularios de usuario (UserForms) con campos de texto y botones para automatizar tareas complejas como una búsqueda avanzada.",
+          "solucionario": "La creación de un formulario personalizado con campos de entrada, opciones y botones de comando que ejecutan una acción específica va más allá de las funciones estándar de una hoja de cálculo. Esta funcionalidad se logra mediante la programación de una 'macro', usualmente utilizando el lenguaje VBA (Visual Basic for Applications). Una macro puede diseñar la interfaz del formulario y contener el código que ejecuta la búsqueda en la base de datos según los criterios ingresados por el usuario.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Con la ayuda de un procesador de texto, los estudiantes tienen como propósito elaborar fichas bibliográficas a partir de la información registrada en la tabla. Cada ficha bibliográfica se mostrará en una página diferente. ¿Cuál de las siguientes opciones permite que los estudiantes logren su propósito?",
+          "opciones": [
+            "Combinar correspondencia.",
+            "Tabla de contenido.",
+            "Referencia cruzada."
+          ],
+          "respuesta": "Combinar correspondencia.",
+          "respuestaCorta": "La herramienta 'Combinar correspondencia' está diseñada específicamente para crear un lote de documentos personalizados (como fichas) a partir de una plantilla y una fuente de datos (la hoja de cálculo).",
+          "solucionario": "La función 'Combinar correspondencia' (Mail Merge) es la herramienta ideal para este propósito. Permite conectar un documento principal en un procesador de texto (que servirá de plantilla para la ficha bibliográfica) con una fuente de datos externa (la hoja de cálculo con la información de los libros). Al ejecutar la combinación, el programa genera automáticamente un documento nuevo con una página por cada registro (libro) de la tabla, insertando los datos correspondientes en la plantilla.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "En el caso de que el equipo de estudiantes migre su tabla de la hoja de cálculo a una tabla de un gestor de base de datos, ¿cuál de los siguientes campos sería utilizado como campo único dentro de la tabla?",
+          "opciones": [
+            "Autor.",
+            "ISBN.",
+            "Código_Libro."
+          ],
+          "respuesta": "Código_Libro.",
+          "respuestaCorta": "Dado que la tabla registra cada ejemplar, `Código_Libro` sería el identificador único para cada copia física, mientras que el ISBN podría repetirse si hay varios ejemplares del mismo libro.",
+          "solucionario": "En una base de datos, un campo único (o clave primaria) debe tener un valor distinto para cada registro. El campo 'Autor' se repetirá para obras del mismo autor. El 'ISBN' identifica una edición de un libro, pero el problema especifica que se registran 'cada uno de los ejemplares de una misma obra', por lo que el ISBN también se repetiría. El campo 'Código_Libro' se infiere que es un código de inventario único asignado a cada libro físico, lo que lo convierte en el candidato perfecto para ser el campo único.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2021_p12",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "En una hoja de cálculo, ¿qué función permite siempre redondear cualquier número con dos cifras decimales a su entero superior?",
+          "opciones": [
+            "REDONDEAR.MAS",
+            "REDONDEAR",
+            "ENTERO"
+          ],
+          "respuesta": "REDONDEAR.MAS",
+          "respuestaCorta": "La función `REDONDEAR.MAS` (ROUNDUP en inglés) está diseñada para redondear un número hacia arriba, alejándolo de cero, al entero superior más próximo.",
+          "solucionario": "La función `REDONDEAR.MAS` siempre redondea un número hacia su entero superior. Por ejemplo, `REDONDEAR.MAS(3.14, 0)` daría como resultado 4. En cambio, la función `REDONDEAR` redondea al entero más cercano (3.14 se redondearía a 3) y la función `ENTERO` trunca la parte decimal, redondeando hacia abajo (3.14 se convertiría en 3).",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2021_p13",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Una estudiante tiene como propósito contar la cantidad de celdas que contienen algún caracter, en una determinada columna de los registros de una base de datos contenida en una hoja de cálculo. ¿Cuál de las siguientes funciones debe utilizar la estudiante para lograr su propósito?",
+          "opciones": [
+            "BDCONTARA",
+            "BDCONTAR",
+            "CONTAR"
+          ],
+          "respuesta": "BDCONTARA",
+          "respuestaCorta": "La función `BDCONTARA` (DCOUNTA en inglés) cuenta las celdas no vacías en un campo de una base de datos, incluyendo tanto números como texto.",
+          "solucionario": "Para contar celdas con cualquier tipo de carácter (texto o números) dentro de un rango que funciona como base de datos, la función correcta es `BDCONTARA`. La función `BDCONTAR` solo cuenta las celdas que contienen números, y la función `CONTAR` hace lo mismo pero en un rango simple, no en una estructura de base de datos con criterios.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2021_p14",
+      "contexto": "Un equipo de estudiantes ha elaborado diversos productos en base a ingredientes naturales para comercializarlos en una feria de emprendimiento. Una estrategia de comercialización de estos productos consiste en aplicar los siguientes descuentos con base en el valor de la compra:\n- Si el valor de la compra es menor a S/ 30.00 no habrá descuento\n- Si el valor de la compra es igual o mayor a S/ 30.00 el descuento será del 20%",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Los estudiantes tienen como propósito identificar el valor final de la compra aplicando funciones en una hoja de cálculo. De acuerdo con el propósito de los estudiantes, ¿cuál de las siguientes funciones deben utilizar?",
+          "opciones": [
+            "SI",
+            "SI.CONJUNTO",
+            "PRECIO.DESCUENTO"
+          ],
+          "respuesta": "SI",
+          "respuestaCorta": "La función `SI` (IF en inglés) es la adecuada para evaluar una única condición (si la compra es mayor o igual a S/ 30) y devolver uno de dos resultados posibles (aplicar el descuento o no).",
+          "solucionario": "La situación plantea una decisión lógica con una sola condición y dos posibles resultados. La función `SI` se ajusta perfectamente a esta estructura: `SI(prueba_lógica, [valor_si_verdadero], [valor_si_falso])`. La prueba lógica sería verificar si el monto de la compra es >= 30. Si es verdadero, se calcula el precio con el 20% de descuento; si es falso, se mantiene el precio original.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2021_p15",
+      "contexto": "Una docente está inscribiendo a sus estudiantes vía online en un concurso de Ciencias. Al culminar la inscripción, el sitio web genera automáticamente una constancia en HTML. En ese sentido, la docente tiene como propósito guardar una copia de la constancia generada por el sitio web en formato PDF para conservar todas las características de dicha constancia, como por ejemplo: la URL, el encabezado, el pie de página, entre otras.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "De acuerdo con el propósito, ¿cuál de las siguientes acciones es más pertinente que realice la docente?",
+          "opciones": [
+            "Ingresar a la ventana de imprimir del navegador web donde se encuentra visualizando la constancia y elegir la opción \"Guardar en PDF\".",
+            "Copiar el texto de la constancia, pegarlo en un documento de texto, elegir la opción \"Guardar como\" y seleccionar como tipo de archivo \"PDF\".",
+            "Realizar una captura de la ventana del navegador que se encuentra en uso, abrir un documento de texto y elegir la opción \"Pegar\", luego exportarlo en PDF."
+          ],
+          "respuesta": "Ingresar a la ventana de imprimir del navegador web donde se encuentra visualizando la constancia y elegir la opción \"Guardar en PDF\".",
+          "respuestaCorta": "La opción de 'Guardar como PDF' del menú de impresión del navegador es el método más fiel para capturar una página web completa, preservando su diseño, formato y metadatos como encabezados y pies de página.",
+          "solucionario": "La forma más precisa y profesional de guardar una página web como un documento PDF es utilizando la función de impresión del propio navegador. Al seleccionar 'Guardar en PDF' como destino de la impresora, el navegador renderiza la página HTML completa y la convierte en un archivo PDF que mantiene la estructura, el diseño y los elementos originales. Copiar y pegar texto perdería el formato, y una captura de pantalla es solo una imagen, no un documento vectorial y con texto seleccionable.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2021_p16",
+      "contexto": "Los estudiantes de una IE se acaban de inscribir en una feria sobre emprendimiento. En ese sentido, los organizadores de la feria les han enviado información contenida en un archivo comprimido de extensión RAR. Los estudiantes, luego de descargar el archivo, no pueden acceder a su contenido porque la computadora que están utilizando solo tiene instalado un programa que permite visualizar archivos ZIP.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "En el caso presentado, ¿qué procedimiento NO permite acceder al contenido del archivo comprimido de extensión RAR?",
+          "opciones": [
+            "Cambiar la extensión RAR por la extensión ZIP del archivo y abrirlo en el explorador del sistema operativo.",
+            "Desintalar el ZIP e instalar el 7Z en el sistema operativo y abrir el archivo utilizando este nuevo programa.",
+            "Instalar un programa de visualización de archivos con extensión RAR, abrir el programa y luego el archivo desde este."
+          ],
+          "respuesta": "Cambiar la extensión RAR por la extensión ZIP del archivo y abrirlo en el explorador del sistema operativo.",
+          "respuestaCorta": "Cambiar la extensión de un archivo no altera su formato interno. Un archivo comprimido en formato RAR no puede ser leído por un descompresor de ZIP, sin importar cómo se llame el archivo.",
+          "solucionario": "Los formatos de archivo RAR y ZIP utilizan algoritmos de compresión diferentes. La extensión del archivo (.rar o .zip) solo informa al sistema operativo sobre su formato, pero no lo define. Modificar la extensión de .rar a .zip es como cambiar la etiqueta de una caja sin cambiar su contenido; el programa que solo sabe abrir cajas ZIP no podrá entender el contenido de la caja RAR. Las soluciones correctas implican instalar software compatible con el formato RAR.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2021_p17",
+      "contexto": "En una IE se está diseñando un entorno virtual de aprendizaje para que, a partir del presente año y en adelante, los docentes puedan dar reforzamiento de lo aprendido a los estudiantes que se van inscribiendo en la IE y, en el futuro, también se pueda utilizar este entorno para la capacitación de los docentes antiguos y nuevos.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes características principalmente se debe considerar en el diseño de dicho entorno?",
+          "opciones": [
+            "La ubicuidad.",
+            "La usabilidad.",
+            "La escalabilidad."
+          ],
+          "respuesta": "La escalabilidad.",
+          "respuestaCorta": "La escalabilidad es crucial porque el sistema debe ser capaz de crecer y manejar un número creciente de usuarios (estudiantes y docentes) y contenido sin perder rendimiento.",
+          "solucionario": "El escenario describe un sistema que necesita soportar un crecimiento a futuro, tanto en número de estudiantes como en la adición de un nuevo grupo de usuarios (docentes para capacitación). Esta capacidad de un sistema para manejar una carga de trabajo creciente se denomina 'escalabilidad'. Si bien la usabilidad (facilidad de uso) y la ubicuidad (acceso desde cualquier lugar) son importantes, la escalabilidad es la característica principal que asegura la viabilidad del entorno a largo plazo.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2021_p18",
+      "contexto": "Algunos sitios web presentan como característica el visualizarse en diferentes dispositivos sin alterar su apariencia.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué característica de los sitios web principalmente se ha descrito?",
+          "opciones": [
+            "Interactividad.",
+            "Adaptabilidad.",
+            "Minimalismo."
+          ],
+          "respuesta": "Adaptabilidad.",
+          "respuestaCorta": "La adaptabilidad, o diseño responsivo, es la capacidad de un sitio web para ajustar su diseño y contenido de forma fluida a diferentes tamaños de pantalla, como las de computadoras, tabletas y smartphones.",
+          "solucionario": "La característica descrita es la adaptabilidad, también conocida como 'diseño web responsivo' (responsive web design). Consiste en diseñar y desarrollar un sitio web de tal manera que su estructura y elementos se reorganicen automáticamente para ofrecer una experiencia de visualización óptima en una amplia gama de dispositivos. Esto asegura que la navegación y la legibilidad sean adecuadas sin importar el tamaño de la pantalla del usuario.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2021_p19",
+      "contexto": "Un equipo conformado por directivos, docentes y personal administrativo de una IE se encuentra trabajando en un proyecto para implementar el sitio web de la IE. Para la implementación de este sitio web, el equipo ha identificado las siguientes acciones a seguir:\n- Adquirir un dominio y un hosting.\n- Vincular el dominio con una plataforma que cuente, principalmente, con las siguientes herramientas online: correo electrónico, aulas virtuales, repositorio de recursos y aplicaciones ofimáticas.\n- Generar, desde la plataforma, cuentas de correo electrónico para los directivos, los docentes, el personal administrativo y los estudiantes de la IE.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "A continuación, se presenta la pregunta de Raúl, uno de los integrantes del equipo de trabajo.\n\"Hay muchas opciones para realizar todas estas acciones de implementación del sitio web de nuestra IE, pero ¿cuál de ellas requerirá el mínimo de recursos económicos?\".\n¿Cuál de los siguientes docentes responde correctamente a la pregunta de Raúl?",
+          "opciones": [
+            "Ana dice: \"Utilizar un hosting gratuito de sitios web y comprar un dominio.org\".",
+            "Camilo dice: \"Comprar un servicio de hosting con 2 GB de almacenamiento de datos y comprar un dominio.edu.pe\".",
+            "Bruno dice: \"Comprar un plan de proveedor reseller que permita alojar el sitio web, y solicitarle a dicho proveedor un subdominio gratuito con el nombre de la IE\"."
+          ],
+          "respuesta": "Camilo dice: \"Comprar un servicio de hosting con 2 GB de almacenamiento de datos y comprar un dominio.edu.pe\".",
+          "respuestaCorta": "Para una institución educativa que requiere herramientas integradas como aulas virtuales y correo institucional, la opción más viable y profesional, aunque implique un costo inicial, es adquirir un hosting básico y el dominio oficial .edu.pe.",
+          "solucionario": "La pregunta busca la solución más adecuada y económica para una institución educativa. El hosting gratuito suele ser muy limitado, inseguro y no apto para las herramientas requeridas (aulas virtuales, correos masivos). Un subdominio no otorga una identidad propia. La opción de Camilo, aunque implica un pago, es la más correcta y eficiente a largo plazo: un dominio `.edu.pe` otorga la identidad oficial de institución educativa en Perú y puede vincularse a suites educativas (como Google Workspace for Education o Microsoft 365) que ofrecen las herramientas necesarias de forma gratuita o a bajo costo para escuelas, siendo la inversión más inteligente.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "El equipo de trabajo se encuentra definiendo los perfiles técnicos mínimos indispensables para implementar todas las acciones identificadas como parte del proyecto. ¿Cuál de los siguientes grupos de conocimientos técnicos es indispensable para la implementación de todas estas acciones?",
+          "opciones": [
+            "Conocimientos de diseño gráfico, programación en lenguaje assembler y soporte técnico de hardware.",
+            "Conocimientos de administración de sitios web, programación en lenguaje SQL y soporte de redes.",
+            "Conocimientos de diseño gráfico, diseño web y administración de sitios web."
+          ],
+          "respuesta": "Conocimientos de diseño gráfico, diseño web y administración de sitios web.",
+          "respuestaCorta": "La implementación de un sitio web requiere habilidades para crear su aspecto visual (diseño gráfico), estructurarlo y hacerlo funcional (diseño web), y gestionar el servidor, dominio y correos (administración de sitios web).",
+          "solucionario": "El proyecto completo abarca tres fases clave: 1) Diseño Gráfico: para crear la identidad visual (logo, colores, etc.). 2) Diseño Web: para construir la estructura, la navegación y la interactividad del sitio (usando tecnologías como HTML, CSS, JavaScript o un CMS). 3) Administración de Sitios Web: para configurar el hosting, apuntar el dominio, crear las cuentas de correo y mantener el sitio operativo y seguro. Las otras opciones incluyen conocimientos demasiado específicos (Assembler, SQL) o irrelevantes (soporte de hardware) para las tareas descritas.",
+          "seccion": "Casuística"
+        }
+      ]
+    }
+    
+  ]
+}
+  

@@ -638,5 +638,18 @@
     "archivos": {
       "especifico": "data/ascenso/primaria/2021/ascenso_edufisica2021.json"
     }
+  },
+  {
+    "id": 61,
+    "proceso": "Ascenso",
+    "anio": 2021,
+    "nivel": "Secundaria",
+    "especialidad": "Arte y Cultura",
+    "modalidad": "EBR",
+    "preguntas": 60,
+    "tiempo": 180,
+    "archivos": {
+      "especifico": "data/ascenso/secundaria/2021/ascenso_arte2021.json"
+    }
   }
 ]

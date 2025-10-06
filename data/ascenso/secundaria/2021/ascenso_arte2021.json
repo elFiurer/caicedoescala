@@ -1,0 +1,960 @@
+{
+  "completo": [
+    {
+      "idGrupo": "asc_secundaria_2021_p01",
+      "contexto": "El docente propone el siguiente juego a sus estudiantes:\nLos estudiantes deben caminar libremente por el aula. Sin previo aviso, el docente dirá un número y el nombre de un objeto; por ejemplo, \"cinco-mesa\" o \"cuatro-puente\". Los estudiantes deberán formar grupos de la misma cantidad de miembros que el número mencionado por el docente y, ya reunidos, representarán todos juntos, con sus cuerpos, el objeto propuesto. Aquellos estudiantes que no consigan agruparse o representar el objeto salen del juego y pasan a ser observadores. El grupo de estudiantes que llega hasta el final, gana el juego.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Desde la perspectiva de la creación teatral, ¿qué aspecto se desarrolla principalmente durante el juego descrito?",
+          "opciones": [
+            "La expresión corporal.",
+            "La toma de decisiones rápidas.",
+            "La conciencia del entorno y de los demás."
+          ],
+          "respuesta": "La toma de decisiones rápidas.",
+          "respuestaCorta": "El juego exige que los estudiantes procesen la información (número y objeto), encuentren un grupo y acuerden una representación física bajo presión de tiempo, desarrollando principalmente su capacidad para tomar decisiones rápidas.",
+          "solucionario": "Si bien el juego involucra la expresión corporal y la conciencia del entorno, el elemento central que se pone a prueba es la habilidad para reaccionar de forma inmediata. Los estudiantes deben decidir velozmente con quién agruparse y cómo ejecutar la representación del objeto, haciendo de la toma de decisiones rápidas el aspecto principal que se desarrolla.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Luego de terminar el juego, el docente pide a los estudiantes que quedaron como observadores que comenten aquellos aspectos que, según su opinión, ayudaron a los integrantes del último grupo a llegar hasta el final del juego. A continuación, se presentan tres comentarios. ¿En cuál de ellos se evidencia metacognición sobre el propio proceso de aprendizaje?",
+          "opciones": [
+            "Luciana dice: \"Yo he observado que los compañeros que llegaron hasta el final lograron hacer las figuras propuestas porque son muy ágiles y bastante coordinados, y por eso siempre ganan los juegos; en cambio, los que no somos tan buenos siempre perdemos\".",
+            "Jorge dice: \"A mí me parece que los compañeros que ganaron fueron muy competitivos; ellos estaban muy motivados para ganar y eso los ayudó a realizar el ejercicio con más concentración y ganas que los demás; en cambio, yo no soy tan competitivo\".",
+            "Graciela dice: \"Yo he notado que los compañeros que llegaron hasta el final buscaron a los que estaban más cerca para agruparse; en cambio, yo me puse a buscar a mis mejores amigos para agruparme y eso no me resultó\"."
+          ],
+          "respuesta": "Graciela dice: \"Yo he notado que los compañeros que llegaron hasta el final buscaron a los que estaban más cerca para agruparse; en cambio, yo me puse a buscar a mis mejores amigos para agruparme y eso no me resultó\".",
+          "respuestaCorta": "La metacognición se evidencia cuando un estudiante reflexiona sobre sus propias estrategias de aprendizaje. Graciela analiza su método (\"buscar a mis mejores amigos\"), lo compara con una estrategia exitosa y concluye por qué el suyo no fue efectivo.",
+          "solucionario": "La metacognición es el proceso de 'pensar sobre el propio pensamiento'. Mientras que Luciana y Jorge atribuyen el resultado a habilidades innatas o rasgos de personalidad fijos, Graciela es la única que analiza una estrategia concreta que ella misma aplicó, evalúa su resultado y la identifica como la causa de no haber logrado el objetivo. Este análisis del propio proceso es la esencia de la metacognición.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p03",
+      "contexto": "Los estudiantes forman un círculo. El docente escoge un estudiante al azar y le dice una letra del abecedario. El estudiante debe responder diciendo el nombre de una persona, la palabra \"vende\", el nombre de un producto comestible, la palabra \"en\", y el nombre de un país, utilizando palabras que empiecen con la letra indicada por el docente. Por ejemplo, para la letra \"a\" podrían decir \"Alicia vende arándanos en Albania\". Para la letra \"c\" podrían decir \"Carlos vende camotes en Colombia\". Los estudiantes deben responder rápidamente, pero con la mayor tranquilidad posible. Los estudiantes que no logran construir una oración o no la dicen con calma salen del círculo y pasan a ser observadores. Gana el último estudiante que queda en el juego.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "En el contexto de la improvisación teatral, ¿cuál de los siguientes es el beneficio que brinda el juego descrito?",
+          "opciones": [
+            "Favorece el desarrollo de la memoria a corto plazo.",
+            "Favorece el desarrollo de la imaginación y creatividad.",
+            "Favorece la capacidad de concentración y autocontrol."
+          ],
+          "respuesta": "Favorece la capacidad de concentración y autocontrol.",
+          "respuestaCorta": "El juego requiere que los estudiantes mantengan la calma y el enfoque bajo presión para poder acceder a su léxico y estructurar una oración coherente, beneficiando directamente su concentración y autocontrol.",
+          "solucionario": "Aunque la creatividad y la memoria están involucradas, el principal desafío del juego es doble: pensar rápido y mantener la calma. La regla de decir la frase 'con la mayor tranquilidad posible' pone el foco en la gestión de la presión. Por lo tanto, el beneficio principal es el fortalecimiento de la concentración para crear la frase y el autocontrol para expresarla sin precipitación.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p04",
+      "contexto": "En las artes visuales, se denomina \"perspectiva\" a un sistema de representación gráfica que reproduce la profundidad del espacio y la imagen tridimensional en una superficie plana. La perspectiva se vale de distintos conceptos y técnicas, entre ellos, los puntos de fuga. En una representación en dos dimensiones, el punto de fuga es aquel lugar en que convergen las líneas oblicuas de una imagen que, en tres dimensiones, serían paralelas. Entre los muchos tipos de perspectiva, los más habituales son los que proyectan uno, dos y tres puntos de fuga.\nA continuación, se presenta una fotografía de Martín Chambi.",
+      "imagen": "img/ascenso/secundaria/2021/arte/1.jpg",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuántos puntos de fuga presenta?",
+          "opciones": [
+            "Un punto de fuga.",
+            "Dos puntos de fuga.",
+            "Tres puntos de fuga."
+          ],
+          "respuesta": "Un punto de fuga.",
+          "respuestaCorta": "La fotografía muestra un callejón donde las líneas paralelas de las paredes y el suelo convergen visiblemente hacia un único punto en el fondo, lo cual es característico de la perspectiva con un punto de fuga.",
+          "solucionario": "La perspectiva de un punto de fuga se utiliza comúnmente para representar escenas que se ven de frente, como carreteras, pasillos o, en este caso, un callejón. Todas las líneas que en la realidad son paralelas entre sí pero que se alejan del espectador (líneas de los muros, del techo y del suelo) parecen unirse en un solo punto en el horizonte, conocido como punto de fuga.",
+          "seccion": "Conocimientos Disciplinares"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p05",
+      "contexto": "Observe la siguiente fotografía y responda las preguntas 5 y 6.",
+      "imagen": "img/ascenso/secundaria/2021/arte/2.jpg",
+      "preguntas": [
+        {
+          "pregunta": "Al tomar fotografías, podemos optar por distintos ángulos de visión. ¿Desde qué ángulo de visión fue tomada la fotografía mostrada?",
+          "opciones": [
+            "Nadir.",
+            "Picado.",
+            "Cenital."
+          ],
+          "respuesta": "Cenital.",
+          "respuestaCorta": "El ángulo cenital es aquel en el que la cámara se posiciona directamente sobre el sujeto, apuntando hacia abajo en un ángulo de 90 grados, como se observa en la imagen.",
+          "solucionario": "Los ángulos de visión describen la posición de la cámara respecto al sujeto. El ángulo 'picado' es desde arriba pero en diagonal. El ángulo 'nadir' es desde abajo, apuntando directamente hacia arriba. El ángulo 'cenital' (del cénit) es perpendicular al suelo, desde arriba hacia abajo, que es precisamente la perspectiva utilizada en esta fotografía.",
+          "seccion": "Conocimientos Disciplinares"
+        },
+        {
+          "pregunta": "¿Qué efecto produce principalmente el ángulo de visión en la fotografía mostrada?",
+          "opciones": [
+            "Vértigo.",
+            "Intimidad.",
+            "Vulnerabilidad."
+          ],
+          "respuesta": "Intimidad.",
+          "respuestaCorta": "El ángulo cenital sobre una persona recostada crea una perspectiva inusual y personal, como si el espectador estuviera observando una escena privada desde muy cerca, generando una sensación de intimidad.",
+          "solucionario": "Si bien un ángulo cenital desde una gran altura podría causar vértigo, o sobre una persona de pie podría hacerla ver vulnerable, en este contexto de un sujeto acostado y en reposo, el efecto principal es de cercanía e intimidad. La composición invita al espectador a un espacio personal y contemplativo del sujeto fotografiado.",
+          "seccion": "Conocimientos Disciplinares"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p07",
+      "contexto": "Los estudiantes le comentan al docente que les gustaría aprender a tocar guitarra, pues muchos tienen el instrumento en casa y, además, el colegio cuenta con guitarras para los que no pueden traer el instrumento desde su casa. El docente adapta su programación y planifica una experiencia de aprendizaje en la que los estudiantes desarrollarán la competencia de expresión artística por medio del aprendizaje de este instrumento.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes actividades es más pertinente para iniciar la experiencia de aprendizaje?",
+          "opciones": [
+            "Mostrar a los estudiantes videos de algunos guitarristas famosos de la historia de la música para que tengan un referente al que aspirar.",
+            "Preguntar a los estudiantes cómo van a aplicar el aprendizaje de la guitarra en su vida y cuáles son sus expectativas personales.",
+            "Explicar a los estudiantes los beneficios de aprender a tocar guitarra y cómo pueden aprovechar esa habilidad en su vida."
+          ],
+          "respuesta": "Preguntar a los estudiantes cómo van a aplicar el aprendizaje de la guitarra en su vida y cuáles son sus expectativas personales.",
+          "respuestaCorta": "Iniciar una experiencia de aprendizaje conectando con los intereses y metas personales de los estudiantes es fundamental para la motivación. Preguntarles por sus expectativas genera un propósito propio y significativo.",
+          "solucionario": "Un enfoque pedagógico centrado en el estudiante busca que el aprendizaje sea significativo para él. La opción B parte de las motivaciones intrínsecas de los estudiantes, haciéndolos partícipes y protagonistas de su proceso de aprendizaje. Las opciones A y C, aunque pueden ser complementarias, son menos pertinentes para el inicio porque posicionan al docente o a referentes externos como la fuente principal de motivación.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "El docente se propone recoger los saberes previos de los estudiantes sobre cómo se toca una guitarra. ¿Cuál de las siguientes actividades es más pertinente?",
+          "opciones": [
+            "El docente divide a los estudiantes en grupos pequeños y les entrega una guitarra para que, por turnos, cada integrante coja el instrumento e intente tocar algunas notas o, al menos, simular que está tocando. El docente se pasea entre los grupos observando y se acerca a cada grupo para que los estudiantes le comenten su experiencia, qué aciertos tuvieron y qué creen que necesitan aprender.",
+            "El docente realiza un concurso: divide a la clase en grupos y pide a cada grupo que forme una columna. El docente leerá una afirmación relacionada con la técnica de la guitarra y los primeros estudiantes de cada columna deberán decir si la afirmación es verdadera o falsa. El primer estudiante que acierta la respuesta gana un punto para su equipo. Luego, los estudiantes se desplazan al final de su columna y se realizan otras rondas del juego hasta que todos hayan participado.",
+            "El docente solicita al estudiante de la clase con más experiencia tocando guitarra que demuestre cómo se sujeta el instrumento, cuál es la posición correcta de las manos, cómo se presionan las cuerdas y de qué manera se tañen las cuerdas. Luego, pide a los compañeros que comenten los aciertos que ha tenido su compañero, y en qué creen que aún debe mejorar. Finalmente, pedir a los estudiantes que hagan una lista con las principales acciones que hay que realizar al tocar la guitarra."
+          ],
+          "respuesta": "El docente divide a los estudiantes en grupos pequeños y les entrega una guitarra para que, por turnos, cada integrante coja el instrumento e intente tocar algunas notas o, al menos, simular que está tocando. El docente se pasea entre los grupos observando y se acerca a cada grupo para que los estudiantes le comenten su experiencia, qué aciertos tuvieron y qué creen que necesitan aprender.",
+          "respuestaCorta": "Para recoger saberes previos de una habilidad práctica, la mejor estrategia es permitir la exploración directa y libre con el objeto de aprendizaje. Esto permite al docente observar conocimientos y habilidades reales, no solo teóricos.",
+          "solucionario": "La opción A es la más pertinente porque se basa en la acción y la reflexión. Permite que los estudiantes exploren el instrumento de manera práctica y que el docente observe directamente sus conocimientos (o la falta de ellos) sobre la postura, la sujeción y la producción de sonido. El diálogo posterior complementa la observación con la autopercepción de los estudiantes. Un concurso (B) evalúa conocimientos teóricos de forma competitiva, y una demostración (C) es una actividad de enseñanza, no de recojo de saberes previos.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "El docente se dispone a mostrar a los estudiantes la postura corporal adecuada para tocar la guitarra. Antes de esto, el docente pregunta: \"¿Por qué es importante tener una buena postura al tocar la guitarra?\". Tres estudiantes intervienen, ¿cuál de ellos ha mencionado la razón principal?",
+          "opciones": [
+            "Pedro dice: \"Una buena postura corporal hace que la ejecución del instrumento sea más eficiente y saludable para el que toca\".",
+            "Santiago dice: \"Al tocar un instrumento, no solo es importante que la música suene bien, sino también que sea agradable ver a la persona tocar el instrumento\".",
+            "Gabriela dice: \"Si uno toca el instrumento con una postura corporal inadecuada, todo el aprendizaje será más difícil, y no lograríamos progresos ni siquiera en los ejercicios sencillos\"."
+          ],
+          "respuesta": "Pedro dice: \"Una buena postura corporal hace que la ejecución del instrumento sea más eficiente y saludable para el que toca\".",
+          "respuestaCorta": "La razón fundamental para una buena postura es doble: prevenir lesiones y tensiones (salud) y facilitar el movimiento y control sobre el instrumento (eficiencia), como bien resume Pedro.",
+          "solucionario": "La ergonomía en la ejecución musical es crucial. Una postura correcta previene problemas de salud a largo plazo (lesiones en espalda, hombros, muñecas) y permite que la energía del cuerpo se utilice de manera más eficaz para la técnica instrumental. La respuesta de Pedro abarca estos dos aspectos clave. La estética (Santiago) es secundaria y la dificultad en el aprendizaje (Gabriela) es una consecuencia de la ineficiencia mencionada por Pedro.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Cuando los estudiantes se han familiarizado con la guitarra, el docente les propone aprender a tocar una canción muy sencilla con dos acordes. Luego de afinar las guitarras, y tomando en cuenta que la gran mayoría de estudiantes son principiantes, ¿qué tipo de acordes es pertinente enseñar primero?",
+          "opciones": [
+            "Acordes con cejillas.",
+            "Acordes de poder.",
+            "Acordes abiertos."
+          ],
+          "respuesta": "Acordes abiertos.",
+          "respuestaCorta": "Los acordes abiertos son los más adecuados para principiantes, ya que utilizan cuerdas al aire y no requieren la fuerza y técnica avanzada de los acordes con cejilla.",
+          "solucionario": "En la guitarra, los 'acordes abiertos' (como Sol Mayor, Do Mayor, Mi menor) son los fundamentales para iniciar, pues sus digitaciones son más sencillas y no requieren presionar varias cuerdas con un solo dedo (cejilla), lo cual demanda mucha fuerza y coordinación. Los acordes de poder son más simples que los de cejilla pero más asociados al rock, mientras que los abiertos son más versátiles para empezar.",
+          "seccion": "Conocimientos Disciplinares"
+        },
+        {
+          "pregunta": "Los estudiantes han aprendido a tocar los dos primeros acordes; sin embargo, algunos manifiestan preocupación porque les demora mucho tiempo poner los dedos de la mano izquierda en posición para tocar cada acorde. ¿Cuál de las siguientes estrategias es pertinente que sugiera el docente para resolver el problema?",
+          "opciones": [
+            "Poner uno de los dedos de la mano izquierda en la posición que corresponde dentro del acorde y rasgar las cuerdas; luego, agregar otro dedo y rasgar las cuerdas. Continuar hasta que todos los dedos estén en la posición que corresponde. Repetir varias veces.",
+            "Colocar lentamente, pero sin vacilaciones, los dedos en la posición que corresponde al primer acorde, rasgar las cuerdas y retirar inmediatamente los dedos; luego, hacer lo mismo con el segundo acorde. Repetir el proceso haciendo los cambios de acorde cada vez más rápido.",
+            "Escribir en una hoja en blanco la posición en la cuerda y traste que corresponde a cada dedo para el primer acorde. Cerrar los ojos y visualizar la posición de cada dedo mientras se presionan las cuerdas en la posición correcta; luego, proceder igual con el segundo acorde hasta interiorizar las posiciones."
+          ],
+          "respuesta": "Colocar lentamente, pero sin vacilaciones, los dedos en la posición que corresponde al primer acorde, rasgar las cuerdas y retirar inmediatamente los dedos; luego, hacer lo mismo con el segundo acorde. Repetir el proceso haciendo los cambios de acorde cada vez más rápido.",
+          "respuestaCorta": "La mejor estrategia para agilizar el cambio de acordes es practicar el movimiento completo de manera repetitiva, comenzando lentamente y aumentando la velocidad gradualmente para desarrollar la memoria muscular.",
+          "solucionario": "El desarrollo de la fluidez en el cambio de acordes depende de la memoria muscular. La estrategia B es la más efectiva porque entrena la mano para moverse como una unidad, memorizando la 'forma' de cada acorde y el movimiento entre ellos. Se practica la transición completa, que es la habilidad requerida. La opción A (dedo por dedo) no entrena el movimiento conjunto, y la opción C (visualización) es un complemento útil, but no sustituye la práctica física necesaria.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "El docente ha conseguido algunos videos tutoriales relacionados con el uso y cuidado de la guitarra que irá mandando a los estudiantes a lo largo de las sesiones para que los revisen desde casa o en el Aula de Innovación Pedagógica. ¿Cuál de los siguientes recursos es más pertinente que entregue primero para favorecer el aprendizaje de los estudiantes?",
+          "opciones": [
+            "Un tutorial sobre cómo afinar la guitarra.",
+            "Un tutorial sobre cómo cambiar las cuerdas de la guitarra.",
+            "Un tutorial sobre cómo limpiar y dar mantenimiento a la guitarra."
+          ],
+          "respuesta": "Un tutorial sobre cómo afinar la guitarra.",
+          "respuestaCorta": "La afinación es el requisito previo más fundamental para tocar la guitarra. Un instrumento desafinado impide un aprendizaje auditivo correcto y genera frustración, por lo que saber afinarlo es la primera habilidad de soporte necesaria.",
+          "solucionario": "De las tres opciones, la afinación es una tarea que debe realizarse cada vez que se va a tocar el instrumento. Es una habilidad esencial e inmediata para cualquier guitarrista. Cambiar cuerdas y dar mantenimiento son acciones importantes pero mucho menos frecuentes. Por lo tanto, para favorecer el aprendizaje diario, el tutorial sobre afinación es el recurso prioritario.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+   
+    {
+      "idGrupo": "asc_secundaria_2021_p13",
+      "contexto": "Los estudiantes le comentan al docente que les gustaría aprender a tocar guitarra, pues muchos tienen el instrumento en casa y, además, el colegio cuenta con guitarras para los que no pueden traer el instrumento desde su casa. El docente adapta su programación y planifica una experiencia de aprendizaje en la que los estudiantes desarrollarán la competencia de expresión artística por medio del aprendizaje de este instrumento.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Dependiendo del género y el estilo, la guitarra puede tocarse rasgando las cuerdas con los dedos o con un plectro, puede utilizar cuerdas de nylon o de metal, y puede presentar diversos tipos de textura musical. El docente incluye en la experiencia de aprendizaje una actividad en la que los estudiantes apreciarán los usos y posibilidades técnicas de la guitarra en diversos estilos musicales. ¿Cuál de las siguientes alternativas presenta mayor variedad de usos de la guitarra?",
+          "opciones": [
+            "Música clásica, música andina, rock.",
+            "Salsa, bossanova, bolero.",
+            "Jazz, blues, funk."
+          ],
+          "respuesta": "Música clásica, música andina, rock.",
+          "respuestaCorta": "Esta opción presenta la mayor diversidad al incluir géneros de tradiciones musicales completamente distintas (europea, latinoamericana, anglosajona), que emplean diferentes tipos de guitarra y técnicas de ejecución.",
+          "solucionario": "Para mostrar la mayor variedad, es ideal seleccionar géneros que contrasten marcadamente en técnica, tipo de instrumento y rol musical. La música clásica (guitarra de nylon, fingerstyle), la música andina (charango/guitarra, rasgueos y punteos) y el rock (guitarra eléctrica, plectro, efectos) representan tres mundos musicales muy diferentes. Las otras opciones agrupan géneros estilísticamente más cercanos entre sí.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p14",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué grupo de notas componen el acorde de \"la mayor\"?",
+          "opciones": [
+            "La, do, mi.",
+            "La, do, mi bemol.",
+            "La, do sostenido, mi."
+          ],
+          "respuesta": "La, do sostenido, mi.",
+          "respuestaCorta": "Un acorde mayor se forma con la tónica, su tercera mayor y su quinta justa. Para La mayor, estas notas son La (tónica), Do sostenido (tercera mayor) y Mi (quinta justa).",
+          "solucionario": "La estructura de un acorde mayor es siempre la misma: se toma la nota fundamental (la tónica, en este caso La), se le añade su tercera mayor (un intervalo de cuatro semitonos, que desde La es Do#) y su quinta justa (un intervalo de siete semitonos, que desde La es Mi).",
+          "seccion": "Conocimientos Disciplinares"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p15",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué grupo de notas componen el acorde de \"sol menor\"?",
+          "opciones": [
+            "Sol, si, re.",
+            "Sol, si bemol, re.",
+            "Sol, si bemol, re bemol."
+          ],
+          "respuesta": "Sol, si bemol, re.",
+          "respuestaCorta": "Un acorde menor se forma con la tónica, su tercera menor y su quinta justa. Para Sol menor, estas notas son Sol (tónica), Si bemol (tercera menor) y Re (quinta justa).",
+          "solucionario": "La estructura de un acorde menor consiste en la nota fundamental (la tónica, en este caso Sol), su tercera menor (un intervalo de tres semitonos, que desde Sol es Sib) y su quinta justa (un intervalo de siete semitonos, que desde Sol es Re).",
+          "seccion": "Conocimientos Disciplinares"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p16",
+      "contexto": "El docente de Arte y Cultura planifica una experiencia de aprendizaje con el propósito de que los estudiantes conozcan y valoren la cultura de los pueblos originarios del Perú por medio de la apreciación y experimentación de técnicas ancestrales utilizadas para elaborar tintes naturales en el arte textil peruano. Para esto, el docente trae al aula varias fotografías a color de telas con diseños kené, manifestación cultural shipibo-konibo reconocida como Patrimonio Cultural de la Nación el año 2008. Las fotografías muestran figuras geométricas complejas pintadas sobre tela con pigmentos propios de la zona de la región Ucayali, como el huito y el barro.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "El docente presenta a los estudiantes las fotografías sin explicarles su contenido. Los estudiantes las observan y el docente pregunta: \"¿Qué observan en estas fotos?\". Los estudiantes van interviniendo: \"Son telas\", \"Esa parece una prenda de vestir\", \"Son diseños de la selva\", \"Parece algo shipibo\", entre otros comentarios. ¿Qué proceso pedagógico está promoviendo principalmente el docente con su pregunta?",
+          "opciones": [
+            "Metacognición.",
+            "Activación de saberes previos.",
+            "Generación de conflicto cognitivo."
+          ],
+          "respuesta": "Activación de saberes previos.",
+          "respuestaCorta": "Al preguntar qué observan, el docente incita a los estudiantes a conectar las imágenes con sus conocimientos y experiencias existentes, haciendo que surjan sus ideas iniciales sobre el tema.",
+          "solucionario": "La activación de saberes previos es un paso inicial crucial en el aprendizaje. La pregunta abierta del docente permite que los estudiantes expresen libremente sus conocimientos, suposiciones y asociaciones iniciales sobre los diseños textiles, estableciendo un punto de partida para construir el nuevo conocimiento.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Luego, el docente solicita a los estudiantes que vayan circulando las fotografías para que todos las puedan apreciar, y que, en plenario, describan sus impresiones iniciales sobre los diseños mostrados en estas, las formas, los patrones y los colores utilizados. ¿Qué capacidad del currículo se desarrolla principalmente durante la actividad descrita?",
+          "opciones": [
+            "Percibe manifestaciones artístico-culturales.",
+            "Contextualiza manifestaciones artístico-culturales.",
+            "Reflexiona creativa y críticamente sobre manifestaciones artístico-culturales."
+          ],
+          "respuesta": "Percibe manifestaciones artístico-culturales.",
+          "respuestaCorta": "Esta capacidad se centra en el uso de los sentidos para observar y describir los elementos formales de una obra, como las formas, patrones y colores, que es exactamente lo que la actividad pide.",
+          "solucionario": "La capacidad 'Percibe manifestaciones artístico-culturales' implica una interacción sensible con la obra de arte, identificando y describiendo sus cualidades visuales, sonoras o kinestésicas. La actividad se enfoca en este primer nivel de apreciación: analizar y verbalizar lo que se ve, antes de pasar a la contextualización o la reflexión crítica.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Después de compartir sus impresiones iniciales, el docente explica a los estudiantes la procedencia de los diseños. En ese contexto, una estudiante comenta lo siguiente: \"Profesor, los diseños son bonitos, pero tienen muy pocos colores y casi todos son oscuros. Creo que mejores son las técnicas modernas, porque se pueden estampar muchos colores y diseños diferentes en la tela\". Tomando en cuenta el propósito de la experiencia de aprendizaje, ¿cuál es la retroalimentación más adecuada ante el comentario de la estudiante?",
+          "opciones": [
+            "Comentar a la estudiante que los diseños kené son sumamente complejos y los tintes que utilizan son de excelente calidad, lo que requiere una gran destreza técnica ganada a lo largo de años de aprendizaje y que es transmitida de generación en generación.",
+            "Conversar con la estudiante sobre los criterios que ha tomado en cuenta para afirmar que una técnica es mejor que la otra, a qué características les da mayor valor y por qué, y cómo influye el contexto sociocultural en nuestras percepciones y valoraciones.",
+            "Preguntar a la estudiante si ha tomado en cuenta que los pueblos originarios de la selva amazónica tienen poco acceso a las técnicas que menciona, y comentarle que es importante valorar el uso de los recursos con los que cuentan, porque, si bien son limitados, les permiten realizar trabajos creativos de gran calidad."
+          ],
+          "respuesta": "Conversar con la estudiante sobre los criterios que ha tomado en cuenta para afirmar que una técnica es mejor que la otra, a qué características les da mayor valor y por qué, y cómo influye el contexto sociocultural en nuestras percepciones y valoraciones.",
+          "respuestaCorta": "La retroalimentación más efectiva es la reflexiva, que invita a la estudiante a analizar sus propios criterios de valoración y a entender que estos están influenciados por su contexto, fomentando una apreciación más crítica y menos prejuiciosa.",
+          "solucionario": "La opción B promueve el pensamiento crítico al no refutar directamente a la estudiante, sino al guiarla para que cuestione sus propias premisas. La hace consciente de que su criterio ('más colores es mejor') es subjetivo y culturalmente situado. Esto abre la puerta a valorar el arte kené en sus propios términos (complejidad, significado, técnica) en lugar de compararlo con estándares modernos.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Luego de realizar varias actividades de análisis, el docente propone a los estudiantes que, para la siguiente sesión, traigan, entre todos, varios retazos de tela de color claro o blanco, y elementos naturales que crean que pueden servir para teñirlos. La siguiente clase, los estudiantes logran reunir entre todos algunas sábanas y polos viejos, además de té, café, tierra, carbón, y diversas plantas, flores y frutos, como beterraga, espinaca y maíz morado. Si el docente desea que los estudiantes exploren y experimenten por sí mismos la creación de pigmentos naturales con los elementos que han traído, ¿cuál de las siguientes actividades es más pertinente para iniciar este proceso?",
+          "opciones": [
+            "Proponerles que hagan una búsqueda en diversas fuentes sobre los principales métodos de elaboración de tintes naturales y los ingredientes que se utilizan, y que seleccionen aquellos elementos traídos de casa que efectivamente son utilizados para crear pigmentos, y los elaboren en clase para teñir las telas.",
+            "Pedirles que tomen una porción de los elementos que llevaron al aula y que prueben diversas maneras de teñir con ellos los retazos de tela; por ejemplo, frotando las hojas, exprimiendo los frutos, diluyendo el café, pulverizando el carbón, y que vayan tomando nota de los resultados obtenidos.",
+            "Solicitarles que escojan una temática que les interese y visualicen una imagen que les gustaría pintar sobre un pedazo de tela; luego, pedirles que separen los elementos traídos a la clase en función a los colores que necesitarán para plasmar la pintura visualizada, e intenten extraer pigmentos de ellos usando una diversidad de métodos recomendados por el docente."
+          ],
+          "respuesta": "Pedirles que tomen una porción de los elementos que llevaron al aula y que prueben diversas maneras de teñir con ellos los retazos de tela; por ejemplo, frotando las hojas, exprimiendo los frutos, diluyendo el café, pulverizando el carbón, y que vayan tomando nota de los resultados obtenidos.",
+          "respuestaCorta": "Para que los estudiantes exploren y experimenten, la actividad más pertinente es aquella que promueve el descubrimiento directo y práctico, probando libremente los materiales sin un resultado predeterminado.",
+          "solucionario": "La opción B encarna el espíritu de la exploración y experimentación. No parte de una investigación previa (A) ni de un proyecto artístico definido (C), sino del juego y el descubrimiento material. Al probar, frotar, exprimir y registrar resultados, los estudiantes construyen su conocimiento a partir de la experiencia directa, lo cual es fundamental en el aprendizaje de las artes.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Luego de haber realizado la exploración de los pigmentos naturales, los estudiantes comentan los aciertos y dificultades que tuvieron durante la experiencia. ¿Cuál de las siguientes actividades es más pertinente para propiciar la valoración y reflexión crítica sobre las técnicas de teñido ancestrales observadas en las fotografías?",
+          "opciones": [
+            "Proponer a los estudiantes que recopilen y analicen información sobre las técnicas de teñido utilizadas por el pueblo shipibo-konibo, y luego investiguen y expliquen la relación de estas técnicas con su cosmovisión.",
+            "Pedir a los estudiantes que realicen el diseño de una tela que exprese algún aspecto de su personalidad y lo pinten sobre un pedazo de tela utilizando los tintes que resultaron más efectivos durante la experiencia de exploración.",
+            "Solicitar a los estudiantes que investiguen y describan el impacto ecológico del uso de tintes industriales, para identificar el potencial uso de técnicas ancestrales de teñido como una alternativa más amigable con el cuidado del ambiente."
+          ],
+          "respuesta": "Proponer a los estudiantes que recopilen y analicen información sobre las técnicas de teñido utilizadas por el pueblo shipibo-konibo, y luego investiguen y expliquen la relación de estas técnicas con su cosmovisión.",
+          "respuestaCorta": "Para una valoración profunda de una técnica ancestral, es crucial conectar la práctica técnica con su significado cultural y cosmovisión, permitiendo una comprensión integral de la manifestación artística.",
+          "solucionario": "Después de la experimentación práctica, el siguiente paso para una reflexión crítica es la contextualización. La opción A profundiza el aprendizaje al conectar la técnica (el 'cómo') con la cosmovisión (el 'porqué'). Esto permite a los estudiantes valorar el arte kené no solo como un producto estético, sino como una expresión cultural compleja y cargada de significado, cumpliendo el propósito de la experiencia.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p21",
+      "contexto": "El científico literario, Algirdas Julien Greimas (1917-1992), desarrolló un modelo para el análisis de las acciones o los relatos. El modelo puede ser usado para dividir las acciones en seis facetas o \"actantes\": el sujeto, el objeto, el destinador, el destinatario, el ayudante y el oponente. El sujeto es el personaje principal del análisis. El objeto es aquello que el sujeto quiere conseguir. El destinador es el personaje o motivo que mueve al sujeto a conseguir el objeto. El destinatario es quien se beneficia si el sujeto obtiene el objeto, pudiendo ser o no el propio sujeto. El ayudante es aquel que ayuda al sujeto a conseguir el objeto, mientras que el oponente es aquello que se opone a que el sujeto consiga su objetivo. Todos los actantes pueden ser tanto personajes como objetos o conceptos, pero el sujeto, destinador y destinatario suelen ser personajes.\nTomemos como ejemplo el cuento La Caperucita roja: \"Caperucita roja fue enviada por su madre a llevar una cesta de víveres a su abuela enferma. Mientras caminaba por el bosque camino a la casa de su abuela, se encuentra con el Lobo feroz. Este, luego de conversar con Caperucita y enterarse de que iba a visitar a su abuela, decide ir por un atajo a la casa de la abuelita para llegar antes que la niña. Al llegar, devora a la abuela y decide engañar a Caperucita, vistiéndose como la abuela, para devorarla también. El Lobo casi logra su cometido, pero, afortunadamente, un cazador escucha los gritos de la Caperucita y logra rescatarla y sacar a la abuelita del estómago del lobo\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Tomando en cuenta la propuesta de Greimas, si consideramos a la Caperucita como el sujeto, ¿quién es el destinador?",
+          "opciones": [
+            "El cazador.",
+            "La propia Caperucita.",
+            "La madre de Caperucita."
+          ],
+          "respuesta": "La madre de Caperucita.",
+          "respuestaCorta": "El destinador es quien motiva o inicia la acción del sujeto. En la historia, la madre envía a Caperucita a llevarle víveres a la abuela, por lo tanto, la madre es el destinador.",
+          "solucionario": "Según el modelo actancial de Greimas, el destinador es la fuerza o personaje que da al sujeto su misión. La aventura de Caperucita (sujeto) comienza porque su madre (destinador) le da la tarea de llevar una cesta a su abuela. Ella es el origen de la acción.",
+          "seccion": "Conocimientos Disciplinares"
+        },
+        {
+          "pregunta": "Tomando en cuenta la propuesta de Greimas, si consideramos a la madre de Caperucita como el sujeto, ¿quién es el destinatario?",
+          "opciones": [
+            "La abuela de Caperucita.",
+            "La Caperucita.",
+            "El Lobo feroz."
+          ],
+          "respuesta": "La abuela de Caperucita.",
+          "respuestaCorta": "El destinatario es quien se beneficia de la acción del sujeto. Si la madre (sujeto) realiza la acción de enviar comida, la beneficiaria final de esa acción es la abuela, que recibe los víveres.",
+          "solucionario": "En este análisis, el sujeto es la madre y su objeto es que la comida llegue a su destino. El destinatario es el beneficiario final de la consecución de ese objeto. La persona que se beneficia directamente de que los víveres sean entregados es la abuela enferma.",
+          "seccion": "Conocimientos Disciplinares"
+        },
+        {
+          "pregunta": "Tomando en cuenta la propuesta de Greimas, si consideramos al Lobo feroz como el sujeto, ¿quién es el destinador?",
+          "opciones": [
+            "El cazador.",
+            "El mismo Lobo feroz.",
+            "La madre de Caperucita."
+          ],
+          "respuesta": "El mismo Lobo feroz.",
+          "respuestaCorta": "El destinador es lo que mueve al sujeto. La motivación del Lobo para sus acciones (engañar y devorar) proviene de su propio apetito y naturaleza, por lo tanto, él es su propio destinador.",
+          "solucionario": "A diferencia de Caperucita, que es enviada por alguien, el Lobo actúa por su propia voluntad y motivación interna (su hambre o instinto depredador). En el modelo de Greimas, cuando un personaje actúa por un impulso o deseo propio, se considera que es su propio destinador.",
+          "seccion": "Conocimientos Disciplinares"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p24",
+      "contexto": "En el siglo XVI se introduce en el teatro el concepto de \"unidades aristotélicas\", que consiste en un grupo de normas para la escritura de obras dramáticas basadas en una interpretación de la Retórica de Aristóteles. Las tres unidades demandan lo siguiente:\n1. Unidad de acción: la obra debe tener una acción principal.\n2. Unidad de tiempo: la acción en la obra debe ocurrir en un periodo de tiempo no mayor a 24 horas.\n3. Unidad de espacio: la obra debe desarrollarse en una única ubicación física.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes premisas es más apropiada para escribir una obra acorde con las unidades aristotélicas?",
+          "opciones": [
+            "Un grupo de amigos que estudiaron juntos en el colegio asistirán a un reencuentro de la promoción después de 20 años sin verse. Mientras cada uno de ellos se prepara para asistir, recuerdan como se sintieron al enterarse del trágico fallecimiento de uno de sus docentes en un misterioso accidente. Al final, ninguno asiste al reencuentro.",
+            "La señora Rita desea ver casado a su tímido hijo, Alberto. Para ello, crea una cuenta falsa en una red social y, fingiendo ser Alberto, se dedica a buscar una pareja para su hijo. Hurgando en las redes sociales, Rita descubre que su esposo tiene una amante hace mucho tiempo. Luego de un penoso proceso de separación, Rita se divorcia y continúa con su vida, acompañada de su hijo soltero.",
+            "Un domingo, la barra de un popular equipo de fútbol de barrio se reúne en la plaza para discutir sobre el dinero que han recolectado para comprar nuevos uniformes. El dinero no es suficiente, por lo que deciden solicitar un donativo al empresario más acaudalado del pueblo, una persona fría e indiferente que, cada día, asiste puntualmente a la misa que ofrece la iglesia que está en la plaza."
+          ],
+          "respuesta": "Un domingo, la barra de un popular equipo de fútbol de barrio se reúne en la plaza para discutir sobre el dinero que han recolectado para comprar nuevos uniformes. El dinero no es suficiente, por lo que deciden solicitar un donativo al empresario más acaudalado del pueblo, una persona fría e indiferente que, cada día, asiste puntualmente a la misa que ofrece la iglesia que está en la plaza.",
+          "respuestaCorta": "Esta premisa cumple con las tres unidades: una acción principal (conseguir dinero para los uniformes), un tiempo acotado (un domingo) y un único espacio (la plaza).",
+          "solucionario": "La opción C es la única que respeta las tres unidades aristotélicas. La unidad de acción es clara: obtener el donativo. La unidad de tiempo se cumple al situar la acción en 'un domingo'. La unidad de espacio se cumple al desarrollarse todo en 'la plaza'. Las otras opciones violan una o más unidades, ya sea por tener múltiples líneas de acción, abarcar largos periodos de tiempo o utilizar diversos escenarios.",
+          "seccion": "Conocimientos Disciplinares"
+        }
+      ]
+    },
+   
+    {
+      "idGrupo": "asc_secundaria_2021_p25",
+      "contexto": "En el siglo XVI se introduce en el teatro el concepto de \"unidades aristotélicas\", que consiste en un grupo de normas para la escritura de obras dramáticas basadas en una interpretación de la Retórica de Aristóteles. Las tres unidades demandan lo siguiente:\n1. Unidad de acción: la obra debe tener una acción principal.\n2. Unidad de tiempo: la acción en la obra debe ocurrir en un periodo de tiempo no mayor a 24 horas.\n3. Unidad de espacio: la obra debe desarrollarse en una única ubicación física.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Los estudiantes están escribiendo premisas para guiones teatrales. Pablo escribe la siguiente premisa: \"José María está enamorado desde pequeño de su vecina Sofía. Así, mirándola de lejos, pasa su infancia, su pubertad y su adolescencia. Son amigos desde siempre, pero Sofía no se da cuenta del amor de José María hasta que ambos terminan la universidad\". Si el docente desea que Pablo ajuste la premisa para que corresponda con las unidades aristotélicas, ¿cuál sería la recomendación más pertinente?",
+          "opciones": [
+            "\"La obra podría transcurrir a lo largo de un viaje de José María en la combi. José María repasa mentalmente su vida junto a Sofía y decide declararle su amor ese mismo día. Al terminar el viaje, José María baja de la combi y se encuentra en el paradero con Sofía. La obra culmina sin que sepamos si José María se declara o no\".",
+            "\"La obra podría transcurrir en un encuentro entre José María y Sofía en un café de la universidad, donde comparten sus experiencias juntos. José María quiere decirle que la ama pero siempre es interrumpido. Se da por vencido, pero, al final de la velada, Sofía se da cuenta de que José María siempre la ha amado\".",
+            "\"La obra podría transcurrir en el campus de la universidad. José María podría ir dejando en diversas oportunidades mensajes secretos para que Sofía sepa que tiene un admirador. En la semana de exámenes, José María deja un último mensaje en el examen final del curso, en complicidad con el docente\"."
+          ],
+          "respuesta": "\"La obra podría transcurrir en un encuentro entre José María y Sofía en un café de la universidad, donde comparten sus experiencias juntos. José María quiere decirle que la ama pero siempre es interrumpido. Se da por vencido, pero, al final de la velada, Sofía se da cuenta de que José María siempre la ha amado\".",
+          "respuestaCorta": "Esta recomendación condensa la acción en un único espacio (un café) y un tiempo breve (una velada), permitiendo que toda la historia pasada se revele a través del diálogo, cumpliendo así con las unidades aristotélicas.",
+          "solucionario": "La premisa original de Pablo abarca muchos años, violando la unidad de tiempo. La recomendación B resuelve este problema de manera efectiva al situar la acción en un solo lugar ('un café'), durante un solo evento continuo ('un encuentro'), con una acción principal clara (el intento de declaración y la revelación final). Las otras opciones son más difusas en su acción o espacio.",
+          "seccion": "Conocimientos Disciplinares"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p26",
+      "contexto": "Durante el siglo XIX, el pintor costumbrista Pancho Fierro (1807-1879) representó en sus acuarelas la realidad limeña de aquel entonces. A continuación, se muestra una de sus acuarelas, que representa una danza que se bailaba en el Perú:",
+      "imagen": "img/ascenso/secundaria/2021/arte/3.jpg",
+      "preguntas": [
+        {
+          "pregunta": "¿Qué danza está representada en la acuarela?",
+          "opciones": [
+            "Minué.",
+            "Polka.",
+            "Vals."
+          ],
+          "respuesta": "Minué.",
+          "respuestaCorta": "La acuarela de Pancho Fierro muestra una danza de salón del siglo XIX. La postura formal y elegante de los bailarines, así como la vestimenta de la época, son características del minué.",
+          "solucionario": "El minué fue una danza de salón de origen francés muy popular en las élites europeas y americanas durante los siglos XVII al XIX. Se caracteriza por su compás de 3/4, movimientos gráciles y reverencias formales, elementos que se corresponden con la escena de sociedad limeña representada por el pintor costumbrista Pancho Fierro.",
+          "seccion": "Conocimientos Disciplinares"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p27",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes danzas es parte de la cultura local de la región Huánuco?",
+          "opciones": [
+            "Tuy tuy.",
+            "Llamerada.",
+            "Papa tarpuy."
+          ],
+          "respuesta": "Tuy tuy.",
+          "respuestaCorta": "El Tuy tuy es una danza guerrera tradicional que forma parte del patrimonio cultural de la región Huánuco.",
+          "solucionario": "El Tuy tuy es una danza representativa de la provincia de Huamalíes, en la región Huánuco. En contraste, la Llamerada es una danza del altiplano, principalmente de Puno, y la Papa Tarpuy es una danza agrícola de la sierra sur andina.",
+          "seccion": "Conocimientos Disciplinares"
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes accesorios o implementos se utiliza en la danza Carnaval de Arapa de Puno?",
+          "opciones": [
+            "Huaraca u honda grande.",
+            "Bandera con asta mediana.",
+            "Sonaja de chapas pequeña."
+          ],
+          "respuesta": "Bandera con asta mediana.",
+          "respuestaCorta": "En el Carnaval de Arapa, danza festiva de Puno, los bailarines suelen portar banderas de tamaño mediano como un elemento visual importante en la coreografía.",
+          "solucionario": "Mientras que las huaracas son comunes en danzas guerreras o de pastoreo y las sonajas en rituales, las banderas son elementos característicos de muchas danzas de carnaval. En el Carnaval de Arapa, las banderas coloridas añaden dinamismo y un sentido de celebración comunitaria a la danza.",
+          "seccion": "Conocimientos Disciplinares"
+        },
+        {
+          "pregunta": "¿Qué representa la danza Zapateadores de Chocán?",
+          "opciones": [
+            "Representa el homenaje al Señor Cautivo, en el que los bailarines ofrecen sus zapateos, que, poco a poco, van aumentando en complejidad hasta acabar de rodillas ante la imagen.",
+            "Representa la fe de los pastores que visitan a Jesús al nacer, quienes realizan una adoración portando una campana en la mano, y ofreciendo sus zapateos y cantos al compás de un violín.",
+            "Representa el enamoramiento entre los jóvenes durante las labores agrícolas en la época de carnavales, y el zapateo imita al zorzal macho cuando galantea a la hembra bailando a su alrededor."
+          ],
+          "respuesta": "Representa el enamoramiento entre los jóvenes durante las labores agrícolas en la época de carnavales, y el zapateo imita al zorzal macho cuando galantea a la hembra bailando a su alrededor.",
+          "respuestaCorta": "Esta danza tiene un carácter festivo y de cortejo, donde el zapateo simboliza el galanteo del hombre a la mujer, imitando el comportamiento de un ave local, el zorzal.",
+          "solucionario": "La danza de los Zapateadores de Chocán, originaria de Piura, está ligada al ciclo agrícola y a los carnavales. Su temática principal es el enamoramiento, y la coreografía, especialmente el zapateo masculino, es una representación simbólica del cortejo del zorzal macho hacia la hembra, mostrando agilidad y destreza.",
+          "seccion": "Conocimientos Disciplinares"
+        },
+        {
+          "pregunta": "¿Cuál de las siguientes danzas peruanas es pertinente para desarrollar los movimientos pélvico-ventrales de los estudiantes?",
+          "opciones": [
+            "Toro mata.",
+            "Carnaval de Lamas.",
+            "Marinera ayacuchana."
+          ],
+          "respuesta": "Toro mata.",
+          "respuestaCorta": "El Toro Mata es una danza afroperuana cuyo movimiento característico y central se basa en la disociación y articulación de la pelvis y el vientre.",
+          "solucionario": "Los movimientos pélvico-ventrales son un rasgo distintivo de las danzas de la costa de influencia afroperuana. El Toro Mata es uno de los ejemplos más claros, donde la cadencia y el ritmo se expresan fundamentalmente a través de la cintura y la pelvis, a diferencia de las danzas andinas que suelen centrarse más en el zapateo y el movimiento de piernas.",
+          "seccion": "Conocimientos Disciplinares"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p31",
+      "contexto": "El bodegón, o naturaleza muerta, es un género pictórico en el que se representan objetos inanimados -sobre todo, frutos, flores y utensilios de la vida cotidiana- en un espacio determinado. Si bien tiene sus orígenes en la antigüedad, se volvió muy popular en el arte occidental desde el siglo XVII, dado que daba más libertad compositiva al artista que otros géneros pictóricos como el paisaje y el retrato. La docente de Arte y Cultura conversa con sus estudiantes sobre el origen del bodegón y sus principales características, y les muestra algunas fotografías de bodegones famosos para analizarlas en plenario. Luego, les propone elaborar su propio bodegón, y los estudiantes aceptan entusiasmados. Entonces, la docente les pide que, para la siguiente sesión, traigan algunos objetos que ellos sienten que los representan o que son importantes para ellos. El objetivo es que cada uno haga un bodegón \"personal\" que muestre sus principales características y represente su personalidad por medio de objetos de uso cotidiano significativos para ellos. Además, la docente les pide a los estudiantes que tienen celulares con cámara que, para la siguiente sesión, los traigan para hacer un ejercicio en clase.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Antes de comenzar el diseño del bodegón, la docente busca desarrollar una actividad inicial con los objetos que los estudiantes han llevado al aula. ¿Cuál de las siguientes actividades es más pertinente?",
+          "opciones": [
+            "Que describan las características visuales de los objetos, como su forma, dimensiones, color y textura.",
+            "Que elijan el material que quieren utilizar en su bodegón y hagan un primer dibujo libre de los objetos.",
+            "Que presenten los objetos que han llevado y cuenten a sus compañeros por qué representan su personalidad."
+          ],
+          "respuesta": "Que presenten los objetos que han llevado y cuenten a sus compañeros por qué representan su personalidad.",
+          "respuestaCorta": "Dado que el objetivo es crear un bodegón 'personal', la actividad más pertinente es que los estudiantes verbalicen el significado y la conexión emocional que tienen con los objetos elegidos.",
+          "solucionario": "El propósito central del proyecto es la autoexpresión a través de objetos. Por ello, la primera actividad debe conectar con ese propósito. Hacer que los estudiantes compartan el porqué de su elección afianza el carácter simbólico y personal del trabajo, dándole un sentido más profundo desde el inicio, por encima del análisis formal (A) o la ejecución técnica (B).",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Luego de realizar algunas actividades, la docente propone a los estudiantes que, de manera individual, dispongan sobre su carpeta los objetos que trajeron. Con ayuda de los celulares llevados por algunos de sus compañeros, cada estudiante deberá tomar varias fotografías frontales a sus objetos, probando diferentes combinaciones y organizándolos de distintas formas. Luego, analizarán las fotografías y definirán la combinación de objetos que van a representar en su bodegón y su posición en la pintura. ¿Cuál es el principal propósito de la actividad sugerida por la docente?",
+          "opciones": [
+            "Que los estudiantes descubran y comparen diversas posibilidades de composición.",
+            "Que los estudiantes aprendan a usar las TIC como medio para la creación artística.",
+            "Que los estudiantes exploren las emociones que les producen los objetos escogidos."
+          ],
+          "respuesta": "Que los estudiantes descubran y comparen diversas posibilidades de composición.",
+          "respuestaCorta": "El uso de la cámara para probar diferentes arreglos de los objetos es una estrategia para explorar y tomar decisiones sobre la composición, es decir, sobre cómo organizar los elementos en el espacio.",
+          "solucionario": "La actividad se centra en la organización de los objetos. Al tomar fotografías de distintas combinaciones, los estudiantes pueden visualizar y comparar diferentes composiciones de manera rápida y efectiva. Esto les ayuda a tomar decisiones informadas sobre el equilibrio, el peso visual y la relación entre los objetos antes de empezar a dibujar, siendo el propósito principal la exploración compositiva.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Luego de que los estudiantes deciden qué fotografía utilizar como referencia para su bodegón, la docente les indica que comiencen a dibujar el boceto a lápiz. Joaquín presenta problemas para dibujar correctamente las proporciones de uno de los objetos de su bodegón -un elefante de juguete que tiene desde pequeño y le pide ayuda a la docente. ¿Cuál de las siguientes recomendaciones es más pertinente para que Joaquín consiga su propósito?",
+          "opciones": [
+            "\"Reduce el elefante a formas geométricas básicas y luego vas añadiendo los detalles\".",
+            "\"Dibuja primero la cabeza del elefante; al terminarla, dibuja el cuerpo y, por último, las patas\".",
+            "\"Traza en la cartulina los límites del tamaño que tendrá el elefante y luego lo dibujas dentro de esos límites\"."
+          ],
+          "respuesta": "\"Reduce el elefante a formas geométricas básicas y luego vas añadiendo los detalles\".",
+          "respuestaCorta": "La estrategia de simplificar formas complejas en figuras geométricas básicas (esferas, cilindros, cubos) es un método fundamental en el dibujo para establecer correctamente las proporciones y la estructura antes de añadir detalles.",
+          "solucionario": "Esta recomendación se basa en un principio clave del dibujo constructivo. Al reducir el elefante a formas simples, Joaquín puede enfocarse primero en la relación de tamaño y posición entre las partes principales (cabeza, torso, patas), asegurando que la proporción sea correcta. Una vez que esta 'armadura' geométrica está bien establecida, es mucho más fácil añadir los contornos y detalles específicos.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Luego de hacer el boceto de su bodegón, los estudiantes van a comenzar a pintarlo con la técnica o material que han seleccionado. Dado que varios estudiantes van a utilizar témperas, la docente les pide que se sienten cerca uno del otro para poder acompañarlos. Luego de observar el trabajo de los estudiantes durante un rato, la docente desea activar sus saberes previos sobre cómo realizar mezclas de colores con las témperas; entonces, les pregunta: \"¿Qué debemos hacer para oscurecer un color? ¿Y qué debemos hacer para aclararlo?\". Los estudiantes dan diversas respuestas, pero todos coinciden, equivocadamente, en que, para oscurecer cualquier color, se le debe agregar témpera negra, y que, para aclarar cualquier color, se le debe agregar témpera blanca. Si la docente quiere retroalimentar a los estudiantes, ¿cuál de las siguientes acciones es más pertinente?",
+          "opciones": [
+            "Frente a los estudiantes, oscurecer el color amarillo sobre una paleta agregándole un poco de color negro, y aclarar el color rojo agregándole un poco de color blanco, para que vean por sí mismos el resultado de las mezclas, y preguntarles qué ocurrió al mezclar los colores utilizados.",
+            "Explicarles que no siempre se puede oscurecer un color con negro, pues podría cambiar su matiz, como en el caso del color amarillo, que se vuelve verdoso; y que, a veces, aclarar un color con blanco podría opacarlo y volverlo lechoso, como en el caso del color rojo.",
+            "Pedirles que dibujen varios recuadros en una fila, que pinten el primer recuadro con color blanco y el último con negro y que, en los recuadros intermedios, pinten una secuencia de grises, del más claro al más oscuro, para que observen el efecto que produce la mezcla de estos colores."
+          ],
+          "respuesta": "Frente a los estudiantes, oscurecer el color amarillo sobre una paleta agregándole un poco de color negro, y aclarar el color rojo agregándole un poco de color blanco, para que vean por sí mismos el resultado de las mezclas, y preguntarles qué ocurrió al mezclar los colores utilizados.",
+          "respuestaCorta": "La retroalimentación más eficaz para corregir una idea errónea es la que genera un conflicto cognitivo a través de la demostración práctica, permitiendo que los estudiantes observen el resultado inesperado y reflexionen sobre él.",
+          "solucionario": "La opción A es la más pertinente porque se basa en el descubrimiento guiado. En lugar de simplemente decirles que están equivocados (explicación directa en B), la docente les demuestra el resultado no deseado de sus supuestos (el amarillo se ensucia y se vuelve verdoso). Al preguntarles qué ocurrió, promueve que ellos mismos lleguen a la conclusión de que su regla inicial ('siempre usar negro/blanco') es incorrecta y necesita ser refinada.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Martina desea pintar el fondo de su bodegón con color mostaza. Luego de identificar los colores que necesita para obtener el tono deseado, debe mezclar las témperas para obtenerlo, pero no está segura de las proporciones y no quiere desperdiciar pintura mientras hace sus pruebas. ¿Cuál de las siguientes recomendaciones es pertinente para ayudarla en su propósito?",
+          "opciones": [
+            "\"Al combinar los colores, comienza con los colores más oscuros y empieza a agregar poco a poco los colores más claros hasta lograr el tono que quieres\".",
+            "\"Al combinar los colores, comienza con los colores más claros y empieza a agregar los colores más oscuros en pequeñas cantidades hasta lograr el tono que quieres\".",
+            "\"Al combinar los colores, primero mezcla la misma cantidad de cada uno y luego empieza a agregar aquel color que predomina en la mezcla hasta lograr el tono que quieres\"."
+          ],
+          "respuesta": "\"Al combinar los colores, comienza con los colores más claros y empieza a agregar los colores más oscuros en pequeñas cantidades hasta lograr el tono que quieres\".",
+          "respuestaCorta": "Para mezclar colores de manera eficiente, se debe empezar con el color más claro y añadir gradualmente el más oscuro, ya que los pigmentos oscuros tienen un poder de tinción mucho mayor y pueden 'dominar' la mezcla rápidamente.",
+          "solucionario": "Esta recomendación responde a una propiedad física de los pigmentos. Una pequeña cantidad de un color oscuro altera drásticamente un color claro, pero se necesita mucha cantidad de un color claro para alterar uno oscuro. Por lo tanto, para tener mayor control sobre la mezcla y evitar el desperdicio de pintura, la técnica correcta es partir de la base clara (ej. amarillo) e ir añadiendo el color oscuro (ej. marrón o negro) en porciones mínimas hasta alcanzar el tono deseado.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Qué capacidad del currículo está desarrollando principalmente la docente con Martina al ayudarla con su trabajo?",
+          "opciones": [
+            "Aplica procesos creativos.",
+            "Evalúa y comunica sus procesos y proyectos.",
+            "Explora y experimenta los lenguajes artísticos."
+          ],
+          "respuesta": "Explora y experimenta los lenguajes artísticos.",
+          "respuestaCorta": "La docente está guiando a la estudiante en el uso técnico de los materiales (cómo mezclar témperas), lo cual corresponde directamente a la capacidad de explorar y experimentar con los lenguajes del arte.",
+          "solucionario": "La capacidad 'Explora y experimenta los lenguajes artísticos' se refiere al descubrimiento y uso de los elementos, materiales, técnicas y procedimientos propios de cada lenguaje artístico. Al aconsejar a Martina sobre la mejor manera de mezclar colores, la docente está facilitando su experimentación con las propiedades del color y la técnica de la témpera.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+  
+    {
+      "idGrupo": "asc_secundaria_2021_p37",
+      "contexto": "El bodegón, o naturaleza muerta, es un género pictórico en el que se representan objetos inanimados -sobre todo, frutos, flores y utensilios de la vida cotidiana- en un espacio determinado. (...) la docente les pide que, para la siguiente sesión, traigan algunos objetos que ellos sienten que los representan o que son importantes para ellos. El objetivo es que cada uno haga un bodegón \"personal\" que muestre sus principales características y represente su personalidad por medio de objetos de uso cotidiano significativos para ellos.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Ángel va a pintar con témperas la base de su bodegón, que es una mesa de madera marrón. Él ha notado que el color de la mesa no es uniforme: en la parte de adelante, el marrón es más claro, y las sombras alrededor de los objetos generan tonos de marrón más oscuros. ¿Cuál de las siguientes alternativas es la forma adecuada de mezclar y aplicar los colores en este caso?",
+          "opciones": [
+            "Preparar un marrón medio y pintar toda la base. Luego, con la témpera aún húmeda, aligerar el color en las partes más claras con un pincel mojado con agua, e ir difuminando hasta lograr un tono más claro; y, en las partes más oscuras, aplicar un poco de color marrón mezclado con negro.",
+            "Preparar tres tonos de marrón, uno medio, uno muy claro y uno muy oscuro. Pintar toda la base del bodegón con el marrón medio y, con la témpera aún húmeda, ir aplicando el marrón claro y el marrón muy oscuro en los lugares que correspondan, tratando de difuminar con el pincel entre tono y tono.",
+            "Preparar un marrón medio y pintar toda la base. Esperar a que seque bien y luego ir colocando capas delgadas de color blanco en las zonas más claras, y color negro en las oscuras, hasta lograr gradualmente los matices adecuados, teniendo cuidado de esperar que seque cada capa antes de aplicar otra encima."
+          ],
+          "respuesta": "Preparar tres tonos de marrón, uno medio, uno muy claro y uno muy oscuro. Pintar toda la base del bodegón con el marrón medio y, con la témpera aún húmeda, ir aplicando el marrón claro y el marrón muy oscuro en los lugares que correspondan, tratando de difuminar con el pincel entre tono y tono.",
+          "respuestaCorta": "La técnica más adecuada con témperas para lograr gradaciones de color es preparar los tonos necesarios previamente y aplicarlos mientras la base aún está húmeda ('húmedo sobre húmedo') para poder difuminarlos y lograr transiciones suaves.",
+          "solucionario": "La témpera es una pintura opaca al agua que seca rápido. Para lograr degradados y fusionar colores, la técnica de trabajar 'húmedo sobre húmedo' es la más efectiva. La opción B describe este proceso correctamente: preparar los tres tonos (luz, medio, sombra) de antemano permite aplicarlos rápidamente sobre la base húmeda y mezclarlos en el propio soporte para crear las transiciones deseadas antes de que la pintura se seque.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Luego de algunas sesiones, cuando los estudiantes han terminado sus pinturas, la docente les propone que, en una breve exposición, describan lo que significa su bodegón para ellos y el mensaje que quisieron transmitir, y que describan las decisiones que tomaron en su proceso creativo, tanto a nivel simbólico como técnico. ¿Qué capacidad del currículo se desarrolla principalmente con esta actividad?",
+          "opciones": [
+            "Evalúa y comunica sus procesos y proyectos.",
+            "Explora y experimenta los lenguajes artísticos.",
+            "Contextualiza manifestaciones artístico-culturales."
+          ],
+          "respuesta": "Evalúa y comunica sus procesos y proyectos.",
+          "respuestaCorta": "La actividad pide explícitamente a los estudiantes que reflexionen sobre su proceso y comuniquen sus decisiones y significados, lo cual se alinea directamente con la capacidad de evaluar y comunicar.",
+          "solucionario": "Esta capacidad implica que el estudiante registre sus procesos, analice críticamente las etapas de su proyecto y comparta sus descubrimientos y creaciones. La exposición propuesta, donde deben explicar el significado, el mensaje y las decisiones técnicas, es un ejercicio completo de esta capacidad.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Katty se ofrece como voluntaria y, mostrando su trabajo, describe cómo fue su proceso de creación. Entre otras cosas, dice lo siguiente: \"Ahora me doy cuenta de que no sabía bien cómo pintar con témperas. Me sentía frustrada porque no me salían los colores que quería mezclar. Al ir practicando, me he sentido más confiada y al final he logrado dominar mucho mejor la técnica para representar mi forma de ser a través de mi pintura\". ¿Qué proceso de aprendizaje se evidencia principalmente en la intervención de Katty?",
+          "opciones": [
+            "Metacognición.",
+            "Conflicto cognitivo.",
+            "Transferencia del aprendizaje."
+          ],
+          "respuesta": "Metacognición.",
+          "respuestaCorta": "Katty está reflexionando sobre su propio proceso de aprendizaje: reconoce su estado inicial, las dificultades que enfrentó y cómo la práctica la llevó a una mayor confianza y dominio. Esto es un claro ejemplo de metacognición.",
+          "solucionario": "La metacognición es la habilidad de ser consciente y de regular los propios procesos de aprendizaje. El discurso de Katty evidencia esta capacidad al identificar sus conocimientos previos ('no sabía bien'), sus emociones durante el proceso ('frustrada') y la estrategia que le permitió avanzar ('ir practicando'), mostrando una clara reflexión sobre cómo aprendió.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Luego de que todos los estudiantes presentaron y explicaron su trabajo, la docente se propone que aprecien críticamente los trabajos de sus demás compañeros. Para esto, la docente solicita a los estudiantes que peguen todos los bodegones en las paredes del aula, como si fuera una exposición en una galería. Luego, la docente les propone que cada uno escoja el trabajo de un compañero o compañera, y escriba una pequeña reseña sobre su bodegón. A continuación, se presentan tres fragmentos extraídos de las reseñas escritas por los estudiantes. ¿Cuál de los fragmentos es un análisis exclusivamente formal?",
+          "opciones": [
+            "\"Los colores grises de los objetos son muy parecidos, lo que produce un efecto triste y misterioso, como si se vieran a través de una niebla espesa\".",
+            "\"Los tonos azules y verdes utilizados en el fondo del bodegón se complementan con los tonos rojos y naranjas de los objetos que se encuentran en frente\".",
+            "\"Los colores son muy contrastantes, y esto ayuda a resaltar la extraña combinación de objetos representados, como si no tuvieran ninguna relación entre ellos\"."
+          ],
+          "respuesta": "\"Los tonos azules y verdes utilizados en el fondo del bodegón se complementan con los tonos rojos y naranjas de los objetos que se encuentran en frente\".",
+          "respuestaCorta": "Un análisis formal se limita a describir los elementos visuales y su organización, sin interpretaciones. Esta opción describe una relación de color (complementarios) de manera objetiva.",
+          "solucionario": "El análisis formal se enfoca en los componentes de la obra: color, línea, forma, composición, etc. La opción B describe una relación técnica entre colores (tonos azules/verdes se complementan con rojos/naranjas) sin añadir una interpretación sobre su significado o el efecto emocional que producen. Las otras opciones, en cambio, interpretan los elementos formales para hablar de emociones ('efecto triste') o ideas ('extraña combinación').",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p41",
+      "contexto": "\"Esta técnica de danza moderna está basada en los principios de la contracción y la relajación. Se enfoca en liberar las emociones mediante las contracciones pélvicas y abdominales, la relajación al inspirar, los espasmos de los músculos, los estiramientos y tirones. En esta técnica, el torso es el eje central en la expresión de las emociones. Las contracciones se inician en la pelvis. Los brazos, manos y piernas se usan para crear imágenes y para trasladarse en el espacio. La respiración juega un papel primordial. Todas las contracciones y relajaciones en esta técnica se coordinan con la respiración. La contracción se hace en la exhalación y la relajación se realiza en la inhalación. La relación con el suelo también cobra importancia, los movimientos en esta técnica se asientan en el suelo, caen al suelo, se impulsan desde el suelo para saltar o se sacuden contra el suelo\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿A qué técnica se hace referencia en el texto mostrado?",
+          "opciones": [
+            "Técnica Limón.",
+            "Técnica Graham.",
+            "Técnica Hawkins."
+          ],
+          "respuesta": "Técnica Graham.",
+          "respuestaCorta": "La descripción detalla los principios fundamentales de la técnica de Martha Graham: el ciclo de 'contracción y relajación' originado en la pelvis y coordinado con la respiración como motor de la expresión emocional.",
+          "solucionario": "La técnica Graham, desarrollada por la pionera de la danza moderna Martha Graham, es mundialmente conocida por su principio central de 'contraction and release' (contracción y relajación). El texto describe con precisión sus elementos clave: el foco en el torso, el origen pélvico del movimiento, la coordinación con la respiración (contracción en la exhalación) y la fuerte relación con el suelo.",
+          "seccion": "Conocimientos Disciplinares"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p42",
+      "contexto": "Como primera actividad de una experiencia de aprendizaje de expresión corporal, el docente solicita a los estudiantes que trabajen en parejas. Luego, le entrega un pedazo de tela negra a cada pareja, e indica que uno de los integrantes se tape los ojos con la tela. Los estudiantes que tienen los ojos descubiertos deben tomar la mano de su pareja y guiarla por todo el espacio sin hablar, evitando chocar con los demás.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes aspectos desarrollan principalmente los estudiantes que tienen los ojos tapados durante el ejercicio?",
+          "opciones": [
+            "El control corporal.",
+            "La conciencia espacial.",
+            "La confianza en el compañero."
+          ],
+          "respuesta": "La confianza en el compañero.",
+          "respuestaCorta": "Al estar privado de la vista y depender completamente de su pareja para moverse de forma segura, el estudiante con los ojos vendados desarrolla principalmente la confianza en la otra persona.",
+          "solucionario": "Si bien la conciencia espacial y el control corporal están involucrados, el núcleo de la experiencia para la persona con los ojos tapados es la necesidad de ceder el control y confiar plenamente en que su compañero lo guiará de manera segura. Este ejercicio es un clásico en el teatro y la expresión corporal para construir cohesión y confianza grupal.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p43",
+      "contexto": "Después de realizar una danza que demanda mucha energía, y, para terminar la sesión, una docente propone el siguiente ejercicio a los estudiantes: Les solicita que, de pie, pongan los pies en paralelo a la altura de sus hombros para que tengan mayor equilibrio, y luego les propone cerrar los ojos e imaginar que son una vela derritiéndose. Primero, les pide enfocarse en su cabeza, la cual se inclinará hacia adelante muy lentamente mientras respiran profundo; luego, les indica \"derretir\" las articulaciones del cuello y dejar caer la cabeza hacia adelante. Luego, les pide \"derretir\" los hombros, los codos, las muñecas y los dedos de las manos, dejando caer los brazos hacia adelante. Luego les pide que flexionen las rodillas y bajen lentamente la cadera enrollando todo el cuerpo hasta sentarse en el piso, y que se recuesten y coloquen en posición de decúbito dorsal.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Además de favorecer la vuelta a la calma, ¿qué capacidad desarrolla principalmente la actividad propuesta por la docente?",
+          "opciones": [
+            "Motricidad gruesa.",
+            "Conciencia corporal.",
+            "Atención y concentración."
+          ],
+          "respuesta": "Conciencia corporal.",
+          "respuestaCorta": "El ejercicio requiere que los estudiantes presten atención y relajen secuencialmente cada parte de su cuerpo, lo que desarrolla una mayor conciencia de la propia anatomía y su estado de tensión.",
+          "solucionario": "La conciencia corporal es la capacidad de percibir la posición, el movimiento y el estado de las diferentes partes del cuerpo. La actividad de la 'vela derritiéndose' guía a los estudiantes a través de un escaneo corporal consciente, enfocando su atención en cada articulación y músculo para liberarlo, lo que incrementa su percepción y control sobre el propio cuerpo.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p44",
+      "contexto": "Una docente realiza con sus estudiantes la siguiente actividad: Ella reproducirá en un equipo de sonido diferentes canciones para que los estudiantes dancen libremente tratando de utilizar todas las partes de su cuerpo. En determinados momentos, sin previo aviso, la docente pronunciará la palabra \"foto\" y ellos deberán quedarse inmóviles, cerrar los ojos y hacer un recorrido mental de la postura en la que se encuentran, visualizando la posición de cada parte de su cuerpo. Entonces, la docente le solicita a un voluntario que describa la posición de su cuerpo con los ojos cerrados; por ejemplo, \"Mis brazos apuntan al cielo, mi tronco está inclinado hacia adelante, mi pie derecho está levantado hacia atrás, mi pierna izquierda está un poco flexionada\", etc.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes aspectos están desarrollando principalmente los estudiantes al describir su postura con los ojos cerrados?",
+          "opciones": [
+            "La coordinación espacio-temporal.",
+            "La expresión corporal.",
+            "La propiocepción."
+          ],
+          "respuesta": "La propiocepción.",
+          "respuestaCorta": "La propiocepción es el sentido interno que nos permite percibir la posición y el movimiento de nuestro cuerpo en el espacio. Describir la postura con los ojos cerrados es un ejercicio directo para desarrollar esta capacidad.",
+          "solucionario": "La propiocepción es el sistema a través del cual el cerebro recibe información sobre la posición y el movimiento de las partes del cuerpo entre sí y en relación con su base de soporte. Al cerrar los ojos y describir su postura, los estudiantes no usan la vista, sino que dependen exclusivamente de este 'sexto sentido' para saber dónde están sus extremidades, su tronco, etc., afinando así su sistema propioceptivo.",
+          "seccion": "Conocimientos Disciplinares"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p45",
+      "contexto": "El docente propone el siguiente juego a sus estudiantes: Los estudiantes forman un círculo y el docente les indica que deberán formar \"una criatura\" entre todos. La criatura no es humana, por lo que no pueden hablar, solo se expresa mediante el movimiento. Como todos son parte de una misma criatura, deben moverse al mismo tiempo, complementando sus movimientos para que la criatura realice las acciones propuestas por el docente; por ejemplo, \"la criatura se acaba de despertar\", \"la criatura toma un vaso con agua\", \"la criatura se lava los dientes\". Los estudiantes deben coordinar sus movimientos para darle vida a la criatura sin hablar entre ellos.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes aspectos desarrollan los estudiantes principalmente con el juego descrito?",
+          "opciones": [
+            "La exploración y creación de personajes fantásticos.",
+            "La creación de historias por medio del movimiento corporal.",
+            "La habilidad de trabajar en equipo para el logro de un objetivo común."
+          ],
+          "respuesta": "La habilidad de trabajar en equipo para el logro de un objetivo común.",
+          "respuestaCorta": "El núcleo del juego es que todos los estudiantes deben coordinar sus movimientos de forma no verbal para funcionar como una sola entidad, lo que desarrolla principalmente su capacidad de colaboración y trabajo en equipo.",
+          "solucionario": "Aunque se crea un personaje fantástico (A) y se realizan acciones (B), el principal desafío y aprendizaje del ejercicio radica en la necesidad de escucha corporal, atención al otro y colaboración instantánea. Cada estudiante debe supeditar su impulso individual al movimiento del grupo para que la 'criatura' tenga coherencia. Por ello, la habilidad de trabajar en equipo es el aspecto central.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Qué capacidad del currículo se desarrolla principalmente con el juego \"la criatura\"?",
+          "opciones": [
+            "Aplica procesos creativos.",
+            "Evalúa y comunica sus procesos y proyectos.",
+            "Explora y experimenta los lenguajes artísticos."
+          ],
+          "respuesta": "Explora y experimenta los lenguajes artísticos.",
+          "respuestaCorta": "El juego se centra en que los estudiantes descubran y utilicen las posibilidades del movimiento corporal (el lenguaje artístico) para crear y comunicarse de una manera no convencional.",
+          "solucionario": "La capacidad 'Explora y experimenta los lenguajes artísticos' se enfoca en el juego y el descubrimiento de las posibilidades de los materiales y las técnicas. En este caso, el 'material' es el propio cuerpo y el de los compañeros. Los estudiantes exploran cómo sus movimientos individuales pueden combinarse para crear un todo, experimentando con las posibilidades del lenguaje corporal de forma lúdica y creativa.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p47",
+      "contexto": "Un docente solicita a los estudiantes que formen grupos de ocho integrantes y que, de pie, formen un círculo. Después, indica que un estudiante de cada grupo realice lentamente un movimiento sencillo. El compañero de su derecha debe repetir el movimiento y agregar uno propio. El siguiente estudiante repetirá los dos movimientos anteriores en orden y propondrá un tercero, y así continuará el juego, agregando movimientos a la secuencia, hasta que uno de los estudiantes del círculo se equivoque, y se reinicia el juego desde el comienzo.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Luego de que los estudiantes lograron completar el círculo sin equivocarse, en la segunda vuelta del juego, ¿cuál de las siguientes variaciones agrega mayor dificultad al ejercicio?",
+          "opciones": [
+            "Aumentar la velocidad de los movimientos de la serie.",
+            "Además de repetir los movimientos, agregar un sonido a la secuencia.",
+            "Repetir dos veces el nuevo movimiento que proponga cada estudiante."
+          ],
+          "respuesta": "Además de repetir los movimientos, agregar un sonido a la secuencia.",
+          "respuestaCorta": "Añadir una secuencia de sonidos paralela a la de movimientos duplica la cantidad de información que se debe memorizar y ejecutar, aumentando significativamente la dificultad cognitiva del ejercicio.",
+          "solucionario": "El desafío original del juego es la memoria secuencial kinestésica. Aumentar la velocidad (A) o repetir un movimiento (C) incrementa la dificultad física o de memoria, pero agregar una capa completamente nueva de información (sonidos) que debe ser recordada en el mismo orden que los movimientos, representa un salto mayor en la complejidad cognitiva, ya que exige procesar dos canales de información simultáneamente.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Cuál de las siguientes funciones ejecutivas se requiere principalmente en la actividad descrita?",
+          "opciones": [
+            "Memoria de trabajo.",
+            "Flexibilidad cognitiva.",
+            "Anticipación."
+          ],
+          "respuesta": "Memoria de trabajo.",
+          "respuestaCorta": "La actividad exige que los estudiantes retengan activamente una secuencia de movimientos en su mente, la actualicen constantemente con un nuevo movimiento y la ejecuten, lo cual es la función principal de la memoria de trabajo.",
+          "solucionario": "La memoria de trabajo es el sistema que nos permite mantener y manipular información temporalmente para realizar tareas cognitivas complejas. En este juego, los estudiantes deben 'sostener' la secuencia de movimientos en su mente, añadir un nuevo elemento y 'reproducir' la secuencia actualizada. Esta constante retención y actualización de información es un ejercicio directo para la memoria de trabajo.",
+          "seccion": "Conocimientos Disciplinares"
+        }
+      ]
+    },
+  
+    {
+      "idGrupo": "asc_secundaria_2021_p49",
+      "contexto": "El Teatro de objetos es una práctica teatral en cuyo centro no se encuentra la figura humana (en forma de actor, títere u otra representación), sino que utiliza objetos cotidianos no necesariamente diseñados para la escena, dándole vida a algo que no la tiene. Se trata de un teatro con predominio de lo visual, más emparentado con las artes figurativas que con otras formas del teatro. El objeto se presenta y el público necesita tiempo para procesar su existencia escénica y su opción de cobrar vida. Una vez que esto ocurre, su sobriedad en la acción irá contando las posibilidades que tiene de mostrar la historia. El actor, cuando existe, se integra en el espacio, a veces a través de elementos escenográficos o del vestuario, y no interpreta un personaje.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Si el docente se propone que los estudiantes conozcan y exploren el Teatro de objetos, ¿cuál de las siguientes actividades es adecuada?",
+          "opciones": [
+            "Indicar a los estudiantes que creen una breve obra teatral y que, mientras la representan, se desplacen por el escenario utilizando los objetos que se encuentran en la escenografía, interactuando con ellos.",
+            "Solicitar a los estudiantes que elaboren una breve historia teatral actuada por objetos que encuentren en su entorno, y que les den movimiento y voz según las acciones planteadas en cada escena.",
+            "Brindar un guion de una obra teatral para que los estudiantes la representen y, para dar vida a sus personajes, pedirles que seleccionen objetos de utilería como accesorios para caracterizar al personaje que van a interpretar."
+          ],
+          "respuesta": "Solicitar a los estudiantes que elaboren una breve historia teatral actuada por objetos que encuentren en su entorno, y que les den movimiento y voz según las acciones planteadas en cada escena.",
+          "respuestaCorta": "Esta actividad es la más adecuada porque aplica directamente la definición de Teatro de objetos: los objetos mismos son los 'actores' que cuentan una historia a través del movimiento y la voz que les dan los estudiantes.",
+          "solucionario": "La esencia del Teatro de objetos es que los objetos son los protagonistas. La opción B es la única que cumple con este principio, al proponer que los estudiantes creen una historia donde los objetos son los personajes. Las otras opciones utilizan los objetos de manera convencional: como parte de la escenografía (A) o como accesorios de un actor humano (C).",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p50",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "En el teatro, ¿cuál de las siguientes afirmaciones sobre las funciones del vestuario es correcta?",
+          "opciones": [
+            "El vestuario es un elemento indispensable para dar verosimilitud a los hechos representados en el escenario.",
+            "El vestuario debe representar fidedignamente la época y ubicación geográfica en que transcurre la obra teatral.",
+            "El vestuario puede ayudar a los actores a representar una profesión, clase social o personalidad."
+          ],
+          "respuesta": "El vestuario puede ayudar a los actores a representar una profesión, clase social o personalidad.",
+          "respuestaCorta": "El vestuario es una herramienta semiótica clave que comunica información esencial sobre el personaje, como su estatus, oficio o rasgos de su personalidad, sin necesidad de que sea explícitamente realista.",
+          "solucionario": "La función del vestuario en el teatro es multifacética y no se limita al realismo. Mientras que las opciones A y B proponen reglas rígidas de verosimilitud, la opción C describe su función comunicativa más amplia y fundamental. Un vestuario, sea realista o simbólico, es un signo que transmite al público información clave sobre quién es el personaje.",
+          "seccion": "Conocimientos Disciplinares"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p51",
+      "contexto": "Los estudiantes han escrito una obra teatral y deciden presentarla durante la celebración del aniversario de la IE. Durante el proceso de ensayo, los estudiantes han trabajado y dominado sus posiciones y desplazamientos escénicos, leyendo su texto directamente del libreto cuando no podían recordarlo. En la siguiente etapa del proceso, el docente les pide a los actores que ya no utilicen los libretos, sino que actúen sin leer sus textos. Al dejar los libretos, los estudiantes se equivocan constantemente, tanto en el texto de la obra como en las posiciones y desplazamientos que ya habían dominado en la etapa anterior.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes alternativas es la acción pertinente para favorecer el proceso de ensayo en esta etapa?",
+          "opciones": [
+            "Recomendar a los estudiantes abandonar los ensayos escénicos y volver a concentrarse en memorizar sus textos; en cuanto hayan memorizado todos sus textos, podrán retomar los ensayos escénicos con mayor solvencia.",
+            "Ensayar la primera escena muchas veces hasta que logren dominar los desplazamientos y el texto a la perfección; luego, continuar con la segunda escena y, así, hasta que dominen los desplazamientos y textos de la obra completa.",
+            "Continuar con los ensayos planificados normalmente, dejando que los estudiantes interioricen naturalmente la combinación de las indicaciones de desplazamiento que ya habían dominado con la memorización del texto."
+          ],
+          "respuesta": "Continuar con los ensayos planificados normalmente, dejando que los estudiantes interioricen naturalmente la combinación de las indicaciones de desplazamiento que ya habían dominado con la memorización del texto.",
+          "respuestaCorta": "La acción pertinente es continuar ensayando de forma integral, ya que la actuación requiere la síntesis del texto y el movimiento, un proceso que se logra a través de la repetición y no de la práctica aislada de sus partes.",
+          "solucionario": "Este es un momento normal en el proceso de ensayo conocido como 'crisis del libreto'. Separar el texto del movimiento (A) es contraproducente, ya que deben aprenderse juntos. Ensayar una escena hasta la perfección (B) puede ser muy lento y frustrante. Lo más efectivo es seguir ensayando la obra completa (C), permitiendo que los errores ocurran, ya que es a través de la repetición del ensayo integrado que el cerebro del actor asocia las palabras con los movimientos hasta que se vuelven una unidad natural.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p52",
+      "contexto": "Un estudiante va a interpretar a un personaje teatral llamado \"Anselmo\". Para la construcción del personaje, ha leído el guion de la obra y ha escrito la siguiente descripción: \"Anselmo fue un hacendado muy rico en el norte del Perú que perdió su fortuna luego de ser estafado por sus socios. Ahora es un anciano debilitado, amargado y empobrecido. Él se siente muy frustrado y, en ocasiones, es prepotente. Al final de la obra, descubrirá que aún tiene muchas razones para sonreír\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "El docente observa que el estudiante tiene dificultades para la construcción de su personaje, y decide sugerirle que use una pieza de utilería que lo ayude a caracterizar a Anselmo. ¿Cuál de las siguientes sugerencias es más pertinente?",
+          "opciones": [
+            "Un bastón, que ayude a expresar la vejez del personaje y que puede ser utilizado para golpear con fuerza el piso en un arrebato.",
+            "Un fino pañuelo de seda muy envejecido, que puede ayudar al estudiante a expresar la decadencia económica del personaje.",
+            "Una pipa, que lo ayude a expresar las costumbres anticuadas del personaje y la falta de cuidado por su propia salud."
+          ],
+          "respuesta": "Un bastón, que ayude a expresar la vejez del personaje y que puede ser utilizado para golpear con fuerza el piso en un arrebato.",
+          "respuestaCorta": "Un bastón es la utilería más pertinente porque permite al actor explorar la dualidad del personaje: su debilidad física (apoyo para caminar) y sus arranques de prepotencia (golpear el piso), encarnando su conflicto interno.",
+          "solucionario": "Un buen objeto de utilería ayuda al actor a encontrar la fisicalidad y las acciones del personaje. El bastón es ideal para Anselmo porque tiene un doble uso que refleja su complejidad: por un lado, materializa su vejez y fragilidad; por otro, puede transformarse en un símbolo de su antigua autoridad y su frustración presente, ofreciendo ricas posibilidades de exploración actoral.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p53",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Durante el proceso de montaje de una obra teatral, ¿en qué momento es más apropiado realizar un ensayo técnico?",
+          "opciones": [
+            "Al inicio del proceso de montaje.",
+            "A mitad del proceso de montaje.",
+            "Al final del proceso de montaje."
+          ],
+          "respuesta": "Al final del proceso de montaje.",
+          "respuestaCorta": "El ensayo técnico se realiza al final, justo antes de los ensayos generales, cuando la puesta en escena de los actores está consolidada y lista para ser integrada con las luces, el sonido y otros efectos.",
+          "solucionario": "El proceso de montaje sigue una secuencia lógica. Primero, los actores trabajan el texto y los movimientos. Una vez que la parte actoral está segura y definida, se realiza el ensayo técnico para coordinar con precisión las entradas de luces, pistas de sonido, cambios de escenografía, etc. Hacerlo antes sería ineficiente, ya que la actuación aún podría cambiar.",
+          "seccion": "Conocimientos Disciplinares"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p54",
+      "contexto": "Los estudiantes han llevado a la clase botellas de plástico del mismo tamaño. La docente les solicita que las llenen con diferentes cantidades de agua y las ordenen secuencialmente, de la que tiene menos agua a la que tiene más agua. Luego, la docente les propone explorar los sonidos que se producen al soplar en el pico de las botellas.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué característica del sonido se modifica principalmente según la cantidad de agua en cada botella?",
+          "opciones": [
+            "La intensidad.",
+            "El timbre.",
+            "La altura."
+          ],
+          "respuesta": "La altura.",
+          "respuestaCorta": "Al soplar, la vibración de la columna de aire produce el sonido. Menos agua significa más aire, que vibra más lento (sonido grave). Más agua significa menos aire, que vibra más rápido (sonido agudo). Por lo tanto, se modifica la altura (tono).",
+          "solucionario": "La altura o tono de un sonido depende de su frecuencia de vibración. Al soplar en el pico de la botella, lo que vibra es la columna de aire. Una columna de aire más larga (en la botella con menos agua) vibra con menor frecuencia, produciendo un sonido más grave. Una columna de aire más corta (en la botella con más agua) vibra con mayor frecuencia, produciendo un sonido más agudo.",
+          "seccion": "Conocimientos Disciplinares"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p55",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Los estudiantes van a apreciar por primera vez una obra de música clásica. Si el docente se propone que los estudiantes se inicien en la apreciación del timbre en una composición musical, ¿cuál de las siguientes obras musicales es más apropiada?",
+          "opciones": [
+            "Una obra para un violonchelo, una viola y un violín.",
+            "Una obra para un conjunto de tres trompetas.",
+            "Una obra para una flauta y un clarinete."
+          ],
+          "respuesta": "Una obra para una flauta y un clarinete.",
+          "respuestaCorta": "Para iniciarse en la apreciación del timbre, es ideal una obra con pocos instrumentos de familias diferentes, ya que sus 'colores' de sonido son muy distintos y fáciles de diferenciar, como los de una flauta y un clarinete.",
+          "solucionario": "El timbre es la cualidad que permite distinguir la fuente del sonido. Para un oyente novel, es más fácil diferenciar timbres muy contrastantes. Un trío de cuerdas (A) o un trío de trompetas (B) presentan instrumentos de la misma familia, con timbres similares. En cambio, una flauta (viento madera, sin caña) y un clarinete (viento madera, con caña simple) tienen timbres marcadamente diferentes, lo que facilita su identificación auditiva.",
+          "seccion": "Conocimientos Disciplinares"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p56",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes instrumentos pertenece a la categoría de vientos maderas?",
+          "opciones": [
+            "Clarinete.",
+            "Trompeta.",
+            "Tuba."
+          ],
+          "respuesta": "Clarinete.",
+          "respuestaCorta": "El clarinete pertenece a la familia de vientos maderas porque produce su sonido a través de la vibración de una caña de madera, a diferencia de los vientos metales que usan la vibración de los labios.",
+          "solucionario": "La clasificación de los instrumentos de viento en 'maderas' y 'metales' no se basa en el material de construcción del instrumento, sino en el método de producción del sonido. Los vientos maderas utilizan una caña (simple o doble) o un bisel (como la flauta). El clarinete usa una caña simple. La trompeta y la tuba son vientos metales, donde el sonido se origina por la vibración de los labios del ejecutante en una boquilla.",
+          "seccion": "Conocimientos Disciplinares"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p57",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes instrumentos tiene un sonido que suele ser asociado con contenidos heroicos o épicos en la música sinfónica y en la música para cine?",
+          "opciones": [
+            "Corno francés.",
+            "Xilófono.",
+            "Oboe."
+          ],
+          "respuesta": "Corno francés.",
+          "respuestaCorta": "El corno francés (o trompa) tiene un timbre noble, redondo y potente que es utilizado frecuentemente por los compositores para evocar fanfarrias, temas heroicos y atmósferas épicas.",
+          "solucionario": "Por convención histórica y por sus cualidades sonoras, el corno francés se ha consolidado en el imaginario musical como el instrumento de lo heroico y lo grandioso. Su sonido puede ser tanto potente y brillante como lírico y melancólico, pero es en los pasajes de carácter épico donde su rol es más icónico, especialmente en la música para cine (por ejemplo, en las bandas sonoras de John Williams).",
+          "seccion": "Conocimientos Disciplinares"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p58",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "El docente va a proponer a los estudiantes que exploren el uso de un instrumento de percusión de sonido indeterminado, o entonación indefinida. ¿Cuál de los siguientes instrumentos es adecuado para ello?",
+          "opciones": [
+            "Campanas tubulares.",
+            "Platillos de choque.",
+            "Marimba."
+          ],
+          "respuesta": "Platillos de choque.",
+          "respuestaCorta": "Los platillos de choque producen un sonido complejo sin una altura o nota musical definida, por lo que son un instrumento de percusión de sonido indeterminado.",
+          "solucionario": "Los instrumentos de percusión se clasifican en dos grandes grupos. Los de sonido determinado (o de entonación definida) pueden producir notas musicales específicas, como la marimba y las campanas tubulares. Los de sonido indeterminado (o de entonación indefinida) producen sonidos de altura no definida, como los platillos de choque, el bombo o el triángulo.",
+          "seccion": "Conocimientos Disciplinares"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p59",
+      "contexto": "El docente propone el siguiente juego a sus estudiantes: Formados en un círculo, los estudiantes deberán decir entre todos la frase \"un pato, dos piernas, cuac\", pero cada estudiante dirá solamente una palabra. El primer estudiante dice \"un\", el estudiante de su derecha dice \"pato\", el siguiente dice \"dos\" y así hasta terminar la frase. Luego, continúan con la frase \"dos patos, cuatro piernas, cuac cuac\", y se sigue la misma dinámica. Luego, continúan con la frase \"tres patos, seis piernas, cuac, cuac, cuac\". El juego solo termina cuando toda la clase ha participado sin cometer ningún error.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes aspectos se desarrolla principalmente con el juego descrito?",
+          "opciones": [
+            "La atención y concentración.",
+            "La expresión vocal en un contexto lúdico.",
+            "La comunicación y colaboración entre compañeros."
+          ],
+          "respuesta": "La atención y concentración.",
+          "respuestaCorta": "El juego requiere que cada estudiante esté constantemente alerta, siguiendo la secuencia y anticipando su turno para decir la palabra correcta, lo que lo convierte en un ejercicio intensivo de atención y concentración.",
+          "solucionario": "Si bien hay elementos de expresión vocal y colaboración, el principal desafío cognitivo del juego es mantener la concentración. Cada estudiante debe seguir el ritmo, recordar qué palabra viene a continuación y saber cuándo es su turno. Un solo momento de distracción puede hacer que se equivoque y el grupo deba reiniciar, por lo que la atención sostenida es clave.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Al realizar la actividad, el docente nota que a algunos estudiantes les cuesta decir solo una palabra de la serie y dicen la frase completa, a pesar de que han comprendido bien las instrucciones. ¿Cuál de las siguientes funciones ejecutivas se relaciona principalmente con la dificultad presentada por los estudiantes?",
+          "opciones": [
+            "Planificación.",
+            "Control inhibitorio.",
+            "Flexibilidad cognitiva."
+          ],
+          "respuesta": "Control inhibitorio.",
+          "respuestaCorta": "La dificultad para frenar el impulso de decir una frase completa y conocida, para en su lugar decir solo una palabra, está directamente relacionada con el control inhibitorio, que es la capacidad de suprimir respuestas automáticas.",
+          "solucionario": "El control inhibitorio es una función ejecutiva que nos permite regular nuestros impulsos y detener comportamientos automáticos. Las frases del juego son secuencias lógicas que nuestro cerebro tiende a completar. La tarea de decir solo una palabra exige inhibir activamente esa tendencia automática. La dificultad de los estudiantes para hacerlo evidencia un desafío en su control inhibitorio.",
+          "seccion": "Conocimientos Disciplinares"
+        }
+      ]
+    }
+  ]
+}
+  
