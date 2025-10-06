@@ -1,0 +1,1149 @@
+{
+  "completo": [
+    {
+      "idGrupo": "asc_secundaria_2021_p01",
+      "contexto": "Con el propósito de promover la comprensión de los porcentajes, un docente presenta a los estudiantes el siguiente problema:\n\nEn nuestro planeta, hay alrededor de 1400 millones de kilómetros cúbicos de agua. De estos, el 2,5% es agua dulce. A su vez, solo el 1% del agua dulce está en las cuencas hidrográficas en forma de arroyos y ríos.\n\n¿Cuántos kilómetros cúbicos de agua dulce hay en las cuencas hidrográficas? Explica tu procedimiento.\n\nUn estudiante explica su procedimiento de resolución:\nSumamos los porcentajes: 2,5% + 1% = 3,5%\nEntonces, el agua dulce que hay en las cuencas hidrográficas es:\n3,5% x 1400 millones de kilómetros cúbicos = 49 millones de kilómetros cúbicos",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes acciones de retroalimentación es más pertinente para que el estudiante reflexione sobre su error?",
+          "opciones": [
+            "Sugerirle que primero debe determinar la cantidad de agua dulce que hay en el planeta, efectuando: 2,5% x 1400 millones. Luego, preguntarle por el resultado del 1% de esa cantidad y qué se concluye.",
+            "Proponerle que encuentre la cantidad de agua dulce que hay en el planeta y preguntarle a qué cantidad se aplica el 1% indicado. Luego, preguntarle si ambos porcentajes se aplican a la misma cantidad y si está bien sumarlos.",
+            "Pedirle que asuma que la cantidad total de agua en el planeta es 100 kilómetros cúbicos y que halle la cantidad de agua dulce. Luego, usando la cantidad hallada, pedirle que obtenga el 1% de dicha cantidad y que revise su respuesta."
+          ],
+          "respuesta": "Proponerle que encuentre la cantidad de agua dulce que hay en el planeta y preguntarle a qué cantidad se aplica el 1% indicado. Luego, preguntarle si ambos porcentajes se aplican a la misma cantidad y si está bien sumarlos.",
+          "respuestaCorta": "La retroalimentación debe guiar al estudiante a identificar que los porcentajes se aplican a bases de cálculo diferentes, por lo que no pueden sumarse directamente.",
+          "solucionario": "El error del estudiante radica en sumar porcentajes que corresponden a totales distintos (2,5% del total de agua y 1% del total de agua dulce). La opción B es la más pertinente porque, a través de preguntas reflexivas, guía al estudiante a descubrir por sí mismo la naturaleza de su error: que el 1% se aplica a una cantidad ya reducida (el agua dulce), y no al total original. Este enfoque promueve el razonamiento y la autonomía, en lugar de solo corregir el cálculo.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p02",
+      "contexto": "Durante la preparación de una sesión de aprendizaje, un docente decidió utilizar los resultados de una encuesta hecha a 25 estudiantes de primer grado acerca de la cantidad de frutas que diariamente consume cada uno.\nLa siguiente tabla presenta los resultados de la encuesta.",
+      "imagen": "img/ascenso/secundaria/2021/matematica/1.jpg",
+      "preguntas": [
+        {
+          "pregunta": "A partir de los resultados de esta encuesta, el docente quiere formular una pregunta para recoger información acerca del indicador de evaluación \"Emplea estrategias de cálculo para resolver problemas que involucran operaciones con expresiones porcentuales\".\n¿Cuál de las siguientes preguntas es más pertinente para recoger información de dicho indicador?",
+          "opciones": [
+            "¿Qué porcentaje de los estudiantes son los que comen a diario más de 3 frutas?",
+            "Con respecto de los que sí consumen frutas, ¿qué porcentaje constituye aquellos que comen a diario únicamente 1 fruta?",
+            "La cantidad de estudiantes que consumen a diario una o más frutas, ¿en cuántos puntos porcentuales supera a la cantidad que no la consumen?"
+          ],
+          "respuesta": "La cantidad de estudiantes que consumen a diario una o más frutas, ¿en cuántos puntos porcentuales supera a la cantidad que no la consumen?",
+          "respuestaCorta": "Esta pregunta es la más completa, ya que requiere calcular dos porcentajes distintos y luego hallar la diferencia entre ellos, movilizando más estrategias de cálculo que las otras opciones.",
+          "solucionario": "La opción C es la más pertinente porque evalúa de manera más integral el indicador. Para responderla, el estudiante debe primero identificar los grupos (los que no consumen: 6; los que sí consumen: 25-6=19), luego calcular el porcentaje de cada grupo respecto al total (6/25 = 24%; 19/25 = 76%), y finalmente, encontrar la diferencia porcentual (76% - 24% = 52 puntos porcentuales). Este proceso involucra múltiples pasos y una comprensión más profunda de los porcentajes en comparación con las otras opciones que solo piden un cálculo de porcentaje simple.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p03",
+      "contexto": "Una docente busca promover el aprendizaje de la noción de notación científica en los estudiantes de tercer grado.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes acciones pedagógicas es más pertinente para ese propósito?",
+          "opciones": [
+            "Proponer ejemplos de números expresados en notación científica y de la técnica de cómo representar cantidades mediante esta notación. Luego, pedir que aplicando dicha técnica, desarrollen ejercicios y problemas de distinta demanda cognitiva.",
+            "Preguntar por lo que conocen acerca de la multiplicación y la división de números decimales por potencias de 10. Luego, indicar las características de un número expresado en notación científica y pedir que averigüen diez ejemplos donde se haga uso de esta notación.",
+            "Entregar textos con situaciones que involucran cantidades expresadas en notación científica. Luego, preguntar por las características comunes de estas cantidades y por las ventajas de expresarlas en esta notación. Además, proponer problemas que involucren dicha notación."
+          ],
+          "respuesta": "Entregar textos con situaciones que involucran cantidades expresadas en notación científica. Luego, preguntar por las características comunes de estas cantidades y por las ventajas de expresarlas en esta notación. Además, proponer problemas que involucren dicha notación.",
+          "respuestaCorta": "La opción más pertinente promueve el aprendizaje por descubrimiento, partiendo de situaciones contextualizadas para que los estudiantes infieran las reglas y la utilidad de la notación científica.",
+          "solucionario": "La acción C corresponde a un enfoque constructivista y de indagación. Al presentar la notación científica en contextos reales, se motiva al estudiante a descubrir su propósito y sus reglas de forma significativa. Las preguntas sobre las \"características comunes\" y las \"ventajas\" guían a los estudiantes a construir el concepto por sí mismos, en lugar de recibir una definición y una técnica de forma pasiva (opción A) o descontextualizada (opción B). Este método fomenta una comprensión más profunda y duradera.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p04",
+      "contexto": "La estimación es una habilidad matemática importante que consiste en valorar una cantidad o resultado numérico.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Entre las siguientes características, ¿cuál corresponde a la estimación?",
+          "opciones": [
+            "Generalmente, se realiza a base del cálculo mental.",
+            "El valor asignado es preciso e indiscutible desde la perspectiva matemática.",
+            "Hace uso de fórmulas y cálculos para obtener resultados numéricos enteros."
+          ],
+          "respuesta": "Generalmente, se realiza a base del cálculo mental.",
+          "respuestaCorta": "La estimación se caracteriza por ser un cálculo aproximado y rápido, por lo que comúnmente se apoya en el cálculo mental y no busca una precisión absoluta.",
+          "solucionario": "La estimación es el proceso de encontrar un valor aproximado a uno real. Por su naturaleza, busca ser rápida y funcional, por lo que se apoya fuertemente en el cálculo mental y el redondeo. A diferencia de un cálculo exacto, su resultado no es preciso ni indiscutible (opción B), y no siempre se basa en fórmulas estrictas ni produce necesariamente números enteros (opción C). Su principal característica es la aproximación mental.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p05",
+      "contexto": "Una docente pide que los estudiantes de cuarto grado determinen en cuál o cuáles de los conjuntos numéricos (enteros, racionales, irracionales o reales), excluyendo al cero como divisor, la división cumple la siguiente propiedad:\nLa propiedad de clausura se cumple cuando al realizar una operación matemática con dos números cualquiera que pertenecen a cierto conjunto numérico, el resultado de dicha operación es un número que siempre pertenece al mismo conjunto.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Tres estudiantes contestan. ¿Quién responde correctamente?",
+          "opciones": [
+            "Carmen dice: \"En dos conjuntos: en el conjunto de números racionales y en el de números reales\".",
+            "Gloria dice: \"Únicamente en el conjunto de números reales; no en los otros conjuntos numéricos mencionados\".",
+            "Marco dice: \"En el conjunto de números enteros, en el de los racionales, en el de los irracionales y, también, en el de los reales\"."
+          ],
+          "respuesta": "Carmen dice: \"En dos conjuntos: en el conjunto de números racionales y en el de números reales\".",
+          "respuestaCorta": "La propiedad de clausura para la división (sin dividir por cero) se cumple en los racionales y en los reales, pero no en los enteros ni en los irracionales.",
+          "solucionario": "Analicemos cada conjunto: \n- Enteros (Z): No cumple. 5 dividido entre 2 es 2,5, que no es entero.\n- Racionales (Q): Sí cumple. La división de dos fracciones (con divisor no nulo) siempre resulta en otra fracción.\n- Irracionales (I): No cumple. La división de dos irracionales puede dar un racional (ej: √2 / √2 = 1).\n- Reales (R): Sí cumple. La división de dos reales (con divisor no nulo) siempre resulta en otro número real.\nPor lo tanto, Carmen da la respuesta correcta al identificar los conjuntos de números racionales y reales.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p06",
+      "contexto": "En una sesión en la que los estudiantes de primer grado resuelven problemas que involucran operaciones con números enteros, la docente les planteó el siguiente problema:\n\nJuana es comerciante y dispone de 1200 soles para invertir en la compra de zapatos. Ella preselecciona las ofertas de dos proveedores por el mismo tipo de zapatos. Luego, decide invertir los 1200 soles comprándole al proveedor que le ofreció 10 pares de zapatos más que el otro. Si el proveedor le entregó, en total, 50 pares de zapatos por los 1200 soles, determina la cantidad de soles que ahorró en cada par de zapatos, en comparación con lo ofrecido por el otro proveedor.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Para dar respuesta al problema, tres estudiantes plantearon distintas expresiones. ¿Quién propuso una expresión correcta?",
+          "opciones": [
+            "Alberto planteó: 1200/50 - 1200/(50-10)",
+            "Bianca planteó: 1200/50 - 1200/(50+10)",
+            "Luz planteó: 1200/(50-10) - 1200/50"
+          ],
+          "respuesta": "Luz planteó: 1200/(50-10) - 1200/50",
+          "respuestaCorta": "La expresión correcta calcula la diferencia entre el precio por par del otro proveedor (precio más alto) y el precio por par del proveedor elegido (precio más bajo).",
+          "solucionario": "Para encontrar el ahorro por par, se debe restar el precio unitario menor del precio unitario mayor. \n- El proveedor elegido vendió 50 pares por 1200 soles, entonces el precio por par es 1200/50.\n- El otro proveedor hubiera vendido 10 pares menos por el mismo monto, es decir, 40 pares (50-10). Su precio por par hubiera sido 1200/40.\n- El ahorro es la diferencia: (Precio del otro proveedor) - (Precio del proveedor elegido) = (1200 / (50-10)) - (1200/50). Esta es la expresión que planteó Luz.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p07",
+      "contexto": "Una docente pidió a los estudiantes que formulen un problema que en su proceso de resolución requiera efectuar la siguiente multiplicación: 4 1/2 x 3/4.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Entre los siguientes problemas formulados por tres estudiantes, ¿cuál corresponde a lo requerido por la docente?",
+          "opciones": [
+            "Delia pintará un muro rectangular que tiene 4 1/2 metros de largo y 3/4 de metro de altura. ¿Cuánto es el área del muro que pintará Delia?",
+            "Zenón ha preparado 4 1/2 litros de chicha y quiere colocar toda esa chicha en botellas de 3/4 de litro. ¿Cuántas botellas de 3/4 de litro llenará Zenón?",
+            "Un caño, con un caudal constante, llena un tanque vacío en 4 1/2 horas. Si se usa el caño con 3/4 del caudal, ¿cuánto tardará en llenarse el tanque vacío?"
+          ],
+          "respuesta": "Delia pintará un muro rectangular que tiene 4 1/2 metros de largo y 3/4 de metro de altura. ¿Cuánto es el área del muro que pintará Delia?",
+          "respuestaCorta": "El cálculo del área de un rectángulo (largo x altura) se corresponde directamente con la operación de multiplicación de las dos fracciones dadas.",
+          "solucionario": "La docente pidió un problema que se resuelva con la multiplicación 4 1/2 x 3/4. \n- La opción A (problema de Delia) pide calcular el área de un muro, que se obtiene multiplicando su largo por su altura (4 1/2 x 3/4), lo cual es correcto.\n- La opción B (problema de Zenón) es un problema de reparto que se resuelve con una división (4 1/2 ÷ 3/4).\n- La opción C es un problema de proporcionalidad inversa que requiere un planteamiento diferente, no una multiplicación directa de esos dos números.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p08",
+      "contexto": "Una docente de tercer grado tiene como propósito promover el conocimiento de los diferentes significados de la fracción. Por ello, bosqueja la siguiente situación:\n\nMaría, Juan y Carlos reciben como regalo una barra de chocolate cada uno. Las barras de chocolates que recibieron son iguales entre sí.\n\nEsta situación debe completarse añadiendo datos y una pregunta para abordar el significado de la fracción como operador, que es aquella que transforma una cantidad mediante una relación multiplicativa.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes alternativas es más adecuada para ello?",
+          "opciones": [
+            "Carlos guardó 1/4 de su chocolate, Juan guardó 1/3 de su chocolate y María guardó 1/6 de su chocolate. ¿Quién guardó una fracción mayor de chocolate? Explica tu respuesta.",
+            "Carlos comió 1/4 de su chocolate, Juan comió 1/3 de su chocolate y María comió 1/6 de su chocolate. Si cada chocolate tiene 120 gramos, ¿cuántos gramos de chocolate comió cada uno? Explica tu respuesta.",
+            "Carlos invitó 1/4 de su chocolate a 6 amigos, Juan invitó 1/3 del suyo a 8 amigos y María invitó 1/6 a 4 amigos. ¿A qué parte de un chocolate equivale lo que invitaron, en total, los tres estudiantes? Explica tu respuesta."
+          ],
+          "respuesta": "Carlos comió 1/4 de su chocolate, Juan comió 1/3 de su chocolate y María comió 1/6 de su chocolate. Si cada chocolate tiene 120 gramos, ¿cuántos gramos de chocolate comió cada uno? Explica tu respuesta.",
+          "respuestaCorta": "Para abordar la fracción como operador, se debe aplicar la fracción a una cantidad total para transformarla, como calcular 1/4 'de' 120 gramos.",
+          "solucionario": "El significado de la fracción como operador implica usarla para actuar sobre una cantidad, modificándola. La opción B es la más adecuada porque pide calcular una fracción 'de' una cantidad total (ej: 1/4 de 120g). Aquí, la fracción opera sobre el número 120. La opción A se enfoca en la comparación de fracciones (parte-todo) y la opción C se enfoca en la suma de fracciones, pero no en el rol de operador sobre una cantidad inicial dada.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p09",
+      "contexto": "Uno de los propósitos de una sesión de aprendizaje es promover la comprensión de los estudiantes de cuarto grado sobre los números irracionales. En ese marco, el docente les comenta que, en la actividad escolar y cotidiana, se utilizan de diversas maneras algunos números irracionales, como el número π. Luego, dialogan acerca del número π.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Entre las siguientes afirmaciones de tres estudiantes, ¿cuál expresa una comprensión del número π como un número irracional?",
+          "opciones": [
+            "Bernardo dice: \"Sabemos que el número π es un número decimal y vale 3,14. Con este valor se puede calcular el área exacta de una zona circular\".",
+            "Adela dice: \"Si medimos el contorno y el diámetro de un objeto circular, y luego dividimos la primera medida entre la segunda, obtenemos el número π\".",
+            "Catalina dice: \"Yo sé que el número π es imposible obtenerlo por medio de una división de un número entero entre otro número entero distinto de cero\"."
+          ],
+          "respuesta": "Catalina dice: \"Yo sé que el número π es imposible obtenerlo por medio de una división de un número entero entre otro número entero distinto de cero\".",
+          "respuestaCorta": "La definición fundamental de un número irracional es que no puede ser expresado como una fracción de dos enteros (un número racional).",
+          "solucionario": "Un número irracional es aquel que no puede representarse como el cociente de dos números enteros. La afirmación de Catalina se alinea perfectamente con esta definición. La afirmación de Bernardo es incorrecta porque 3,14 es solo una aproximación racional de π, no su valor exacto. La afirmación de Adela describe la relación que define a π, pero no aborda su naturaleza irracional; además, la medición física siempre produce valores racionales y aproximados.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p10",
+      "contexto": "Para hidratarse durante una caminata grupal, Carlos está llevando 3 botellas con 600 mililitros de agua en cada una. Dos de estas botellas las entregará a sus compañeros Alberto y Belisario cuando se encuentre con ellos. Al llegar al punto de encuentro, Carlos ve que un compañero más, Daniel, se ha unido a la caminata. Este menciona que olvidó llenar con agua la botella que ha llevado. De modo que, antes de entregar las botellas, Carlos decide redistribuir el agua.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Si se busca que los cuatro compañeros tengan la misma cantidad de agua, ¿qué parte de la cantidad de agua de cada una de las tres botellas se debe traspasar a la botella de Daniel?",
+          "opciones": [
+            "La mitad.",
+            "La tercera parte.",
+            "La cuarta parte."
+          ],
+          "respuesta": "La cuarta parte.",
+          "respuestaCorta": "El total de agua (1800 ml) se divide entre 4 personas (450 ml cada una). Para llenar la botella vacía de Daniel con 450 ml, se deben sacar 150 ml de cada una de las 3 botellas llenas, lo que equivale a 1/4 de su contenido (150/600).",
+          "solucionario": "1. Calcular el total de agua: 3 botellas x 600 ml/botella = 1800 ml.\n2. Calcular la cantidad de agua por persona para un reparto equitativo: 1800 ml / 4 personas = 450 ml por persona.\n3. Daniel tiene una botella vacía, por lo que necesita recibir 450 ml.\n4. Esta cantidad debe provenir de las 3 botellas llenas. Se reparte el aporte: 450 ml / 3 botellas = 150 ml por botella.\n5. Determinar la fracción que representa este trasvase respecto al contenido original de cada botella: 150 ml / 600 ml = 15/60 = 1/4.\nPor lo tanto, se debe traspasar la cuarta parte de cada botella.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p11",
+      "contexto": "Un docente tiene como propósito que los estudiantes resuelvan problemas que involucran propiedades de los números naturales. En ese marco, les presenta el siguiente problema:\n\nDos hermanos, Rosa y Julio, recibieron de sus padres una pista de carrera para autos de juguete. Esta pista es cerrada y los carriles tienen la misma longitud. Al medir los tiempos, se obtuvo que el auto de Rosa demora 36 segundos en dar una vuelta y que el de Julio demora 42 segundos. Si los dos autos partieron en el mismo instante y en cada vuelta emplean los respectivos tiempos indicados, ¿cuánto tiempo transcurrirá para que coincidan nuevamente en el punto de partida?",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Tres estudiantes indicaron cómo resolver el problema. ¿Quién lo hizo de forma correcta?",
+          "opciones": [
+            "Angélica dijo: \"Como los autos demoran 36 segundos y 42 segundos, entonces el tiempo en que coincidan será aquel que contiene, a la vez, un número exacto de veces a dichos tiempos\".",
+            "Beatriz dijo: \"Para calcular el tiempo, colocamos a 36 y 42 encabezando dos columnas; luego, trazamos una línea vertical a la derecha y extraemos los factores comunes. Al multiplicarlos, tendremos el resultado\".",
+            "César dijo: \"No creo que vuelvan a coincidir en algún momento, ya que al dar una vuelta la diferencia de sus tiempos es 6 segundos; en dos vueltas, es 12 segundos y, así, siempre irán distanciándose en cada vuelta que den\"."
+          ],
+          "respuesta": "Angélica dijo: \"Como los autos demoran 36 segundos y 42 segundos, entonces el tiempo en que coincidan será aquel que contiene, a la vez, un número exacto de veces a dichos tiempos\".",
+          "respuestaCorta": "El problema se resuelve calculando el Mínimo Común Múltiplo (MCM), que es el menor tiempo que es múltiplo de ambos periodos de vuelta.",
+          "solucionario": "El problema de encontrar cuándo dos eventos periódicos coinciden se resuelve calculando el Mínimo Común Múltiplo (MCM) de sus periodos. La descripción de Angélica define conceptualmente el MCM: un número (tiempo) que es múltiplo tanto de 36 como de 42. La descripción de Beatriz se refiere al Máximo Común Divisor (MCD), no al MCM. La afirmación de César es incorrecta, ya que aunque se distancien, eventualmente sus tiempos totales coincidirán en un múltiplo común.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p12",
+      "contexto": "El propósito de una sesión de aprendizaje es que los estudiantes resuelvan problemas que involucran el cálculo del interés compuesto. Una vez que ellos conformaron equipos, la docente les propuso la siguiente tarea:\n\nDionicio realizó un depósito de S/ 10 000 en una caja municipal a una tasa de interés del 1% mensual capitalizable trimestralmente. Si acordó mantenerlo por el plazo de un año, ¿qué monto recibirá al finalizar dicho tiempo?\n\nAl determinar que se trataba de calcular el interés compuesto, un equipo decidió utilizar la siguiente fórmula: M = C(1+r)^t.\nEn esta expresión, identificaron que M corresponde al monto, C toma el valor S/ 10 000 y corresponde al capital inicial, en tanto que r vale 0,03 y corresponde a la tasa de interés. Sin embargo, en cuanto al tiempo t, tres integrantes del equipo le asignaron valores diferentes.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Quién propone una adecuada interpretación del tiempo?",
+          "opciones": [
+            "Alexandra dice: \"Como la tasa de interés pactada se mantendrá fija por 1 año, a la variable t se le debe reemplazar por 1\".",
+            "Joel dice: \"Como la tasa de interés está dada en forma mensual y se mantendrá durante un año, a la variable t se le debe reemplazar por 12, ya que en un año hay 12 meses\".",
+            "Cristina dice: \"Como la tasa de interés es capitalizable trimestralmente y estará vigente durante 1 año, a la variable t se le debe reemplazar por 4, ya que en 1 año hay 4 trimestres\"."
+          ],
+          "respuesta": "Cristina dice: \"Como la tasa de interés es capitalizable trimestralmente y estará vigente durante 1 año, a la variable t se le debe reemplazar por 4, ya que en 1 año hay 4 trimestres\".",
+          "respuestaCorta": "En la fórmula de interés compuesto, el tiempo 't' debe expresarse en la misma unidad que el período de capitalización. Como la capitalización es trimestral, el tiempo total de un año debe convertirse a trimestres.",
+          "solucionario": "La fórmula M = C(1+r)^t requiere que la tasa 'r' y el tiempo 't' sean consistentes con el período de capitalización. El problema indica que la capitalización es trimestral. El equipo ya calculó correctamente la tasa trimestral (1% mensual x 3 meses = 3% trimestral, o 0,03). Por lo tanto, el tiempo 't' también debe medirse en trimestres. Como el plazo total es un año, y un año tiene 4 trimestres, el valor correcto para 't' es 4. La propuesta de Cristina es la única que alinea la unidad del tiempo con el período de capitalización.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+ 
+    {
+      "idGrupo": "asc_secundaria_2021_p13",
+      "contexto": "Un docente tiene como propósito que los estudiantes de primer grado resuelvan problemas que involucran patrones. En ese contexto, les presenta el siguiente problema:\nDibuja las dos figuras que continúan en la secuencia.",
+      "imagen": "img/ascenso/secundaria/2021/matematica/2.jpg",
+      "preguntas": [
+        {
+          "pregunta": "Uno de los estudiantes menciona que el séptimo término debe ser una flecha hacia arriba. Sin embargo, no puede determinar la dirección que tomaría el octavo término. De acuerdo con lo que ha mencionado el estudiante, ¿qué logro de aprendizaje evidencia?",
+          "opciones": [
+            "Reconoce una regla de formación que depende de la posición par o impar de los términos.",
+            "Reconoce que todos los términos de la secuencia lo constituyen flechas en diferentes posiciones.",
+            "Reconoce como regla de formación al movimiento de rotación respecto del término inmediato anterior."
+          ],
+          "respuesta": "Reconoce una regla de formación que depende de la posición par o impar de los términos.",
+          "respuestaCorta": "El estudiante identifica correctamente el patrón para las posiciones impares (flecha arriba), pero no ha logrado identificar el patrón de rotación para las posiciones pares.",
+          "solucionario": "La secuencia muestra dos patrones intercalados. En las posiciones impares (1°, 3°, 5°), la flecha siempre apunta hacia arriba. En las posiciones pares (2°, 4°, 6°), las flechas rotan 90 grados en sentido antihorario (izquierda, derecha, izquierda...). El estudiante, al predecir correctamente la séptima flecha (posición impar), demuestra que ha identificado el patrón de las posiciones impares, pero su duda sobre la octava flecha (par) indica que aún no descifra el segundo patrón. Por lo tanto, evidencia que diferencia la regla de formación según la posición sea par o impar.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p14",
+      "contexto": "Dos docentes de Matemática, Vicente y Mariana, elaboran propuestas de actividades para promover la comprensión de las funciones cuadráticas por los estudiantes de tercer grado. Como parte de una actividad, Mariana le muestra la representación de las trayectorias de dos proyectiles.",
+      "imagen": "img/ascenso/secundaria/2021/matematica/3.jpg",
+      "preguntas": [
+        {
+          "pregunta": "A partir de esta representación, Vicente propone tres tareas. ¿Cuál de ellas es de mayor demanda cognitiva?",
+          "opciones": [
+            "¿Cuál es la relación de las alturas de ambos proyectiles cuando han recorrido la misma distancia horizontal?",
+            "¿Qué tipo de función representan las gráficas de la trayectoria desarrollada por los proyectiles?",
+            "¿Cuánto es el valor máximo de la altura alcanzada por cada uno de los proyectiles?"
+          ],
+          "respuesta": "¿Cuál es la relación de las alturas de ambos proyectiles cuando han recorrido la misma distancia horizontal?",
+          "respuestaCorta": "Esta tarea exige comparar las dos funciones (f(x) y g(x)) y establecer una relación general entre ellas, lo que implica un nivel de análisis y síntesis superior a las otras opciones.",
+          "solucionario": "La demanda cognitiva de una tarea se relaciona con la complejidad de los procesos mentales que requiere. La opción B (identificar el tipo de función) y la opción C (hallar el valor máximo de cada una) son tareas que implican aplicar procedimientos conocidos. En cambio, la opción A requiere que el estudiante analice ambas funciones simultáneamente (f(x) = -0,5x^2 + 12x y g(x) = -0,25x^2 + 6x), las compare para una misma variable 'x' y generalice una relación algebraica entre sus resultados (al factorizar se ve que f(x) = 2 * g(x)). Esto implica un nivel de razonamiento, conexión y generalización más elevado.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p15",
+      "contexto": "Durante una sesión de aprendizaje, con el propósito de que los estudiantes interpreten y representen funciones afines, un docente les propuso la siguiente tarea:\nGraficar la función f cuya regla de correspondencia es f(x) = 2x + 1, donde x es un número real.\nComo respuesta, un estudiante elaboró la siguiente gráfica:",
+      "imagen": "img/ascenso/secundaria/2021/matematica/4.jpg",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes acciones pedagógicas es más pertinente para brindar retroalimentación al estudiante de modo que reflexione sobre su representación?",
+          "opciones": [
+            "Preguntarle si esos puntos corresponden a una recta. Luego, mencionarle que tal recta presenta una pendiente y un punto de corte con el eje vertical. Finalmente, decirle que se trata de la gráfica de una función afín.",
+            "Preguntarle qué significa que x sea un número real. Luego, indicarle que es correcto que haya tomado esos valores para x, pero que debió haber tomado otros más. Finalmente, pedirle que una los puntos y trace una línea continua.",
+            "Preguntarle si, en los reales, solo se admiten valores enteros o si hay otros más. Luego, en caso de que considere esos otros valores, preguntar si la gráfica sería con saltos o sería continua. Finalmente, preguntar por la forma de la gráfica."
+          ],
+          "respuesta": "Preguntarle si, en los reales, solo se admiten valores enteros o si hay otros más. Luego, en caso de que considere esos otros valores, preguntar si la gráfica sería con saltos o sería continua. Finalmente, preguntar por la forma de la gráfica.",
+          "respuestaCorta": "La retroalimentación por descubrimiento, mediante preguntas, es la más efectiva para que el estudiante reflexione sobre su error conceptual: no considerar que el dominio son todos los números reales, no solo los enteros.",
+          "solucionario": "El error del estudiante es conceptual: ha graficado la función como si su dominio fueran los números enteros (Z), en lugar de los números reales (R). La opción C es la más pertinente porque utiliza la retroalimentación reflexiva o por descubrimiento. A través de preguntas clave (\"¿solo se admiten valores enteros?\", \"¿la gráfica sería con saltos o continua?\"), guía al estudiante a cuestionar su propia concepción del dominio y a deducir que la gráfica debe ser una línea continua que une los puntos, y no solo puntos aislados. Las otras opciones son más directivas y no fomentan la reflexión del estudiante.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p16",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Con respecto al uso del lenguaje algebraico en la formulación simbólica de la regla de formación de sucesiones numéricas, ¿cuál de las siguientes afirmaciones es correcta?",
+          "opciones": [
+            "Facilita examinar regularidades en una sucesión numérica.",
+            "Garantiza el descubrimiento de la regla de formación.",
+            "Evidencia un mayor nivel de generalización."
+          ],
+          "respuesta": "Evidencia un mayor nivel de generalización.",
+          "respuestaCorta": "El lenguaje algebraico permite expresar una regla para cualquier término de la sucesión (el término n-ésimo), lo cual es el nivel más alto de generalización.",
+          "solucionario": "Mientras que examinar regularidades (opción A) es un paso previo para encontrar la regla, el uso del lenguaje algebraico (ej. escribir an = 2n + 1) va más allá: formaliza esa regularidad en una expresión general que funciona para cualquier término 'n'. Esto representa un nivel de abstracción y generalización superior a simplemente describir el patrón con palabras. No garantiza el descubrimiento (opción B), ya que es la herramienta para expresar lo descubierto.",
+          "seccion": "Conocimiento Didáctico"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p17",
+      "contexto": "Durante una sesión de aprendizaje, un docente presenta la gráfica de un sistema de inecuaciones lineales para valores no negativos.",
+      "imagen": "img/ascenso/secundaria/2021/matematica/5.jpg",
+      "preguntas": [
+        {
+          "pregunta": "El docente busca promover que los estudiantes interpreten la gráfica del sistema de inecuaciones. ¿Cuál de los siguientes grupos de preguntas es más pertinente para lograr dicho propósito?",
+          "opciones": [
+            "¿Qué representan las regiones generadas por cada inecuación? ¿Qué representan los puntos de la intersección de las regiones?",
+            "¿Qué tipo de cuadrilátero es la región que representa la intersección de las regiones? ¿Qué puntos del gráfico corresponden a sus vértices?",
+            "¿Cuáles son los puntos de intersección entre los ejes y las rectas que limitan las regiones? ¿Qué puntos pertenecen a la intersección de las regiones?"
+          ],
+          "respuesta": "¿Qué representan las regiones generadas por cada inecuación? ¿Qué representan los puntos de la intersección de las regiones?",
+          "respuestaCorta": "Las preguntas más pertinentes se enfocan en el significado fundamental de la solución de un sistema de inecuaciones: la intersección de las regiones solución de cada inecuación individual.",
+          "solucionario": "El propósito es interpretar la gráfica. Las preguntas de la opción A van al núcleo del concepto: primero, entender que cada inecuación genera una región solución (un semiplano), y segundo, comprender que la solución del sistema es el conjunto de puntos que satisfacen todas las inecuaciones simultáneamente, es decir, la intersección de esas regiones. Las otras opciones se enfocan en aspectos más específicos o geométricos (tipo de cuadrilátero, vértices) que son consecuencias de la solución, pero no la interpretación fundamental del sistema.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p18",
+      "contexto": "Una docente tiene como propósito evaluar que los estudiantes modelen algebraicamente situaciones de la vida cotidiana. Para ello, propuso el siguiente problema:\nUn tanque tiene una capacidad de 4000 litros de agua y se abastece mediante un caño por el cual fluyen 25 litros de agua por minuto. Si \"V\" es la cantidad de agua que hay en el tanque y \"t\" es el tiempo en minutos, representa algebraicamente una relación que permita calcular la cantidad de agua que contiene el tanque luego de haber transcurrido \"t\" minutos desde el instante en que se abre el caño que lo abastece. Además, precisa los valores que puede tomar el tiempo \"t\". Considera que, al inicio, el tanque ya disponía de 100 litros.\nLa docente ha elaborado la siguiente rúbrica con las descripciones de sus niveles de logro.",
+      "imagen": "img/ascenso/secundaria/2021/matematica/6.jpg",
+      "preguntas": [
+        {
+          "pregunta": "Al revisar lo efectuado por los estudiantes, la docente encuentra que uno de ellos realizó la siguiente representación:\nV = 25t + 100t, para cualquier valor de t\nDe acuerdo con la rúbrica presentada, ¿qué nivel de logro corresponde a la representación realizada por el estudiante?",
+          "opciones": [
+            "En inicio.",
+            "En proceso.",
+            "Logrado."
+          ],
+          "respuesta": "En inicio.",
+          "respuestaCorta": "El estudiante plantea una relación incorrecta entre las variables (suma 100t en lugar de 100), por lo que, según la rúbrica, se encuentra en el nivel 'En inicio'.",
+          "solucionario": "La rúbrica establece que el nivel 'En inicio' corresponde a expresar \"una relación de igualdad entre las variables que no cumple con las condiciones del problema\". La relación correcta es V = 25t + 100, donde 100 es un valor inicial constante. El estudiante escribió V = 25t + 100t, tratando incorrectamente el valor inicial como una cantidad variable dependiente del tiempo. Esta expresión no modela la situación, por lo que su desempeño se ubica en el nivel más bajo de la rúbrica.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p19",
+      "contexto": "Durante el desarrollo de una actividad, un docente entregó a los estudiantes 9 piezas de un rompecabezas y les pidió que armaran un cuadrado. Una vez realizado, él asignó las medidas de los lados de las piezas como se aprecia en la siguiente figura:\nLuego, el docente les solicitó a los estudiantes lo siguiente:\n• Calculen las áreas de cada una de las piezas y súmenlas para determinar la expresión que representa el área total de la figura formada.\n• Determinen la medida del lado del cuadrado formado y con este valor expresen el área de dicho cuadrado.\n• Respondan: ¿Qué se puede afirmar de ambas expresiones?",
+      "imagen": "img/ascenso/secundaria/2021/matematica/7.jpg",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es el propósito principal de la actividad?",
+          "opciones": [
+            "Que los estudiantes resuelvan operaciones multiplicativas con expresiones algebraicas.",
+            "Que los estudiantes establezcan relaciones entre las distintas expresiones algebraicas del área de una figura geométrica.",
+            "Que los estudiantes desarrollen su habilidad de visualización geométrica estableciendo relaciones entre las partes y el todo."
+          ],
+          "respuesta": "Que los estudiantes establezcan relaciones entre las distintas expresiones algebraicas del área de una figura geométrica.",
+          "respuestaCorta": "El propósito es que los estudiantes descubran la equivalencia entre el área calculada como suma de partes (x^2 + 4x + 4) y el área calculada con la fórmula del cuadrado ((x+2)^2), relacionando así dos expresiones algebraicas para la misma área.",
+          "solucionario": "La actividad guía a los estudiantes a encontrar el área del mismo cuadrado de dos maneras distintas: 1) Sumando las áreas de las 9 piezas (una de área x^2, cuatro de área x, y cuatro de área 1), lo que da x^2 + 4x + 4. 2) Encontrando la medida del lado del cuadrado grande (x+2) y elevándola al cuadrado, lo que da (x+2)^2. El propósito principal es que al final, al comparar ambas expresiones, los estudiantes establezcan la relación de equivalencia (x+2)^2 = x^2 + 4x + 4, que es la identidad de un producto notable. Por tanto, se centra en relacionar distintas expresiones algebraicas que representan la misma medida geométrica.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p20",
+      "contexto": "Un docente propone a los estudiantes que, haciendo uso de un software matemático que sirva para graficar funciones, realicen una actividad referida a la función de la forma f(x) = a^x. La secuencia de acciones propuesta es:\n1. Explorar cómo es la gráfica de la función dada, si el valor de \"a\" es igual a 1.\n2. Explorar cómo es la gráfica de la función dada, cuando el valor de \"a\" es mayor que 1.\n3. Explorar cómo es la gráfica de la función dada, cuando el valor de \"a\" es menor que 1, pero mayor que 0.\n4. Explicar en qué intervalos se encuentran los valores que puede tomar \"a\" para que dicha función sea creciente o decreciente.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Entre las siguientes alternativas, ¿cuál es el propósito principal del docente al plantear esta actividad?",
+          "opciones": [
+            "Que los estudiantes planteen afirmaciones sobre las características de la gráfica de dicha función cuando es creciente o decreciente.",
+            "Que los estudiantes planteen afirmaciones sobre las condiciones que debe cumplir la base de dicha función para que sea creciente o decreciente.",
+            "Que los estudiantes planteen afirmaciones sobre los valores que puede tomar la variable independiente cuando dicha función es creciente o decreciente."
+          ],
+          "respuesta": "Que los estudiantes planteen afirmaciones sobre las condiciones que debe cumplir la base de dicha función para que sea creciente o decreciente.",
+          "respuestaCorta": "La actividad está diseñada para que los estudiantes, al variar el parámetro 'a' (la base), descubran cómo su valor determina si la función exponencial es creciente o decreciente.",
+          "solucionario": "El foco de la exploración en los pasos 1, 2 y 3 es la variación del valor de 'a', la base de la potencia. El paso 4 pide explícitamente una conclusión sobre cómo los valores de 'a' afectan el comportamiento (creciente o decreciente) de la función. Por lo tanto, el propósito principal no es describir la gráfica en general (opción A) ni analizar la variable independiente 'x' (opción C), sino establecer la condición que debe cumplir la base 'a' para determinar el crecimiento o decrecimiento de la función exponencial.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p21",
+      "contexto": "Las bacterias de cierto cultivo se reproducen cada 20 minutos. Su mecanismo de reproducción es la bipartición, en la que una célula madre se divide para dar origen a dos células hijas. Estas, a su vez volverán a reproducirse de modo que cada una de ellas se dividirá para generar sus correspondientes células hijas, y así sucesivamente.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué procedimiento permite determinar la cantidad de bacterias cada vez que transcurren 20 minutos?",
+          "opciones": [
+            "Multiplicar por 2 a la cantidad anterior de bacterias.",
+            "Sumar 2 unidades a la cantidad anterior de bacterias.",
+            "Elevar al cuadrado a la cantidad anterior de bacterias."
+          ],
+          "respuesta": "Multiplicar por 2 a la cantidad anterior de bacterias.",
+          "respuestaCorta": "El proceso de bipartición implica que la población se duplica en cada ciclo, lo que corresponde a una progresión geométrica de razón 2.",
+          "solucionario": "La bipartición significa que cada bacteria se convierte en dos. Si en un momento hay 'N' bacterias, después de 20 minutos cada una de ellas se habrá duplicado, resultando en un total de N x 2 bacterias. Este es el principio de un crecimiento exponencial o una progresión geométrica, donde cada término se obtiene multiplicando el anterior por una razón constante, que en este caso es 2.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p22",
+      "contexto": "Un docente planteó a los estudiantes de segundo grado el problema siguiente:\nEn un puesto del mercado, se venden 5 plátanos por 2 soles. Una persona compró 15 plátanos, ¿cuánto pagó por esta compra?\nEn este contexto, ¿cuánto se pagaría por n plátanos?\nEn su resolución, un estudiante realizó el siguiente procedimiento:\nEl precio de 15 plátanos lo encontramos multiplicando el precio de un plátano, que es 2/5, por 15.\nEntonces, el precio de n plátanos se halla multiplicando 2/5 por esa cantidad n.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "En relación con el procedimiento del estudiante, ¿cuál de las siguientes afirmaciones es correcta?",
+          "opciones": [
+            "El estudiante determinó el precio unitario dividiendo entre 5 la cantidad de plátanos comprada.",
+            "El estudiante estableció un factor de proporcionalidad a partir de la relación entre dos magnitudes.",
+            "El estudiante realizó la conjetura de establecer una propiedad para dos magnitudes continuas que son directamente proporcionales."
+          ],
+          "respuesta": "El estudiante estableció un factor de proporcionalidad a partir de la relación entre dos magnitudes.",
+          "respuestaCorta": "El estudiante calculó la constante o factor de proporcionalidad (precio por plátano, 2/5) que relaciona las magnitudes 'costo' y 'cantidad de plátanos'.",
+          "solucionario": "El estudiante identificó que la relación entre el costo y la cantidad de plátanos es de proporcionalidad directa. Para resolverlo, calculó la constante de proporcionalidad (también llamada factor o razón) que es k = costo / cantidad = 2/5 soles por plátano. Luego, utilizó esta constante para generalizar la solución para cualquier cantidad 'n' de plátanos (Costo = k * n = (2/5)n). Este valor 2/5 es precisamente el factor de proporcionalidad.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p23",
+      "contexto": "La prueba de carbono 14 determina la antigüedad de los restos fósiles. Para ello, se apoya en el siguiente principio:\n\"Luego de que un ser vivo muere, la cantidad de carbono 14 presente en sus restos se va reduciendo en periodos cíclicos. Se ha determinado que esa cantidad resulta ser la mitad de la cantidad inicial del respectivo ciclo, el cual siempre dura 5730 años\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Al analizar un determinado fósil, se ha hallado que la cantidad de carbono 14 se redujo a 1/64 de la cantidad que tuvo ese ser vivo cuando murió.\n¿Cuántos años de antigüedad tiene el fósil analizado?",
+          "opciones": [
+            "28 650 años.",
+            "34 380 años.",
+            "40 110 años."
+          ],
+          "respuesta": "34 380 años.",
+          "respuestaCorta": "La cantidad de C-14 se reduce a la mitad cada 5730 años. Para llegar a 1/64, deben pasar 6 de estos períodos (ya que 2^6 = 64). La antigüedad es 6 x 5730 años.",
+          "solucionario": "El problema describe un decaimiento exponencial con una vida media de 5730 años. La fracción restante de carbono 14 es (1/2)^n, donde 'n' es el número de vidas medias transcurridas. Se nos dice que la fracción restante es 1/64. \n1. Igualamos las expresiones: (1/2)^n = 1/64.\n2. Para que la igualdad se cumpla, debemos encontrar el exponente 'n' tal que 2^n = 64. Sabemos que 2^6 = 64, por lo tanto, n = 6.\n3. Han transcurrido 6 períodos de vida media.\n4. Calculamos la antigüedad total: 6 períodos x 5730 años/período = 34 380 años.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p24",
+      "contexto": "Una docente tiene como propósito que los estudiantes de tercer grado resuelvan problemas que involucran ecuaciones cuadráticas. En ese contexto, les presentó el siguiente problema:\nEn un condominio, se formó una comisión con un representante por cada familia, para arreglar el jardín que comparten. Sus integrantes calcularon que gastarían 60 soles en comprar plantas, por lo cual decidieron asumir equitativamente ese gasto. Sin embargo, debido a que uno de sus integrantes declinó pagar lo que le correspondía, cada uno de los restantes acordó aportar 3 soles más para alcanzar dicho monto. ¿Cuántos integrantes conforman la comisión?",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Tres estudiantes del aula plantearon sus respectivas ecuaciones. Ellos coinciden en que la incógnita \"x\" es la cantidad de integrantes de la comisión.\n¿Cuál de las siguientes ecuaciones permite resolver el problema planteado?",
+          "opciones": [
+            "60/x + 3 = 60/(x-1)",
+            "x/60 + 3 = (x-1)/60",
+            "60/x + 60/(x-1) + 3 = 60"
+          ],
+          "respuesta": "60/x + 3 = 60/(x-1)",
+          "respuestaCorta": "La ecuación correcta iguala el aporte final por persona: el aporte inicial (60/x) más el adicional (3) es igual al nuevo aporte (60/(x-1)).",
+          "solucionario": "Definamos las variables según el enunciado, donde 'x' es el número original de integrantes.\n- Aporte inicial por persona: 60/x.\n- Número de personas que pagan al final: x-1.\n- Aporte final por persona: 60/(x-1).\nEl problema establece que el aporte final es 3 soles más que el aporte inicial. Esto se traduce en la ecuación: Aporte final = Aporte inicial + 3, es decir, 60/(x-1) = 60/x + 3. Reordenando los términos, se obtiene la expresión de la opción A: 60/x + 3 = 60/(x-1).",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+  
+    {
+      "idGrupo": "asc_secundaria_2021_p25",
+      "contexto": "En cierta zona del mar, se habilitó un criadero en el que se introdujo una población de 100 peces adultos de determinada especie para que se reproduzcan. Según las estimaciones de sus consultores, cada 6 meses esta población se duplicará. Esta relación entre la cantidad de peces y el tiempo se presenta en la siguiente gráfica de una función logarítmica:",
+      "imagen": "img/ascenso/secundaria/2021/matematica/8.jpg",
+      "preguntas": [
+        {
+          "pregunta": "Respecto de la gráfica de esta función, ¿cuál de las siguientes afirmaciones se puede deducir?",
+          "opciones": [
+            "Cuando la población en el criadero sea 3200 peces, habrá transcurrido 48 meses.",
+            "El aumento de peces será mayor en los 12 primeros meses que en los 12 meses siguientes.",
+            "Cuando la población inicial de peces haya aumentado en 700 unidades, habrá transcurrido los primeros 18 meses."
+          ],
+          "respuesta": "Cuando la población inicial de peces haya aumentado en 700 unidades, habrá transcurrido los primeros 18 meses.",
+          "respuestaCorta": "La afirmación correcta se verifica siguiendo el patrón de duplicación: la población llega a 800 (100 iniciales + 700 de aumento) después de 3 períodos de 6 meses, es decir, a los 18 meses.",
+          "solucionario": "Analicemos la progresión de la población que se duplica cada 6 meses: \n- Mes 0: 100 peces (inicial)\n- Mes 6: 200 peces\n- Mes 12: 400 peces\n- Mes 18: 800 peces\nLa opción C afirma que cuando la población aumente en 700 unidades, habrán pasado 18 meses. Un aumento de 700 sobre los 100 iniciales da un total de 800 peces, lo cual, según nuestra progresión y la gráfica, ocurre exactamente a los 18 meses. Las otras opciones son incorrectas: se llega a 3200 peces a los 30 meses y el aumento de peces es menor en los primeros 12 meses (300) que en los siguientes 12 (1200).",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p26",
+      "contexto": "Durante una sesión de aprendizaje, un docente presenta a los estudiantes actividades sobre inecuaciones lineales. A continuación, se muestra una parte de la resolución que realizó un estudiante.\n(...)\n3x - 6 < 2x\n-6 < 2x - 3x\n-6 < -x\n6 < x",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Por qué es errónea la parte mostrada de la resolución del estudiante?",
+          "opciones": [
+            "Porque dejó la incógnita en el lado derecho de la inecuación.",
+            "Porque manejó de manera incorrecta la propiedad del opuesto aditivo.",
+            "Porque aplicó procedimientos específicos de las ecuaciones a las inecuaciones."
+          ],
+          "respuesta": "Porque aplicó procedimientos específicos de las ecuaciones a las inecuaciones.",
+          "respuestaCorta": "El error ocurre al multiplicar la inecuación por -1 para despejar 'x'. En las inecuaciones, este paso obliga a invertir el signo de la desigualdad, cosa que el estudiante omitió.",
+          "solucionario": "El error se produce en el último paso, al pasar de '-6 < -x' a '6 < x'. Para eliminar el signo negativo de la 'x', se debe multiplicar toda la inecuación por -1. Una propiedad fundamental de las desigualdades es que, al multiplicar o dividir por un número negativo, el sentido de la inecuación se invierte. El estudiante no aplicó esta propiedad y mantuvo el signo '<', un procedimiento que sería correcto para una ecuación (=) pero es incorrecto para una inecuación. La resolución correcta sería: -6 < -x  =>  6 > x.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p27",
+      "contexto": "Con el propósito de consolidar el aprendizaje de la función afín, una docente pidió a los estudiantes que, en equipos, formulen un problema que requiera el uso de dicha función. En uno de los equipos, se produjo el siguiente diálogo:\nEdith dice: \"Asumamos que, en cierta ciudad de nuestro país, todos los taxistas cobran un monto fijo por iniciar el servicio y adicionan otro monto que depende proporcionalmente de la distancia recorrida\".\nRoberto dice: \"¡Ajá! Esa situación nos puede servir para el problema. A partir de ella, podemos hacer la siguiente pregunta: '¿Cuál es la regla para calcular el monto total, en soles, del servicio de taxi en función de la distancia recorrida?'.\"",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Respecto de la pregunta planteada por Roberto, ¿cuál de los siguientes datos es suficiente añadir para responderla?",
+          "opciones": [
+            "Los taxistas cobran 11 soles, en total, por 2 km de recorrido y 14 soles, en total, cuando recorren 3 km.",
+            "Los taxistas adicionan al monto fijo del servicio, 3 soles por cada kilómetro recorrido.",
+            "Los taxistas cobran 20 soles, en total, por un servicio en el que se recorre 5 km."
+          ],
+          "respuesta": "Los taxistas cobran 11 soles, en total, por 2 km de recorrido y 14 soles, en total, cuando recorren 3 km.",
+          "respuestaCorta": "Para definir una función afín (y = mx + b) se necesitan dos puntos, ya que estos permiten determinar tanto la pendiente (costo por km) como el intercepto (monto fijo).",
+          "solucionario": "Una función afín tiene la forma y = mx + b, donde 'm' es la tarifa por kilómetro y 'b' es el monto fijo inicial. Para determinar los dos valores desconocidos ('m' y 'b'), se necesita un sistema de dos ecuaciones. La opción A proporciona dos puntos (2 km, 11 soles) y (3 km, 14 soles), que permiten plantear dos ecuaciones (11 = 2m + b; 14 = 3m + b) y resolver el sistema. Las opciones B y C solo proporcionan un dato (el valor de 'm' o un solo punto (5,20)), lo cual es insuficiente para hallar ambas variables.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p28",
+      "contexto": "Carlos es dueño de un hotel que tiene 50 habitaciones simples. Al proyectar sus ingresos, él ha considerado que, en cada noche de temporada alta, se pueden alquilar todas, siempre y cuando el precio sea S/ 80 por noche. Asimismo, ha proyectado que, por cada S/ 5 de incremento en el alquiler por noche, 1 habitación no se alquilará.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Carlos quiere obtener la expresión matemática que representa el ingreso diario del hotel por alquiler de sus habitaciones simples en temporada alta. Si se considera que \"x\" es un número entero y representa la cantidad de incrementos de S/ 5 en el alquiler, ¿cuál es la expresión correcta?",
+          "opciones": [
+            "(50 - x)(80 + 5x), siendo x <= 50",
+            "(50 - 5x)(80 + x), siendo x <= 10",
+            "(50 - x)(80 + x), siendo x <= 50"
+          ],
+          "respuesta": "(50 - x)(80 + 5x), siendo x <= 50",
+          "respuestaCorta": "El ingreso se calcula multiplicando el número de habitaciones alquiladas por el precio por noche. Ambas cantidades varían en función de 'x', el número de incrementos.",
+          "solucionario": "El ingreso total se calcula como: (Número de habitaciones alquiladas) x (Precio por habitación).\n- Número de habitaciones alquiladas: Comienza en 50 y disminuye en 1 por cada incremento 'x'. La expresión es (50 - x).\n- Precio por habitación: Comienza en S/ 80 y aumenta en S/ 5 por cada incremento 'x'. La expresión es (80 + 5x).\n- Ingreso: (50 - x)(80 + 5x).\nLa restricción x <= 50 asegura que el número de habitaciones alquiladas no sea negativo.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p29",
+      "contexto": "En una reunión colegiada, tres docentes intercambian propuestas de problemas para propiciar que los estudiantes modelen simbólicamente una situación utilizando una función afín.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes propuestas permite que los estudiantes modelen la situación utilizando necesariamente una función afín?",
+          "opciones": [
+            "Un vendedor de autos tiene un sueldo básico mensual de S/ 2000. Adicionalmente, por cada auto que logre vender recibirá una comisión de S/ 500. Si vende 8 autos, ¿cuánto sería su pago mensual?",
+            "Un barril vacío pesa 20 kg y tiene capacidad para 80 litros de aceite. Si se conoce que 1 litro de aceite pesa 0,74 kg, ¿cuánto es el peso total del barril en función de la cantidad de aceite que contiene?",
+            "El auto de Fiorella utiliza gas como combustible. Se sabe que el costo del gas por cada kilómetro recorrido es S/ 0,15. ¿Cuánto es el monto del costo del gas en función de la cantidad de kilómetros que el auto ha recorrido?"
+          ],
+          "respuesta": "Un barril vacío pesa 20 kg y tiene capacidad para 80 litros de aceite. Si se conoce que 1 litro de aceite pesa 0,74 kg, ¿cuánto es el peso total del barril en función de la cantidad de aceite que contiene?",
+          "respuestaCorta": "Una función afín (y=mx+b) requiere una parte variable (peso del aceite) y una parte fija no nula (peso del barril vacío). Esta es la única opción que cumple ambas condiciones.",
+          "solucionario": "Una función afín se caracteriza por tener la forma f(x) = mx + b, con b ≠ 0. \n- La opción A es un problema aritmético, no pide modelar una función. \n- La opción C modela una función lineal o de proporcionalidad directa (Costo = 0.15 * km), ya que no hay un costo fijo inicial (b=0). \n- La opción B es la única que modela necesariamente una función afín: Peso_total = 0.74 * (litros) + 20. Aquí, hay una parte variable (0.74 * litros) y una parte fija inicial no nula (el peso del barril, b=20).",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p30",
+      "contexto": "Para que determinado medicamento tenga un efecto benéfico en el organismo, su concentración en la sangre debe ser, por lo menos, 4 miligramos por litro de sangre. Se conoce que t horas después de ingerir una dosis de este medicamento, la concentración en sangre es (20t) / (t^2 + 4) miligramos por litro de sangre.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Después de ingerir dicha dosis, ¿en qué intervalo de tiempo ocurre el efecto benéfico para el organismo?",
+          "opciones": [
+            "Desde el inicio de la cuarta hora en adelante.",
+            "Desde el inicio de la segunda hora hasta el final de la cuarta hora.",
+            "Desde el inicio de la segunda hora hasta el final de la tercera hora."
+          ],
+          "respuesta": "Desde el inicio de la segunda hora hasta el final de la cuarta hora.",
+          "respuestaCorta": "Se debe resolver la inecuación (20t)/(t^2 + 4) >= 4. La solución de esta inecuación cuadrática es el intervalo de tiempo [1, 4].",
+          "solucionario": "Para encontrar el intervalo de tiempo, debemos resolver la inecuación: (20t) / (t^2 + 4) >= 4. Como t^2 + 4 siempre es positivo, podemos multiplicar sin cambiar el sentido de la desigualdad: 20t >= 4(t^2 + 4) => 20t >= 4t^2 + 16. Reordenando, obtenemos 0 >= 4t^2 - 20t + 16. Dividiendo entre 4, tenemos t^2 - 5t + 4 <= 0. Factorizamos la cuadrática como (t - 1)(t - 4) <= 0. Las raíces son t=1 y t=4. La parábola abre hacia arriba, por lo que la expresión es menor o igual a cero entre las raíces. El intervalo es [1, 4], que corresponde a desde la primera hora (inclusive) hasta la cuarta hora (inclusive). La opción B es la que mejor describe este rango.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p31",
+      "contexto": "Durante una sesión de aprendizaje, un docente solicitó a los estudiantes de tercer grado determinar el perímetro de un trapecio. A continuación, se presenta parte de la resolución de una estudiante.",
+      "imagen": "img/ascenso/secundaria/2021/matematica/9.jpg",
+      "preguntas": [
+        {
+          "pregunta": "Con relación a las operaciones realizadas, ¿cuál de las siguientes alternativas expresa el error en el que incurrió la estudiante?",
+          "opciones": [
+            "Considerar a todos los sumandos como números irracionales con la misma parte radical.",
+            "Considerar que para hallar el resultado se suman, por un lado, los coeficientes enteros y, por otro, los radicales.",
+            "Considerar que algunas longitudes, que participan como sumandos, pueden ser expresadas como números irracionales."
+          ],
+          "respuesta": "Considerar a todos los sumandos como números irracionales con la misma parte radical.",
+          "respuestaCorta": "El error fue sumar los coeficientes de términos que no son semejantes (24 y 8) como si todos tuvieran la parte radical √2.",
+          "solucionario": "La estudiante realizó el cálculo: 24 + 8 + 8√2 + 8√2. Para obtener 48√2, tuvo que sumar incorrectamente todos los coeficientes (24 + 8 + 8 + 8 = 48) y adjuntar la parte radical √2. Esto implica que trató a los números racionales 24 y 8 como si fueran 24√2 y 8√2, es decir, asumió que todos los términos eran semejantes con la misma parte radical. La suma correcta es (24+8) + (8√2 + 8√2) = 32 + 16√2.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p32",
+      "contexto": "Un docente busca que los estudiantes de segundo grado afiancen su comprensión de los sólidos geométricos. Para ello, les plantea la siguiente tarea:\nPropongan un problema en el que intervenga el área total de un prisma rectangular recto.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Tres estudiantes presentaron sus propuestas. ¿Cuál de las siguientes propuestas se ajusta a la tarea planteada?",
+          "opciones": [
+            "Un ladrillo compacto tiene dimensiones de 8 cm, 12 cm y 24 cm. Determina la cantidad de espacio que ocupa dicho ladrillo.",
+            "Dada una caja de zapatos de dimensiones 11 cm, 17 cm y 30 cm, determina cuántos centímetros cuadrados de papel se utilizará como mínimo para forrarla por completo.",
+            "El largo, ancho y alto de una habitación es 5 m, 4 m y 2 m, respectivamente. Si se deben pintar las paredes de esta habitación, determina la cantidad de metros cuadrados que se tendrá que pintar."
+          ],
+          "respuesta": "Dada una caja de zapatos de dimensiones 11 cm, 17 cm y 30 cm, determina cuántos centímetros cuadrados de papel se utilizará como mínimo para forrarla por completo.",
+          "respuestaCorta": "Forrar una caja por completo implica cubrir la superficie de todas sus caras, lo que corresponde exactamente al cálculo del área total del prisma.",
+          "solucionario": "La tarea pide un problema que involucre el área total. \n- La opción A, al preguntar por el 'espacio que ocupa', se refiere al volumen. \n- La opción C, al pedir pintar solo las paredes, se refiere al área lateral, no al área total (excluye el piso y el techo). \n- La opción B es la única que se ajusta, ya que forrar una caja 'por completo' requiere calcular la superficie de las 6 caras del prisma rectangular, es decir, su área total.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p33",
+      "contexto": "Con el propósito de promover la comprensión de las líneas notables de un triángulo, un docente propone a los estudiantes de tercer grado la siguiente tarea:\nUn agricultor quiere repartir su terreno de forma triangular en seis sectores de igual área para cultivar distintas hortalizas. Explica, haciendo uso de líneas notables, el procedimiento que debe seguir el agricultor para delimitar los seis sectores de su terreno.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Por qué la tarea propuesta por el docente es de alta demanda cognitiva?",
+          "opciones": [
+            "Porque requiere utilizar varios objetos matemáticos, como el de líneas notables de un triángulo o como la superficie de un terreno triangular.",
+            "Porque requiere analizar las propiedades de las líneas notables de un triángulo y vincular dichas propiedades con las condiciones dadas en la situación.",
+            "Porque requiere relacionar la cantidad de los sectores de igual área que se obtendrán al trazar líneas notables de un triángulo, con la forma de dichos sectores."
+          ],
+          "respuesta": "Porque requiere analizar las propiedades de las líneas notables de un triángulo y vincular dichas propiedades con las condiciones dadas en la situación.",
+          "respuestaCorta": "La alta demanda cognitiva radica en que el estudiante debe movilizar su conocimiento sobre las propiedades de las medianas para resolver una situación no rutinaria y explicar su estrategia.",
+          "solucionario": "Una tarea es de alta demanda cognitiva cuando no se resuelve con la simple aplicación de una fórmula, sino que exige pensar, conectar ideas y crear una estrategia. En este caso, el estudiante debe recordar la propiedad de la mediana (divide al triángulo en dos de igual área) y del baricentro (punto de corte de las medianas, que divide al triángulo en seis de igual área). Luego, debe vincular esta propiedad abstracta con la necesidad práctica del problema (dividir el terreno) y explicar el procedimiento. Esto va más allá de la simple memorización, requiere análisis y aplicación estratégica del conocimiento.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p34",
+      "contexto": "Durante una sesión de aprendizaje los estudiantes resuelven problemas que involucran la semejanza de triángulos. A continuación, se muestra una parte de la resolución que realizó una estudiante.",
+      "imagen": "img/ascenso/secundaria/2021/matematica/10.jpg",
+      "preguntas": [
+        {
+          "pregunta": "La docente nota que la resolución de la estudiante tiene aciertos y errores en relación con la comprensión de semejanza de triángulos. ¿Qué logro de aprendizaje se evidencia en dicha resolución?",
+          "opciones": [
+            "Determina la relación de proporcionalidad que permite determinar el valor desconocido.",
+            "Establece la semejanza de los dos triángulos rectángulos a partir de la proporcionalidad de sus lados.",
+            "Identifica la congruencia de los ángulos de los dos triángulos y deduce que hay semejanza de triángulos."
+          ],
+          "respuesta": "Identifica la congruencia de los ángulos de los dos triángulos y deduce que hay semejanza de triángulos.",
+          "respuestaCorta": "La estudiante justifica correctamente que los triángulos son semejantes porque tienen los mismos ángulos, demostrando comprender el criterio de semejanza Ángulo-Ángulo (AA).",
+          "solucionario": "El primer paso en la resolución de la estudiante es la afirmación \"Los triángulos tienen los mismos ángulos, entonces son semejantes\". Este es un logro conceptual clave, ya que demuestra que comprende el criterio de semejanza Ángulo-Ángulo. Su error ocurre después, al plantear la proporción de los lados (relaciona lado frente a α con lado frente a β, en lugar de α con α y β con β). Por lo tanto, lo que sí evidencia haber logrado es la identificación de la semejanza a partir de la congruencia de los ángulos.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p35",
+      "contexto": "Una docente tiene como propósito que los estudiantes de segundo grado construyan el concepto de homotecia.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes acciones pedagógicas es más pertinente para recoger sus saberes previos sobre la homotecia?",
+          "opciones": [
+            "Pedir que elijan la imagen de un objeto simple y la dibujen a otra escala.",
+            "Pedir que participen de un juego matemático que involucra conocimientos sobre traslación y rotación.",
+            "Pedir que dibujen figuras homotéticas mediante un software matemático con una secuencia de acciones indicada."
+          ],
+          "respuesta": "Pedir que elijan la imagen de un objeto simple y la dibujen a otra escala.",
+          "respuestaCorta": "Dibujar a escala es una noción intuitiva y un saber previo directamente relacionado con el concepto de homotecia (ampliación o reducción desde un centro).",
+          "solucionario": "La homotecia es una transformación geométrica que produce una figura semejante a la original, más grande o más pequeña, a partir de un punto fijo. La idea de dibujar a escala es la manifestación más común e intuitiva de este concepto. Al pedir a los estudiantes que dibujen a escala, la docente puede observar cómo manejan la proporcionalidad de las medidas y la conservación de la forma, que son saberes previos fundamentales para construir formalmente el concepto de homotecia. Las otras opciones se desvían del concepto (traslación, rotación) o introducen la homotecia directamente sin indagar en los conocimientos previos.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p36",
+      "contexto": "Con el propósito de que los estudiantes de tercer grado profundicen su comprensión del teorema de Pitágoras, una docente les entregó 5 piezas de un rompecabezas y les pidió que armaran un cuadrado. Una vez logrado, ella asignó las medidas de los lados de las piezas que se aprecian en la siguiente figura:",
+      "imagen": "img/ascenso/secundaria/2021/matematica/11.jpg",
+      "preguntas": [
+        {
+          "pregunta": "\nLuego, les solicitó relacionar el área del cuadrado formado y la suma de las áreas de las cinco piezas. Al respecto, un estudiante llegó a establecer la siguiente igualdad:\na + b = 4 x (ab/2) + c <br>Entre las siguientes alternativas, ¿cuál expresa el error en el que incurre el estudiante?",
+          "opciones": [
+            "Asumió que el área de un cuadrado es igual a la medida de su lado.",
+            "Omitió el desarrollo del binomio al cuadrado, que es un producto notable.",
+            "En la igualdad, no consideró las figuras que representan a los cuadrados."
+          ],
+          "respuesta": "Asumió que el área de un cuadrado es igual a la medida de su lado.",
+          "respuestaCorta": "El estudiante igualó la medida del lado del cuadrado grande (a+b) y del lado del cuadrado pequeño (c) con sus respectivas áreas, que deberían ser (a+b)^2 y c^2.",
+          "solucionario": "La igualdad correcta debería relacionar las áreas. El área del cuadrado grande es (a+b)^2. La suma de las áreas de las piezas es: el área de los 4 triángulos (4 * (ab/2)) más el área del cuadrado interior (c^2). La ecuación correcta es (a+b)^2 = 2ab + c^2. El estudiante escribió 'a+b' en lugar de '(a+b)^2' y 'c' en lugar de 'c^2'. Esto demuestra un error fundamental al confundir la medida de la longitud de un lado con la medida de su área.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+  
+    {
+      "idGrupo": "asc_secundaria_2021_p37",
+      "contexto": "Una docente tiene como propósito que los estudiantes de primer grado desarrollen aprendizajes que involucran el volumen de un prisma. En este marco, propone que los estudiantes formen grupos y les entrega una caja con cubitos del mismo tamaño. Luego, les plantea la siguiente tarea:\nLos cubitos tienen aristas de 0,5 u de longitud. Construyan un prisma que tenga 10 u^3 de volumen.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Por qué esta tarea es de alta demanda cognitiva?",
+          "opciones": [
+            "Porque requiere efectuar operaciones de potenciación y división con números racionales.",
+            "Porque requiere manipular con destreza a una cantidad numerosa de cubitos para construir el prisma indicado.",
+            "Porque requiere relacionar la medida de la arista de cada cubito y la cantidad de cubitos que conforman el volumen del prisma."
+          ],
+          "respuesta": "Porque requiere relacionar la medida de la arista de cada cubito y la cantidad de cubitos que conforman el volumen del prisma.",
+          "respuestaCorta": "La alta demanda cognitiva reside en la necesidad de conectar conceptos: el volumen de un cubito individual, el volumen total deseado y la cantidad de cubitos necesarios.",
+          "solucionario": "Una tarea de alta demanda cognitiva exige más que una simple aplicación de un algoritmo. En este caso, el estudiante no solo debe calcular el volumen de un cubito (0.5^3 = 0.125 u^3) y luego dividir el volumen total por el volumen unitario (10 / 0.125 = 80 cubitos). El reto principal es comprender y establecer la relación conceptual entre la dimensión lineal de la parte (la arista del cubito), el volumen de esa parte, y cómo estas partes se componen para formar el volumen del todo. Esta conexión de ideas es lo que eleva la demanda cognitiva de la tarea, más allá del cálculo en sí.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p38",
+      "contexto": "Durante una sesión de aprendizaje los estudiantes resuelven problemas que involucran elipses. A continuación, se muestra una parte de la resolución que realizó una estudiante.",
+      "imagen": "img/ascenso/secundaria/2021/matematica/12.jpg",
+      "preguntas": [
+        {
+          "pregunta": "Tomando en cuenta que la estudiante resolvió de forma adecuada el problema, ¿qué se puede afirmar de su proceso de resolución?",
+          "opciones": [
+            "Consideró una elipse que tiene como uno de sus focos el punto (a-c; 0).",
+            "Consideró una elipse con un eje mayor que tiene como uno de sus extremos el punto (-a; 0).",
+            "Consideró una elipse con un eje menor que tiene como uno de sus extremos el punto (-c; 0)."
+          ],
+          "respuesta": "Consideró una elipse con un eje mayor que tiene como uno de sus extremos el punto (-a; 0).",
+          "respuestaCorta": "El sistema de ecuaciones planteado por la estudiante (a+c=153, a-c=147) se basa en las propiedades de la distancia desde los focos a los vértices del eje mayor, cuyos extremos son (a; 0) y (-a; 0).",
+          "solucionario": "El procedimiento de la estudiante para hallar 'a' (semieje mayor) y 'c' (distancia del centro al foco) es correcto para una elipse horizontal centrada en el origen. En dicha elipse, los extremos del eje mayor (vértices) se ubican en los puntos (a, 0) y (-a, 0). Dado que su cálculo para 'a' es una parte fundamental y correcta de su proceso, se puede afirmar que su modelo considera que uno de los extremos del eje mayor es (-a; 0). Las otras opciones son incorrectas: los focos están en (c; 0) y (-c; 0), no en (a-c; 0), y los extremos del eje menor están en (0, b) y (0, -b).",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p39",
+      "contexto": "Una docente plantea la siguiente actividad a los estudiantes de segundo grado:\n• Formen equipos de 4 integrantes y desplácense al patio de la institución educativa.\n• En una hoja bond A4, dibujen un esbozo del plano del patio en el que se indiquen sus respectivas medidas reales. Para ello, midan con una cinta métrica las dimensiones del patio y de sus elementos, como jardines, bancas, etc., que consideren en dicho esbozo.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es el propósito principal de aprendizaje involucrado en esta actividad?",
+          "opciones": [
+            "Promover el trabajo colaborativo y la participación activa en la elaboración del esbozo del plano del patio.",
+            "Emplear procedimientos de medición y representación gráfica orientados a la elaboración del esbozo del plano del patio.",
+            "Construir la noción de espacio tridimensional y de plano bidimensional al utilizar referentes concretos en la elaboración del esbozo del plano del patio."
+          ],
+          "respuesta": "Emplear procedimientos de medición y representación gráfica orientados a la elaboración del esbozo del plano del patio.",
+          "respuestaCorta": "El propósito central es la aplicación práctica de habilidades matemáticas: medir un espacio real y representarlo gráficamente en un plano.",
+          "solucionario": "Si bien la actividad promueve el trabajo colaborativo (opción A) y trabaja con la noción de espacio (opción C), el propósito principal y explícito de la tarea es de carácter procedimental. La actividad está diseñada para que los estudiantes pongan en práctica y desarrollen dos procedimientos matemáticos clave: la medición de longitudes en un entorno real y la representación de esas medidas en un plano o croquis. El núcleo del aprendizaje es el 'cómo hacerlo', es decir, el empleo de estas técnicas.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p40",
+      "contexto": "Dos docentes planifican una sesión de aprendizaje con el propósito de promover la comprensión de la localización de objetos en el contexto de navegación marítima. Para ello, conversan sobre los aspectos que deberían tomar en cuenta.\nDionicio dice: \"En la navegación marítima, la dirección en la que se dirige una embarcación, se indica usando rumbos. Y un rumbo se expresa mediante el ángulo agudo formado por la dirección de la embarcación y la línea norte-sur. Por ejemplo, S30°O quiere decir que, con referencia al sentido que va de norte a sur, la embarcación se dirige 30° al oeste\".\nRebeca dice: \"¡Claro! Considerando toda esta información, los estudiantes podrán resolver tareas en las que se les pida responder, utilizando planos marítimos, cómo se puede determinar la nueva localización de una embarcación que se ha trasladado en cierto rumbo con cierta velocidad constante\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es la habilidad principal que desarrollarían los estudiantes al realizar las tareas propuestas?",
+          "opciones": [
+            "Describir con lenguaje geométrico el desplazamiento y la ubicación de un móvil.",
+            "Explicar, utilizando planos, cómo se calculan distancias recorridas por un móvil.",
+            "Evaluar rutas marítimas en planos para optimizar trayectorias de desplazamiento."
+          ],
+          "respuesta": "Describir con lenguaje geométrico el desplazamiento y la ubicación de un móvil.",
+          "respuestaCorta": "La tarea se centra en utilizar rumbos (ángulos y direcciones cardinales) y planos para determinar y describir la posición y el movimiento de un objeto.",
+          "solucionario": "La propuesta de los docentes se enfoca en el uso de conceptos geométricos (ángulos, direcciones, planos) para definir la ubicación y el trayecto de una embarcación. La habilidad principal que se desarrolla es la de traducir un movimiento físico a una descripción formal utilizando lenguaje geométrico (por ejemplo, 'se desplazó en un rumbo S30°O'). Calcular distancias (opción B) es parte del proceso, pero la habilidad central es la descripción de la localización y el desplazamiento. La optimización de rutas (opción C) es una habilidad más compleja que no está directamente abordada en la propuesta inicial.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p41",
+      "contexto": "Un docente planifica una sesión de aprendizaje cuyo propósito es que los estudiantes clasifiquen los polígonos. Para ello, cuenta con amplia variedad de imágenes de polígonos convexos.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Si el docente busca que los estudiantes realicen una clasificación según su convexidad, ¿qué polígonos debe considerar adicionalmente?",
+          "opciones": [
+            "Polígonos cuya región interior contiene a todas sus diagonales.",
+            "Polígonos donde todos sus ángulos interiores son de igual medida.",
+            "Polígonos que tienen por lo menos un ángulo interno mayor que 180°."
+          ],
+          "respuesta": "Polígonos que tienen por lo menos un ángulo interno mayor que 180°.",
+          "respuestaCorta": "Para clasificar por convexidad, los estudiantes deben comparar polígonos convexos con polígonos no convexos (cóncavos), los cuales se caracterizan por tener al menos un ángulo interior mayor a 180°.",
+          "solucionario": "La clasificación por convexidad implica diferenciar entre polígonos convexos y cóncavos. El docente ya tiene ejemplos de polígonos convexos. Por lo tanto, necesita incorporar ejemplos del otro tipo: los polígonos cóncavos. La definición de un polígono cóncavo es precisamente la que se da en la opción C, un polígono con al menos un ángulo interno mayor de 180°. La opción A describe a los polígonos convexos que ya tiene, y la opción B describe a los polígonos equiángulos, que es otro criterio de clasificación.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p42",
+      "contexto": "Cecilia desea que un ebanista realice el acabado artístico de la cara exterior de una puerta de madera. Ante la solicitud de un presupuesto para esta obra, el ebanista toma las medidas correspondientes para calcular el área de dicha cara. A continuación, se muestran las medidas correspondientes:",
+      "imagen": "img/ascenso/secundaria/2021/matematica/13.jpg",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es, aproximadamente, el área de la cara exterior de la puerta (utilizar π = 3,14)?",
+          "opciones": [
+            "23 925 cm^2",
+            "27 850 cm^2",
+            "35 700 cm^2"
+          ],
+          "respuesta": "23 925 cm^2",
+          "respuestaCorta": "El área total se calcula sumando el área de la sección rectangular (200 cm x 100 cm) y el área de la sección semicircular (radio de 50 cm).",
+          "solucionario": "El área de la puerta se compone de dos partes:\n1. Área del rectángulo: base × altura = 100 cm × 200 cm = 20 000 cm^2.\n2. Área del semicírculo: (π × r^2) / 2. El diámetro es 100 cm, por lo que el radio (r) es 50 cm. El área es (3.14 × 50^2) / 2 = (3.14 × 2500) / 2 = 7850 / 2 = 3925 cm^2.\n3. Área total = Área del rectángulo + Área del semicírculo = 20 000 cm^2 + 3925 cm^2 = 23 925 cm^2.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p43",
+      "contexto": "Desde el vértice B de un rectángulo ABCD, se traza un segmento BH perpendicular a la diagonal AC, siendo H un punto de esta. Dicho trazo determina en la diagonal dos segmentos de 9 u y 16 u, respectivamente.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es la longitud del segmento BH?",
+          "opciones": [
+            "5 u",
+            "7 u",
+            "12 u"
+          ],
+          "respuesta": "12 u",
+          "respuestaCorta": "Aplicando el teorema de las relaciones métricas en un triángulo rectángulo, la altura relativa a la hipotenusa (BH) es la media geométrica de las proyecciones de los catetos sobre la hipotenusa (9 y 16).",
+          "solucionario": "En el rectángulo ABCD, el triángulo ABC es un triángulo rectángulo con el ángulo recto en B. La diagonal AC es la hipotenusa y el segmento BH es la altura relativa a la hipotenusa. Los segmentos de 9 u y 16 u son las proyecciones de los catetos AB y BC sobre la hipotenusa. Según el teorema de la altura en un triángulo rectángulo, el cuadrado de la altura es igual al producto de estas proyecciones.\nBH^2 = 9 × 16\nBH^2 = 144\nBH = √144\nBH = 12 u.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p44",
+      "contexto": "En el siguiente diseño de la estructura de una rampa, las maderas grises son paralelas entre sí y perpendiculares a la base horizontal.",
+      "imagen": "img/ascenso/secundaria/2021/matematica/14.jpg",
+      "preguntas": [
+        {
+          "pregunta": "Si por mantenimiento se desea reparar el tramo AB de la rampa, ¿cuál es la medida de dicho tramo?",
+          "opciones": [
+            "4,5 m",
+            "5,0 m",
+            "5,5 m"
+          ],
+          "respuesta": "4,5 m",
+          "respuestaCorta": "Aplicando el Teorema de Tales, los segmentos en la rampa son proporcionales a los segmentos en la base. La relación es AB/3 = (Tramo después de B)/2.",
+          "solucionario": "Las maderas grises son paralelas, y la base horizontal y la rampa inclinada son dos líneas transversales que las cortan. Por el Teorema de Tales, los segmentos que se forman en la rampa son proporcionales a los segmentos correspondientes en la base.\nSea el tramo de B al final de la rampa 'BC'. El tramo total desde A hasta el final es AC = 7.5 m, por lo tanto AC = AB + BC.\nLa proporción es: AB / 3 = BC / 2.\nDe la proporción, podemos decir que BC = 2 * (AB/3).\nSustituyendo en la suma: AB + (2*AB/3) = 7.5\n(5*AB/3) = 7.5\n5*AB = 22.5\nAB = 4.5 m.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p45",
+      "contexto": "Una familia se dedica a la producción de chocolates artesanales. Estos presentan forma cónica y tienen el mismo tamaño. Por su buena acogida, han decidido iniciar la producción de una nueva presentación de los chocolates, la cual mantendrá la forma cónica, pero tendrá la mitad del volumen de la primera.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Entre las siguientes alternativas, ¿cuál podría ser la relación entre las medidas de ambas presentaciones?",
+          "opciones": [
+            "La altura de la nueva presentación será la mitad de la altura de la presentación inicial, pero el diámetro de la base de cada una de ellas tendrá la misma medida.",
+            "El diámetro de la base de la nueva presentación será la mitad de la medida respectiva de la presentación inicial, pero sus alturas tendrán la misma medida.",
+            "Tanto el diámetro de la base como la altura de la nueva presentación tendrá la mitad de las correspondientes medidas de la presentación inicial."
+          ],
+          "respuesta": "La altura de la nueva presentación será la mitad de la altura de la presentación inicial, pero el diámetro de la base de cada una de ellas tendrá la misma medida.",
+          "respuestaCorta": "El volumen de un cono es directamente proporcional a su altura. Si se mantiene el radio de la base constante, reducir la altura a la mitad reducirá el volumen a la mitad.",
+          "solucionario": "El volumen de un cono se calcula con la fórmula V = (1/3)π * r^2 * h. Queremos que el nuevo volumen V' sea la mitad del original V, es decir, V' = V/2.\n- Opción A: Si h' = h/2 y r' = r, entonces V' = (1/3)π * r^2 * (h/2) = ( (1/3)π * r^2 * h ) / 2 = V/2. Esta opción es correcta.\n- Opción B: Si r' = r/2 y h' = h, entonces V' = (1/3)π * (r/2)^2 * h = (1/3)π * (r^2/4) * h = V/4. Incorrecto.\n- Opción C: Si h' = h/2 y r' = r/2, entonces V' = (1/3)π * (r/2)^2 * (h/2) = (1/3)π * (r^2/4) * (h/2) = V/8. Incorrecto.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p46",
+      "contexto": "Con el propósito de favorecer la comprensión de las medidas de tendencia central, un docente propone a sus estudiantes el siguiente problema:\nEn un aula hay 30 estudiantes, y la media de sus estaturas es 150 cm. Si a este grupo se incorpora un estudiante de 155 cm de estatura, determina la media de los 31 estudiantes. Explica.\nUn estudiante respondió: \"Se debe calcular la media entre 150 cm y 155 cm. El resultado es 152,5 cm, el cual se debe aproximar a 153 cm\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es el error principal que se evidencia en la respuesta del estudiante?",
+          "opciones": [
+            "Consideró que se debe realizar la aproximación por redondeo, después de obtener la media de un conjunto de datos.",
+            "Consideró que se puede determinar la media del total de estudiantes sin conocer las estaturas de cada uno de ellos.",
+            "Consideró la media de dos valores sin tomar en cuenta que uno de ellos es la media de treinta valores."
+          ],
+          "respuesta": "Consideró la media de dos valores sin tomar en cuenta que uno de ellos es la media de treinta valores.",
+          "respuestaCorta": "El error es tratar la media de 30 estudiantes como si fuera un solo dato, ignorando el 'peso' o la frecuencia de los datos que representa.",
+          "solucionario": "El estudiante calcula (150 + 155) / 2, lo cual sería correcto si se promediaran dos datos individuales. Sin embargo, el valor 150 cm no es un solo dato, sino la media de 30 datos. El error fundamental es no ponderar los valores. El cálculo correcto requiere encontrar la suma total de las estaturas iniciales (30 * 150 = 4500 cm), añadir la nueva estatura (4500 + 155 = 4655 cm) y dividir por el nuevo total de estudiantes (4655 / 31 ≈ 150.16 cm). El estudiante ignoró el peso que representaban los 30 estudiantes en el promedio.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p47",
+      "contexto": "Una docente presenta una actividad que involucra una situación en la que se indica la cantidad de minutos que empleó cada estudiante de quinto grado para desarrollar una prueba escrita. Como parte de la actividad, ella solicita que determinen el tercer cuartil; el cual corresponde al valor del tiempo que delimita los valores de la cuarta parte de los estudiantes que emplearon más tiempo en desarrollar su prueba. Durante el monitoreo, la docente se percata de que uno de los estudiantes, al determinar el tercer cuartil, omite ordenar previamente los datos. La docente busca brindar retroalimentación al estudiante de modo que reflexione sobre su error.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes grupos de preguntas es más pertinente para ello?",
+          "opciones": [
+            "¿Se debería ordenar previamente el conjunto de datos para hallar el tercer cuartil? ¿Qué función tendría tal ordenamiento de los datos? ¿Se puede aceptar que una medida de posición ignore el orden?",
+            "¿Cómo has calculado el valor del tercer cuartil? ¿Cumple la condición de establecer la cuarta parte del grupo de estudiantes? ¿Los tres cuartiles determinan cuatro grupos, todos con igual cantidad de datos?",
+            "¿Qué característica común deben tener todos los valores que superan el tercer cuartil? En esa cuarta parte de datos que se ha delimitado, ¿hay algún valor que no tiene esa característica?, ¿por qué crees que ocurre eso?"
+          ],
+          "respuesta": "¿Qué característica común deben tener todos los valores que superan el tercer cuartil? En esa cuarta parte de datos que se ha delimitado, ¿hay algún valor que no tiene esa característica?, ¿por qué crees que ocurre eso?",
+          "respuestaCorta": "La retroalimentación más efectiva guía al estudiante a verificar si su resultado cumple la definición de cuartil, lo que le permitirá descubrir por sí mismo la necesidad de ordenar los datos.",
+          "solucionario": "Las preguntas de la opción C utilizan una estrategia de retroalimentación por descubrimiento. Al pedirle al estudiante que verifique la característica principal de los datos por encima del tercer cuartil (que deberían ser los más altos), se le confronta con una posible contradicción en su propio resultado. Si no ordenó los datos, es muy probable que en su supuesto 'cuarto superior' haya valores bajos. La pregunta '¿por qué crees que ocurre eso?' lo impulsa a reflexionar sobre su procedimiento y a darse cuenta de que el orden es un requisito indispensable. Las otras opciones son más directivas y no promueven que el estudiante descubra el error por sí mismo.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p48",
+      "contexto": "Con el propósito de favorecer la comprensión de las probabilidades, un docente propone, a los estudiantes de cuarto grado, el siguiente problema: ",
+      "imagen": "img/ascenso/secundaria/2021/matematica/15.jpg",
+      "preguntas": [
+        {
+          "pregunta": "Fabiola, una estudiante, presentó el siguiente procedimiento:\nProbabilidad = (Cantidad de casos favorables) / (Cantidad de casos posibles) = 40/60 = 2/3 <br>Respecto de la cantidad de casos posibles utilizado en el procedimiento de Fabiola, ¿por qué es correcto este valor?",
+          "opciones": [
+            "Porque se corresponde con la cantidad total de estudiantes que desaprobó.",
+            "Porque se corresponde con la cantidad total de estudiantes que dedicó poco tiempo a su preparación.",
+            "Porque se corresponde con la cantidad de estudiantes que desaprobó y que dedicó poco tiempo a su preparación."
+          ],
+          "respuesta": "Porque se corresponde con la cantidad total de estudiantes que dedicó poco tiempo a su preparación.",
+          "respuestaCorta": "En una probabilidad condicional, el espacio muestral (casos posibles) se reduce al grupo que cumple la condición dada, en este caso, el total de estudiantes que dedicaron 'poco tiempo'.",
+          "solucionario": "La pregunta plantea una probabilidad condicional: P(Desaprobado | Poco tiempo). La condición 'si se conoce que ha dedicado poco tiempo' restringe el universo de análisis únicamente a los estudiantes de esa categoría. Mirando la tabla en la columna 'Poco tiempo', el número total de estudiantes es 20 (aprobados) + 40 (desaprobados) = 60. Este total restringido se convierte en la nueva 'cantidad de casos posibles' (el denominador). Por lo tanto, el valor 60 es correcto porque representa al total de estudiantes que cumplen la condición de haber dedicado poco tiempo a su preparación.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+  
+    {
+      "idGrupo": "asc_secundaria_2021_p49",
+      "contexto": "Con el propósito de que los estudiantes resuelvan problemas que involucran medidas de dispersión, un docente les presenta la siguiente situación:",
+      "imagen": "img/ascenso/secundaria/2021/matematica/16.jpg",
+      "preguntas": [
+        {
+          "pregunta": "A partir de la situación planteada, el docente ha propuesto tres tareas. ¿Cuál de ellas es de mayor demanda cognitiva?",
+          "opciones": [
+            "Calcular la desviación estándar de los pesos de las esferas que se elaboraron con cada una de las máquinas.",
+            "Explicar cuál de las dos máquinas es la mejor opción de compra, considerando la precisión de estas en la producción de las esferas.",
+            "Describir las características de los pesos de las esferas elaboradas por cada máquina, haciendo uso del promedio de dichos pesos."
+          ],
+          "respuesta": "Explicar cuál de las dos máquinas es la mejor opción de compra, considerando la precisión de estas en la producción de las esferas.",
+          "respuestaCorta": "Esta tarea es de mayor demanda cognitiva porque requiere no solo calcular una medida de dispersión, sino también interpretar su significado (precisión), comparar los resultados y argumentar una decisión.",
+          "solucionario": "La demanda cognitiva se mide por la complejidad del pensamiento requerido. La opción A es una tarea puramente procedimental (aplicar una fórmula). La opción C es una tarea de interpretación básica. La opción B, en cambio, es la más compleja porque integra múltiples habilidades: debe calcular una medida de dispersión (como la desviación estándar), interpretar este dato en el contexto del problema (menor dispersión significa mayor precisión), comparar los resultados de ambas máquinas y, finalmente, evaluar y justificar una decisión. Este proceso de análisis, síntesis y evaluación es característico de una alta demanda cognitiva.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p50",
+      "contexto": "En el marco de una actividad de investigación que involucra utilizar conocimientos de estadística descriptiva, se han conformado equipos de estudiantes de tercer grado.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Si uno de los propósitos del docente es promover el aprendizaje autónomo de los estudiantes, ¿cuál de las siguientes acciones pedagógicas es más pertinente para dicho propósito?",
+          "opciones": [
+            "Plantearles que, con fines de investigación, elijan una temática importante para todos los estudiantes de la IE que les permita utilizar tablas y gráficos estadísticos. Luego, darles un plazo adecuado de ejecución e indicar que el resultado debe sistematizarse y presentarse en el aula.",
+            "Solicitarles que determinen una problemática de la IE que ellos consideren importante. Luego, pedirles que diseñen un instrumento de recojo de datos estadísticos, y, una vez mejorado, que lo apliquen. Finalmente, monitorear el procesamiento de datos y su presentación en el aula.",
+            "Preguntarles, mediante una encuesta, qué quisieran cambiar en la IE. A partir de los resultados, asignar a cada equipo una problemática y plantearle una secuencia de pasos que incluya el uso de medidas de posición y medidas de dispersión. Precisarles que el resultado se expondrá en el aula."
+          ],
+          "respuesta": "Solicitarles que determinen una problemática de la IE que ellos consideren importante. Luego, pedirles que diseñen un instrumento de recojo de datos estadísticos, y, una vez mejorado, que lo apliquen. Finalmente, monitorear el procesamiento de datos y su presentación en el aula.",
+          "respuestaCorta": "Para promover la autonomía, el docente debe actuar como un mediador que guía y monitorea, permitiendo que los estudiantes tomen la iniciativa en la definición del problema y el diseño de la metodología.",
+          "solucionario": "El aprendizaje autónomo se fomenta cuando los estudiantes son protagonistas de su proceso de aprendizaje. La opción B es la más pertinente porque el docente otorga a los estudiantes la responsabilidad de las etapas clave de la investigación (elegir la problemática, diseñar el instrumento), mientras él asume un rol de guía y mediador ('una vez mejorado', 'monitorear'). En contraste, la opción A es muy abierta y carece de andamiaje, y la opción C es demasiado directiva, ya que el docente asigna el problema y la secuencia de pasos, limitando la autonomía del estudiante.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p51",
+      "contexto": "Una docente tiene como propósito promover el desarrollo de la noción de aleatoriedad en los estudiantes de primer grado. Para ello, debe proponer una actividad inicial que ellos desarrollarán en equipos.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Cuál de las siguientes actividades es pertinente para que la docente logre su propósito?",
+          "opciones": [
+            "Entregarles una moneda. Pedirles que lancen la moneda 50 veces y que, en cada oportunidad, registren si salió cara o sello. Solicitarles que establezcan si uno de estos resultados es más factible que salga en el lanzamiento 51.",
+            "Explicarles que los experimentos que tienen resultados predecibles son llamados deterministas y los no predecibles, aleatorios. Entregarles un listado de experimentos para que los clasifiquen en dos grupos: en uno se encontrarán los experimentos deterministas y, en el otro, los aleatorios.",
+            "Entregarles un dado y una bolsa oscura con tres bolas rojas. Indicarles que deben predecir los resultados antes de lanzar el dado y de extraer, al azar, una bola de la bolsa. Preguntarles si acertaron en sus predicciones y que digan por qué. Pedirles que repitan cada experimento 10 veces."
+          ],
+          "respuesta": "Entregarles un dado y una bolsa oscura con tres bolas rojas. Indicarles que deben predecir los resultados antes de lanzar el dado y de extraer, al azar, una bola de la bolsa. Preguntarles si acertaron en sus predicciones y que digan por qué. Pedirles que repitan cada experimento 10 veces.",
+          "respuestaCorta": "Para construir la noción de aleatoriedad, es efectivo contrastar directamente un experimento aleatorio (lanzar un dado) con uno determinista (sacar una bola de una bolsa que solo contiene bolas iguales).",
+          "solucionario": "La opción C es la más pertinente para una actividad inicial porque permite a los estudiantes construir la noción de aleatoriedad a partir de la experiencia y el contraste. Al intentar predecir el resultado del dado, se enfrentarán a la incertidumbre (experimento aleatorio). Al predecir el resultado de la bolsa con bolas rojas, experimentarán la certeza (experimento determinista). Este contraste directo les permite diferenciar ambos tipos de fenómenos y empezar a construir el significado de 'aleatorio'. Las otras opciones son menos adecuadas para una fase inicial: la A aborda un concepto más avanzado (independencia de sucesos) y la B es expositiva, no constructivista.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p52",
+      "contexto": "En un distrito con aproximadamente 500 000 habitantes, se ubica una institución educativa a la que se puede acceder en transporte público, auto particular o a pie. Esta institución tiene alrededor de 1500 estudiantes. Debido a los serios problemas con el tránsito vehicular, los directivos iniciaron un estudio para conocer qué medio de transporte usan los estudiantes al trasladarse al local escolar. Para ello, se aplicó una encuesta a 220 estudiantes.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Como primera actividad, el docente pidió a los estudiantes que identifiquen la población objeto de estudio. ¿Quién respondió correctamente?",
+          "opciones": [
+            "Luis dijo: \"Es el total de habitantes del distrito, es decir, 500 000 personas\".",
+            "Alondra dijo: \"Es el total de estudiantes de la IE, es decir, 1500 personas\".",
+            "Elizabeth dijo: \"Son los estudiantes encuestados, es decir, 220 personas\"."
+          ],
+          "respuesta": "Alondra dijo: \"Es el total de estudiantes de la IE, es decir, 1500 personas\".",
+          "respuestaCorta": "La población es el conjunto total de individuos sobre el cual se desea hacer una inferencia, que en este caso es la totalidad de los estudiantes de la institución.",
+          "solucionario": "En estadística, es crucial diferenciar entre población y muestra. La **población** es el universo completo de sujetos que se desea estudiar (todos los estudiantes de la IE, 1500). La **muestra** es un subconjunto representativo de la población que es efectivamente estudiado (los 220 estudiantes encuestados). El objetivo del estudio es conocer los hábitos de todos los estudiantes de la IE, por lo tanto, ellos son la población. Elizabeth describe la muestra, y Luis describe un universo más amplio que no es el foco del estudio.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p53",
+      "contexto": "Durante todo un año, un vendedor de calzados logró las siguientes ventas por tallas de calzado:",
+      "imagen": "img/ascenso/secundaria/2021/matematica/17.jpg",
+      "preguntas": [
+        {
+          "pregunta": "Si se quiere determinar la talla de calzado más solicitada durante ese año, ¿qué medida de tendencia central será útil para ello?",
+          "opciones": [
+            "La mediana.",
+            "La media.",
+            "La moda."
+          ],
+          "respuesta": "La moda.",
+          "respuestaCorta": "La moda es la medida de tendencia central que representa el valor con mayor frecuencia en un conjunto de datos, es decir, el más común o 'más solicitado'.",
+          "solucionario": "Cada medida de tendencia central tiene un propósito específico. La **media** es el promedio aritmético. La **mediana** es el valor central de un conjunto de datos ordenados. La **moda** es el valor que aparece con más frecuencia. Dado que la pregunta es por la talla 'más solicitada', se busca el dato más frecuente en las ventas, lo cual corresponde exactamente a la definición de la moda (en este caso, la talla 42, con 1200 unidades vendidas).",
+          "seccion": "Conocimiento Didáctico"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p54",
+      "contexto": "Como parte de una actividad, una docente les presenta a los estudiantes, una tabla estadística que muestra algunos datos del Censo Nacional de Población del año 2017, de la región Loreto. Estos datos se refieren al nivel educativo alcanzado por la población censada de 15 años a más, según provincia.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Luego, la docente les solicita seleccionar el gráfico estadístico pertinente para representar los datos. Al respecto, tres estudiantes ofrecieron sus respuestas. ¿Quién propuso un gráfico acorde a la solicitud de la docente?",
+          "opciones": [
+            "Pamela dice: \"El pictograma\".",
+            "Felipe dice: \"El gráfico circular\".",
+            "Ana dice: \"El de barras apiladas\"."
+          ],
+          "respuesta": "Ana dice: \"El de barras apiladas\".",
+          "respuestaCorta": "Un gráfico de barras apiladas es ideal para comparar una variable categórica (nivel educativo) a través de diferentes grupos (provincias), mostrando tanto las partes como el total.",
+          "solucionario": "Se tienen dos variables categóricas: provincia y nivel educativo. Se quiere comparar la distribución del nivel educativo entre las distintas provincias. Un **gráfico de barras apiladas** es muy eficaz para esto: cada barra puede representar una provincia (el total de su población censada), y los segmentos de la barra, apilados uno sobre otro, representan el número o porcentaje de personas en cada nivel educativo. Esto permite comparar tanto los totales por provincia como la composición interna de cada una. Un gráfico circular no permite comparar fácilmente entre provincias, y un pictograma es menos preciso.",
+          "seccion": "Conocimiento Didáctico"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p55",
+      "contexto": "En un taller automotriz, el mantenimiento de frenos y el afinamiento son los dos servicios más solicitados. A partir del registro de datos mensuales, se ha determinado que la probabilidad de que un cliente solicite el servicio de mantenimiento de frenos es 30%, el de afinamiento es 40%, y que el cliente solicite ambos es 20%.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es la probabilidad de que un cliente solicite al menos uno de estos dos servicios?",
+          "opciones": [
+            "50%",
+            "70%",
+            "90%"
+          ],
+          "respuesta": "50%",
+          "respuestaCorta": "La probabilidad de que ocurra al menos uno de dos eventos (A o B) se calcula como P(A) + P(B) - P(A y B).",
+          "solucionario": "La pregunta pide la probabilidad de que un cliente solicite frenos O afinamiento. Se utiliza la regla de la suma para probabilidades:\nP(A ∪ B) = P(A) + P(B) - P(A ∩ B)\nDonde:\n- P(A) = Probabilidad de frenos = 0.30\n- P(B) = Probabilidad de afinamiento = 0.40\n- P(A ∩ B) = Probabilidad de ambos = 0.20\nSustituyendo los valores:\nP(Frenos ∪ Afinamiento) = 0.30 + 0.40 - 0.20 = 0.50\nLa probabilidad es del 50%.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p56",
+      "contexto": "Con el propósito de promover la interpretación de la probabilidad de un suceso, un docente propuso el siguiente problema a los estudiantes.\nMuchos jóvenes desean estudiar una carrera universitaria en una universidad pública. Una investigación reportó que la probabilidad de ingreso a cierta universidad pública el año anterior fue 0,4. De otra parte, para este año se proyecta que la probabilidad de ingresar a esa universidad disminuiría en 15 puntos porcentuales respecto de la probabilidad del año anterior.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Determinar la probabilidad de ingreso para este año. Tres estudiantes ofrecen sus respuestas. ¿Quién expresa una respuesta correcta acerca de la probabilidad de ingreso en este año?",
+          "opciones": [
+            "Augusto dice: \"15 de cada 40 postulantes\".",
+            "María dice: \"3 de cada 20 postulantes\".",
+            "Lucía dice: \"1 de cada 4 postulantes\"."
+          ],
+          "respuesta": "Lucía dice: \"1 de cada 4 postulantes\".",
+          "respuestaCorta": "La nueva probabilidad es 0.4 - 0.15 = 0.25. Esta probabilidad es equivalente a la fracción 1/4, que significa '1 de cada 4'.",
+          "solucionario": "1. La probabilidad del año anterior era 0.4.\n2. Una disminución de '15 puntos porcentuales' significa que se resta directamente 0.15 a la probabilidad anterior.\n3. La nueva probabilidad es: 0.4 - 0.15 = 0.25.\n4. Ahora se debe convertir esta probabilidad a la forma de 'casos de cada total' que usan los estudiantes:\n   - 0.25 es igual a la fracción 25/100, que simplificada es 1/4.\n5. Una probabilidad de 1/4 significa que, en promedio, 1 de cada 4 postulantes ingresará. Esta es la respuesta de Lucía.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p57",
+      "contexto": "Una docente planifica una sesión de aprendizaje de quinto grado, en la que se resolverán problemas que involucran a los percentiles. En el diseño de una actividad, ella selecciona un gráfico que muestra la distribución de datos referidos al tiempo empleado por los 200 competidores de una maratón escolar. En este gráfico, se aprecia que está marcado el percentil 20 de la distribución de datos.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "La docente proyecta, como una de las tareas, que los estudiantes determinen el valor de verdad de afirmaciones relacionadas con la situación. ¿Cuál de las siguientes afirmaciones es verdadera?",
+          "opciones": [
+            "El percentil 20 es el cociente de la división del total de datos de la distribución, referidos a los tiempos de los competidores, entre 20.",
+            "Dos de cada diez datos de la distribución, referidos a los tiempos de los competidores, están ubicados por debajo del percentil 20.",
+            "El percentil 20 indica que, por debajo de este valor, se encuentran 20 datos de la distribución referidos a los tiempos de los competidores."
+          ],
+          "respuesta": "Dos de cada diez datos de la distribución, referidos a los tiempos de los competidores, están ubicados por debajo del percentil 20.",
+          "respuestaCorta": "El percentil 20 (P20) es el valor por debajo del cual se encuentra el 20% de los datos. La proporción 20% es equivalente a 20/100 o 2/10 (dos de cada diez).",
+          "solucionario": "La definición de percentil 'k' (Pk) es el valor de la variable que deja por debajo de sí al 'k' por ciento de los datos de la distribución. En este caso, el percentil 20 es el tiempo por debajo del cual se encuentra el 20% de los competidores más rápidos. La afirmación de la opción B expresa esto correctamente en forma de proporción: 20% es lo mismo que 20 de cada 100, o 2 de cada 10. La opción C es incorrecta porque el percentil 20 no se refiere a 20 datos, sino al 20% de los datos (en este caso, 20% de 200 = 40 competidores).",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p58",
+      "contexto": "En el año 2017, se realizó el XII Censo Nacional de Población. Este mostró desafíos para superar brechas. Entre otros datos, este censo recogió información sobre la afiliación a algún seguro de salud. A continuación, se presenta dicha información:",
+      "imagen": "img/ascenso/secundaria/2021/matematica/18.jpg",
+      "preguntas": [
+        {
+          "pregunta": "Si una persona elegida al azar es del área rural, ¿cuál es la probabilidad de que esta persona esté afiliada a algún seguro de salud?",
+          "opciones": [
+            "5/6",
+            "5/22",
+            "5/29"
+          ],
+          "respuesta": "5/6",
+          "respuestaCorta": "Es una probabilidad condicional. El universo se reduce a la población rural (6 millones), de la cual 5 millones tienen seguro. La probabilidad es 5/6.",
+          "solucionario": "Esta es una pregunta de probabilidad condicional. La condición 'si una persona elegida al azar es del área rural' limita nuestro espacio muestral (el total de casos posibles) a la población del área rural.\n1. Total de población en el área rural: 5 millones (con seguro) + 1 millón (sin seguro) = 6 millones.\n2. Casos favorables (personas afiliadas a un seguro dentro de esa área): 5 millones.\n3. La probabilidad es la razón de los casos favorables entre los casos posibles: 5 millones / 6 millones = 5/6.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p59",
+      "contexto": "La siguiente tabla muestra la media y desviación estándar de los tiempos de entrega de 10 repartos de menú a domicilio realizados por tres restaurantes, ubicados en un mismo distrito, durante la mañana de un mismo día.",
+      "imagen": "img/ascenso/secundaria/2021/matematica/19.jpg",
+      "preguntas": [
+        {
+          "pregunta": "A partir de esta información, ¿cuál de las siguientes afirmaciones es correcta?",
+          "opciones": [
+            "Los repartos del restaurante 1 siempre demoran menos que los repartos de los otros dos restaurantes.",
+            "Los repartos del restaurante 2 demoran entre 17 y 21 minutos en todos los casos.",
+            "Los repartos del restaurante 3 demoran usualmente tiempos similares entre sí."
+          ],
+          "respuesta": "Los repartos del restaurante 3 demoran usualmente tiempos similares entre sí.",
+          "respuestaCorta": "El restaurante 3 tiene la desviación estándar más baja (1 min), lo que indica que sus tiempos de entrega son los más consistentes y menos dispersos, es decir, son más similares entre sí.",
+          "solucionario": "La desviación estándar es una medida de la dispersión o variabilidad de los datos. Un valor bajo indica que los datos tienden a estar muy cerca de la media (son más homogéneos), mientras que un valor alto indica que los datos están más esparcidos.\n- Restaurante 3 tiene la desviación estándar más pequeña (1 min). Esto significa que sus tiempos de entrega son los más regulares y predecibles, agrupándose estrechamente alrededor de su media de 21 minutos. Por lo tanto, sus tiempos son 'similares entre sí'.\n- La opción A es incorrecta porque la media no garantiza que 'siempre' sea más rápido. La opción B es incorrecta porque el intervalo de una desviación estándar no contiene necesariamente 'todos los casos'.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p60",
+      "contexto": "En el marco de una sesión de aprendizaje en la que los estudiantes de quinto grado interpretan distribuciones de frecuencias, un docente presentó la siguiente situación:",
+      "imagen": "img/ascenso/secundaria/2021/matematica/20.jpg",
+      "preguntas": [
+        {
+          "pregunta": "Luego, el docente pidió que establezcan conclusiones a partir del gráfico. Tres estudiantes respondieron. ¿Quién planteó una conclusión correcta?",
+          "opciones": [
+            "Julia dijo: \"Más de la mitad de los postulantes presentan estaturas por debajo de la media\".",
+            "Luis dijo: \"Las estaturas más bajas de los postulantes se ubican en el lado derecho de la distribución\".",
+            "Kiara dijo: \"La moda de los datos está representada por la mayor de las estaturas de los postulantes\"."
+          ],
+          "respuesta": "Julia dijo: \"Más de la mitad de los postulantes presentan estaturas por debajo de la media\".",
+          "respuestaCorta": "En una distribución con asimetría positiva (sesgada a la derecha), como la mostrada, la media es mayor que la mediana. Como la mediana divide a los datos en 50%, esto implica que más del 50% de los datos están por debajo de la media.",
+          "solucionario": "El gráfico muestra una distribución de frecuencias con asimetría positiva o sesgada a la derecha. En este tipo de distribuciones, la relación entre las medidas de tendencia central es: Moda < Mediana < Media. \n- La **Mediana (Me)** es el punto que divide la distribución en dos mitades iguales (50% de los datos por debajo, 50% por encima).\n- La **Media (x̄)**, al ser sensible a los valores extremos (la 'cola' de la derecha en este caso), se desplaza hacia esa cola, siendo mayor que la mediana.\n- Dado que la Media es mayor que la Mediana, el punto que acumula el 50% de los datos (la Mediana) se encuentra a la izquierda de la Media. Por lo tanto, es correcto afirmar que más de la mitad de los datos se encuentran por debajo del valor de la media.",
+          "seccion": "Casuística"
+        }
+      ]
+    }
+  ]
+}
+  

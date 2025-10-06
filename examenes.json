@@ -599,5 +599,18 @@
     "archivos": {
       "especifico": "data/ascenso/secundaria/2021/ascenso_ept2021.json"
     }
+  },
+  {
+    "id": 58,
+    "proceso": "Ascenso",
+    "anio": 2021,
+    "nivel": "Secundaria",
+    "especialidad": "Matemática ",
+    "modalidad": "EBR",
+    "preguntas": 60,
+    "tiempo": 180,
+    "archivos": {
+      "especifico": "data/ascenso/secundaria/2021/ascenso_mate2021.json"
+    }
   }
 ]
