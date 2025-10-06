@@ -625,5 +625,18 @@
     "archivos": {
       "especifico": "data/ascenso/secundaria/2021/ascenso_cyt2021.json"
     }
+  },
+  {
+    "id": 60,
+    "proceso": "Ascenso",
+    "anio": 2021,
+    "nivel": "Primaria",
+    "especialidad": "Educación Física ",
+    "modalidad": "EBR",
+    "preguntas": 60,
+    "tiempo": 180,
+    "archivos": {
+      "especifico": "data/ascenso/primaria/2021/ascenso_edufisica2021.json"
+    }
   }
 ]
