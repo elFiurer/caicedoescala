@@ -1,0 +1,939 @@
+{
+  "completo": [
+    {
+      "idGrupo": "asc_secundaria_2021_p01",
+      "contexto": "Una docente se encuentra desarrollando una unidad didáctica sobre las características del suelo. En ese contexto, en una de las sesiones de aprendizaje, un equipo de estudiantes presenta la siguiente propuesta de indagación:\nNuestro equipo va a identificar qué tipo de suelo retiene mayor cantidad de agua. Para ello, vamos a realizar lo siguiente:\n1. Conseguir los siguientes materiales:\n• 6 muestras de suelo: 2 muestras de suelo arcilloso, 2 muestras de suelo arenoso y 2 muestras de suelo orgánico. Cada muestra de suelo debe pesar 50 g\n• 6 vasos descartables transparentes iguales\n• 6 tacitas o vasitos medidores de los que se usan para tomar jarabe\n• Agua\n2. En la base de cada vaso descartable se deben hacer tres agujeros de igual tamaño. La ubicación y la distancia que separa los agujeros debe ser igual en todos los vasos.\n3. Colocar cada una de las muestras de suelo en los vasos descartables, compactarlas y rotularlas.\n4. Instalar una tacita o vasito medidor en la base de cada vaso descartable de tal manera que sirva como colector del agua que se filtrará por los tres agujeros.\n5. Verter 10 mL de agua sobre cada una de las muestras de suelo.\n6. Después de 6 minutos, observar y registrar la cantidad de agua colectada en las tacitas o vasitos medidores de cada muestra.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes es la variable dependiente en la propuesta de indagación presentada por los estudiantes?",
+          "opciones": [
+            "La masa de cada muestra de suelo empleada.",
+            "El tiempo transcurrido hasta que empieza a salir el agua de las muestras.",
+            "La diferencia entre la cantidad de agua que ingresa y la que sale de las muestras."
+          ],
+          "respuesta": "La diferencia entre la cantidad de agua que ingresa y la que sale de las muestras.",
+          "respuestaCorta": "La variable dependiente es lo que se mide como resultado del experimento. En este caso, se mide la cantidad de agua retenida, que es la diferencia entre el agua añadida y el agua recolectada.",
+          "solucionario": "En una indagación científica, la variable dependiente es aquella que se mide para observar el efecto de la variable independiente. El objetivo del equipo es \"identificar qué tipo de suelo retiene mayor cantidad de agua\". Para medir la retención, deben calcular la diferencia entre el volumen de agua que vierten (10 mL) y el volumen de agua que se filtra y colectan. Este valor calculado es el resultado que depende del tipo de suelo (variable independiente).",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Luego de llevar a cabo la propuesta de indagación, los estudiantes observaron que la cantidad de agua recolectada era muy pequeña como para identificar diferencias significativas entre las muestras. Tomando en cuenta lo observado por los estudiantes, ¿cuál de los siguientes ajustes es necesario realizar en la propuesta?",
+          "opciones": [
+            "Para cada tipo de suelo, incluir dos muestras de 100 g. Verter 20 mL de agua sobre las dos muestras.",
+            "Para cada tipo de suelo, incluir dos muestras de 50 g. Verter 20 mL de agua sobre una de las muestras y 50 mL de agua sobre la otra muestra.",
+            "Para cada tipo de suelo, incluir dos muestras de 150 g. Una de ellas será la muestra control. Verter 30 mL de agua sobre la otra muestra."
+          ],
+          "respuesta": "Para cada tipo de suelo, incluir dos muestras de 50 g. Verter 20 mL de agua sobre una de las muestras y 50 mL de agua sobre la otra muestra.",
+          "respuestaCorta": "El problema es que se recolecta muy poca agua, lo que dificulta la medición. La solución es aumentar la cantidad de agua vertida para que el volumen filtrado sea mayor y más fácil de medir, manteniendo las demás variables controladas.",
+          "solucionario": "El problema central es la dificultad para medir diferencias significativas en el agua recolectada. La opción A, aunque duplica la cantidad de agua, también duplica la de suelo, lo que podría no resolver el problema de la medición. La opción C introduce una muestra control innecesaria y cambia la masa de suelo. La opción B propone verter diferentes cantidades de agua (20 mL y 50 mL), lo que permitirá observar un mayor volumen de agua filtrada y facilitará la identificación de diferencias. Sin embargo, lo ideal sería estandarizar a un volumen mayor, como 50 mL para todas las muestras, para mantener la coherencia del diseño experimental original que solo varía el tipo de suelo. Aun así, entre las opciones, la B es la que mejor aborda el problema de la medición al incrementar el volumen de agua.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Luego de realizar los ajustes a su propuesta de indagación, los estudiantes la llevan a cabo. A continuación, se presenta la conclusión elaborada por uno de los integrantes del equipo: \"El suelo arenoso filtra más rápido el agua que los demás tipos de suelo\". ¿Cuál es el error que se evidencia en la conclusión elaborada por el estudiante?",
+          "opciones": [
+            "Considerar la rapidez de filtración en lugar de la cantidad de agua retenida por cada tipo de suelo.",
+            "Considerar la rapidez de filtración del agua en lugar de explicar a qué se deben las diferencias entre los tipos de suelo en función del tiempo que demoran en filtrar el agua.",
+            "Considerar que el suelo arenoso filtra el agua más rápido que los otros tipos de suelo en lugar de explicitar el tiempo que este tarda en filtrar el agua, en comparación con los otros tipos de suelo."
+          ],
+          "respuesta": "Considerar la rapidez de filtración en lugar de la cantidad de agua retenida por cada tipo de suelo.",
+          "respuestaCorta": "El objetivo inicial de la indagación era medir la retención de agua, no la velocidad de filtración. La conclusión del estudiante se desvía de la pregunta de indagación original.",
+          "solucionario": "La pregunta de indagación que guio todo el experimento fue \"identificar qué tipo de suelo retiene mayor cantidad de agua\". Por lo tanto, la conclusión debe responder a esa pregunta, comparando la cantidad de agua retenida por cada tipo de suelo. La afirmación del estudiante se enfoca en la velocidad (\"filtra más rápido\"), que es una variable diferente a la que se plantearon medir. El error es de coherencia entre la pregunta de indagación y la conclusión.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p02",
+      "contexto": "Un docente se encuentra realizando una unidad didáctica sobre los factores que intervienen en el crecimiento de los microorganismos. En ese contexto, un estudiante comenta lo siguiente: \"Me he dado cuenta de que en mi casa no podemos dejar el pan por mucho tiempo porque rápidamente se forman hongos en su superficie. Esto es un problema, porque el lugar donde venden pan nos queda lejos de la casa y es difícil ir a comprar todos los días. Entonces, compramos pan para varios días. Por eso, me gustaría saber cómo se puede almacenar el pan para evitar la rápida formación de hongos\".\nAlgunos estudiantes comentan que, para evitar la rápida formación de hongos, guardan el pan en bolsas de tela de algodón o de papel, pero no están seguros de qué material es mejor para este propósito. Por ello, quisieran comprobar qué material es más adecuado para retardar la formación de hongos en el pan. El docente les sugiere plantear, en equipos, una propuesta de indagación.\nA continuación, se presenta la propuesta de un equipo de estudiantes:",
+      "imagen": "img/ascenso/secundaria/2021/cyt/1.jpg",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes hipótesis NO se puede validar con esta propuesta de indagación?",
+          "opciones": [
+            "La presencia de aire propicia la formación de colonias de hongos en la superficie del pan.",
+            "Guardar el pan en bolsas de papel o de tela de algodón retarda la formación de colonias de hongos en su superficie.",
+            "La cantidad de colonias de hongos que se forman en la superficie del pan es menor en los panes que se guardan en bolsas de tela de algodón que en los que están a la intemperie."
+          ],
+          "respuesta": "La presencia de aire propicia la formación de colonias de hongos en la superficie del pan.",
+          "respuestaCorta": "El diseño experimental no incluye una condición sin aire para compararla con las condiciones con aire. Todas las muestras están expuestas al aire, por lo que no se puede probar su efecto.",
+          "solucionario": "Para validar una hipótesis sobre el efecto de una variable (en este caso, la presencia de aire), el experimento debe incluir una condición donde esa variable esté ausente (un grupo de control sin aire). En la propuesta de los estudiantes, todas las muestras, incluida la de la intemperie y las de las bolsas, contienen aire. Por lo tanto, es imposible determinar el efecto específico del aire en la formación de hongos.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Cuál de las siguientes es una variable dependiente en la propuesta de indagación presentada por los estudiantes?",
+          "opciones": [
+            "El tiempo transcurrido hasta la formación de las primeras colonias de hongos.",
+            "El tipo de material de las bolsas: papel o tela de algodón.",
+            "La masa de los panes que se colocarán en las bolsas."
+          ],
+          "respuesta": "El tiempo transcurrido hasta la formación de las primeras colonias de hongos.",
+          "respuestaCorta": "La variable dependiente es lo que se mide para ver el resultado. Los estudiantes miden el tiempo que tardan en aparecer los hongos para comparar la efectividad de los métodos de almacenamiento.",
+          "solucionario": "La variable dependiente es la que se mide y que cambia como respuesta a la variable independiente. En este caso, la variable independiente es el método de almacenamiento (intemperie, bolsa de papel, bolsa de tela). Para evaluar cuál es mejor, los estudiantes observan y miden una consecuencia: el \"tiempo transcurrido hasta la formación de las primeras colonias de hongos\" y la \"cantidad de colonias\". Ambas son variables dependientes.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p03",
+      "contexto": "Un docente se encuentra desarrollando una unidad didáctica sobre la forma en que los seres vivos obtienen energía. Como parte de esta unidad, presentó la siguiente ecuación global de la reacción química de un proceso de fermentación:\nC6H12O6 → 2CH3CH2OH + 2CO2 + energía\nglucosa        etanol        dióxido de carbono",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "La fermentación es un proceso anaeróbico. ¿Cuál de las siguientes características permite diferenciar la fermentación de la respiración aeróbica?",
+          "opciones": [
+            "La liberación de energía.",
+            "La obtención de etanol en lugar de agua.",
+            "La ruptura de glucosa en sustancias de menor peso molecular."
+          ],
+          "respuesta": "La obtención de etanol en lugar de agua.",
+          "respuestaCorta": "Una diferencia clave en los productos finales es que la fermentación alcohólica produce etanol, mientras que la respiración aeróbica produce agua.",
+          "solucionario": "Tanto la fermentación como la respiración aeróbica liberan energía y rompen la molécula de glucosa. Sin embargo, los productos finales son distintos debido a la presencia o ausencia de oxígeno. En la respiración aeróbica, el aceptor final de electrones es el oxígeno, lo que resulta en la formación de agua (H2O). En la fermentación alcohólica, un proceso anaeróbico, el producto final orgánico es el etanol (CH3CH2OH), no se produce agua.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p04",
+      "contexto": "A continuación, se presenta un gráfico sobre la evolución de la masa de calcio en los huesos de las mujeres.",
+      "imagen": "img/ascenso/secundaria/2021/cyt/2.jpg",
+      "preguntas": [
+        {
+          "pregunta": "A partir del gráfico, ¿cuál de las siguientes afirmaciones es correcta?",
+          "opciones": [
+            "La pérdida de masa de calcio en los huesos es igual entre los 60 y 70 que entre los 70 y 80 años.",
+            "El mayor incremento de masa de calcio en los huesos se da entre los 20 y los 30 años.",
+            "La mayor pérdida de masa de calcio en los huesos se da entre los 50 y los 60 años."
+          ],
+          "respuesta": "La mayor pérdida de masa de calcio en los huesos se da entre los 50 y los 60 años.",
+          "respuestaCorta": "Al observar la pendiente de la curva, la caída más pronunciada, que representa la mayor velocidad de pérdida de masa de calcio, ocurre en el intervalo de edad de 50 a 60 años.",
+          "solucionario": "Analizando el gráfico: \na) Entre 60 y 70 años, la masa de calcio baja de aprox. 880g a 680g (pérdida de 200g). Entre 70 y 80 años, baja de 680g a 640g (pérdida de 40g). Las pérdidas no son iguales. \nb) El incremento entre 20 y 30 años es de aprox. 980g a 1100g (aumento de 120g). El incremento entre 10 y 20 años es mucho mayor (de 400g a 980g). \nc) La pérdida entre 50 y 60 años es de aprox. 1020g a 880g (pérdida de 140g), una caída significativa. Visualmente, la pendiente negativa es más pronunciada en este tramo que en los posteriores, indicando la mayor tasa de pérdida.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p05",
+      "contexto": "Un docente se encuentra desarrollando una unidad didáctica que tiene como propósito que los estudiantes expliquen la naturaleza ácida o básica de las sustancias. En una de las sesiones de aprendizaje, el docente plantea la siguiente pregunta a los estudiantes: \"¿Cómo podemos identificar el valor de pH de las bebidas comerciales que solemos consumir?\".\nLos estudiantes conforman equipos para dar respuesta a la pregunta planteada por el docente. A continuación, se presenta la respuesta de uno de los equipos:",
+      "imagen": "img/ascenso/secundaria/2021/cyt/3.jpg",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es el error que se evidencia en la propuesta del equipo de estudiantes?",
+          "opciones": [
+            "Utilizar solamente papel tornasol azul sin incluir papel tornasol rojo.",
+            "Identificar si las bebidas son ácidas o básicas en lugar de determinar el valor de su pH.",
+            "Emplear bebidas de una sola marca o fabricante en lugar de incluir varias marcas de la misma bebida."
+          ],
+          "respuesta": "Identificar si las bebidas son ácidas o básicas en lugar de determinar el valor de su pH.",
+          "respuestaCorta": "La pregunta del docente fue cómo determinar el \"valor de pH\". El papel tornasol solo indica cualitativamente si una sustancia es ácida o básica, no proporciona un valor numérico.",
+          "solucionario": "El propósito planteado por el docente era \"identificar el valor de pH\", que es una medida cuantitativa (un número en la escala de 0 a 14). El procedimiento propuesto por los estudiantes, utilizando papel tornasol, solo permite una determinación cualitativa: si el papel cambia a rojo, la bebida es ácida (pH < 7), y si se queda azul, es básica (pH > 7). Este método no permite determinar el valor numérico específico del pH, que era el objetivo inicial.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Como parte del trabajo en equipo, una estudiante comenta lo siguiente: \"He visto un video en el que se usa esencia líquida de maíz morado como indicador casero de pH. En el video, agregan igual cantidad de esta esencia a cada una de las muestras, y se observa que el color de las muestras cambia, presentando diversas tonalidades de color morado. Luego, se comparan estas tonalidades con una tabla que indica los intervalos de pH que corresponden a cada tonalidad de color\". La estudiante propone realizar el procedimiento que vio en el video en lugar de utilizar papel tornasol azul. ¿Por qué se debe tomar en cuenta la propuesta de la estudiante?",
+          "opciones": [
+            "Porque se podría utilizar mayor cantidad de indicador de pH.",
+            "Porque el indicador de pH y las muestras serían productos alimenticios.",
+            "Porque permitiría diferenciar con mayor exactitud el pH de las muestras."
+          ],
+          "respuesta": "Porque permitiría diferenciar con mayor exactitud el pH de las muestras.",
+          "respuestaCorta": "El indicador de maíz morado, al ofrecer diferentes tonalidades que se comparan con una escala, permite estimar un rango más específico de pH, lo que es más exacto que la simple distinción ácido/base del papel tornasol.",
+          "solucionario": "La propuesta de la estudiante es superior porque se acerca más al objetivo de determinar el valor de pH. Mientras que el papel tornasol ofrece un resultado binario (ácido o no ácido en este caso), un indicador como la esencia de maíz morado (antocianina) cambia a diferentes colores según el nivel de pH. Al comparar estas tonalidades con una escala de referencia, se puede estimar un valor de pH más preciso (por ejemplo, pH 3, pH 5, etc.), diferenciando con mayor exactitud entre varias sustancias ácidas.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p06",
+      "contexto": "Un docente se encuentra desarrollando una unidad didáctica que tiene como propósito describir las propiedades físicas de la materia. En este contexto, está llevando a cabo, con los estudiantes, la siguiente actividad:\n1. Frente a los estudiantes, coloca igual cantidad de agua potable en dos recipientes transparentes.\n2. Disuelve completamente una cantidad determinada de sal de cocina en uno de los recipientes.\n3. Coloca un limón en el recipiente con agua sin sal de cocina y solicita a los estudiantes que describan lo que observan. Los estudiantes mencionan que el limón se hunde en este recipiente.\n4. Después de ello, el docente retira el limón del primer recipiente, lo seca y lo coloca en el recipiente que contiene agua con sal. Luego, solicita nuevamente a los estudiantes que describan lo que observan. Los estudiantes comentan que el limón flota en este recipiente.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Luego de realizar la actividad, los estudiantes dialogan al respecto. A continuación, se presenta el comentario de Ana, una estudiante: \"Cuando el limón está en agua con sal de cocina tiene el mismo tamaño, pero menor densidad que cuando está en agua sin sal\". El docente tiene como propósito atender el error evidenciado en el comentario de la estudiante. ¿Cuál de las siguientes actividades debería proponer?",
+          "opciones": [
+            "Repetir la experiencia con limones de diferentes tamaños.",
+            "Repetir la experiencia utilizando el doble de la cantidad de sal de cocina.",
+            "Repetir la experiencia asegurándose de identificar la masa del limón antes y después de colocarlo en los recipientes."
+          ],
+          "respuesta": "Repetir la experiencia asegurándose de identificar la masa del limón antes y después de colocarlo en los recipientes.",
+          "respuestaCorta": "El error de Ana es creer que la densidad del limón cambió. Para corregirlo, se debe demostrar que las propiedades intrínsecas del limón (masa y volumen) permanecen constantes.",
+          "solucionario": "El error conceptual de Ana es atribuir el cambio de flotabilidad a un cambio en la densidad del limón. La densidad es una propiedad intrínseca de un objeto (densidad = masa/volumen). Al mover el limón de un líquido a otro, su masa y su volumen no cambian, por lo tanto, su densidad tampoco. Lo que cambia es la densidad del líquido. Al proponer que midan la masa del limón antes y después, el docente ayuda a que los estudiantes comprueben empíricamente que la masa del limón es constante, lo que les permitirá inferir que su densidad tampoco cambió y buscar la explicación en el cambio de la densidad del agua.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Luego, el docente y los estudiantes tienen como propósito medir el volumen del limón. En el aula, disponen de tres instrumentos de medición en los que puede caber el limón.\n• Una balanza digital (+/- 0,1 g)\n• Una probeta graduada de 250 mL (+/- 2,0 mL)\n• Un vaso de precipitado graduado de 500 mL (+/- 10 mL)\n¿Cuál de estos instrumentos es más pertinente emplear para medir el volumen del limón?",
+          "opciones": [
+            "La balanza digital.",
+            "La probeta graduada.",
+            "El vaso de precipitado graduado."
+          ],
+          "respuesta": "La probeta graduada.",
+          "respuestaCorta": "Para medir el volumen de un sólido irregular como un limón, se usa un instrumento volumétrico. Entre la probeta y el vaso de precipitado, la probeta es más precisa debido a su menor margen de error.",
+          "solucionario": "El volumen de un objeto se mide con un instrumento graduado para tal fin. La balanza digital mide masa, no volumen. Tanto la probeta graduada como el vaso de precipitado miden volumen. Sin embargo, la pertinencia de un instrumento también depende de su precisión. La probeta tiene una incertidumbre de +/- 2,0 mL, mientras que el vaso de precipitado tiene una de +/- 10 mL. Por lo tanto, la probeta graduada es el instrumento más pertinente porque ofrece una medición más precisa del volumen.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p07",
+      "contexto": "Una docente se encuentra desarrollando una unidad didáctica sobre las propiedades de los metales. Como parte de esta unidad, presenta a los estudiantes un video de un experimento en el que se muestra la velocidad de reacción de algunos metales. A continuación, se describe el video observado:\n1. Se presentan cuatro tubos de ensayo: en cada tubo se coloca un metal diferente pero en igual cantidad (0,015 mol). El tubo 1 contiene zinc en polvo; el tubo 2, magnesio en polvo; el tubo 3, hierro en polvo, y el tubo 4, cobre en polvo.\n2. En cada uno de los tubos de ensayo se agrega 10 mL de una solución de ácido clorhídrico 6 M. Esto se hace simultáneamente y bajo las mismas condiciones ambientales.\n3. Conforme avanza el tiempo, se observa que, al interior de cada uno de los tubos de ensayo, se desprenden burbujas a medida que los metales en polvo se consumen por completo. Sin embargo, este proceso ocurre a velocidades distintas para cada tubo. La velocidad de reacción de los metales en orden decreciente es la siguiente: magnesio > zinc > hierro > cobre\n4. Luego, se muestra que las soluciones que quedaron en los tubos de ensayo tienen valores de pH ácidos.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "En el experimento presentado en el video, ¿cuál es la variable independiente?",
+          "opciones": [
+            "El volumen del ácido clorhídrico.",
+            "La identidad química del metal empleado.",
+            "El tiempo que demoran los metales en consumirse."
+          ],
+          "respuesta": "La identidad química del metal empleado.",
+          "respuestaCorta": "La variable independiente es la que se manipula o cambia intencionadamente en el experimento para observar su efecto. En este caso, se utilizan deliberadamente cuatro metales diferentes.",
+          "solucionario": "La variable independiente es el factor que el investigador controla o cambia para probar sus efectos en la variable dependiente. En este experimento, se preparan cuatro montajes idénticos en todo (cantidad de sustancia, volumen de ácido, condiciones ambientales) excepto en un factor: el tipo de metal (zinc, magnesio, hierro, cobre). Por lo tanto, la identidad química del metal es la variable independiente. El tiempo de reacción es la variable dependiente, y el volumen de ácido es una variable controlada.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+  
+    {
+      "idGrupo": "asc_secundaria_2021_p07",
+      "contexto": "Una docente se encuentra desarrollando una unidad didáctica sobre las propiedades de los metales. Como parte de esta unidad, presenta a los estudiantes un video de un experimento en el que se muestra la velocidad de reacción de algunos metales. A continuación, se describe el video observado:\n1. Se presentan cuatro tubos de ensayo: en cada tubo se coloca un metal diferente pero en igual cantidad (0,015 mol). El tubo 1 contiene zinc en polvo; el tubo 2, magnesio en polvo; el tubo 3, hierro en polvo, y el tubo 4, cobre en polvo.\n2. En cada uno de los tubos de ensayo se agrega 10 mL de una solución de ácido clorhídrico 6 M. Esto se hace simultáneamente y bajo las mismas condiciones ambientales.\n3. Conforme avanza el tiempo, se observa que, al interior de cada uno de los tubos de ensayo, se desprenden burbujas a medida que los metales en polvo se consumen por completo. Sin embargo, este proceso ocurre a velocidades distintas para cada tubo. La velocidad de reacción de los metales en orden decreciente es la siguiente: magnesio > zinc > hierro > cobre\n4. Luego, se muestra que las soluciones que quedaron en los tubos de ensayo tienen valores de pH ácidos.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Luego de observar el video, la docente promueve que los estudiantes comenten lo que han comprendido. A continuación, se presentan las afirmaciones realizadas por tres estudiantes. ¿Cuál de las afirmaciones de los estudiantes es correcta?",
+          "opciones": [
+            "Armando dice: \"La reacción química se puede llevar a cabo, porque el metal no está entero sino en polvo\".",
+            "Bianca dice: \"El metal es el reactivo que determina el final de la reacción química, porque disminuye en cantidad hasta consumirse\".",
+            "Carol dice: \"El desprendimiento de burbujas durante la reacción se debe a la formación de un gas tóxico, porque el ácido clorhídrico es tóxico\"."
+          ],
+          "respuesta": "Bianca dice: \"El metal es el reactivo que determina el final de la reacción química, porque disminuye en cantidad hasta consumirse\".",
+          "respuestaCorta": "Bianca identifica correctamente que el metal es el reactivo limitante, ya que se consume por completo, deteniendo la reacción.",
+          "solucionario": "La afirmación de Bianca es correcta. En una reacción química, el reactivo que se consume en su totalidad y, por lo tanto, detiene la reacción, se conoce como reactivo limitante. El video describe que los metales \"se consumen por completo\". La afirmación de Armando es incorrecta porque el metal en polvo solo acelera la reacción (mayor superficie de contacto), pero la reacción ocurriría igual con el metal entero, aunque más lento. La de Carol es imprecisa; el gas que se desprende es hidrógeno (H2), y aunque el HCl es corrosivo, no se puede concluir que el producto gaseoso sea tóxico sin más información.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p08",
+      "contexto": "Un docente se encuentra desarrollando una unidad didáctica sobre la acción del calor en los cuerpos. Como parte de esta unidad, realiza la siguiente actividad con los estudiantes:\n1. Muestra a los estudiantes dos velas y dos globos iguales.\n2. Luego, infla el primer globo hasta un tamaño medio, ni muy grande ni muy pequeño. Infla el segundo globo del mismo tamaño que el anterior, pero antes de cerrarlo, introduce en él 100 mL de agua a temperatura ambiente. Cierra este globo, procurando que mantenga el tamaño del primer globo.\n3. A continuación, enciende las dos velas y, antes de acercar ambos globos a la llama de las velas, pregunta a los estudiantes: \"¿Qué creen que pasará cuando acerque los globos a la llama de las velas? ¿Habrá alguna diferencia entre ellos?\".\nAdrián, uno de los estudiantes, comenta lo siguiente:\n\"Los globos de plástico se revientan cuando se acercan a una vela. No importa de qué estén llenos. Yo lo he visto antes en una fiesta de cumpleaños. Ni bien se acercan los globos a las velas de la torta, estos inmediatamente revientan\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es el error que se evidencia en el comentario del estudiante?",
+          "opciones": [
+            "Creer que los globos llenos con agua revientan al ser expuestos al calor de una vela.",
+            "Creer que el calor proporcionado por la vela es suficiente para generar algún cambio en los globos.",
+            "Creer que las sustancias contenidas en los globos presentan el mismo comportamiento frente al calor."
+          ],
+          "respuesta": "Creer que las sustancias contenidas en los globos presentan el mismo comportamiento frente al calor.",
+          "respuestaCorta": "El error de Adrián es una sobregeneralización; asume que todos los globos reventarán sin considerar que el contenido (aire vs. agua) afecta cómo se distribuye y absorbe el calor.",
+          "solucionario": "Adrián basa su predicción en una experiencia previa (globos en un cumpleaños, probablemente llenos de aire) y la generaliza a todas las situaciones (\"No importa de qué estén llenos\"). Su error es no considerar que las sustancias dentro de los globos (aire en un caso, agua en el otro) tienen diferentes propiedades térmicas. El agua tiene una alta capacidad calorífica, lo que le permite absorber una gran cantidad de calor de la llama, manteniendo la temperatura del plástico del globo por debajo de su punto de fusión y evitando que reviente. Adrián asume incorrectamente que el contenido no influye y que el comportamiento será el mismo.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p09",
+      "contexto": "Un docente se encuentra desarrollando una unidad didáctica que tiene como propósito describir las características de los gases ideales.\nA continuación, se presenta una de las actividades realizadas con los estudiantes:\n1. El docente dibujó cuatro globos iguales y, al interior de cada uno de ellos, escribió respectivamente: 0,1 mol de metano (CH4), 0,1 mol de oxígeno molecular (O2), 0,1 mol de dióxido de carbono (CO2) y 0,1 mol de dióxido de azufre (SO2).\n2. Luego, planteó la siguiente pregunta a los estudiantes: \"¿Cómo es la presión que ejerce cada uno de estos gases sobre el globo que los contiene?\".\nManuel, uno de los estudiantes, respondió lo siguiente: \"Los gases contenidos en los globos tienen igual cantidad de moléculas, pero diferente masa molar. Por lo tanto, la presión que ejerce cada gas en el globo que lo contiene es diferente. A mayor masa molar, mayor presión\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Considerando que los gases se comportan de manera ideal, ¿cuál es el error que se evidencia en la respuesta del estudiante?",
+          "opciones": [
+            "Creer que la presión ejercida por los gases en los globos es proporcional a su masa molar.",
+            "Creer que las sustancias contenidas en los globos tienen diferente masa molar.",
+            "Creer que todos los globos contienen la misma cantidad de moléculas de gas."
+          ],
+          "respuesta": "Creer que la presión ejercida por los gases en los globos es proporcional a su masa molar.",
+          "respuestaCorta": "El error del estudiante es relacionar la presión con la masa molar. Según la ley de Avogadro, volúmenes iguales de gases ideales, a la misma temperatura y presión, contienen el mismo número de moléculas, independientemente de su masa.",
+          "solucionario": "El razonamiento del estudiante es incorrecto. Según la Ley de los Gases Ideales (PV=nRT) y el principio de Avogadro, si la cantidad de sustancia (n = 0,1 mol), el volumen (V, globos iguales) y la temperatura (T, se asume la misma) son constantes, entonces la presión (P) también debe ser la misma para todos los gases. La identidad del gas y su masa molar no influyen en la presión bajo estas condiciones ideales. El error es creer que una propiedad intrínseca de la molécula (masa molar) afecta una propiedad macroscópica (presión) cuando el número de partículas es el mismo.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "En otra de las sesiones de aprendizaje, el docente realizó la siguiente actividad con los estudiantes:\n1. Infló un globo, asegurándose de no inflarlo a su máxima capacidad. Luego, le hizo un nudo.\n2. Colocó el globo al interior de una jarra de plástico transparente con tapa.\n3. Por el pico de la jarra, agregó agua caliente hasta la mitad de su capacidad.\n4. Solicitó a los estudiantes observar y registrar lo que sucedía con el globo. Los estudiantes registraron que el tamaño del globo había aumentado.\n5. Finalmente, el docente preguntó lo siguiente: \"¿A qué se debe el cambio observado en el globo después de haber entrado en contacto con el agua caliente?\".\n¿Cuál es el propósito de la actividad realizada por el docente?",
+          "opciones": [
+            "Que los estudiantes establezcan relaciones entre el volumen y la temperatura de los gases.",
+            "Que los estudiantes identifiquen cómo se equilibra la temperatura del globo con la temperatura del agua.",
+            "Que los estudiantes establezcan la diferencia entre la densidad de los líquidos y la de los gases a diferentes temperaturas."
+          ],
+          "respuesta": "Que los estudiantes establezcan relaciones entre el volumen y la temperatura de los gases.",
+          "respuestaCorta": "La actividad demuestra la Ley de Charles, donde el aumento de la temperatura de un gas (al contacto con agua caliente) provoca un aumento en su volumen (el globo se hincha).",
+          "solucionario": "El propósito de la actividad es que los estudiantes observen un fenómeno y lo expliquen a partir de los principios de la teoría cinética de los gases. Al agregar agua caliente, la temperatura del gas dentro del globo aumenta. Este aumento de temperatura incrementa la energía cinética de las moléculas del gas, haciendo que se muevan más rápido y colisionen con más fuerza contra las paredes internas del globo, lo que provoca su expansión. La actividad está diseñada para evidenciar la relación directamente proporcional entre el volumen y la temperatura de un gas a presión constante (Ley de Charles).",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p10",
+      "contexto": "Como parte de una unidad didáctica sobre las propiedades de las soluciones, un equipo de estudiantes quiere indagar sobre cómo influye la temperatura del agua en la difusión de las sustancias. A continuación, se presenta la propuesta de indagación del equipo de estudiantes:\n1. Conseguir tres vasos descartables y transparentes, colorante vegetal verde, agua caliente, agua a temperatura ambiente y agua helada.\n2. Preparar las siguientes muestras:\nMuestra A: Colocar 100 mL de agua caliente en uno de los vasos descartables\nMuestra B: Colocar 100 mL de agua a temperatura ambiente en uno de los vasos descartables\nMuestra C: Colocar 100 mL de agua helada en uno de los vasos descartables\n3. Agregar simultáneamente tres gotas de colorante vegetal verde en cada una de las muestras.\n4. Observar y registrar lo que sucede. Medir el tiempo que tardan las soluciones en colorearse de verde uniformemente.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Susana, una de las integrantes del equipo, comenta lo siguiente: \"En caso de que no consigamos agua helada y agua caliente, solo prepararíamos dos muestras con la misma cantidad de agua a temperatura ambiente y tres gotas de colorante vegetal en cada muestra. Utilizaríamos una cucharita de metal para agitar solo una de las muestras preparadas\". ¿Qué variable propone modificar la estudiante?",
+          "opciones": [
+            "Una variable control.",
+            "Una variable dependiente.",
+            "Una variable independiente."
+          ],
+          "respuesta": "Una variable independiente.",
+          "respuestaCorta": "Susana propone cambiar la variable que se manipula intencionalmente. En lugar de la temperatura, ahora la variable a investigar sería la agitación (agitar vs. no agitar).",
+          "solucionario": "En el diseño original, la variable independiente (la que se cambia para ver su efecto) es la temperatura del agua. La propuesta de Susana consiste en mantener la temperatura constante y, en su lugar, introducir un nuevo factor a investigar: la agitación mecánica. En su nuevo diseño, la agitación (presente en una muestra y ausente en la otra) se convierte en la nueva variable independiente, ya que es el factor que ella manipula para observar su efecto en el tiempo de difusión.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Luego de que los estudiantes realizaron la indagación, registraron lo siguiente: \"En el agua caliente, el colorante vegetal se dispersa más rápido que en el agua a temperatura ambiente\". ¿Por qué el colorante vegetal se difunde más rápido en el agua caliente que en el agua a temperatura ambiente?",
+          "opciones": [
+            "Porque a mayor temperatura, se incrementa la energía cinética de las moléculas del agua y de las moléculas del colorante vegetal.",
+            "Porque a mayor temperatura, se acelera la reacción química que ocurre entre las moléculas del agua y las moléculas del colorante vegetal.",
+            "Porque a mayor temperatura, es más rápido el proceso en el que las moléculas del agua absorben el color de las moléculas del colorante vegetal."
+          ],
+          "respuesta": "Porque a mayor temperatura, se incrementa la energía cinética de las moléculas del agua y de las moléculas del colorante vegetal.",
+          "respuestaCorta": "La difusión es un proceso físico impulsado por el movimiento molecular. A mayor temperatura, las moléculas tienen más energía cinética, se mueven más rápido y se mezclan más velozmente.",
+          "solucionario": "La temperatura es una medida de la energía cinética promedio de las partículas de una sustancia. Cuando la temperatura del agua es mayor, sus moléculas se mueven con mayor velocidad y energía. Esto provoca colisiones más frecuentes y energéticas con las partículas del colorante, dispersándolas por todo el volumen del líquido de manera más rápida. El proceso de difusión es fundamentalmente físico, basado en el movimiento aleatorio de las partículas, y no una reacción química.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Juan, un estudiante, comenta lo siguiente: \"Yo he realizado el experimento colocando diferente cantidad de gotas de colorante vegetal en vasos que contenían la misma cantidad de agua, a la misma temperatura. Al hacerlo, observé que el tiempo de difusión era menor cuando se agregaban más gotas\". ¿En cuál de las siguientes alternativas se explica correctamente la observación del estudiante?",
+          "opciones": [
+            "Las moléculas del colorante adquieren más masa cuando se agregan más gotas a la solución y, por lo tanto, se difunden más rápido.",
+            "Cuando se agrega mayor cantidad de gotas de colorante, aumentamos la densidad de este, por lo que se difunde más rápido en el agua.",
+            "Cuando se agregan más gotas de colorante, la diferencia en concentración del soluto entre las zonas de la solución es mayor, por lo que se difunde más rápido."
+          ],
+          "respuesta": "Cuando se agregan más gotas de colorante, la diferencia en concentración del soluto entre las zonas de la solución es mayor, por lo que se difunde más rápido.",
+          "respuestaCorta": "Una mayor cantidad de gotas crea un gradiente de concentración más pronunciado, lo que acelera la tasa de difusión neta desde la zona de alta concentración a la de baja concentración.",
+          "solucionario": "La difusión es el movimiento neto de partículas desde una región de mayor concentración a una de menor concentración. La velocidad de este proceso depende del gradiente de concentración, es decir, de la diferencia de concentración entre las dos regiones. Al agregar más gotas de colorante, se crea una zona inicial de concentración mucho más alta en comparación con el resto del agua. Este gradiente más \"empinado\" provoca un flujo neto de partículas de colorante más rápido hacia las zonas de menor concentración, resultando en un tiempo de mezcla menor.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p11",
+      "contexto": "Como parte de una sesión de aprendizaje sobre la comprensión de la noción de cantidad de sustancia, un docente plantea la siguiente pregunta a los estudiantes: \"¿Qué sustancia contiene mayor número de moléculas: 10 g de metano (CH4) o 10 g de dióxido de carbono (CO2)?\".\nA continuación, se presenta la respuesta de una estudiante:\n10 g sustancia × (1 mol sustancia / 1 g sustancia) × (6,022x10^23 moléculas / 1 mol de sustancia) = 6,022 x 10^24 moléculas\n\"Como el metano y el dióxido de carbono tienen la misma masa de 10 gramos, entonces, ambos tienen también la misma cantidad de moléculas\".\nNota: Desde el 2018, la IUPAC establece que el número de Avogadro es 6,022x10^23",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es el ajuste que debe realizar la estudiante en su procedimiento?",
+          "opciones": [
+            "Debe cambiar las unidades que emplea en los cálculos realizados.",
+            "Debe cambiar la equivalencia que establece entre 1 mol de sustancia y la masa en gramos de la sustancia.",
+            "Debe cambiar la equivalencia que establece entre 1 mol de sustancia y la cantidad de moléculas de la sustancia."
+          ],
+          "respuesta": "Debe cambiar la equivalencia que establece entre 1 mol de sustancia y la masa en gramos de la sustancia.",
+          "respuestaCorta": "El error está en el factor de conversión de gramos a moles. La estudiante usó \"1 mol / 1 g\", cuando debería usar la masa molar de cada sustancia (ej., \"1 mol CH4 / 16 g CH4\").",
+          "solucionario": "El error fundamental en el procedimiento de la estudiante está en el segundo término de su cálculo: (1 mol sustancia / 1 g sustancia). Esta equivalencia es incorrecta. La relación entre moles y masa está dada por la masa molar de la sustancia, que es la masa en gramos de 1 mol de esa sustancia. Para el metano (CH4), la masa molar es aproximadamente 16 g/mol, y para el dióxido de carbono (CO2), es aproximadamente 44 g/mol. Debería haber utilizado estos valores específicos para cada compuesto en lugar de asumir que 1 mol siempre equivale a 1 gramo.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p12",
+      "contexto": "Una docente se encuentra desarrollando una unidad didáctica sobre las relaciones cuantitativas en las reacciones químicas. A continuación, se presenta una de las actividades realizadas en una de las sesiones de aprendizaje de esta unidad.\n1. Comenta a los estudiantes lo siguiente: \"El hidrógeno es uno de los combustibles alternativos más importantes e inocuos. Uno de los métodos para obtener gas hidrógeno consiste en hacer reaccionar algunos metales, como el zinc con ácido clorhídrico\".\n2. Luego, presenta la ecuación de la reacción química entre el zinc y el ácido clorhídrico, así como las masas molares de los componentes de dicha reacción.\nZn + 2HCl → ZnCl2 + H2\nMasas molares:\nZn (Zinc) = 65 g/mol\nHCl (ácido clorhídrico) = 36,5 g/mol\nZnCl2 (cloruro de zinc) = 136 g/mol\nH2 (gas hidrógeno) = 2 g/mol",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "La docente pregunta a los estudiantes lo siguiente: \"¿Cuántos moles de ácido clorhídrico se necesitan para producir 20 moles de gas hidrógeno, sabiendo que se cuenta con la cantidad suficiente de zinc?\".\nA continuación, se muestra la respuesta de Carla, una estudiante:\n\"No puedo saberlo, porque el ácido clorhídrico es uno de los reactantes. En una ecuación química, puedo determinar la cantidad de un producto a partir de la cantidad de reactante, pero no al revés; es decir, no es posible determinar la cantidad de un reactante a partir de la cantidad de producto que se obtiene\".\n¿Cuál de los siguientes grupos de preguntas es pertinente que plantee la docente para que la estudiante reflexione sobre el error evidenciado en su respuesta?",
+          "opciones": [
+            "¿Cuál es la masa molar de ácido clorhídrico? Entonces, ¿cuál es la proporción entre la masa molar de ácido clorhídrico y la de gas hidrógeno?",
+            "¿Cuánta masa hay en 20 moles de gas hidrógeno? Entonces, ¿cuántos gramos de ácido clorhídrico se necesitan para producir 40 g de gas hidrógeno?",
+            "¿Cuáles son los coeficientes estequiométricos de esta ecuación química? ¿Qué relación existe entre la cantidad de moles de los reactantes y productos en ella?"
+          ],
+          "respuesta": "¿Cuáles son los coeficientes estequiométricos de esta ecuación química? ¿Qué relación existe entre la cantidad de moles de los reactantes y productos en ella?",
+          "respuestaCorta": "La docente debe guiar a Carla a entender que la estequiometría establece proporciones fijas entre todas las sustancias de la reacción, permitiendo calcular reactantes a partir de productos y viceversa.",
+          "solucionario": "El error de Carla es conceptual: cree que las relaciones estequiométricas son unidireccionales. Para ayudarla, la docente debe hacerla volver al fundamento de la estequiometría: los coeficientes de la ecuación balanceada (1 Zn, 2 HCl, 1 ZnCl2, 1 H2). Al preguntarle por los coeficientes y la relación que establecen, la guía a comprender que la proporción 2 moles de HCl por cada 1 mol de H2 es una equivalencia fija que puede usarse en cualquier dirección para hacer cálculos.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Luego, la docente pregunta a los estudiantes lo siguiente: \"¿Cuántos gramos de cloruro de zinc se obtienen, si 10 mL de una solución de ácido clorhídrico 6 M reaccionan completamente con zinc metálico?\".\nMartín, uno de los estudiantes, presenta la siguiente respuesta:\n6 moles HCl × (1 mol ZnCl2 / 2 moles HCl) × (136 g ZnCl2 / 1 mol ZnCl2) = 408 g ZnCl2\nLa docente tiene como propósito que el estudiante reflexione sobre el error evidenciado en su respuesta. ¿En cuál de los siguientes aspectos la docente debe centrar la retroalimentación?",
+          "opciones": [
+            "En la relación empleada entre la masa y los moles de ZnCl2",
+            "En la proporción utilizada entre los moles de ZnCl2 y de HCl",
+            "En la determinación de los moles de HCl empleados"
+          ],
+          "respuesta": "En la determinación de los moles de HCl empleados",
+          "respuestaCorta": "El error de Martín es tomar la molaridad (6 M) como la cantidad total de moles, sin considerar el volumen de la solución (10 mL) para calcular los moles reales que reaccionaron.",
+          "solucionario": "El procedimiento de Martín tiene un error en el punto de partida. La molaridad (6 M) significa 6 moles por litro, no 6 moles en total. Para encontrar los moles reales de HCl que reaccionaron, él necesita multiplicar la molaridad por el volumen en litros: Moles = 6 mol/L * 0.010 L = 0.06 moles de HCl. La retroalimentación debe enfocarse en que él se dé cuenta de que no usó el dato del volumen y que la molaridad es una concentración, no una cantidad absoluta.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Finalmente, la docente plantea la siguiente situación a los estudiantes:\n\"Si se tienen 100 moles de ácido clorhídrico, ¿cuántos gramos de cloruro de zinc se pueden obtener a partir de ellos?\".\nArturo, uno de los estudiantes, presenta la siguiente respuesta:\n100 moles HCl × (136 g ZnCl2 / 1 mol HCl) = 13 600 g ZnCl2\n¿Cuál de los siguientes grupos de preguntas es pertinente que plantee la docente para que el estudiante reflexione sobre el error evidenciado en su respuesta?",
+          "opciones": [
+            "¿Cuántos moles de cloruro de zinc se obtienen a partir de dos moles de ácido clorhídrico? ¿Cómo estableciste la equivalencia entre moles de ácido clorhídrico y masa de cloruro de zinc?",
+            "¿Cuánta masa hay en 100 moles de ácido clorhídrico? ¿Por qué no empleaste esta proporción en tus cálculos?",
+            "¿Cuál es la masa molar de cloruro de zinc? ¿Cuántos moles corresponden a 136 gramos de este compuesto?"
+          ],
+          "respuesta": "¿Cuántos moles de cloruro de zinc se obtienen a partir de dos moles de ácido clorhídrico? ¿Cómo estableciste la equivalencia entre moles de ácido clorhídrico y masa de cloruro de zinc?",
+          "respuestaCorta": "El error de Arturo es ignorar la relación molar 2:1 entre HCl y ZnCl2. Las preguntas lo obligan a revisar los coeficientes estequiométricos de la ecuación antes de convertir a gramos.",
+          "solucionario": "Arturo realiza una conversión directa de moles de HCl a gramos de ZnCl2, omitiendo un paso crucial: la relación estequiométrica molar. Su cálculo asume una relación 1:1. La primera pregunta, \"¿Cuántos moles de cloruro de zinc se obtienen a partir de dos moles de ácido clorhídrico?\", lo fuerza a mirar la ecuación balanceada (Zn + 2HCl → ZnCl2 + H2) y a verbalizar la proporción correcta (2 moles de HCl producen 1 mol de ZnCl2). Esto lo llevará a darse cuenta de que su factor de conversión es incompleto y necesita incluir esta relación molar.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p13",
+      "contexto": "Durante una unidad didáctica sobre los efectos de la radiación solar en la Tierra, los estudiantes comentaron que la luz del Sol calienta los objetos, pero que el grado en el que estos se calientan depende de diversos factores. Uno de estos factores es el color del material del que están hechos estos objetos.\nUn equipo de estudiantes propone realizar una indagación para averiguar si los colores que forman la luz visible están asociados con diferentes temperaturas. A continuación, se detalla la propuesta del equipo de estudiantes:\n1. Conseguir una caja de zapatos sin tapa y colocar una hoja de papel blanco en la base interna, es decir, en la cara más ancha de la caja.\n2. Instalar un prisma triangular de vidrio en la parte superior de una de las paredes de la caja.\n3. Conseguir 3 termómetros iguales, uniformizar sus temperaturas y pintar sus bulbos con un plumón de color negro. Registrar la temperatura que marcan estos termómetros en la sombra.\n4. Exponer la caja a la luz solar, a las 2 de la tarde, de manera que los rayos solares caigan en el prisma, y observar el espectro de luz que se forma sobre la hoja de papel blanco.\n5. Colocar cada uno de los termómetros sobre los colores azul, amarillo y rojo del espectro, respectivamente.\n6. Esperar 5 minutos, observar y registrar la temperatura que marca cada termómetro.\n7. Repetir la experiencia dos veces más, a las 2:10 y a las 2:20 de la tarde.",
+      "imagen": "img/ascenso/secundaria/2021/cyt/5.jpg",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes es la variable dependiente en la propuesta de indagación presentada por los estudiantes?",
+          "opciones": [
+            "Los colores observados en el espectro de luz.",
+            "La temperatura de los colores del espectro de luz.",
+            "El orden en el que aparecen los colores del espectro de luz."
+          ],
+          "respuesta": "La temperatura de los colores del espectro de luz.",
+          "respuestaCorta": "La variable dependiente es lo que se mide como resultado de un cambio. Aquí, se mide la temperatura para ver cómo varía según el color en el que se coloca el termómetro.",
+          "solucionario": "En esta indagación, la variable que los estudiantes manipulan es la posición del termómetro dentro del espectro de luz, es decir, el color sobre el que se realiza la medición (variable independiente). La variable que miden para observar el efecto de este cambio es la temperatura registrada por cada termómetro. Por lo tanto, la temperatura es la variable dependiente, ya que su valor depende del color de la luz que incide sobre el bulbo del termómetro.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+ 
+    {
+      "idGrupo": "asc_secundaria_2021_p13",
+      "contexto": "Durante una unidad didáctica sobre los efectos de la radiación solar en la Tierra, los estudiantes comentaron que la luz del Sol calienta los objetos, pero que el grado en el que estos se calientan depende de diversos factores. Uno de estos factores es el color del material del que están hechos estos objetos.\nUn equipo de estudiantes propone realizar una indagación para averiguar si los colores que forman la luz visible están asociados con diferentes temperaturas. A continuación, se detalla la propuesta del equipo de estudiantes:\n1. Conseguir una caja de zapatos sin tapa y colocar una hoja de papel blanco en la base interna, es decir, en la cara más ancha de la caja.\n2. Instalar un prisma triangular de vidrio en la parte superior de una de las paredes de la caja.\n3. Conseguir 3 termómetros iguales, uniformizar sus temperaturas y pintar sus bulbos con un plumón de color negro. Registrar la temperatura que marcan estos termómetros en la sombra.\n4. Exponer la caja a la luz solar, a las 2 de la tarde, de manera que los rayos solares caigan en el prisma, y observar el espectro de luz que se forma sobre la hoja de papel blanco.\n5. Colocar cada uno de los termómetros sobre los colores azul, amarillo y rojo del espectro, respectivamente.\n6. Esperar 5 minutos, observar y registrar la temperatura que marca cada termómetro.\n7. Repetir la experiencia dos veces más, a las 2:10 y a las 2:20 de la tarde.\nLuego de realizar la experiencia, los estudiantes registraron sus resultados en la siguiente tabla:\nTermómetro 1 (azul, 450-485 nm): Temperatura promedio en °C = 22\nTermómetro 2 (amarillo, 570-590 nm): Temperatura promedio en °C = 24\nTermómetro 3 (rojo, 635-700 nm): Temperatura promedio en °C = 26",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "A partir de los resultados obtenidos por los estudiantes, ¿cuál de las siguientes afirmaciones es correcta?",
+          "opciones": [
+            "A menor longitud de onda, la luz visible irradia más calor.",
+            "A mayor longitud de onda, la luz visible irradia más calor.",
+            "El calor irradiado es independiente de la longitud de onda de la luz visible."
+          ],
+          "respuesta": "A mayor longitud de onda, la luz visible irradia más calor.",
+          "respuestaCorta": "Los datos muestran una correlación directa: la luz azul (menor longitud de onda) registró la menor temperatura, y la luz roja (mayor longitud de onda) registró la mayor temperatura.",
+          "solucionario": "Analizando los datos de la tabla: la luz azul (longitud de onda aprox. 450-485 nm) tiene una temperatura de 22°C, la luz amarilla (aprox. 570-590 nm) tiene 24°C, y la luz roja (aprox. 635-700 nm) tiene 26°C. Se observa una tendencia clara en la que al aumentar la longitud de onda, la temperatura registrada también aumenta. Esto indica que, en el espectro visible, las longitudes de onda más largas están asociadas a una mayor irradiación de calor.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Sobre la base de lo observado por el equipo de estudiantes, ¿qué temperatura registrará un termómetro colocado sobre el color verde del espectro?",
+          "opciones": [
+            "Una temperatura menor a 22°C.",
+            "Una temperatura mayor a 22°C y menor que 24°C.",
+            "Una temperatura mayor a 24°C y menor que 26°C."
+          ],
+          "respuesta": "Una temperatura mayor a 22°C y menor que 24°C.",
+          "respuestaCorta": "El color verde se encuentra en el espectro visible entre el azul y el amarillo. Dado que la temperatura aumenta con la longitud de onda, la temperatura del verde debe ser un valor intermedio entre la del azul (22°C) y la del amarillo (24°C).",
+          "solucionario": "En el espectro de luz visible, el orden de los colores es rojo, naranja, amarillo, verde, azul y violeta. La longitud de onda disminuye del rojo al violeta. El color verde se ubica entre el azul y el amarillo. Según los resultados, la temperatura aumenta a medida que aumenta la longitud de onda (azul: 22°C, amarillo: 24°C). Por lo tanto, es lógico predecir que la temperatura del color verde estará en el rango intermedio entre las temperaturas de los colores adyacentes medidos.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Los estudiantes proponen la siguiente conclusión: \"La luz de color azul tiene una temperatura promedio de 22°C, la de color amarillo, de 24°C, y la de color rojo, de 26°C. Esto se cumple siempre para los tres colores\". ¿Cuál de las siguientes acciones pedagógicas es pertinente que plantee la docente para que el equipo de estudiantes cuestione su conclusión?",
+          "opciones": [
+            "Proponer a los estudiantes que registren las temperaturas de los termómetros también a las 11 de la mañana y a las 3 de la tarde.",
+            "Proponer a los estudiantes que registren la temperatura de los otros colores que observan en el espectro, como el verde y el naranja.",
+            "Proponer a los estudiantes que reporten la diferencia de temperatura entre los valores registrados por los termómetros al inicio y al final de cada medición."
+          ],
+          "respuesta": "Proponer a los estudiantes que registren las temperaturas de los termómetros también a las 11 de la mañana y a las 3 de la tarde.",
+          "respuestaCorta": "La conclusión afirma que los valores son fijos (\"se cumple siempre\"). Repetir el experimento en diferentes momentos del día, con distinta intensidad solar, demostrará que los valores de temperatura cambian, refutando así la generalización.",
+          "solucionario": "El error en la conclusión de los estudiantes es una generalización apresurada (\"Esto se cumple siempre\"). Los valores de temperatura medidos dependen de las condiciones específicas del experimento, como la intensidad de la luz solar en ese momento. Al proponer que repitan la medición en otras horas del día (11 a.m. y 3 p.m.), la docente los guía a descubrir que la intensidad solar varía, lo que a su vez afectará los valores de temperatura registrados. Esto les permitirá comprender que sus resultados son válidos para esas condiciones particulares, pero no son constantes universales, obligándolos a refinar su conclusión.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "La docente propone a los estudiantes colocar un termómetro adicional luego del color rojo, donde no se observe ningún color, y repetir la indagación. Los estudiantes observan que la temperatura del termómetro ubicado después del color rojo es mayor que la del resto de termómetros. ¿Por qué la temperatura del termómetro ubicado después del color rojo, donde no se observa ningún color, es mayor que la del resto de termómetros?",
+          "opciones": [
+            "Porque este termómetro registra la temperatura del ambiente, es decir, es el ensayo control.",
+            "Porque sobre este termómetro incide un tipo de radiación proveniente del Sol, más calorífica que la luz visible.",
+            "Porque hubo un error en la medición, ya que, en la ausencia de color visible, no debería registrarse un incremento de temperatura."
+          ],
+          "respuesta": "Porque sobre este termómetro incide un tipo de radiación proveniente del Sol, más calorífica que la luz visible.",
+          "respuestaCorta": "En la zona contigua al rojo en el espectro electromagnético se encuentra la radiación infrarroja, que es invisible al ojo humano pero transporta una cantidad significativa de energía térmica.",
+          "solucionario": "El espectro electromagnético del Sol es más amplio que la luz visible. Justo después de la franja de luz roja se encuentra la radiación infrarroja (IR). Esta radiación es invisible para los seres humanos, pero es la principal responsable de la sensación de calor que proviene del Sol. El termómetro colocado en esta zona absorbe esta intensa radiación infrarroja, lo que explica por qué registra una temperatura incluso mayor que la de la luz roja visible.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p14",
+      "contexto": "Un docente se encuentra desarrollando una unidad didáctica sobre las propiedades de los alcoholes. En una de las sesiones de aprendizaje de la unidad, el docente presenta a los estudiantes la siguiente situación:\n\"Usualmente compramos alcohol medicinal, es decir, una mezcla de alcohol etílico puro con agua, sin tener en cuenta de cuántos grados es y qué significa esto. En las farmacias, comúnmente venden alcohol medicinal de 70° o 96°, es decir, 70 o 96% v/v. Vamos a suponer que compramos un frasco de 100 mL de alcohol medicinal de 96° o 96% v/v. ¿Qué información nos brinda esta indicación en el frasco?\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "A continuación, se muestran las respuestas de tres estudiantes. ¿Cuál de los estudiantes ha respondido correctamente a la pregunta planteada por el docente?",
+          "opciones": [
+            "Sara dice: \"Quiere decir que se mezclaron 96 mL de alcohol etílico puro con 100 mL de agua, y luego separaron 100 mL de esa mezcla\".",
+            "Rosa dice: \"Quiere decir que se mezclaron 96 mL de alcohol etílico puro con 4 mL de agua\".",
+            "Pedro dice: \"Quiere decir que se mezclaron 4 mL de alcohol etílico puro con 96 mL de agua\"."
+          ],
+          "respuesta": "Rosa dice: \"Quiere decir que se mezclaron 96 mL de alcohol etílico puro con 4 mL de agua\".",
+          "respuestaCorta": "La concentración 96% v/v indica que en un volumen total de 100 mL de la solución, 96 mL son de alcohol puro. El resto del volumen, aproximadamente 4 mL, corresponde al agua.",
+          "solucionario": "La notación \"% v/v\" significa \"porcentaje de volumen en volumen\". Una solución de alcohol de 96° (o 96% v/v) significa que por cada 100 mL de la solución final, 96 mL son de alcohol etílico puro (soluto). El volumen restante para completar los 100 mL es el solvente, que en este caso es agua. Por lo tanto, la mezcla contiene 96 mL de alcohol y aproximadamente 4 mL de agua. Es importante notar que al mezclar alcohol y agua, el volumen total puede ser ligeramente menor a la suma de los volúmenes individuales debido a la contracción del volumen, pero la interpretación de Rosa es la conceptualmente correcta.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "En otra de las sesiones de aprendizaje, el docente comenta lo siguiente: \"Los desinfectantes son utilizados, por ejemplo, para eliminar virus de diferentes superficies. Normalmente, los desinfectantes contienen uno de los tres siguientes alcoholes: etanol, isopropanol o n-propanol\". ¿Cuál de las siguientes propiedades sustenta su poder desinfectante?",
+          "opciones": [
+            "Disuelven lípidos en presencia de agua.",
+            "Su viscosidad es menor que la del agua.",
+            "Se volatilizan en menor tiempo que el agua."
+          ],
+          "respuesta": "Disuelven lípidos en presencia de agua.",
+          "respuestaCorta": "El poder desinfectante de los alcoholes se debe a su capacidad para disolver la membrana lipídica y desnaturalizar las proteínas de los microorganismos, inactivándolos.",
+          "solucionario": "Muchos virus y bacterias tienen una envoltura externa o membrana celular compuesta principalmente de lípidos y proteínas. Los alcoholes como el etanol son eficaces como desinfectantes porque pueden romper y disolver estas capas lipídicas. Además, desnaturalizan las proteínas esenciales para la supervivencia y replicación del microorganismo. Esta acción dual destruye la estructura del patógeno y lo inactiva. La presencia de agua (típicamente en concentraciones de 60-80%) es crucial, ya que ayuda al alcohol a penetrar la pared celular y a desnaturalizar las proteínas de manera más efectiva.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p15",
+      "contexto": "Un equipo de científicos investigó la efectividad de cuatro concentraciones diferentes (1, 2, 3 y 4) de un mismo desinfectante. El equipo sumergió discos de papel en estas diferentes concentraciones y, luego, los colocó en una placa de cultivo bacteriano. A continuación, se presenta el procedimiento realizado:\n1. Colocaron agar nutritivo rojo en una placa Petri de 10 cm de diámetro y esparcieron, cubriendo la superficie de toda la placa, un cultivo de un solo tipo de bacteria.\n2. Cortaron cuatro discos iguales, de 1 cm de diámetro, de papel de filtro y sumergieron por completo un disco en cada una de las cuatro concentraciones, respectivamente.\n3. Colocaron los cuatro discos en la placa Petri, asegurándose de que mantengan una misma distancia entre sí.\n4. Dejaron la placa Petri a 25°C durante 24 horas.\n5. Después de 24 horas, observaron que la mayor parte de la placa se encontraba de color blanco, excepto alrededor de los 4 discos de papel. Alrededor de cada uno de estos discos permanecía una zona de color rojo, de áreas distintas según el disco. Así, los discos podían ser ordenados de acuerdo con el valor decreciente del área de la zona roja a su alrededor, como se consigna a continuación: disco 4 > disco 3 > disco 2 > disco 1",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Teniendo en cuenta el propósito de la investigación, ¿cuál de las siguientes propuestas es necesario incluir en ella?",
+          "opciones": [
+            "Utilizar más de un tipo de bacteria",
+            "Incluir un disco de papel filtro sin desinfectante",
+            "Mantener la placa Petri a una temperatura de 37°C"
+          ],
+          "respuesta": "Incluir un disco de papel filtro sin desinfectante",
+          "respuestaCorta": "Para validar que el efecto observado se debe al desinfectante, es esencial incluir un grupo de control: un disco sin desinfectante que muestre el crecimiento bacteriano normal.",
+          "solucionario": "En un diseño experimental riguroso, es fundamental tener un control negativo. En este caso, un disco de papel filtro sumergido en un solvente estéril (como agua) y sin desinfectante sirve para este propósito. Este control permite confirmar que ni el papel ni el solvente por sí solos inhiben el crecimiento bacteriano. De esta manera, cualquier zona de inhibición observada alrededor de los otros discos puede atribuirse con certeza a la acción del desinfectante, validando los resultados del experimento.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes aspectos relacionados con los discos de papel NO se necesita controlar en la investigación?",
+          "opciones": [
+            "La concentración del desinfectante en el que son sumergidos los discos de papel.",
+            "El momento exacto en el que cada disco de papel es colocado en la placa Petri.",
+            "El volumen del desinfectante en el que son sumergidos los discos de papel."
+          ],
+          "respuesta": "El volumen del desinfectante en el que son sumergidos los discos de papel.",
+          "respuestaCorta": "Mientras los discos estén completamente saturados, el volumen exacto de líquido usado para sumergirlos no es una variable crítica a controlar, a diferencia de la concentración o el tiempo.",
+          "solucionario": "La concentración del desinfectante es la variable independiente, por lo que se varía intencionalmente. El momento de colocación de los discos debe ser controlado (idealmente, simultáneo) para asegurar que todos tengan el mismo tiempo de incubación. Sin embargo, el volumen total del desinfectante en el que se sumergen los discos no es una variable crítica a controlar, siempre y cuando el volumen sea suficiente para saturar completamente cada disco de papel. La cantidad de desinfectante que el disco absorbe y transfiere al agar será relativamente constante si el material del disco y el tiempo de inmersión son los mismos.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes datos es necesario medir para cuantificar la efectividad de cada concentración de desinfectante utilizada en el crecimiento de las bacterias?",
+          "opciones": [
+            "El tiempo en que empiezan a crecer las bacterias alrededor de los discos de papel.",
+            "La distancia que separa a las zonas rojas alrededor de los discos de papel.",
+            "El área de la zona que permanece roja alrededor de los discos de papel."
+          ],
+          "respuesta": "El área de la zona que permanece roja alrededor de los discos de papel.",
+          "respuestaCorta": "La efectividad del desinfectante se mide por el tamaño de la zona donde no crecieron bacterias. Medir el área de esta zona de inhibición es la forma directa de cuantificar el resultado.",
+          "solucionario": "El experimento busca medir la efectividad de un desinfectante para inhibir el crecimiento bacteriano. Esta inhibición se manifiesta como una zona clara (descrita como roja en el texto) alrededor del disco, donde las bacterias no han podido crecer. Esta es la \"zona de inhibición\". Para cuantificar y comparar la efectividad de las diferentes concentraciones, se debe medir el tamaño de esta zona. La forma más completa de hacerlo es calculando su área (o midiendo su diámetro, que está directamente relacionado con el área). Una mayor área de inhibición corresponde a una mayor efectividad del desinfectante.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p16",
+      "contexto": "En una sesión de aprendizaje sobre los microorganismos, Celia, una estudiante, realizó el siguiente comentario: \"Las bacterias solo causan enfermedades al ser humano. Deberíamos erradicarlas\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "La docente tiene como propósito generar conflicto cognitivo en la estudiante. De acuerdo con este propósito, ¿sobre cuál de los siguientes microorganismos debería sugerirle investigar a la estudiante?",
+          "opciones": [
+            "Sobre Lactobacillus bulgaricus.",
+            "Sobre Saccharomyces cerevisiae.",
+            "Sobre Mycobacterium tuberculosis."
+          ],
+          "respuesta": "Sobre Lactobacillus bulgaricus.",
+          "respuestaCorta": "Para generar un conflicto cognitivo, la docente debe presentar un ejemplo que contradiga la creencia de la estudiante. Lactobacillus bulgaricus es una bacteria beneficiosa utilizada en la producción de yogur, lo que desafía la idea de que todas las bacterias son dañinas.",
+          "solucionario": "El propósito es desafiar la preconcepción de Celia de que \"las bacterias solo causan enfermedades\". Para ello, la docente debe presentar un caso de una bacteria que sea claramente beneficiosa o útil para los humanos. *Lactobacillus bulgaricus* es una de las bacterias clave en la fermentación de la leche para producir yogur, un alimento de consumo común. Este ejemplo positivo y familiar crea un conflicto cognitivo directo con su afirmación. *Mycobacterium tuberculosis* (causa tuberculosis) reforzaría su idea, y *Saccharomyces cerevisiae* es una levadura (un hongo), no una bacteria.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p17",
+      "contexto": "Una docente está desarrollando una unidad didáctica sobre la salud y la enfermedad. Durante una de las sesiones de aprendizaje, Inés, una estudiante, comenta lo siguiente: \"Yo consumo frutas que contengan vitamina C como naranjas y mandarinas. La vitamina C es buena para que no me contagie de enfermedades. Gracias a ello, estaré protegida contra todas las enfermedades\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "La docente tiene como propósito que la estudiante reflexione sobre el error evidenciado en su comentario. ¿Cuál de los siguientes grupos de preguntas es pertinente para este propósito?",
+          "opciones": [
+            "¿Con qué frecuencia deberíamos consumir vitamina C? ¿Se debe consumir antes, durante o después de estar enfermos?",
+            "¿Qué otras frutas contienen vitamina C? ¿Crees que estas frutas son suficientes para cubrir la cantidad diaria requerida de vitamina C?",
+            "¿Qué función desempeña la vitamina C en nuestro cuerpo? ¿Sabías que las personas que consumen vitamina C también contraen enfermedades?"
+          ],
+          "respuesta": "¿Qué función desempeña la vitamina C en nuestro cuerpo? ¿Sabías que las personas que consumen vitamina C también contraen enfermedades?",
+          "respuestaCorta": "El error de Inés es creer en una protección total y absoluta. Las preguntas la hacen reflexionar sobre la función real de la vitamina C y la confrontan con la evidencia de que no otorga inmunidad completa.",
+          "solucionario": "Inés tiene una concepción errónea y absolutista: cree que la vitamina C es un escudo infalible contra \"todas las enfermedades\". El grupo de preguntas de la opción C es el más pertinente porque aborda este error de dos maneras. Primero, la pregunta \"¿Qué función desempeña la vitamina C?\" la invita a investigar el mecanismo real (apoyo al sistema inmune, antioxidante), que es más complejo que una simple barrera. Segundo, la pregunta \"¿Sabías que las personas que consumen vitamina C también contraen enfermedades?\" confronta directamente su creencia en la protección total, generando un conflicto cognitivo que la obliga a matizar su afirmación.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p18",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué característica de los virus influye directamente en el tiempo de efectividad de una vacuna?",
+          "opciones": [
+            "Que ingresen rápidamente a las células que infectan.",
+            "Que muten con mayor o menor frecuencia.",
+            "Que la velocidad de replicación sea baja."
+          ],
+          "respuesta": "Que muten con mayor o menor frecuencia.",
+          "respuestaCorta": "La frecuencia de mutación de un virus es clave para la efectividad a largo plazo de una vacuna, ya que las mutaciones pueden alterar los antígenos que la vacuna enseña al sistema inmunitario a reconocer.",
+          "solucionario": "Las vacunas funcionan entrenando al sistema inmunitario para que reconozca partes específicas de un virus, llamadas antígenos. Si un virus tiene una alta tasa de mutación, estos antígenos pueden cambiar con el tiempo (deriva antigénica). Cuando los antígenos cambian significativamente, los anticuerpos y células inmunitarias generados por la vacuna original pueden dejar de reconocer al virus eficazmente. Por lo tanto, una alta frecuencia de mutación puede acortar el tiempo de efectividad de una vacuna, como se observa con el virus de la influenza, que requiere vacunas actualizadas periódicamente.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+   
+    {
+      "idGrupo": "asc_secundaria_2021_p19",
+      "contexto": "Un equipo de expertos realizó una investigación sobre el aprovechamiento de nutrientes en el cuerpo humano. A continuación, se presenta uno de los gráficos obtenidos a partir de esta investigación.",
+      "imagen": "img/ascenso/secundaria/2021/cyt/6.jpg",
+      "preguntas": [
+        {
+          "pregunta": "A partir del gráfico, ¿cuál de las siguientes afirmaciones es correcta?",
+          "opciones": [
+            "La concentración de glucosa en la sangre se incrementa durante la primera hora después de consumir tanto alimentos ricos como pobres en carbohidratos.",
+            "La concentración de glucosa en la sangre empieza a disminuir en menos tiempo cuando se consumen alimentos ricos en carbohidratos que cuando se consumen alimentos pobres en estos.",
+            "La concentración de glucosa en la sangre empieza a disminuir después de una hora de haber consumido alimentos ricos en carbohidratos, pero, cuando se consumen alimentos pobres en carbohidratos, esto ocurre después de las dos horas."
+          ],
+          "respuesta": "La concentración de glucosa en la sangre empieza a disminuir en menos tiempo cuando se consumen alimentos ricos en carbohidratos que cuando se consumen alimentos pobres en estos.",
+          "respuestaCorta": "El gráfico muestra que el pico de glucosa para alimentos ricos en carbohidratos (línea punteada) ocurre antes (~0.5 horas) que el pico para alimentos pobres en carbohidratos (~0.75 horas), por lo que su nivel empieza a disminuir más pronto.",
+          "solucionario": "Al analizar el gráfico, se observa que la curva de 'Alimentos ricos en carbohidratos' (línea punteada) alcanza su punto máximo (pico de concentración de glucosa) aproximadamente a la media hora (0,5 h). Después de este punto, la concentración comienza a descender. En contraste, la curva de 'Alimentos pobres en carbohidratos' (línea continua) alcanza su pico más tarde, cerca de los 45 minutos (0,75 h). Por lo tanto, es correcto afirmar que la disminución de la glucosa en sangre comienza en menos tiempo tras la ingesta de alimentos ricos en carbohidratos.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p20",
+      "contexto": "Una docente está desarrollando una unidad didáctica cuyo propósito es que los estudiantes expliquen los procesos de regulación celular. A continuación, se presenta una de las actividades realizadas por la docente y los estudiantes en una de las sesiones de aprendizaje de esta unidad.\n1. Consiguieron 3 vasos de plástico transparente, a los que rotularon como vaso 1, vaso 2 y vaso 3.\n2. Colocaron el siguiente contenido en cada uno de los vasos:\nVaso 1: 100 mL de agua\nVaso 2: solución de 100 mL de agua y 2 g de sal de cocina\nVaso 3: solución de 100 mL de agua y 4 g de sal de cocina\n3. Cortaron zanahorias en forma de cubos y utilizaron una balanza para medir la masa de cada cubo.\n4. Colocaron 2 cubos de zanahoria de igual masa en cada uno de los vasos, durante un día.\n5. Finalmente, retiraron los cubos de zanahoria de cada vaso e identificaron su masa final con ayuda de la balanza.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Por qué es necesario incluir el vaso 1 en la actividad realizada?",
+          "opciones": [
+            "Para demostrar que el agua puede fluir de la zanahoria hacia el medio acuoso.",
+            "Para demostrar que el flujo del agua se va incrementando a medida que la concentración de sal en la solución aumenta.",
+            "Para demostrar si las posibles diferencias en la masa final de la zanahoria se deben o no a la presencia de sal en las soluciones."
+          ],
+          "respuesta": "Para demostrar si las posibles diferencias en la masa final de la zanahoria se deben o no a la presencia de sal en las soluciones.",
+          "respuestaCorta": "El vaso 1, que contiene solo agua, funciona como un grupo de control. Permite comparar los resultados de los vasos con sal contra una base de referencia para aislar y confirmar el efecto de la sal.",
+          "solucionario": "En un experimento científico, un control es una condición de referencia que se utiliza para comparar los resultados. En esta actividad, el vaso 1 (solo agua) sirve como control. Al comparar la masa final de la zanahoria en los vasos 2 y 3 (con sal) con la del vaso 1 (sin sal), los estudiantes pueden determinar con certeza que cualquier diferencia observada en la masa se debe específicamente a la presencia y concentración de la sal, y no a otros factores como el simple hecho de estar sumergida en un líquido.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Uno de los resultados registrados por los estudiantes fue el siguiente: \"Los cubos de zanahoria que estuvieron sumergidos en el vaso 3 perdieron masa y tenían un aspecto arrugado\". ¿Cuál de las siguientes afirmaciones explica correctamente el resultado registrado por los estudiantes?",
+          "opciones": [
+            "Las sales de la solución salina desintegran las células que conforman los cubos de zanahoria.",
+            "Las sales contenidas en la zanahoria atraviesan las membranas celulares hacia la solución salina.",
+            "El agua contenida en la zanahoria atraviesa las membranas celulares hacia la solución salina."
+          ],
+          "respuesta": "El agua contenida en la zanahoria atraviesa las membranas celulares hacia la solución salina.",
+          "respuestaCorta": "Este fenómeno se debe a la ósmosis. La solución en el vaso 3 es hipertónica, por lo que el agua sale de las células de la zanahoria hacia la solución para equilibrar la concentración, causando deshidratación y pérdida de masa.",
+          "solucionario": "El resultado se explica por el proceso de ósmosis. La solución en el vaso 3 (con 4 g de sal) tiene una mayor concentración de solutos (es hipertónica) en comparación con el interior de las células de la zanahoria. Las membranas celulares de la zanahoria son semipermeables, permitiendo el paso del agua pero no de la sal. Para intentar equilibrar las concentraciones a ambos lados de la membrana, el agua se mueve desde la zona de mayor concentración de agua (dentro de la zanahoria) hacia la zona de menor concentración de agua (la solución salina). Esta pérdida de agua de las células provoca que el cubo de zanahoria pierda masa y adquiera un aspecto arrugado (plasmólisis).",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p21",
+      "contexto": "El gen que determina el color del plumaje de la gallina sedosa de China tiene dos alelos: alelo 1 y alelo 2. Las gallinas sedosas con genotipo 1-1 tienen plumas negras. Las gallinas sedosas con genotipo 2-2 tienen plumas moteadas, es decir, sus plumas son blancas con manchas negras. Por último, las gallinas sedosas con genotipo 1-2 tienen plumas grises.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es la relación entre los alelos 1 y 2 en el gen que determina el color del plumaje de la gallina sedosa de China?",
+          "opciones": [
+            "Uno de ellos es dominante incompleto sobre el otro.",
+            "Uno de ellos es dominante y el otro es recesivo.",
+            "Ambos son codominantes."
+          ],
+          "respuesta": "Uno de ellos es dominante incompleto sobre el otro.",
+          "respuestaCorta": "La relación es de dominancia incompleta porque el heterocigoto (1-2) muestra un fenotipo intermedio (gris) que es una mezcla de los fenotipos homocigotos (negro y moteado/blanco).",
+          "solucionario": "En la genética mendeliana, cuando el fenotipo del individuo heterocigoto es una mezcla o un intermedio entre los fenotipos de los dos homocigotos, se habla de dominancia incompleta. En este caso, el genotipo homocigoto 1-1 es negro y el 2-2 es moteado (blanco con negro). El heterocigoto 1-2 es gris, un color intermedio que resulta de la 'mezcla' de los colores parentales. Esto descarta la dominancia completa (donde el heterocigoto sería igual a uno de los padres) y la codominancia (donde ambos rasgos se expresarían por separado, quizás como manchas negras y blancas, similar al moteado).",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Qué probabilidad de tener plumas grises tiene la descendencia de un gallo y una gallina sedosos de China, ambos de plumas grises?",
+          "opciones": [
+            "100%",
+            "50%",
+            "25%"
+          ],
+          "respuesta": "50%",
+          "respuestaCorta": "El cruce de dos individuos heterocigotos (1-2 x 1-2) da como resultado una proporción genotípica de 1:2:1 (1-1 : 1-2 : 2-2). Por lo tanto, la probabilidad de obtener un descendiente heterocigoto (1-2), de plumas grises, es de 2/4 o 50%.",
+          "solucionario": "Ambos padres tienen plumas grises, lo que significa que su genotipo es heterocigoto (1-2). Al realizar un cruce entre dos individuos 1-2, se puede utilizar un cuadro de Punnett para determinar las probabilidades de la descendencia:\nPadres: 1-2 x 1-2\nDescendencia posible:\n- 1-1 (plumas negras): 1/4 o 25%\n- 1-2 (plumas grises): 2/4 o 50%\n- 2-2 (plumas moteadas): 1/4 o 25%\nLa probabilidad de que un descendiente tenga plumas grises (genotipo 1-2) es del 50%.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Qué probabilidad de tener plumas moteadas tiene la descendencia de un gallo gris y una gallina negra sedosos de China?",
+          "opciones": [
+            "50%",
+            "25%",
+            "0%"
+          ],
+          "respuesta": "0%",
+          "respuestaCorta": "Un gallo gris (1-2) y una gallina negra (1-1) solo pueden producir descendencia con genotipos 1-1 (negra) o 1-2 (gris). Es imposible que tengan un descendiente moteado (2-2), ya que la madre no posee el alelo 2.",
+          "solucionario": "Se realiza un cruce entre un gallo gris (genotipo 1-2) y una gallina negra (genotipo 1-1).\nPadres: 1-2 x 1-1\nDescendencia posible:\n- 1-1 (plumas negras): 50%\n- 1-2 (plumas grises): 50%\nPara que un descendiente tenga plumas moteadas, su genotipo debe ser homocigoto 2-2. Esto requeriría que reciba un alelo 2 de cada padre. Sin embargo, la gallina negra (1-1) no tiene el alelo 2 para transmitir. Por lo tanto, la probabilidad de tener descendencia con plumas moteadas en este cruce es del 0%.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Una persona tiene un criadero de gallos y gallinas sedosos de China. En el criadero, solo hay aves de plumas moteadas y aves de plumas grises. ¿Qué cruce daría crías negras?",
+          "opciones": [
+            "Gris con gris.",
+            "Gris con moteada.",
+            "Moteada con moteada."
+          ],
+          "respuesta": "Gris con gris.",
+          "respuestaCorta": "Para obtener una cría negra (genotipo 1-1), se necesita que ambos padres aporten un alelo 1. El único cruce posible entre las aves disponibles (gris 1-2, moteada 2-2) que puede lograr esto es gris con gris (1-2 x 1-2).",
+          "solucionario": "Para producir una cría negra, el genotipo requerido es 1-1. Esto significa que la cría debe heredar un alelo 1 de su padre y un alelo 1 de su madre.\nAnalicemos las opciones de cruce con las aves disponibles:\n- Moteada (2-2) x Moteada (2-2): Solo puede producir crías 2-2 (moteadas).\n- Gris (1-2) x Moteada (2-2): Puede producir crías 1-2 (grises) y 2-2 (moteadas).\n- Gris (1-2) x Gris (1-2): Puede producir crías 1-1 (negras), 1-2 (grises) y 2-2 (moteadas).\nPor lo tanto, el único cruce que puede dar como resultado crías negras es el de un ave gris con otra ave gris.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p22",
+      "contexto": "En el marco de una unidad didáctica sobre las propiedades de los líquidos, un docente realizó la siguiente actividad:\n1. Consiguió dos bolsas iguales de plástico transparente y las rotuló como bolsa 1 y bolsa 2.\n2. En la bolsa 1 colocó 100 mL de alcohol etílico también conocido como etanol y, en la bolsa 2, colocó 100 mL de agua. Retiró el aire del interior de las bolsas y las cerró haciéndoles un nudo. Se aseguró de dejar un pequeño espacio libre entre el líquido y el nudo.\n3. Colocó ambas bolsas en una bandeja de vidrio resistente al calor.\n4. Vertió, con mucho cuidado, 200 mL de agua recién hervida sobre las bolsas.\n5. Finalmente, solicitó a los estudiantes que comenten lo que observaron. Los estudiantes comentaron que la bolsa 1 se hinchó hasta su máxima capacidad, mientras que la bolsa 2 no presentó cambios observables.\nLuego, el docente realizó la siguiente pregunta a los estudiantes: \"¿Por qué creen que la bolsa 1 se hinchó y la bolsa 2 no?\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Miguel, un estudiante, respondió lo siguiente: \"Lo que pasa es que, en la bolsa 1, el etanol hierve al contacto con el agua recién hervida, porque su temperatura de ebullición es menor a la del agua. Por eso, la bolsa 1 se hincha\". ¿Cuál es el aprendizaje evidenciado en la respuesta del estudiante?",
+          "opciones": [
+            "Identifica que, a mayor temperatura, las sustancias líquidas ocupan mayor espacio.",
+            "Identifica que el volumen de una sustancia cambia en función de su estado de agregación.",
+            "Identifica que, a mayor temperatura, las sustancias líquidas cambian de estado en menor tiempo."
+          ],
+          "respuesta": "Identifica que el volumen de una sustancia cambia en función de su estado de agregación.",
+          "respuestaCorta": "Miguel demuestra comprender que al pasar de líquido a gas (ebullición), el etanol ocupa un volumen mucho mayor, lo que causa que la bolsa se hinche.",
+          "solucionario": "La respuesta de Miguel evidencia que comprende un concepto fundamental de los estados de la materia: la gran diferencia de volumen entre el estado líquido y el gaseoso. Él conecta correctamente el fenómeno observado (la bolsa se hincha) con el cambio de estado del etanol (ebullición), reconociendo que el gas producido ocupa un espacio significativamente mayor que el líquido original. También demuestra saber que el etanol tiene un punto de ebullición más bajo que el agua (aprox. 78°C vs 100°C).",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Ángel, un estudiante, respondió lo siguiente: \"Lo que ocurre es que, cuando la bolsa 1 entra en contacto con el agua recién hervida, el etanol se calienta y se transforma en una nueva sustancia pero en estado gaseoso\". El docente identifica aciertos y errores en la respuesta del estudiante. ¿Cuál de los siguientes aprendizajes se evidencia en su respuesta?",
+          "opciones": [
+            "Identifica que una misma sustancia puede ser líquida o gaseosa a una misma temperatura.",
+            "Identifica que el calor puede ser transferido entre cuerpos con diferente temperatura.",
+            "Identifica que el aumento de temperatura acelera las reacciones químicas entre las sustancias."
+          ],
+          "respuesta": "Identifica que el calor puede ser transferido entre cuerpos con diferente temperatura.",
+          "respuestaCorta": "El acierto de Ángel es reconocer que el etanol se calienta al entrar en contacto con el agua hervida, lo que demuestra una comprensión básica del principio de transferencia de calor.",
+          "solucionario": "Aunque Ángel comete el error de pensar que el etanol se transforma en una \"nueva sustancia\" (es un cambio físico, no químico), su respuesta muestra un acierto clave: entiende que el calor se transfiere del objeto más caliente (el agua recién hervida) al más frío (el etanol a temperatura ambiente). Reconoce que el contacto con el agua caliente es la causa del calentamiento del etanol, lo cual es la primera etapa del proceso observado. Este es un aprendizaje correcto sobre la transferencia de energía térmica.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "En la actividad realizada por el docente, ¿por qué es necesario retirar el aire de ambas bolsas?",
+          "opciones": [
+            "Porque el aire, al calentarse, podría intervenir en el resultado de la actividad, al ejercer una mayor fuerza en las paredes de las bolsas.",
+            "Porque el volumen del aire se tendría que mantener constante en ambas bolsas para poder comparar los resultados.",
+            "Porque el aire podría contener partículas suspendidas que impiden la manifestación de algún cambio en las bolsas."
+          ],
+          "respuesta": "Porque el aire, al calentarse, podría intervenir en el resultado de la actividad, al ejercer una mayor fuerza en las paredes de las bolsas.",
+          "respuestaCorta": "Si se dejara aire en las bolsas, este se calentaría y expandiría, inflando ambas bolsas y enmascarando el efecto específico de la vaporización del etanol, que es lo que se quiere observar.",
+          "solucionario": "El aire es un gas y, como tal, se expande significativamente cuando se calienta (Ley de Charles). Si se hubiera dejado aire dentro de las bolsas, al verter el agua caliente, el aire en AMBAS bolsas se habría calentado y expandido, haciendo que las dos se hincharan. Esto habría confundido el resultado, ya que no se podría distinguir la expansión del aire de la expansión causada por la ebullición del etanol. Retirar el aire es un paso crucial para controlar las variables y asegurar que cualquier hinchazón observada en la bolsa 1 se deba únicamente a la vaporización del etanol.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p23",
+      "contexto": "Un docente plantea la siguiente situación a los estudiantes:\n\"Imaginemos que somos los encargados de un almacén de sustancias químicas. Recientemente ha llegado un nuevo lote y se requiere almacenarlas a temperatura ambiente. Este lote llegó acompañado de una tabla con las propiedades de las sustancias\".\nLuego, el docente presenta la tabla de las propiedades de las sustancias del lote.",
+      "imagen": "img/ascenso/secundaria/2021/cyt/7.jpg",
+      "preguntas": [
+        {
+          "pregunta": "El docente preguntó a los estudiantes lo siguiente: \"Si almacenáramos las sustancias de la tabla a 25°C, ¿cuáles de ellas se podrían almacenar con las sustancias sólidas y cuáles se almacenarían con las sustancias líquidas?\".\nA continuación, se presenta la respuesta de Mauro, uno de los estudiantes:\n\"No puedo responder a la pregunta porque falta información en la tabla\".\nEl docente tiene como propósito orientar al estudiante a identificar, en la tabla, la información que necesita para responder a la pregunta. ¿Cuál de las siguientes acciones pedagógicas es pertinente para este propósito?",
+          "opciones": [
+            "Sugerirle que relacione la densidad con la solubilidad de cada sustancia de la tabla",
+            "Proponerle que identifique las temperaturas en las que las sustancias de la tabla cambian de estado",
+            "Plantearle que compare la solubilidad de las sustancias de la tabla, tanto en agua como en hexano a 25°C"
+          ],
+          "respuesta": "Proponerle que identifique las temperaturas en las que las sustancias de la tabla cambian de estado",
+          "respuestaCorta": "Para determinar el estado de una sustancia a 25°C, Mauro debe usar los puntos de fusión y ebullición. El docente debe guiarlo para que utilice esa información específica de la tabla.",
+          "solucionario": "Mauro cree que le falta información, cuando en realidad la tabla contiene todo lo necesario. El estado de agregación de una sustancia a una temperatura dada se determina comparando esa temperatura con sus puntos de fusión y ebullición. Si la temperatura (25°C) es inferior al punto de fusión, la sustancia es sólida. Si está entre el punto de fusión y el de ebullición, es líquida. La acción pedagógica más pertinente es dirigir la atención de Mauro hacia esas dos columnas (Punto de fusión y Punto de ebullición) y preguntarle qué significan, para que él mismo deduzca cómo usarlas para responder la pregunta.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Sofía, una de las estudiantes, comenta lo siguiente: \"La sustancia Qq se debería almacenar con las sustancias líquidas, debido a que su densidad es muy similar a la del agua cuando está en estado líquido. Por eso, la sustancia Qq es líquida\". El docente tiene como propósito generar conflicto cognitivo en la estudiante. Teniendo en cuenta este propósito, ¿con cuál de las siguientes alternativas debería comparar la densidad del agua líquida?",
+          "opciones": [
+            "Con el agua sólida (0,92 g/cm3).",
+            "Con la sal de cocina (2,16 g/cm3).",
+            "Con el aceite de coco (0,92 g/cm3)."
+          ],
+          "respuesta": "Con el agua sólida (0,92 g/cm3).",
+          "respuestaCorta": "El error de Sofía es usar la densidad para determinar el estado de la materia. Presentarle el caso del hielo (agua sólida), que es menos denso que el agua líquida, contradice directamente su razonamiento y genera conflicto cognitivo.",
+          "solucionario": "El error conceptual de Sofía es establecer una correlación incorrecta: densidad cercana a 1 g/cm³ implica estado líquido. Para desafiar esta idea, el docente necesita un contraejemplo claro. El agua sólida (hielo) es un ejemplo perfecto y universalmente conocido. Su densidad es de aproximadamente 0,92 g/cm³, que no solo es cercana a 1, sino que es *menor* que la del agua líquida. Este hecho demuestra que una sustancia puede ser sólida y tener una densidad similar o incluso menor que la de un líquido de referencia, rompiendo la regla que Sofía ha creado y forzándola a reconsiderar qué propiedades definen realmente el estado de la materia (los puntos de fusión y ebullición).",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+ 
+    {
+      "idGrupo": "asc_secundaria_2021_p23",
+      
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "El docente solicita que los estudiantes conformen equipos de trabajo para resolver un reto. Luego, el docente plantea la siguiente situación: \"Vamos a suponer que, por accidente, en el almacén se mezclan las sustancias Qq, Xx y Zz. Asumiendo que se dispone de diversos materiales para separar mezclas, ¿cómo podríamos separar dicha mezcla?\". A continuación, se presenta la propuesta de uno de los equipos.\n1. Agregamos agua a la mezcla de las sustancias Qq, Xx y Zz.\n2. Filtramos, a temperatura ambiente, todo el contenido del recipiente y separamos la sustancia que quede en el filtro, es decir, la sustancia 1.\n3. Calentamos a 120°C la solución con las sustancias que sí pasaron por el filtro, empleando un equipo de destilación. Ello nos permitirá separar la sustancia que se evapora, es decir, la sustancia 2, de la que no se evapora, o sea, la sustancia 3.\nDe acuerdo con la información de la tabla y el procedimiento presentando para la separación de la mezcla de Qq, Xx y Zz, ¿a qué sustancias corresponden aquellas identificadas por los estudiantes como 1, 2 y 3?",
+          "opciones": [
+            "Sustancia 1=Zz, sustancia 2=Qq y sustancia 3=Xx",
+            "Sustancia 1=Zz, sustancia 2=Xx y sustancia 3=Qq",
+            "Sustancia 1=Xx, sustancia 2=Zz y sustancia 3=Qq"
+          ],
+          "respuesta": "Sustancia 1=Zz, sustancia 2=Xx y sustancia 3=Qq",
+          "respuestaCorta": "La separación se basa en la solubilidad y puntos de ebullición. Zz no se disuelve en agua, por lo que se filtra (Sustancia 1). Entre Xx y Qq, Xx tiene un punto de ebullición más bajo (115°C), por lo que se evapora a 120°C (Sustancia 2), dejando atrás a Qq (Sustancia 3).",
+          "solucionario": "El procedimiento se analiza por pasos: 1) Se agrega agua. Según la tabla, Qq y Xx son solubles en agua, pero Zz no lo es. 2) Se filtra. La filtración separa los sólidos insolubles de los líquidos. Por lo tanto, Zz quedará retenida en el filtro (Sustancia 1). El líquido que pasa contiene Qq y Xx disueltas en agua. 3) Se calienta a 120°C. El agua hierve a 100°C y se evapora. La sustancia Xx tiene un punto de ebullición de 115°C, por lo que a 120°C también se evaporará y podrá ser separada por destilación (Sustancia 2). La sustancia Qq tiene un punto de ebullición de 280°C, por lo que permanecerá en el recipiente sin evaporarse (Sustancia 3).",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "En caso de que las sustancias Zz y Ww se derramen sobre una superficie, esta no se limpia fácilmente al emplear un trapo humedecido con agua. ¿A qué se debe esto?",
+          "opciones": [
+            "A la magnitud de las fuerzas intermoleculares de estas sustancias.",
+            "A la alta concentración molar de estas sustancias.",
+            "A la baja polaridad de estas sustancias."
+          ],
+          "respuesta": "A la baja polaridad de estas sustancias.",
+          "respuestaCorta": "Las sustancias Zz y Ww no son solubles en agua, lo que indica que son no polares. El agua, un disolvente polar, no puede disolver eficazmente sustancias no polares, lo que dificulta la limpieza.",
+          "solucionario": "El principio de solubilidad fundamental es \"lo semejante disuelve a lo semejante\". El agua es una molécula altamente polar. La tabla de propiedades indica que las sustancias Zz y Ww no son solubles en agua, pero sí en hexano (un disolvente no polar). Esto permite inferir que Zz y Ww son sustancias de baja polaridad o no polares. Por esta razón, el agua no puede disolverlas ni interactuar eficazmente con ellas, haciendo que la limpieza con un trapo húmedo sea ineficaz.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p24",
+      "contexto": "Como parte de una unidad didáctica sobre cómo está conformada la atmósfera, una docente plantea a los estudiantes la siguiente situación: \"Sabemos que el aire es una mezcla compuesta aproximadamente de 78% de nitrógeno, 21% de oxígeno, 0,93% de argón, 0,04% de dióxido de carbono y pequeñas cantidades de otros gases. ¿Cómo podríamos comprobar el porcentaje de oxígeno presente en el aire?\".\nLos estudiantes conforman equipos de trabajo para responder a la pregunta planteada por la docente. A continuación, se presenta la respuesta de uno de los equipos:\nComprobaremos el porcentaje de oxígeno presente en el aire a partir de la formación del óxido de hierro. Para ello, haremos reaccionar el hierro con el oxígeno mediante la siguiente experiencia:\n1. Llenaremos con agua la mitad de una bandeja de plástico.\n2. Introduciremos 2 rollitos nuevos de lana de hierro (la que se usa para limpiar las ollas) dentro de una probeta de 100 mL, de tal manera que se queden en la base de esta. La cantidad de lana de hierro deberá ser suficiente para reaccionar con el oxígeno.\n3. Colocaremos esta probeta boca abajo, en la bandeja con agua (los rollitos deben quedarse en la base de la probeta), para que inicie la reacción.\n4. Como la experiencia tomará bastante tiempo, la realizaremos de un día para otro y hasta en tres oportunidades.\n5. Esperaremos hasta que ya no se observe ningún cambio en el nivel del agua dentro de la probeta ni en la apariencia de los rollitos de lana de hierro. Registraremos los resultados en la siguiente tabla de datos:",
+      "imagen": "img/ascenso/secundaria/2021/cyt/8.jpg",
+      "preguntas": [
+        {
+          "pregunta": "Tomando en cuenta el propósito de la experiencia, ¿qué procedimiento deben incluir los estudiantes?",
+          "opciones": [
+            "Realizar los cálculos estequiométricos de la reacción química entre el hierro y el oxígeno del aire.",
+            "Identificar la relación porcentual entre el volumen de oxígeno consumido y el volumen inicial del aire.",
+            "Emplear una probeta de mayor capacidad de tal manera que se pueda utilizar una mayor muestra de aire para obtener oxígeno."
+          ],
+          "respuesta": "Identificar la relación porcentual entre el volumen de oxígeno consumido y el volumen inicial del aire.",
+          "respuestaCorta": "El objetivo es comprobar el porcentaje de oxígeno. Esto se logra midiendo la disminución del volumen de aire (que corresponde al oxígeno consumido) y calculando qué porcentaje representa del volumen inicial.",
+          "solucionario": "El propósito del experimento es determinar el porcentaje de oxígeno en el aire. El método se basa en eliminar el oxígeno de una muestra de aire atrapada y medir el cambio de volumen. El volumen de aire al inicio se registra en la probeta. A medida que el hierro se oxida, consume el oxígeno gaseoso. El agua sube por la probeta para ocupar el volumen del oxígeno consumido. La diferencia entre el volumen inicial y el final de aire es el volumen de oxígeno. Para cumplir el propósito, el paso final es calcular el porcentaje: (volumen de oxígeno consumido / volumen de aire inicial) x 100%.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Ronald, uno de los integrantes del equipo, comenta lo siguiente: \"Yo estoy encargado de conseguir la lana de hierro para la experiencia. La he buscado en varias ferreterías cerca a mi casa, pero solo he conseguido unos cuantos hilitos de hierro. Sin embargo, esto no me preocupa porque no importa cuánto hierro utilicemos para obtener óxido de hierro, igual vamos a poder identificar el contenido total de oxígeno presente en el aire dentro de la probeta\". ¿Cuál es el error que se evidencia en el comentario del estudiante?",
+          "opciones": [
+            "Creer que los hilos de hierro reaccionan con el oxígeno del aire y forman óxido de hierro.",
+            "Creer que tanto la lana de hierro como los hilos de hierro presentan la misma composición química.",
+            "Creer que la cantidad empleada de hierro será suficiente para determinar el porcentaje de oxígeno en el aire."
+          ],
+          "respuesta": "Creer que la cantidad empleada de hierro será suficiente para determinar el porcentaje de oxígeno en el aire.",
+          "respuestaCorta": "El error de Ronald es no considerar el concepto de reactivo limitante. Si usa muy poco hierro, este se consumirá antes que todo el oxígeno, dando un resultado incorrecto y subestimado del porcentaje de oxígeno.",
+          "solucionario": "El comentario de Ronald revela un error en la comprensión de la estequiometría de la reacción. Para que la medición sea precisa, es crucial que todo el oxígeno del aire atrapado en la probeta reaccione. Esto solo puede garantizarse si el hierro está en exceso, es decir, si hay más hierro del que se necesita para reaccionar con todo el oxígeno disponible. Si la cantidad de hierro es insuficiente (si es el reactivo limitante), la reacción se detendrá cuando se acabe el hierro, dejando oxígeno sin reaccionar. Esto llevaría a una medición incorrecta del volumen de oxígeno consumido y, por lo tanto, a un cálculo erróneo de su porcentaje en el aire.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Qué ocurre con el oxígeno de la probeta en la reacción que se lleva a cabo en la experiencia?",
+          "opciones": [
+            "Se oxida.",
+            "Se reduce.",
+            "Conserva su estado de oxidación."
+          ],
+          "respuesta": "Se reduce.",
+          "respuestaCorta": "En la formación de óxido de hierro (Fe2O3), el oxígeno molecular (O2, estado de oxidación 0) gana electrones para convertirse en el anión óxido (O2-, estado de oxidación -2). La ganancia de electrones es, por definición, una reducción.",
+          "solucionario": "La reacción química que ocurre es la oxidación del hierro: 4 Fe(s) + 3 O2(g) → 2 Fe2O3(s). Para determinar qué le sucede al oxígeno, debemos analizar los estados de oxidación. El oxígeno en su forma molecular (O2) tiene un estado de oxidación de 0. En el compuesto óxido de hierro (III) (Fe2O3), el oxígeno tiene un estado de oxidación de -2. Para pasar de 0 a -2, cada átomo de oxígeno debe ganar 2 electrones. El proceso de ganar electrones se define como reducción. Por lo tanto, el oxígeno se reduce (y actúa como el agente oxidante).",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p25",
+      "contexto": "Una docente se encuentra desarrollando una sesión de aprendizaje como parte de una unidad didáctica sobre la dinámica de los ecosistemas.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes acciones pedagógicas es más pertinente para activar los saberes previos de los estudiantes?",
+          "opciónes": [
+            "Proporcionar a los estudiantes los nombres y características de diferentes seres vivos y solicitarles que elaboren una red alimenticia con ellos. Luego, pedirles que expliquen cómo se relacionan los componentes de la red alimenticia conformada.",
+            "Presentar a los estudiantes la imagen de una red alimenticia y mencionarles el nombre de cada uno de los componentes de esta red: productores, consumidores y descomponedores. Luego, pedirles que describan la función de estos componentes.",
+            "Presentar a los estudiantes dos grupos de tarjetas: uno con el nombre de los componentes de un ecosistema, y otro con la función que estos componentes cumplen en él. Luego, pedirles que relacionen cada componente del ecosistema con la función que cumplen."
+          ],
+          "respuesta": "Proporcionar a los estudiantes los nombres y características de diferentes seres vivos y solicitarles que elaboren una red alimenticia con ellos. Luego, pedirles que expliquen cómo se relacionan los componentes de la red alimenticia conformada.",
+          "respuestaCorta": "Esta opción permite a los estudiantes construir conocimiento activamente a partir de elementos familiares, revelando su comprensión previa sobre las relaciones alimentarias antes de introducir la terminología formal.",
+          "solucionario": "La activación de saberes previos es más efectiva cuando los estudiantes tienen la oportunidad de expresar y utilizar lo que ya saben en un contexto significativo. La opción A es la más pertinente porque es una actividad constructivista. Pide a los estudiantes que usen su conocimiento del mundo natural (quién come a quién) para crear un producto (la red alimenticia). Al explicar sus creaciones, exteriorizan sus concepciones previas, permitiendo al docente diagnosticar su nivel de comprensión. Las otras opciones son más expositivas y evaluativas, presentando la información ya estructurada en lugar de permitir que los estudiantes la construyan.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p26",
+      "contexto": "Un docente está desarrollando una unidad didáctica sobre la acción del ser humano en la problemática del cambio climático.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "El docente pregunta lo siguiente: \"¿Qué es el efecto invernadero?\".\nA continuación, se presentan las respuestas de tres estudiantes. ¿Cuál de los estudiantes ha respondido correctamente a la pregunta planteada por el docente?",
+          "opciones": [
+            "Ana dice: \"Es el proceso mediante el cual la cantidad de oxígeno en la atmósfera decrece y la de dióxido de carbono aumenta, provocando daños en las personas y en todos los ecosistemas\".",
+            "Bruno dice: \"Es un fenómeno natural que ayuda a que la temperatura de la Tierra no sea muy baja, pero que puede verse afectado y ser peligroso, si la cantidad de gases de efecto invernadero es muy grande\".",
+            "Cristian dice: \"Es un sistema que permite que se forme una especie de capa sobre la Tierra, para evitar que entren gases dañinos a la atmósfera. Además, gracias a este efecto, la atmósfera es impermeable a la radiación nociva\"."
+          ],
+          "respuesta": "Bruno dice: \"Es un fenómeno natural que ayuda a que la temperatura de la Tierra no sea muy baja, pero que puede verse afectado y ser peligroso, si la cantidad de gases de efecto invernadero es muy grande\".",
+          "respuestaCorta": "La respuesta de Bruno es la más precisa, ya que reconoce la naturaleza dual del efecto invernadero: un fenómeno natural y beneficioso que se ha intensificado a niveles peligrosos por la actividad humana.",
+          "solucionario": "Bruno ofrece la definición más completa y correcta. Es crucial entender que el efecto invernadero es, en principio, un proceso natural y esencial para la vida en la Tierra, ya que mantiene una temperatura promedio habitable. Su respuesta captura esta idea al decir que \"ayuda a que la temperatura (...) no sea muy baja\". También identifica correctamente el problema actual: la intensificación de este fenómeno natural debido al exceso de gases de efecto invernadero, lo que lo vuelve \"peligroso\". Las respuestas de Ana y Cristian contienen imprecisiones; Ana lo confunde con la composición general del aire y Cristian lo mezcla con la función de la capa de ozono.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Luego de varias sesiones de aprendizaje, el docente observa que la mayoría de estudiantes ha logrado explicar que ciertas actividades humanas, tales como la quema de combustibles fósiles y las actividades industriales, son las principales causas del calentamiento global. En ese contexto, el docente brinda la siguiente indicación: \"Vamos a consultar diversas fuentes para analizar y evaluar los argumentos de aquellos que sostienen que el calentamiento global no es causado por el ser humano, sino que es un proceso que tiene que ocurrir\". ¿Cuál es el propósito principal de la actividad realizada por el docente?",
+          "opciones": [
+            "Que los estudiantes identifiquen las causas y consecuencias del calentamiento global.",
+            "Que los estudiantes desarrollen su posición crítica sobre las causas del calentamiento global.",
+            "Que los estudiantes planteen acciones para contrarrestar las causas y consecuencias del calentamiento global."
+          ],
+          "respuesta": "Que los estudiantes desarrollen su posición crítica sobre las causas del calentamiento global.",
+          "respuestaCorta": "Al pedirles analizar y evaluar argumentos contrarios al consenso científico, el docente busca que los estudiantes refuercen su propia comprensión, aprendan a discernir información y construyan una postura informada y crítica.",
+          "solucionario": "El propósito principal de esta actividad es fomentar el pensamiento crítico. Los estudiantes ya han aprendido la visión científicamente aceptada. Ahora, el docente los expone a puntos de vista disidentes no para que los adopten, sino para que los analicen críticamente. Esta tarea requiere que evalúen la validez de las fuentes, la solidez de los argumentos y la evidencia presentada. Al contrastar estas ideas con lo que han aprendido, los estudiantes no solo refuerzan su conocimiento, sino que también desarrollan habilidades para argumentar, debatir y formar una opinión fundamentada, que es la esencia de una posición crítica.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p27",
+      "contexto": "Una persona empuja una caja sobre una superficie horizontal y rugosa.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "En el momento en que se empieza a empujar la caja y esta pasa de estar quieta a moverse en línea recta, cada vez más rápido, ¿cuál de las siguientes afirmaciones respecto de las magnitudes de las fuerzas que intervienen sobre la caja y la persona es correcta?",
+          "opciones": [
+            "La fuerza que la persona aplica en la caja es de igual magnitud que la fuerza que la caja aplica en la persona.",
+            "La fuerza que la persona aplica en la caja es de mayor magnitud que la fuerza que la caja aplica en la persona.",
+            "La fuerza que la persona aplica en la caja es de menor magnitud que la fuerza que la caja aplica en la persona."
+          ],
+          "respuesta": "La fuerza que la persona aplica en la caja es de igual magnitud que la fuerza que la caja aplica en la persona.",
+          "respuestaCorta": "Según la Tercera Ley de Newton, las fuerzas de acción y reacción entre dos objetos son siempre iguales en magnitud y opuestas en dirección, independientemente de su estado de movimiento.",
+          "solucionario": "Esta pregunta se resuelve aplicando la Tercera Ley de Newton, también conocida como el principio de acción y reacción. Esta ley establece que si un cuerpo A ejerce una fuerza sobre un cuerpo B (acción), entonces el cuerpo B ejerce una fuerza de igual magnitud y en sentido opuesto sobre el cuerpo A (reacción). El hecho de que la caja esté acelerando se debe a la *fuerza neta* sobre ella (la fuerza de la persona menos la fricción), pero el par de fuerzas de interacción directa entre la persona y la caja son siempre, en todo momento, iguales en magnitud.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "La persona continúa empujando la caja, de tal manera que esta se mueve con velocidad constante. En este momento, ¿cuál de las siguientes afirmaciones es correcta?",
+          "opciones": [
+            "La inercia de la caja ha disminuido con relación al inicio del movimiento.",
+            "No se ejercen fuerzas entre la caja y la persona, ambas avanzan por inercia.",
+            "La superficie ejerce una fuerza de fricción sobre la caja pero la aceleración de esta es nula."
+          ],
+          "respuesta": "La superficie ejerce una fuerza de fricción sobre la caja pero la aceleración de esta es nula.",
+          "respuestaCorta": "Moverse a velocidad constante significa que la aceleración es cero. Según la Primera Ley de Newton, esto implica que la fuerza neta sobre la caja es cero, lo que significa que la fuerza de empuje es igual y opuesta a la fuerza de fricción.",
+          "solucionario": "Que la caja se mueva con velocidad constante es una condición de equilibrio dinámico. Según la Primera Ley de Newton (Ley de la Inercia), un objeto se mueve con velocidad constante si y solo si la fuerza neta que actúa sobre él es cero. En el eje horizontal, actúan dos fuerzas sobre la caja: la fuerza de empuje de la persona y la fuerza de fricción de la superficie. Para que la fuerza neta sea cero, estas dos fuerzas deben ser de igual magnitud y de sentido contrario. Por lo tanto, aunque hay fuerzas actuando (empuje y fricción), su suma es cero, y la aceleración es nula.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Luego, la persona y la caja empiezan a moverse cada vez más lento. En este momento, ¿cuál de las siguientes afirmaciones sobre las fuerzas que intervienen es correcta?",
+          "opciones": [
+            "La fuerza que la caja aplica en la persona es de mayor magnitud que la fuerza que la persona aplica en la caja.",
+            "La fuerza que la persona aplica en la caja es de menor magnitud que la fuerza de fricción que el piso aplica en la caja.",
+            "La fuerza que la caja aplica en la persona es de mayor magnitud que la fuerza de fricción que el piso aplica en la caja."
+          ],
+          "respuesta": "La fuerza que la persona aplica en la caja es de menor magnitud que la fuerza de fricción que el piso aplica en la caja.",
+          "respuestaCorta": "Si la caja se está desacelerando, significa que hay una fuerza neta en dirección opuesta al movimiento. Esto ocurre cuando la fuerza de fricción es mayor que la fuerza de empuje que aplica la persona.",
+          "solucionario": "El hecho de que la caja se mueva \"cada vez más lento\" implica que está desacelerando, es decir, tiene una aceleración negativa (en dirección opuesta al movimiento). Según la Segunda Ley de Newton (F_neta = ma), para que haya una aceleración, debe haber una fuerza neta no nula. En este caso, la fuerza neta debe oponerse al movimiento. Las fuerzas horizontales son el empuje de la persona y la fricción. Para que la fuerza neta se oponga al movimiento, la fuerza de fricción (que siempre se opone al movimiento) debe ser mayor en magnitud que la fuerza de empuje.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Después de que la persona ha dejado de empujar la caja y esta se detiene, ¿cuál de las siguientes afirmaciones es correcta sobre las fuerzas que se ejercen en la caja, su movimiento y su energía?",
+          "opciones": [
+            "Sobre la caja solo actúan la fuerza normal del piso y la fuerza de atracción gravitatoria de la Tierra. Los trabajos de estas fuerzas son nulos.",
+            "Sobre la caja solo actúan la fuerza normal del piso y la fuerza de atracción gravitatoria de la Tierra. Ambos trabajos se anulan entre sí.",
+            "La superficie rugosa del piso ejerce una fuerza de fricción estática sobre la caja. Sin embargo, el trabajo de esta fuerza es nulo."
+          ],
+          "respuesta": "Sobre la caja solo actúan la fuerza normal del piso y la fuerza de atracción gravitatoria de la Tierra. Los trabajos de estas fuerzas son nulos.",
+          "respuestaCorta": "Cuando la caja está detenida sobre una superficie horizontal y no hay fuerzas horizontales aplicadas, la fuerza de fricción estática es cero. Las únicas fuerzas son la normal y la gravedad, y como no hay desplazamiento, el trabajo que realizan es nulo.",
+          "solucionario": "Una vez que la caja se detiene y la persona ya no empuja, la situación es de equilibrio estático. Las fuerzas verticales son la fuerza de atracción gravitatoria (peso) hacia abajo y la fuerza normal del piso hacia arriba; estas se equilibran. Horizontalmente, la fuerza de fricción estática es una fuerza de reacción que solo aparece si se intenta mover el objeto. Como no hay ninguna fuerza horizontal intentando mover la caja, la fuerza de fricción estática es cero. Por lo tanto, solo actúan la normal y el peso. El trabajo mecánico se define como W = F * d * cos(θ). Dado que la caja está detenida, su desplazamiento (d) es cero. Por consiguiente, el trabajo realizado por cualquier fuerza es cero.",
+          "seccion": "Casuística"
+        }
+      ]
+    }
+  ]
+}
+  
