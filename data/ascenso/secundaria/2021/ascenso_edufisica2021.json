@@ -1,0 +1,967 @@
+{
+  "completo": [
+    {
+      "idGrupo": "asc_secundaria_2021_p01",
+      "contexto": "El docente inicia el año escolar con un nuevo grupo de estudiantes. En la primera sesión, los estudiantes y el docente se presentan, y realizan una actividad lúdica para conocerse mejor. Luego, el docente pide a los estudiantes que se sienten en el piso formando un círculo y les pregunta: \"Para ustedes, ¿cuál es la finalidad de la Educación Física?\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Tres estudiantes responden. ¿Cuál de las respuestas está más alineada con la finalidad de la Educación Física según el CNEB?",
+          "opciones": [
+            "Teresa dice: \"Pienso que la Educación Física es muy importante porque desarrollamos nuestras habilidades deportivas y todos saben que el deporte es salud. A mí me encanta practicar fútbol y atletismo, y en las clases de Educación Física puedo mejorar mi técnica. Cuando sea mayor, quiero ser una deportista famosa y ganar muchas medallas para el Perú\".",
+            "Fernando dice: \"Considero que la Educación Física es la única clase del colegio en la que podemos descansar del trabajo mental. Las clases son divertidas, podemos jugar, la pasamos bien y trabajamos en equipo. Eso es muy bueno, porque aprendemos de nuestros compañeros y también liberamos el estrés\".",
+            "Renata dice: \"Opino que la Educación Física sirve para mejorar nuestro estado físico y para tener una vida más saludable. Además, aprendemos a utilizar nuestro cuerpo para expresarnos, para ser más ágiles y fuertes, y aprendemos a trabajar en equipo con nuestros compañeros\"."
+          ],
+          "respuesta": "Renata dice: \"Opino que la Educación Física sirve para mejorar nuestro estado físico y para tener una vida más saludable. Además, aprendemos a utilizar nuestro cuerpo para expresarnos, para ser más ágiles y fuertes, y aprendemos a trabajar en equipo con nuestros compañeros\".",
+          "respuestaCorta": "La respuesta de Renata integra la salud, la expresión corporal y el trabajo en equipo, lo que se alinea con el enfoque integral de la corporeidad del CNEB.",
+          "solucionario": "El Currículo Nacional de la Educación Básica (CNEB) plantea que la Educación Física busca la formación integral del ser humano a través de la corporeidad. La respuesta de Renata es la más completa, ya que no solo menciona el aspecto de la salud y el estado físico, sino también la dimensión expresiva del cuerpo y la socialización a través del trabajo en equipo, abarcando así de manera más amplia los propósitos del área.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "La pregunta realizada por el docente luego de las actividades, ¿a qué proceso pedagógico se orienta principalmente?",
+          "opciones": [
+            "A indagar sobre los saberes previos de los estudiantes.",
+            "A promover habilidades metacognitivas en los estudiantes.",
+            "A favorecer la transferencia del aprendizaje de los estudiantes."
+          ],
+          "respuesta": "A indagar sobre los saberes previos de los estudiantes.",
+          "respuestaCorta": "La pregunta del docente busca conocer las ideas, concepciones y conocimientos que los estudiantes ya poseen sobre la finalidad del área.",
+          "solucionario": "Al preguntar \"¿cuál es la finalidad de la Educación Física?\" al inicio de un periodo escolar, el docente está activando el proceso pedagógico de recojo de saberes previos. Este es un punto de partida fundamental para que el docente pueda planificar las siguientes sesiones, conectando los nuevos aprendizajes con las ideas que los estudiantes ya tienen.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p03",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Tomando en cuenta el enfoque del área de Educación Física del CNEB, ¿cuál es el propósito principal de la iniciación deportiva?",
+          "opciones": [
+            "Sirve como medio para que los estudiantes desarrollen habilidades sociales y motrices cada vez más complejas.",
+            "Permite identificar estudiantes con potencial para ser deportistas de alta competencia cuando aún son muy jóvenes.",
+            "Ayuda a formar la personalidad de los estudiantes por medio del aprendizaje de reglas, la perseverancia y la disciplina."
+          ],
+          "respuesta": "Sirve como medio para que los estudiantes desarrollen habilidades sociales y motrices cada vez más complejas.",
+          "respuestaCorta": "El enfoque del CNEB utiliza el deporte como un medio para el desarrollo integral del estudiante, priorizando habilidades motrices y sociales sobre la especialización temprana.",
+          "solucionario": "La iniciación deportiva, desde la perspectiva del CNEB, no tiene como fin principal la detección de talentos o la formación de atletas de élite. Su propósito es pedagógico: utilizar el juego y el deporte como un medio para que los estudiantes desarrollen de manera progresiva sus competencias motrices y, de igual importancia, sus habilidades sociales como el trabajo en equipo, el respeto y la cooperación.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p04",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "En cuál de las siguientes situaciones motrices los estudiantes le dan un valor simbólico a los materiales que sirven de soporte para la actividad?",
+          "opciones": [
+            "Al deslizarse por un tobogán de diversas maneras: sentados, echados boca abajo, entre otras.",
+            "Al utilizar unas cuerdas para colgarse como si fueran un mono avanzando entre los árboles.",
+            "Al pasar por una escalera de psicomotricidad en posición de cuadrupedia siguiendo el ritmo marcado por un tambor."
+          ],
+          "respuesta": "Al utilizar unas cuerdas para colgarse como si fueran un mono avanzando entre los árboles.",
+          "respuestaCorta": "En esta opción, las cuerdas dejan de ser solo cuerdas para convertirse simbólicamente en árboles, y el estudiante asume el rol de un mono, lo que evidencia el juego simbólico.",
+          "solucionario": "El valor simbólico en una actividad motriz se da cuando los objetos y las acciones representan algo diferente a lo que son en la realidad. Al imaginar que las cuerdas son árboles y que ellos son monos, los estudiantes están transformando la realidad a través de la imaginación, característica fundamental del juego simbólico. Las otras opciones describen un uso funcional de los materiales, sin esta carga simbólica.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p05",
+      "contexto": "La docente está realizando una experiencia de aprendizaje sobre nutrición con el objetivo de que los estudiantes aprendan a alimentarse de manera balanceada.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "La docente pregunta a los estudiantes: \"¿Quién puede nombrar un alimento que contiene muchas proteínas?\". Tres estudiantes responden. ¿Cuál de ellos ha acertado con su respuesta?",
+          "opciones": [
+            "Manuel dice: \"El huevo\".",
+            "Lucrecia dice: \"El plátano\".",
+            "Pedro dice: \"La miel de abeja\"."
+          ],
+          "respuesta": "Manuel dice: \"El huevo\".",
+          "respuestaCorta": "El huevo es un alimento de origen animal conocido por su alto contenido de proteínas de gran valor biológico.",
+          "solucionario": "Las proteínas son macronutrientes esenciales para la construcción y reparación de tejidos. El huevo es una de las fuentes de proteína más completas. Por otro lado, el plátano es rico en carbohidratos y potasio, y la miel de abeja es fundamentalmente una fuente de carbohidratos simples (azúcares).",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Luego, la docente dice: \"A ver, quién me puede decir cuál de los siguientes alimentos contiene más carbohidratos: ¿el pescado, la mantequilla o la manzana?\". Tres estudiantes responden. ¿Cuál de ellos ha acertado la respuesta?",
+          "opciones": [
+            "Milagros dice: \"El pescado\".",
+            "Piero dice: \"La mantequilla\".",
+            "Fernando dice: \"La manzana\"."
+          ],
+          "respuesta": "Fernando dice: \"La manzana\".",
+          "respuestaCorta": "La manzana, como fruta, es una fuente principal de carbohidratos, especialmente azúcares como la fructosa.",
+          "solucionario": "Los carbohidratos son la principal fuente de energía del cuerpo. Entre las opciones, la manzana es rica en carbohidratos. El pescado es una fuente primordial de proteínas y la mantequilla es un alimento compuesto mayoritariamente por grasas (lípidos).",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Cuál es la manera más adecuada de consumir frutas para conservar todos sus nutrientes y fibra?",
+          "opciones": [
+            "Tomar la fruta en extractos.",
+            "Tomar jugos de frutas licuadas.",
+            "Comer la fruta entera o en trozos."
+          ],
+          "respuesta": "Comer la fruta entera o en trozos.",
+          "respuestaCorta": "Consumir la fruta entera garantiza la ingesta de fibra dietética, la cual se pierde en gran medida al preparar extractos o jugos.",
+          "solucionario": "Al procesar las frutas para hacer extractos o jugos, se separa el líquido de la pulpa y la piel, que es donde se encuentra la mayor parte de la fibra. La fibra es crucial para la salud digestiva y para regular la absorción de azúcar en la sangre. Por lo tanto, comer la fruta entera o en trozos es la forma más saludable de aprovechar todos sus beneficios nutricionales.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Luego, los estudiantes investigan sobre la función de algunos nutrientes presentes en los alimentos. ¿Cuál de las siguientes alternativas es una de las funciones de las proteínas?",
+          "opciones": [
+            "Son una fuente de energía inmediata para el organismo.",
+            "Son el componente estructural de las células y los tejidos.",
+            "Transportan vitaminas y favorecen la producción de hormonas."
+          ],
+          "respuesta": "Son el componente estructural de las células y los tejidos.",
+          "respuestaCorta": "La función principal de las proteínas es plástica o estructural, ya que son los 'ladrillos' con los que se construyen y reparan los tejidos del cuerpo.",
+          "solucionario": "La función primordial de las proteínas es estructural; forman parte de los músculos, huesos, piel, y son componentes esenciales de todas las células (opción B). Aunque pueden ser usadas como fuente de energía, no es su función principal ni inmediata; ese rol lo cumplen los carbohidratos (opción A). El transporte de vitaminas liposolubles y la producción de ciertas hormonas es una función asociada principalmente a los lípidos o grasas (opción C).",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Tomando en cuenta su contenido nutricional, ¿cuál de las siguientes alternativas presenta alimentos predominantemente energéticos?",
+          "opciones": [
+            "Frijoles, garbanzos, trigo, avena, maíz.",
+            "Lechuga, espinaca, cebolla, tomate, col.",
+            "Pescado, pollo, res, huevos, queso, leche."
+          ],
+          "respuesta": "Frijoles, garbanzos, trigo, avena, maíz.",
+          "respuestaCorta": "El grupo de legumbres y cereales es la principal fuente de carbohidratos complejos, que proporcionan energía de manera sostenida al organismo.",
+          "solucionario": "Los alimentos energéticos son aquellos ricos en carbohidratos. La opción A, que incluye legumbres (frijoles, garbanzos) y cereales (trigo, avena, maíz), es la correcta. La opción B presenta hortalizas, ricas en vitaminas, minerales y fibra, pero bajas en calorías. La opción C agrupa alimentos de origen animal, que son principalmente fuentes de proteínas y grasas.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p10",
+      "contexto": "El docente propone a los estudiantes realizar un circuito lúdico de actividades motrices al que ha denominado \"Desafío y aventura\". El docente organiza diversos materiales creando obstáculos que los estudiantes deberán superar: balones gigantes, sillas y mesas, taburetes, túneles hechos con costales vacíos, vallas, conos de plástico, etc. Los estudiantes deberán atravesar los obstáculos eligiendo libremente cómo y por dónde superarlos, estimando las dimensiones de los objetos, las distancias entre ellos y el tamaño de su propio cuerpo para evitar golpearse y llegar a la meta lo más rápido posible.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes aspectos se desarrolla principalmente en la actividad propuesta por el docente?",
+          "opciones": [
+            "Coordinación específica.",
+            "Conciencia corporal.",
+            "Lateralidad."
+          ],
+          "respuesta": "Conciencia corporal.",
+          "respuestaCorta": "La actividad exige a los estudiantes ser conscientes de su cuerpo en relación con el espacio y los objetos para poder superar los obstáculos eficazmente.",
+          "solucionario": "La conciencia corporal es la capacidad de percibir la posición y el movimiento del propio cuerpo en el espacio. Al tener que estimar distancias, dimensiones de objetos y el tamaño de su propio cuerpo para moverse sin golpearse, los estudiantes están desarrollando y poniendo en práctica de manera directa su conciencia corporal. Si bien la coordinación y la lateralidad también están presentes, la conciencia corporal es el aspecto central de la tarea.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Cuál de las siguientes capacidades del CNEB se desarrolla principalmente en la actividad descrita?",
+          "opciones": [
+            "Comprende su cuerpo.",
+            "Se expresa corporalmente.",
+            "Crea y aplica estrategias y tácticas de juego."
+          ],
+          "respuesta": "Comprende su cuerpo.",
+          "respuestaCorta": "La capacidad 'Comprende su cuerpo' se refiere a la interiorización y conciencia del propio cuerpo en acción, lo cual es fundamental para navegar el circuito de obstáculos.",
+          "solucionario": "Dentro de la competencia \"Se desenvuelve de manera autónoma a través de su motricidad\", se encuentra la capacidad \"Comprende su cuerpo\". Esta se manifiesta cuando el estudiante utiliza su conciencia corporal para adaptar sus movimientos a las demandas del entorno, como en este caso, superar un circuito de obstáculos. Las otras capacidades se centran en la comunicación (expresión corporal) o en la lógica de juegos reglados (estrategias y tácticas).",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p12",
+      "contexto": "En el marco de un festival de actividades atléticas, los estudiantes van a realizar carreras de 100 metros planos. Entre los participantes, se encuentran dos estudiantes con discapacidad visual: Rodolfo, que presenta ceguera, y Marcela, quien tiene baja visión. El docente debe realizar las adaptaciones necesarias para que ambos estudiantes participen en la carrera.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es la adaptación más adecuada para Rodolfo, el estudiante con ceguera?",
+          "opciones": [
+            "Que corra junto a un guía vidente, ambos sujetados por las muñecas o de la mano.",
+            "Que un guía vidente lo oriente de forma acústica por todo el recorrido con un objeto sonoro.",
+            "Que corra solo, en una carrera aparte, y que se compare su tiempo con el de sus compañeros."
+          ],
+          "respuesta": "Que corra junto a un guía vidente, ambos sujetados por las muñecas o de la mano.",
+          "respuestaCorta": "La adaptación estándar y segura en el atletismo para personas con ceguera es correr con un guía vidente, unidos por un dispositivo de sujeción, para garantizar la dirección y seguridad.",
+          "solucionario": "Para garantizar una participación inclusiva y segura, la metodología establecida en el deporte adaptado para corredores con ceguera es el uso de un guía vidente. Ambos corren en tándem, conectados generalmente por una cuerda corta o tomados de la mano/muñeca, lo que permite al guía comunicar la dirección y los detalles de la pista. La guía acústica es menos precisa y segura para carreras de velocidad, y la exclusión en una carrera aparte va en contra de los principios de inclusión.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+ 
+    {
+      "idGrupo": "asc_secundaria_2021_p13",
+      "contexto": "En el marco de un festival de actividades atléticas, los estudiantes van a realizar carreras de 100 metros planos. Entre los participantes, se encuentran dos estudiantes con discapacidad visual: Rodolfo, que presenta ceguera, y Marcela, quien tiene baja visión. El docente debe realizar las adaptaciones necesarias para que ambos estudiantes participen en la carrera.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es la adaptación más adecuada para Marcela, la estudiante con baja visión?",
+          "opciones": [
+            "Que corra junto a una compañera que haga de guía vidente.",
+            "Que corra por un carril adaptado con apoyos visuales fosforescentes.",
+            "Que corra por un carril adaptado, más ancho que el de sus compañeros."
+          ],
+          "respuesta": "Que corra por un carril adaptado con apoyos visuales fosforescentes.",
+          "respuestaCorta": "Para una estudiante con baja visión, la adaptación debe potenciar su visión residual, por lo que apoyos visuales de alto contraste como elementos fosforescentes son los más adecuados.",
+          "solucionario": "A diferencia de la ceguera total, la baja visión implica que la persona tiene un resto visual funcional. La mejor adaptación es aquella que maximiza el uso de esa visión residual. Los apoyos visuales fosforescentes o de colores muy contrastantes en su carril le permitirán orientarse de manera más autónoma. Un guía puede no ser necesario y un carril más ancho no aborda el problema de la percepción visual.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p14",
+      "contexto": "Una docente está revisando información sobre el concepto de lateralidad y encuentra una fuente periodística que menciona al famoso futbolista, Lionel Messi. En la fuente, se afirma que el futbolista utiliza el pie izquierdo para dominar la pelota, y domina su campo visual con el ojo izquierdo; además, menciona que Messi utiliza su mano derecha para escribir, lo que puede observarse cuando firma autógrafos a sus seguidores.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "A partir de lo descrito en la fuente, de manera general, ¿qué tipo de lateralidad presenta Lionel Messi?",
+          "opciones": [
+            "Cruzada.",
+            "Homogénea.",
+            "Ambidiestra."
+          ],
+          "respuesta": "Cruzada.",
+          "respuestaCorta": "Se describe una lateralidad cruzada porque su dominancia de mano (derecha) es diferente a su dominancia de pie y ojo (izquierda).",
+          "solucionario": "La lateralidad cruzada, o heterogénea, se produce cuando la dominancia de la mano, el pie, el ojo o el oído no se da en el mismo lado del cuerpo. En este caso, la dominancia manual es derecha, mientras que la podal y ocular es izquierda. La lateralidad homogénea sería si todos fueran del mismo lado, y la ambidiestra implicaría habilidad similar con ambos lados.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Según la fuente, con respecto a su coordinación óculo-podal, ¿qué tipo de lateralidad presenta Messi?",
+          "opciones": [
+            "Cruzada.",
+            "Homogénea.",
+            "Ambidiestra."
+          ],
+          "respuesta": "Homogénea.",
+          "respuestaCorta": "La coordinación óculo-podal (ojo-pie) es homogénea porque se describe que utiliza el ojo izquierdo y el pie izquierdo como dominantes para la acción.",
+          "solucionario": "La coordinación óculo-podal se refiere específicamente a la relación entre el ojo y el pie dominantes. El texto indica que Messi \"utiliza el pie izquierdo para dominar la pelota, y domina su campo visual con el ojo izquierdo\". Como ambos segmentos dominantes (ojo y pie) están en el mismo lado del cuerpo (izquierdo), su lateralidad en esta coordinación específica es homogénea.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Tomando en cuenta su tipo de lateralidad, ¿cuál de las siguientes posiciones en el campo es más pertinente que tome Messi para ejecutar un tiro al arco?",
+          "opciones": [
+            "En el centro del área.",
+            "En la zona lateral derecha.",
+            "En la zona lateral izquierda."
+          ],
+          "respuesta": "En la zona lateral derecha.",
+          "respuestaCorta": "Al ser zurdo para patear, ubicarse en la zona derecha del campo le permite un mejor ángulo para rematar hacia el arco con la parte interna de su pie dominante.",
+          "solucionario": "Un jugador con dominancia en el pie izquierdo (zurdo) tiene un ángulo de tiro más natural y abierto cuando se aproxima al arco desde la zona derecha del campo. Esto le permite \"enganchar\" hacia el centro y rematar con la cara interna del pie izquierdo, abarcando una mayor porción del arco. Desde la zona izquierda, su ángulo de tiro se cerraría.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p17",
+      "contexto": "La docente organiza a los estudiantes en grupos de tres para que practiquen la posición de vertical invertida con tres apoyos. En el turno de Julia, Teresa y Daniel participan como apoyo para ayudarla a mantener el equilibrio y van dándole consignas sobre cómo lograr y mantener la posición; por ejemplo, \"apoya las manos y tu cabeza formando un triángulo\", \"extiende las piernas y apóyate en la punta de tus pies\", \"ahora eleva tus piernas extendiéndolas\", \"eso, sube más la pierna derecha... busca equilibrarte\", entre otras indicaciones. Sin embargo, Julia no logra ejecutar fácilmente las consignas de sus compañeros cuando se encuentra \"de cabeza\". Por ejemplo, cuando su compañero le dice \"sube un poco tu pierna derecha\", ella eleva la izquierda. Ella no se explica por qué no puede seguir las indicaciones, dado que, cuando lo hace sentada o marcando la posición de vela, no le es difícil seguirlas.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes aspectos requiere desarrollar Julia para superar la dificultad descrita?",
+          "opciones": [
+            "Su esquema corporal.",
+            "Su imagen corporal.",
+            "Su actitud corporal."
+          ],
+          "respuesta": "Su esquema corporal.",
+          "respuestaCorta": "Julia necesita desarrollar su esquema corporal, que es la representación mental del cuerpo y sus partes en el espacio, especialmente al estar en una posición no habitual.",
+          "solucionario": "El esquema corporal es la conciencia que tenemos de nuestro cuerpo, la relación entre sus partes y su ubicación en el espacio. La dificultad de Julia para identificar \"derecha\" e \"izquierda\" cuando está en una posición invertida indica una debilidad en su esquema corporal. No es un problema de imagen corporal (percepción subjetiva o estética) ni de actitud corporal (postura habitual).",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "En la actividad descrita, además del equilibrio, ¿cuál de las siguientes capacidades interviene principalmente en la ejecución de la vertical invertida?",
+          "opciones": [
+            "Flexibilidad.",
+            "Resistencia.",
+            "Fuerza."
+          ],
+          "respuesta": "Fuerza.",
+          "respuestaCorta": "Para sostener el peso del propio cuerpo en la posición de vertical invertida se requiere principalmente la capacidad de fuerza, especialmente en brazos, hombros y tronco.",
+          "solucionario": "La vertical invertida es un ejercicio de autocarga que demanda una considerable fuerza en el tren superior (brazos, hombros, espalda) y en la zona media (abdominales y lumbares) para poder levantar el cuerpo y mantener la posición estable contra la gravedad. Si bien se necesita algo de flexibilidad y resistencia, la fuerza es la capacidad física predominante.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Para mantener la posición de vertical invertida, ¿qué tipo de contracción muscular se requiere realizar?",
+          "opciones": [
+            "Excéntrica.",
+            "Isométrica.",
+            "Concéntrica."
+          ],
+          "respuesta": "Isométrica.",
+          "respuestaCorta": "Se requiere una contracción isométrica, donde los músculos generan tensión para mantener una posición fija sin que haya un cambio en su longitud.",
+          "solucionario": "La contracción isométrica ('iso' igual, 'métrica' medida) ocurre cuando un músculo se tensa pero no hay movimiento ni acortamiento o alargamiento del mismo. Esto es exactamente lo que sucede al 'mantener' una posición estática como la vertical invertida. Las contracciones concéntricas acortan el músculo (al levantar el cuerpo) y las excéntricas lo alargan bajo tensión (al bajar controladamente).",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p20",
+      "contexto": "Los estudiantes realizan las siguientes actividades propuestas por la docente:\n• Lanzan al aire una bolsa plástica intentando que se abra como un paracaídas y la atrapan con las manos antes de que la bolsa caiga en el piso.\n• Lanzan pelotas de papel intentando derribar una torre de botellas de plástico ubicada a tres metros de distancia.\n• Lanzan pequeñas pelotas de papel y un compañero debe atraparlas en el aire con una caja de zapatos.\n• Sentados, recogen pequeñas pelotas de papel sueltas en el piso y las colocan dentro de una botella utilizando solo los dedos de los pies.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué tipo de capacidades motrices están desarrollando principalmente los estudiantes en estas actividades?",
+          "opciones": [
+            "Socio-motrices.",
+            "Físico-motrices.",
+            "Perceptivo-motrices."
+          ],
+          "respuesta": "Perceptivo-motrices.",
+          "respuestaCorta": "Las actividades implican procesar información sensorial (visual, táctil) para ejecutar un movimiento preciso, lo cual define a las capacidades perceptivo-motrices.",
+          "solucionario": "Las capacidades perceptivo-motrices son aquellas que dependen del sistema nervioso central para coordinar la información de los sentidos con el movimiento. Actividades como lanzar a un objetivo, atrapar un objeto en el aire y manipular objetos pequeños con los pies requieren una ajustada coordinación entre la percepción (ver el objeto, sentirlo) y la acción motriz, lo cual las clasifica como perceptivo-motrices.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Cuál de las actividades propuestas por la docente desarrolla la coordinación motora fina?",
+          "opciones": [
+            "Lanzar pelotas de papel intentando derribar una torre de botellas de plástico ubicada a tres metros de distancia.",
+            "Lanzar al aire una bolsa plástica intentando que se abra como un paracaídas y atraparla antes de que la bolsa caiga en el piso.",
+            "Recoger pequeñas pelotas de papel sueltas en el piso y colocarlas dentro de una botella utilizando solo los dedos de los pies."
+          ],
+          "respuesta": "Recoger pequeñas pelotas de papel sueltas en el piso y colocarlas dentro de una botella utilizando solo los dedos de los pies.",
+          "respuestaCorta": "La coordinación motora fina implica el control de músculos pequeños, como los de los dedos de los pies, para realizar movimientos precisos y delicados.",
+          "solucionario": "La coordinación motora fina se caracteriza por el uso de pequeños grupos musculares para realizar tareas de alta precisión. La acción de recoger objetos pequeños con los dedos de los pies y meterlos en una botella es el ejemplo más claro de esto. Las otras dos actividades (lanzar y atrapar con las manos) involucran la coordinación motora gruesa, que utiliza grupos musculares más grandes.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Cuando los estudiantes lanzan pelotas de papel intentando derribar una torre de botellas de plástico, ¿cuál de las siguientes capacidades están desarrollando principalmente?",
+          "opciones": [
+            "Coordinación visomotora.",
+            "Orientación espacial.",
+            "Dominancia lateral."
+          ],
+          "respuesta": "Coordinación visomotora.",
+          "respuestaCorta": "Esta actividad requiere coordinar la información visual (la ubicación del objetivo) con la acción motriz de la mano y el brazo, lo que se conoce como coordinación visomotora.",
+          "solucionario": "La coordinación visomotora (u óculo-manual) es la capacidad de sincronizar la percepción visual con un movimiento manual preciso. Lanzar un objeto a un blanco específico es el ejercicio por excelencia para desarrollar esta capacidad, ya que el cerebro debe calcular la trayectoria, fuerza y momento del lanzamiento basándose en lo que ven los ojos.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p23",
+      "contexto": "En una sesión de aprendizaje orientada a promover el desarrollo de la coordinación, el docente entrega a cada estudiante un estilete con cinta y les propone ejecutar las siguientes acciones:\n• Realizar movimientos circulares consecutivos, de manera que la cinta tome la forma de una espiral de círculos pequeños.\n• Realizar movimientos ondulantes, de manera que la cinta tome la forma de grandes montañas.\n• Realizar movimientos con un brazo extendido, hacia adelante y arriba, y hacia atrás y abajo, de manera que la cinta suba y baje al lado del cuerpo, dibujando semicírculos.\nDurante las acciones, el docente guía a los estudiantes para que descubran por sí mismos la forma más adecuada de mover sus manos, sus brazos y todo su cuerpo para lograr que la cinta forme las figuras solicitadas.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿En cuál de las acciones realizadas los estudiantes están desarrollando su coordinación motora fina?",
+          "opciones": [
+            "Al realizar movimientos ondulantes para que la cinta tome la forma de grandes montañas.",
+            "Al realizar movimientos con el brazo extendido hacia adelante y arriba, y hacia atrás y abajo dibujando semicírculos.",
+            "Al realizar movimientos circulares consecutivos para que la cinta tome la forma de una espiral de círculos pequeños."
+          ],
+          "respuesta": "Al realizar movimientos circulares consecutivos para que la cinta tome la forma de una espiral de círculos pequeños.",
+          "respuestaCorta": "Hacer círculos pequeños y consecutivos con la cinta requiere un control preciso de los músculos de la muñeca y los dedos, característico de la motricidad fina.",
+          "solucionario": "La coordinación motora fina implica el control preciso de movimientos que involucran pequeños grupos musculares, especialmente de la mano y la muñeca. La creación de espirales de círculos pequeños con una cinta exige una mayor precisión y un control más delicado que los movimientos amplios del brazo para crear \"grandes montañas\" o semicírculos, que corresponden más a la motricidad gruesa.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Cuando los estudiantes realizan diversos movimientos con sus brazos y manos para lograr que la cinta forme las figuras propuestas por el docente, ¿qué tipo de ajuste están realizando principalmente?",
+          "opciones": [
+            "Espacial.",
+            "Corporal.",
+            "Temporal."
+          ],
+          "respuesta": "Corporal.",
+          "respuestaCorta": "Los estudiantes están realizando principalmente un ajuste corporal, adaptando y regulando la postura y los movimientos de su propio cuerpo para lograr el efecto deseado en la cinta.",
+          "solucionario": "El ajuste corporal se refiere a la capacidad de modificar y adaptar la posición y los movimientos del cuerpo para responder a un objetivo motriz. En esta actividad, los estudiantes deben ajustar constantemente sus manos, brazos y todo su cuerpo para manipular la cinta correctamente. Aunque hay componentes espaciales y temporales, el foco principal está en la regulación del propio cuerpo.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+ 
+    {
+      "idGrupo": "asc_secundaria_2021_p25",
+      "contexto": "En una sesión de aprendizaje orientada a promover el desarrollo de la coordinación, el docente entrega a cada estudiante un estilete con cinta y les propone ejecutar las siguientes acciones:\n• Realizar movimientos circulares consecutivos, de manera que la cinta tome la forma de una espiral de círculos pequeños.\n• Realizar movimientos ondulantes, de manera que la cinta tome la forma de grandes montañas.\n• Realizar movimientos con un brazo extendido, hacia adelante y arriba, y hacia atrás y abajo, de manera que la cinta suba y baje al lado del cuerpo, dibujando semicírculos.\nDurante las acciones, el docente guía a los estudiantes para que descubran por sí mismos la forma más adecuada de mover sus manos, sus brazos y todo su cuerpo para lograr que la cinta forme las figuras solicitadas.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué capacidad del CNEB están desarrollando principalmente los estudiantes durante la actividad?",
+          "opciones": [
+            "Comprende su cuerpo.",
+            "Se expresa corporalmente.",
+            "Crea y aplica estrategias y tácticas de juego."
+          ],
+          "respuesta": "Se expresa corporalmente.",
+          "respuestaCorta": "La actividad se centra en el uso del movimiento y un implemento (cinta) para crear formas y figuras, lo que constituye un acto de expresión corporal.",
+          "solucionario": "La capacidad \"Se expresa corporalmente\" del CNEB implica utilizar el lenguaje corporal para comunicar ideas, emociones y sentimientos, así como para crear y representar. Al manipular la cinta para dibujar figuras en el aire, los estudiantes están utilizando su motricidad de una manera creativa y estética, lo cual es la esencia de esta capacidad.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p26",
+      "contexto": "Como parte de una unidad didáctica en la que los estudiantes se iniciarán en diversas pruebas atléticas, el docente desarrolla una sesión orientada al aprendizaje de la técnica del lanzamiento utilizando pelotas de sóftbol.\nDespués del calentamiento, el docente propone a los estudiantes realizar lanzamientos, pero, antes, los reúne y les muestra la técnica: cómo deben pararse, cómo sostener la pelota, cómo moverse y, finalmente, cómo proyectar la pelota para que logre recorrer la mayor distancia posible. Luego, solicita a los estudiantes dispersarse en el campo y realizar lanzamientos teniendo en cuenta la técnica mostrada. Durante el desarrollo de la práctica, el docente camina entre los estudiantes, los observa y les da indicaciones; por ejemplo, \"¡Debes estirar más el brazo!\", \"¡Toma la pelota de la forma que mostré!\", \"¡Balancea un poco tu cuerpo para seguir el movimiento!\", \"Vamos, vamos, sigan lanzando\", etc.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes métodos de enseñanza está aplicando el docente?",
+          "opciones": [
+            "Mando directo modificado.",
+            "Descubrimiento guiado.",
+            "Microenseñanza."
+          ],
+          "respuesta": "Mando directo modificado.",
+          "respuestaCorta": "El docente utiliza un mando directo modificado al mostrar un modelo técnico y dar instrucciones específicas, pero permitiendo la práctica individual con retroalimentación.",
+          "solucionario": "El método de mando directo se caracteriza porque el docente toma todas las decisiones: qué hacer, cómo hacerlo y cuándo. En este caso, el docente \"muestra la técnica\" y da indicaciones correctivas (\"¡Debes estirar más el brazo!\"). Se considera \"modificado\" porque, a diferencia del mando directo estricto, hay un mayor énfasis en la retroalimentación individual durante la práctica. No es descubrimiento guiado, ya que no se les pide a los estudiantes que encuentren la solución por sí mismos.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Qué tipo de habilidades motrices están implicadas principalmente en el lanzamiento?",
+          "opciones": [
+            "Locomotoras.",
+            "Manipulativas.",
+            "No locomotoras."
+          ],
+          "respuesta": "Manipulativas.",
+          "respuestaCorta": "El lanzamiento es una habilidad manipulativa, ya que implica la acción de propulsar un objeto con la mano y el brazo.",
+          "solucionario": "Las habilidades motrices se clasifican en tres grandes grupos. Las locomotoras implican desplazamiento (correr, saltar). Las no locomotoras son movimientos en el sitio (girar, balancearse). Las manipulativas implican el manejo de objetos (lanzar, recibir, golpear). El lanzamiento de una pelota encaja perfectamente en esta última categoría.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Cuál de las siguientes capacidades motrices está implicada principalmente en el lanzamiento?",
+          "opciones": [
+            "Independización segmentaria.",
+            "Coordinación visomotora.",
+            "Estructuración espacial."
+          ],
+          "respuesta": "Independización segmentaria.",
+          "respuestaCorta": "El lanzamiento requiere independización segmentaria para coordinar el movimiento de diferentes partes del cuerpo (piernas, tronco, brazo) en una secuencia fluida.",
+          "solucionario": "La independización segmentaria es la capacidad de mover diferentes segmentos del cuerpo de forma independiente pero coordinada para lograr un movimiento complejo y eficiente. En el lanzamiento, el movimiento no es solo del brazo, sino una cadena cinética que involucra piernas, cadera, tronco y finalmente el brazo y la mano. Esta coordinación secuencial es clave para un lanzamiento potente y preciso.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Qué tipo de fuerza se requiere aplicar en el lanzamiento?",
+          "opciones": [
+            "Fuerza máxima.",
+            "Fuerza explosiva.",
+            "Fuerza resistencia."
+          ],
+          "respuesta": "Fuerza explosiva.",
+          "respuestaCorta": "El lanzamiento requiere fuerza explosiva, que es la capacidad de generar la máxima fuerza en el menor tiempo posible para proyectar el objeto.",
+          "solucionario": "La fuerza explosiva, también llamada potencia, es la relación entre la fuerza aplicada y el tiempo en que se aplica (Fuerza x Velocidad). Un lanzamiento busca maximizar la velocidad de la pelota, lo cual se logra aplicando una gran cantidad de fuerza en un intervalo de tiempo muy corto. No se trata de fuerza máxima (levantar el mayor peso posible) ni de fuerza resistencia (sostener un esfuerzo por tiempo prolongado).",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Qué tipo de velocidad se requiere aplicar en el lanzamiento?",
+          "opciones": [
+            "Velocidad cíclica.",
+            "Velocidad gestual.",
+            "Velocidad de reacción."
+          ],
+          "respuesta": "Velocidad gestual.",
+          "respuestaCorta": "El lanzamiento implica una velocidad gestual, que es la rapidez con la que se ejecuta un único movimiento o gesto técnico.",
+          "solucionario": "La velocidad gestual o acíclica se refiere a la capacidad de realizar un movimiento aislado en el menor tiempo posible. El acto de lanzar es un gesto único y complejo, a diferencia de la velocidad cíclica, que implica la repetición de un mismo movimiento (como en el pedaleo o la carrera). La velocidad de reacción es el tiempo que se tarda en responder a un estímulo.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p31",
+      "contexto": "La docente propone la siguiente actividad: desde la posición de media sentadilla con los brazos extendidos al frente, los estudiantes deben saltar elevándose del piso y caer nuevamente en la posición de media sentadilla. Los estudiantes realizan la actividad en cuatro series de tres repeticiones, con una pausa de 20 segundos entre cada serie.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes capacidades físicas están desarrollando principalmente los estudiantes con la actividad descrita?",
+          "opciones": [
+            "Fuerza.",
+            "Resistencia.",
+            "Flexibilidad."
+          ],
+          "respuesta": "Fuerza.",
+          "respuestaCorta": "El ejercicio de saltar desde una media sentadilla es un trabajo de fuerza del tren inferior, específicamente de potencia o fuerza explosiva.",
+          "solucionario": "La actividad descrita es un ejercicio pliométrico básico. Consiste en vencer la resistencia del propio peso corporal para elevarse del suelo lo más posible, lo cual es una manifestación de la fuerza explosiva (potencia) de las piernas. Aunque se realizan series, el número bajo de repeticiones y la naturaleza del movimiento centran el trabajo en la fuerza, no en la resistencia cardiovascular o la flexibilidad.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes grupos musculares participa principalmente en la ejecución del salto?",
+          "opciones": [
+            "Gemelos.",
+            "Cuádriceps.",
+            "Isquiotibiales."
+          ],
+          "respuesta": "Cuádriceps.",
+          "respuestaCorta": "El cuádriceps, ubicado en la parte frontal del muslo, es el principal extensor de la rodilla y, por lo tanto, el motor primario en la fase de impulso de un salto vertical.",
+          "solucionario": "Si bien en un salto participan múltiples músculos del tren inferior (glúteos, isquiotibiales, gemelos), el cuádriceps femoral es el principal responsable de la extensión de la articulación de la rodilla, acción que genera la mayor parte de la fuerza para el despegue del suelo.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p33",
+      "contexto": null,
+      "imagen": "img/ascenso/secundaria/2021/edufisica/1.jpg",
+      "preguntas": [
+        {
+          "pregunta": "¿En cuál de los siguientes ejercicios se trabaja la zona lumbar sin riesgo de sufrir lesiones?",
+          "opciones": [
+            "Opción A",
+            "Opción B",
+            "Opción C"
+          ],
+          "respuesta": "Opción A",
+          "respuestaCorta": "La opción A (puente de glúteos) fortalece la zona lumbar y los glúteos manteniendo la columna en una posición neutra y segura.",
+          "solucionario": "La imagen A muestra el ejercicio de \"puente de glúteos\". Este ejercicio es altamente recomendado para fortalecer la cadena posterior (glúteos, isquiotibiales y lumbares) de manera segura, ya que la columna vertebral se mantiene alineada y no sufre compresiones ni hiperextensiones riesgosas. Las imágenes B (elevación de piernas) y C (superman) pueden generar una tensión excesiva o una hiperextensión en la zona lumbar si no se ejecutan con una técnica perfecta, aumentando el riesgo de lesión.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p34",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿En cuál de las siguientes partes del cuerpo humano se ubica una articulación sinovial?",
+          "opciones": [
+            "En el codo.",
+            "En el cráneo.",
+            "En la columna vertebral."
+          ],
+          "respuesta": "En el codo.",
+          "respuestaCorta": "El codo es una articulación sinovial, caracterizada por tener una cavidad articular, cartílago y líquido sinovial que permiten un amplio rango de movimiento.",
+          "solucionario": "Las articulaciones sinoviales (o diartrosis) son las más comunes y móviles del cuerpo. El codo, la rodilla, el hombro y la cadera son ejemplos claros. Las articulaciones del cráneo son suturas fibrosas sin movimiento (sinartrosis), y las de los cuerpos vertebrales son cartilaginosas con movimiento limitado (anfiartrosis).",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p35",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué tipo de articulación interviene en el movimiento de la rodilla?",
+          "opciones": [
+            "Pivote.",
+            "Bisagra.",
+            "Esférica."
+          ],
+          "respuesta": "Bisagra.",
+          "respuestaCorta": "La rodilla es una articulación de tipo bisagra (gínglimo), ya que su movimiento principal se da en un solo plano: flexión y extensión.",
+          "solucionario": "Las articulaciones se clasifican funcionalmente por los movimientos que permiten. La rodilla funciona como una bisagra, permitiendo principalmente doblar (flexión) y estirar (extensión) la pierna. Una articulación en pivote permite rotación (como el cuello), y una esférica permite movimiento en todos los planos (como el hombro).",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p36",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿De qué tipo es la articulación coxofemoral, que une el fémur con el hueso coxal y se ubica en la cadera?",
+          "opciones": [
+            "Pivote.",
+            "Bisagra.",
+            "Esférica."
+          ],
+          "respuesta": "Esférica.",
+          "respuestaCorta": "La articulación de la cadera (coxofemoral) es de tipo esférica (enartrosis), lo que le permite un amplio rango de movimiento en múltiples ejes.",
+          "solucionario": "La articulación coxofemoral está formada por la cabeza del fémur (una esfera) que encaja en la cavidad cotiloidea del hueso coxal. Esta estructura de \"bola y cavidad\" es la definición de una articulación esférica, y es lo que permite movimientos de flexión, extensión, abducción, aducción, rotación y circunducción en la cadera.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+   
+    {
+      "idGrupo": "asc_secundaria_2021_p37",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes características corresponde a la alteración postural denominada \"rodillas varas\"?",
+          "opciones": [
+            "Estando de pie, las rodillas quedan más juntas que los tobillos.",
+            "Estando de pie con los talones juntos, las rodillas están separadas entre sí.",
+            "Estando de pie con las piernas juntas, las rodillas y los tobillos chocan entre sí."
+          ],
+          "respuesta": "Estando de pie con los talones juntos, las rodillas están separadas entre sí.",
+          "respuestaCorta": "Las \"rodillas varas\" o genu varo se caracterizan por una separación anormal de las rodillas cuando los talones están juntos, formando un arco en las piernas.",
+          "solucionario": "El término médico para las \"rodillas varas\" es genu varo. Describe una deformidad en la que las piernas se arquean hacia afuera, lo que provoca que las rodillas se separen significativamente cuando una persona está de pie con los tobillos juntos. La opción A describe la condición opuesta, genu valgo (\"rodillas en X\").",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p38",
+      "contexto": "La docente de Educación Física ha observado que Ana María, una de las estudiantes, tiene mucha fuerza, especialmente en los saltos y lanzamientos, pero, cuando tiene que realizar pruebas de flexibilidad, sus articulaciones son muy rígidas y no consigue tocar la punta de sus pies con las manos. Asimismo, cuando realiza ejercicios de relajación, le cuesta \"soltar\" los músculos, dado que los tiene muy contraídos.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Según lo observado por la docente, ¿qué tipo de condición presenta Ana María?",
+          "opciones": [
+            "Paratonía.",
+            "Hipotonía.",
+            "Hipertonía."
+          ],
+          "respuesta": "Hipertonía.",
+          "respuestaCorta": "Ana María presenta hipertonía, una condición de tono muscular excesivamente alto que causa rigidez y dificultad para la relajación y la flexibilidad.",
+          "solucionario": "La hipertonía se define como un aumento anormal del tono muscular en reposo. Esto se manifiesta como rigidez, músculos que se sienten contraídos y dificultad para el movimiento pasivo y la relajación, tal como se describe en el caso de Ana María. La hipotonía es lo contrario (bajo tono muscular), y la paratonía es la incapacidad de relajar los músculos voluntariamente, pero el término más preciso para la condición general descrita es hipertonía.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p39",
+      "contexto": "Los estudiantes van a realizar ejercicios de acondicionamiento físico dentro del aula utilizando globos.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes actividades ejercita más la zona abdominal?",
+          "opciones": [
+            "Sentados en el piso, con las piernas semiflexionadas y los pies apoyados en el piso, los estudiantes deben mantener un globo en el aire dándole toques consecutivos alternando las manos.",
+            "Sentados en el piso, con las piernas semiflexionadas, y los pies y las manos apoyados en el piso, los estudiantes deben mantener un globo en el aire dándole toques consecutivos con la cabeza.",
+            "Sentados en el piso, con las piernas elevadas y semiflexionadas, y las manos apoyadas en el piso, los estudiantes deben mantener un globo en el aire dándole toques consecutivos alternando los pies."
+          ],
+          "respuesta": "Sentados en el piso, con las piernas elevadas y semiflexionadas, y las manos apoyadas en el piso, los estudiantes deben mantener un globo en el aire dándole toques consecutivos alternando los pies.",
+          "respuestaCorta": "Elevar las piernas del suelo y golpearlas con los pies obliga a una contracción sostenida y activa de los músculos abdominales para mantener la posición.",
+          "solucionario": "La opción C es la que genera mayor activación abdominal. Al tener las piernas elevadas (\"en V\"), los músculos abdominales deben trabajar isométricamente para mantener la postura. Además, el movimiento alterno de los pies para golpear el globo requiere una contracción y relajación dinámica de la zona abdominal. Las otras opciones generan una activación abdominal mucho menor al tener los pies apoyados.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p40",
+      "contexto": "Luego de realizar el calentamiento, la docente les toma a los estudiantes el siguiente test: La prueba se aplica en una superficie llana de 20 metros, utilizando una grabación de fondo en la que se escucha una señal sonora. Los estudiantes deben recorrer los 20 metros y llegar antes de que la señal suene; luego, deben girar sobre sí mismos y emprender el camino de vuelta hasta el punto de inicio antes de que la señal vuelva a sonar. En la grabación, la señal se va acelerando, y la velocidad necesaria para completar el recorrido, que comienza en 8 km/h, va aumentando progresivamente 0,5 km/h cada minuto. Se repite el ciclo constantemente hasta que cada estudiante no pueda llegar a pisar la línea antes de que suene la señal, momento en que debe retirarse. El momento en que cada estudiante interrumpe la prueba es el resultado de la medición del test.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Tomando en cuenta las características de la prueba descrita, ¿cuál de los siguientes test están desarrollando los estudiantes?",
+          "opciones": [
+            "Ruffier Dickson.",
+            "Course-Navette.",
+            "Kenneth Cooper."
+          ],
+          "respuesta": "Course-Navette.",
+          "respuestaCorta": "La descripción corresponde exactamente al test de Course-Navette (o Beep Test), una prueba de carreras de ida y vuelta sobre 20 metros con velocidad progresiva.",
+          "solucionario": "El test de Course-Navette, también conocido como Test de Léger o Beep Test, es una prueba de campo que consiste en correr repetidamente una distancia de 20 metros a una velocidad que aumenta progresivamente, marcada por señales sonoras. El test de Cooper consiste en correr la máxima distancia posible en 12 minutos, y el test de Ruffier Dickson mide la adaptación del corazón al esfuerzo a través de las pulsaciones.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Qué mide el test descrito en la situación?",
+          "opciones": [
+            "La potencia aeróbica máxima.",
+            "La resistencia anaeróbica láctica.",
+            "El metabolismo anaeróbico aláctico."
+          ],
+          "respuesta": "La potencia aeróbica máxima.",
+          "respuestaCorta": "El test de Course-Navette es una prueba indirecta para estimar la potencia aeróbica máxima, es decir, el consumo máximo de oxígeno (VO2 máx.).",
+          "solucionario": "Esta prueba evalúa la capacidad del sistema cardiovascular y respiratorio para transportar oxígeno a los músculos durante un esfuerzo progresivo y máximo. El resultado final del test (el último palier completado) se utiliza para estimar el consumo máximo de oxígeno (VO2 máx.), que es el indicador por excelencia de la potencia aeróbica máxima o resistencia cardiorrespiratoria.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Qué tipo de capacidades están desarrollando principalmente los estudiantes en la actividad descrita?",
+          "opciones": [
+            "Coordinativas.",
+            "Físico-condicionales.",
+            "Perceptivo-motrices."
+          ],
+          "respuesta": "Físico-condicionales.",
+          "respuestaCorta": "El test evalúa principalmente las capacidades físico-condicionales, enfocándose de manera específica en la resistencia cardiorrespiratoria.",
+          "solucionario": "Las capacidades físico-condicionales son aquellas que dependen de los procesos energéticos del organismo: fuerza, velocidad, resistencia y flexibilidad. El test de Course-Navette está diseñado para llevar al límite la capacidad de resistencia aeróbica, que es una capacidad condicional fundamental.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p43",
+      "contexto": "La docente tiene como propósito que los estudiantes aprendan a medir su frecuencia cardíaca para que puedan programar y monitorear su actividad física con autonomía.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Al inicio de las actividades, la docente les pide a los estudiantes medir su pulso radial. ¿En qué parte del cuerpo deben medir su pulso los estudiantes?",
+          "opciones": [
+            "En la cara anterior del codo.",
+            "En la cara anterior y lateral de la muñeca.",
+            "En el cuello, debajo del ángulo del maxilar."
+          ],
+          "respuesta": "En la cara anterior y lateral de la muñeca.",
+          "respuestaCorta": "El pulso radial se localiza en la muñeca, en el lado del pulgar, donde la arteria radial pasa cerca de la superficie de la piel.",
+          "solucionario": "La toma del pulso radial es una de las más comunes y seguras. Se realiza colocando los dedos índice y medio en la cara anterior de la muñeca, en la base del dedo pulgar, para sentir las pulsaciones de la arteria radial. La opción C describe la toma del pulso carotídeo.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "En un adolescente de doce años, ¿cuál de los siguientes valores de frecuencia cardíaca representa un signo de alarma?",
+          "opciones": [
+            "90 pulsaciones por minuto en descanso.",
+            "50 pulsaciones por minuto durante el sueño.",
+            "240 pulsaciones por minuto durante ejercicio intenso."
+          ],
+          "respuesta": "240 pulsaciones por minuto durante ejercicio intenso.",
+          "respuestaCorta": "Una frecuencia cardíaca de 240 ppm durante el ejercicio excede con creces la frecuencia cardíaca máxima teórica para un adolescente, indicando un riesgo cardiovascular.",
+          "solucionario": "La frecuencia cardíaca máxima (FCmáx) se estima comúnmente con la fórmula 220 - edad. Para un adolescente de 12 años, la FCmáx aproximada sería 208 ppm. Un valor de 240 ppm está muy por encima de este límite seguro y podría ser un signo de una arritmia u otro problema cardíaco (taquicardia supraventricular), por lo que se considera un signo de alarma. Las opciones A y B están dentro de los rangos normales de reposo y sueño para esa edad.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p45",
+      "contexto": "El docente reúne a los estudiantes y les propone realizar la siguiente actividad en parejas: Uno de los estudiantes debe lanzar pequeñas pelotas de papel y el compañero debe golpearlas en el aire con una raqueta que ambos han diseñado previamente con materiales reciclados. El objetivo es lograr que la pelota de papel alcance la mayor distancia posible. Para esto, pueden ensayar distintas formas de lanzar y golpear las pelotas para alcanzar su objetivo. El docente pide a los estudiantes realizar la tarea por turnos, tomando acuerdos, observando y evaluando el desempeño del compañero para lograr el objetivo como equipo.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué competencia del CNEB están desarrollando principalmente los estudiantes en la actividad descrita?",
+          "opciones": [
+            "Asume una vida saludable.",
+            "Interactúa a través de sus habilidades sociomotrices.",
+            "Se desenvuelve de manera autónoma a través de su motricidad."
+          ],
+          "respuesta": "Interactúa a través de sus habilidades sociomotrices.",
+          "respuestaCorta": "La actividad se centra en la cooperación, la toma de acuerdos y la evaluación mutua para lograr un objetivo común, lo cual desarrolla la competencia de interacción sociomotriz.",
+          "solucionario": "La competencia \"Interactúa a través de sus habilidades sociomotrices\" se pone de manifiesto cuando los estudiantes participan en actividades físicas colaborativas. En este caso, el trabajo en parejas, la necesidad de tomar acuerdos, y la coevaluación para lograr un objetivo como equipo son el núcleo de la actividad, desarrollando plenamente esta competencia.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Qué método de enseñanza aplica el docente en el desarrollo de la actividad?",
+          "opciones": [
+            "Enseñanza recíproca.",
+            "Grupos reducidos.",
+            "Microenseñanza."
+          ],
+          "respuesta": "Enseñanza recíproca.",
+          "respuestaCorta": "El método es la enseñanza recíproca, ya que los estudiantes trabajan en parejas asumiendo los roles de ejecutante y observador/evaluador.",
+          "solucionario": "La enseñanza recíproca es un estilo de enseñanza que promueve la interacción social. Se organiza a la clase en parejas, donde un estudiante (ejecutante) realiza la tarea mientras el otro (observador) proporciona retroalimentación. La descripción de la actividad (\"observando y evaluando el desempeño del compañero\") encaja perfectamente con este método.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Qué tipo de coordinación desarrollan principalmente los estudiantes al golpear en el aire las pelotas de papel?",
+          "opciones": [
+            "General.",
+            "Espacial.",
+            "Específica."
+          ],
+          "respuesta": "Específica.",
+          "respuestaCorta": "Golpear un objeto en movimiento con una raqueta requiere una coordinación específica de tipo óculo-manual, que es un ajuste preciso entre la visión y el movimiento del brazo.",
+          "solucionario": "La coordinación específica, o segmentaria, involucra la relación entre diferentes segmentos corporales, o entre el cuerpo y objetos externos. La coordinación óculo-manual (visión-mano) es un tipo de coordinación específica fundamental en esta tarea, ya que el estudiante debe calcular la trayectoria de la pelota y sincronizar el movimiento de la raqueta para interceptarla en el punto exacto.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p48",
+      "contexto": "El docente solicita a los estudiantes que se saquen los zapatos y les propone realizar las siguientes acciones con un balón, apoyándose todo el tiempo en un solo pie:\n• Mover el balón alrededor de la cabeza, de la cintura, de la cadera, y de la pierna que no está apoyada.\n• Inclinando el tronco hacia el frente, extender los brazos hacia adelante mientras sostienen el balón con ambas manos y extienden la pierna hacia atrás en línea con los brazos.\n• Llevar el tronco hacia adelante hasta tocar el piso con el balón, y luego incorporarse y elevar el balón con ambas manos por encima de la cabeza.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Además del equilibrio, ¿cuál de los siguientes aspectos se trabaja principalmente al realizar las acciones propuestas por el docente?",
+          "opciones": [
+            "Potencia muscular.",
+            "Movilidad articular.",
+            "Compensación muscular."
+          ],
+          "respuesta": "Compensación muscular.",
+          "respuestaCorta": "Las acciones requieren una constante compensación muscular, donde los músculos estabilizadores se activan para mantener el centro de gravedad y evitar la pérdida de equilibrio.",
+          "solucionario": "Al realizar movimientos controlados mientras se mantiene el equilibrio sobre un solo pie, el cuerpo debe hacer ajustes posturales constantes. Esto implica la activación de la musculatura profunda y estabilizadora (core, tobillo, cadera) para compensar los desequilibrios generados por el movimiento del balón y el tronco. Por tanto, se trabaja intensamente la compensación y estabilización muscular.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+  
+    {
+      "idGrupo": "asc_secundaria_2021_p49",
+      "contexto": "El docente solicita a los estudiantes que se saquen los zapatos y les propone realizar las siguientes acciones con un balón, apoyándose todo el tiempo en un solo pie:\n• Mover el balón alrededor de la cabeza, de la cintura, de la cadera, y de la pierna que no está apoyada.\n• Inclinando el tronco hacia el frente, extender los brazos hacia adelante mientras sostienen el balón con ambas manos y extienden la pierna hacia atrás en línea con los brazos.\n• Llevar el tronco hacia adelante hasta tocar el piso con el balón, y luego incorporarse y elevar el balón con ambas manos por encima de la cabeza.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Cuando los estudiantes intentan mantener el equilibrio durante la ejecución de las acciones propuestas, ¿qué tipo de sensaciones están experimentando principalmente?",
+          "opciones": [
+            "Propioceptivas.",
+            "Exteroceptivas.",
+            "Interoceptivas."
+          ],
+          "respuesta": "Propioceptivas.",
+          "respuestaCorta": "Las sensaciones son principalmente propioceptivas, ya que el cuerpo utiliza la información de músculos y articulaciones para conocer su posición en el espacio y mantener el equilibrio.",
+          "solucionario": "La propiocepción es el sentido que informa al organismo sobre la posición de los músculos y la posición relativa de las partes corporales. Es fundamental para el control del equilibrio y la coordinación. Las sensaciones exteroceptivas provienen del exterior (vista, oído) y las interoceptivas del interior de los órganos (hambre, sed). Aunque la vista ayuda, la sensación interna de ajuste postural es propioceptiva.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p50",
+      "contexto": "Dado que los estudiantes están creando una coreografía de hip hop como parte de un proyecto artístico, el docente de Educación Física planifica una sesión en la que explorarán diversas formas de realizar giros corporales, lo que les permitirá ampliar sus posibilidades de movimiento y conocer los ejes corporales implicados en los giros. Luego del calentamiento, el docente indica a los estudiantes danzar libremente alrededor de todo el espacio improvisando movimientos con una música de fondo. Luego, les va proponiendo consignas para que exploren diversos giros corporales y acrobacias para luego integrarlas en su coreografía.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Cuando los estudiantes danzan libremente alrededor de todo el espacio improvisando movimientos con una música de fondo, ¿qué capacidad del CNEB están desarrollando principalmente?",
+          "opciones": [
+            "Comprende su cuerpo.",
+            "Se expresa corporalmente.",
+            "Se relaciona utilizando sus habilidades sociomotrices."
+          ],
+          "respuesta": "Se expresa corporalmente.",
+          "respuestaCorta": "La danza libre e improvisada con música es una manifestación directa de la capacidad de expresarse corporalmente, utilizando el movimiento de forma creativa y comunicativa.",
+          "solucionario": "La capacidad \"Se expresa corporalmente\" se refiere al uso intencional del movimiento para manifestar emociones, ideas y sentimientos. La danza improvisada es una de las formas más puras de esta expresión, donde el cuerpo se convierte en un instrumento de comunicación y creación artística.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Luego de que los estudiantes han explorado diversos movimientos con la música, el docente comienza a guiar a los estudiantes, proponiéndoles diversos tipos de giro. El docente les indica: \"Giren como una bailarina de ballet o como un patinador sobre hielo, de pie, dando vueltas\" y los estudiantes comienzan a girar sobre su sitio, subiendo los brazos. ¿Sobre qué eje corporal están girando los estudiantes al realizar esta acción?",
+          "opciones": [
+            "Sobre su eje sagital.",
+            "Sobre su eje transversal.",
+            "Sobre su eje longitudinal."
+          ],
+          "respuesta": "Sobre su eje longitudinal.",
+          "respuestaCorta": "Al girar como un patinador o bailarina (pirueta), el cuerpo rota sobre su eje longitudinal, que es la línea vertical que lo atraviesa de la cabeza a los pies.",
+          "solucionario": "El eje longitudinal es el eje vertical que recorre el cuerpo de arriba hacia abajo. Los movimientos de rotación sobre este eje son los giros o piruetas. El eje transversal (de lado a lado) permite movimientos de flexión y extensión (como una voltereta hacia adelante). El eje sagital (de adelante hacia atrás) permite movimientos de inclinación lateral (como una rueda de carro).",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Luego, los estudiantes realizan diversos giros y acrobacias según sus posibilidades y con ayuda del docente. ¿En cuál de las siguientes acciones los estudiantes están girando sobre su eje transversal?",
+          "opciones": [
+            "Al hacer un aspa de molino.",
+            "Al realizar un medio mortal.",
+            "Al girar 360 grados apoyados en un solo pie."
+          ],
+          "respuesta": "Al realizar un medio mortal.",
+          "respuestaCorta": "Un medio mortal (o una voltereta hacia adelante/atrás) es un giro donde el cuerpo rota alrededor de su eje transversal, que pasa de cadera a cadera.",
+          "solucionario": "El eje transversal es un eje horizontal que atraviesa el cuerpo de lado a lado. Los giros sobre este eje son las volteretas o mortales. El giro de 360 grados sobre un pie (C) es sobre el eje longitudinal. El aspa de molino o rueda lateral (A) es un giro sobre el eje sagital o anteroposterior.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Luego, el docente propone a los estudiantes incorporar algunos de los giros en la coreografía de hip hop que están creando. Los estudiantes se organizan en grupos, comparten los movimientos que les gustaría incluir, valoran sus propias destrezas y luego toman decisiones sobre la coreografía, acordando los giros y acrobacias que van a incluir, sus posiciones, los desplazamientos y los roles de cada uno en la ejecución de las acrobacias. ¿Qué capacidades están desarrollando principalmente los estudiantes durante estas acciones?",
+          "opciones": [
+            "Expresivo-motrices.",
+            "Físico-motrices.",
+            "Socio-motrices."
+          ],
+          "respuesta": "Socio-motrices.",
+          "respuestaCorta": "Al organizarse en grupos, tomar acuerdos y distribuir roles, los estudiantes están desarrollando principalmente sus capacidades socio-motrices, que se refieren a la interacción con otros.",
+          "solucionario": "Las capacidades socio-motrices son aquellas que permiten interactuar y relacionarse con los demás a través del movimiento. La descripción se centra en la colaboración y la comunicación dentro del grupo para lograr un objetivo motriz común (la coreografía). Aunque también hay componentes expresivos y físicos, el énfasis de la pregunta está en el proceso de interacción social.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p54",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Según el enfoque del CNEB, para la iniciación deportiva, ¿cuál de las siguientes acciones metodológicas debe tomarse en cuenta principalmente en la enseñanza-aprendizaje del vóleibol con los estudiantes?",
+          "opciones": [
+            "Proponer situaciones motrices individuales que permitan a cada estudiante desarrollar la técnica básica antes de realizar juegos de oposición.",
+            "Centrarse en la comprensión de la lógica del juego en situaciones lúdicas de colaboración y oposición, e ir agregando acciones técnicas y tácticas progresivamente.",
+            "Centrarse en el acondicionamiento físico de los estudiantes por medio de ejercicios de fortalecimiento corporal y actividades para desarrollar velocidad y agilidad."
+          ],
+          "respuesta": "Centrarse en la comprensión de la lógica del juego en situaciones lúdicas de colaboración y oposición, e ir agregando acciones técnicas y tácticas progresivamente.",
+          "respuestaCorta": "El enfoque actual prioriza la comprensión táctica y la lógica del juego a través de situaciones lúdicas, integrando la técnica de forma progresiva y contextualizada.",
+          "solucionario": "El modelo comprensivo de iniciación deportiva, alineado con el CNEB, aboga por enseñar el \"porqué\" (la táctica) antes que el \"cómo\" (la técnica aislada). Se utilizan juegos modificados para que los estudiantes entiendan el objetivo del juego, y a partir de esa comprensión, se introducen y perfeccionan los gestos técnicos necesarios.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p55",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes variantes del vóleibol se juega en una cancha más corta, con una red más baja y los equipos están conformados solo por cuatro jugadores durante el juego?",
+          "opciones": [
+            "Vóley playa.",
+            "Minivóleibol.",
+            "Vóleibol sentado."
+          ],
+          "respuesta": "Minivóleibol.",
+          "respuestaCorta": "El minivóleibol es la adaptación pedagógica del vóleibol para niños, utilizando una cancha y red más pequeñas y menos jugadores.",
+          "solucionario": "El minivóleibol es una metodología para la enseñanza del vóleibol en edades tempranas. Adapta las reglas y el material (cancha más pequeña, red más baja, balón más ligero, menos jugadores) para facilitar el aprendizaje y adecuar el juego a las capacidades de los niños.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p56",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes situaciones es una actividad de familiarización con el balón en vóleibol?",
+          "opciones": [
+            "Los estudiantes, organizados en grupos, deben mantener el balón en el aire evitando que caiga al piso; para ello, deben dar toques individuales de balón con sus manos, antebrazos, cabeza, pies y hombros, según sus posibilidades.",
+            "Los estudiantes se organizan en parejas, cada uno en un lado del campo, frente a frente y separados por la red; cada estudiante debe intentar que el balón caiga en el suelo del campo contrario dando toques de dedos y de antebrazos.",
+            "Los estudiantes se organizan en dos grupos, cada uno en un lado del campo; en formación de rombo, deben lanzar el balón al campo contrario dando toques de dedos y antebrazos, anticipando los movimientos del equipo contrario."
+          ],
+          "respuesta": "Los estudiantes, organizados en grupos, deben mantener el balón en el aire evitando que caiga al piso; para ello, deben dar toques individuales de balón con sus manos, antebrazos, cabeza, pies y hombros, según sus posibilidades.",
+          "respuestaCorta": "La familiarización implica explorar libremente el objeto, en este caso, tocar el balón con diferentes partes del cuerpo sin las restricciones técnicas o tácticas del juego real.",
+          "solucionario": "Una actividad de familiarización busca que el estudiante explore el implemento (el balón) y sus propias posibilidades de movimiento. La opción A permite esta exploración libre y multisensorial. Las opciones B y C ya introducen elementos técnicos específicos (toque de dedos, antebrazos) y tácticos (oposición), por lo que son etapas posteriores a la familiarización.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p57",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes actividades requiere velocidad acíclica?",
+          "opciones": [
+            "Nadar 50 metros estilo espalda.",
+            "Ejecutar un mate en vóleibol.",
+            "Realizar zancadas laterales."
+          ],
+          "respuesta": "Ejecutar un mate en vóleibol.",
+          "respuestaCorta": "La velocidad acíclica o gestual se refiere a la rapidez en un único movimiento, como el gesto completo de un mate en vóleibol.",
+          "solucionario": "La velocidad acíclica (o gestual) se manifiesta en movimientos que tienen un principio y un fin claros y no se repiten de forma continuada. Un mate en vóleibol es un ejemplo perfecto. Nadar o realizar zancadas son movimientos cíclicos, ya que implican la repetición continua de un mismo patrón de movimiento.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p58",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes acciones implica la capacidad fuerza-velocidad?",
+          "opciones": [
+            "Patear un balón de fútbol a un arco ubicado a 15 metros de distancia.",
+            "Conducir un balón de fútbol 40 metros en dirección al arco a la mayor velocidad posible.",
+            "Realizar aceleraciones continuas en una carrera sin recuperarse antes de volver a acelerar."
+          ],
+          "respuesta": "Patear un balón de fútbol a un arco ubicado a 15 metros de distancia.",
+          "respuestaCorta": "Patear un balón con fuerza a un arco es un ejemplo de fuerza-velocidad (potencia), ya que busca aplicar la máxima fuerza en el menor tiempo para imprimir velocidad al balón.",
+          "solucionario": "La capacidad de fuerza-velocidad, también conocida como potencia o fuerza explosiva, es la habilidad de superar una resistencia con alta velocidad de contracción. Patear un balón es el ejemplo clásico: se aplica una gran fuerza en un instante para que el balón salga a gran velocidad. Las otras opciones se relacionan más con la velocidad y la resistencia a la velocidad.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p59",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes alternativas presenta una actividad vestibular?",
+          "opciones": [
+            "Pasar por debajo de una banca gateando.",
+            "Realizar volteretas sobre una colchoneta.",
+            "Lanzar pelotas de papel en un cesto."
+          ],
+          "respuesta": "Realizar volteretas sobre una colchoneta.",
+          "respuestaCorta": "Realizar volteretas estimula intensamente el sistema vestibular, que se encuentra en el oído interno y es responsable del equilibrio y la orientación espacial.",
+          "solucionario": "El sistema vestibular detecta los movimientos de la cabeza, la aceleración y la gravedad. Actividades que implican giros, balanceos y cambios de posición de la cabeza, como las volteretas, son las que más estimulan este sistema. Gatear y lanzar son actividades motrices que no desafían el sistema vestibular de la misma manera.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2021_p60",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes alternativas presenta una actividad de braquiación?",
+          "opciones": [
+            "Balancearse sobre un balón.",
+            "Rodar lateralmente por el piso.",
+            "Colgarse por una cuerda con nudos."
+          ],
+          "respuesta": "Colgarse por una cuerda con nudos.",
+          "respuestaCorta": "La braquiación es el desplazamiento mediante el balanceo y suspensión de los brazos, como colgarse y avanzar por una cuerda o pasamanos.",
+          "solucionario": "El término braquiación describe la forma de locomoción en la que un individuo se desplaza suspendido de sus miembros superiores. Colgarse de una cuerda, un pasamanos o las ramas de un árbol son ejemplos directos de actividades de braquiación, que desarrollan la fuerza del tren superior y la coordinación.",
+          "seccion": "Casuística"
+        }
+      ]
+    }
+  ]
+}
+  
