@@ -716,5 +716,31 @@
     "archivos": {
       "especifico": "data/ascenso/secundaria/2022/ascenso_edufisica2022.json"
     }
+  },
+  {
+    "id": 67,
+    "proceso": "Ascenso",
+    "anio": 2022,
+    "nivel": "Secundaria",
+    "especialidad": "Educación para el Trabajo (EPT)",
+    "modalidad": "EBR",
+    "preguntas": 60,
+    "tiempo": 180,
+    "archivos": {
+      "especifico": "data/ascenso/secundaria/2022/ascenso_ept2022.json"
+    }
+  },
+  {
+    "id": 68,
+    "proceso": "Ascenso",
+    "anio": 2022,
+    "nivel": "inicial",
+    "especialidad": "inicial",
+    "modalidad": "EBR",
+    "preguntas": 60,
+    "tiempo": 180,
+    "archivos": {
+      "especifico": "data/ascenso/inicial/2022/ascenso_inicial2022.json"
+    }
   }
 ]
