@@ -781,5 +781,18 @@
     "archivos": {
       "especifico": "data/ascenso/secundaria/2022/ascenso_arte2022.json"
     }
+  },
+  {
+    "id": 72,
+    "proceso": "Ascenso",
+    "anio": 2022,
+    "nivel": "Secundaria",
+    "especialidad": "Ciencia y Tecnología",
+    "modalidad": "EBR",
+    "preguntas": 60,
+    "tiempo": 180,
+    "archivos": {
+      "especifico": "data/ascenso/secundaria/2022/ascenso_cyt2022.json"
+    }
   }
 ]

@@ -1,0 +1,979 @@
+{
+  "completo": [
+    {
+      "idGrupo": "asc_secundaria_2023_p01",
+      "contexto": "Como parte de una sesión de aprendizaje, una docente identificó que varios estudiantes afirmaban lo siguiente:",
+      "imagen": "img/ascenso/secundaria/2022/cyt/1.jpg",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es el propósito principal de la docente al realizar la actividad?",
+          "opciones": [
+            "Activar los saberes previos de los estudiantes.",
+            "Generar el conflicto cognitivo en los estudiantes.",
+            "Promover la formulación de hipótesis en los estudiantes."
+          ],
+          "respuesta": "Generar el conflicto cognitivo en los estudiantes.",
+          "respuestaCorta": "El propósito es generar un conflicto cognitivo al presentar datos que contradicen la idea previa de los estudiantes, obligándolos a cuestionar su concepción inicial.",
+          "solucionario": "La docente presenta una tabla donde animales de menor tamaño como el conejo (44) tienen casi la misma cantidad de cromosomas que un humano (46) y muchos más que un canguro (16). Esta información choca directamente con la idea de los estudiantes de que a mayor tamaño, más cromosomas. Esta contradicción entre la creencia del estudiante y la nueva evidencia es lo que se conoce como conflicto cognitivo, una estrategia pedagógica fundamental para promover un aprendizaje significativo y la reestructuración de esquemas mentales erróneos.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p02",
+      "contexto": "Como parte de una sesión de aprendizaje sobre las características de la célula, una docente presenta a los estudiantes la siguiente imagen:\nAlgunos estudiantes comentan que la imagen que están observando corresponde a una célula bacteriana.",
+      "imagen": "img/ascenso/secundaria/2022/cyt/2.jpg",
+      "preguntas": [
+        {
+          "pregunta": "Luego, la docente les pregunta: \"¿Qué diferencia a las células bacterianas de otro tipo de células?\".\nA continuación, se presentan las respuestas de tres estudiantes. ¿Cuál de ellos responde correctamente a la pregunta de la docente?",
+          "opciones": [
+            "Alba dice: \"Las células bacterianas no tienen pigmentos, como el verde\".",
+            "Brisa dice: \"Las células bacterianas no tienen membrana nuclear\".",
+            "Camilo dice: \"Las células bacterianas no tienen flagelos\"."
+          ],
+          "respuesta": "Brisa dice: \"Las células bacterianas no tienen membrana nuclear\".",
+          "respuestaCorta": "La característica fundamental que distingue a las células bacterianas (procariotas) de las eucariotas es la ausencia de una membrana nuclear que encierre su material genético.",
+          "solucionario": "Las células se clasifican principalmente en procariotas y eucariotas. La imagen muestra una célula procariota, como las bacterias, donde el material genético se encuentra disperso en el citoplasma en una región llamada nucleoide, sin estar rodeado por una envoltura o membrana nuclear. Las células eucariotas (animales, plantas, hongos), en cambio, sí poseen un núcleo definido por una membrana. Algunas bacterias tienen pigmentos (cianobacterias) y muchas tienen flagelos, por lo que las opciones A y C son incorrectas.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p03",
+      "contexto": "Una docente ha diseñado una unidad didáctica que tiene como propósito que los estudiantes describan la función de las enzimas en los seres vivos. En una de las sesiones de aprendizaje, realizó una experiencia en la que los estudiantes observaron el efecto de la catalasa presente en el hígado de pollo sobre el peróxido de hidrógeno. Luego de realizar esta experiencia, un equipo de estudiantes propone realizar una indagación para comparar la actividad de la catalasa presente en diferentes estructuras de una planta, como hojas y tallo. A continuación, se muestra el plan de indagación de este equipo de estudiantes:\n1. Conseguir cebolla china, dos tubos de ensayo y agua oxigenada\n2. Separar el tallo (bulbo) y las hojas de la cebolla china, y rallarlos\n3. Etiquetar los dos tubos de ensayo: muestra 1 y muestra 2\nMuestra 1: Una cucharada del tallo rallado de la cebolla china\nMuestra 2: Una cucharada de hojas ralladas de cebolla china\n4. Agregar a cada tubo de ensayo 5 mL de agua oxigenada\n5. Medir, registrar y comparar la altura alcanzada por las burbujas de oxígeno liberadas en cada tubo de ensayo, luego de 10 segundos\n6. Repetir tres veces los pasos anteriores",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes hipótesis es coherente con el plan de indagación propuesto por los estudiantes?",
+          "opciones": [
+            "La actividad de la catalasa presente en la cebolla china depende del área superficial de la muestra.",
+            "La actividad de la catalasa presente en la cebolla china varía de acuerdo con el tipo de estructura de la planta.",
+            "La cantidad de oxígeno producido por la catalasa depende del tiempo de exposición de la cebolla china al agua oxigenada."
+          ],
+          "respuesta": "La actividad de la catalasa presente en la cebolla china varía de acuerdo con el tipo de estructura de la planta.",
+          "respuestaCorta": "La hipótesis debe relacionar la variable independiente (tipo de estructura de la planta: tallo vs. hojas) con la variable dependiente (actividad de la catalasa).",
+          "solucionario": "El plan de indagación está diseñado para comparar la reacción (producción de burbujas) en dos muestras diferentes: tallo y hojas. La variable que se está manipulando intencionadamente es el 'tipo de estructura de la planta'. La hipótesis coherente es aquella que predice un resultado basado en esta manipulación. La opción B establece precisamente esta relación causal entre la estructura de la planta y la actividad enzimática que se medirá.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "La docente ha identificado logros y algunos aspectos que los estudiantes deben mejorar en su plan de indagación. ¿Cuál de las siguientes modificaciones deben hacer los estudiantes para mejorar su plan de indagación?",
+          "opciones": [
+            "Emplear una balanza para asegurar que la masa de las muestras sea igual.",
+            "Usar diferentes volúmenes de agua oxigenada para cada muestra.",
+            "Emplear solo una estructura de la cebolla china."
+          ],
+          "respuesta": "Emplear una balanza para asegurar que la masa de las muestras sea igual.",
+          "respuestaCorta": "Para una comparación justa, todas las variables deben ser controladas excepto la que se investiga. Usar una balanza garantiza que la cantidad de tejido vegetal sea la misma en ambas muestras.",
+          "solucionario": "En un experimento controlado, es crucial que solo la variable independiente (en este caso, el tipo de estructura de la planta) cambie, mientras que las demás variables (variables de control) se mantengan constantes. Medir \"una cucharada\" es impreciso. Para asegurar que la cantidad de catalasa inicial sea comparable, la masa de las muestras de tallo y hojas debe ser idéntica. El uso de una balanza permite controlar esta variable de manera precisa, mejorando la validez del experimento.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Luego de incorporar las modificaciones necesarias a su plan de indagación, el equipo de estudiantes realizó la experiencia y propuso la siguiente conclusión: \"La catalasa es una enzima presente en la cebolla china que hace que el peróxido de hidrógeno se convierta en oxígeno\". La docente ha identificado que los estudiantes no han formulado una conclusión coherente con su indagación. ¿Cuál de las siguientes preguntas es más pertinente para brindar retroalimentación al equipo de estudiantes?",
+          "opciones": [
+            "¿En su conclusión se evidencia cómo comprobaron qué gas se produjo en la reacción?",
+            "¿En su conclusión se evidencia la relación entre su hipótesis y los resultados de su indagación?",
+            "¿En su conclusión se evidencia que comprenden cómo la catalasa descompone el peróxido de hidrógeno en oxígeno y agua?"
+          ],
+          "respuesta": "¿En su conclusión se evidencia la relación entre su hipótesis y los resultados de su indagación?",
+          "respuestaCorta": "La conclusión debe responder directamente a la hipótesis de la indagación, comparando la actividad de la catalasa en las diferentes partes de la planta, algo que la conclusión actual omite.",
+          "solucionario": "El objetivo de la indagación no era simplemente demostrar la presencia de catalasa, sino comparar su actividad en tallos y hojas. La conclusión formulada por los estudiantes es una afirmación general y no reporta los hallazgos de su comparación. La pregunta de la docente busca guiar a los estudiantes para que se den cuenta de que su conclusión debe contrastar los resultados obtenidos (ej. 'se observó mayor producción de burbujas en las hojas que en el tallo') con su hipótesis inicial ('la actividad de la catalasa varía según la estructura'), validándola o refutándola.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p04",
+      "contexto": "Una docente se encuentra desarrollando una unidad didáctica sobre cómo se heredan las características. En una de las sesiones de la unidad, la docente presenta a los estudiantes la siguiente situación:\n\"En un laboratorio, se crían un ratón hembra y un ratón macho, ambos de pelaje negro. La primera generación es una camada de cuatro ratones de pelaje negro y un ratón de pelaje blanco\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Luego, la docente pregunta a los estudiantes: \"¿Cuál es el genotipo más probable de los progenitores?\". A continuación, se muestran las respuestas de tres estudiantes. ¿Cuál de ellos responde correctamente a la pregunta de la docente?",
+          "opciones": [
+            "Aarón dice: \"Uno de los progenitores es heterocigoto y el otro es homocigoto\".",
+            "Belén dice: \"Ambos progenitores son heterocigotos\".",
+            "Carolina dice: \"Ambos progenitores son homocigotos\"."
+          ],
+          "respuesta": "Belén dice: \"Ambos progenitores son heterocigotos\".",
+          "respuestaCorta": "Para que dos progenitores con un rasgo dominante (pelaje negro) tengan descendencia con un rasgo recesivo (pelaje blanco), ambos deben portar el alelo recesivo, es decir, ser heterocigotos.",
+          "solucionario": "El pelaje blanco es un rasgo recesivo. Para que este fenotipo se manifieste, el individuo debe heredar dos alelos recesivos (ej. 'ff'). Dado que los padres tienen pelaje negro (fenotipo dominante), pero tuvieron un hijo de pelaje blanco, la única explicación es que ambos padres portaban el alelo recesivo oculto. Por lo tanto, el genotipo de ambos progenitores debe ser heterocigoto (ej. 'Ff').",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "En otro momento, la docente comenta lo siguiente: \"Vamos a suponer que, luego de varias camadas, un par de ratones se reproducen varias veces, por lo que generan una descendencia de 22 ratones de pelaje negro y 23 ratones de pelaje blanco\". Después, la docente pregunta: \"¿Cuáles son los genotipos más probables de los progenitores? Tengan en cuenta que el alelo 'F' determina el pelaje negro y el alelo 'f' determina el pelaje blanco de los ratones\". A continuación, se muestran las respuestas de tres estudiantes. ¿Cuál de ellos responde correctamente a la pregunta de la docente?",
+          "opciones": [
+            "Amanda dice: \"FF y ff\".",
+            "Brunela dice: \"FF y Ff\".",
+            "Cristóbal dice: \"Ff y ff\"."
+          ],
+          "respuesta": "Cristóbal dice: \"Ff y ff\".",
+          "respuestaCorta": "Una proporción de descendencia de aproximadamente 1:1 entre el fenotipo dominante y el recesivo es característica del cruce entre un individuo heterocigoto (Ff) y un homocigoto recesivo (ff).",
+          "solucionario": "La descendencia observada (22 negros y 23 blancos) muestra una proporción fenotípica de aproximadamente 1:1. Este resultado se obtiene del cruce de prueba, que consiste en cruzar un individuo heterocigoto (Ff, fenotipo negro) con un individuo homocigoto recesivo (ff, fenotipo blanco). El cuadro de Punnett para este cruce predice que el 50% de la descendencia será Ff (negro) y el 50% será ff (blanco), lo que coincide con los resultados observados.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p05",
+      "contexto": "Un docente presenta a sus estudiantes la siguiente información:",
+      "imagen": "img/ascenso/secundaria/2022/cyt/3.jpg",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes características permite afirmar que la cochinilla es un insecto?",
+          "opciones": [
+            "Reproducción mediante huevos.",
+            "Cuerpo dividido en cabeza, tórax y abdomen.",
+            "Mayor tamaño de la hembra respecto del macho."
+          ],
+          "respuesta": "Cuerpo dividido en cabeza, tórax y abdomen.",
+          "respuestaCorta": "La característica taxonómica definitoria de la clase Insecta es la división de su cuerpo en tres tagmas: cabeza, tórax y abdomen.",
+          "solucionario": "Aunque muchas clases de animales se reproducen por huevos (ovíparos) y el dimorfismo sexual (diferencia de tamaño entre sexos) es común en el reino animal, la característica anatómica que define universalmente a los insectos es tener el cuerpo segmentado en tres partes distintas: cabeza, tórax y abdomen. Esta es una característica clave para su clasificación.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Cuál es la relación interespecífica entre la cochinilla y la planta de la tuna?",
+          "opciones": [
+            "Parasitismo",
+            "Depredación",
+            "Mutualismo"
+          ],
+          "respuesta": "Parasitismo",
+          "respuestaCorta": "La cochinilla se beneficia al alimentarse de la savia de la tuna, mientras que la planta de tuna es perjudicada. Esta relación (+/-) es una definición de parasitismo.",
+          "solucionario": "En ecología, las relaciones interespecíficas describen la interacción entre diferentes especies. En este caso, la cochinilla (parásito) obtiene un beneficio (nutrientes) a expensas de la planta de tuna (huésped), a la cual perjudica e incluso puede matar. Esta interacción donde un organismo se beneficia y el otro se perjudica se denomina parasitismo. No es depredación porque no mata inmediatamente a su presa para consumirla, ni mutualismo porque la planta no obtiene ningún beneficio.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Una estudiante realiza el siguiente comentario: \"He leído que el colorante obtenido de las cochinillas peruanas es más intenso que el de otros países. Como el color depende del ácido carmínico, entonces, el ácido carmínico peruano debe tener mejores propiedades que el de otros países\". ¿Cuál es el error que evidencia la estudiante en su comentario?",
+          "opciones": [
+            "No identifica que la intensidad del color depende del solvente en el que se disuelva el ácido carmínico.",
+            "No identifica que el ácido carmínico, al ser un compuesto químico, tiene propiedades definidas.",
+            "No identifica cuáles son las propiedades del ácido carmínico peruano que hacen que sea mejor que el de otros países."
+          ],
+          "respuesta": "No identifica que el ácido carmínico, al ser un compuesto químico, tiene propiedades definidas.",
+          "respuestaCorta": "El error es suponer que una misma sustancia química puede tener propiedades diferentes según su origen geográfico. Las propiedades de un compuesto químico son constantes.",
+          "solucionario": "El ácido carmínico es una molécula con una estructura química específica ($C_{22}H_{20}O_{13}$). Como todo compuesto químico puro, sus propiedades físicas y químicas (como el color que imparte) son intrínsecas y no varían. La estudiante comete el error de pensar que el \"ácido carmínico peruano\" es una sustancia diferente. La mayor intensidad del colorante de origen peruano se debe probablemente a una mayor concentración de ácido carmínico en el extracto, a la pureza del mismo, o a las condiciones de extracción, pero no a que la molécula en sí misma sea \"mejor\" o tenga propiedades diferentes.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p06",
+      "contexto": "Como parte de una unidad didáctica sobre la nutrición de los seres vivos, un docente comenta a los estudiantes que, durante la fotosíntesis, las plantas usan la energía de la luz para producir glucosa a partir de dióxido de carbono y agua. Además, el docente menciona que un subproducto de la fotosíntesis es el oxígeno; por ello, la cantidad de oxígeno producido es un parámetro que usualmente se utiliza para medir la actividad fotosintética. Finalmente, añade que las plantas utilizan parte del oxígeno que producen, y liberan al ambiente la mayor parte de este. En las siguientes sesiones de la unidad, los estudiantes, en equipos, proponen indagaciones para identificar la longitud de onda de luz más favorable para el crecimiento en la altura y el diámetro del tallo de una planta. El docente proporciona la siguiente información a los estudiantes para que puedan plantear su propuesta de indagación:\n- Las longitudes de onda de la luz visible se encuentran entre los 380 a 750 nm.\n- Los niveles de $CO_{2}$ normales en el ambiente están entre los 300 y 400 ppm.\n- La intensidad de luz varía según la estación del año. En un día soleado y despejado, se dispone de 100 000 luxes, es decir, 100% de intensidad de luz. La mayoría de las plantas, para crecer, requieren en promedio 50 000 luxes.\nA continuación, se presenta la propuesta de indagación de uno de los equipos:\nMateriales\n- Un área o cuarto cerrado\n- Plástico negro grueso\n- Tela negra de algodón\n- Entre 40 y 50 plantas iguales\n- 4 focos LED de igual potencia, uno de cada color: azul, verde, amarillo y rojo\n- Una regla\nProcedimiento\n1. Forrar el techo y las paredes del área cerrada con una tela negra de algodón. Zonificar esta área en partes iguales utilizando plástico negro grueso como paredes internas.\n2. Colocar un grupo de plantas en cada una de las zonas. Los grupos deben tener la misma cantidad de plantas.\n3. Registrar la altura y el diámetro de los tallos de cada una de las plantas que conforman los grupos.\n4. Instalar y encender un foco LED para cada zona. El foco debe estar encendido todo el tiempo.\n5. Regar todas las plantas con la misma cantidad de agua y con la misma frecuencia.\n6. Observar y registrar diariamente, durante dos semanas, el crecimiento en altura y diámetro de los tallos de cada una de las plantas que conforman los grupos.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "El docente identifica que, de acuerdo con la hipótesis, los estudiantes deben realizar un ajuste en su plan de indagación. ¿Cuál es el ajuste que deben realizar los estudiantes?",
+          "opciones": [
+            "Variar la potencia de cada uno de los focos LED.",
+            "Usar focos LED de luz blanca, pero con filtros de diferente color.",
+            "Incluir un grupo de plantas con luz natural y otro grupo sin iluminación."
+          ],
+          "respuesta": "Incluir un grupo de plantas con luz natural y otro grupo sin iluminación.",
+          "respuestaCorta": "Un diseño experimental robusto requiere grupos de control (positivo y negativo) para poder comparar los resultados de los grupos experimentales.",
+          "solucionario": "El experimento propuesto por los estudiantes solo incluye los grupos experimentales (plantas bajo luces de colores). Para poder interpretar correctamente los resultados, se necesita: 1) Un 'control positivo', que sería el grupo con luz natural, representando la condición óptima o estándar de crecimiento. 2) Un 'control negativo', que sería el grupo sin iluminación, para demostrar que la luz es necesaria para el crecimiento. Sin estos controles, no se puede concluir con certeza si el crecimiento observado se debe al tipo de luz o a otros factores, ni comparar la efectividad de las luces de colores con la luz natural.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Por qué los estudiantes utilizaron grupos de plantas en lugar de usar solo una planta en cada zona?",
+          "opciones": [
+            "Porque el crecimiento en altura y diámetro del tallo de una planta es muy pequeño, por lo que las mediciones registradas de cada una de las plantas que conforman un grupo se tienen que sumar para identificar una medida con la precisión pertinente.",
+            "Porque cada integrante del equipo debe realizar mediciones de la altura y diámetro del tallo de uno de los grupos de plantas, respectivamente, y así disminuir el error humano asociado a cada una de estas mediciones.",
+            "Porque el crecimiento en altura y diámetro del tallo de cada planta que conforma un grupo puede presentar variaciones, y trabajar con más plantas permite que los resultados sean más representativos."
+          ],
+          "respuesta": "Porque el crecimiento en altura y diámetro del tallo de cada planta que conforma un grupo puede presentar variaciones, y trabajar con más plantas permite que los resultados sean más representativos.",
+          "respuestaCorta": "El uso de múltiples réplicas (un grupo de plantas) minimiza el impacto de la variabilidad individual y aumenta la confiabilidad y representatividad de los resultados.",
+          "solucionario": "En biología, siempre existe una variabilidad natural entre individuos de la misma especie. Si se usara una sola planta por condición, el resultado podría deberse a una característica particular de esa planta (que crezca más rápido o más lento por genética, por ejemplo) y no al efecto de la variable que se está estudiando (el color de la luz). Al usar un grupo de plantas y promediar sus resultados, se reduce el efecto de las variaciones individuales y se obtiene una medida más fiable y representativa del efecto real del tratamiento, aumentando la validez de las conclusiones.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+
+  
+    {
+      "idGrupo": "asc_secundaria_2023_p06",
+      "contexto": "Como parte de una unidad didáctica sobre la nutrición de los seres vivos, un docente comenta a los estudiantes que, durante la fotosíntesis, las plantas usan la energía de la luz para producir glucosa a partir de dióxido de carbono y agua. Además, el docente menciona que un subproducto de la fotosíntesis es el oxígeno; por ello, la cantidad de oxígeno producido es un parámetro que usualmente se utiliza para medir la actividad fotosintética. Finalmente, añade que las plantas utilizan parte del oxígeno que producen, y liberan al ambiente la mayor parte de este. En las siguientes sesiones de la unidad, los estudiantes, en equipos, proponen indagaciones para identificar la longitud de onda de luz más favorable para el crecimiento en la altura y el diámetro del tallo de una planta. El docente proporciona la siguiente información a los estudiantes para que puedan plantear su propuesta de indagación:\n- Las longitudes de onda de la luz visible se encuentran entre los 380 a 750 nm.\n- Los niveles de CO2 normales en el ambiente están entre los 300 y 400 ppm.\n- La intensidad de luz varía según la estación del año. En un día soleado y despejado, se dispone de 100 000 luxes, es decir, 100% de intensidad de luz. La mayoría de las plantas, para crecer, requieren en promedio 50 000 luxes.\nA continuación, se presenta la propuesta de indagación de uno de los equipos:\nMateriales\n- Un área o cuarto cerrado\n- Plástico negro grueso\n- Tela negra de algodón\n- Entre 40 y 50 plantas iguales\n- 4 focos LED de igual potencia, uno de cada color: azul, verde, amarillo y rojo\n- Una regla\nProcedimiento\n1. Forrar el techo y las paredes del área cerrada con una tela negra de algodón. Zonificar esta área en partes iguales utilizando plástico negro grueso como paredes internas.\n2. Colocar un grupo de plantas en cada una de las zonas. Los grupos deben tener la misma cantidad de plantas.\n3. Registrar la altura y el diámetro de los tallos de cada una de las plantas que conforman los grupos.\n4. Instalar y encender un foco LED para cada zona. El foco debe estar encendido todo el tiempo.\n5. Regar todas las plantas con la misma cantidad de agua y con la misma frecuencia.\n6. Observar y registrar diariamente, durante dos semanas, el crecimiento en altura y diámetro de los tallos de cada una de las plantas que conforman los grupos.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Las plantas utilizadas en la indagación propuesta por los estudiantes tienen hojas verdes. Considerando solo los grupos de plantas que fueron alumbrados con los focos LED azul, verde y rojo, ¿en cuál de estos grupos se esperaría una menor actividad fotosintética?",
+          "opciones": [
+            "En el grupo alumbrado por el foco LED azul (450-475 nm).",
+            "En el grupo alumbrado por el foco LED verde (495-570 nm).",
+            "En el grupo alumbrado por el foco LED rojo (620-750 nm)."
+          ],
+          "respuesta": "En el grupo alumbrado por el foco LED verde (495-570 nm).",
+          "respuestaCorta": "La actividad fotosintética será menor bajo la luz verde porque la clorofila, el pigmento principal de las plantas verdes, refleja la luz verde en lugar de absorberla.",
+          "solucionario": "Las plantas son verdes porque sus pigmentos fotosintéticos, principalmente la clorofila, absorben eficientemente las longitudes de onda de la luz en los rangos azul y rojo del espectro visible para realizar la fotosíntesis. Sin embargo, reflejan la mayor parte de la luz en el rango verde. Al no ser absorbida, la energía de la luz verde no puede ser utilizada para el proceso fotosintético, resultando en una actividad mucho menor en comparación con las plantas expuestas a luz azul o roja.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p07",
+      "contexto": "Un docente se encuentra desarrollando una unidad didáctica sobre las propiedades de los alcoholes. En una de las sesiones de aprendizaje de la unidad, el docente presenta a los estudiantes la siguiente situación:\n\"Usualmente compramos alcohol medicinal, es decir, una mezcla de alcohol etílico puro con agua, sin tener en cuenta de cuántos grados es y qué significa esto. En las farmacias, comúnmente venden alcohol medicinal de 70° o 96°, es decir, 70 o 96% v/v. Vamos a suponer que compramos un frasco de 100 mL de alcohol medicinal de 96° o 96% v/v. ¿Qué información nos brinda esta indicación en el frasco?\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "A continuación, se muestran las respuestas de tres estudiantes. ¿Cuál de los estudiantes ha respondido correctamente a la pregunta planteada por el docente?",
+          "opciones": [
+            "Sara dice: \"Quiere decir que se mezclaron 96 mL de alcohol etilico puro con 100 mL de agua, y luego separaron 100 mL de esa mezcla\".",
+            "Rosa dice: \"Quiere decir que se mezclaron 96 mL de alcohol etílico puro con 4 mL de agua\".",
+            "Pedro dice: \"Quiere decir que se mezclaron 4 mL de alcohol etílico puro con 96 mL de agua\"."
+          ],
+          "respuesta": "Rosa dice: \"Quiere decir que se mezclaron 96 mL de alcohol etílico puro con 4 mL de agua\".",
+          "respuestaCorta": "La concentración 96% v/v (volumen/volumen) indica que por cada 100 mL de solución total, 96 mL son de soluto (alcohol) y el resto, 4 mL, es de solvente (agua).",
+          "solucionario": "La notación de porcentaje volumen/volumen (% v/v) se define como el volumen del soluto dividido por el volumen total de la solución, multiplicado por 100. En este caso, un alcohol de 96% v/v significa que 96% del volumen total es alcohol etílico puro. Si se tiene un frasco de 100 mL de esta solución, este contendrá 96 mL de alcohol puro y la cantidad de agua necesaria para completar los 100 mL totales, que es 4 mL. (Nota: debido a la contracción de volumen al mezclar alcohol y agua, en la práctica se añade agua hasta alcanzar el aforo de 100 mL, pero la interpretación conceptual correcta es la de Rosa).",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "En otra de las sesiones de aprendizaje, el docente comenta lo siguiente: \"Los desinfectantes son utilizados, por ejemplo, para eliminar virus de diferentes superficies. Normalmente, los desinfectantes contienen uno de los tres siguientes alcoholes: etanol, isopropanol o n-propanol\". ¿Cuál de las siguientes propiedades sustenta su poder desinfectante?",
+          "opciones": [
+            "Disuelven lípidos en presencia de agua.",
+            "Su viscosidad es menor que la del agua.",
+            "Se volatilizan en menor tiempo que el agua."
+          ],
+          "respuesta": "Disuelven lípidos en presencia de agua.",
+          "respuestaCorta": "El poder desinfectante de los alcoholes radica en su capacidad para desnaturalizar proteínas y disolver las membranas lipídicas de los microorganismos, destruyéndolos.",
+          "solucionario": "Muchos virus y bacterias tienen una envoltura externa o membrana celular compuesta principalmente de lípidos y proteínas. Los alcoholes como el etanol son eficaces como desinfectantes porque actúan como solventes que desorganizan y disuelven esta capa lipídica, además de desnaturalizar las proteínas esenciales del microorganismo. Este doble mecanismo de acción provoca la inactivación o muerte del patógeno. La presencia de agua (típicamente en concentraciones de 60-80%) es crucial para que este proceso sea efectivo.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p08",
+      "contexto": "Como parte de una de las sesiones de una unidad didáctica, un docente comenta a los estudiantes que, en el 2019, el volcán Ubinas, ubicado en Moquegua, tuvo un periodo de actividad en el que generó una nube de cenizas. En este contexto, un estudiante realiza el siguiente comentario:\n\"En una erupción volcánica, el dióxido de carbono que tiene el magma que saldría del volcán se libera al aire. Por esto, cada vez que un volcán erupciona, la temperatura global del planeta se incrementa\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué información debería utilizar el docente para que el estudiante identifique el error evidenciado en su comentario?",
+          "opciones": [
+            "Información sobre las diferencias entre el efecto invernadero y el calentamiento global.",
+            "Información sobre las características del dióxido de carbono y cómo interviene este en el efecto invernadero.",
+            "Información sobre los gases que emite una erupción volcánica, entre ellos, el dióxido de azufre, y su efecto en el calentamiento global."
+          ],
+          "respuesta": "Información sobre los gases que emite una erupción volcánica, entre ellos, el dióxido de azufre, y su efecto en el calentamiento global.",
+          "respuestaCorta": "El error del estudiante es creer que las erupciones siempre calientan el planeta. Se debe presentar información sobre el dióxido de azufre (SO2), que causa un efecto de enfriamiento al reflejar la luz solar.",
+          "solucionario": "El comentario del estudiante simplifica excesivamente el impacto climático de una erupción volcánica. Si bien las erupciones liberan CO2 (un gas de efecto invernadero que calienta), las erupciones explosivas también inyectan grandes cantidades de dióxido de azufre (SO2) en la estratosfera. El SO2 reacciona con el agua para formar aerosoles de sulfato, los cuales aumentan el albedo de la Tierra (su capacidad de reflejar la luz solar). Este efecto de reflexión suele ser más fuerte que el efecto de calentamiento del CO2, provocando un enfriamiento global neto a corto plazo (1-3 años). Por lo tanto, la información sobre el SO2 es crucial para corregir la idea errónea del estudiante.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p09",
+      "contexto": "Un docente está desarrollando una unidad didáctica sobre la acción del ser humano en la problemática del cambio climático.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "El docente pregunta lo siguiente: \"¿Qué es el efecto invernadero?\". A continuación, se presentan las respuestas de tres estudiantes. ¿Cuál de los estudiantes ha respondido correctamente a la pregunta planteada por el docente?",
+          "opciones": [
+            "Ana dice: \"Es el proceso mediante el cual la cantidad de oxígeno en la atmósfera decrece y la de dióxido de carbono aumenta, provocando daños en las personas y en todos los ecosistemas\".",
+            "Bruno dice: \"Es un fenómeno natural que ayuda a que la temperatura de la Tierra no sea muy baja, pero que puede verse afectado y ser peligroso, si la cantidad de gases de efecto invernadero es muy grande\".",
+            "Cristian dice: \"Es un sistema que permite que se forme una especie de capa sobre la Tierra, para evitar que entren gases dañinos a la atmósfera. Además, gracias a este efecto, la atmósfera es impermeable a la radiación nociva\"."
+          ],
+          "respuesta": "Bruno dice: \"Es un fenómeno natural que ayuda a que la temperatura de la Tierra no sea muy baja, pero que puede verse afectado y ser peligroso, si la cantidad de gases de efecto invernadero es muy grande\".",
+          "respuestaCorta": "La respuesta de Bruno es la más precisa, ya que define correctamente el efecto invernadero como un fenómeno natural y beneficioso, pero que se intensifica peligrosamente por el exceso de gases.",
+          "solucionario": "El efecto invernadero es un proceso natural vital para la vida en la Tierra. Ciertos gases en la atmósfera (GEI) atrapan parte del calor irradiado por la superficie terrestre, manteniendo una temperatura promedio habitable. Sin este efecto, el planeta sería demasiado frío. El problema actual, conocido como calentamiento global o cambio climático, es la intensificación de este efecto natural debido al aumento de la concentración de GEI por actividades humanas. Bruno captura correctamente esta dualidad: el fenómeno es natural y necesario, pero su alteración es peligrosa.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Luego de varias sesiones de aprendizaje, el docente observa que la mayoría de estudiantes ha logrado explicar que ciertas actividades humanas, tales como la quema de combustibles fósiles y las actividades industriales, son las principales causas del calentamiento global. En ese contexto, el docente brinda la siguiente indicación: \"Vamos a consultar diversas fuentes para analizar y evaluar los argumentos de aquellos que sostienen que el calentamiento global no es causado por el ser humano, sino que es un proceso que tiene que ocurrir\". ¿Cuál es el propósito principal de la actividad realizada por el docente?",
+          "opciones": [
+            "Que los estudiantes identifiquen las causas y consecuencias del calentamiento global.",
+            "Que los estudiantes desarrollen su posición crítica sobre las causas del calentamiento global.",
+            "Que los estudiantes planteen acciones para contrarrestar las causas y consecuencias del calentamiento global."
+          ],
+          "respuesta": "Que los estudiantes desarrollen su posición crítica sobre las causas del calentamiento global.",
+          "respuestaCorta": "El propósito es que los estudiantes fortalezcan su comprensión y argumentación al analizar y refutar puntos de vista contrarios, desarrollando así un pensamiento crítico.",
+          "solucionario": "En esta etapa, los estudiantes ya conocen las causas principales. La actividad propuesta por el docente va un paso más allá del simple conocimiento. Al pedirles que analicen y evalúen argumentos escépticos o negacionistas, el docente busca que los estudiantes no solo repitan la información, sino que la defiendan con evidencia, contrasten diferentes posturas y construyan una posición propia fundamentada y crítica. Esta es una habilidad de orden superior que va más allá de la mera identificación de causas y consecuencias.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p10",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes afirmaciones sobre las vacunas, en general, es correcta?",
+          "opciones": [
+            "Producen una respuesta similar a la generada naturalmente por las enfermedades, pero más leve.",
+            "Se puede prescindir de ellas cuando las medidas de higiene, saneamiento y alimentación son adecuadas.",
+            "Son innecesarias para aquellas enfermedades que no se han presentado en la población por una década o más."
+          ],
+          "respuesta": "Producen una respuesta similar a la generada naturalmente por las enfermedades, pero más leve.",
+          "respuestaCorta": "Las vacunas 'entrenan' al sistema inmunitario para que reconozca y combata un patógeno específico, generando memoria inmunológica sin causar la enfermedad.",
+          "solucionario": "El principio de la vacunación es introducir en el cuerpo un antígeno (un virus inactivado, atenuado, o partes de él) que no puede causar la enfermedad, pero que es suficiente para que el sistema inmunitario lo reconozca como una amenaza. El cuerpo responde produciendo anticuerpos y células de memoria. De esta manera, si la persona se expone al patógeno real en el futuro, su sistema inmunitario ya está preparado para una respuesta rápida y eficaz, evitando o atenuando gravemente la enfermedad. Es una simulación segura de una infección natural.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p11",
+      "contexto": "Durante el desarrollo de una unidad didáctica sobre la alimentación balanceada, un docente recoge saberes previos de sus estudiantes.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes estudiantes evidencia un error en su intervención?",
+          "opciones": [
+            "Juan dice: \"Toda dieta saludable debe tener 2000 kcal\".",
+            "Kevin dice: \"La dieta depende del tipo de trabajo que uno realiza\".",
+            "María dice: \"Un niño pequeño debe tener una dieta distinta a la de un adulto\"."
+          ],
+          "respuesta": "Juan dice: \"Toda dieta saludable debe tener 2000 kcal\".",
+          "respuestaCorta": "El error es afirmar que existe un único valor calórico para todas las dietas saludables, ya que las necesidades energéticas son individuales y varían mucho.",
+          "solucionario": "La afirmación de Juan es una generalización incorrecta. El valor de 2000 kcal se usa a menudo como una referencia promedio en el etiquetado de alimentos, pero no es una recomendación universal. Las necesidades calóricas reales de una persona dependen de múltiples factores como la edad, el sexo, el peso, la altura, el nivel de actividad física (como menciona Kevin) y la etapa de la vida (como menciona María). Una dieta saludable es aquella que se ajusta a las necesidades individuales de cada persona.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p12",
+      "contexto": "Como parte de una unidad didáctica sobre la nutrición en el ser humano, un docente presenta a los estudiantes la siguiente tabla con el aporte calórico de algunos de los alimentos de consumo diario. Luego, el docente pregunta: \"¿Cuál de estos alimentos sería más difícil de digerir para una persona a la que se la ha extirpado recientemente la vesícula biliar?\".",
+      "imagen": "img/ascenso/secundaria/2022/cyt/4.jpg",
+      "preguntas": [
+        {
+          "pregunta": "A continuación, se muestran las respuestas de tres estudiantes. ¿Cuál de ellos responde correctamente a la pregunta planteada por el docente?",
+          "opciones": [
+            "Anahí dice: \"El helado\".",
+            "Berta dice: \"El pollo\".",
+            "Camilo dice: \"Los tallarines\"."
+          ],
+          "respuesta": "Anahí dice: \"El helado\".",
+          "respuestaCorta": "El helado sería el más difícil de digerir porque tiene el mayor contenido de grasas, y la vesícula biliar es crucial para la digestión de las grasas.",
+          "solucionario": "La vesícula biliar almacena y concentra la bilis, producida por el hígado. La bilis es esencial para emulsionar las grasas en el intestino delgado, un paso necesario para su correcta digestión y absorción. Una persona sin vesícula biliar tiene un flujo de bilis menos regulado y menor, lo que dificulta la digestión de comidas ricas en grasa. De los alimentos presentados en la tabla, el helado es el que contiene la mayor cantidad de grasas (126 calorías, que equivalen a unos 14 gramos de grasa), por lo que sería el más problemático de digerir.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "En otro momento de la unidad didáctica, Amelia, una de las estudiantes, comparte el siguiente comentario con sus compañeros: \"Comer alimentos que tienen mucha azúcar de mesa es peligroso para nuestra salud, porque la cantidad de glucosa en nuestra sangre aumenta abruptamente y el exceso de esta se queda en la sangre. Por eso, podríamos sufrir enfermedades cardíacas. Además, con el tiempo, nuestro cuerpo deja de aprovechar glucosa, lo que podría generar diabetes\". ¿Cuál es el aprendizaje que se evidencia principalmente en el comentario de la estudiante?",
+          "opciones": [
+            "Identifica cuáles son las diferencias entre carbohidratos simples y complejos.",
+            "Identifica cómo se realiza el metabolismo de la glucosa en el cuerpo humano.",
+            "Identifica cuáles son las consecuencias del consumo excesivo de carbohidratos."
+          ],
+          "respuesta": "Identifica cuáles son las consecuencias del consumo excesivo de carbohidratos.",
+          "respuestaCorta": "El comentario de Amelia se centra en describir los efectos negativos para la salud (enfermedades cardíacas, diabetes) derivados del consumo excesivo de azúcar.",
+          "solucionario": "El discurso de Amelia no se enfoca en la estructura química de los carbohidratos (opción A) ni en los detalles de las rutas metabólicas de la glucosa (opción B). Su intervención se centra claramente en la relación causa-efecto entre un hábito dietético (comer mucha azúcar) y sus resultados perjudiciales para la salud a largo plazo (picos de glucosa, riesgo de enfermedades cardíacas y diabetes). Por lo tanto, el aprendizaje principal que demuestra es la identificación de las consecuencias del consumo excesivo de carbohidratos simples.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p13",
+      "contexto": "Una docente tiene como propósito promover el enfoque ambiental en los estudiantes. En ese contexto, ha identificado que varios de los estudiantes, a la hora de recreo, consumen frutas y colocan los restos y las cáscaras de estas en los tachos de residuos comunes de la IE.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes acciones pedagógicas es más pertinente que realice la docente con los estudiantes?",
+          "opciones": [
+            "Solicitar a los estudiantes que identifiquen cómo ellos y los demás integrantes de la IE desechan las cáscaras y restos de las frutas que consumen, y evaluar estas acciones para determinar qué actividades permiten reutilizar estos residuos. Luego, llevar a cabo algunas de estas actividades con los estudiantes.",
+            "Proponer a los estudiantes observar un video sobre cómo se elabora el compost a partir de los restos y las cáscaras de las frutas que consumen. Luego, pedirles que detallen en un texto los pasos para realizar esta técnica y lo coloquen en el periódico mural de la IE.",
+            "Instalar recipientes de diferentes colores en la IE. Luego, indicar a los estudiantes en qué recipiente deben desechar los restos y las cásceras de las frutas que consumen y comentarles que hay técnicas, como el compostaje, que permiten reutilizar estos residuos."
+          ],
+          "respuesta": "Solicitar a los estudiantes que identifiquen cómo ellos y los demás integrantes de la IE desechan las cáscaras y restos de las frutas que consumen, y evaluar estas acciones para determinar qué actividades permiten reutilizar estos residuos. Luego, llevar a cabo algunas de estas actividades con los estudiantes.",
+          "respuestaCorta": "La acción más pertinente involucra a los estudiantes en un ciclo completo de aprendizaje: diagnóstico del problema, investigación de soluciones y aplicación práctica, fomentando el protagonismo y la acción.",
+          "solucionario": "La opción A representa un enfoque pedagógico más completo y centrado en el estudiante. Fomenta la investigación (identificar el problema), el análisis crítico (evaluar acciones), la toma de decisiones (determinar actividades de reutilización) y la acción directa (llevar a cabo las actividades). Este proceso promueve un aprendizaje significativo y el desarrollo de competencias ambientales, a diferencia de las otras opciones que son más pasivas (ver un video y escribir) o directivas (solo seguir indicaciones sin un proceso de reflexión previo).",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p14",
+      "contexto": "Como parte de una unidad didáctica sobre la función de relación en el ser humano, una docente solicitó que los estudiantes se agrupen en pares para realizar la siguiente actividad:\n1. Pidió que uno de los integrantes de la pareja se vende los ojos.\n2. Repartió un vaso con agua potable y una manzana verde a cada pareja.\n3. Pidió que el otro integrante acerque a la boca del estudiante con los ojos vendados el vaso con agua para que la pruebe y diga qué sabor tiene.\n4. Pidió repetir el paso 3, pero esta vez acercando, al mismo tiempo, el vaso con agua y una manzana verde a la boca del estudiante con los ojos vendados.\nLuego, todos los estudiantes que tenían los ojos vendados dijeron que el agua del paso 4 tenía sabor a manzana.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "La docente preguntó: \"¿Por qué a pesar de que el vaso tenía únicamente agua, nuestra percepción del sabor cambió al acercar la manzana?\". ¿Cuál es el propósito principal de la actividad realizada por la docente?",
+          "opciones": [
+            "Que los estudiantes identifiquen los órganos de los sentidos que intervienen en la percepción del sabor y del olor.",
+            "Que los estudiantes identifiquen que la información proveniente de los sentidos se procesa de manera integrada en el cerebro.",
+            "Que los estudiantes identifiquen que, en la percepción del sabor y del olor, además de los órganos de los sentidos, intervienen aspectos emocionales."
+          ],
+          "respuesta": "Que los estudiantes identifiquen que la información proveniente de los sentidos se procesa de manera integrada en el cerebro.",
+          "respuestaCorta": "El propósito es demostrar que la percepción del sabor no depende solo del gusto, sino que es una construcción cerebral que integra información de múltiples sentidos, especialmente el olfato.",
+          "solucionario": "Esta clásica actividad evidencia que lo que comúnmente llamamos \"sabor\" es en realidad una percepción multimodal llamada \"flavor\". El cerebro combina la información del sentido del gusto (papilas gustativas en la lengua) con la del sentido del olfato (receptores en la nariz que captan los aromas volátiles de la manzana). Al oler la manzana mientras beben agua insípida, el cerebro integra ambas señales y crea la percepción de que el agua tiene sabor a manzana. El objetivo principal es que los estudiantes comprendan esta integración sensorial que ocurre a nivel cerebral.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+
+  
+    {
+      "idGrupo": "asc_secundaria_2023_p15",
+      "contexto": "Como parte de una unidad didáctica sobre los fundamentos de la evolución, una docente plantea a los estudiantes la siguiente pregunta:\n\"Muchas personas sostienen que la evolución permite que las especies mejoren a través del tiempo. ¿Es cierto o no? ¿Por qué?\".\nA continuación, se presentan las intervenciones de tres estudiantes:\nAlan dice: \"No lo creo en lo absoluto. La evolución no es como una escalera, sino más bien como un árbol. Ninguna especie está en la cima, sino en las tantas ramas del árbol\".\nRaúl dice: \"Creo que algunas veces las especies sufren alguna mutación que los perjudica, y otras veces mutan y se ven beneficiadas. En ambos casos, evolucionan\".\nKaren dice: \"Es cierto, porque, con el tiempo, las especies siempre cambian para mejor y pueden sobrevivir a condiciones extremas\".\nLuego, la docente presenta a los estudiantes la siguiente información:\nLa corea de Huntington es una enfermedad genética degenerativa que afecta al funcionamiento neuronal. Esta enfermedad genera que las personas pierdan lentamente el control de su cuerpo y su mente. Normalmente, no afecta a las personas hasta después de que se han reproducido y ello contribuye a que persista en la población. En 1993, unos investigadores descubrieron que el responsable de la enfermedad de Huntington era un segmento de ADN que se repite una y otra vez. Algunas personas adquieren por mutación demasiadas repeticiones de este segmento y padecen de esta enfermedad. Otras personas heredan esta enfermedad; es decir, tienen un alelo dominante anormal con exceso de repeticiones que heredaron de uno de sus progenitores. Algunos estudios indican que, hace aproximadamente 200 años, una mujer portadora del alelo de Huntington tuvo 10 hijos y, en la actualidad, este linaje (y el alelo causante de la enfermedad que portaba) es el antepasado de muchos residentes del lago de Maracaibo.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿A cuál de las intervenciones se contrapone la información presentada por la docente?",
+          "opciones": [
+            "A la intervención de Alan.",
+            "A la intervención de Raúl.",
+            "A la intervención de Karen."
+          ],
+          "respuesta": "A la intervención de Karen.",
+          "respuestaCorta": "La información sobre la enfermedad de Huntington, un rasgo perjudicial que persiste, contradice directamente la idea de Karen de que la evolución siempre implica un cambio 'para mejor'.",
+          "solucionario": "La intervención de Karen expresa una visión teleológica y progresista de la evolución, la idea errónea de que esta tiene una dirección hacia la 'mejora' o la perfección. El caso de la enfermedad de Huntington es un claro contraejemplo. Es una condición causada por un alelo dominante que es claramente perjudicial, pero que persiste y se transmite a través de las generaciones porque sus síntomas suelen aparecer después de la edad reproductiva. Esto demuestra que la evolución no siempre selecciona características 'mejores' en un sentido absoluto, sino aquellas que no impiden (o incluso favorecen) la reproducción y la transmisión de genes a la siguiente generación.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "En la información presentada por la docente, se menciona que las personas que heredan la enfermedad de Huntington tienen un alelo dominante anormal. ¿Qué probabilidad de heredar la enfermedad tiene la descendencia entre un hombre sano y una mujer portadora de la enfermedad?",
+          "opciones": [
+            "25%",
+            "50%",
+            "75%"
+          ],
+          "respuesta": "50%",
+          "respuestaCorta": "Siendo una enfermedad dominante, un progenitor portador (heterocigoto) y uno sano (homocigoto recesivo) tienen una probabilidad del 50% de tener un hijo afectado en cada embarazo.",
+          "solucionario": "Representemos el alelo dominante de Huntington como 'H' y el alelo recesivo normal como 'h'. Un hombre sano tendrá un genotipo 'hh'. Una mujer portadora de la enfermedad será heterocigota, con genotipo 'Hh'. Al realizar un cuadro de Punnett para el cruce 'Hh x hh', se obtienen los siguientes genotipos posibles para la descendencia: 'Hh' y 'hh'. La probabilidad para cada uno es de 2/4, lo que equivale a un 50%. Por lo tanto, en cada embarazo, hay un 50% de probabilidad de que la descendencia herede el alelo 'H' y padezca la enfermedad.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Ariana, una de las estudiantes, realizó el siguiente comentario: \"Yo creo que, hace 200 años, esa mujer necesariamente se expuso a algún tipo de radiación; de otra manera, su material genético no habría mutado\". ¿Cuál es el error que se evidencia en el comentario de la estudiante?",
+          "opciones": [
+            "Creer que algún tipo de radiación podría causar una mutación en el material genético.",
+            "Dejar de lado que las mutaciones podrían significar beneficios para el organismo en el que suceden.",
+            "Obviar que las mutaciones del material genético podrían ocurrir de manera espontánea."
+          ],
+          "respuesta": "Obviar que las mutaciones del material genético podrían ocurrir de manera espontánea.",
+          "respuestaCorta": "El error de Ariana es creer que las mutaciones siempre son causadas por un agente externo (como la radiación), ignorando que pueden ocurrir de forma espontánea por errores en procesos celulares.",
+          "solucionario": "Si bien es cierto que agentes mutagénicos como la radiación pueden causar mutaciones (mutaciones inducidas), no son la única fuente de cambio genético. Muchas mutaciones son 'espontáneas', es decir, ocurren de forma natural como resultado de errores durante la replicación del ADN u otros procesos celulares. El comentario de Ariana evidencia un desconocimiento de este hecho fundamental, al asumir que una mutación necesariamente requiere una causa externa.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p16",
+      "contexto": "Como parte de una sesión de aprendizaje, Leonardo, un estudiante, realiza el siguiente comentario: \"Basta con que un grupo de animales se parezcan bastante entre sí para que sean de una misma especie\". La docente tiene como propósito que el estudiante empiece a modificar su concepto de \"especie\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes ejemplos es más pertinente utilizar para lograr este propósito?",
+          "opciones": [
+            "Las características físicas que comparten llamas y vicuñas que habitan en nuestro país.",
+            "La descendencia que se genera a partir de la reproducción entre una yegua y un burro.",
+            "La distribución geográfica de lo que comúnmente se denomina \"perro doméstico\"."
+          ],
+          "respuesta": "La descendencia que se genera a partir de la reproducción entre una yegua y un burro.",
+          "respuestaCorta": "El ejemplo de la mula, descendencia estéril de una yegua y un burro, es el más pertinente para demostrar que el criterio clave de especie no es la similitud, sino la capacidad de producir descendencia fértil.",
+          "solucionario": "El concepto biológico de especie define a los individuos que pueden reproducirse entre sí y dejar descendencia fértil. La idea de Leonardo se basa solo en la apariencia (concepto morfológico). El ejemplo de la yegua y el burro es ideal para generar un conflicto cognitivo: aunque son animales que pueden reproducirse, su descendencia, la mula, es estéril. Esto demuestra de manera contundente que, a pesar de poder cruzarse, no pertenecen a la misma especie, obligando a Leonardo a reconsiderar su definición y a incorporar el criterio de la fertilidad de la descendencia.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p17",
+      "contexto": "Los homínidos que caminaban en cuatro patas tenían una columna vertebral que se alineaba en posición horizontal, es decir, paralela al suelo, por lo que su estructura anatómica tenía un soporte muy fuerte. Hace unos cinco millones de años, la columna de los homínidos cambió a una posición vertical. A la par, los homínidos desarrollaron un cerebro grande y pesado, por lo que individuos con la columna encorvada soportaron mejor el peso de la cabeza. Por consiguiente, los descendientes de los homínidos tuvieron en adelante, en su mayoría, una columna vertebral encorvada, ya que nacían con esta.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es el mecanismo de evolución que explica este fenómeno?",
+          "opciones": [
+            "La deriva génica.",
+            "La mutación dirigida.",
+            "La selección natural."
+          ],
+          "respuesta": "La selección natural.",
+          "respuestaCorta": "El texto describe cómo una característica (columna encorvada) confirió una ventaja para la supervivencia (soportar un cerebro pesado), lo que llevó a que sus portadores tuvieran más descendencia. Esto es selección natural.",
+          "solucionario": "El fenómeno descrito es un ejemplo clásico de selección natural. Hubo una variación en la forma de la columna vertebral entre los homínidos. El cambio a una postura vertical y el aumento del tamaño del cerebro actuaron como una presión selectiva. Aquellos individuos con una columna encorvada tenían una ventaja adaptativa, ya que podían soportar mejor el peso de la cabeza. Como resultado, tuvieron más probabilidades de sobrevivir y reproducirse, transmitiendo esta característica a sus descendientes. Con el tiempo, esta característica se volvió predominante en la población.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p18",
+      "contexto": "Una docente se encuentra desarrollando una unidad didáctica sobre genética. Como parte de una de las sesiones de la unidad, Alicia, una de las estudiantes, realiza el siguiente comentario: \"El otro día estuve viendo un documental sobre la genética de la mosca de la fruta. Pienso que la mosca de la fruta tiene menos cromosomas que el ser humano. Seguramente, el genoma de esta mosca no tiene nada en común con el nuestro\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es el error que se evidencia en el comentario de la estudiante?",
+          "opciones": [
+            "Creer que, al igual que el ser humano, la mosca de la fruta presenta cromosomas.",
+            "Creer que el genoma de la mosca de la fruta es completamente diferente al del ser humano.",
+            "Creer que el número de cromosomas que presenta la mosca de la fruta es menor al que presenta los seres humanos."
+          ],
+          "respuesta": "Creer que el genoma de la mosca de la fruta es completamente diferente al del ser humano.",
+          "respuestaCorta": "El error es suponer que una diferencia en el número de cromosomas implica una ausencia total de similitud genética. Ambos genomas comparten muchos genes por su ancestría común.",
+          "solucionario": "La primera parte del comentario de Alicia es correcta: la mosca de la fruta (Drosophila melanogaster) tiene 8 cromosomas, mientras que los humanos tienen 46. El error radica en la conclusión que extrae de este hecho. Asumir que por tener diferente número de cromosomas los genomas no tienen \"nada en común\" es incorrecto. Debido a la evolución a partir de un ancestro común, humanos y moscas comparten una cantidad significativa de genes homólogos, que codifican para funciones biológicas básicas y rutas de desarrollo fundamentales. De hecho, se estima que alrededor del 60% de los genes asociados a enfermedades en humanos tienen una contraparte en el genoma de la mosca de la fruta.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p19",
+      "contexto": "Un docente se encuentra realizando una unidad didáctica que tiene como propósito que los estudiantes expliquen los factores que afectan la velocidad de las reacciones químicas. Como parte de una de las sesiones de aprendizaje, César, uno de los estudiantes, realiza el siguiente comentario:\n\"El fin de semana empastaron la fachada de mi casa. Vi que mezclaron yeso en polvo con agua hasta formar una pasta espesa, pero se secó rapidito y no pudieron terminar. Me asusté al tocar la parte de la pared que sí llegaron a empastar: ¡estaba muy caliente!\".\nEl estudiante también comenta lo siguiente:\n\"Mi tío me contó que, en la fábrica, a veces le ponen sustancias al yeso para que, al echarle agua, la pasta que se forma se endurezca más lento\".\nLos estudiantes se muestran interesados en indagar sobre las sustancias que permiten retardar el endurecimiento de la pasta que se forma entre el yeso y el agua. Algunos estudiantes comentan que se usa azúcar para este fin. En ese sentido, el docente les solicita plantear propuestas de indagación. A continuación, se muestra la propuesta de un equipo de estudiantes:\nHipótesis\nNosotros creemos que el tiempo de endurecimiento de la pasta que se forma entre el yeso y el agua depende de la cantidad de azúcar que le agreguemos.\nProcedimiento\n1. Conseguir yeso en polvo, agua, azúcar, un cronómetro y vasitos descartables iguales.\n2. Llenar cada vasito con agua hasta la tercera parte y rotularlos como: \"vaso 1\", \"vaso 2\" y \"vaso 3\".\n3. Agregar una cucharadita de azúcar al vaso 2 y dos cucharaditas de azúcar al vaso 3. No agregaremos azúcar al vaso 1.\n4. Agregar la misma cantidad de yeso en los tres vasos y mover con la cucharita por dos minutos.\n5. Registrar el tiempo que demoran en endurecer las pastas formadas en cada vaso.\n6. Repetir los pasos del 2 al 5 por lo menos en dos oportunidades más.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "El estudiante comentó que, al tocar la parte de la pared que se empastó, esta se encontraba caliente. ¿Por qué se incrementó la temperatura de la pared empastada?",
+          "opciones": [
+            "Porque la reacción química que ocurrió entre el yeso y el agua desprendió energía en forma de calor.",
+            "Porque la reacción química que ocurrió entre el yeso y el agua absorbió la temperatura del ambiente.",
+            "Porque la reacción química que ocurrió entre el yeso y el agua liberó vapor de agua, el cual se encontraba a 100°C."
+          ],
+          "respuesta": "Porque la reacción química que ocurrió entre el yeso y el agua desprendió energía en forma de calor.",
+          "respuestaCorta": "El aumento de temperatura se debe a que la reacción de fraguado del yeso es exotérmica, es decir, libera energía en forma de calor al entorno.",
+          "solucionario": "Cuando una reacción química libera energía al ambiente, generalmente en forma de calor, se denomina reacción exotérmica. Esto provoca un aumento de la temperatura del sistema y sus alrededores. El proceso de endurecimiento o fraguado del yeso (sulfato de calcio hemihidratado) al reaccionar con el agua para formar sulfato de calcio dihidratado es una reacción exotérmica conocida. La sensación de calor que percibió el estudiante al tocar la pared es la evidencia directa de esta liberación de energía.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes ajustes es pertinente que los estudiantes realicen en su propuesta de indagación?",
+          "opciones": [
+            "Que los vasos sean preparados y rotulados por unos miembros del equipo y, otros miembros midan el tiempo de endurecimiento sin saber cuál vaso tiene más azúcar.",
+            "Que se empleen varios cronómetros para que los miembros del equipo registren el tiempo que demoran en endurecer las pastas formadas en cada vaso.",
+            "Que la cantidad de yeso sea igual a la cantidad de azúcar agregada, de manera que cada vaso tenga las mismas proporciones de cada componente."
+          ],
+          "respuesta": "Que los vasos sean preparados y rotulados por unos miembros del equipo y, otros miembros midan el tiempo de endurecimiento sin saber cuál vaso tiene más azúcar.",
+          "respuestaCorta": "Este ajuste, conocido como procedimiento 'ciego', es pertinente porque reduce el sesgo del observador, haciendo que las mediciones del tiempo sean más objetivas.",
+          "solucionario": "La objetividad es un pilar en la investigación científica. El sesgo del observador ocurre cuando las expectativas del experimentador influyen inconscientemente en la forma en que se toman los datos. Si el estudiante que mide el tiempo sabe qué vaso se espera que endurezca más lento, podría (incluso sin querer) registrar los tiempos de una manera que confirme su hipótesis. Al hacer que la medición sea 'ciega' (el observador no conoce las condiciones de cada muestra), se minimiza este sesgo y se aumenta la fiabilidad de los resultados.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Cuál es la variable independiente en la propuesta de indagación de los estudiantes?",
+          "opciones": [
+            "La cantidad de agua en cada vaso.",
+            "La cantidad de azúcar en cada vaso.",
+            "El tiempo de endurecimiento de las pastas en cada vaso."
+          ],
+          "respuesta": "La cantidad de azúcar en cada vaso.",
+          "respuestaCorta": "La variable independiente es la cantidad de azúcar, ya que es el factor que los estudiantes manipulan deliberadamente para observar su efecto.",
+          "solucionario": "En un diseño experimental, la variable independiente es aquella que el investigador cambia o controla intencionadamente para ver qué efecto tiene. En este caso, los estudiantes están probando diferentes cantidades de azúcar (cero, una y dos cucharaditas) para ver cómo influye en el endurecimiento. Por lo tanto, la cantidad de azúcar es la variable independiente. El tiempo de endurecimiento es la variable dependiente (lo que se mide), y la cantidad de agua y yeso son variables controladas (se mantienen constantes).",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p20",
+      "contexto": "Durante una sesión de aprendizaje, una estudiante comenta lo siguiente: \"Los desodorantes antitranspirantes contienen aluminio o piedra de alumbre; por eso, producen enfermedades incurables\". La docente tiene como propósito que la estudiante reflexione sobre el error evidenciado en su comentario.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes acciones pedagógicas es más pertinente que realice con la estudiante?",
+          "opciones": [
+            "Preguntarle por qué cree que aun cuando existen algunas sustancias orgánicas y naturales con efecto antitranspirante, las personas no reemplazan el uso de desodorantes que contienen aluminio o piedra de alumbre y son perjudiciales para la salud.",
+            "Proporcionarle fuentes confiables acerca de la posible relación entre el aluminio presente en los desodorantes antitranspirantes y el padecer de enfermedades incurables para que identifique las evidencias que apoyan o refutan dicha relación.",
+            "Comentarle que todavía no se ha demostrado científicamente la relación entre el aluminio presente en los desodorantes antitranspirantes y el padecer de enfermedades incurables."
+          ],
+          "respuesta": "Proporcionarle fuentes confiables acerca de la posible relación entre el aluminio presente en los desodorantes antitranspirantes y el padecer de enfermedades incurables para que identifique las evidencias que apoyan o refutan dicha relación.",
+          "respuestaCorta": "La acción más pertinente es fomentar la alfabetización científica, guiando a la estudiante a analizar evidencia de fuentes fiables para que ella misma evalúe y corrija su afirmación.",
+          "solucionario": "La afirmación de la estudiante es una creencia popular que carece de un sólido respaldo científico. La opción A desvía el tema. La opción C le da la respuesta directamente, lo cual es menos efectivo pedagógicamente. La opción B es la más pertinente porque promueve el pensamiento crítico y las habilidades de investigación. Al guiar a la estudiante a consultar y analizar fuentes científicas confiables (como revisiones de agencias de salud), se le da la herramienta para que ella misma contraste su creencia con la evidencia disponible y construya un conocimiento más sólido y fundamentado, aprendiendo a diferenciar entre opinión y evidencia científica.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p21",
+      "contexto": "Una docente sospecha que un equipo de estudiantes ha plagiado diversa información en el marco teórico de su informe de indagación.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes alternativas presenta un indicio que apoya la sospecha de la docente?",
+          "opciones": [
+            "Presencia de párrafos con información entre comillas.",
+            "Presencia de párrafos escritos con un lenguaje muy especializado, sin ninguna referencia.",
+            "Presencia de referencias bibliográficas en idiomas distintos al que dominan los estudiantes."
+          ],
+          "respuesta": "Presencia de párrafos escritos con un lenguaje muy especializado, sin ninguna referencia.",
+          "respuestaCorta": "Un cambio abrupto a un lenguaje técnico y especializado, inconsistente con el estilo del estudiante y sin citar la fuente, es un fuerte indicio de plagio por 'copiar y pegar'.",
+          "solucionario": "El uso de comillas (opción A) es, de hecho, la forma correcta de citar textualmente, por lo que no indica plagio. El uso de referencias en otros idiomas (opción C) puede ser válido si se usaron traductores o se tiene conocimiento del idioma. Sin embargo, la opción B es un claro indicio de plagio. Cuando un texto cambia repentinamente a un registro académico o técnico muy avanzado, que no corresponde al nivel de escritura habitual del estudiante, y además no se atribuye a ninguna fuente, la inferencia más probable es que el párrafo ha sido copiado directamente de una publicación especializada sin la debida citación.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p22",
+      "contexto": "Una docente se encuentra desarrollando una unidad didáctica sobre la evolución. Como parte de una de las sesiones de la unidad, Mateo, uno de los estudiantes, realiza el siguiente comentario: \"Mi tía, coloca pequeñas cantidades de insecticida sobre el pelaje de nuestro perro como protección antipulgas. Yo creo que eso no está bien porque muchas de esas pulgas, lejos de morir, aprenden, se reproducen y se hacen más resistentes junto con sus crías\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es el error que se evidencia en el comentario del estudiante?",
+          "opciones": [
+            "Creer que las crías de las pulgas heredan caracteres adquiridos por aprendizaje, como por ejemplo, la resistencia a los insecticidas.",
+            "Creer que las crías de las pulgas resistentes al insecticida aportan más descendientes a la siguiente camada.",
+            "Creer que algunas de las crías de las pulgas resistentes al insecticida pueden morir al ser expuestas a este."
+          ],
+          "respuesta": "Creer que las crías de las pulgas heredan caracteres adquiridos por aprendizaje, como por ejemplo, la resistencia a los insecticidas.",
+          "respuestaCorta": "El error del estudiante es una concepción lamarckiana: creer que la resistencia es un rasgo 'aprendido' que luego se hereda, en lugar de ser un rasgo genético preexistente seleccionado por el insecticida.",
+          "solucionario": "Mateo confunde el mecanismo de la evolución. Él sugiere que las pulgas individualmente 'aprenden' a ser resistentes y que esta habilidad adquirida durante su vida se transmite a su descendencia. Esta es la idea central de la teoría de la herencia de los caracteres adquiridos de Lamarck, que ha sido refutada. La explicación correcta, basada en la selección natural de Darwin, es que dentro de la población de pulgas ya existe una variación genética; algunas pulgas nacen con genes que les confieren resistencia. El insecticida actúa como un agente selectivo, eliminando a las pulgas susceptibles, mientras que las resistentes sobreviven, se reproducen y transmiten esos genes de resistencia a sus crías.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+
+ 
+    {
+      "idGrupo": "asc_secundaria_2023_p23",
+      "contexto": "El petróleo\nEl petróleo, también conocido como \"oro negro\", es una mezcla de hidrocarburos provenientes de restos orgánicos fósiles, acumulados por millones de años debajo de los océanos o continentes y sometidos a procesos químicos, favorecidos por alta presión y temperatura. Para aprovechar este recurso, la actividad petrolera realiza varios pasos: exploración, explotación, refinación, transporte, almacenamiento y servicio de apoyo del petróleo. Esto hace posible contar con una amplia variedad de productos comerciales, como por ejemplo combustibles, lubricantes, parafinas, entre otros.\nA continuación, se presenta una tabla con el punto de ebullición de algunos de los hidrocarburos presentes en el petróleo. Dado que los hidrocarburos presentes en el petróleo tienen diferentes puntos de ebullición, estos se pueden separar y ser comercializados individualmente. Para poder separarlos, el crudo de petróleo debe pasar por un proceso que se realiza en una torre de fraccionamiento. Esta torre presenta un horno en su base y una columna de enfriamiento. El proceso consiste en calentar el crudo de petróleo hasta 400°C y hacer pasar a través de la columna los vapores que se generan. Estos vapores ascienden por la columna, se van enfriando, condensando y se recogen a diferentes alturas.",
+      "imagen": "img/ascenso/secundaria/2022/cyt/5.jpg",
+      "preguntas": [
+        {
+          "pregunta": "Cuando se mezclan petróleo y agua, el petróleo flota en esta. ¿Cuál de las siguientes es una de las propiedades del petróleo que explica este hecho?",
+          "opciones": [
+            "La viscosidad.",
+            "La volatilidad.",
+            "La polaridad."
+          ],
+          "respuesta": "La polaridad.",
+          "respuestaCorta": "El hecho de que el petróleo y el agua no se mezclen se debe a sus diferentes polaridades; el petróleo es no polar mientras que el agua es polar, lo que los hace inmiscibles.",
+          "solucionario": "El que el petróleo flote sobre el agua se debe a que es menos denso que esta. Sin embargo, la razón por la que forman dos capas separadas y no se mezclan es su diferencia de polaridad. El agua es una molécula polar, mientras que los hidrocarburos que componen el petróleo son moléculas no polares. Según el principio de \"lo semejante disuelve a lo semejante\", las sustancias polares y no polares no se disuelven entre sí, es decir, son inmiscibles.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "A partir de la información presentada, ¿cuál de los hidrocarburos se encuentra en estado gaseoso a 25°C?",
+          "opciones": [
+            "El etano.",
+            "El octano.",
+            "El pentano."
+          ],
+          "respuesta": "El etano.",
+          "respuestaCorta": "El etano es un gas a 25°C porque su punto de ebullición (-88,6°C) es muy inferior a la temperatura ambiente de 25°C.",
+          "solucionario": "Una sustancia se encuentra en estado gaseoso cuando la temperatura ambiente es superior a su punto de ebullición. Analizando los datos de la tabla para una temperatura de 25°C:\n- El punto de ebullición del etano es -88,6°C. Como 25°C > -88,6°C, el etano ya ha hervido y es un gas.\n- El punto de ebullición del octano es 125,7°C. Como 25°C < 125,7°C, el octano es un líquido.\n- El punto de ebullición del pentano es 36,1°C. Como 25°C < 36,1°C, el pentano también es un líquido.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "De acuerdo con el procesamiento del crudo de petróleo, ¿cuál de los siguientes hidrocarburos se colectaría en lo más alto de la columna de fraccionamiento?",
+          "opciones": [
+            "El pentano.",
+            "El metano.",
+            "El octano."
+          ],
+          "respuesta": "El metano.",
+          "respuestaCorta": "En la destilación fraccionada, las sustancias con menor punto de ebullición suben más alto en la columna. El metano, con -161,7°C, tiene el punto de ebullición más bajo de todos.",
+          "solucionario": "El proceso de destilación fraccionada separa los componentes de una mezcla líquida basándose en sus diferentes puntos de ebullición. Al calentar el crudo, todos los componentes se vaporizan. A medida que los vapores ascienden por la torre de fraccionamiento, se enfrían. Los componentes con puntos de ebullición más altos se condensan a temperaturas más altas en la parte baja de la torre. Los componentes con puntos de ebullición más bajos, como el metano (-161,7°C), son los más volátiles y continúan ascendiendo hasta las zonas más frías en la parte superior de la torre antes de condensarse y ser recolectados.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p24",
+      "contexto": "Como parte de una unidad didáctica sobre cómo está conformada la atmósfera, una docente plantea a los estudiantes la siguiente situación:\n\"Sabemos que el aire es una mezcla compuesta aproximadamente de 78% de nitrógeno, 21% de oxígeno, 0,93% de argón, 0,04% de dióxido de carbono y pequeñas cantidades de otros gases. ¿Cómo podríamos comprobar el porcentaje de oxígeno presente en el aire?\".\nLos estudiantes conforman equipos de trabajo para responder a la pregunta planteada por la docente. A continuación, se presenta la respuesta de uno de los equipos:\nComprobaremos el porcentaje de oxígeno presente en el aire a partir de la formación del óxido de hierro. Para ello, haremos reaccionar el hierro con el oxígeno mediante la siguiente experiencia:\n1. Llenaremos con agua la mitad de una bandeja de plástico.\n2. Introduciremos 2 rollitos nuevos de lana de hierro (la que se usa para limpiar las ollas) dentro de una probeta de 100 mL, de tal manera que se queden en la base de esta. La cantidad de lana de hierro deberá ser suficiente para reaccionar con el oxígeno.\n3. Colocaremos esta probeta boca abajo, en la bandeja con agua (los rollitos deben quedarse en la base de la probeta), para que inicie la reacción.\n4. Como la experiencia tomará bastante tiempo, la realizaremos de un día para otro y hasta en tres oportunidades.\n5. Esperaremos hasta que ya no se observe ningún cambio en el nivel del agua dentro de la probeta ni en la apariencia de los rollitos de lana de hierro. Registraremos los resultados en la siguiente tabla de datos:",
+      "imagen": "img/ascenso/secundaria/2022/cyt/6.jpg",
+      "preguntas": [
+        {
+          "pregunta": "Tomando en cuenta el propósito de la experiencia, ¿qué procedimiento deben incluir los estudiantes?",
+          "opciones": [
+            "Realizar los cálculos estequiométricos de la reacción química entre el hierro y el oxígeno del aire.",
+            "Identificar la relación porcentual entre el volumen de oxígeno consumido y el volumen inicial del aire.",
+            "Emplear una probeta de mayor capacidad de tal manera que se pueda utilizar una mayor muestra de aire para obtener oxígeno."
+          ],
+          "respuesta": "Identificar la relación porcentual entre el volumen de oxígeno consumido y el volumen inicial del aire.",
+          "respuestaCorta": "Para cumplir el propósito, deben calcular el volumen de oxígeno consumido (volumen inicial - volumen final) y luego expresarlo como un porcentaje del volumen inicial de aire.",
+          "solucionario": "El objetivo de la indagación es comprobar el porcentaje de oxígeno en el aire. El experimento mide el volumen de aire inicial atrapado en la probeta. A medida que el oxígeno reacciona con el hierro, la presión dentro de la probeta disminuye y el agua sube, ocupando el volumen del oxígeno consumido. El volumen final de aire registrado corresponde a los gases que no reaccionaron (principalmente nitrógeno). Por lo tanto, el procedimiento clave para alcanzar el objetivo es: 1) Calcular el volumen de oxígeno consumido (V_inicial - V_final) y 2) Calcular el porcentaje que este volumen representa respecto al volumen inicial de aire: [(V_inicial - V_final) / V_inicial] * 100.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Ronald, uno de los integrantes del equipo, comenta lo siguiente: \"Yo estoy encargado de conseguir la lana de hierro para la experiencia. La he buscado en varias ferreterías cerca a mi casa, pero solo he conseguido unos cuantos hilitos de hierro. Sin embargo, esto no me preocupa porque no importa cuánto hierro utilicemos para obtener óxido de hierro, igual vamos a poder identificar el contenido total de oxígeno presente en el aire dentro de la probeta\". ¿Cuál es el error que se evidencia en el comentario del estudiante?",
+          "opciones": [
+            "Creer que los hilos de hierro reaccionan con el oxígeno del aire y forman óxido de hierro.",
+            "Creer que tanto la lana de hierro como los hilos de hierro presentan la misma composición química.",
+            "Creer que la cantidad empleada de hierro será suficiente para determinar el porcentaje de oxígeno en el aire."
+          ],
+          "respuesta": "Creer que la cantidad empleada de hierro será suficiente para determinar el porcentaje de oxígeno en el aire.",
+          "respuestaCorta": "El error es un desconocimiento del concepto de reactivo limitante; si la cantidad de hierro es insuficiente, este se agotará antes de que todo el oxígeno reaccione, llevando a una medición incorrecta.",
+          "solucionario": "Para que el experimento funcione correctamente y se pueda medir todo el oxígeno presente en la probeta, el hierro debe ser el reactivo en exceso. Esto garantiza que haya suficientes átomos de hierro para reaccionar con todas las moléculas de oxígeno disponibles. Si el hierro es el reactivo limitante (es decir, hay muy poca cantidad, como sugiere Ronald), se consumirá por completo antes de que todo el oxígeno haya reaccionado. Como resultado, la subida del agua será menor de la que debería, y el porcentaje de oxígeno calculado será erróneamente bajo.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Qué ocurre con el oxígeno de la probeta en la reacción que se lleva a cabo en la experiencia?",
+          "opciones": [
+            "Se oxida.",
+            "Se reduce.",
+            "Conserva su estado de oxidación."
+          ],
+          "respuesta": "Se reduce.",
+          "respuestaCorta": "En la reacción de oxidación del hierro, el oxígeno actúa como agente oxidante, lo que significa que gana electrones y, por lo tanto, se reduce.",
+          "solucionario": "La reacción que ocurre es la oxidación del hierro: 4Fe + 3O2 -> 2Fe2O3. En esta reacción redox, se deben analizar los estados de oxidación. El hierro elemental (Fe) tiene un estado de oxidación de 0 y en el producto (Fe2O3) pasa a +3; por lo tanto, el hierro pierde electrones (se oxida). El oxígeno molecular (O2) tiene un estado de oxidación de 0 y en el producto (Fe2O3) pasa a -2. Para ello, cada átomo de oxígeno debe ganar electrones. El proceso de ganar electrones se define como reducción. Por lo tanto, el oxígeno se reduce.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p25",
+      "contexto": "Como parte de una unidad didáctica que tiene como propósito que los estudiantes describan las relaciones cuantitativas en las reacciones químicas, los estudiantes, en equipos, realizan diferentes actividades. A continuación, se presenta una de las actividades realizada por un equipo de estudiantes:\n1. Consiguen 12 clavos de hierro iguales. Todos los clavos están cubiertos de óxido.\n2. Identifican la masa del grupo de 12 clavos empleando una balanza. La masa del grupo de clavos es 5,1 gramos.\n3. Utilizan una lija para retirar el óxido que cubre cada uno de los 12 clavos.\n4. Luego de lijar los clavos, los estudiantes identifican que la masa de los clavos lijados es 4,8 gramos y la masa de la lijadura de óxido de hierro es 0,3 gramos.\nAdemás, anotan la siguiente ecuación en sus cuadernos:\n4Fe + 3O2 -> 2Fe2O3\n5. Finalmente, los estudiantes calculan el número de moles, empleando las siguientes masas atómicas:\nHierro: 55,85 u\nOxígeno: 16,00 u",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "El docente les pregunta a los estudiantes: \"¿En qué proporción se consumen los reactivos en la formación de 2 moles de óxido de hierro?\". A continuación, se presentan las respuestas de tres estudiantes. ¿Cuál de ellos responde correctamente a la pregunta planteada por el docente?",
+          "opciones": [
+            "Alma dice: \"La formación del óxido consumió más moles de hierro de los clavos que de oxígeno molecular del aire\".",
+            "Brenda dice: \"La formación del óxido consumió menos moles de hierro de los clavos que de oxígeno molecular del aire\".",
+            "Carol dice: \"La formación del óxido consumió igual cantidad de moles de hierro de los clavos que de oxígeno molecular del aire\"."
+          ],
+          "respuesta": "Alma dice: \"La formación del óxido consumió más moles de hierro de los clavos que de oxígeno molecular del aire\".",
+          "respuestaCorta": "Según la ecuación balanceada 4Fe + 3O2 -> 2Fe2O3, la relación molar de los reactivos es de 4 moles de Fe por cada 3 moles de O2, por lo tanto, se consumen más moles de hierro.",
+          "solucionario": "La estequiometría de una reacción química se lee en los coeficientes de la ecuación balanceada. La ecuación es 4Fe + 3O2 -> 2Fe2O3. Estos números indican la proporción en moles. Para producir 2 moles del producto (óxido de hierro III), la reacción consume exactamente 4 moles de hierro (Fe) y 3 moles de oxígeno molecular (O2). Comparando las cantidades, 4 moles es mayor que 3 moles. Por consiguiente, la afirmación de Alma es la correcta.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Rosa, otra de las integrantes del equipo, comenta lo siguiente: \"Yo creo que, para saber cuánta masa han perdido los clavos oxidados, sería mejor comprar una bolsa de 12 clavos iguales a los que estamos usando, pero nuevos; utilizar la misma balanza para identificar la masa de este grupo de clavos nuevos, y compararla con la masa del grupo de clavos oxidados después de lijarlos\". El docente tiene como propósito que la estudiante reflexione sobre el error evidenciado en su comentario. ¿En cuál de los siguientes aspectos debería el docente centrar la retroalimentación?",
+          "opciones": [
+            "En las posibles diferencias entre las masas del grupo de clavos nuevos y el grupo de clavos oxidados luego de lijarlos.",
+            "En la cantidad de veces que se deberá medir y registrar las masas de los grupos de clavos que se empleará.",
+            "En las características del instrumento que se empleará para identificar las masas de los grupos de clavos."
+          ],
+          "respuesta": "En las posibles diferencias entre las masas del grupo de clavos nuevos y el grupo de clavos oxidados luego de lijarlos.",
+          "respuestaCorta": "La retroalimentación debe centrarse en el error de suponer que un lote 'nuevo' de clavos tendrá exactamente la misma masa que el lote original antes de oxidarse, ignorando la variabilidad de la muestra.",
+          "solucionario": "El procedimiento propuesto por Rosa introduce una fuente de error significativa: la variabilidad entre muestras. Aunque los clavos nuevos sean del mismo tipo, es muy poco probable que un grupo de 12 clavos nuevos tenga exactamente la misma masa que tenía el grupo original de 12 clavos antes de que se oxidaran. El método original del equipo (pesar los clavos oxidados, lijarlos y volver a pesarlos) es mucho más preciso porque utiliza el mismo objeto de estudio (los mismos clavos) para la medición inicial (implícita) y final, eliminando así la variabilidad entre diferentes grupos de clavos. La retroalimentación del docente debe guiar a Rosa a reconocer este problema de control experimental.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p26",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Teniendo en cuenta que la masa atómica del hierro es 55,85 u y la del oxígeno es 16,00 u. ¿Cuál de las siguientes sustancias contiene un mayor número de átomos?",
+          "opciones": [
+            "1,0 g de Fe",
+            "1,0 g de O2",
+            "1,0 g de Fe2O3"
+          ],
+          "respuesta": "1,0 g de O2",
+          "respuestaCorta": "En una misma masa, la sustancia con la menor masa molar por átomo tendrá el mayor número de átomos. El oxígeno (16 u/átomo) es más ligero que el hierro (55,85 u/átomo).",
+          "solucionario": "Para comparar el número de átomos en la misma masa (1,0 g), debemos considerar la masa de cada átomo individual. Un átomo de hierro es mucho más pesado (55,85 u) que un átomo de oxígeno (16,00 u). Por lo tanto, en un gramo caben muchos más átomos de oxígeno que de hierro. Calculando los moles de átomos en cada caso:\n- 1g Fe: 1 / 55,85 = 0,0179 moles de átomos.\n- 1g O2: (1 / 32,00) moles de moléculas * 2 átomos/molécula = 0,0625 moles de átomos.\n- 1g Fe2O3: (1 / 159,7) moles de fórmula * 5 átomos/fórmula = 0,0313 moles de átomos.\nComparando los resultados, 1,0 g de O2 contiene el mayor número de átomos.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p27",
+      "contexto": "Un docente pregunta a sus estudiantes cuál es la diferencia entre un elemento químico y un compuesto químico. A continuación, se presenta la respuesta de uno de ellos:\n\"Por ejemplo, el oxígeno es un elemento porque tiene un átomo y el ozono es un compuesto porque tiene tres átomos de oxígeno\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es el error que se evidencia en la respuesta del estudiante?",
+          "opciones": [
+            "Creer que un compuesto químico es una sustancia pura.",
+            "Creer que los elementos químicos pueden encontrarse naturalmente como átomos aislados.",
+            "Creer que la cantidad de átomos es un criterio suficiente para clasificar a una sustancia como compuesto químico."
+          ],
+          "respuesta": "Creer que la cantidad de átomos es un criterio suficiente para clasificar a una sustancia como compuesto químico.",
+          "respuestaCorta": "El error es definir 'compuesto' por el número de átomos. La definición correcta de compuesto es una sustancia formada por dos o más elementos diferentes.",
+          "solucionario": "El estudiante confunde los conceptos. Tanto el oxígeno diatómico (O2) como el ozono (O3) son formas alotrópicas del *elemento* oxígeno; son sustancias puras simples. Un *compuesto* químico es una sustancia pura formada por la unión química de átomos de *dos o más elementos diferentes* en proporciones fijas (por ejemplo, el agua, H2O). El error del estudiante es usar la atomicidad (el número de átomos en la molécula) como criterio para definir un compuesto, en lugar del criterio correcto, que es la presencia de diferentes tipos de elementos.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p28",
+      "contexto": "A continuación, se presenta parte del diálogo entre una docente y los estudiantes al inicio de una unidad didáctica.\nDocente dice: Hay muchos objetos que podemos diferenciar a simple vista, pero en algunos casos no es tan fácil. Por ejemplo, ¿pueden diferenciar a simple vista el azúcar blanca de la sal común o del hielo picado?\nBetty dice: El hielo sí es fácil de diferenciar porque está más frío. Pero en el caso del azúcar y la sal no es fácil. Una vez los confundí y malogré el jugo que me estaba preparando.\nElisa dice: Por eso, yo siempre pruebo un poco antes de echarlos a los jugos o la comida.\nDocente dice: Pero hay otras sustancias que se ven muy parecidas al azúcar, la sal y el hielo que no podemos probar, por ejemplo, el cianuro de sodio, ¡un poderoso veneno! ¿Cómo podríamos diferenciar la sal del azúcar o del hielo, sin probarlos, olerlos o tocarlos?\nMaría dice: Mmm... es difícil porque todos se disuelven en agua.\nMoisés dice: Sí, se disuelven en agua, pero no en la misma cantidad.\nSantiago dice: ¡Ya sé! He visto que el hielo se derrite muy fácil y también he visto derretir azúcar para hacer caramelo, pero nunca he visto que derritan sal. Yo creo que por su composición química la sal no se puede derretir tan fácil como el hielo o el azúcar.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes aprendizajes se evidencia en la intervención de Santiago?",
+          "opciones": [
+            "Formula hipótesis para llevar a cabo una indagación.",
+            "Identifica múltiples causas para explicar un fenómeno.",
+            "Propone estrategias para evaluar la validez de su hipótesis."
+          ],
+          "respuesta": "Formula hipótesis para llevar a cabo una indagación.",
+          "respuestaCorta": "La intervención de Santiago es una hipótesis porque propone una explicación verificable ('la sal no se derrite fácil por su composición') para una observación (diferentes comportamientos al calor).",
+          "solucionario": "Santiago parte de observaciones previas (el hielo y el azúcar se derriten, la sal no lo hace fácilmente) y propone una explicación causal y contrastable: la diferencia en el punto de fusión se debe a la 'composición química'. Esta afirmación es una hipótesis, ya que es una suposición que puede ser sometida a prueba mediante una indagación (por ejemplo, midiendo los puntos de fusión de las tres sustancias). No está identificando múltiples causas ni proponiendo cómo evaluar su hipótesis, sino que está formulando la hipótesis misma.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "La docente organizó las ideas de los estudiantes que surgieron durante el diálogo y les solicitó que se distribuyan en equipos para completar la siguiente tabla: \nLuego, les solicita que, apoyándose en la información que completaron en la tabla, respondan la siguiente pregunta:\n¿En cuál de las tres sustancias, las fuerzas que unen a sus partículas son mayores? Expliquen su respuesta considerando la información de la tabla.\n¿Cuál es el propósito de aprendizaje de las actividades propuestas por la docente?",
+          "imagen": "img/ascenso/secundaria/2022/cyt/7.jpg",
+          "opciones": [
+            "Que los estudiantes diferencien propiedades químicas de compuestos iónicos y moleculares.",
+            "Que los estudiantes expliquen las diferencias entre las propiedades macroscópicas de sólidos y líquidos.",
+            "Que los estudiantes vinculen propiedades físicas de compuestos iónicos y moleculares con el tipo de interacción que opera entre moléculas o iones."
+          ],
+          "respuesta": "Que los estudiantes vinculen propiedades físicas de compuestos iónicos y moleculares con el tipo de interacción que opera entre moléculas o iones.",
+          "respuestaCorta": "El propósito es que los estudiantes relacionen una propiedad macroscópica observable (punto de fusión) con la fuerza de las interacciones a nivel microscópico (iónicas vs. moleculares).",
+          "solucionario": "La actividad está diseñada para que los estudiantes, al completar la tabla, observen que la sal (compuesto iónico, NaCl) tiene un punto de fusión mucho más alto que el azúcar (compuesto molecular, C12H22O11) y el hielo (compuesto molecular, H2O). La pregunta final los guía a inferir que se necesita más energía (mayor temperatura) para romper las uniones en la sal. El propósito central es que establezcan el vínculo fundamental entre el mundo macroscópico (propiedades físicas como el punto de fusión) y el mundo microscópico (la naturaleza y fuerza de los enlaces iónicos en la sal, que son mucho más fuertes que las fuerzas intermoleculares en el azúcar y el hielo).",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+
+ 
+    {
+      "idGrupo": "asc_secundaria_2023_p29",
+      "contexto": "Durante una sesión de aprendizaje sobre el pH de las sustancias, un docente pregunta a los estudiantes lo siguiente:\n\"¿Cuál es el pH de las sustancias ácidas?\".\nA continuación, se presenta la respuesta de Jorge, uno de los estudiantes:\n\"Mientras más ácidas son las sustancias, más alto es su pH. Por ejemplo, el pH del agua se encuentra alrededor de 7. El vinagre es más ácido que el agua, por lo que su pH quizás sea 9 o 10\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es el error que evidencia el estudiante en su respuesta?",
+          "opciones": [
+            "Creer que el pH del agua se encuentra alrededor de 7.",
+            "Creer que el vinagre puede presentar diferentes valores de pH.",
+            "Creer que el pH de las sustancias ácidas corresponde a números mayores que el 7."
+          ],
+          "respuesta": "Creer que el pH de las sustancias ácidas corresponde a números mayores que el 7.",
+          "respuestaCorta": "El error fundamental del estudiante es invertir la escala de pH; las sustancias ácidas tienen un pH menor que 7, no mayor.",
+          "solucionario": "La escala de pH mide la acidez o alcalinidad de una solución. Es una escala inversa: a mayor acidez, menor es el valor del pH. Las sustancias ácidas tienen un pH de 0 a 6.9, las neutras tienen un pH de 7 (como el agua pura), y las básicas o alcalinas tienen un pH de 7.1 a 14. El estudiante comete un error conceptual grave al afirmar que una sustancia más ácida tiene un pH más alto y al situar el vinagre (un ácido) en un pH de 9 o 10, que corresponde a la zona básica.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p30",
+      "contexto": "Un docente se encuentra desarrollando una unidad didáctica sobre las propiedades físicas y químicas de las soluciones. Durante una de las sesiones de aprendizaje de la unidad, Ramón, un estudiante, comenta lo siguiente:\n\"Me he dado cuenta de que es más fácil lavar la ropa con agua del caño, que es potable, que con el agua de la poza. Cuando lavamos la ropa con agua de la poza y detergente, sale menos espuma que cuando lo hacemos con agua del caño. Yo creo que esto se debe a que el agua de la poza tiene más sales y minerales disueltos en ella que el agua del caño\".\nLuego, el docente solicita que los estudiantes, en equipos, planteen propuestas de indagación para identificar si la cantidad de las sales disueltas en el agua influye en la cantidad de espuma de detergente que se forma. A continuación, se presenta la propuesta de un equipo de estudiantes:\n1. Conseguir agua potable, sulfato de magnesio en polvo, un detergente en polvo, dos tubos de ensayo iguales, baguetas, una balanza, una probeta y dos vasos de precipitado.\n2. Utilizar la balanza y la probeta para obtener las cantidades requeridas de cada sustancia y preparar las siguientes soluciones.\nSolución A. Disolver, con una bagueta, 20 g de sulfato de magnesio en 100 mL de agua potable.\nSolución B. Mezclar, con una bagueta, 10 mL de la solución A + 30 mL de agua potable.\n3. Colocar el mismo volumen de cada una de las dos soluciones en un tubo de ensayo, respectivamente.\n4. Agregar 2 g de detergente en polvo a cada tubo, agitar los tubos durante 30 segundos tapándolos con el pulgar.\n5. Observar la altura de la espuma formada en cada tubo de ensayo.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes logros de aprendizaje evidencian los estudiantes en dicha propuesta?",
+          "opciones": [
+            "Identifican procedimientos que permiten controlar las variables que deben mantener constantes.",
+            "Identifican la necesidad de realizar repeticiones para garantizar la confiabilidad de sus resultados.",
+            "Identifican los procedimientos para medir la variable dependiente de su indagación."
+          ],
+          "respuesta": "Identifican procedimientos que permiten controlar las variables que deben mantener constantes.",
+          "respuestaCorta": "El logro se evidencia en que el plan especifica mantener constantes varias condiciones (mismo volumen, misma cantidad de detergente, mismo tiempo de agitación) para asegurar una comparación justa.",
+          "solucionario": "Un buen diseño experimental se caracteriza por el control de variables. En su propuesta, los estudiantes demuestran comprender este principio al indicar que usarán 'tubos de ensayo iguales', 'el mismo volumen de cada una de las dos soluciones', '2 g de detergente en polvo a cada tubo' y agitarán 'durante 30 segundos'. Todas estas son variables controladas, que se mantienen constantes para asegurar que cualquier diferencia observada en la altura de la espuma (la variable dependiente) se deba únicamente a la diferencia en la concentración de sal (la variable independiente).",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Ángela, una estudiante, comenta que, en la propuesta, se debería incluir un tubo de ensayo que contenga solo agua potable y 2 gramos de detergente en polvo. ¿Por qué sería conveniente tomar en cuenta la sugerencia de la estudiante?",
+          "opciones": [
+            "Porque permitiría identificar, en los resultados, la posible influencia de las sales disueltas en el agua potable.",
+            "Porque permitiría reducir la cantidad de sal que se va a emplear en la preparación de cada una de las soluciones.",
+            "Porque permitiría identificar con cuál de las soluciones preparadas, \"A\" o \"B\", se forma mayor espuma."
+          ],
+          "respuesta": "Porque permitiría identificar, en los resultados, la posible influencia de las sales disueltas en el agua potable.",
+          "respuestaCorta": "Incluir un tubo con solo agua potable sirve como un grupo control o línea base, permitiendo comparar el efecto de la sal añadida contra el efecto del agua de partida.",
+          "solucionario": "La sugerencia de Ángela es crucial porque introduce un grupo control. El agua potable no es agua destilada; ya contiene una cierta cantidad de sales disueltas. Al tener un tubo de ensayo solo con agua potable y detergente, se establece una línea base de cuánta espuma se forma en las condiciones iniciales. De esta manera, al comparar los resultados de las soluciones A y B con este control, los estudiantes podrán determinar con mayor certeza si el cambio en la cantidad de espuma se debe al sulfato de magnesio que ellos agregaron, y no a las sales que ya estaban presentes en el agua del caño.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Antonia, una de las integrantes del equipo, ha identificado que se preparará más solución A de la que se necesita para realizar la indagación. ¿Cuál de los siguientes procedimientos se tendría que realizar para preparar 50 mL de la solución A?",
+          "opciones": [
+            "Disolver 20 g de sulfato de magnesio en 50 mL de agua potable.",
+            "Disolver 15 g de sulfato de magnesio en 50 mL de agua potable.",
+            "Disolver 10 g de sulfato de magnesio en 50 mL de agua potable."
+          ],
+          "respuesta": "Disolver 10 g de sulfato de magnesio en 50 mL de agua potable.",
+          "respuestaCorta": "Para mantener la misma concentración, si se reduce el volumen del solvente a la mitad (de 100 mL a 50 mL), la masa del soluto también debe reducirse a la mitad (de 20 g a 10 g).",
+          "solucionario": "La concentración de la solución A original es de 20 g de sulfato de magnesio por cada 100 mL de agua. Para preparar una solución con la misma concentración pero con un volumen diferente, se debe mantener la misma proporción soluto/solvente. Se necesita preparar 50 mL de agua, que es la mitad del volumen original (100 mL / 2 = 50 mL). Por lo tanto, se debe usar también la mitad de la masa original del soluto: 20 g / 2 = 10 g. El procedimiento correcto es disolver 10 g de sulfato de magnesio en 50 mL de agua potable.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p31",
+      "contexto": "Una docente se encuentra desarrollando una unidad didáctica sobre las propiedades de las soluciones. En una de las sesiones de aprendizaje de la unidad, la docente presenta a los estudiantes la siguiente situación:\nLlegaron tres muestras de agua de diferentes lugares del país a un laboratorio. Una muestra era de agua de una laguna, la otra muestra era de agua de lluvia y la última era de agua de mar. Las muestras no llegaron rotuladas, es decir, no tenían nombre, por lo que no se podía saber cuál de las muestras correspondía, por ejemplo, al agua de mar.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "La docente les pregunta a los estudiantes: \"¿Qué procedimiento podríamos utilizar para identificar cuál de las muestras corresponde al agua de mar?\". A continuación, se presentan tres respuestas de los estudiantes. ¿Cuál de ellos responde correctamente a la pregunta planteada por la docente?",
+          "opciones": [
+            "Abel dice: \"Podríamos emplear un circuito eléctrico para identificar qué muestra conduce la corriente eléctrica\".",
+            "Braulio dice: \"Podríamos emplear papel universal y la tabla de equivalencias para identificar qué muestra tiene mayor valor de pH\".",
+            "Celia dice: \"Podríamos emplear una balanza y una probeta para obtener la masa y el volumen, respectivamente, y así identificar qué muestra es más densa\"."
+          ],
+          "respuesta": "Abel dice: \"Podríamos emplear un circuito eléctrico para identificar qué muestra conduce la corriente eléctrica\".",
+          "respuestaCorta": "El agua de mar se distingue por su alta salinidad. Las sales disueltas forman iones que permiten que la solución conduzca la electricidad, una propiedad que la diferencia claramente del agua de lluvia.",
+          "solucionario": "La característica distintiva del agua de mar es su alta concentración de sales disueltas (principalmente cloruro de sodio, NaCl). Cuando estas sales se disuelven en agua, se disocian en iones (Na+ y Cl-) que pueden moverse libremente. La presencia de estos iones cargados en movimiento permite que la solución conduzca la corriente eléctrica. El agua de lluvia, por el contrario, es muy pura y tiene muy pocos iones, por lo que es un mal conductor. Por lo tanto, usar un circuito eléctrico (un conductímetro) para ver qué muestra permite el paso de la corriente es el método más eficaz y distintivo para identificar el agua de mar.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p32",
+      "contexto": "Como parte de una unidad didáctica acerca del cuidado del ambiente y de los recursos renovables y no renovables, un docente realiza la siguiente actividad con los estudiantes:\nComenta que se puede reutilizar el agua usando un filtro casero. Para construir este filtro se necesita una botella de plástico partida en dos. En la parte de la botella con el pico hacia abajo, formando un embudo, se colocan, uno sobre otro, diferentes materiales, como por ejemplo, piedra chancada, arena gruesa y fina, carbón y algodón. Luego, esta parte es encajada sobre la otra parte de la botella, la cual funciona como colector del agua filtrada.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Pregunta a los estudiantes: \"¿De acuerdo con qué característica se tendrían que colocar estos materiales en el filtro casero?\". A continuación, se muestran las respuestas de tres estudiantes. ¿Cuál de los estudiantes ha respondido correctamente a la pregunta planteada por el docente?",
+          "opciones": [
+            "Arnold dice: \"De acuerdo con su porosidad. Colocaría los materiales que tengan poros más pequeños cerca al pico de la botella y los materiales que tengan poros más grandes, al final\".",
+            "Bianca dice: \"De acuerdo con su masa. Colocaría los materiales que tienen más masa primero, cerca al pico de la botella y, los materiales con menos masa, al final\".",
+            "César dice: \"De acuerdo con su volumen. Colocaría los materiales de mayor volumen primero, cerca al pico de la botella y los de menor volumen, al final\"."
+          ],
+          "respuesta": "Arnold dice: \"De acuerdo con su porosidad. Colocaría los materiales que tengan poros más pequeños cerca al pico de la botella y los materiales que tengan poros más grandes, al final\".",
+          "respuestaCorta": "La respuesta es correcta porque un filtro eficiente se ordena por porosidad decreciente: las capas superiores con poros grandes retienen partículas grandes, y las inferiores con poros pequeños retienen partículas finas.",
+          "solucionario": "La eficiencia de un filtro de lecho mixto como el descrito se basa en la filtración gradual. El agua contaminada entra por la parte superior. La primera capa (con poros grandes, como piedras) debe retener los sólidos más grandes (hojas, ramas). Las capas sucesivas deben tener poros cada vez más pequeños (arena gruesa, arena fina) para retener partículas progresivamente más finas. La última capa (algodón), cerca de la salida o pico, debe tener la menor porosidad para atrapar los sedimentos más pequeños. La respuesta de Arnold describe correctamente este principio de porosidad decreciente.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Pilar, una de las estudiantes, comenta lo siguiente: \"Este filtro casero me parece una buena idea porque puede eliminar los sólidos del agua y ya que funciona por la gravedad, no necesita electricidad. Este filtro permite obtener agua sin bacterias\". ¿Cuál es el error que se evidencia en el comentario de la estudiante?",
+          "opciones": [
+            "Creer que en el funcionamiento del filtro casero interviene la gravedad.",
+            "Creer que el filtro casero permite eliminar las bacterias del agua.",
+            "Creer que el filtro casero puede eliminar los sólidos del agua."
+          ],
+          "respuesta": "Creer que el filtro casero permite eliminar las bacterias del agua.",
+          "respuestaCorta": "El error de Pilar es suponer que este filtro físico puede eliminar microorganismos. Los poros del filtro son demasiado grandes para retener bacterias, que requieren desinfección.",
+          "solucionario": "Mientras que las afirmaciones de Pilar sobre la eliminación de sólidos y el funcionamiento por gravedad son correctas, suponer que el filtro elimina bacterias es un error peligroso. Las bacterias son organismos microscópicos que pueden pasar fácilmente a través de los poros de la arena, el carbón y el algodón. La filtración física elimina la turbidez (sólidos suspendidos), pero no desinfecta el agua. Para que el agua sea potable (libre de patógenos como bacterias y virus), necesitaría un paso adicional de desinfección, como hervirla o tratarla con cloro.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p33",
+      "contexto": "Observe el siguiente gráfico elaborado a partir de información extraída de una localidad costera en cincuenta años:",
+      "imagen": "img/ascenso/secundaria/2022/cyt/8.jpg",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes relaciones se puede establecer entre los eventos señalados en el gráfico?",
+          "opciones": [
+            "Causa - efecto.",
+            "Correlación positiva.",
+            "Correlación negativa."
+          ],
+          "respuesta": "Correlación positiva.",
+          "respuestaCorta": "El gráfico muestra una correlación positiva, ya que ambas variables (venta de helados y ataques de tiburones) aumentan y disminuyen juntas en el tiempo.",
+          "solucionario": "El gráfico muestra dos curvas que siguen el mismo patrón: ambas suben durante los meses de verano (de julio a enero) y bajan en los meses más fríos. Cuando dos variables tienden a moverse en la misma dirección (si una aumenta, la otra también; si una disminuye, la otra también), se dice que tienen una correlación positiva. Es crucial entender que esto no implica causalidad (comer helados no causa ataques de tiburón). Existe una tercera variable oculta, la temperatura o la estación del año, que es la causa real de ambos fenómenos: en verano hace más calor, por lo que más gente va a la playa (aumentando la probabilidad de ataques) y más gente come helados.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p34",
+      "contexto": "Una persona camina llevando una bolsa en una de sus manos. La persona lleva la bolsa de tal manera que, el desplazamiento de esta es paralelo al piso; es decir, no sube ni baja y la bolsa siempre se mueve junto con la persona. Además, esta bolsa contiene 3 kilogramos de manzanas. A su vez, se sabe lo siguiente:\n- La masa de la bolsa es despreciable.\n- La bolsa no sufre deformaciones durante el camino.\n- No se consideran los efectos del aire sobre la bolsa ni sobre su contenido.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Mientras la persona va caminando en línea recta, disminuye su rapidez progresivamente, a ritmo constante, de manera uniforme. En este momento, ¿cuál de las siguientes afirmaciones respecto de cómo se afectan la mano de la persona, la bolsa y las manzanas es correcta?",
+          "opciones": [
+            "La bolsa ejerce una fuerza que va deteniendo a las manzanas.",
+            "Las manzanas jalan la mano de la persona en dirección al piso.",
+            "La fuerza de la mano de la persona va disminuyendo en magnitud y es hacia adelante."
+          ],
+          "respuesta": "La bolsa ejerce una fuerza que va deteniendo a las manzanas.",
+          "respuestaCorta": "Debido a la inercia, las manzanas tienden a mantener su movimiento. Para que desaceleren junto con la persona, la bolsa debe ejercer sobre ellas una fuerza en dirección opuesta al movimiento.",
+          "solucionario": "Según la primera ley de Newton (ley de la inercia), un objeto en movimiento tiende a permanecer en movimiento. Cuando la persona y la bolsa desaceleran, las manzanas en su interior tienden a continuar hacia adelante con su velocidad original. Para que las manzanas también desaceleren, la pared frontal de la bolsa (en la dirección del movimiento) debe ejercer una fuerza sobre ellas hacia atrás (en contra del movimiento). Esta fuerza es la que causa la desaceleración de las manzanas.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "La persona va caminando en línea recta hacia un cruce peatonal, por lo que disminuye su rapidez progresivamente, a ritmo constante, de manera uniforme. Mientras la persona realiza esto, ¿cuál de las siguientes afirmaciones sobre las magnitudes de las fuerzas que intervienen en la bolsa y en la mano de la persona es correcta?",
+          "opciones": [
+            "La fuerza que aplica la mano de la persona en la bolsa es de mayor magnitud que la fuerza que aplica la bolsa en la mano de la persona.",
+            "La fuerza que aplica la mano de la persona en la bolsa es de igual magnitud que la fuerza que aplica la bolsa en la mano de la persona.",
+            "La fuerza que aplica la mano de la persona en la bolsa es de menor magnitud que la fuerza que aplica la bolsa en la mano de la persona."
+          ],
+          "respuesta": "La fuerza que aplica la mano de la persona en la bolsa es de igual magnitud que la fuerza que aplica la bolsa en la mano de la persona.",
+          "respuestaCorta": "Según la tercera ley de Newton, las fuerzas de acción y reacción entre dos cuerpos son siempre de igual magnitud y opuestas en dirección, independientemente del estado de movimiento.",
+          "solucionario": "Este es un ejemplo directo de la Tercera Ley de Newton (principio de acción y reacción). La fuerza que la mano ejerce sobre la bolsa (acción) y la fuerza que la bolsa ejerce sobre la mano (reacción) forman un par acción-reacción. Esta ley establece que estas dos fuerzas son siempre iguales en magnitud y opuestas en sentido. Esto es válido en todo momento, ya sea que la bolsa se mueva a velocidad constante, acelere, desacelere o esté en reposo.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "La persona continúa caminando con la bolsa de manzanas y llega a un cruce peatonal, por lo que se detiene unos minutos. Mientras la persona se encuentra detenida, ¿cuál de las siguientes afirmaciones es correcta sobre los trabajos que realizan las fuerzas en los cuerpos?",
+          "opciones": [
+            "La bolsa aplica una fuerza sobre la mano en dirección hacia el piso. El trabajo de esta fuerza es negativo.",
+            "La fuerza de gravedad sobre las manzanas apunta hacia abajo. El trabajo realizado por esta fuerza es igual a cero.",
+            "Sobre la bolsa actúan la fuerza de la mano, hacia arriba, y la fuerza que ejercen las manzanas, que es hacia abajo. Los trabajos de dichas fuerzas se anulan entre sí."
+          ],
+          "respuesta": "La fuerza de gravedad sobre las manzanas apunta hacia abajo. El trabajo realizado por esta fuerza es igual a cero.",
+          "respuestaCorta": "El trabajo mecánico es cero porque, a pesar de que la fuerza de gravedad actúa sobre las manzanas, no hay desplazamiento (la persona está detenida).",
+          "solucionario": "En física, el trabajo mecánico (W) se define como el producto de la fuerza (F) por el desplazamiento (d) en la dirección de la fuerza (W = F * d). En esta situación, la persona está detenida, por lo que el desplazamiento de las manzanas es cero (d=0). Aunque la fuerza de la gravedad (el peso de las manzanas) está actuando constantemente hacia abajo, al no haber desplazamiento, el trabajo que realiza esta fuerza es nulo. W = F_gravedad * 0 = 0.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "La persona empieza nuevamente a caminar en línea recta, aumentando su rapidez progresivamente, a ritmo constante, de manera uniforme. En este momento, ¿cuál de las siguientes afirmaciones sobre la inercia es correcta?",
+          "opciones": [
+            "La inercia de las manzanas va disminuyendo, por lo que pueden avanzar cada vez más rápido.",
+            "La inercia de las manzanas va aumentando, ya que cada vez es más difícil que avancen más rápido.",
+            "La inercia de las manzanas es la misma, ya que la cantidad de manzanas se mantiene constante."
+          ],
+          "respuesta": "La inercia de las manzanas es la misma, ya que la cantidad de manzanas se mantiene constante.",
+          "respuestaCorta": "La inercia es una propiedad intrínseca de la materia que solo depende de la masa. Como la masa de las manzanas no cambia, su inercia permanece constante.",
+          "solucionario": "Es un error común pensar que la inercia cambia con la velocidad. La inercia es la medida de la resistencia de un objeto a cambiar su estado de movimiento y es directamente proporcional a su masa. No depende de la velocidad, la aceleración ni de las fuerzas que actúan sobre el objeto. Dado que la cantidad de manzanas (y por lo tanto, su masa total) en la bolsa no cambia durante el trayecto, su inercia se mantiene constante en todo momento, ya sea que estén en reposo, acelerando o moviéndose a velocidad constante.",
+          "seccion": "Casuística"
+        }
+      ]
+    }
+  ]
+}
+  
