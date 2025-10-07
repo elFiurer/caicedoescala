@@ -1785,8 +1785,12 @@ document.addEventListener('DOMContentLoaded', () => {
                 // DESPUÉS (CORREGIDO)
                 if (questionTextEl) questionTextEl.innerHTML = question.pregunta.replace(/\n/g, '<br>');
 
+                // ▼▼▼ INICIA CÓDIGO A REEMPLAZAR ▼▼▼
                 if (optionsContainerEl) optionsContainerEl.innerHTML = '';
-                if (question.opciones && Array.isArray(question.opciones)) {
+
+                // Verificamos si hay opciones y si el array no está vacío
+                if (question.opciones && Array.isArray(question.opciones) && question.opciones.length > 0) {
+                    // Si todo está bien, creamos las opciones como siempre
                     question.opciones.forEach(opcion => {
                         const optionDiv = document.createElement('div');
                         optionDiv.classList.add('option');
@@ -1794,7 +1798,19 @@ document.addEventListener('DOMContentLoaded', () => {
                         optionDiv.addEventListener('click', () => checkAnswer(opcion, question.respuesta, question.solucionario));
                         if (optionsContainerEl) optionsContainerEl.appendChild(optionDiv);
                     });
+                } else {
+                    // ¡Aquí está la magia! Si no hay opciones...
+                    console.error(`La pregunta ${currentQuestionIndex + 1} no tiene opciones válidas.`);
+
+                    // Mostramos un mensaje claro al usuario.
+                    if (optionsContainerEl) {
+                        optionsContainerEl.innerHTML = `<p class="error-pregunta">Esta pregunta no se puede responder por un error. Haz clic en "Siguiente" para continuar.</p>`;
+                    }
+
+                    // Habilitamos el botón para que no se quede atascado.
+                    if (nextBtnEl) nextBtnEl.disabled = false;
                 }
+                // ▲▲▲ FIN CÓDIGO A REEMPLAZAR ▲▲▲
             };
 
             // --- FUNCIÓN PARA CHEQUEAR RESPUESTA (AHORA COMPLETA) ---

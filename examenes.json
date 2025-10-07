@@ -664,5 +664,57 @@
     "archivos": {
       "especifico": "data/ascenso/secundaria/2021/ascenso_edufisica2021.json"
     }
+  },
+  {
+    "id": 63,
+    "proceso": "Ascenso",
+    "anio": 2022,
+    "nivel": "Secundaria",
+    "especialidad": "DPCC ",
+    "modalidad": "EBR",
+    "preguntas": 60,
+    "tiempo": 180,
+    "archivos": {
+      "especifico": "data/ascenso/secundaria/2022/ascenso_dpcc2022.json"
+    }
+  },
+  {
+    "id": 64,
+    "proceso": "Ascenso",
+    "anio": 2022,
+    "nivel": "Secundaria",
+    "especialidad": "Inglés",
+    "modalidad": "EBR",
+    "preguntas": 60,
+    "tiempo": 180,
+    "archivos": {
+      "especifico": "data/ascenso/secundaria/2022/ascenso_ingles2022.json"
+    }
+  },
+  {
+    "id": 65,
+    "proceso": "Ascenso",
+    "anio": 2022,
+    "nivel": "Secundaria",
+    "especialidad": "Ciencias Sociales ",
+    "modalidad": "EBR",
+    "preguntas": 60,
+    "tiempo": 180,
+    "archivos": {
+      "especifico": "data/ascenso/secundaria/2022/ascenso_sociales2022.json"
+    }
+  },
+  {
+    "id": 66,
+    "proceso": "Ascenso",
+    "anio": 2022,
+    "nivel": "Secundaria",
+    "especialidad": "Educación Física ",
+    "modalidad": "EBR",
+    "preguntas": 60,
+    "tiempo": 180,
+    "archivos": {
+      "especifico": "data/ascenso/secundaria/2022/ascenso_edufisica2022.json"
+    }
   }
 ]
