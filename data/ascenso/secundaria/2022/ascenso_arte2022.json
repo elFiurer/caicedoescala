@@ -1,0 +1,1000 @@
+{
+  "completo": [
+    {
+      "idGrupo": "asc_secundaria_2023_p01",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes acciones es pertinente para fomentar la metacognición de los estudiantes en el área de Arte y Cultura?",
+          "opciones": [
+            "Partir de los intereses de los estudiantes al planificar las experiencias de aprendizaje de modo que se relacionen con sus gustos y experiencias.",
+            "Promover la reflexión crítica al respecto de las decisiones tomadas durante la ejecución de sus proyectos artísticos con el propósito de evaluar su efectividad.",
+            "Entregar retroalimentación detallada al evaluar a los estudiantes para que puedan identificar los logros y oportunidades de mejora en el desarrollo de sus proyectos artísticos."
+          ],
+          "respuesta": "Promover la reflexión crítica al respecto de las decisiones tomadas durante la ejecución de sus proyectos artísticos con el propósito de evaluar su efectividad.",
+          "respuestaCorta": "La metacognición implica que los estudiantes reflexionen sobre su propio proceso de aprendizaje. Promover la reflexión crítica sobre sus decisiones artísticas es la acción más directa para desarrollar esta capacidad.",
+          "solucionario": "La metacognición se refiere a la capacidad del estudiante para reflexionar y regular su propio aprendizaje. La opción B es la más pertinente porque se enfoca en que los estudiantes analicen y evalúen las decisiones que tomaron durante su proceso creativo, lo que les permite ser conscientes de sus estrategias, aciertos y errores, y así mejorar en el futuro. Las otras opciones son buenas prácticas pedagógicas, pero no se centran directamente en la autorreflexión del proceso de aprendizaje.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p02",
+      "contexto": "Los estudiantes han escrito un texto crítico sobre una obra de arte y el docente está revisándolos y realizando anotaciones.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes comentarios presenta una retroalimentación adecuada al evaluar los trabajos de los estudiantes?",
+          "opciones": [
+            "\"El desarrollo de tu texto ha sido excelente; dado que has logrado mejorar mucho en estas semanas, te he puesto 17 en tu trabajo\".",
+            "\"Los argumentos que has utilizado son interesantes pero puedes mejorarlos aún más si evitas la información redundante que he subrayado\".",
+            "\"Esta vez tuviste algunos errores en tu texto, pero no te des por vencido; con tu constancia y buena actitud sé que la próxima vez tendrás un mejor resultado\"."
+          ],
+          "respuesta": "\"Los argumentos que has utilizado son interesantes pero puedes mejorarlos aún más si evitas la información redundante que he subrayado\".",
+          "respuestaCorta": "Una retroalimentación efectiva debe ser específica y ofrecer orientaciones claras para la mejora, señalando tanto los aciertos como los aspectos a corregir.",
+          "solucionario": "La retroalimentación por descubrimiento o descriptiva es la más adecuada para el aprendizaje. La opción B ofrece un comentario específico sobre un aspecto a mejorar (\"evitas la información redundante que he subrayado\") a partir de un reconocimiento positivo (\"argumentos interesantes\"), lo que guía al estudiante para que pueda mejorar su trabajo. La opción A se centra en la calificación y un elogio general, mientras que la opción C se enfoca en la actitud del estudiante y no en el contenido del trabajo.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p03",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿En cuál de los siguientes casos se manifiesta un problema de bullying?",
+          "opciones": [
+            "Dos amigas se han dejado de hablar porque a ambas les gusta el mismo chico.",
+            "Un estudiante que destaca en el fútbol es llamado \"Messi\" por sus compañeros.",
+            "Los compañeros de Pablo lo ignoran desde que sacó la mejor nota en un examen."
+          ],
+          "respuesta": "Los compañeros de Pablo lo ignoran desde que sacó la mejor nota en un examen.",
+          "respuestaCorta": "El bullying se caracteriza por ser una agresión sistemática y repetitiva entre pares. Ignorar a un compañero de forma intencionada y grupal (exclusión social) es una forma de acoso.",
+          "solucionario": "El bullying o acoso escolar se define como un comportamiento agresivo, intencional y repetido de un estudiante o grupo hacia otro que no puede defenderse fácilmente. La opción C describe un caso de exclusión social sistemática por parte de un grupo hacia un individuo, lo cual es una forma de bullying. Las otras opciones describen un conflicto interpersonal (A) o un apodo que no necesariamente tiene una connotación negativa (B).",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p04",
+      "contexto": "Un docente está buscando imágenes de obras artísticas para utilizar como ejemplos en las sesiones de aprendizaje que los estudiantes desarrollarán en las siguientes semanas. A continuación, se presentan algunas de las imágenes que ha seleccionado:",
+      "imagen": "img/ascenso/secundaria/2022/arte/1.jpg",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes imágenes es un ejemplo de pintura abstracta?",
+          "opciones": [
+            "La imagen 1.",
+            "La imagen 2.",
+            "La imagen 4."
+          ],
+          "respuesta": "La imagen 2.",
+          "respuestaCorta": "La pintura abstracta es aquella que no representa objetos del mundo real, sino que se basa en formas, colores y líneas. La imagen 2 es un ejemplo de arte no figurativo.",
+          "solucionario": "La pintura abstracta prescinde de la figuración y no representa seres u objetos concretos. La Imagen 2 muestra una composición de formas y colores que no corresponden a una realidad visible, lo que la clasifica como abstracta. Las imágenes 1, 3 y 4 son figurativas, pues representan un retrato, un paisaje y una escena, respectivamente.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Cuál de las siguientes imágenes es más pertinente para ejemplificar el concepto de perspectiva?",
+          "opciones": [
+            "La imagen 2.",
+            "La imagen 3.",
+            "La imagen 4."
+          ],
+          "respuesta": "La imagen 3.",
+          "respuestaCorta": "La perspectiva es la técnica utilizada para crear la ilusión de profundidad y espacio tridimensional en una superficie plana. La imagen 3, un paisaje, es el mejor ejemplo para ilustrar este concepto.",
+          "solucionario": "La perspectiva es el arte de representar objetos tridimensionales en una superficie bidimensional para recrear la profundidad y la posición relativa de dichos objetos. La Imagen 3, que representa un paisaje con elementos que se alejan hacia el horizonte, es el ejemplo más claro y didáctico para explicar cómo se crea la ilusión de profundidad en la pintura.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Cuál de las siguientes imágenes es más pertinente para ejemplificar el concepto de claroscuro?",
+          "opciones": [
+            "La imagen 1.",
+            "La imagen 2.",
+            "La imagen 4."
+          ],
+          "respuesta": "La imagen 1.",
+          "respuestaCorta": "El claroscuro es una técnica que utiliza fuertes contrastes entre luz y sombra para modelar las formas y crear un efecto dramático. El retrato de la imagen 1 es un claro exponente de esta técnica.",
+          "solucionario": "El claroscuro es una técnica pictórica que consiste en el uso de contrastes acusados entre los volúmenes iluminados y los ensombrecidos para conseguir efectos de relieve y modelado. La Imagen 1, un retrato de estilo barroco, utiliza de manera evidente el claroscuro para dar volumen al rostro y generar dramatismo, destacando al personaje sobre un fondo oscuro.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Cuál de las siguientes imágenes es un ejemplo de pintura impresionista?",
+          "opciones": [
+            "La imagen 2.",
+            "La imagen 3.",
+            "La imagen 4."
+          ],
+          "respuesta": "La imagen 3.",
+          "respuestaCorta": "La pintura impresionista se caracteriza por pinceladas visibles, el énfasis en la luz y el color, y la representación de escenas cotidianas o paisajes. La imagen 3 corresponde a este estilo.",
+          "solucionario": "El Impresionismo es un movimiento artístico que busca captar la impresión visual del momento, destacando la luz y el instante, más que la forma exacta. La Imagen 3, con sus pinceladas sueltas y su enfoque en los efectos de la luz sobre el paisaje, es un claro ejemplo de la pintura impresionista.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Cuál de las siguientes imágenes es un ejemplo de pintura barroca?",
+          "opciones": [
+            "La imagen 1.",
+            "La imagen 2.",
+            "La imagen 3."
+          ],
+          "respuesta": "La imagen 1.",
+          "respuestaCorta": "La pintura barroca se caracteriza por su dramatismo, el uso intenso del claroscuro y la búsqueda de emociones. El retrato de la imagen 1, con su fuerte contraste de luz y sombra, es representativo de este período.",
+          "solucionario": "El Barroco se caracteriza por el dinamismo, el dramatismo y el uso prominente del claroscuro (tenebrismo). La Imagen 1 muestra un retrato con un fuerte contraste entre la luz que ilumina el rostro y la oscuridad del fondo, una característica distintiva de pintores barrocos como Caravaggio o Rembrandt, buscando generar un impacto emocional en el espectador.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p09",
+      "contexto": "Lxs Libertadorxs.Contramonumento es un proyecto artístico realizado por el artista peruano Mauricio Delgado para conmemorar el Bicentenario de la Independencia del Perú. Este proyecto consiste en una obra escultórica que imita al monumento de Don José de San Martín, ubicado en la plaza del mismo nombre en el Centro de Lima. A diferencia del monumento original, Lxs Libertadorxs presenta una réplica del caballo, pero sin jinete, sin pedestal, y en un espacio público de libre acceso a los visitantes. Cada asistente es invitado a montarse en el caballo, tomar el rol del jinete y posar para una fotografía, que posteriormente es alojada en las redes sociales del proyecto. La obra Lxs Libertadorxs despoja de toda parafernalia al monumento: se presenta una imitación \"incompleta\", y es el público quien completa la obra reemplazando al libertador. De esta forma, el autor busca promover una reflexión en la ciudadanía sobre qué república queremos construir y si podemos tener un rol activo en esta tarea.\n\nEn una IE de la capital, un docente de Arte y Cultura planifica una experiencia de aprendizaje que parte de la obra Lxs Libertadorxs.Contramonumento para fomentar la reflexión de los estudiantes sobre la relación entre el arte y el ejercicio de la ciudadanía.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "En la primera sesión de la experiencia de aprendizaje, el docente pregunta a los estudiantes si conocen el monumento a San Martín ubicado en el centro de Lima. Varios estudiantes responden que sí, que lo han visto cuando han visitado el centro de la ciudad, y describen vagamente lo que recuerdan del monumento. Luego, el docente muestra una foto del monumento y pide a los estudiantes que describan con mayor detalle las características que observan. Varios estudiantes participan: \"En el monumento se ve a San Martín sobre su caballo mirando el horizonte como si regresara de una batalla\"; \"La estatua está encima de un pedestal bien alto y alrededor hay varias placas\"; \"Yo sé que el monumento es de bronce, pero se ve de color negro\". ¿Qué capacidad del CNEB están desarrollando los estudiantes cuando describen el monumento?",
+          "opciones": [
+            "Percibe manifestaciones artístico-culturales.",
+            "Contextualiza las manifestaciones culturales.",
+            "Reflexiona creativa y críticamente."
+          ],
+          "respuesta": "Percibe manifestaciones artístico-culturales.",
+          "respuestaCorta": "La capacidad 'Percibe manifestaciones artístico-culturales' implica el uso de los sentidos para observar, escuchar y describir las características de una obra, que es exactamente lo que hacen los estudiantes.",
+          "solucionario": "Según el CNEB, la capacidad 'Percibe manifestaciones artístico-culturales' implica utilizar los sentidos para identificar y describir los elementos y características de una manifestación artística. Al describir lo que ven en el monumento (San Martín, el caballo, el pedestal, el material), los estudiantes están poniendo en práctica esta capacidad fundamental de la apreciación artística.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "El docente comenta a los estudiantes que el monumento a San Martín fue creado por el escultor Mariano Benlliure con motivo del Centenario de la Independencia del Perú, y luego les pregunta: \"¿Qué creen que simboliza el monumento?\". Los estudiantes responden: \"Simboliza la Independencia de nuestro país\"; \"Simboliza que somos libres\"; \"Simboliza los ideales de San Martín\". Antes de solicitar a los estudiantes que infieran lo que el monumento simboliza, el docente les brinda información sobre el autor, la época y las circunstancias en que fue creado. ¿Por qué es importante esta información?",
+          "opciones": [
+            "Porque, para inferir e interpretar el mensaje de una obra de arte, es necesario comprender el contexto en que fue creada.",
+            "Porque, al conocer la época y el autor, los estudiantes pueden identificar la corriente artística a la que pertenece la obra.",
+            "Porque, al dar crédito a los artistas por sus obras, los estudiantes van interiorizando la importancia de respetar los derechos de autor."
+          ],
+          "respuesta": "Porque, para inferir e interpretar el mensaje de una obra de arte, es necesario comprender el contexto en que fue creada.",
+          "respuestaCorta": "La interpretación de una obra de arte se enriquece y se hace más precisa al conocer su contexto de producción (autor, época, circunstancias), ya que este influye en su significado.",
+          "solucionario": "La capacidad de 'Contextualiza las manifestaciones culturales' es clave para una interpretación profunda. Conocer quién, cuándo, dónde y por qué se creó una obra de arte permite entender mejor sus significados, símbolos e intenciones. Sin esta información contextual, la interpretación puede ser superficial o errónea. Por lo tanto, el docente brinda estos datos para que los estudiantes puedan hacer inferencias más informadas sobre el simbolismo del monumento.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Luego, el docente dice a los estudiantes: \"Me han dicho que el monumento simboliza los ideales de San Martín, ¿no?, ¿Me pueden decir cuáles eran esos ideales?\". Los estudiantes en plenaria comparten sus ideas y coinciden en que San Martín soñaba con un país gobernado en función al interés común, la justicia, la libertad y la igualdad, es decir, un país en el que todos los ciudadanos tuvieran los mismos derechos sin importar su condición. Después, el docente pregunta a los estudiantes si creen que el Perú ha alcanzado plenamente los ideales de San Martín. Aunque los estudiantes tienen diversas posiciones al respecto, coinciden en que no todos los peruanos vivimos en igualdad por diversas razones sociales, culturales y económicas. En el contexto de la experiencia de aprendizaje, ¿cuál es el propósito de preguntar a los estudiantes si el Perú ha alcanzado plenamente los ideales de San Martín?",
+          "opciones": [
+            "Favorecer que los estudiantes profundicen su apreciación sobre las características del monumento a San Martín y su propósito.",
+            "Sensibilizar a los estudiantes sobre los grandes problemas que deben enfrentar las poblaciones más vulnerables de nuestro país.",
+            "Preparar a los estudiantes para que interpreten Lxs Libertadorxs a partir de la reflexión sobre el sentido original del monumento a San Martín."
+          ],
+          "respuesta": "Preparar a los estudiantes para que interpreten Lxs Libertadorxs a partir de la reflexión sobre el sentido original del monumento a San Martín.",
+          "respuestaCorta": "El docente genera una reflexión sobre la vigencia de los ideales del monumento original para que los estudiantes tengan una base crítica desde la cual puedan interpretar la nueva obra, 'Lxs Libertadorxs'.",
+          "solucionario": "La estrategia del docente es construir un andamiaje. Primero, establece el significado del monumento original (los ideales de San Martín). Luego, genera una tensión al cuestionar la vigencia de esos ideales en el presente. Esta reflexión crítica es el puente necesario para que los estudiantes puedan comprender la propuesta del 'contramonumento' 'Lxs Libertadorxs', que precisamente dialoga y cuestiona el sentido del monumento histórico en la actualidad.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Entonces, el docente muestra a los estudiantes una fotografía de Lxs Libertadorxs. Contramonumento y pide a los estudiantes que comparen la obra con el monumento a San Martín. Los estudiantes notan inmediatamente que el caballo es igual al del monumento, pero no tiene jinete. Luego, el docente muestra otras fotografías de la obra en las que diversas personas posan sobre el caballo como si fueran el libertador: algunas imitan la postura de San Martín en el monumento original, otras hacen diversos gestos o posturas. Los estudiantes se muestran sorprendidos y el docente les explica que la obra es participativa, y que los visitantes pueden subirse al caballo y tomarse fotografías libremente. ¿Qué quiere decir que una obra de arte es participativa?",
+          "opciones": [
+            "Que la obra adquiere diversos significados dependiendo de la interpretación particular de cada espectador.",
+            "Que el significado o mensaje de la obra solo está completo cuando los espectadores se relacionan directamente con ella.",
+            "Que, a diferencia de otras obras de arte, esta ha sido realizada de manera que los espectadores la puedan tocar libremente."
+          ],
+          "respuesta": "Que el significado o mensaje de la obra solo está completo cuando los espectadores se relacionan directamente con ella.",
+          "respuestaCorta": "El arte participativo se define por la necesidad de interacción del público para que la obra cobre su sentido completo, trascendiendo la mera contemplación.",
+          "solucionario": "La característica esencial del arte participativo o interactivo es que la obra está incompleta sin la intervención del espectador. No se trata solo de que pueda ser interpretada de muchas maneras (opción A) o que se pueda tocar (opción C), sino que la acción del público es un componente fundamental de la obra misma. En 'Lxs Libertadorxs', la obra se completa cada vez que una persona asume el rol del jinete.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+
+ 
+    {
+      "idGrupo": "asc_secundaria_2023_p13",
+      "contexto": "Lxs Libertadorxs.Contramonumento es un proyecto artístico realizado por el artista peruano Mauricio Delgado para conmemorar el Bicentenario de la Independencia del Perú. Este proyecto consiste en una obra escultórica que imita al monumento de Don José de San Martín, ubicado en la plaza del mismo nombre en el Centro de Lima. A diferencia del monumento original, Lxs Libertadorxs presenta una réplica del caballo, pero sin jinete, sin pedestal, y en un espacio público de libre acceso a los visitantes. Cada asistente es invitado a montarse en el caballo, tomar el rol del jinete y posar para una fotografía, que posteriormente es alojada en las redes sociales del proyecto. La obra Lxs Libertadorxs despoja de toda parafernalia al monumento: se presenta una imitación \"incompleta\", y es el público quien completa la obra reemplazando al libertador. De esta forma, el autor busca promover una reflexión en la ciudadanía sobre qué república queremos construir y si podemos tener un rol activo en esta tarea.\n\nEn una IE de la capital, un docente de Arte y Cultura planifica una experiencia de aprendizaje que parte de la obra Lxs Libertadorxs.Contramonumento para fomentar la reflexión de los estudiantes sobre la relación entre el arte y el ejercicio de la ciudadanía.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Jorge, uno de los estudiantes, interviene: \"Profesor, a mí me parece una falta de respeto, porque al subirse al caballo y hacerse fotos, la gente se está burlando de San Martín. La escultura se vuelve una vulgar imitación de la escultura original, una versión poco respetuosa de los valores de nuestra Nación\". El docente traslada la inquietud a los demás estudiantes y tres compañeras intervienen. ¿Cuál de las respuestas es más pertinente ante la inquietud de Jorge?",
+          "opciones": [
+            "\"Yo creo que el artista está buscando que la gente reflexione sobre la vigencia de los ideales de San Martín y cuestione cuál es su papel en la construcción de un país mejor. La irreverencia puede ser un medio para reírnos de nuestros problemas y así poder afrontarlos sin miedo\".",
+            "\"Yo pienso que, más allá de la intención que tiene un artista al crear su obra, no se puede evitar que haya gente que se burle de ella; siempre habrá personas irrespetuosas, pero eso ya no es culpa del artista, porque no lo puede controlar\".",
+            "\"Yo opino que nadie se está burlando, porque la imagen de San Martín no está presente y nadie se puede burlar de algo que no está. La intención del artista es que los espectadores pasen un momento agradable al interactuar con la escultura\"."
+          ],
+          "respuesta": "\"Yo creo que el artista está buscando que la gente reflexione sobre la vigencia de los ideales de San Martín y cuestione cuál es su papel en la construcción de un país mejor. La irreverencia puede ser un medio para reírnos de nuestros problemas y así poder afrontarlos sin miedo\".",
+          "respuestaCorta": "La respuesta más pertinente es la que interpreta la intención del artista como una forma de generar reflexión crítica, utilizando la irreverencia como herramienta para cuestionar símbolos y roles.",
+          "solucionario": "El arte contemporáneo a menudo busca provocar y generar debate. La respuesta A interpreta correctamente que la obra utiliza la parodia o la irreverencia no como un fin en sí mismo (la burla), sino como un medio para un fin más profundo: hacer que el espectador reflexione sobre su propio papel en la construcción de la nación, en lugar de ser un mero observador de héroes pasados. Las otras respuestas no logran captar esta dimensión crítica de la obra.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Luego, el docente explica el contexto en que se crea Lxs Libertadorxs.Contramonumento y hace notar a los estudiantes la forma en que se escribe el nombre de la obra, reemplazando algunas vocales por la letra \"x\" y les pregunta a los estudiantes por qué creen que el autor decidió escribirlo así. Algunos estudiantes intervienen. ¿Cuál de ellos ha interpretado mejor el sentido de este cambio?",
+          "opciones": [
+            "Al poner las \"x\", el título puede interpretarse de dos maneras: \"los libertadores\" y \"las libertadoras\"; con eso, el autor deja clara su posición: tanto hombres como mujeres podemos ayudar a construir un país mejor para todos.",
+            "El autor remplaza algunas vocales por la letra \"x\", porque esa es la forma en que muchos jóvenes suelen escribir; de esa manera, el mensaje de la obra puede llegar mejor a su público objetivo, que es principalmente gente joven.",
+            "Con su obra, y especialmente con el título, el autor quiere dar a entender que es necesario acabar con las costumbres conservadoras del pasado para dar lugar a un nuevo Estado con una mentalidad mucho más liberal."
+          ],
+          "respuesta": "Al poner las \"x\", el título puede interpretarse de dos maneras: \"los libertadores\" y \"las libertadoras\"; con eso, el autor deja clara su posición: tanto hombres como mujeres podemos ayudar a construir un país mejor para todos.",
+          "respuestaCorta": "El uso de la \"x\" es un recurso del lenguaje inclusivo que busca visibilizar y englobar a géneros más allá del masculino universal, en este caso, incluyendo explícitamente a las libertadoras.",
+          "solucionario": "El uso de la \"x\" (o la \"e\") en lugar de las vocales que marcan género gramatical es una práctica común del lenguaje inclusivo. Su propósito es romper con el masculino genérico (\"los libertadores\") y representar explícitamente a todas las identidades de género. La opción A interpreta correctamente este uso como una declaración de que el rol de construir la nación no es exclusivo de los hombres, sino que incluye también a las mujeres.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Luego de discutir y reflexionar sobre el mensaje de la obra, Lizeth, una estudiante, interviene: \"Profesor, hay algo que no logro comprender. Si esta obra copia parte del monumento a San Martín, entonces no es una obra totalmente original, ¿se puede decir que es un plagio, una imitación?\". El docente traslada la pregunta a sus compañeros. Desde un enfoque contemporáneo, ¿cuál de las respuestas es más pertinente ante la duda de Lizeth?",
+          "opciones": [
+            "\"La obra no es una imitación, porque Mauricio Delgado fue el primero al que se le ocurrió copiar un monumento histórico\".",
+            "\"Es una obra original porque no es idéntica; por ejemplo, la obra de Mauricio Delgado no tiene jinete ni está puesta sobre un pedestal\".",
+            "\"No es solo una imitación, porque aunque el caballo es igual, la obra le da un nuevo significado, es decir, el mensaje de la obra no es el mismo\"."
+          ],
+          "respuesta": "\"No es solo una imitación, porque aunque el caballo es igual, la obra le da un nuevo significado, es decir, el mensaje de la obra no es el mismo\".",
+          "respuestaCorta": "En el arte contemporáneo, la originalidad no radica solo en la forma, sino en la resignificación. Al tomar un elemento conocido y dotarlo de un nuevo concepto o mensaje, se crea una obra original.",
+          "solucionario": "El arte contemporáneo a menudo emplea la 'apropiación', que consiste en tomar elementos de obras preexistentes para crear una nueva obra con un significado distinto. La originalidad de 'Lxs Libertadorxs' no reside en la forma del caballo, sino en el nuevo mensaje que construye al quitar al jinete, bajarlo del pedestal e invitar a la participación del público. La opción C explica correctamente que el cambio de significado es lo que le confiere originalidad a la obra, superando la idea de una simple copia.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes términos es adecuado para describir la obra Lxs Libertadorxs.Contramonumento?",
+          "opciones": [
+            "Copy art.",
+            "Instalación.",
+            "Apropiacionismo."
+          ],
+          "respuesta": "Apropiacionismo.",
+          "respuestaCorta": "El apropiacionismo es la práctica artística de tomar imágenes u objetos preexistentes y usarlos en una nueva obra con un nuevo contexto, tal como se hace al replicar el caballo del monumento original.",
+          "solucionario": "El término 'apropiacionismo' describe con precisión la estrategia del artista Mauricio Delgado. Él se 'apropia' de un elemento icónico (el caballo del monumento a San Martín) para descontextualizarlo y resignificarlo en su propia obra. Aunque la obra podría presentarse como una 'instalación' (opción B), el término que mejor describe el proceso creativo central es 'apropiacionismo'. 'Copy art' (opción A) es un término más asociado a la reproducción mediante fotocopiadoras.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p17",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes alternativas describe el concepto de \"composición\" en las artes visuales?",
+          "opciones": [
+            "Es la semejanza en la distribución o fuerza de los elementos de un todo en una creación de artes visuales.",
+            "Es el efecto producido por la repetición de elementos visuales que siguen una secuencia determinada.",
+            "Es la disposición y ordenamiento de las figuras o elementos para lograr un orden coherente y proporcionado."
+          ],
+          "respuesta": "Es la disposición y ordenamiento de las figuras o elementos para lograr un orden coherente y proporcionado.",
+          "respuestaCorta": "La composición es la organización intencionada de los elementos visuales dentro de una obra para crear un conjunto unificado y con sentido.",
+          "solucionario": "La composición en las artes visuales es el principio que rige la organización y distribución de los elementos (línea, forma, color, textura) en el espacio de la obra. Su finalidad es crear una estructura coherente, equilibrada y que comunique eficazmente la intención del artista. La opción A describe el 'equilibrio' y la opción B describe el 'ritmo', ambos son principios de la composición, pero no la definición de la composición en sí misma.",
+          "seccion": "Conocimientos Disciplinares"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p18",
+      "contexto": "Cada color tiene una serie de características que lo diferencian de los demás. Estas son el tono, la saturación y el valor.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes alternativas se refiere al \"valor\"?",
+          "opciones": [
+            "Es el grado de intensidad de un color, que va desde un color vivo muy intenso, pasando por matices más descoloridos hasta llegar al color gris.",
+            "Es el grado de luminosidad del color, es decir, las diferentes mezclas que se pueden obtener al combinar un color con blanco y con negro.",
+            "Es la característica principal de un color; son todos los colores del círculo cromático sin mezclar con blanco o negro."
+          ],
+          "respuesta": "Es el grado de luminosidad del color, es decir, las diferentes mezclas que se pueden obtener al combinar un color con blanco y con negro.",
+          "respuestaCorta": "El 'valor' o 'luminosidad' de un color se refiere a qué tan claro u oscuro es, lo cual se modifica añadiendo blanco o negro.",
+          "solucionario": "Las tres propiedades del color son: Tono (el color en sí, como rojo o azul), Saturación (la pureza o intensidad del color) y Valor (su grado de claridad u oscuridad). La opción B define correctamente el valor como el grado de luminosidad, que se altera al mezclar el color con blanco (para aclararlo) o con negro (para oscurecerlo). La opción A define la saturación y la opción C define el tono.",
+          "seccion": "Conocimientos Disciplinares"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p19",
+      "contexto": "Al inicio de un proyecto artístico en el que los estudiantes diseñarán y presentarán una coreografía de danza, Ariana, una de las estudiantes, manifiesta repetidamente sentirse muy incómoda por tener que bailar frente a otras personas. Ella le explica a la docente que nunca le ha gustado presentarse frente a un público y, a pesar de que esta le ha brindado varias recomendaciones para superar su miedo escénico, Ariana no ha respondido positivamente, llegando a mostrar altos niveles de ansiedad.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes estrategias es más apropiada para enfrentar este problema?",
+          "opciones": [
+            "Exonerar a Ariana de las actividades del área mientras dure el proyecto para que aproveche el tiempo en otras actividades académicas.",
+            "Realizar reuniones con Ariana para intentar identificar los hechos del pasado que dieron origen a sus miedos de manera que pueda enfrentarlos.",
+            "Invitar a la estudiante a realizar otras tareas del proyecto, como diseñar el vestuario, la escenografía o la iluminación."
+          ],
+          "respuesta": "Invitar a la estudiante a realizar otras tareas del proyecto, como diseñar el vestuario, la escenografía o la iluminación.",
+          "respuestaCorta": "La estrategia más inclusiva y pedagógica es reasignar a la estudiante a un rol diferente dentro del mismo proyecto artístico, valorando sus aportes sin forzarla a una situación que le genera ansiedad.",
+          "solucionario": "Forzar a un estudiante a enfrentar una situación que le genera alta ansiedad puede ser contraproducente. Exonerarla (opción A) la excluye del aprendizaje. Intentar una terapia (opción B) excede las competencias del docente. La opción C es la más apropiada porque mantiene a Ariana involucrada en el proyecto artístico grupal, le permite contribuir desde sus fortalezas y respeta sus emociones, asignándole un rol fundamental (diseño, escenografía, etc.) que no requiere exposición escénica.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p20",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué significa el término video danza?",
+          "opciones": [
+            "Es la proyección de una danza a través de un video.",
+            "Es un recurso visual para la educación física y artística.",
+            "Es una propuesta interdisciplinar que une el video y la danza."
+          ],
+          "respuesta": "Es una propuesta interdisciplinar que une el video y la danza.",
+          "respuestaCorta": "La video danza es un género artístico en sí mismo que integra el lenguaje de la danza y el lenguaje audiovisual, donde la coreografía se crea específicamente para la cámara.",
+          "solucionario": "La video danza no es simplemente el registro en video de una coreografía (opción A). Es un género híbrido donde la danza y el cine/video se fusionan. La cámara no es un mero espectador, sino un participante activo: los ángulos, el encuadre, la edición y los movimientos de cámara son parte integral de la coreografía. Por ello, se define como una propuesta interdisciplinar.",
+          "seccion": "Conocimientos Disciplinares"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p21",
+      "contexto": "Durante una jornada de planificación, los docentes de Arte y Cultura dialogan sobre las danzas que pueden investigar los estudiantes para fomentar la valoración de la diversidad cultural que el Perú posee.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes comentarios de los docentes es más acorde con el enfoque multicultural propuesto en el área de Arte y Cultura?",
+          "opciones": [
+            "Almendra dice: \"Yo creo que es necesario que los estudiantes investiguen danzas que se practican en la actualidad en distintas partes de nuestro país para que reconozcan las diferentes manifestaciones que existen, les den valor y respeten sus diferencias\".",
+            "Esteban dice: \"Considero que es primordial que los estudiantes investiguen las danzas prehispánicas para que valoren nuestro pasado y que reconozcan sus verdaderas raíces. Solo conociendo su pasado podrán confrontar a la modernidad\".",
+            "Diana dice: \"Lo más importante es que los estudiantes conozcan y desarrollen danzas de nuestras comunidades indígenas, para que reconozcan que hay culturas con distintos niveles de desarrollo y que deben de respetar sus manifestaciones artístico-culturales\"."
+          ],
+          "respuesta": "Almendra dice: \"Yo creo que es necesario que los estudiantes investiguen danzas que se practican en la actualidad en distintas partes de nuestro país para que reconozcan las diferentes manifestaciones que existen, les den valor y respeten sus diferencias\".",
+          "respuestaCorta": "El enfoque multicultural promueve el reconocimiento, valoración y respeto de la diversidad de manifestaciones culturales contemporáneas en un plano de igualdad.",
+          "solucionario": "El comentario de Almendra se alinea con un enfoque multicultural e intercultural porque promueve el estudio de diversas danzas actuales de todo el país, fomentando el reconocimiento y respeto por las diferencias en un marco de horizontalidad. El comentario de Esteban es esencialista y mira solo al pasado. El comentario de Diana establece una jerarquía entre culturas (\"distintos niveles de desarrollo\"), lo cual es contrario al enfoque multicultural que busca la valoración equitativa de todas las culturas.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p22",
+      "contexto": "Los estudiantes han asistido junto con el docente de Arte y Cultura a un festival de danza en el que se han presentado diversas marineras del Perú.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Los estudiantes comentan sus percepciones al final de la presentación. Una estudiante comenta: \"A mí me gustó la segunda marinera que bailaron, una de la costa, porque es pícara y enérgica. No sabía que en esa marinera los hombres bailan sin zapatos, igual que las mujeres, y llevando su alforja y su pantalón remangado\". ¿A cuál de las siguientes marineras de la costa se refiere la estudiante?",
+          "opciones": [
+            "Marinera arequipeña.",
+            "Marinera mochera.",
+            "Marinera trujillana."
+          ],
+          "respuesta": "Marinera mochera.",
+          "respuestaCorta": "La marinera mochera se caracteriza por ser bailada descalza tanto por hombres como por mujeres, y el varón viste pantalón remangado, reflejando las labores del campo y la pesca.",
+          "solucionario": "Las características descritas (pícara, enérgica, bailarines descalzos, pantalón remangado y alforja) son distintivas de la marinera mochera, originaria del distrito de Moche, en La Libertad. A diferencia de la marinera norteña (trujillana), que es más señorial y donde el varón usa zapatos, la mochera tiene un carácter más popular y ligado a las costumbres del pueblo moche.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Liliana, otra estudiante, interviene: \"A mí me gustó la marinera que bailaron casi al final, una que es bien elegante y calmada. Las mujeres usan un chal con flecos, al igual que los varones, y se balancean despacito de un lado al otro. Aunque el ritmo es más lento, igual es alegre. Se nota que tiene mucha influencia del huayno, sobre todo en la parte final\". ¿A cuál de las siguientes marineras se refiere Liliana?",
+          "opciones": [
+            "Marinera puneña.",
+            "Marinera ancashina.",
+            "Marinera ayacuchana."
+          ],
+          "respuesta": "Marinera puneña.",
+          "respuestaCorta": "La marinera puneña se distingue por su ritmo más lento y cadencioso, la elegancia de su vestuario (que incluye chales) y su clara fusión con el huayno en la parte final de la danza.",
+          "solucionario": "La descripción de Liliana corresponde a la marinera puneña. Esta variante andina es más lenta y señorial que las costeñas. El uso de chales por hombres y mujeres es característico, y su estructura musical termina con una fuga de huayno (o pandilla puneña), lo que evidencia la influencia mencionada por la estudiante.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Luego, Javier, uno de los estudiantes comenta: \"No sabía que había tantas marineras. Además de la música y los pasos, también usan vestuarios muy diferentes entre sí. Profesora, ¿hay alguna parte del vestuario que sea común a todas las marineras?\". ¿Cuál de las siguientes es una respuesta adecuada ante la inquietud de Javier?",
+          "opciones": [
+            "Las faldas largas hasta los tobillos.",
+            "El sombrero que usa el varón.",
+            "El uso de los pañuelos."
+          ],
+          "respuesta": "El uso de los pañuelos.",
+          "respuestaCorta": "El pañuelo es el elemento más emblemático y transversal a todas las variantes regionales de la marinera, siendo indispensable para la coreografía y la expresión de la danza.",
+          "solucionario": "A pesar de la enorme diversidad de trajes que existen en la marinera norteña, limeña, mochera, serrana, etc., el único elemento que permanece constante y es absolutamente esencial en todas ellas es el pañuelo. Este accesorio es una extensión de las manos de los bailarines y el principal vehículo para el coqueteo y el diálogo amoroso que representa la danza. Las faldas y sombreros varían drásticamente entre regiones.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+
+ 
+    {
+      "idGrupo": "asc_secundaria_2023_p25",
+      "contexto": "Los estudiantes han asistido junto con el docente de Arte y Cultura a un festival de danza en el que se han presentado diversas marineras del Perú.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "La docente comenta a los estudiantes que, aunque algunas son más rápidas y otras son más lentas, casi siempre la música de las marineras comparten la misma métrica, es decir, se escriben utilizando el mismo tipo de compás. ¿Qué tipo de compás se suele utilizar en las marineras?",
+          "opciones": [
+            "2/4",
+            "4/4",
+            "6/8"
+          ],
+          "respuesta": "6/8",
+          "respuestaCorta": "El compás de 6/8 es característico de la marinera, especialmente la norteña, y le proporciona su ritmo particular y sincopado.",
+          "solucionario": "La estructura rítmica fundamental de la mayoría de las marineras se basa en el compás de 6/8. Este es un compás compuesto de amalgama, que genera una sensación rítmica particular, ágil y compleja, ideal para el galanteo y la ejecución de los pasos característicos de la danza. Los compases de 2/4 o 4/4 son más propios de otros géneros musicales.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p26",
+      "contexto": "Un docente de Arte y Cultura conversa con sus estudiantes sobre una problemática que se vive alrededor de la IE: los continuos robos y asaltos que sufren los vecinos. Después de investigar, analizar la situación y dialogar con los estudiantes sobre cómo enfrentar esa problemática social por medio del arte, acuerdan realizar un proyecto en el que crearán una coreografía grupal al ritmo de hip hop. La presentación artística se llamará ¡Basta ya, no a la violencia!, y con ella sensibilizarán a la comunidad educativa sobre la delincuencia y harán un llamado a la convivencia pacífica.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Durante la situación, una de las estudiantes pregunta al docente: \"Profesor, o sea, vamos a hacer una coreografía. Pero, ¿qué es una coreografía?\". El docente aprovecha la oportunidad para trasladar la pregunta a la clase y promover la participación en el aula. Tres estudiantes responden:\nFlor: \"Una coreografía es cuando los movimientos de los bailarines se escriben en un papel, porque 'grafía' significa escritura; por ejemplo, cuando dibujamos en una columna círculos para representar a los hombres y en otra columna ponemos aspas para representar a las mujeres. Así los bailarines saben en dónde ponerse en el escenario\".\nChristian: \"La coreografía es una composición de movimientos, como cuando una o varias personas hacen un conjunto o varias figuras en el espacio con diferentes pasos y gestos que se relacionan entre sí y que se realizan secuencialmente uno tras otro al ritmo de una música\".\nRosa María: \"Profesor, la coreografía es el desplazamiento de los bailarines en el escenario, o sea la forma en la que se trasladan, si es en círculos o haciendo caminos rectos o caminos ondulantes... o sea, es la forma en la que recorren el espacio o el escenario\".\n¿Cuál de los comentarios es el que más se aproxima al concepto de coreografía?",
+          "opciones": [
+            "El de Flor.",
+            "El de Christian.",
+            "El de Rosa María."
+          ],
+          "respuesta": "El de Christian.",
+          "respuestaCorta": "La definición de Christian es la más completa, ya que describe la coreografía como una composición secuencial de movimientos, figuras y gestos en relación con la música y el espacio.",
+          "solucionario": "Christian ofrece el concepto más acertado de coreografía al definirla como una 'composición de movimientos' en secuencia. Flor la confunde con la 'coreología' o notación de la danza (la escritura de la misma), mientras que Rosa María la reduce a uno de sus componentes: los desplazamientos en el espacio. La coreografía integra movimientos, gestos, desplazamientos y su relación con el ritmo en una estructura coherente.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Luego de definir lo que van a realizar como proyecto, ¿cuál de las siguientes acciones es más adecuada para continuar con su ejecución?",
+          "opciones": [
+            "Designar roles y nombrar a los estudiantes que los ejecutarán.",
+            "Hacer un listado de los materiales que se necesitarán para realizar el proyecto.",
+            "Elaborar una lista de las actividades a realizar en el proyecto y los tiempos que requieren."
+          ],
+          "respuesta": "Elaborar una lista de las actividades a realizar en el proyecto y los tiempos que requieren.",
+          "respuestaCorta": "Tras definir el objetivo del proyecto, el siguiente paso lógico en la gestión de proyectos es planificar las actividades y secuenciarlas en un cronograma.",
+          "solucionario": "Antes de asignar roles (A) o listar materiales (B), es fundamental tener un plan de acción. Elaborar una lista de actividades y estimar sus tiempos (un cronograma) permite organizar todo el proceso de ejecución del proyecto de manera lógica y secuencial. Este paso es crucial para asegurar que todas las etapas se cumplan de forma ordenada y dentro de los plazos previstos.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Previamente a la creación de la coreografía, ¿cuál de las siguientes estrategias es la más pertinente para explorar los saberes previos de los estudiantes sobre la danza urbana?",
+          "opciones": [
+            "Poner canciones de música urbana, solicitar a todos los estudiantes que caminen por el espacio y que dancen libremente para poder observar sus conocimientos y habilidades en este tipo de danza.",
+            "Hacer una demostración rápida delante de los estudiantes para que aprecien los movimientos básicos de la danza urbana y luego pedirles que hagan una secuencia de movimientos sencilla basada en lo observado.",
+            "Preguntar a los estudiantes si antes han ejecutado coreografías de danza urbana y cómo les fue al realizarlas, para así conocer si saben bailar este tipo de danza."
+          ],
+          "respuesta": "Poner canciones de música urbana, solicitar a todos los estudiantes que caminen por el espacio y que dancen libremente para poder observar sus conocimientos y habilidades en este tipo de danza.",
+          "respuestaCorta": "Para recoger saberes previos de una disciplina corporal como la danza, la estrategia más efectiva es proponer una actividad práctica y de exploración libre que permita al docente observar directamente las habilidades y conocimientos de los estudiantes.",
+          "solucionario": "La opción A es la más pertinente porque permite una evaluación diagnóstica auténtica. Al bailar libremente, los estudiantes movilizan sus conocimientos y habilidades corporales de manera espontánea, lo que le da al docente información valiosa sobre su nivel real. La opción B es más una actividad de imitación que de exploración de saberes previos, y la opción C se queda en el plano verbal, que puede no reflejar las habilidades corporales reales.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Después de seleccionar la música del agrado de los estudiantes, empezarán a crear la coreografía. ¿Cuál de las siguientes alternativas es la más adecuada para que el docente facilite a los estudiantes el proceso de creación de la coreografía?",
+          "opciones": [
+            "Mostrar diversos videos de concursos de coreografías de hip hop para que los estudiantes observen las típicas secuencias de movimientos utilizadas en este género musical, para que luego escojan las que más les gusten, las integren y las reproduzcan hasta que a todos les salga a la perfección.",
+            "Dividir a los estudiantes en grupos, pedirles que formen círculos y que voluntariamente vayan saliendo al centro del círculo para improvisar libremente movimientos al ritmo de la música; luego pedirles que seleccionen los movimientos que más les gustaron para luego ir ensamblándolos en secuencias.",
+            "Demostrar frente a los estudiantes diversas secuencias cortas de movimientos y pedirles que las imiten lo mejor que puedan; repetir las secuencias varias veces hasta que todos las hayan aprendido y luego pedirles que junten todas las secuencias en una sola de manera coherente y que la practiquen hasta dominarla."
+          ],
+          "respuesta": "Dividir a los estudiantes en grupos, pedirles que formen círculos y que voluntariamente vayan saliendo al centro del círculo para improvisar libremente movimientos al ritmo de la música; luego pedirles que seleccionen los movimientos que más les gustaron para luego ir ensamblándolos en secuencias.",
+          "respuestaCorta": "Un enfoque constructivista para la creación coreográfica implica fomentar la exploración y la improvisación, para que los movimientos surjan de los propios estudiantes y luego se estructuren colectivamente.",
+          "solucionario": "La opción B promueve un proceso creativo y participativo. Parte de la improvisación libre (exploración), fomenta la confianza en un espacio seguro (el círculo), y luego pasa a la selección y composición (estructuración). Este método permite que la coreografía sea una creación auténtica de los estudiantes. Las opciones A y C se basan en la copia y la imitación, limitando la creatividad y el desarrollo de un lenguaje corporal propio.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p30",
+      "contexto": "Varios estudiantes de diversos grados asisten a la primera clase de un taller de teatro, y se muestran tensos e incómodos al inicio de ella.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es la estrategia más pertinente para abordar esta situación?",
+          "opciones": [
+            "Realizar juegos de presentación e integración con todos los estudiantes.",
+            "Narrar experiencias de éxito que el docente o sus colegas hayan tenido en situaciones similares.",
+            "Presentar información sobre la importancia que tiene la actuación para desarrollar una buena autoestima."
+          ],
+          "respuesta": "Realizar juegos de presentación e integración con todos los estudiantes.",
+          "respuestaCorta": "Para romper el hielo y generar un clima de confianza en un taller de teatro, la estrategia más efectiva es utilizar juegos de integración que involucren el cuerpo y la interacción grupal.",
+          "solucionario": "La tensión e incomodidad inicial en un grupo de teatro es común. La mejor manera de superarla es a través de la acción y la interacción lúdica. Los juegos de presentación e integración (opción A) permiten que los estudiantes se conozcan, se diviertan y entren en un estado de confianza y desinhibición, que es fundamental para el trabajo actoral. Las opciones B y C son enfoques teóricos o verbales que no son tan efectivos para romper la tensión corporal y grupal.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p31",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "En el contexto de la actuación, ¿a qué se denomina \"memoria emotiva\"?",
+          "opciones": [
+            "Al uso que hacen los actores de sus memorias personales para construir un personaje.",
+            "A las emociones que surgen en los personajes cuando recuerdan su pasado.",
+            "A las reacciones emocionales del público al empatizar con los personajes."
+          ],
+          "respuesta": "Al uso que hacen los actores de sus memorias personales para construir un personaje.",
+          "respuestaCorta": "La memoria emotiva es una técnica actoral en la que el actor recurre a sus propias experiencias y emociones pasadas para dar veracidad y profundidad a la emoción del personaje.",
+          "solucionario": "La 'memoria emotiva' o 'memoria afectiva' es un concepto clave del método de actuación desarrollado por Konstantín Stanislavski. Consiste en que el actor evoque conscientemente una emoción que vivió en su pasado para poder recrearla de manera auténtica en escena, al servicio del personaje que está interpretando. No se refiere a las emociones del personaje (B) ni del público (C), sino a una herramienta del actor.",
+          "seccion": "Conocimientos Disciplinares"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p32",
+      "contexto": "En una sesión de aprendizaje, los estudiantes realizan la siguiente actividad:\nSe sientan en el piso, distribuidos de manera más o menos uniforme. A la señal del docente, deben ponerse de pie lentamente, de manera sincronizada, y caminar por la sala. Comienzan caminando lentamente y, luego, deben ir aumentando la velocidad progresivamente hasta correr sin perder nunca la sincronización. Luego, deben disminuir su velocidad poco a poco, hasta caminar muy lento y, finalmente, sentarse de nuevo. Todo este proceso deben realizarlo sin ninguna música de fondo o acompañamiento sonoro.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "En el marco del desarrollo de capacidades para el teatro, ¿cuál es el propósito principal de la actividad descrita?",
+          "opciones": [
+            "Que los estudiantes desarrollen sus habilidades para controlar el tiempo en el desarrollo de la trama teatral.",
+            "Que los estudiantes desarrollen el control de su cuerpo y sus movimientos para favorecer su expresión corporal.",
+            "Que los estudiantes desarrollen su capacidad de estar atentos a lo que ocurre en su entorno y a los movimientos de los demás."
+          ],
+          "respuesta": "Que los estudiantes desarrollen su capacidad de estar atentos a lo que ocurre en su entorno y a los movimientos de los demás.",
+          "respuestaCorta": "El objetivo principal del ejercicio es desarrollar la escucha y la atención grupal, ya que los estudiantes deben sincronizar sus movimientos sin un estímulo externo como la música.",
+          "solucionario": "Aunque el ejercicio implica control corporal (B), su propósito principal es la 'escucha' colectiva. Al no tener una guía sonora, los estudiantes se ven obligados a estar extremadamente atentos a sus compañeros para mantener la sincronización en los cambios de ritmo y velocidad. Esta capacidad de atención y conexión con el grupo es fundamental en el trabajo actoral en escena.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Tomando en cuenta el propósito de la actividad, ¿por qué motivo es pertinente que NO haya música de fondo o acompañamiento sonoro durante la actividad?",
+          "opciones": [
+            "Porque distrae la atención de los estudiantes y no pueden concentrarse en las acciones que están ejecutando.",
+            "Porque la música induce a los estudiantes a ejecutar movimientos de danza, lo que genera mayor dificultad.",
+            "Porque induce a los estudiantes a coordinar los movimientos con la velocidad de la música o el acompañamiento."
+          ],
+          "respuesta": "Porque induce a los estudiantes a coordinar los movimientos con la velocidad de la música o el acompañamiento.",
+          "respuestaCorta": "Eliminar la música obliga a que la fuente de coordinación no sea externa, sino que provenga de la atención mutua y la conexión entre los propios estudiantes.",
+          "solucionario": "Si hubiera música, los estudiantes coordinarían sus movimientos con el ritmo musical, que es un estímulo externo. Al quitar la música, se les fuerza a encontrar la coordinación dentro del propio grupo, dependiendo únicamente de la observación y la 'escucha' entre ellos. Esto potencia el propósito principal del ejercicio, que es desarrollar la atención y la conexión grupal.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p34",
+      "contexto": "El filósofo Georg Wilhelm Friedrich Hegel decía sobre lo trágico que \"consiste en que, en un conflicto, ambas partes de la oposición tengan razón, pero que no puedan alcanzar el verdadero contenido de su finalidad sino negando e hiriendo a la otra fuerza, que también tiene los mismos derechos, y de este modo se hacen culpables en su moralidad y por esta moralidad misma\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Los estudiantes están evaluando ideas para escribir una obra de teatro. ¿Cuál de ellas se acerca más a lo propuesto por Hegel sobre lo trágico?",
+          "opciones": [
+            "Juan compite intensamente contra Pablo en la final de un torneo de Karate. Si Juan vence a Pablo, logrará ganarse el respeto de su padre; si lo pierde, será duramente castigado por él.",
+            "Dos niños han chocado accidentalmente en el parque y se han hecho heridas leves. Los padres de los niños pelean en la posta médica para lograr que su hijo sea atendido primero.",
+            "Adriana es amiga de Francisco y Rodrigo. Ambos están perdidamente enamorados de ella, y despliegan todo tipo de estrategias desesperadas para convertirse en su pareja."
+          ],
+          "respuesta": "Dos niños han chocado accidentalmente en el parque y se han hecho heridas leves. Los padres de los niños pelean en la posta médica para lograr que su hijo sea atendido primero.",
+          "respuestaCorta": "La situación de los padres en la posta médica representa un conflicto trágico hegeliano, donde ambas partes tienen una justificación moral válida (cuidar a su hijo), pero solo pueden lograr su objetivo perjudicando al otro.",
+          "solucionario": "Según la definición de Hegel, lo trágico surge de un choque entre dos posturas igualmente legítimas o justas. En la opción C, ambos padres tienen razón y el mismo derecho a querer que su hijo sea atendido primero. Sin embargo, para lograr su objetivo (justo), deben negar el derecho igualmente justo del otro padre, lo que genera un conflicto trágico e irresoluble sin que una de las justicias sea herida. Las otras opciones presentan conflictos de competencia (A) o rivalidad (B), pero no este choque de 'derechos' morales.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Lea la siguiente sinopsis:\n\"Raúl intenta convencer a Luisa de que abra una panadería y lo contrate como maestro panadero. Lo que Luisa ignora es que Raúl aspira a ganarse su confianza para posteriormente estafarla. Juan Carlos, rival de Raúl desde la infancia, conoce sus planes, y conspira para revelar las intenciones de Raúl a Luisa, y así ganarse su confianza porque él también quiere estafarla\".\n¿La premisa corresponde con la definición propuesta por Hegel?",
+          "opciones": [
+            "Sí, porque tanto Raúl como Juan Carlos tienen la misma motivación.",
+            "No, porque ni Raúl ni Juan Carlos tienen justificación para sus planes.",
+            "Sí, porque ya sea que gane Raúl o Juan Carlos, Luisa será inevitablemente herida."
+          ],
+          "respuesta": "No, porque ni Raúl ni Juan Carlos tienen justificación para sus planes.",
+          "respuestaCorta": "La situación no es trágica en el sentido hegeliano porque ninguna de las partes en conflicto (Raúl y Juan Carlos) actúa desde una posición moralmente justificada; ambos son malintencionados.",
+          "solucionario": "Para que un conflicto sea trágico según Hegel, ambas partes deben tener una base moral o 'razón' para sus acciones. En la sinopsis presentada, tanto Raúl como Juan Carlos actúan por motivos egoístas e inmorales (estafar a Luisa). No hay un choque de 'derechos' o 'justicias', sino una competencia entre dos villanos. Por lo tanto, no cumple con la definición hegeliana de lo trágico.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p36",
+      "contexto": "Los estudiantes han leído \"Dioses y hombres de Huarochirí\", texto tradicional quechua traducido por José María Arguedas que narra los mitos de los antiguos peruanos sobre el origen del mundo. Los estudiantes eligen uno de los mitos para representarlo en una escena y se organizan en grupos. Cada estudiante debe escoger uno de los personajes del relato seleccionado para representarlo libremente utilizando sus cuerpos y su voz mientras se desplazan por el escenario. La docente va dando algunas indicaciones; por ejemplo, \"¿Cómo camina su personaje?\", \"¿Cómo baila su personaje?\", \"¿Cómo se despierta su personaje?\", \"¿Cómo come su personaje?\". Los estudiantes representan las acciones indicadas de la manera en que las haría el personaje que han escogido.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es el propósito principal de la actividad?",
+          "opciones": [
+            "Que los estudiantes construyan las características físicas y de comportamiento del personaje elegido.",
+            "Que los estudiantes identifiquen las motivaciones y obstáculos que enfrenta el personaje que han escogido.",
+            "Que los estudiantes desarrollen competencias necesarias para la improvisación teatral."
+          ],
+          "respuesta": "Que los estudiantes construyan las características físicas y de comportamiento del personaje elegido.",
+          "respuestaCorta": "La actividad se centra en la exploración corporal para definir cómo se mueve y se comporta un personaje, lo cual es la base para su construcción física.",
+          "solucionario": "El propósito de las preguntas de la docente (\"¿Cómo camina?\", \"¿Cómo come?\") es guiar a los estudiantes en un proceso de construcción del personaje desde el exterior, es decir, a partir de su fisicalidad y sus acciones cotidianas. Este proceso de exploración corporal les permite definir y dar forma a las características visibles y de comportamiento del personaje que van a interpretar. Es un paso fundamental en el trabajo actoral.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+
+  
+    {
+      "idGrupo": "asc_secundaria_2023_p37",
+      "contexto": "Los estudiantes han leído \"Dioses y hombres de Huarochirí\", texto tradicional quechua traducido por José María Arguedas que narra los mitos de los antiguos peruanos sobre el origen del mundo. Los estudiantes eligen uno de los mitos para representarlo en una escena y se organizan en grupos. Cada estudiante debe escoger uno de los personajes del relato seleccionado para representarlo libremente utilizando sus cuerpos y su voz mientras se desplazan por el escenario. La docente va dando algunas indicaciones; por ejemplo, \"¿Cómo camina su personaje?\", \"¿Cómo baila su personaje?\", \"¿Cómo se despierta su personaje?\", \"¿Cómo come su personaje?\". Los estudiantes representan las acciones indicadas de la manera en que las haría el personaje que han escogido.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Luego, la docente reagrupa a los estudiantes según el personaje que han elegido, un grupo por cada personaje. A continuación, les solicita a los estudiantes que, uno a uno, por turnos, representen al personaje elegido mientras los demás compañeros del grupo observan. Cuando todos los estudiantes del grupo han participado, la docente comenta: \"¿Se han dado cuenta de que todos han representado al mismo personaje, pero cada uno lo ha hecho de forma diferente? ¿Podríamos decir que una forma es mejor que otra?\". ¿Cuál es el propósito principal de la pregunta realizada por la docente?",
+          "opciones": [
+            "Que los estudiantes comparen sus interpretaciones del personaje e identifiquen la que consideran mejor.",
+            "Que los estudiantes comprendan que no hay una sola manera de interpretar a los personajes de una obra teatral.",
+            "Que los estudiantes amplíen su repertorio de movimientos y gestos para la interpretación del personaje de manera colaborativa."
+          ],
+          "respuesta": "Que los estudiantes comprendan que no hay una sola manera de interpretar a los personajes de una obra teatral.",
+          "respuestaCorta": "El propósito de la docente es que los estudiantes valoren la diversidad de enfoques creativos y comprendan que la interpretación de un personaje es subjetiva y no existe una única forma 'correcta'.",
+          "solucionario": "La pregunta de la docente está diseñada para guiar a los estudiantes hacia una reflexión clave en el arte dramático: no existe una única interpretación válida de un personaje. Al confrontarlos con la diversidad de propuestas de sus propios compañeros, busca que concluyan que la creatividad y la visión personal son valiosas, y que el objetivo no es encontrar la 'mejor' versión, sino explorar las múltiples posibilidades que un personaje ofrece. Esto fomenta el respeto por el trabajo de los demás y la confianza en la propia creatividad.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p38",
+      "contexto": "Una docente entrega a los estudiantes un monólogo breve, de un minuto de duración, y les propone que lo lean y lo aprendan. Luego, la docente solicita un voluntario para que presente el monólogo frente a sus compañeros. Al finalizar su presentación, lo felicita y le propone repetir el monólogo, pero con una entonación diferente. Guiado por la docente, el estudiante repite varias veces el monólogo, explorando diversas entonaciones, introduciendo variantes en la velocidad, las pausas, la fuerza de voz y las emociones desplegadas en cada frase. Luego de cada repetición, la docente solicita a los compañeros que, tomando en cuenta su forma de expresarse, describan las características físicas y psicológicas del personaje. La docente les hace notar que las características del personaje varían según la forma en que se dijo el monólogo, llegando a presentar incluso características opuestas.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es el principal propósito de la actividad descrita?",
+          "opciones": [
+            "Que los estudiantes se den cuenta de las diversas posibilidades que brinda la expresión vocal en la construcción e interpretación de un personaje.",
+            "Que los estudiantes aprecien que los guiones teatrales tienen significados ocultos que solo se pueden evidenciar por medio de una buena actuación.",
+            "Que los estudiantes comprendan que el público tiene diversas apreciaciones de un mismo personaje, dependiendo de su propia manera de ver el mundo."
+          ],
+          "respuesta": "Que los estudiantes se den cuenta de las diversas posibilidades que brinda la expresión vocal en la construcción e interpretación de un personaje.",
+          "respuestaCorta": "El propósito es demostrar cómo la variación en la expresión vocal (entonación, ritmo, volumen) altera radicalmente la percepción y construcción de un personaje a partir de un mismo texto.",
+          "solucionario": "La actividad está centrada en la exploración de la voz como herramienta fundamental para la construcción de personajes. Al mantener el texto fijo y variar únicamente los elementos de la expresión vocal, la docente demuestra de manera práctica y evidente cómo estos cambios modifican por completo al personaje que el público percibe. El objetivo es que los estudiantes tomen conciencia del poder expresivo de la voz en la actuación.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p39",
+      "contexto": "En el teatro se llama \"texto\" al guion escrito y \"subtexto\" a aquellos mensajes o contenidos de la obra que no están escritos en el guion, pero son claramente identificables; es decir, el subtexto es un \"texto\" implícito. El subtexto suele ser expresado por las acciones de los actores, y es más notorio cuando las acciones entran en contradicción con lo que el actor dice.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿En cuál de las siguientes situaciones podemos apreciar una contradicción entre el texto y el subtexto?",
+          "opciones": [
+            "Edwin tropieza con Ana al intentar abordar el transporte público, y provoca que la mochila de Ana caiga al piso. Edwin, molesto porque va retrasado, recoge la mochila y dice: \"¡Lo siento muchísimo!\".",
+            "Sonia le dice a su esposo: \"El próximo domingo viene tu suegro desde España para vernos\". El esposo de Sonia baja los hombros con desgano y mira hacia el piso mientras comenta \"¡Qué noticia fantástica!\".",
+            "Mariela lleva a su gato al veterinario. Al revisarlo, el veterinario observa con detenimiento las patas de la mascota y le pregunta a Mariela: \"¿Se ha escapado mucho este gatito travieso últimamente?\"."
+          ],
+          "respuesta": "Sonia le dice a su esposo: \"El próximo domingo viene tu suegro desde España para vernos\". El esposo de Sonia baja los hombros con desgano y mira hacia el piso mientras comenta \"¡Qué noticia fantástica!\".",
+          "respuestaCorta": "Existe contradicción entre texto y subtexto cuando el lenguaje corporal de un personaje expresa lo contrario a sus palabras, revelando sus verdaderos sentimientos.",
+          "solucionario": "El subtexto se evidencia claramente cuando hay una disonancia entre lo que un personaje dice (texto) y lo que hace o cómo lo dice (acción/lenguaje corporal). En la opción B, el esposo dice una frase positiva (\"¡Qué noticia fantástica!\"), pero su cuerpo expresa lo opuesto (desgano, decepción). Su acción revela el subtexto: en realidad, no le agrada la noticia. Las otras opciones no presentan esta contradicción.",
+          "seccion": "Conocimientos Disciplinares"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p40",
+      "contexto": "Una docente solicita a los estudiantes que piensen en su película favorita y escojan los tres momentos que consideren más importantes. Luego, les pide que diseñen una secuencia de mimo de pocos minutos de duración en la que representen los momentos escogidos y la emoción que les causaron.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es el propósito principal de la actividad descrita?",
+          "opciones": [
+            "Motivar a los estudiantes para que valoren la clase de teatro por permitirles explorar sus obras de ficción favoritas.",
+            "Favorecer que los estudiantes desarrollen su expresión corporal partiendo de un relato con el que se identifican y conocen bien.",
+            "Promover que los estudiantes desarrollen sus capacidades dramatúrgicas tomando como punto de partida sus obras de ficción favoritas."
+          ],
+          "respuesta": "Favorecer que los estudiantes desarrollen su expresión corporal partiendo de un relato con el que se identifican y conocen bien.",
+          "respuestaCorta": "El propósito es utilizar una historia conocida y emocionalmente significativa para el estudiante como base para que se concentre en el desarrollo de la expresión corporal y gestual a través del mimo.",
+          "solucionario": "La actividad utiliza una estrategia pedagógica eficaz: parte de un referente conocido y motivador (la película favorita) para que el estudiante no tenga que preocuparse por crear una historia, sino que pueda enfocar toda su energía en el 'cómo' contarla sin palabras. De este modo, el objetivo principal es el desarrollo de la expresión corporal y la capacidad de comunicar acciones y emociones a través del cuerpo, que es la esencia del mimo.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p41",
+      "contexto": "A continuación, se presenta un fragmento del guion de una obra de teatro.\nLéalo atentamente y responda las preguntas 41, 42, 43 y 44.\n\nEI CAPITÁN pasea nerviosamente por el escenario vacío y se le acerca un PASAJERO.\nPASAJERO\n¡Capitán, que fantástico viaje! A nuestra izquierda, islas inexploradas llenas de vegetación y misterio. A la derecha, el mar infinito, hogar de peces, tortugas y ocasionales delfines. Y encima nuestro, el cielo azul y un sol resplandeciente. ¡Cómo quisiera que este viaje no se acabase nunca!\nCAPITÁN\n(hablando para sí mismo)\n¿Se habrá dado cuenta de que nos hemos quedado sin combustible?\nCAPITÁN\n(dirigiéndose al público)\nUstedes, ino vayan a decir nada!",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "En esta escena, ¿qué recurso dramático se evidencia en la intervención del pasajero?",
+          "opciones": [
+            "Escenografía abstracta.",
+            "Arquitectura efímera.",
+            "Decorado verbal."
+          ],
+          "respuesta": "Decorado verbal.",
+          "respuestaCorta": "El 'decorado verbal' es el recurso mediante el cual un personaje describe el entorno, creando la escenografía en la imaginación del público a través de sus palabras.",
+          "solucionario": "El guion especifica que el escenario está 'vacío'. Por lo tanto, toda la ambientación (islas, mar, cielo) es creada por la descripción del pasajero. Este recurso, donde el diálogo construye el espacio escénico, se conoce como decorado verbal. Es una técnica muy utilizada en el teatro para sugerir lugares sin necesidad de una construcción escenográfica literal.",
+          "seccion": "Conocimientos Disciplinares"
+        },
+        {
+          "pregunta": "Las frases del guion destacadas en negrita y con letra cursiva, \"(Hablando para sí mismo)\" y \"(Dirigiéndose al público)\", ¿qué nombre reciben?",
+          "opciones": [
+            "Acotaciones.",
+            "Transiciones.",
+            "Parlamentos."
+          ],
+          "respuesta": "Acotaciones.",
+          "respuestaCorta": "Las indicaciones en un guion sobre acciones, gestos o la forma en que se debe decir un diálogo se denominan acotaciones o didascalias.",
+          "solucionario": "En un texto dramático, las acotaciones (también llamadas didascalias) son las notas, generalmente en cursiva y entre paréntesis, que el dramaturgo incluye para indicar acciones, movimientos, gestos o la intención de los personajes. No son parte del diálogo (parlamento), sino instrucciones para los actores y el director.",
+          "seccion": "Conocimientos Disciplinares"
+        },
+        {
+          "pregunta": "En esta escena, ¿qué recurso se aprecia cuando el capitán habla para sí mismo?",
+          "opciones": [
+            "Extratexto.",
+            "Soliloquio.",
+            "Aparte."
+          ],
+          "respuesta": "Aparte.",
+          "respuestaCorta": "Un 'aparte' es un comentario que un personaje hace para sí mismo o para el público, que los demás personajes en escena supuestamente no escuchan.",
+          "solucionario": "Cuando un personaje dice algo que los otros personajes en el escenario no oyen, se denomina un 'aparte'. Sirve para revelar sus pensamientos o intenciones al público. Se diferencia del 'soliloquio' (opción B) en que este último se da cuando el personaje está solo en el escenario, mientras que el aparte ocurre en presencia de otros personajes.",
+          "seccion": "Conocimientos Disciplinares"
+        },
+        {
+          "pregunta": "En esta escena, ¿qué recurso se evidencia cuando el capitán se dirige al público?",
+          "opciones": [
+            "Ilusión teatral.",
+            "Efecto de inmersión.",
+            "Ruptura de la cuarta pared."
+          ],
+          "respuesta": "Ruptura de la cuarta pared.",
+          "respuestaCorta": "La 'ruptura de la cuarta pared' ocurre cuando un personaje se dirige directamente al público, reconociendo su existencia y rompiendo la ilusión de que la escena es un mundo independiente.",
+          "solucionario": "La 'cuarta pared' es la barrera invisible imaginaria que separa a los actores del público. Cuando un personaje, como el capitán en este caso, habla directamente a los espectadores (\"Ustedes, ino vayan a decir nada!\"), está rompiendo esa barrera y haciendo cómplice al público. Este recurso se llama 'ruptura de la cuarta pared'.",
+          "seccion": "Conocimientos Disciplinares"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p45",
+      "contexto": "El docente lleva a la clase una guitarra acústica y una guitarra eléctrica a fin de que los estudiantes puedan compararlas y comprender las funciones que cumplen las distintas partes de los instrumentos. El docente señala a los estudiantes las diferencias entre las partes de ambos instrumentos, toca unos acordes en ellos y pregunta a los estudiantes: \"¿Por qué creen que la guitarra acústica suena más fuerte que la eléctrica cuando no está conectada al amplificador?\". Tres estudiantes responden:\nDaniela: \"Porque el cuerpo de la guitarra acústica es hueco y vibra un montón, y eso hace que funcione parecido a un parlante\".\nMiriam: \"Porque el puente de la guitarra acústica es de madera y vibra más que el puente de la eléctrica, que es de metal\".\nMicky: \"Porque las cuerdas de la guitarra acústica son más gruesas y vibran con más fuerza, y eso hace que el cuerpo de la guitarra suene también más fuerte\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué estudiante ha brindado una explicación correcta?",
+          "opciones": [
+            "Daniela.",
+            "Miriam.",
+            "Micky."
+          ],
+          "respuesta": "Daniela.",
+          "respuestaCorta": "La guitarra acústica suena sin amplificación porque su cuerpo hueco, la caja de resonancia, amplifica de forma natural la vibración de las cuerdas.",
+          "solucionario": "La explicación de Daniela es la correcta. El sonido de la guitarra acústica se produce por la vibración de las cuerdas, la cual se transmite a través del puente a la tapa armónica y es amplificada por la caja de resonancia (el cuerpo hueco del instrumento), que actúa como un resonador acústico. La guitarra eléctrica, al tener un cuerpo mayormente sólido, no posee esta capacidad de amplificación natural y depende de las pastillas magnéticas y un amplificador externo.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p46",
+      "contexto": "Los estudiantes de la clase de Arte y Cultura van a aprender a tocar flauta dulce por primera vez. Luego de recoger sus saberes previos y explorar libremente el sonido de las flautas, el docente les muestra la forma más adecuada de soplar el instrumento y las posiciones de los dedos para tocar cuatro notas: do (agudo), si, la y sol.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes acciones del docente es la menos pertinente para que los estudiantes continúen su proceso de aprendizaje?",
+          "opciones": [
+            "Solicitar a los estudiantes que, en grupos, compongan de manera colaborativa una melodía sencilla utilizando solo las notas aprendidas y que la practiquen para tocarla frente a sus compañeros.",
+            "Enseñar a los estudiantes las posiciones de los dedos para tocar las notas fa, mi, re y do grave, de manera que aprendan una escala musical completa antes de empezar a tocar melodías en sus instrumentos.",
+            "Enseñar a los estudiantes varias melodías sencillas que contengan solo las cuatro notas mostradas en diversas combinaciones, para que practiquen las posiciones de los dedos y los cambios de posición de nota a nota."
+          ],
+          "respuesta": "Enseñar a los estudiantes las posiciones de los dedos para tocar las notas fa, mi, re y do grave, de manera que aprendan una escala musical completa antes de empezar a tocar melodías en sus instrumentos.",
+          "respuestaCorta": "La acción menos pertinente es sobrecargar a los estudiantes con más información técnica (más notas) antes de que hayan consolidado y aplicado creativamente lo que acaban de aprender.",
+          "solucionario": "En un proceso de aprendizaje musical inicial, es crucial consolidar los primeros conocimientos antes de introducir nuevos. Las opciones A (composición creativa) y C (práctica de melodías sencillas) son pertinentes porque permiten a los estudiantes aplicar y afianzar el manejo de las cuatro notas que acaban de aprender. En cambio, la opción B es la menos pertinente porque introduce cuatro notas nuevas de inmediato, lo que puede generar sobrecarga cognitiva y frustración, sin dar tiempo a la práctica y asimilación de las primeras.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p47",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes estrategias es más pertinente para favorecer que los estudiantes dominen el solfeo rítmico?",
+          "opciones": [
+            "Representar la subdivisión de los pulsos mediante gráficos para facilitar la comprensión de las figuras rítmicas.",
+            "Resaltar en las partituras las distintas figuras rítmicas y sus combinaciones con colores diferentes.",
+            "Asociar conjuntos de sílabas predefinidos para representar a las figuras rítmicas y sus combinaciones."
+          ],
+          "respuesta": "Asociar conjuntos de sílabas predefinidos para representar a las figuras rítmicas y sus combinaciones.",
+          "respuestaCorta": "El uso de sílabas rítmicas (como en el método Kodály) es una estrategia muy efectiva para interiorizar las figuras musicales, ya que asocia cada patrón rítmico con un patrón fonético fácil de recordar y ejecutar.",
+          "solucionario": "La estrategia más pertinente y extendida para la enseñanza del solfeo rítmico es la fononimia, es decir, asociar sílabas a las figuras rítmicas (por ejemplo, 'ta' para la negra, 'ti-ti' para las dos corcheas). Métodos como el Kodály o el Orff se basan en este principio. Esta técnica convierte un concepto abstracto (la duración de una nota) en algo concreto y corporal (la pronunciación de una sílaba), facilitando enormemente su aprendizaje y ejecución. Las otras opciones pueden ser ayudas visuales, pero la asociación con sílabas es más efectiva para la interiorización del ritmo.",
+          "seccion": "Conocimientos Pedagógicos"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p48",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "En música, ¿cuál de los siguientes elementos de la armonía es comúnmente asociado con un sentimiento de alegría?",
+          "opciones": [
+            "Las progresiones armónicas.",
+            "Los acordes aumentados.",
+            "La tonalidad mayor."
+          ],
+          "respuesta": "La tonalidad mayor.",
+          "respuestaCorta": "En la tradición musical occidental, la tonalidad mayor se asocia culturalmente con emociones como la alegría, la luminosidad y el triunfo.",
+          "solucionario": "Culturalmente, en la música occidental, se ha establecido una fuerte asociación entre las tonalidades mayores y las emociones consideradas 'positivas' como la alegría, la grandeza o la celebración. Por el contrario, las tonalidades menores suelen asociarse con la tristeza, la melancolía o el drama. Las progresiones armónicas (A) son secuencias de acordes y los acordes aumentados (B) generan tensión, pero la cualidad general de 'alegría' está ligada a la tonalidad mayor.",
+          "seccion": "Conocimientos Disciplinares"
+        }
+      ]
+    },
+
+  
+    {
+      "idGrupo": "asc_secundaria_2023_p49",
+      "contexto": "Un docente de Arte y Cultura desarrolla una unidad en la cual sus estudiantes están apreciando una diversidad de canciones de música criolla. Tres estudiantes expresan sus opiniones sobre el vals \"Callejón de un solo caño\":\nHéctor: \"La música de la canción es alegre, pero la letra toca también temas tristes, como la pobreza y la gente que vive con un solo caño para varias familias\".\nLuciana: \"La voz es más aguda en la parte del coro, y eso le da más alegría al contarnos del taconear en la jarana\".\nMicaela: \"La canción tiene ritmo de vals criollo: si uno se pone a contar los tiempos, puede sentir claramente la división en tres pulsos y la rapidez del ritmo\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué estudiante está haciendo un análisis exclusivamente formal de la canción?",
+          "opciones": [
+            "Héctor.",
+            "Luciana.",
+            "Micaela."
+          ],
+          "respuesta": "Micaela.",
+          "respuestaCorta": "Micaela realiza un análisis formal porque se enfoca en los elementos estructurales y técnicos de la música, como el ritmo y el compás, sin interpretar su contenido.",
+          "solucionario": "El análisis formal en la música se centra en sus elementos constitutivos objetivos: ritmo, métrica, melodía, armonía, forma, etc. Micaela es la única que describe la pieza en estos términos (\"ritmo de vals criollo\", \"tres pulsos\", \"rapidez del ritmo\"). Héctor realiza un análisis de contenido, relacionando la música con la letra y el tema social. Luciana hace un análisis expresivo, vinculando un elemento técnico (tesitura de la voz) con una emoción (alegría).",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p50",
+      "contexto": "Un docente de Arte muestra a sus estudiantes de cuarto grado la escena de una película, sin audio, extraída de internet. Luego vuelve a mostrar la escena, pero acompañando diversas secciones con piezas de música que él ha seleccionado previamente, y va preguntando a los estudiantes: \"¿Qué sentimientos les provoca esta pieza musical? ¿Cuáles escogerían para cada parte de la escena? ¿Por qué serían las más apropiadas? ¿Las piezas musicales escogidas refuerzan o contradicen lo que nos cuentan las imágenes?\". Finalmente, el docente pide a los estudiantes que propongan nuevos cambios en la posición de las piezas de música dentro de la escena, ensayando diversas posibilidades, mientras comentan las ventajas y desventajas que observan en cada caso.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es el propósito de esta secuencia didáctica?",
+          "opciones": [
+            "Que los estudiantes comprendan la función y contribución de la música en el lenguaje cinematográfico.",
+            "Que los estudiantes analicen y clasifiquen los diversos estados de ánimo que pueden ser representados con música.",
+            "Que los estudiantes identifiquen qué sentimientos transmite cada una de las partes de la escena de la película traída por el docente."
+          ],
+          "respuesta": "Que los estudiantes comprendan la función y contribución de la música en el lenguaje cinematográfico.",
+          "respuestaCorta": "La actividad está diseñada para que los estudiantes exploren y comprendan cómo la música (banda sonora) interactúa con la imagen para construir significado, generar emociones y narrar una historia en el cine.",
+          "solucionario": "El propósito principal de la actividad es que los estudiantes descubran el rol de la música en el cine de manera práctica. Al experimentar con diferentes piezas musicales sobre la misma escena, ellos mismos comprueban cómo la música no es un simple acompañamiento, sino que puede reforzar, contradecir o transformar por completo el significado de las imágenes. De esta forma, comprenden su función narrativa y emocional dentro del lenguaje audiovisual.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p51",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Cuando se aprende a tocar un instrumento musical, ¿cuál de las siguientes alternativas presenta la principal ventaja del uso de una grabadora de sonido digital?",
+          "opciones": [
+            "Permite comparar la música tocada por uno mismo con otras grabaciones de piezas musicales similares realizadas por músicos profesionales.",
+            "Permite mejorar el resultado de la grabación utilizando diversos filtros y efectos digitales para corregir las imperfecciones de la ejecución del instrumento.",
+            "Permite escuchar la música tocada por uno mismo sin la distracción que implica estar tocando el instrumento, lo que posibilita una mejor apreciación del propio desempeño."
+          ],
+          "respuesta": "Permite escuchar la música tocada por uno mismo sin la distracción que implica estar tocando el instrumento, lo que posibilita una mejor apreciación del propio desempeño.",
+          "respuestaCorta": "Grabar la propia ejecución permite al músico convertirse en oyente, facilitando una autoevaluación más objetiva de su desempeño al no tener que concentrarse simultáneamente en tocar.",
+          "solucionario": "La principal ventaja pedagógica de grabarse es la posibilidad de desarrollar la escucha crítica sobre el propio trabajo. Mientras una persona toca un instrumento, gran parte de su atención está en la ejecución técnica (digitación, ritmo, etc.). Al escuchar la grabación, puede enfocarse al 100% en el resultado sonoro (afinación, timbre, dinámica, errores), lo que permite una autoevaluación mucho más precisa y efectiva para la mejora.",
+          "seccion": "Conocimientos Pedagógicos"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p52",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes alternativas presenta la razón principal por la que es importante tener una buena postura al tocar un instrumento?",
+          "opciones": [
+            "Porque causa una buena impresión en el público.",
+            "Porque mejora el ánimo y la predisposición del músico.",
+            "Porque permite que la ejecución del instrumento sea más eficiente."
+          ],
+          "respuesta": "Porque permite que la ejecución del instrumento sea más eficiente.",
+          "respuestaCorta": "Una postura correcta es fundamental para la técnica instrumental, ya que previene tensiones innecesarias y permite que la energía del cuerpo se utilice de manera óptima para la ejecución.",
+          "solucionario": "La razón principal para una buena postura es técnica y fisiológica. Una postura adecuada alinea el cuerpo, libera tensiones musculares y permite una respiración correcta, lo que se traduce en una ejecución más fluida, controlada y eficiente. Además, previene lesiones a largo plazo. Aunque puede mejorar la presencia escénica (A) y el estado de ánimo (B), su función primordial es optimizar el rendimiento técnico.",
+          "seccion": "Conocimientos Disciplinares"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p53",
+      "contexto": "Los estudiantes de la clase de Arte y Cultura han aprendido a tocar flauta dulce soprano. El docente se propone que los estudiantes exploren la improvisación musical de solos como parte del desarrollo de sus capacidades de creación artística.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Para comenzar, los estudiantes van a improvisar un solo. Para ello, el docente ha grabado la progresión armónica sencilla C/Am/F/G, que usará como acompañamiento musical mientras los estudiantes improvisan con la flauta. Para iniciar su exploración, los estudiantes improvisarán melodías utilizando solo tres notas. ¿Cuál de los siguientes conjuntos de notas, dentro de una misma octava, es más pertinente que sugiera el docente utilizar a los estudiantes para la improvisación?",
+          "opciones": [
+            "Las notas \"do\", \"fa\" y \"si\".",
+            "Las notas \"re\", \"fa\" y \"la\".",
+            "Las notas \"mi\", \"fa\" y \"sol\"."
+          ],
+          "respuesta": "Las notas \"mi\", \"fa\" y \"sol\".",
+          "respuestaCorta": "Para una progresión en Do Mayor (C/Am/F/G), el grupo de notas 'mi', 'fa', 'sol' es muy estable y consonante, lo que facilita una primera experiencia de improvisación sin generar disonancias fuertes.",
+          "solucionario": "La progresión de acordes C (Do Mayor), Am (La menor), F (Fa Mayor) y G (Sol Mayor) pertenece a la tonalidad de Do Mayor. Para una improvisación inicial exitosa, se deben usar notas que suenen bien sobre la mayoría de los acordes. El conjunto 'mi-fa-sol' es melódicamente coherente y sus notas tienen afinidad con los acordes de la base: 'mi' y 'sol' son parte del acorde de C; 'mi' es parte de Am; 'fa' es la fundamental de F; y 'sol' es la fundamental de G. Esto garantiza un resultado sonoro agradable y manejable para principiantes. Otras opciones como 'si' (opción A) chocarían fuertemente con el acorde de F.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Utilizando las tres notas escogidas y el acompañamiento grabado, y después de haber realizado ejercicios de exploración de las tres notas como material sonoro, ¿cuál de las siguientes actividades es más adecuada para continuar la exploración de la improvisación musical?",
+          "opciones": [
+            "Invitar a un estudiante a improvisar un diálogo con el docente utilizando las tres notas; el docente inicia una frase musical, y el estudiante la completa libremente. Luego, la clase repetirá la dinámica por turnos, organizados en parejas.",
+            "Sugerir a los estudiantes que, en parejas, toquen libremente, por turnos, lo primero que se les ocurra, prestando atención a aquellas partes de la improvisación que más les gustaron para intentar luego reproducirlas.",
+            "Proponer a los estudiantes que piensen en una idea que les gustaría transmitir, y luego que improvisen libremente desplazándose por el salón, intentando comunicar esa idea con las tres notas escogidas."
+          ],
+          "respuesta": "Invitar a un estudiante a improvisar un diálogo con el docente utilizando las tres notas; el docente inicia una frase musical, y el estudiante la completa libremente. Luego, la clase repetirá la dinámica por turnos, organizados en parejas.",
+          "respuestaCorta": "La estrategia de 'pregunta y respuesta' musical es un método pedagógico clásico para enseñar improvisación, ya que estructura la creatividad dentro de un diálogo interactivo y manejable.",
+          "solucionario": "La opción A propone una actividad de 'llamada y respuesta' (pregunta-respuesta musical), que es un excelente paso intermedio en la improvisación. Proporciona una estructura clara (el estudiante debe responder a una frase inicial), fomenta la escucha activa y mantiene la improvisación dentro de un marco breve y enfocado. Es más estructurada que la improvisación totalmente libre (opción B) y más centrada en la interacción musical que en la expresión de ideas externas (opción C).",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Los estudiantes han realizado varios ejercicios de improvisación con tres notas, y están listos para improvisar melodías con más notas musicales. El docente decide grabar la progresión armónica Cm7/EbM7/Fm7/Fm7/ y ponerla de fondo mientras invita a los estudiantes a improvisar. El docente enseñará a los estudiantes una escala que no produzca fuertes disonancias con ninguno de los acordes de la progresión durante la improvisación. ¿Cuál de las siguientes escalas es más pertinente?",
+          "opciones": [
+            "Escala mayor de do.",
+            "Escala menor melódica de do.",
+            "Escala pentatónica menor de do."
+          ],
+          "respuesta": "Escala pentatónica menor de do.",
+          "respuestaCorta": "La escala pentatónica menor de Do (C-Eb-F-G-Bb) es la más adecuada porque todas sus notas son consonantes con la progresión armónica dada, que está en la tonalidad de Do menor.",
+          "solucionario": "La progresión Cm7 (Do menor 7), EbM7 (Mi bemol Mayor 7) y Fm7 (Fa menor 7) pertenece claramente a la tonalidad de Do menor. La escala más segura y universalmente utilizada para improvisar sobre una armonía menor es la escala pentatónica menor. La pentatónica menor de Do consta de las notas: Do, Mi bemol, Fa, Sol, Si bemol. Todas estas notas funcionan bien y sin disonancias fuertes sobre los tres acordes de la progresión, lo que la convierte en la opción más segura y pertinente para que los estudiantes improvisen.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p56",
+      "contexto": "Los estudiantes van a interpretar una canción a capella, es decir, sin acompañamiento instrumental. La canción tiene dos voces, que constan de melodías independientes entre sí, tanto en lo rítmico como en lo melódico, y ninguna de ellas predomina sobre la otra.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué tipo de textura musical tiene la canción que van a interpretar los estudiantes?",
+          "opciones": [
+            "Polifónica.",
+            "Monofónica.",
+            "Homofónica."
+          ],
+          "respuesta": "Polifónica.",
+          "respuestaCorta": "La textura es polifónica porque consiste en dos o más líneas melódicas independientes que suenan simultáneamente.",
+          "solucionario": "La textura musical se refiere a cómo se combinan las diferentes líneas melódicas y rítmicas. La descripción ('dos voces', 'melodías independientes entre sí, tanto en lo rítmico como en lo melódico') corresponde exactamente a la definición de polifonía. La monofonía sería una sola línea melódica, y la homofonía sería una melodía principal acompañada por acordes.",
+          "seccion": "Conocimientos Disciplinares"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p57",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "En la música popular, ¿cuál de las siguientes alternativas corresponde a una sección contrastante dentro de una pieza musical, que sirve como articulación entre otras secciones?",
+          "opciones": [
+            "Desarrollo.",
+            "Estrofa.",
+            "Puente."
+          ],
+          "respuesta": "Puente.",
+          "respuestaCorta": "El 'puente' es una sección de transición en una canción que conecta dos partes principales (como una estrofa y un coro) y que presenta un contraste melódico o armónico.",
+          "solucionario": "En la estructura de la música popular (verso-coro), el 'puente' (bridge) es una sección que típicamente aparece una sola vez, a menudo después del segundo coro, y que introduce material musical nuevo y contrastante. Su función es romper la repetición y crear una transición que genere interés antes de volver a una sección conocida, como el coro final. La 'estrofa' es una sección principal y el 'desarrollo' es un término más asociado a la forma sonata de la música clásica.",
+          "seccion": "Conocimientos Disciplinares"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p58",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "En la actualidad, la música andina presenta un conjunto de influencias de distintas culturas. Esto se manifiesta, por ejemplo, en los instrumentos musicales que utiliza. ¿Cuál de los siguientes instrumentos utilizados en la música andina es fruto de la influencia de la cultura occidental?",
+          "opciones": [
+            "Charango.",
+            "Antara.",
+            "Pututo."
+          ],
+          "respuesta": "Charango.",
+          "respuestaCorta": "El charango es un instrumento de cuerda que se originó en la región andina durante la época colonial, adaptando la forma de la vihuela de mano traída por los españoles.",
+          "solucionario": "La antara (un tipo de zampoña) y el pututo (trompeta de caracola) son instrumentos de origen prehispánico. El charango, en cambio, es un instrumento mestizo. Nació en la zona andina de Bolivia y Perú a partir de la adaptación de instrumentos de cuerda pulsada europeos, como la vihuela de mano, que llegaron con la conquista española. Por lo tanto, es el más claro ejemplo de la influencia occidental en el instrumentario andino.",
+          "seccion": "Conocimientos Disciplinares"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p59",
+      "contexto": "En una IE que cuenta con instrumentos musicales propios, un estudiante va a aprender a tocar la trompeta. En su primer contacto con el instrumento, la trompeta no produce ninguna nota musical cuando el estudiante la sopla: solo se escucha el sonido del aire pasando a través del instrumento.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes recomendaciones es más pertinente para solucionar este problema?",
+          "opciones": [
+            "\"Mantén unidos tus labios como si fueras a pronunciar la letra 'm', e imita el zumbido de una abeja mientras soplas aire dentro del instrumento\".",
+            "\"Coloca tus labios como si fueras a dar un beso en la mejilla. Sin alterar esa posición, sopla lentamente en la boquilla del instrumento, con cuidado de no inyectar demasiado aire\".",
+            "\"Junta tus labios en la boquilla del instrumento, pero sin hacer mucha presión contra ella. Sopla con mucha fuerza utilizando los músculos abdominales para obtener mayor presión de aire\"."
+          ],
+          "respuesta": "\"Mantén unidos tus labios como si fueras a pronunciar la letra 'm', e imita el zumbido de una abeja mientras soplas aire dentro del instrumento\".",
+          "respuestaCorta": "La técnica fundamental para producir sonido en un instrumento de viento metal es la vibración de los labios (buzzing), y la analogía del zumbido de una abeja es el método más efectivo para enseñarla.",
+          "solucionario": "El sonido de la trompeta se genera por la vibración de los labios del músico en la boquilla, no por el simple hecho de soplar. La recomendación de la opción A describe de forma precisa el ejercicio de 'buzzing', que es la base de la embocadura en los instrumentos de metal. Imitar el zumbido de una abeja obliga a los labios a vibrar de la manera correcta para producir el sonido inicial. Las otras opciones describen posiciones labiales o de soplido incorrectas que no generarán la vibración necesaria.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p60",
+      "contexto": "Durante una experiencia de aprendizaje, los estudiantes van a cantar una canción al unísono, mientras un estudiante los acompaña tocando la guitarra. El estudiante recién sabe tocar tres acordes: mi menor, la mayor y re mayor.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿En qué tonalidad debe estar la canción para que el estudiante pueda acompañarla en la guitarra?",
+          "opciones": [
+            "Do mayor.",
+            "Re mayor.",
+            "La mayor."
+          ],
+          "respuesta": "Re mayor.",
+          "respuestaCorta": "La tonalidad de Re mayor contiene los acordes de Re mayor (I), mi menor (ii) y La mayor (V), que son exactamente los tres acordes que el estudiante sabe tocar.",
+          "solucionario": "Para determinar la tonalidad, debemos ver a qué campo armónico pertenecen los acordes Em, A y D. En la tonalidad de Re mayor, los grados principales son: D (I - tónica), Em (ii - supertónica), G (IV - subdominante) y A (V - dominante). Los tres acordes que sabe el estudiante (Em, A, D) encajan perfectamente como los grados ii, V y I de la tonalidad de Re mayor, formando una progresión muy común (ii-V-I). Por lo tanto, la canción debe estar en Re mayor.",
+          "seccion": "Casuística"
+        }
+      ]
+    }
+  ]
+}
+
+  
