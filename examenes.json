@@ -755,5 +755,18 @@
     "archivos": {
       "especifico": "data/ascenso/primaria/2022/ascenso_primaria2022.json"
     }
+  },
+  {
+    "id": 70,
+    "proceso": "Ascenso",
+    "anio": 2022,
+    "nivel": "Secundaria",
+    "especialidad": "Matemática ",
+    "modalidad": "EBR",
+    "preguntas": 60,
+    "tiempo": 180,
+    "archivos": {
+      "especifico": "data/ascenso/secundaria/2022/ascenso_mate2022.json"
+    }
   }
 ]
