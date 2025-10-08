@@ -846,5 +846,18 @@
     "archivos": {
       "especifico": "data/ascenso/primaria/2022/ascenso_edufisica2022.json"
     }
+  },
+{
+    "id": 77,
+    "proceso": "Ascenso",
+    "anio": 2023,
+    "nivel": "Secundaria",
+    "especialidad": "Comunicación ",
+    "modalidad": "EBR",
+    "preguntas": 60,
+    "tiempo": 180,
+    "archivos": {
+      "especifico": "data/ascenso/secundaria/2023/ascenso_comunicacion2023.json"
+    }
   }
 ]
