@@ -833,5 +833,18 @@
     "archivos": {
       "especifico": "data/ascenso/secundaria/2022/ascenso_aip2022.json"
     }
+  },
+  {
+    "id": 76,
+    "proceso": "Ascenso",
+    "anio": 2022,
+    "nivel": "Primaria",
+    "especialidad": "Educación Física ",
+    "modalidad": "EBR",
+    "preguntas": 60,
+    "tiempo": 180,
+    "archivos": {
+      "especifico": "data/ascenso/primaria/2022/ascenso_edufisica2022.json"
+    }
   }
 ]
