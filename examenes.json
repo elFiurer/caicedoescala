@@ -794,5 +794,18 @@
     "archivos": {
       "especifico": "data/ascenso/secundaria/2022/ascenso_cyt2022.json"
     }
+  },
+  {
+    "id": 73,
+    "proceso": "Ascenso",
+    "anio": 2019,
+    "nivel": "Secundaria",
+    "especialidad": "Educación Religiosa",
+    "modalidad": "EBR",
+    "preguntas": 60,
+    "tiempo": 180,
+    "archivos": {
+      "especifico": "data/ascenso/secundaria/2019/ascenso_religion2019.json"
+    }
   }
 ]
