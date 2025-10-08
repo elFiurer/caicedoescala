@@ -820,5 +820,18 @@
     "archivos": {
       "especifico": "data/ascenso/secundaria/2021/ascenso_religion2021.json"
     }
+  },
+  {
+    "id": 75,
+    "proceso": "Ascenso",
+    "anio": 2022,
+    "nivel": "Secundaria",
+    "especialidad": "Innovación Pedagógica (AIP)",
+    "modalidad": "EBR",
+    "preguntas": 60,
+    "tiempo": 180,
+    "archivos": {
+      "especifico": "data/ascenso/secundaria/2022/ascenso_aip2022.json"
+    }
   }
 ]

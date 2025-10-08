@@ -1,0 +1,1126 @@
+{
+  "completo": [
+    {
+      "idGrupo": "asc_secundaria_2023_p01",
+      "contexto": "Una estudiante busca y selecciona información en fuentes en internet para elaborar un texto acerca de la diversidad de los ecosistemas en nuestro país.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué capacidad del Currículo Nacional está desarrollando principalmente la estudiante al realizar esta actividad?",
+          "opciones": [
+            "Personaliza entornos virtuales.",
+            "Interactúa en entornos virtuales.",
+            "Gestiona información del entorno virtual."
+          ],
+          "respuesta": "Gestiona información del entorno virtual.",
+          "respuestaCorta": "La acción de buscar, seleccionar y utilizar información de fuentes en línea corresponde directamente a la capacidad de gestionar información del entorno virtual.",
+          "solucionario": "La estudiante está realizando un proceso activo de localización, selección y organización de datos provenientes de internet para un propósito específico. Esta actividad se alinea directamente con la capacidad \"Gestiona información del entorno virtual\", que implica el uso de herramientas digitales para acceder y manejar información de manera eficiente y crítica.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p02",
+      "contexto": "Como parte de una sesión de aprendizaje sobre elaboración de prototipos en 3D, una profesora realiza las siguientes preguntas a los estudiantes:\n\"¿Alguna vez han visto un prototipo en 3D? ¿Conocen cómo se elaboran estos prototipos? ¿Qué herramientas tecnológicas se requieren para esto? ¿Cuál creen que es la utilidad de contar con un prototipo en 3D de algún objeto?\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué proceso de aprendizaje ha promovido principalmente la profesora en los estudiantes al realizar estas preguntas?",
+          "opciones": [
+            "La generación de conflicto cognitivo.",
+            "La transferencia de aprendizajes.",
+            "La activación de saberes previos."
+          ],
+          "respuesta": "La activación de saberes previos.",
+          "respuestaCorta": "Las preguntas de la docente están diseñadas para que los estudiantes recuerden y expresen sus conocimientos y experiencias anteriores sobre el tema de prototipos 3D.",
+          "solucionario": "Las interrogantes como \"¿Alguna vez han visto...?\" o \"¿Conocen cómo...?\" apuntan directamente a evocar las experiencias y conocimientos que los estudiantes ya poseen. Esta estrategia pedagógica es fundamental para conectar el nuevo aprendizaje con lo que el estudiante ya sabe, estableciendo una base sólida para la construcción de nuevos conceptos.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p03",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿En cuál de las siguientes actividades se promueve menos el pensamiento crítico en los estudiantes?",
+          "opciones": [
+            "El uso de un video tutorial para elaborar un mapa conceptual sobre las características de la célula.",
+            "El uso de un cuestionario en línea para responder preguntas abiertas acerca de personajes de la historia que los inspiran.",
+            "El uso de un foro para el intercambio de opiniones acerca del impacto de la publicidad en la adquisición de determinados productos."
+          ],
+          "respuesta": "El uso de un video tutorial para elaborar un mapa conceptual sobre las características de la célula.",
+          "respuestaCorta": "Seguir un tutorial es una actividad principalmente procedimental que implica seguir instrucciones, requiriendo menos análisis, evaluación y argumentación que las otras opciones.",
+          "solucionario": "La elaboración de un mapa conceptual siguiendo un video tutorial se centra en la reproducción de pasos y la organización de información ya dada. En contraste, responder preguntas abiertas sobre personajes inspiradores y debatir en un foro sobre el impacto de la publicidad exigen que los estudiantes analicen, evalúen, sinteticen y argumenten sus propias ideas, habilidades centrales del pensamiento crítico.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p04",
+      "contexto": "Observe la siguiente tecla del teclado de una computadora:",
+      "imagen": "img/ascenso/secundaria/2022/aip/1.jpg",
+      "preguntas": [
+        {
+          "pregunta": "¿Qué acción se debe realizar para escribir el caracter \\ de la tecla en un documento?",
+          "opciones": [
+            "Presionar la tecla Shift + la tecla que presenta el caracter \\",
+            "Presionar la tecla Alt Gr + la tecla que presenta el caracter \\",
+            "Presionar las teclas Ctrl + Enter + la tecla que presenta el caracter \\"
+          ],
+          "respuesta": "Presionar la tecla Alt Gr + la tecla que presenta el caracter \\",
+          "respuestaCorta": "La tecla 'Alt Gr' se utiliza para acceder al tercer símbolo de una tecla, que en muchos teclados en español es el caracter de la barra invertida (\\).",
+          "solucionario": "En la distribución de teclados estándar en español (y muchos otros idiomas), las teclas pueden tener hasta tres caracteres. El principal se obtiene pulsando la tecla sola, el secundario (superior) se obtiene con 'Shift', y el terciario (generalmente a la derecha o abajo) se obtiene con 'Alt Gr'. El carácter \\ es un carácter terciario en la tecla mostrada.",
+          "seccion": "Conocimientos Disciplinares y Curriculares"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p05",
+      "contexto": "Como parte de una capacitación sobre seguridad de la información, la PIP comenta lo siguiente:\n\"Uno de los ataques para acceder a las cuentas de correo electrónico de los usuarios consiste en utilizar una gran cantidad de posibles contraseñas almacenadas en un diccionario e identificar la contraseña correcta para acceder a la cuenta de correo electrónico que se desea vulnerar\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué tipo de ataque menciona la PIP?",
+          "opciones": [
+            "Fuerza bruta.",
+            "Phishing.",
+            "DDoS."
+          ],
+          "respuesta": "Fuerza bruta.",
+          "respuestaCorta": "El ataque descrito, que consiste en probar sistemáticamente una gran lista de contraseñas, es una modalidad del ataque de fuerza bruta conocido como ataque de diccionario.",
+          "solucionario": "Un ataque de fuerza bruta consiste en probar todas las combinaciones posibles de contraseñas hasta encontrar la correcta. La descripción específica del uso de una lista de contraseñas probables (un \"diccionario\") es una técnica optimizada dentro de los ataques de fuerza bruta. El Phishing busca engañar al usuario para que revele su contraseña y el DDoS busca inhabilitar un servicio, no robar credenciales.",
+          "seccion": "Conocimientos Disciplinares y Curriculares"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p06",
+      "contexto": "Un profesor del área de Ciencia y Tecnología ha usado una herramienta informática de libre acceso para crear un boletín informativo sobre los hallazgos del telescopio espacial Hubble. El profesor tiene como propósito incrustar este boletín en su blog personal. La herramienta que utilizó el profesor le proporciona las siguientes tres opciones:",
+      "imagen": "img/ascenso/secundaria/2022/aip/2.jpg",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las opciones debe utilizar el profesor para incrustar el boletín en su blog?",
+          "opciones": [
+            "Opción 1.",
+            "Opción 2.",
+            "Opción 3."
+          ],
+          "respuesta": "Opción 2.",
+          "respuestaCorta": "La etiqueta HTML `<iframe>` está diseñada específicamente para incrustar o embeber contenido de otra página web dentro de la página actual.",
+          "solucionario": "La Opción 1 (etiqueta `<a>`) crea un hipervínculo que redirige al usuario fuera del blog. La Opción 3 es simplemente la URL en texto plano. La Opción 2 (etiqueta `<iframe>`) genera un marco en línea que muestra el contenido del boletín directamente dentro de la página del blog del profesor, cumpliendo así el propósito de \"incrustar\".",
+          "seccion": "Conocimientos Disciplinares y Curriculares"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p07",
+      "contexto": "En una de las sesiones de aprendizaje del área de Comunicación, los estudiantes consultarán diferentes páginas en internet para elaborar un resumen en un procesador de texto en el AIP. En el aula se encuentra Carla, una estudiante en condición de discapacidad visual, específicamente baja visión.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "De acuerdo con la condición en la que se encuentra la estudiante y la actividad a desarrollar, ¿cuál de las siguientes acciones es más pertinente realizar?",
+          "opciones": [
+            "Cambiar la resolución de la pantalla.",
+            "Cambiar el tamaño del texto al editar el documento.",
+            "Utilizar el zoom de las aplicaciones de navegación y de edición de texto."
+          ],
+          "respuesta": "Cambiar la resolución de la pantalla.",
+          "respuestaCorta": "Disminuir la resolución de la pantalla aumenta el tamaño de todos los elementos visuales del sistema operativo, siendo una ayuda global para una persona con baja visión.",
+          "solucionario": "Al bajar la resolución de la pantalla (por ejemplo, de 1920x1080 a 1024x768), todos los elementos de la interfaz gráfica (iconos, menús, textos) se magnifican. Esta es una medida de accesibilidad global que beneficia a la estudiante tanto en el navegador como en el procesador de texto, a diferencia de las otras opciones que son específicas de una aplicación o de una parte de ella.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p08",
+      "contexto": "A continuación, se presenta una tabla con la información acerca del espacio disponible de tres diferentes unidades de almacenamiento:",
+      "imagen": "img/ascenso/secundaria/2022/aip/3.jpg",
+      "preguntas": [
+        {
+          "pregunta": "A partir de la tabla, ¿cuál de las siguientes proposiciones es correcta?",
+          "opciones": [
+            "La unidad A y B presentan el mismo espacio de almacenamiento disponible.",
+            "La unidad A presenta mayor espacio de almacenamiento disponible que la unidad C.",
+            "La unidad B presenta menor espacio de almacenamiento disponible que la unidad A."
+          ],
+          "respuesta": "La unidad A y B presentan el mismo espacio de almacenamiento disponible.",
+          "respuestaCorta": "Sabiendo que 1 Gigabyte (GB) equivale a 1024 Megabytes (MB), 10 GB es igual a 10 x 1024 = 10,240 MB, lo que demuestra que A y B son iguales.",
+          "solucionario": "Para comparar correctamente las capacidades de almacenamiento, es necesario convertirlas a la misma unidad. La equivalencia estándar es 1 GB = 1024 MB. Multiplicando la capacidad de la unidad B por esta equivalencia: 10 GB * 1024 MB/GB = 10,240 MB. Este resultado es idéntico al espacio de la unidad A, por lo que la proposición 'a' es la correcta.",
+          "seccion": "Conocimientos Disciplinares y Curriculares"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p09",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿En qué consiste el particionamiento del disco duro?",
+          "opciones": [
+            "En la organización de los datos dentro del disco duro para mejorar los tiempos de acceso a la información.",
+            "En la creación de usuarios y la asignación de permisos de acceso diferenciado a la información contenida en el disco duro.",
+            "En la división del disco duro en nuevas unidades lógicas que pueden ser administradas como si fueran discos duros independientes."
+          ],
+          "respuesta": "En la división del disco duro en nuevas unidades lógicas que pueden ser administradas como si fueran discos duros independientes.",
+          "respuestaCorta": "Particionar un disco duro es el proceso de dividir un disco físico en varias unidades lógicas (particiones), que el sistema operativo trata como si fueran discos separados.",
+          "solucionario": "El particionamiento es la creación de una o más regiones en un disco duro para que el sistema operativo pueda gestionar cada región por separado. Cada una de estas divisiones lógicas, o particiones, aparece en el sistema operativo como una unidad de disco distinta (ej. C:, D:), permitiendo organizar archivos, instalar múltiples sistemas operativos o mejorar la gestión de los datos.",
+          "seccion": "Conocimientos Disciplinares y Curriculares"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p10",
+      "contexto": "Una profesora ha guardado un archivo en una carpeta de una computadora del AIP. Luego, la profesora ha compartido la carpeta para que los estudiantes puedan acceder a esta a través de las demás computadoras del AIP. Algunos estudiantes accedieron a la carpeta y descargaron el archivo. Sin embargo, otros estudiantes no pudieron visualizar la carpeta, a pesar de que esta aparecía como compartida en la computadora de la profesora.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Por qué solamente algunos estudiantes accedieron a la carpeta compartida por la profesora?",
+          "opciones": [
+            "Porque la carpeta fue compartida desde una computadora con sistema operativo de usuario local.",
+            "Porque el tamaño de la carpeta superaba el límite del sistema de archivos del sistema operativo.",
+            "Porque la carpeta fue compartida desde una computadora con sistema operativo servidor."
+          ],
+          "respuesta": "Porque la carpeta fue compartida desde una computadora con sistema operativo de usuario local.",
+          "respuestaCorta": "Los sistemas operativos de escritorio, a diferencia de los de servidor, imponen un límite al número de conexiones simultáneas a un recurso compartido, lo que impidió que todos los estudiantes se conectaran.",
+          "solucionario": "Los sistemas operativos de cliente o de usuario local (como Windows 10/11) tienen una limitación en la cantidad de conexiones de red concurrentes que pueden aceptar para una carpeta compartida (generalmente 20). Cuando este límite se alcanza, los intentos de conexión adicionales son rechazados hasta que una de las conexiones activas se libera. Un sistema operativo de servidor está diseñado para manejar un número mucho mayor de conexiones.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p11",
+      "contexto": "Un PIP desea potenciar una computadora operativa del AIP cambiando el microprocesador que tiene instalado por un microprocesador de una generación mayor. Ambos microprocesadores son compatibles porque pueden ser instalados en el mismo socket de la placa madre. Sin embargo, al instalar el nuevo microprocesador e intentar encender la computadora, esta no muestra la pantalla del POST ni carga el sistema operativo.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué acción debe realizar el PIP para solucionar este problema?",
+          "opciones": [
+            "Actualizar el BIOS.",
+            "Reconectar el disco duro.",
+            "Reinstalar el sistema operativo."
+          ],
+          "respuesta": "Actualizar el BIOS.",
+          "respuestaCorta": "Una placa madre necesita una actualización de su BIOS (firmware) para poder reconocer y soportar microprocesadores de una generación más reciente, incluso si comparten el mismo socket físico.",
+          "solucionario": "La compatibilidad del socket físico no garantiza la compatibilidad lógica. El BIOS (Sistema Básico de Entrada/Salida) de la placa madre contiene el microcódigo necesario para inicializar el procesador. Si el BIOS es anterior al lanzamiento del nuevo CPU, no sabrá cómo comunicarse con él, lo que provoca que el sistema no arranque (no hay POST). Actualizar el BIOS a una versión más reciente, proporcionada por el fabricante de la placa, añade el soporte para los nuevos procesadores.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p12",
+      "contexto": "Un profesor ha planificado utilizar un simulador como parte de una actividad de aprendizaje con los estudiantes. El profesor encontró el simulador en un sitio web, abrió y observó el funcionamiento del simulador en su computadora. Faltando unos días para realizar la actividad, el profesor intentó abrir el simulador en las computadoras del AIP, sin embargo, este no se visualizó y en la pantalla del navegador se observó el siguiente mensaje:\n\"El contenido de esta página requiere una versión más reciente del visor SWF\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "El profesor tiene como propósito ejecutar el simulador en las computadoras del AIP sin eliminar la configuración que se encuentra en el navegador. ¿Cuál de las siguientes acciones es más adecuada para este propósito?",
+          "opciones": [
+            "Buscar el simulador en otro formato y reproducirlo en el navegador.",
+            "Actualizar el plugin del navegador a través de internet.",
+            "Descargar nuevamente el navegador para reinstalarlo."
+          ],
+          "respuesta": "Actualizar el plugin del navegador a través de internet.",
+          "respuestaCorta": "El mensaje de error indica explícitamente que el problema es una versión desactualizada del \"visor SWF\" (Flash Player), por lo que la solución directa es actualizar ese componente específico (plugin).",
+          "solucionario": "El formato SWF pertenece a Adobe Flash, una tecnología que requería un plugin en los navegadores para funcionar. El mensaje de error \"requiere una versión más reciente del visor SWF\" es una instrucción directa que señala que el plugin de Flash Player instalado en las computadoras del AIP está obsoleto. La acción correcta y menos invasiva es actualizar dicho plugin para que sea compatible con el simulador.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+
+   
+    {
+      "idGrupo": "asc_secundaria_2023_p13",
+      "contexto": "Lea la siguiente situación y responda las preguntas 13 y 14.\nUn directivo necesita acceder vía remota, es decir, desde su domicilio, a la computadora ubicada en la dirección de la IE. En ese sentido, el directivo ha solicitado asistencia técnica vía telefónica. Durante la llamada, el técnico le solicita que ejecute la aplicación de símbolo de sistema para obtener los datos de red de la computadora de su domicilio. Estos datos son los siguientes:\n• Nombre de la computadora\n• Dirección IP de la computadora\n• Dirección física de la computadora",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué programa debe ejecutar el directivo para abrir la aplicación de símbolo de sistema?",
+          "opciones": [
+            "MSCONFIG.EXE",
+            "SERVICES.MSC",
+            "CMD.EXE"
+          ],
+          "respuesta": "CMD.EXE",
+          "respuestaCorta": "CMD.EXE es el nombre del archivo ejecutable que inicia la aplicación de Símbolo del sistema en los sistemas operativos Windows.",
+          "solucionario": "Para iniciar la consola de comandos o Símbolo del sistema en Windows, el comando ejecutable es \"CMD.EXE\". MSCONFIG.EXE se utiliza para la configuración del sistema y SERVICES.MSC para la administración de servicios de Windows.",
+          "seccion": "Conocimientos Disciplinares y Curriculares"
+        },
+        {
+          "pregunta": "Luego de que el directivo ejecuta la aplicación de símbolo de sistema, ¿cuál de los siguientes comandos le permitiría obtener los datos solicitados por el técnico?",
+          "opciones": [
+            "IPCONFIG/ALL",
+            "NETSTAT",
+            "PING"
+          ],
+          "respuesta": "IPCONFIG/ALL",
+          "respuestaCorta": "El comando `ipconfig /all` muestra toda la configuración de red de la computadora, incluyendo el nombre de host, la dirección IP y la dirección física (MAC).",
+          "solucionario": "Mientras que `ipconfig` por sí solo muestra información básica como la dirección IP, el parámetro `/all` expande la información para incluir detalles adicionales como el nombre del host (computadora) y la dirección física (MAC Address), que son precisamente los datos solicitados por el técnico. `NETSTAT` muestra conexiones de red activas y `PING` se usa para probar la conectividad.",
+          "seccion": "Conocimientos Disciplinares y Curriculares"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p15",
+      "contexto": "Una usuaria acaba de instalar un videojuego descargado de internet en su computadora. Antes de instalar este videojuego, la usuaria daba clic en el navegador y este abría una ventana de búsqueda de información. Sin embargo, después de dicha instalación, al dar clic en el navegador se abre una ventana de publicidad de juegos online. La usuaria intenta modificar la página de inicio del navegador, pero no lo logra porque esta opción se encuentra bloqueada.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Por qué la computadora de la usuaria presenta este problema?",
+          "opciones": [
+            "Porque el videojuego instaló una extensión en el navegador.",
+            "Porque el videojuego reemplazó el archivo.EXE del navegador.",
+            "Porque el videojuego instaló un malware en el sistema operativo."
+          ],
+          "respuesta": "Porque el videojuego instaló un malware en el sistema operativo.",
+          "respuestaCorta": "El cambio forzado de la página de inicio y el bloqueo de la configuración para revertirlo son síntomas característicos de un malware tipo 'browser hijacker' (secuestrador de navegador).",
+          "solucionario": "El comportamiento descrito es un claro indicio de una infección por malware, específicamente de un secuestrador de navegador. Este tipo de software malicioso se adjunta a programas de fuentes no confiables y toma el control de la configuración del navegador para redirigir el tráfico a sitios web específicos, bloqueando los intentos del usuario por recuperar el control.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p16",
+      "contexto": "Al abrir el navegador, un usuario visualiza una página web de publicidad en lugar de la ventana de búsqueda de información. En ese sentido, el usuario necesita realizar un procedimiento para que, al abrir el navegador, por defecto, se abra la ventana de búsqueda de información. Además, el usuario quiere conservar otras configuraciones del navegador, como por ejemplo extensiones, contraseñas, etc.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué procedimiento debe realizar el usuario?",
+          "opciones": [
+            "Formatear el disco duro y reinstalar el sistema operativo.",
+            "Modificar la configuración del navegador desde el registro.",
+            "Eliminar los archivos del navegador manualmente y reinstalarlo."
+          ],
+          "respuesta": "Modificar la configuración del navegador desde el registro.",
+          "respuestaCorta": "Cuando un malware bloquea las opciones del navegador, a menudo lo hace modificando el Registro de Windows. Editar el registro permite eliminar esta restricción sin afectar otras configuraciones.",
+          "solucionario": "Un secuestrador de navegador a menudo establece políticas en el Registro de Windows para impedir que el usuario cambie la página de inicio. La forma más precisa de solucionarlo sin perder datos (contraseñas, extensiones) es usar el editor de registro (`regedit`) para encontrar y eliminar las claves maliciosas que fuerzan esa configuración. Las otras opciones son demasiado drásticas o ineficaces.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p17",
+      "contexto": "Lea la siguiente situación y responda las preguntas 17 y 18.\nEn una IE, los estudiantes están trabajando una investigación sobre desarrollo sostenible. Esta actividad incluye el registro semanal de información a través de una encuesta online que los estudiantes aplicarán a tres integrantes de su familia o amistades durante tres meses. A continuación, se muestran cuatro preguntas que forman parte de la encuesta.\n• ¿Apagó las luces de su domicilio cuando no era necesario tenerlas encendidas?\n• ¿Cuántas bolsas plásticas empleó esta semana?\n• ¿Recicló algunos materiales que empleó en la semana?\n• ¿Cómo considera que está actuando frente al calentamiento global?",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Para registrar las respuestas, se propone que los encuestados registren la información en la siguiente dirección: http://215.12.65.122. Sin embargo, según la opinión de algunos estudiantes, esta codificación resulta complicada de recordar y, por ello, sugieren cambiar la dirección por http://www.desarrollosostenible2029.pe\n¿Qué elemento corresponde al cambio sugerido?",
+          "opciones": [
+            "Hosting.",
+            "Dominio.",
+            "Servidor."
+          ],
+          "respuesta": "Dominio.",
+          "respuestaCorta": "El cambio de una dirección numérica IP (215.12.65.122) a un nombre alfanumérico fácil de recordar (www.desarrollosostenible2029.pe) es la definición de un nombre de dominio.",
+          "solucionario": "Una dirección IP es el identificador numérico de una computadora en una red. Un nombre de dominio es un alias de texto, fácil de recordar para los humanos, que se traduce a esa dirección IP a través del Sistema de Nombres de Dominio (DNS). El cambio sugerido es precisamente usar un dominio en lugar de la IP.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "La profesora de Matemática propone a los estudiantes representar la información que obtengan, cuando se aplique la encuesta, en tablas y gráficos en una hoja de cálculo. En ese contexto, Manuel, un estudiante, expresa que la pregunta \"¿Cómo considera que está actuando frente al calentamiento global?\" no se puede procesar automáticamente. La profesora recoge el problema identificado por Manuel y solicita a los estudiantes que propongan una alternativa de solución a dicho problema. ¿Cuál de los siguientes estudiantes manifiesta la alternativa más pertinente?",
+          "opción": [
+            "Mario dice: \"Debemos colocar en la encuesta categorías de respuesta para esa pregunta, de tal forma que puedan elegir entre bien, regular o mal\".",
+            "Micaela dice: \"Se debe excluir la pregunta del procesamiento de datos y solo debemos considerarla como una referencia\".",
+            "Luisa dice: \"Considero que debemos reemplazar la pregunta por otra que pueda responderse con sí o no\"."
+          ],
+          "respuesta": "Mario dice: \"Debemos colocar en la encuesta categorías de respuesta para esa pregunta, de tal forma que puedan elegir entre bien, regular o mal\".",
+          "respuestaCorta": "Para procesar cuantitativamente una pregunta cualitativa, es necesario estandarizar las respuestas en categorías cerradas, como propone Mario, para poder contarlas y graficarlas.",
+          "solucionario": "La pregunta original es abierta y cualitativa, lo que impide un análisis estadístico directo. La propuesta de Mario de categorizar las respuestas ('bien', 'regular', 'mal') transforma la variable cualitativa en una cuantitativa ordinal. Esto permite tabular los resultados, calcular frecuencias y representarlos en gráficos, solucionando el problema del procesamiento automático de datos.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p19",
+      
+      "imagen": null,
+      "preguntas": [
+        {
+          "imagen":"img/ascenso/secundaria/2022/aip/4.jpg",
+          "pregunta": "¿A qué se debe el problema identificado por la estudiante?",
+          "opciones": [
+            "A que dejó abierta la etiqueta <title> en la línea 3.",
+            "A que ingresó la etiqueta <h1> en la línea 6.",
+            "A que guardó el archivo en formato HTML."
+          ],
+          "respuesta": "A que dejó abierta la etiqueta <title> en la línea 3.",
+          "respuestaCorta": "El error de sintaxis en la línea 3, al no cerrar correctamente la etiqueta <title> con </title>, provoca que el navegador no pueda interpretar el resto del código HTML.",
+          "solucionario": "En HTML, la etiqueta de cierre debe incluir una barra inclinada (/). En la línea 3, se usó <title> en lugar de </title> para cerrar. Este error de sintaxis en la sección <head> del documento puede hacer que el navegador no procese correctamente la sección <body>, resultando en una página en blanco.",
+          "seccion": "Casuística"
+        }
+        
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p20",
+      "contexto": "Luego de solucionar el problema, la estudiante ha pensado insertar, dentro del código desarrollado, un video embebido que encontró en un sitio web de videos.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué ventaja ofrece embeber un video dentro del código desarrollado?",
+          "opciones": [
+            "Obtener una copia del video para almacenarlo en el hosting junto con la página web de la estudiante.",
+            "Obtener un registro de los usuarios que visualizaron el video desde la página web de la estudiante.",
+            "Visualizar el video desde la página web de la estudiante sin necesidad de acceder al sitio web donde se encuentra alojado el video."
+          ],
+          "respuesta": "Visualizar el video desde la página web de la estudiante sin necesidad de acceder al sitio web donde se encuentra alojado el video.",
+          "respuestaCorta": "Embeber un video permite que se reproduzca directamente dentro de la página, evitando que el usuario tenga que abandonarla para ver el contenido.",
+          "solucionario": "La principal ventaja de embeber o incrustar un video es que se muestra y reproduce dentro del contexto de la propia página web, utilizando el reproductor del sitio original (como YouTube). Esto mejora la experiencia del usuario al no tener que navegar a otro sitio y libera al creador de la página de la carga de alojar el archivo de video en su propio servidor.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p21",
+      "contexto": "Un estudiante ha utilizado la computadora de una biblioteca municipal desde la cuenta de invitado. Él ha ingresado a su correo electrónico a través de internet y, luego de cerrar sesión, ha notado que su cuenta de correo ha quedado registrada y se autocompleta al colocar el cursor en la casilla de correo electrónico. Considerando que la computadora tiene una configuración para acceder a internet vía proxy, ¿qué acción debe realizar el estudiante para que su cuenta de correo no quede registrada en dicha computadora sin eliminar su configuración de internet?",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿qué acción debe realizar el estudiante para que su cuenta de correo no quede registrada en dicha computadora sin eliminar su configuración de internet?",
+          "opciones": [
+            "Desinstalar el navegador y volver a instalarlo.",
+            "Eliminar los marcadores registrados en el navegador.",
+            "Eliminar todos los datos del historial de navegación."
+          ],
+          "respuesta": "Eliminar todos los datos del historial de navegación.",
+          "respuestaCorta": "La información de autocompletar se guarda como parte de los datos de navegación. Borrar estos datos elimina la información personal sin afectar la configuración de red como el proxy.",
+          "solucionario": "Los navegadores guardan datos de formularios, como correos electrónicos y nombres, para facilitar el autocompletado en futuras visitas. Para eliminar esta información privada de un equipo público, la opción correcta es borrar los datos de navegación (que incluye historial, cookies y datos de formularios). Esta acción es interna del navegador y no modifica la configuración de red del sistema operativo.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p22",
+      "contexto": "Algunos sitios web presentan como característica el visualizarse en diferentes dispositivos sin alterar su apariencia.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué característica de los sitios web principalmente se ha descrito?",
+          "opciones": [
+            "Interactividad.",
+            "Adaptabilidad.",
+            "Minimalismo."
+          ],
+          "respuesta": "Adaptabilidad.",
+          "respuestaCorta": "La capacidad de un sitio web para ajustar su diseño y contenido a diferentes tamaños de pantalla y dispositivos se denomina adaptabilidad o diseño responsivo.",
+          "solucionario": "La adaptabilidad, también conocida como diseño web responsivo, es la práctica de diseñar y codificar un sitio web para que su diseño se ajuste fluidamente al dispositivo del usuario, ya sea un monitor grande, una tableta o un teléfono móvil. Esto garantiza una buena experiencia de usuario en cualquier plataforma.",
+          "seccion": "Conocimientos Disciplinares y Curriculares"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p23",
+      "contexto": "Un equipo de estudiantes se encuentra desarrollando un sitio web para su proyecto de emprendimiento. El sitio web deberá visualizarse en el navegador de los siguientes dispositivos: computadora, tablet y smartphone.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes combinaciones de lenguajes de programación es la más pertinente para que el sitio web sea visualizado correctamente en los dispositivos?",
+          "opciones": [
+            "Visual Basic y C++",
+            "HTML y CSS",
+            "Python y SQL"
+          ],
+          "respuesta": "HTML y CSS",
+          "respuestaCorta": "HTML se usa para estructurar el contenido de una web y CSS se usa para diseñar su apariencia y asegurar que sea adaptable a diferentes dispositivos.",
+          "solucionario": "Para el desarrollo web del lado del cliente (lo que ve el usuario), HTML (HyperText Markup Language) es el estándar para crear la estructura y el contenido, mientras que CSS (Cascading Style Sheets) es esencial para el diseño visual y la implementación de la adaptabilidad (diseño responsivo). Las otras opciones son para desarrollo de software de escritorio (A) o de backend y bases de datos (C).",
+          "seccion": "Conocimientos Disciplinares y Curriculares"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p24",
+      "contexto": "Un estudiante se encuentra buscando información en internet. Al ingresar a uno de los sitios web, le aparece un mensaje que indica que es necesario autorizar el uso de cookies. El estudiante cree que, si autoriza el uso de cookies, la configuración de la computadora podría cambiar. Por esta razón, decide cerrar dicho sitio web.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué implica autorizar el uso de cookies?",
+          "opciones": [
+            "Que el sitio web pueda guardar la información que el estudiante gestione en este.",
+            "Que se genere un acceso VPN desde el sitio web a la computadora del estudiante.",
+            "Que se instalen diferentes aplicaciones del sitio web en la computadora del estudiante."
+          ],
+          "respuesta": "Que el sitio web pueda guardar la información que el estudiante gestione en este.",
+          "respuestaCorta": "Autorizar cookies permite que el sitio web almacene pequeños archivos de texto en el navegador para recordar datos de la sesión del usuario, como preferencias o inicios de sesión.",
+          "solucionario": "Las cookies son pequeños archivos de datos que un sitio web guarda en el navegador del usuario para mantener un registro de su actividad o preferencias (ej. idioma, items en un carrito, estado de sesión). No modifican la configuración de la computadora ni instalan software; su función es almacenar información relacionada con la navegación en ese sitio específico.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+
+   
+    {
+      "idGrupo": "asc_secundaria_2023_p25",
+      "contexto": "Cierto día, la computadora de la dirección de una IE sufre un desperfecto y aparece un mensaje que indica que no se puede iniciar el sistema operativo. Después del diagnóstico, la PIP propone lo siguiente:\nPaso 1: Respaldar la información contenida en dicha computadora.\nPaso 2: Formatear el disco duro e instalar nuevamente el sistema operativo.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes acciones tecnológicas NO permitiría a la PIP realizar el paso 1?",
+          "opciones": [
+            "Extraer el disco duro del CPU y colocarlo en otra computadora.",
+            "Encender la computadora e iniciar el sistema operativo desde un CD live.",
+            "Conectar la computadora a otra computadora a través de un cable cross over."
+          ],
+          "respuesta": "Conectar la computadora a otra computadora a través de un cable cross over.",
+          "respuestaCorta": "Una conexión de red con cable cruzado requiere que ambos sistemas operativos estén funcionando para establecer la comunicación, lo cual es imposible si una de las computadoras no puede iniciar su SO.",
+          "solucionario": "Las opciones 'a' y 'b' son métodos estándar para acceder a los archivos de un disco duro cuando el sistema operativo principal ha fallado. Sin embargo, la opción 'c' requiere que ambas computadoras tengan un sistema operativo funcional para configurar la red y compartir archivos. Dado que la computadora de dirección no puede iniciar su SO, esta acción no permitiría respaldar la información.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p26",
+      "contexto": "Desde hace unos días, la computadora de escritorio del AIP está presentando una serie de fallas: reinicios, encendidos con ruidos extraños en la parte posterior cerca del conector de energía, y el ventilador de la parte posterior dejó de funcionar. El día de hoy un profesor presionó el botón de encendido y la computadora no se encendió ni emitió ningún sonido.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes componentes de la computadora es el que podría estar causando la falla?",
+          "opciones": [
+            "La memoria RAM.",
+            "La fuente de poder.",
+            "El cooler del procesador."
+          ],
+          "respuesta": "La fuente de poder.",
+          "respuestaCorta": "La combinación de fallas eléctricas, ruidos cerca del conector de energía y una falla total de encendido apuntan directamente a un problema con la fuente de poder.",
+          "solucionario": "Los síntomas descritos (reinicios, ruidos en la parte posterior, ventilador trasero detenido y fallo total de encendido) son característicos de una fuente de poder (PSU) defectuosa o quemada. Una falla de RAM o del cooler del CPU produciría otros síntomas como pitidos de error o apagados por sobrecalentamiento, pero no una falla total de encendido sin sonido alguno.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p27",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las actividades que realiza el PIP durante el mantenimiento del AIP requiere un mayor dominio de las TIC?",
+          "opciones": [
+            "Instalar y configurar un navegador web.",
+            "Instalar y configurar una suite ofimática.",
+            "Instalar y configurar un sistema operativo."
+          ],
+          "respuesta": "Instalar y configurar un sistema operativo.",
+          "respuestaCorta": "La instalación de un sistema operativo es una tarea fundamental y más compleja que la instalación de aplicaciones, ya que implica gestión de discos, controladores y configuración base del equipo.",
+          "solucionario": "Instalar un sistema operativo es una tarea de nivel superior que requiere conocimientos sobre particiones de disco, compatibilidad de hardware, instalación de controladores (drivers) y configuración inicial del sistema. Es considerablemente más complejo que instalar software de aplicación como un navegador o una suite ofimática, que son procesos mucho más automatizados y sencillos.",
+          "seccion": "Conocimientos Disciplinares y Curriculares"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p28",
+      "contexto": "Un AIP posee una línea de acceso a internet vía ADSL de 100 MB, la misma que se distribuye para el trabajo administrativo y pedagógico en el AIP. Actualmente, se adquirirá una línea adicional de 100 MB para que los profesores y estudiantes puedan utilizar el internet durante las sesiones de aprendizaje.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué dispositivo permite unir ambas líneas de internet y compartirlas en una misma red?",
+          "opciones": [
+            "Balanceador.",
+            "Repetidor.",
+            "Switch."
+          ],
+          "respuesta": "Balanceador.",
+          "respuestaCorta": "Un balanceador de carga (o un router con capacidad de balanceo/dual WAN) es el dispositivo diseñado para gestionar y distribuir el tráfico de red a través de dos o más conexiones a internet.",
+          "solucionario": "El dispositivo específico para combinar múltiples conexiones a internet en una sola red local se llama balanceador de carga o router de doble WAN. Su función es distribuir las solicitudes de la red entre las dos líneas para optimizar el ancho de banda y proporcionar redundancia. Un repetidor extiende una señal y un switch interconecta equipos en una red local, pero no gestiona múltiples salidas a internet.",
+          "seccion": "Conocimientos Disciplinares y Curriculares"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p29",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes es una función del servidor proxy?",
+          "opciones": [
+            "Almacenar y enrutar las operaciones de correo electrónico.",
+            "Escanear la red en busca de virus o equipos desactualizados.",
+            "Permitir que los equipos conectados a una red accedan a internet."
+          ],
+          "respuesta": "Permitir que los equipos conectados a una red accedan a internet.",
+          "respuestaCorta": "Un servidor proxy actúa como un intermediario entre los equipos de una red local e internet, gestionando sus solicitudes de acceso.",
+          "solucionario": "Una de las funciones principales de un servidor proxy es actuar como puerta de enlace entre una red local e internet. Centraliza el tráfico saliente, lo que permite filtrar contenido, mejorar la seguridad y almacenar en caché las páginas visitadas para acelerar el acceso. La opción 'a' describe un servidor de correo y la 'b' una herramienta de seguridad de red.",
+          "seccion": "Conocimientos Disciplinares y Curriculares"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p30",
+      "contexto": "Un directivo ha grabado un audio para orientar a los profesores sobre la aplicación de la norma técnica referida al inicio del año escolar. Este audio será compartido a través del sitio web institucional para que los profesores puedan acceder a este, ya sea desde el mismo sitio web o descargándolo.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes recursos TIC ha elaborado el directivo?",
+          "opciones": [
+            "Slidecast.",
+            "Vodcast.",
+            "Podcast."
+          ],
+          "respuesta": "Podcast.",
+          "respuestaCorta": "Un archivo de audio distribuido digitalmente para ser escuchado en línea o descargado es la definición de un podcast.",
+          "solucionario": "El recurso descrito es un archivo de solo audio distribuido a través de internet. Esto se define como un podcast. Un slidecast consistiría en audio sincronizado con diapositivas, y un vodcast (video podcast) sería un archivo de video.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p31",
+      "contexto": "En el marco de un proyecto para promover el cuidado ambiental, los estudiantes tienen como propósito plantear acciones para involucrar e invitar a la acción a toda la comunidad educativa en este proyecto. Los miembros de la comunidad educativa tienen cuentas institucionales de correo electrónico.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes acciones es más pertinente que realicen los estudiantes para lograr su propósito?",
+          "opciones": [
+            "Enviar un mensaje a los miembros de la comunidad educativa con una lista de acciones que pueden realizar para el cuidado ambiental. El mensaje tendrá confirmación de lectura para identificar quiénes potencialmente participarán en el proyecto realizando algunas de las acciones de la lista.",
+            "Solicitar a los miembros de la comunidad educativa su participación mediante propuestas de frases que inviten al cuidado ambiental. Los estudiantes colocarán estas frases como parte de su firma en los correos institucionales para que sea visible tanto en los nuevos correos que ellos envían como en los correos que responden.",
+            "Colocar en el sitio web institucional un mensaje con el enlace a un mural virtual abierto. La comunidad educativa podría participar en este mural, ya sea con comentarios y fotos acerca de las acciones que realizan para el cuidado ambiental, o visualizando las intervenciones de los otros usuarios y reaccionando a estas."
+          ],
+          "respuesta": "Colocar en el sitio web institucional un mensaje con el enlace a un mural virtual abierto. La comunidad educativa podría participar en este mural, ya sea con comentarios y fotos acerca de las acciones que realizan para el cuidado ambiental, o visualizando las intervenciones de los otros usuarios y reaccionando a estas.",
+          "respuestaCorta": "La opción del mural virtual es la más pertinente porque fomenta la participación activa, la interacción y la visibilidad de las acciones de toda la comunidad, generando un mayor compromiso.",
+          "solucionario": "A diferencia de las otras opciones que son más pasivas o de alcance limitado, el mural virtual crea un espacio colaborativo y dinámico. Permite que los miembros de la comunidad no solo reciban información, sino que participen activamente compartiendo sus propias acciones, viendo las de los demás e interactuando. Esto es mucho más efectivo para \"involucrar e invitar a la acción\" a un colectivo.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p32",
+      "contexto": "Como parte de una sesión de aprendizaje, una profesora ha planificado una actividad en la que los estudiantes puedan expresar, de manera escrita, su posición crítica respecto de una situación problemática, y tengan opción a comentar las respuestas de los otros participantes con argumentos y contraargumentos. La profesora tiene planificado que esta actividad tenga una duración de tres días, a fin de que los estudiantes cuenten con la libertad para participar dependiendo de su disponibilidad de tiempo en esos días.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes es la herramienta más pertinente para realizar esta actividad?",
+          "opciones": [
+            "Foro.",
+            "Wiki.",
+            "Tarea."
+          ],
+          "respuesta": "Foro.",
+          "respuestaCorta": "Un foro es la herramienta ideal para discusiones asincrónicas que se extienden en el tiempo, permitiendo a los participantes publicar sus ideas y responder a las de otros.",
+          "solucionario": "Las características solicitadas (expresión escrita, comentarios a otros, argumentos y contraargumentos, participación asincrónica durante varios días) describen perfectamente la funcionalidad de un foro de discusión en línea. Un Wiki es para la construcción colaborativa de un único texto, y una Tarea es para la entrega individual de trabajos.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p33",
+      "contexto": "En un par de días, un grupo de estudiantes de una IE va a participar en la etapa final del campeonato mundial de Robótica en Canadá. Sus compañeros y profesores están muy emocionados y le piden al PIP que busque una opción que les permita observar la competencia en vivo y en directo.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes es la opción más pertinente?",
+          "opciones": [
+            "Gestionar un enlace vía microondas con la televisora local.",
+            "Filmar el evento y luego colocarlo en un repositorio de videos.",
+            "Realizar un streaming con una cámara o celular conectado a internet."
+          ],
+          "respuesta": "Realizar un streaming con una cámara o celular conectado a internet.",
+          "respuestaCorta": "Para ver un evento 'en vivo y en directo' desde una ubicación remota, la transmisión en vivo o streaming a través de internet es la tecnología adecuada y más accesible.",
+          "solucionario": "El streaming es la transmisión de video y audio en tiempo real a través de internet, lo que permite a la audiencia ver un evento mientras ocurre. Esta es la única opción que cumple con el requisito de ser 'en vivo y en directo'. Filmar y subirlo después es una transmisión en diferido, y un enlace de microondas es una tecnología de radiodifusión profesional y poco práctica para este caso.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p34",
+      "contexto": "A continuación, se presenta el comentario de Beatriz, una de las estudiantes:\n\"Mi tía usa redes sociales. Ella dice que todo el tiempo recibe invitaciones de personas que no conoce. No sé cómo podría hacer para que ya no le pase esto\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "A continuación, se presentan las intervenciones de tres estudiantes. ¿Cuál de ellos brinda la solución más pertinente al problema comentado por Beatriz?",
+          "opciones": [
+            "Ana dice: \"Tu tía debe configurar su perfil, restringiéndolo a modo privado\".",
+            "Bianca dice: \"Tu tía tiene que, conforme recibe invitaciones de estas personas, rechazar las invitaciones una por una\".",
+            "Camilo dice: \"Tu tía debe modificar los permisos de su cuenta para que solo reciba invitaciones de sus conocidos\"."
+          ],
+          "respuesta": "Camilo dice: \"Tu tía debe modificar los permisos de su cuenta para que solo reciba invitaciones de sus conocidos\".",
+          "respuestaCorta": "La solución más efectiva y preventiva es modificar la configuración de privacidad para restringir quién puede enviar solicitudes de amistad, abordando la causa del problema.",
+          "solucionario": "La propuesta de Camilo es la más pertinente porque ataca la raíz del problema de forma proactiva. Las redes sociales tienen configuraciones de privacidad específicas que permiten limitar quién puede enviar solicitudes de amistad (por ejemplo, a 'amigos de amigos'). Rechazarlas una por una (Bianca) es reactivo y no soluciona el problema de fondo. Poner el perfil en privado (Ana) ayuda, pero la configuración específica de invitaciones es la solución directa.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p35",
+      "contexto": "El AIP de una IE cuenta con servicio de internet, laptops XO, computadoras de escritorio, módem y switch; sin embargo, las laptops XO no pueden conectarse a internet, pues requieren de un dispositivo adicional.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué dispositivo se necesita para conectar estos equipos a internet?",
+          "opciones": [
+            "Access point.",
+            "Servidor.",
+            "Hub."
+          ],
+          "respuesta": "Access point.",
+          "respuestaCorta": "Para que dispositivos inalámbricos como las laptops XO se conecten a una red cableada (módem y switch), se necesita un punto de acceso (Access Point) que emita una señal Wi-Fi.",
+          "solucionario": "La infraestructura existente (módem y switch) proporciona una red cableada. Las laptops XO se conectan de forma inalámbrica. Un punto de acceso (Access Point) es el dispositivo que se conecta a la red cableada (al switch) y crea una red inalámbrica (Wi-Fi), permitiendo que las laptops XO y otros dispositivos inalámbricos se conecten a internet.",
+          "seccion": "Conocimientos Disciplinares y Curriculares"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p36",
+      "contexto": "Una profesora tiene como propósito buscar información en internet acerca de dos tipos de organizadores visuales: mapa mental y mapa conceptual. La profesora necesita que el contenido de las páginas que le presente el buscador muestre una comparación de las características de estos organizadores visuales.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "De acuerdo con el propósito de la profesora, ¿cuál de las siguientes alternativas es una forma de búsqueda avanzada pertinente?",
+          "opciones": [
+            "Site:mapas.com \"mapa mental vs mapa conceptual\"",
+            "Allintitle:mapa mental vs mapa conceptual",
+            "Mapa-mental-conceptual"
+          ],
+          "respuesta": "Allintitle:mapa mental vs mapa conceptual",
+          "respuestaCorta": "El operador `allintitle:` restringe los resultados a páginas que contengan todos los términos de búsqueda en su título, lo cual es muy eficaz para encontrar artículos de comparación directa.",
+          "solucionario": "Para encontrar una comparación directa, es muy probable que el título de la página web contenga términos como 'mapa mental vs mapa conceptual'. El operador de búsqueda avanzada `allintitle:` asegura que solo se muestren resultados en los que todas esas palabras clave estén presentes en el título, lo que aumenta drásticamente la pertinencia de los resultados para el propósito de la profesora.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+ 
+    {
+      "idGrupo": "asc_secundaria_2023_p37",
+      "contexto": "Una profesora está realizando una actividad con los estudiantes de quinto grado con las laptops XO del AIP. Como parte de la actividad, solicita a los estudiantes que ingresen a su \"vecindario\", donde visualizarán a sus compañeros de clase. Luego, les pide que elijan a un estudiante seleccionando la opción \"Invitar a la actividad charla\" que aparece al hacer clic sobre el ícono del compañero visualizado, para realizarle una breve entrevista. Al iniciar la actividad, un estudiante indica a la profesora que no puede visualizar a sus compañeros en el \"vecindario\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es la primera acción que debe realizar el PIP para brindar solución al problema reportado por el estudiante?",
+          "opciones": [
+            "Realizar el testeo de la XO.",
+            "Cambiar las antenas inalámbricas.",
+            "Reinstalar el sistema operativo de la XO."
+          ],
+          "respuesta": "Realizar el testeo de la XO.",
+          "respuestaCorta": "Realizar el testeo es el primer paso de diagnóstico lógico para verificar el estado del hardware de la laptop XO, incluyendo la tarjeta de red, antes de intentar soluciones más drásticas.",
+          "solucionario": "Antes de proceder con acciones invasivas como cambiar hardware o reinstalar el sistema operativo, el procedimiento estándar de solución de problemas es ejecutar las herramientas de diagnóstico. El testeo de la XO permite verificar si la tarjeta de red inalámbrica está funcionando correctamente, lo cual es la causa más probable del problema de no poder ver el \"vecindario\".",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p38",
+      
+      "imagen": "img/ascenso/secundaria/2022/aip/5.jpg",
+      "preguntas": [
+        {
+          "pregunta": "¿Qué tipo de estructura presenta el pseudocódigo propuesto por el estudiante?",
+          "opciones": [
+            "Lineal.",
+            "Cíclica.",
+            "Condicional."
+          ],
+          "respuesta": "Cíclica.",
+          "respuestaCorta": "La estructura 'Mientras' (While) crea un bucle que se repite un número determinado de veces, lo cual es una estructura cíclica o repetitiva.",
+          "solucionario": "El pseudocódigo utiliza un bucle 'Mientras' que se ejecuta mientras la variable 'Contador' sea menor o igual a 12. Esta repetición de un bloque de instrucciones (pedir propina, leer, incrementar contador, sumar monto) define una estructura cíclica (también llamada iterativa o de bucle).",
+          "seccion": "Conocimientos Disciplinares y Curriculares"
+        },
+        {
+          "pregunta": "Para realizar el análisis del funcionamiento del pseudocódigo, la profesora plantea la siguiente pregunta al estudiante: \"¿Qué sucedería si se elimina la línea 8 del pseudocódigo?\". ¿Cuál de las siguientes alternativas responde a la pregunta planteada por la profesora?",
+          "opciones": [
+            "El pseudocódigo se ejecutaría hasta \"Leer Propina\".",
+            "El pseudocódigo dejaría de ejecutarse en su totalidad.",
+            "El pseudocódigo pediría ingresar la propina del mes indefinidamente."
+          ],
+          "respuesta": "El pseudocódigo pediría ingresar la propina del mes indefinidamente.",
+          "respuestaCorta": "Eliminar la línea 8 impide que el contador se incremente, por lo que la condición del bucle 'Mientras' (Contador <= 12) siempre será verdadera, creando un bucle infinito.",
+          "solucionario": "La línea 8 (`Contador = Contador + 1`) es la que incrementa la variable de control del bucle. Si se elimina, 'Contador' siempre valdrá 1. La condición `Contador <= 12` siempre se cumplirá, por lo que el programa nunca saldrá del bucle 'Mientras' y seguirá pidiendo la propina de forma infinita.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p40",
+      "contexto": "El operador MOD permite calcular el residuo de una división y es muy utilizado en el desarrollo de programas.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes ejemplos de programas lleva este operador en su contenido?",
+          "opciones": [
+            "Un programa que calcule el área de un rectángulo luego de ingresar el valor de la base y de la altura.",
+            "Un programa de cajero automático que entregue billetes luego de ingresar una cifra de dinero a retirar.",
+            "Un programa que determine la velocidad de un automóvil a partir del tiempo que demora en recorrer una determinada distancia."
+          ],
+          "respuesta": "Un programa de cajero automático que entregue billetes luego de ingresar una cifra de dinero a retirar.",
+          "respuestaCorta": "Un programa de cajero automático utiliza la división y el residuo (MOD) para determinar cuántos billetes de cada denominación debe entregar.",
+          "solucionario": "Para calcular la cantidad de billetes, un cajero divide el monto solicitado entre el valor del billete de mayor denominación. El cociente es la cantidad de billetes a entregar, y el residuo (calculado con MOD) es el monto restante que debe ser cubierto con billetes de menor valor. Este proceso se repite, haciendo indispensable el uso del operador MOD. Las otras opciones implican multiplicación o división simple.",
+          "seccion": "Conocimientos Disciplinares y Curriculares"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p41",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes alternativas es una consecuencia de la descarga de la batería interna de la placa madre?",
+          "opciones": [
+            "La computadora no enciende.",
+            "Se retrasa la hora y fecha del sistema.",
+            "Se activa automáticamente el modo hibernación."
+          ],
+          "respuesta": "Se retrasa la hora y fecha del sistema.",
+          "respuestaCorta": "La batería de la placa madre (pila CMOS) alimenta el reloj en tiempo real, por lo que al agotarse, el sistema pierde la hora y fecha correctas cuando se apaga.",
+          "solucionario": "La batería tipo botón en la placa madre alimenta el chip CMOS, que almacena la configuración del BIOS y mantiene funcionando el reloj en tiempo real (RTC) cuando la computadora está desconectada de la corriente. Si la batería se descarga, el reloj deja de funcionar y, cada vez que se enciende el equipo, la hora y fecha se habrán reseteado o retrasado.",
+          "seccion": "Conocimientos Disciplinares y Curriculares"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p42",
+      "contexto": "Durante una sesión de aprendizaje del área de Matemática, una profesora plantea a los estudiantes un ejercicio que consiste en el desarrollo de un pseudocódigo que permita determinar si un número entero ingresado en la computadora es par o impar.\nA continuación, se presenta el pseudocódigo desarrollado por uno de los estudiantes:",
+      "imagen": "img/ascenso/secundaria/2022/aip/6.jpg",
+      "preguntas": [
+        {
+          "pregunta": "¿Qué error se evidencia en el pseudocódigo desarrollado por el estudiante?",
+          "opciones": [
+            "Intercambiar las respuestas de la condición.",
+            "Incluir el operador MOD.",
+            "Omitir un bucle."
+          ],
+          "respuesta": "Intercambiar las respuestas de la condición.",
+          "respuestaCorta": "La lógica de la condición `(N MOD 2 = 0)` identifica correctamente a los números pares, pero el programa asigna el mensaje incorrecto (\"es impar\") a este resultado.",
+          "solucionario": "La condición `Si (N MOD 2 = 0)` es verdadera cuando un número es par. Sin embargo, en la línea 5, el pseudocódigo asigna el texto \"es un número impar\" a este caso. De igual forma, cuando la condición es falsa (el número es impar), se le asigna el texto \"es un número par\". El error consiste en que los mensajes de salida están intercambiados.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p43",
+      "contexto": "Un usuario asistirá a un evento virtual en el que, como requisito, se solicita que todos los participantes tengan audio y una cámara web de buena resolución encendidos. En ese contexto, el usuario ingresa a una página web para identificar las características actuales de su servicio de internet, las cuales son las siguientes:\nVelocidad de descarga: 3.75 Mbps\nVelocidad de carga: 0.75 Mbps",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué situación es más probable que ocurra?",
+          "opciones": [
+            "El usuario no podrá conectarse al evento virtual.",
+            "El usuario no podrá visualizar la imagen de la cámara de los otros participantes del evento.",
+            "El usuario no podrá mostrar a los participantes del evento la imagen de su cámara de manera continua."
+          ],
+          "respuesta": "El usuario no podrá mostrar a los participantes del evento la imagen de su cámara de manera continua.",
+          "respuestaCorta": "La baja velocidad de carga (0.75 Mbps) es insuficiente para transmitir video de buena calidad de forma estable, lo que provocará que su imagen se vea entrecortada o de baja resolución para los demás.",
+          "solucionario": "Visualizar a los otros participantes depende de la velocidad de descarga (3.75 Mbps, que es aceptable). Sin embargo, transmitir la propia imagen de la cámara depende de la velocidad de carga. Una velocidad de 0.75 Mbps (750 Kbps) es muy limitada para la transmisión de video, lo que seguramente causará una imagen de mala calidad, pixelada o con interrupciones.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p44",
+      "contexto": "Antes de iniciar el año escolar, una PIP brindará el mantenimiento a las laptops XO de la IE. Dichas laptops XO se encuentran inoperativas debido a fallas en el registro del sistema operativo; estas fallas no permiten que este sistema inicie su funcionamiento. Por esta razón, la PIP reinstalará el sistema operativo en dichos dispositivos.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes opciones debe utilizar la PIP para reinstalar el sistema operativo en las laptops XO?",
+          "opciones": [
+            "Un CD instalador con la imagen del sistema operativo.",
+            "Una memoria USB con la imagen del sistema operativo.",
+            "Un servidor de archivos local con la imagen del sistema operativo."
+          ],
+          "respuesta": "Una memoria USB con la imagen del sistema operativo.",
+          "respuestaCorta": "Las laptops XO carecen de unidad de CD-ROM, por lo que el método estándar y práctico para reinstalar su sistema operativo es a través de una memoria USB de arranque.",
+          "solucionario": "Las laptops XO fueron diseñadas sin unidades ópticas (CD/DVD). El procedimiento establecido para su mantenimiento y reinstalación del sistema operativo (Sugar) es mediante una memoria USB booteable que contenga la imagen del sistema. Si bien la instalación desde un servidor es técnicamente posible, requiere una infraestructura de red más compleja y no es el método habitual.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p45",
+      "contexto": "Se ha instalado un antivirus en las computadoras del AIP para, entre otras cosas, protegerlas de virus transmitidos por las memorias flash USB de los estudiantes. El PIP está elaborando el protocolo de uso del antivirus para que los estudiantes sepan cuándo es su obligación utilizarlo.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿En qué momento se deberían revisar las memorias flash USB con el antivirus?",
+          "opciones": [
+            "Luego de abrir un archivo que se encuentra en ella.",
+            "Si es que aparece el mensaje \"Virus detectado\".",
+            "Al insertarlas en la computadora."
+          ],
+          "respuesta": "Al insertarlas en la computadora.",
+          "respuestaCorta": "Como medida de seguridad preventiva, las memorias USB deben ser escaneadas inmediatamente después de ser conectadas y antes de abrir cualquier archivo.",
+          "solucionario": "La mejor práctica de seguridad informática es analizar cualquier dispositivo de almacenamiento extraíble en el momento en que se conecta al equipo. Esperar a abrir un archivo es demasiado tarde, ya que un virus de ejecución automática podría haberse activado ya. El protocolo debe ser proactivo, no reactivo, por lo que el escaneo al insertar la memoria es el procedimiento correcto.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p46",
+      "contexto": "Como parte de una unidad didáctica en el área de Ciencia y Tecnología, los estudiantes realizarán una actividad en la que ingresarán a diferentes páginas web en el AIP. Sin embargo, el día en el que el profesor y los estudiantes van a realizar la actividad, el profesor identifica que las páginas web a las que ingresan los estudiantes demoran en cargar.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es la causa más probable de la intermitencia del servicio de internet?",
+          "opciones": [
+            "La ruptura del cable UTP que se conecta al servidor proxy desde el módem.",
+            "La conexión simultánea de varios usuarios al servicio de internet.",
+            "El hecho de que el router esté apagado."
+          ],
+          "respuesta": "La conexión simultánea de varios usuarios al servicio de internet.",
+          "respuestaCorta": "La lentitud en la carga de páginas web, especialmente cuando muchos usuarios están conectados, se debe a la saturación del ancho de banda disponible, un fenómeno conocido como congestión de red.",
+          "solucionario": "Una ruptura de cable o un router apagado causarían una falta total de conexión, no lentitud. La causa más común de una red lenta en un entorno como un AIP es la congestión: muchos usuarios intentan acceder a internet al mismo tiempo, y el ancho de banda total se divide entre todos, provocando que la velocidad para cada uno disminuya y las páginas demoren en cargar.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p47",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes estrategias es más pertinente para iniciar a los estudiantes en el uso de la hoja de cálculo?",
+          "opciones": [
+            "Presentar un conjunto de diapositivas que expliquen qué es una hoja de cálculo, para qué se utiliza y cuáles son sus principales herramientas.",
+            "Pedirles que elaboren el presupuesto de todo lo que se necesita para la fiesta de fin de año de la IE en una hoja de cálculo, e ir guiándolos en el uso de las principales herramientas.",
+            "Pedirles que busquen información sobre los diversos tipos de hojas de cálculo y hagan un resumen de sus principales herramientas y funciones para presentarlo ante sus compañeros."
+          ],
+          "respuesta": "Pedirles que elaboren el presupuesto de todo lo que se necesita para la fiesta de fin de año de la IE en una hoja de cálculo, e ir guiándolos en el uso de las principales herramientas.",
+          "respuestaCorta": "La estrategia más pertinente es el aprendizaje basado en proyectos, utilizando un caso práctico y motivador (el presupuesto de una fiesta) para guiar a los estudiantes en el descubrimiento y uso de la herramienta.",
+          "solucionario": "Desde un enfoque pedagógico constructivista, la estrategia más efectiva es la del 'aprender haciendo' en un contexto significativo para el estudiante. Elaborar un presupuesto para un evento real o simulado les da un propósito claro para aprender a usar las celdas, fórmulas y funciones de la hoja de cálculo. Este método es más motivador y promueve un aprendizaje más profundo que una clase expositiva (opción a) o una investigación teórica (opción c).",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p48",
+      "contexto": "Una profesora ha registrado, en una hoja de cálculo, las asistencias e inasistencias de los estudiantes de una sección durante un bimestre.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué función debe utilizar la profesora para obtener el total de las asistencias de cada estudiante?",
+          "opciones": [
+            "SUMA",
+            "CONTAR",
+            "CONTAR.SI"
+          ],
+          "respuesta": "CONTAR.SI",
+          "respuestaCorta": "La función CONTAR.SI (COUNTIF) es la adecuada para contar el número de celdas que cumplen un criterio específico, como contar cuántas celdas contienen la letra 'A' de asistencia.",
+          "solucionario": "Para totalizar las asistencias, se necesita contar cuántas veces aparece un indicador específico (por ejemplo, una 'A' o una 'X') en el rango de celdas de un estudiante. La función SUMA solo funciona con números. La función CONTAR cuenta todas las celdas con números. La función CONTAR.SI está diseñada precisamente para esto: contar las celdas dentro de un rango que cumplen una condición dada (ej: =CONTAR.SI(B2:B31;\"A\")).",
+          "seccion": "Conocimientos Disciplinares y Curriculares"
+        }
+      ]
+    },
+
+   
+    {
+      "idGrupo": "asc_secundaria_2023_p49",
+      "contexto": "Una profesora ha registrado, en una hoja de cálculo, las asistencias e inasistencias de los estudiantes de una sección durante un bimestre.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué herramienta le permite a la profesora visualizar solamente a los estudiantes que presentan una asistencia igual a 10?",
+          "opciones": [
+            "Filtro.",
+            "Ordenar.",
+            "Validación de datos."
+          ],
+          "respuesta": "Filtro.",
+          "respuestaCorta": "La herramienta 'Filtro' está diseñada para ocultar las filas que no cumplen un criterio específico, permitiendo así mostrar únicamente los datos deseados.",
+          "solucionario": "La función de 'Filtro' en una hoja de cálculo permite a los usuarios mostrar solo las filas que cumplen con ciertas condiciones. En este caso, la profesora podría aplicar un filtro a la columna de asistencias para que solo se visualicen las filas donde el valor es igual a 10. 'Ordenar' cambiaría la secuencia de los estudiantes pero los mostraría a todos, y 'Validación de datos' previene la entrada de datos incorrectos, pero no oculta información existente.",
+          "seccion": "Conocimientos Disciplinares y Curriculares"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p50",
+      "contexto": "Como parte de una sesión de aprendizaje, una profesora ha solicitado a los estudiantes crear una hoja de cálculo en la que se determine el importe total a pagar en una compra afecta por un impuesto, luego de ingresar el importe neto de dicha compra. Además, la profesora comenta a los estudiantes que el importe neto debe estar en una celda rotulada como IMPORNETO y, que la tasa de este impuesto es el 18% del importe neto.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es la fórmula que deben utilizar los estudiantes para calcular el importe total a pagar?",
+          "opciones": [
+            "=IMPORNETO*18%",
+            "=IMPORNETO*0.18",
+            "=IMPORNETO*1.18"
+          ],
+          "respuesta": "=IMPORNETO*1.18",
+          "respuestaCorta": "Para calcular el total incluyendo un impuesto del 18%, se debe multiplicar el importe neto por 1 (para incluir el 100% del valor original) más 0.18 (para añadir el 18% del impuesto).",
+          "solucionario": "El importe total es la suma del importe neto más el impuesto. Matemáticamente: Total = IMPORNETO + (IMPORNETO * 18%). Factorizando la fórmula, obtenemos Total = IMPORNETO * (1 + 0.18), lo que simplifica a Total = IMPORNETO * 1.18. Las otras opciones calculan únicamente el monto del impuesto, no el total a pagar.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p51",
+      "contexto": "Una estudiante le comenta al profesor que la hoja de cálculo en la que se encuentra trabajando presenta la coma como separador de decimales. Sin embargo, ella ha notado que, en las hojas de cálculo en las que trabajan sus compañeros, el separador de decimales es el punto.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es la causa más probable de la diferencia observada por la estudiante?",
+          "opciones": [
+            "La hoja de cálculo se encuentra protegida.",
+            "El programa requiere la instalación de un complemento.",
+            "El sistema operativo presenta diferente configuración regional."
+          ],
+          "respuesta": "El sistema operativo presenta diferente configuración regional.",
+          "respuestaCorta": "El símbolo utilizado como separador decimal (coma o punto) es determinado por la configuración regional del sistema operativo, no por el programa de hoja de cálculo en sí.",
+          "solucionario": "Los programas de ofimática, como las hojas de cálculo, heredan los formatos de número, fecha y moneda de la configuración regional del sistema operativo. Un sistema configurado para España o gran parte de Latinoamérica usará la coma como separador decimal, mientras que uno configurado para Estados Unidos usará el punto. Esta es la causa de la diferencia observada.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p52",
+      "contexto": "Las computadoras que se encuentran conectadas en red se identifican mediante direcciones. Una de estas es la dirección física.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes direcciones es física?",
+          "opciones": [
+            "IPv4",
+            "MAC",
+            "IPv6"
+          ],
+          "respuesta": "MAC",
+          "respuestaCorta": "La dirección MAC (Media Access Control) es el identificador único y físico asignado por el fabricante a la tarjeta de red de un dispositivo.",
+          "solucionario": "La dirección MAC es una dirección de hardware que identifica de forma única una tarjeta de red. Se conoce como dirección física porque está grabada en el hardware. En cambio, las direcciones IPv4 e IPv6 son direcciones lógicas que se asignan por software y se utilizan para el enrutamiento de paquetes en una red.",
+          "seccion": "Conocimientos Disciplinares y Curriculares"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p53",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes grupos de números es una dirección IP privada correcta?",
+          "opciones": [
+            "192.168.257.200",
+            "192.168.1.256",
+            "192.168.3.156"
+          ],
+          "respuesta": "192.168.3.156",
+          "respuestaCorta": "Una dirección IPv4 válida debe tener cuatro números (octetos) entre 0 y 255. Las opciones 'a' y 'b' son incorrectas porque contienen números mayores a 255.",
+          "solucionario": "Las direcciones IPv4 están compuestas por cuatro octetos, y el valor de cada octeto debe estar en el rango de 0 a 255. Las opciones 'a' (con 257) y 'b' (con 256) son inválidas. La opción 'c' es la única dirección válida y además pertenece al rango de direcciones IP privadas Clase C (192.168.0.0 – 192.168.255.255).",
+          "seccion": "Conocimientos Disciplinares y Curriculares"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p54",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cómo se denomina el tipo de red que permite que las laptops XO se conecten directamente entre sí?",
+          "opciones": [
+            "Estrella.",
+            "Malla.",
+            "Bus."
+          ],
+          "respuesta": "Malla.",
+          "respuestaCorta": "Las laptops XO utilizan una red en malla (mesh network), donde cada dispositivo puede conectarse directamente con otros cercanos sin necesidad de un punto de acceso central.",
+          "solucionario": "La conectividad característica de las laptops XO se basa en una red inalámbrica en malla. En esta topología, cada nodo (laptop) se conecta a tantos otros nodos como sea posible y colabora en el enrutamiento de datos. Esto crea una red descentralizada y resiliente, ideal para entornos sin infraestructura de red tradicional.",
+          "seccion": "Conocimientos Disciplinares y Curriculares"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p55",
+      "contexto": "A continuación, se presenta la URL de un sitio web:\nhttp://www.elcolegio.edu.pe/cursos",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "De acuerdo con esta URL, ¿cómo se encuentra organizado el sitio web?",
+          "opciones": [
+            "Este sitio web presenta un subdominio denominado \"cursos\".",
+            "Este sitio web presenta una carpeta denominada \"cursos\".",
+            "Este sitio web presenta un dominio denominado \"cursos\"."
+          ],
+          "respuesta": "Este sitio web presenta una carpeta denominada \"cursos\".",
+          "respuestaCorta": "En una URL, el texto que sigue a la barra diagonal después del dominio principal (ej. /cursos) representa una ruta, comúnmente una carpeta o directorio en el servidor.",
+          "solucionario": "La estructura de la URL es `protocolo://dominio/ruta`. En este caso, el dominio es `www.elcolegio.edu.pe`. La parte `/cursos` es la ruta que sigue al dominio, lo que indica que 'cursos' es una carpeta (o directorio) dentro de la estructura del sitio web. Un subdominio estaría antes del dominio principal, como `cursos.elcolegio.edu.pe`.",
+          "seccion": "Conocimientos Disciplinares y Curriculares"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p56",
+      "contexto": "Un profesor ha recopilado archivos sobre la planificación de proyectos escolares. El profesor tiene como propósito acceder y editar esta información desde cualquier dispositivo, en cualquier lugar, y que esta información esté disponible para algunos de sus colegas.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes acciones es más pertinente que realice el profesor?",
+          "opciones": [
+            "Crear una carpeta compartida en la nube, colocar la información en esa carpeta y enviar el enlace a sus colegas.",
+            "Crear una carpeta en una de las computadoras de la IE, colocar la información en esa carpeta y avisarles a sus colegas que la información se encuentra en dicha carpeta.",
+            "Crear un perfil en una red social en la que solamente el administrador pueda publicar información y configurar dicho perfil para que cualquier usuario pueda acceder a este."
+          ],
+          "respuesta": "Crear una carpeta compartida en la nube, colocar la información en esa carpeta y enviar el enlace a sus colegas.",
+          "respuestaCorta": "El almacenamiento en la nube está diseñado específicamente para cumplir con todos los requisitos: acceso desde cualquier lugar y dispositivo, y facilidad para compartir con colegas.",
+          "solucionario": "Los servicios de almacenamiento en la nube (como Google Drive, OneDrive, Dropbox) son la herramienta ideal para este propósito. Permiten la sincronización de archivos a través de múltiples dispositivos, el acceso a través de internet desde cualquier lugar del mundo y ofrecen opciones robustas para compartir archivos o carpetas con control de permisos. Las otras opciones no cumplen con todos los requisitos de accesibilidad y colaboración.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p57",
+      "contexto": "Lea la siguiente situación y responda las preguntas 57 y 58.\nUn profesor ha elaborado un material didáctico virtual y lo ha guardado en un archivo que presenta la extensión .EXE. El profesor tiene como propósito enviar este material a sus estudiantes. Por esta razón, intentó enviarlo como archivo adjunto en un correo electrónico; sin embargo, le apareció un mensaje indicando que el archivo no se puede adjuntar.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Por qué este archivo no se puede adjuntar en un correo electrónico?",
+          "opciones": [
+            "Porque el archivo es identificado como un posible virus por la plataforma de correo electrónico.",
+            "Porque el archivo excede el tamaño permitido para envíos a través de la plataforma de correo electrónico.",
+            "Porque falta instalar un complemento para la carga de archivos.EXE en la plataforma de correo electrónico."
+          ],
+          "respuesta": "Porque el archivo es identificado como un posible virus por la plataforma de correo electrónico.",
+          "respuestaCorta": "Los proveedores de correo electrónico bloquean automáticamente los archivos ejecutables (.EXE) como medida de seguridad, ya que son un método común para distribuir virus y malware.",
+          "solucionario": "Como política de seguridad estándar, la mayoría de los servicios de correo electrónico (Gmail, Outlook, etc.) prohíben adjuntar archivos ejecutables (.exe, .bat, .msi, etc.). Esto se debe a que son el principal vector de infección de virus. El sistema no analiza si el archivo específico es malicioso o no; simplemente bloquea la extensión por precaución.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes es un requerimiento técnico indispensable para que los estudiantes puedan utilizar el archivo?",
+          "opciones": [
+            "Contar con una tarjeta gráfica dedicada",
+            "Contar con un decompilador de archivos.EXE",
+            "Contar con un sistema operativo compatible con el archivo"
+          ],
+          "respuesta": "Contar con un sistema operativo compatible con el archivo",
+          "respuestaCorta": "Un archivo .EXE es un ejecutable de Windows, por lo que el requisito fundamental para poder usarlo es tener un sistema operativo compatible, como Microsoft Windows.",
+          "solucionario": "La extensión .EXE denota un archivo ejecutable diseñado para el sistema operativo Microsoft Windows. No se puede ejecutar de forma nativa en otros sistemas como macOS, Linux, Android o iOS. Por lo tanto, el requisito más básico e indispensable es que el dispositivo del estudiante tenga instalado un sistema operativo compatible que pueda interpretar y ejecutar este tipo de archivo.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p59",
+      "contexto": "Un usuario necesita ubicar los archivos de fotografías o imágenes que se encuentran almacenados en su computadora. Luego de abrir el explorador de archivos del sistema operativo, ¿cuál de los siguientes es el criterio de búsqueda que debe utilizar el usuario?",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿cuál de los siguientes es el criterio de búsqueda que debe utilizar el usuario?",
+          "opciones": [
+            "*.doc",
+            "*.jpg",
+            "*.imagen"
+          ],
+          "respuesta": "*.jpg",
+          "respuestaCorta": "Para buscar archivos de un tipo específico, se usa un asterisco (*) como comodín para el nombre del archivo, seguido de un punto y la extensión del archivo, como .jpg para imágenes JPEG.",
+          "solucionario": "En los sistemas de búsqueda de archivos, el asterisco (*) actúa como un comodín que representa cualquier secuencia de caracteres. La extensión de archivo (lo que sigue al último punto) define el tipo de archivo. `.jpg` es una de las extensiones más comunes para archivos de imagen. Por lo tanto, `*.jpg` es el criterio de búsqueda correcto para encontrar todas las imágenes con esa extensión.",
+          "seccion": "Conocimientos Disciplinares y Curriculares"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p60",
+      "contexto": "Un usuario está elaborando la imagen del logotipo de su marca en un editor gráfico. Esta imagen debe tener un fondo transparente.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué extensión debe tener el archivo de esta imagen?",
+          "opciones": [
+            ".BMP",
+            ".PNG",
+            ".JPEG"
+          ],
+          "respuesta": ".PNG",
+          "respuestaCorta": "El formato de archivo PNG (Portable Network Graphics) es el estándar para imágenes que requieren un fondo transparente gracias a su soporte para un canal alfa.",
+          "solucionario": "De los formatos presentados, PNG es el más adecuado para guardar imágenes con transparencia. A diferencia de JPEG, que no admite transparencia y rellena el fondo con un color sólido, el formato PNG incluye un canal alfa que permite que partes de la imagen sean total o parcialmente transparentes. BMP tiene un soporte de transparencia muy limitado y obsoleto.",
+          "seccion": "Conocimientos Disciplinares y Curriculares"
+        }
+      ]
+    }
+  ]
+}
+  
