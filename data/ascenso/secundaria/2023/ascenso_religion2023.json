@@ -1,0 +1,1113 @@
+{
+  "completo": [
+    {
+      "idGrupo": "asc_secundaria_2023_p01",
+      "contexto": "Fernanda es una estudiante que presenta discapacidad física y se traslada en silla de ruedas. Ella se va a incorporar la siguiente semana a un aula de una institución educativa. Por ello, el docente del aula realiza una asamblea con los estudiantes con el propósito de sensibilizarlos sobre la condición que presenta Fernanda. En este contexto, tres estudiantes comparten sus comentarios sobre las formas en que podrían ayudar a Fernanda a desplazarse en el colegio.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes comentarios de los estudiantes está alineado al enfoque inclusivo del Currículo Nacional de la Educación Básica?",
+          "opciones": [
+            "\"Para movilizar a Fernanda, es necesario que la llevemos en su silla de ruedas a todos los lugares a donde vayamos. De esta manera, la ayudaremos a desplazarse por todo el colegio y estará siempre acompañada\".",
+            "\"Si deseamos ayudar a Fernanda a movilizarse en el colegio, primero debemos preguntarle en qué casos requiere nuestro apoyo. Yo pienso que ella nos podría orientar sobre cuál es la mejor forma en que podemos ayudarla\".",
+            "\"Considero que siempre debemos estar pendientes de Fernanda para poder ayudarla cuando quiera movilizarse. Propongo que organicemos turnos entre nosotros para cuidarla y así evitar que tenga algún accidente en el colegio\"."
+          ],
+          "respuesta": "\"Si deseamos ayudar a Fernanda a movilizarse en el colegio, primero debemos preguntarle en qué casos requiere nuestro apoyo. Yo pienso que ella nos podría orientar sobre cuál es la mejor forma en que podemos ayudarla\".",
+          "respuestaCorta": "El enfoque inclusivo respeta la autonomía de la persona. La acción correcta es preguntarle directamente a Fernanda cómo y cuándo necesita apoyo, en lugar de asumir control sobre ella.",
+          "solucionario": "La opción B está alineada con el enfoque inclusivo porque parte del respeto a la autonomía y a la toma de decisiones de la propia estudiante. En lugar de imponer una ayuda no solicitada que podría generar dependencia o anular su capacidad de agencia, se le consulta directamente, reconociéndola como un sujeto de derechos capaz de expresar sus necesidades y preferencias. Las otras opciones, aunque bien intencionadas, caen en un asistencialismo que anula la participación activa de Fernanda.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p02",
+      "contexto": "En el marco de un proyecto denominado \"Yo cuido mi barrio\", los estudiantes de una institución educativa han identificado diversos problemas que afectan los espacios públicos de la localidad. Ellos comentan que uno de estos problemas es no poder utilizar la losa deportiva del barrio, debido a que se encuentra deteriorada. En este contexto, la docente tiene como propósito que los estudiantes aborden este problema desde el enfoque de derechos del Currículo Nacional de la Educación Básica.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes acciones pedagógicas es más pertinente para ello?",
+          "opciones": [
+            "Solicitar a los estudiantes que recojan las quejas de los vecinos de la localidad sobre el estado de la losa deportiva. Luego, pedir que organicen la información recabada y, considerando esto, que elaboren una solicitud dirigida a la municipalidad del distrito, con la finalidad de que se halle una solución que atienda las quejas de los vecinos.",
+            "Realizar una plenaria con los estudiantes y dialogar sobre las mejoras que requiere la losa deportiva para que los vecinos puedan usarla. Luego, compartir acciones de participación realizadas en distintas localidades para resolver un problema similar y, sobre esta base, pedir que seleccionen la que sea más factible de replicar en su localidad.",
+            "Conversar con los estudiantes sobre las limitaciones que produce no poder usar la losa deportiva en sus vidas y en las de los vecinos. Luego, solicitar que expliquen si consideran necesario actuar frente a este problema y, a partir de ello, pedir que planteen propuestas para mejorar el estado en el que se encuentra la losa."
+          ],
+          "respuesta": "Conversar con los estudiantes sobre las limitaciones que produce no poder usar la losa deportiva en sus vidas y en las de los vecinos. Luego, solicitar que expliquen si consideran necesario actuar frente a este problema y, a partir de ello, pedir que planteen propuestas para mejorar el estado en el que se encuentra la losa.",
+          "respuestaCorta": "El enfoque de derechos implica que los estudiantes se reconozcan como sujetos de derechos y ciudadanos activos. La acción pertinente es que reflexionen sobre cómo el problema afecta sus vidas y que propongan soluciones, ejerciendo así su ciudadanía.",
+          "solucionario": "La opción C es la más pertinente para el enfoque de derechos porque promueve que los estudiantes tomen conciencia de cómo una situación afecta su derecho (en este caso, a la recreación y al uso de espacios públicos) y, a partir de esa toma de conciencia, se conviertan en agentes de cambio al proponer soluciones. Esto los empodera como ciudadanos activos y no solo como receptores de soluciones externas.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p03",
+      "contexto": "En el marco de la competencia \"Construye su identidad como persona humana, amada por Dios, digna, libre y trascendente, comprendiendo la doctrina de su propia religión, abierta al diálogo con las que le son cercanas\", un docente tiene como propósito promover en los estudiantes el desempeño \"Analiza en las enseñanzas de Jesucristo el cumplimiento de la promesa de salvación y la plenitud de la revelación\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes actividades está alineada con dicho desempeño?",
+          "opciones": [
+            "Pedir a los estudiantes que utilicen una ficha con preguntas orientadoras que los ayudarán a elaborar su proyecto de vida.",
+            "Pedir a los estudiantes que identifiquen acciones concretas que sean coherentes con su fe y que promuevan la transformación de la sociedad.",
+            "Pedir a los estudiantes que elaboren un cuadro comparativo de las parábolas del Reino (Mateo 13) en el que se destaquen las características del Reino de Dios."
+          ],
+          "respuesta": "Pedir a los estudiantes que elaboren un cuadro comparativo de las parábolas del Reino (Mateo 13) en el que se destaquen las características del Reino de Dios.",
+          "respuestaCorta": "El desempeño pide analizar las enseñanzas de Jesús sobre la salvación. Las parábolas del Reino son la fuente principal donde Jesús explica la naturaleza de esta promesa, por lo que compararlas es una actividad directamente alineada.",
+          "solucionario": "El desempeño específico es \"Analiza en las enseñanzas de Jesucristo el cumplimiento de la promesa de salvación\". Las parábolas del Reino, como las que se encuentran en Mateo 13, son enseñanzas directas de Jesús sobre cómo es el Reino de Dios, que es la máxima expresión de la promesa de salvación. Elaborar un cuadro comparativo sobre ellas obliga a los estudiantes a analizar y sintetizar estas enseñanzas, cumpliendo directamente con el propósito del docente.",
+          "seccion": "Conocimientos Pedagógicos"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p04",
+      "contexto": "Como parte de una sesión en la que los estudiantes dialogarán sobre diversos temas de actualidad, la docente promoverá que los estudiantes utilicen el método ver-juzgar-actuar.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes actividades se centra en implementar dicho método?",
+          "opciones": [
+            "Presentarles un texto bíblico y pedir que seleccionen las frases que más les llamaron la atención. Luego, indicarles que investiguen sobre el significado de las frases en el contexto social en que se dieron. Finalmente, solicitarles que, sobre la base de lo que investigaron, expliquen el mensaje del texto.",
+            "Presentarles una noticia vinculada a una problemática local y pedir que opinen sobre esta. Luego, indicarles que lean un texto bíblico que se relacione con dicha noticia. Finalmente, solicitarles que, en equipos, elaboren propuestas para solucionar la problemática que se evidencia en la noticia presentada.",
+            "Indicarles que lean un texto bíblico e identifiquen el mensaje. Luego, pedirles que reflexionen sobre cómo dicho mensaje aporta a su vida y qué pueden hacer para difundirlo. Finalmente, solicitarles que elaboren una oración en la cual agradezcan por el mensaje dado por Dios."
+          ],
+          "respuesta": "Presentarles una noticia vinculada a una problemática local y pedir que opinen sobre esta. Luego, indicarles que lean un texto bíblico que se relacione con dicha noticia. Finalmente, solicitarles que, en equipos, elaboren propuestas para solucionar la problemática que se evidencia en la noticia presentada.",
+          "respuestaCorta": "El método ver-juzgar-actuar sigue tres pasos claros: observar una realidad (ver la noticia), iluminarla con la fe (juzgar con un texto bíblico) y proponer una acción transformadora (actuar con propuestas de solución).",
+          "solucionario": "La opción B describe perfectamente los tres momentos del método: 1) VER: Se parte de una realidad concreta, una \"noticia vinculada a una problemática local\". 2) JUZGAR: Se analiza e ilumina esa realidad desde la fe, al \"leer un texto bíblico que se relacione con dicha noticia\". 3) ACTUAR: Se asume un compromiso y se pasa a la acción, al \"elaborar propuestas para solucionar la problemática\". Las otras opciones no contemplan esta secuencia completa.",
+          "seccion": "Conocimientos Pedagógicos"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p05-07",
+      "contexto": "Una docente tiene como propósito que los estudiantes, organizados en equipos, analicen los evangelios para identificar las enseñanzas de Jesús. Para ello, presenta a los estudiantes la siguiente parábola:\n\nParábola de las diez jóvenes\n\nEscuchen, pues, lo que pasará entonces en el Reino de los cielos. Diez jóvenes salieron con sus lámparas para salir al encuentro del novio. Cinco de ellas eran descuidadas y las otras cinco precavidas. Las descuidadas tomaron sus lámparas como estaban, sin llevar más aceite consigo. Las precavidas, en cambio, junto con las lámparas, llevaron sus botellas de aceite. Como el novio se demoraba en llegar, se adormecieron todas y, al fin, se quedaron dormidas. A medianoche, se oyó un grito: \"¡Viene el novio, salgan a su encuentro!\". Todas las jóvenes se despertaron y prepararon sus lámparas. Entonces, las descuidadas dijeron a las precavidas: \"Dennos un poco de su aceite, porque nuestras lámparas se están apagando\". Las precavidas dijeron: \"No habría bastante para ustedes y para nosotras; vayan mejor a donde lo venden y compren para ustedes\". Mientras fueron a comprar el aceite, llegó el novio; las que estaban listas entraron con él a la fiesta de las bodas y se cerró la puerta. Más tarde llegaron las otras jóvenes y llamaron: \"Señor, Señor, ábrenos\". Pero él respondió: \"En verdad se lo digo: no las conozco\". Por tanto, estén despiertos, porque no saben el día ni la hora.\n\nTomado de Mateo 25, 1-13.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Para favorecer la comprensión del mensaje de la parábola, la docente busca que los estudiantes analicen los símbolos más relevantes en ella. ¿Cuál de las siguientes acciones pedagógicas es más adecuada para que la docente logre su propósito?",
+          "opciones": [
+            "Pedirles que comenten sobre la diferencia en el comportamiento de las jóvenes descritas en el texto. Luego, indicar que expliquen por qué creen que se les acabó el aceite a cinco de las jóvenes. Finalmente, explicarles por qué un grupo de las jóvenes no quiso compartir su aceite con las demás.",
+            "Pedirles que identifiquen a quiénes representan las jóvenes y el novio. Luego, indicar que expliquen por qué creen que las jóvenes esperaban con gran expectativa al novio. Finalmente, solicitar que, sobre la base de sus hallazgos, comenten qué significado tiene que las jóvenes procuren mantener encendida la luz de sus lámparas.",
+            "Pedirles que busquen, en los comentarios del contexto bíblico, qué simboliza el número diez. Luego, solicitar que expliquen por qué son diez las jóvenes que esperan la llegada del novio. Finalmente, indicar que busquen otros textos bíblicos donde se utilice el número diez para reforzar su comprensión del significado de dicho símbolo."
+          ],
+          "respuesta": "Pedirles que identifiquen a quiénes representan las jóvenes y el novio. Luego, indicar que expliquen por qué creen que las jóvenes esperaban con gran expectativa al novio. Finalmente, solicitar que, sobre la base de sus hallazgos, comenten qué significado tiene que las jóvenes procuren mantener encendida la luz de sus lámparas.",
+          "respuestaCorta": "Para analizar los símbolos de la parábola, es fundamental identificar a quiénes representan sus personajes principales (las jóvenes y el novio) y el significado de sus acciones (mantener la lámpara encendida), ya que esto devela el mensaje central.",
+          "solucionario": "El análisis simbólico de una parábola requiere ir más allá de lo literal. La opción B guía a los estudiantes a identificar la representación de los personajes clave: el novio (Cristo) y las jóvenes (la humanidad/los creyentes). A partir de allí, pueden deducir el significado de los elementos centrales, como la lámpara encendida (la fe, las buenas obras, la vigilancia). Este proceso es el núcleo del análisis simbólico para comprender el mensaje de estar preparados para la venida del Señor.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Para complementar la interpretación de la enseñanza de la \"Parábola de las diez jóvenes\", la docente busca que los estudiantes analicen un texto bíblico que tenga la misma enseñanza principal. ¿Cuál de las siguientes parábolas es pertinente para ello?",
+          "opciones": [
+            "\"El hijo pródigo\" (Lucas 15, 11-32).",
+            "\"El banquete de bodas\" (Mateo 22, 1-14).",
+            "\"La parábola del sembrador\" (Mateo 13, 1-9)."
+          ],
+          "respuesta": "\"El banquete de bodas\" (Mateo 22, 1-14).",
+          "respuestaCorta": "La parábola del \"Banquete de bodas\" comparte el mismo mensaje central: la necesidad de estar preparado para el llamado al Reino de Dios y las consecuencias de no estarlo.",
+          "solucionario": "La enseñanza principal de \"Las diez jóvenes\" es la vigilancia y la necesidad de estar preparados para la llegada del Reino. La parábola de \"El banquete de bodas\" (también llamada de los invitados a la boda) refuerza esta idea: muchos son llamados, pero si no están debidamente preparados (representado por el que no tiene el traje de fiesta), son excluidos del banquete. Ambas parábolas enfatizan la preparación y la vigilancia como condiciones para entrar al Reino.",
+          "seccion": "Conocimientos Disciplinares"
+        },
+        {
+          "pregunta": "Después de que los estudiantes analizaron la \"Parábola de las diez jóvenes\", la docente pide a los estudiantes que comenten por escrito cómo realizaron su análisis. A continuación, se presenta el texto de uno de ellos:\n\nAnálisis de la \"Parábola de las diez jóvenes\"\n\nPrimero, identifiqué a todos los personajes de la parábola y busqué a quiénes representaban. Para esto, comparé lo que había identificado con lo que identificaron mis compañeros de equipo. Después de discutir un poco, nos pusimos de acuerdo sobre los personajes y su significado. La verdad es que es muy interesante dialogar e intercambiar puntos de vista con mis compañeros, pero toma mucho más tiempo que interpretar el texto solo. Casi no termino a tiempo el trabajo. Luego, buscamos el mensaje de la parábola y nos dimos cuenta de que se centra en una advertencia un poco severa, pero importante para todas las personas: hay que estar listos para cuando Jesús vuelva.\n\n¿Qué proceso de aprendizaje se evidencia, principalmente, en el escrito del estudiante?",
+          "opciones": [
+            "La transferencia del aprendizaje para el análisis de un texto bíblico.",
+            "La activación de saberes previos acerca de los símbolos de un texto bíblico.",
+            "La metacognición del aprendizaje sobre la interpretación de un texto bíblico."
+          ],
+          "respuesta": "La metacognición del aprendizaje sobre la interpretación de un texto bíblico.",
+          "respuestaCorta": "El estudiante está reflexionando sobre su propio proceso de aprendizaje: describe los pasos que siguió, evalúa las estrategias utilizadas (trabajo en equipo) y reconoce las dificultades (manejo del tiempo). Esto es un claro ejemplo de metacognición.",
+          "solucionario": "La metacognición es la capacidad de reflexionar sobre el propio proceso de pensamiento y aprendizaje. El estudiante no solo presenta el resultado de su análisis, sino que describe detalladamente CÓMO lo hizo (\"Primero, identifiqué...\", \"comparé...\", \"discutir...\"), evalúa la eficacia de su método (\"toma mucho más tiempo\") y es consciente de su comprensión final. Este acto de pensar sobre cómo aprendió es la esencia de la metacognición.",
+          "seccion": "Conocimientos Pedagógicos"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p08",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Un docente busca que los estudiantes comprendan que los autores de los evangelios tenían la misma misión al elaborar sus libros bíblicos. ¿Cuál de las siguientes actividades es más pertinente para ello?",
+          "opciones": [
+            "Pedirles que identifiquen el mensaje del texto \"La venida del Espíritu Santo\" (Hechos 2, 1-4). Luego, explicarles que los apóstoles recibieron el don de hablar en diferentes lenguas para llevar el mensaje y las enseñanzas de Jesús a todo el mundo. Finalmente, indicar que, en equipos, investiguen qué apóstoles fueron los que escribieron los evangelios.",
+            "Pedirles que analicen la frase bíblica \"[Jesús a los apóstoles] Vayan por todo el mundo y anuncien la Buena Nueva a toda la creación\" (Marcos 16, 15). Luego, solicitar que, en equipos, expliquen qué es la \"Buena Nueva\". Finalmente, indicar que comenten si creen que los cuatro evangelios cumplen con el mandato de Jesús a los apóstoles.",
+            "Pedirles que busquen, en la Biblia, la introducción de cada evangelio para conocer en qué año y a qué público se dirigían. Luego, indicar que elaboren un cuadro comparativo con los datos obtenidos. Finalmente, señalar cuáles son los elementos comunes que comparten los cuatro evangelios."
+          ],
+          "respuesta": "Pedirles que analicen la frase bíblica \"[Jesús a los apóstoles] Vayan por todo el mundo y anuncien la Buena Nueva a toda la creación\" (Marcos 16, 15). Luego, solicitar que, en equipos, expliquen qué es la \"Buena Nueva\". Finalmente, indicar que comenten si creen que los cuatro evangelios cumplen con el mandato de Jesús a los apóstoles.",
+          "respuestaCorta": "La misión común de los evangelistas es el mandato de Jesús conocido como la 'Gran Comisión'. Analizar esta frase permite a los estudiantes comprender que el propósito fundamental de todos los evangelios es anunciar la 'Buena Nueva'.",
+          "solucionario": "La opción B se centra directamente en la misión encomendada por Jesús a sus apóstoles: la Gran Comisión. Al analizar el mandato de \"anuncien la Buena Nueva\", los estudiantes pueden inferir que esta es la misión principal y unificadora de todos los que escribieron los evangelios. Conectar los cuatro evangelios con este mandato explícito es la forma más directa de comprender su propósito común.",
+          "seccion": "Conocimientos Disciplinares"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p09",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Como parte de una experiencia de aprendizaje, un docente está planificando diversas actividades con la finalidad de que los estudiantes comprendan la relevancia de la encíclica Laudato si' para la sociedad. ¿Cuál de las siguientes actividades es más pertinente para lograr su propósito?",
+          "opciones": [
+            "Pedir que lean la introducción de la encíclica e identifiquen su propósito. Luego, organizarlos en equipos y asignarles algunos capítulos de la encíclica para que los analicen, elaboren resúmenes e intercambien la información. Finalmente, solicitar que expliquen por qué la encíclica desarrolla temas ambientales y cuáles son los compromisos que se promueven en el documento.",
+            "Pedir que lean un resumen sobre el contenido de la encíclica y señalen qué enseñanzas del documento les gustaron más. Luego, indicar a los estudiantes que se agrupen y seleccionen algún compromiso de la encíclica para que expliquen de qué trata. Finalmente, proponerles actividades que les permitan cumplir con el compromiso que seleccionó cada equipo.",
+            "Pedir que lean la encíclica e identifiquen las principales propuestas de esta. Luego, sobre esta base, solicitar que expliquen por qué los cristianos deben conocer las nuevas frases acuñadas en la encíclica sobre el ambiente y cómo deben usarlas. Finalmente, comentarles por qué este documento es una muestra de la vigencia del mensaje y las enseñanzas de Jesús."
+          ],
+          "respuesta": "Pedir que lean la introducción de la encíclica e identifiquen su propósito. Luego, organizarlos en equipos y asignarles algunos capítulos de la encíclica para que los analicen, elaboren resúmenes e intercambien la información. Finalmente, solicitar que expliquen por qué la encíclica desarrolla temas ambientales y cuáles son los compromisos que se promueven en el documento.",
+          "respuestaCorta": "Para comprender la relevancia de un documento complejo como una encíclica, la estrategia más efectiva es un análisis estructurado: identificar el propósito, analizar sus partes (capítulos) y sintetizar sus conclusiones y llamados a la acción.",
+          "solucionario": "La opción A presenta una secuencia pedagógica completa y profunda. Inicia con la comprensión del propósito general del documento (leer la introducción), sigue con un análisis detallado de sus partes mediante el trabajo colaborativo (análisis de capítulos por equipos) y culmina con una síntesis que demuestra la comprensión de su relevancia social (explicar por qué aborda temas ambientales y qué compromisos promueve). Este método asegura una comprensión más sólida que la lectura de un simple resumen.",
+          "seccion": "Conocimientos Disciplinares"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p10",
+      "contexto": "En una IE, se han incorporado estudiantes de diferentes iglesias cristianas. Por ello, los docentes de Educación Religiosa se han propuesto elaborar diversas actividades para promover el ecumenismo entre los estudiantes.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes propuestas se centra en lograr dicho propósito?",
+          "opciones": [
+            "\"Para iniciar, realicemos algunas actividades sacramentales. Así, podemos comparar los sacramentos que tiene cada iglesia\".",
+            "\"Comencemos con algunas actividades de veneración. Esto ayudará a que comparen las diversas veneraciones en las distintas confesiones cristianas\".",
+            "\"Iniciemos con actividades de análisis de los evangelios. Si bien existen diferentes versiones de la Biblia, el mensaje de Jesús siempre es el mismo\"."
+          ],
+          "respuesta": "\"Iniciemos con actividades de análisis de los evangelios. Si bien existen diferentes versiones de la Biblia, el mensaje de Jesús siempre es el mismo\".",
+          "respuestaCorta": "El ecumenismo busca la unidad de los cristianos. El punto de partida más sólido para ello es centrarse en lo que todos tienen en común: los evangelios y el mensaje de Jesús, en lugar de enfocarse en las diferencias doctrinales o rituales.",
+          "solucionario": "El propósito del ecumenismo es encontrar la unidad entre las diversas confesiones cristianas. Los sacramentos y las prácticas de veneración suelen ser puntos de diferencia teológica. En cambio, los evangelios y la figura de Jesús son el fundamento común de todo el cristianismo. Por lo tanto, centrar las actividades en el análisis del mensaje de Jesús es la estrategia más adecuada para construir puentes y fomentar la unidad.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p11",
+      "contexto": "\"Los sacramentos obran ex opere operato ('por el hecho mismo de que la acción es realizada'), es decir, en virtud de la obra salvífica de Cristo, realizada de una vez por todas. De ahí se sigue que el sacramento no actúa en virtud de la justicia del hombre que lo da o que lo recibe, sino por el poder de Dios\".\n\nTomado de Catecismo de la Iglesia Católica n.\" 1128.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué concilio declara esta doctrina?",
+          "opciones": [
+            "Concilio de Florencia.",
+            "Concilio Vaticano II.",
+            "Concilio de Trento."
+          ],
+          "respuesta": "Concilio de Trento.",
+          "respuestaCorta": "La doctrina sacramental de 'ex opere operato' fue declarada y definida formalmente por el Concilio de Trento, como respuesta a los cuestionamientos de la Reforma Protestante.",
+          "solucionario": "La doctrina de que los sacramentos son eficaces 'ex opere operato' (por la obra misma realizada) y no 'ex opere operantis' (por la obra de quien la realiza, es decir, por la santidad del ministro), fue una afirmación dogmática clave del Concilio de Trento (1545-1563). Este concilio se convocó en gran parte para responder a los postulados de la Reforma Protestante y reafirmar la teología sacramental católica.",
+          "seccion": "Conocimientos Disciplinares"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p12",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Como parte de una sesión centrada en reflexionar sobre las diferentes expresiones de la religiosidad popular en algunas regiones del Perú, el docente busca recoger los saberes previos de los estudiantes al respecto. ¿Cuál de las siguientes acciones pedagógicas es más adecuada para ello?",
+          "opciones": [
+            "Solicitar que mencionen algunas de las festividades religiosas que se llevan a cabo en su comunidad. Después, preguntar si, con sus familias, participan en algunas de ellas y qué les llamó la atención.",
+            "Indicar que analicen un texto del Magisterio de la Iglesia sobre la piedad popular. Al finalizar el análisis, pedir que señalen las ideas principales y secundarias del texto sobre la religiosidad popular.",
+            "Presentar imágenes de las fiestas religiosas más importantes del Perú y explicarles por qué son consideradas expresiones de la religiosidad popular. Luego, pedir que lean sobre religiosidad popular en el documento de Aparecida y compartan opiniones al respecto."
+          ],
+          "respuesta": "Solicitar que mencionen algunas de las festividades religiosas que se llevan a cabo en su comunidad. Después, preguntar si, con sus familias, participan en algunas de ellas y qué les llamó la atención.",
+          "respuestaCorta": "Para recoger saberes previos, la estrategia más efectiva es partir de las experiencias directas y vividas de los estudiantes, como las festividades de su propia comunidad en las que participan con sus familias.",
+          "solucionario": "La recogida de saberes previos tiene como objetivo conectar el nuevo aprendizaje con lo que los estudiantes ya saben o han experimentado. La opción A es la única que parte de la vivencia personal y comunitaria de los estudiantes, pidiéndoles que recuerden y compartan sus propias experiencias. Las opciones B y C, en cambio, parten de la entrega de nueva información (textos, imágenes, explicaciones), lo cual corresponde a una fase posterior del proceso de enseñanza-aprendizaje, no a la recogida de saberes previos.",
+          "seccion": "Conocimientos Pedagógicos"
+        }
+      ]
+    },
+
+  
+    {
+      "idGrupo": "asc_secundaria_2023_p13",
+      "contexto": "Durante una sesión, un docente busca que los estudiantes reflexionen sobre la importancia de la fraternidad cristiana. Para ello, les presenta el siguiente fragmento de la encíclica Fratelli Tutti:\n\nEl samaritano del camino se fue sin esperar reconocimientos ni gratitudes. La entrega al servicio era la gran satisfacción frente a su Dios y a su vida, y, por eso, un deber. Todos tenemos responsabilidad sobre el herido que es el pueblo mismo y todos los pueblos de la tierra. Cuidemos la fragilidad de cada hombre, de cada mujer, de cada niño y de cada anciano, con esa actitud solidaria y atenta, la actitud de proximidad del buen samaritano.\n\nTomado de Fratelli Tutti 79.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Después de que han leído, el docente se propone que los estudiantes reflexionen sobre el mensaje del fragmento de la encíclica. ¿Cuál de las siguientes actividades pedagógicas es más adecuada para el logro del propósito?",
+          "opciones": [
+            "Pedirles que expliquen cuál es la intención de la encíclica al resaltar el comportamiento del samaritano. Luego, indicar que lean la parábola \"El buen samaritano\" y que, después, comenten qué valores cristianos identifican en dicha parábola. Finalmente, preguntar si conocen a algunas personas de su comunidad que actúen como el samaritano.",
+            "Pedirles que expliquen qué quiere decir en la encíclica la frase \"Cuidemos la fragilidad de cada hombre, de cada mujer (...)\". Luego, indicar que busquen en los evangelios cómo Jesús actuaba con las personas que se caracterizaban por la fragilidad de la que se habla en la encíclica. Finalmente, preguntar si estarían dispuestos a actuar de acuerdo al mensaje del fragmento de la encíclica.",
+            "Pedirles que expliquen el significado de la frase de la encíclica \"El samaritano del camino se fue sin esperar reconocimientos ni gratitudes\". Luego, indicar que, en equipos, relacionen la frase bíblica \"Tú, cuando ayudes a un necesitado, ni siquiera tu mano izquierda debe saber lo que hace tu mano derecha\" (Mateo 6, 3) con la frase de la encíclica. Finalmente, solicitar que compartan sus hallazgos con la clase."
+          ],
+          "respuesta": "Pedirles que expliquen qué quiere decir en la encíclica la frase \"Cuidemos la fragilidad de cada hombre, de cada mujer (...)\". Luego, indicar que busquen en los evangelios cómo Jesús actuaba con las personas que se caracterizaban por la fragilidad de la que se habla en la encíclica. Finalmente, preguntar si estarían dispuestos a actuar de acuerdo al mensaje del fragmento de la encíclica.",
+          "respuestaCorta": "Para reflexionar sobre el mensaje, los estudiantes deben analizar la llamada a la acción del texto, conectarla con el ejemplo de Jesús y llevarla al plano personal, cuestionando su propia disposición a actuar.",
+          "solucionario": "La opción B promueve una reflexión profunda y estructurada. Primero, asegura la comprensión del mandato central del texto (\"Cuidemos la fragilidad...\"). Segundo, lo fundamenta en el modelo supremo del cristiano, que es Jesús (\"cómo Jesús actuaba...\"). Tercero, lleva la reflexión a un compromiso personal y existencial (\"preguntar si estarían dispuestos a actuar...\"), lo que constituye el objetivo final de una reflexión sobre la fraternidad cristiana.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p14",
+      "contexto": "En una sesión, en la cual los estudiantes van a dialogar sobre la importancia de la espiritualidad, el docente les ha pedido que compartan con la clase alguna experiencia que los haya conmovido espiritualmente.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes estudiantes señala una experiencia de asombro?",
+          "opciones": [
+            "Felipe dice: \"Recuerdo que mi mamá siempre me contaba mitos y leyendas sobre la ciudad de Lamas. Esas historias me daban mucha curiosidad, y quería conocer esa ciudad. Aún recuerdo esas leyendas y, cuando pueda, iré hasta allá a comprobar si esas historias siguen presentes entre las comunidades\".",
+            "Katerina dice: \"Cuando viajé a Yungay, conocí las lagunas de Llanganuco. Llegué en el momento en que salió el sol y sus rayos se reflejaban en las aguas. En ese momento, unas ovejas se acercaron a la ribera a tomar agua. Esta experiencia siempre la recuerdo y he quedado muy impactada por la belleza que nos muestra la naturaleza\".",
+            "David dice: \"Para mí, fue muy importante cuando mi mamá formó parte de la asociación Hermanos hospitalarios. Esta asociación se dedica a dar clases a los niños en los hospitales mientras están internados. Siento que la labor que realizó mi mamá es una muestra de lo importante que es dejar de pensar solo en nosotros para pensar en el prójimo\"."
+          ],
+          "respuesta": "Katerina dice: \"Cuando viajé a Yungay, conocí las lagunas de Llanganuco. Llegué en el momento en que salió el sol y sus rayos se reflejaban en las aguas. En ese momento, unas ovejas se acercaron a la ribera a tomar agua. Esta experiencia siempre la recuerdo y he quedado muy impactada por la belleza que nos muestra la naturaleza\".",
+          "respuestaCorta": "Una experiencia de asombro es aquella que conmueve profundamente ante la grandeza o belleza de algo, usualmente la creación. El testimonio de Katerina sobre el impacto que le causó la belleza de la naturaleza es un ejemplo claro.",
+          "solucionario": "La experiencia espiritual de asombro se caracteriza por un sentimiento de maravilla y sobrecogimiento ante lo sublime. El testimonio de Katerina describe precisamente esto: queda \"muy impactada por la belleza que nos muestra la naturaleza\". En contraste, Felipe expresa curiosidad y David expresa admiración por una acción solidaria, pero solo Katerina describe el asombro que conecta con una dimensión trascendente a través de la creación.",
+          "seccion": "Conocimientos Disciplinares"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p15",
+      "contexto": "En la encíclica Laudato si', se describen las consecuencias del antropocentrismo moderno, entre las cuales se señala el \"relativismo práctico\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes alternativas presenta una consecuencia del \"relativismo práctico\"?",
+          "opciones": [
+            "La creencia de que solo las fuerzas invisibles del mercado deben regular la economía continuará imponiéndose. Por ejemplo, actualmente existen productos de gran demanda que dañan la naturaleza, pero, de acuerdo con esta creencia, estos productos no deben prohibirse porque son necesarios para la vida moderna.",
+            "En un futuro, la religión desaparecerá, pues el hombre no confiará en las instituciones, sino en un Dios más personal. Por ejemplo, el avance de prácticas orientales como el yoga o la meditación, por sobre el cristianismo, evidencia que el hombre es un ser espiritual, pero prefiere seguir sus propias creencias.",
+            "La globalización acentuará los conflictos sociales y medioambientales que ya existen actualmente. Por ejemplo, debido a las innovaciones tecnológicas, mucha gente quedará desplazada de su trabajo, pues será reemplazada por la tecnología."
+          ],
+          "respuesta": "La creencia de que solo las fuerzas invisibles del mercado deben regular la economía continuará imponiéndose. Por ejemplo, actualmente existen productos de gran demanda que dañan la naturaleza, pero, de acuerdo con esta creencia, estos productos no deben prohibirse porque son necesarios para la vida moderna.",
+          "respuestaCorta": "El 'relativismo práctico' criticado en Laudato si' es la lógica donde la conveniencia inmediata, como la ganancia del mercado, se impone sobre el bien común y la verdad objetiva, justificando así acciones que dañan la naturaleza.",
+          "solucionario": "El \"relativismo práctico\", según Laudato si', consiste en subordinar las decisiones éticas a las circunstancias inmediatas y a los intereses particulares, especialmente los económicos. La opción A describe un ejemplo perfecto de esta lógica: se reconoce que ciertos productos dañan la naturaleza (un mal objetivo), pero se justifica su existencia en función de la demanda del mercado y la \"necesidad\" para la vida moderna (conveniencia), poniendo la economía por encima del cuidado de la casa común.",
+          "seccion": "Conocimientos Disciplinares"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p16",
+      "contexto": "Como parte de una sesión, los estudiantes, orientados por el docente, están dialogando sobre las características de las religiones del mundo. En este contexto, un estudiante realiza el siguiente comentario:\n\n\"Conversando con mis compañeros, recordé algo que aprendí el año pasado. Aprendí que una de las características principales de la religión es la relación que establecen las personas con un ser superior, un dios o dioses. Hasta allí, tenía todo claro. Pero, ahora que he leído sobre el budismo, me he quedado confundido. ¿Puede existir una religión sin tener un dios? ¿Los budistas adoran a algo o a alguien? ¿Cómo explican que existe el mundo sin un creador?\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes procesos de aprendizaje NO se evidencia en el comentario del estudiante?",
+          "opciones": [
+            "La transferencia del aprendizaje.",
+            "La activación de saberes previos.",
+            "La generación de un conflicto cognitivo."
+          ],
+          "respuesta": "La transferencia del aprendizaje.",
+          "respuestaCorta": "El estudiante activa un saber previo (definición de religión) y genera un conflicto cognitivo al contrastarlo con nueva información (budismo), pero aún no llega a aplicar ese conocimiento para resolver un problema o una nueva situación, lo que constituiría la transferencia.",
+          "solucionario": "En el comentario del estudiante se observan claramente dos procesos: 1) Activación de saberes previos: \"recordé algo que aprendí el año pasado\". 2) Generación de un conflicto cognitivo: su conocimiento previo entra en conflicto con la nueva información sobre el budismo, lo que le genera confusión y preguntas. Sin embargo, no se evidencia la transferencia del aprendizaje, que sería el paso siguiente: usar lo que sabe y lo que se cuestiona para analizar una nueva situación o resolver un problema. El estudiante está en la fase de cuestionamiento, no de aplicación.",
+          "seccion": "Conocimientos Pedagógicos"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p17",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Como parte del desarrollo de un proyecto de investigación sobre la religiosidad popular, los docentes de una IE están proponiendo que los estudiantes realicen diferentes actividades para guiar su trabajo. ¿Cuál de las siguientes propuestas se centra en promover la metacognición del aprendizaje en los estudiantes?",
+          "opciones": [
+            "\"Entreguémosles una ficha con criterios que les sirvan para que su investigación se adecúe al tipo de texto y formato esperados\".",
+            "\"Podemos pedirles que describan qué etapa de la investigación les fue difícil o fácil de realizar, y qué acciones tomaron al respecto\".",
+            "\"Solicitemos que indiquen de dónde sacaron la información para su investigación y si la consignaron en notas a pie de página o en la bibliografía\"."
+          ],
+          "respuesta": "\"Podemos pedirles que describan qué etapa de la investigación les fue difícil o fácil de realizar, y qué acciones tomaron al respecto\".",
+          "respuestaCorta": "La metacognición es 'pensar sobre el propio pensamiento'. La actividad que pide a los estudiantes reflexionar sobre sus dificultades, facilidades y las estrategias que usaron durante el proceso de investigación es puramente metacognitiva.",
+          "solucionario": "La metacognición implica que el estudiante sea consciente de su propio proceso de aprendizaje, lo regule y lo evalúe. La opción B promueve esto directamente al pedirles que identifiquen sus fortalezas y debilidades durante el proceso (\"fácil o difícil\") y que sean conscientes de las estrategias que emplearon para resolver problemas (\"qué acciones tomaron\"). Las otras opciones son de apoyo (A) o de verificación de formato (C), pero no de reflexión sobre el proceso de aprender.",
+          "seccion": "Conocimientos Pedagógicos"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p18",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "En una actividad de análisis bíblico, los estudiantes están leyendo las parábolas \"El hijo pródigo\" (Lucas 15, 11-32) y \"La oveja perdida\" (Lucas 15, 1-10). En ese contexto, la docente se propone que los estudiantes realicen una comparación bíblica entre ambas parábolas. ¿Cuál de las siguientes acciones pedagógicas es más adecuada para que la docente logre su propósito?",
+          "opciones": [
+            "Pedir que señalen las principales características de los siguientes personajes: el pastor en la parábola \"La oveja perdida\" y los hermanos en la parábola \"El hijo pródigo\". Luego, solicitar que elaboren un organizador en el que sinteticen dichas características. Finalmente, comentarles qué simbolizan ambos personajes.",
+            "Pedir que identifiquen las ideas más importantes de ambas parábolas. Luego, solicitar que indiquen qué personajes les llamaron más su atención y que expliquen por qué. Finalmente, indicar que, en equipos, elaboren algunos compromisos que les permitan difundir las enseñanzas de alguna de las parábolas analizadas.",
+            "Pedir que establezcan semejanzas entre los personajes de ambas parábolas: la oveja perdida y el hijo menor, y el pastor y el padre. Luego, proponer que den su opinión sobre las acciones de dichos personajes. Finalmente, indicar que expliquen qué enseñanzas se desprenden a partir de las acciones del pastor y el padre."
+          ],
+          "respuesta": "Pedir que establezcan semejanzas entre los personajes de ambas parábolas: la oveja perdida y el hijo menor, y el pastor y el padre. Luego, proponer que den su opinión sobre las acciones de dichos personajes. Finalmente, indicar que expliquen qué enseñanzas se desprenden a partir de las acciones del pastor y el padre.",
+          "respuestaCorta": "Para una comparación bíblica efectiva, se deben identificar los roles paralelos en ambas historias (lo perdido: oveja/hijo; el que busca/acoge: pastor/padre) para extraer la enseñanza común sobre la misericordia divina.",
+          "solucionario": "La opción C guía a los estudiantes a realizar una auténtica comparación teológica, estableciendo una analogía directa entre los personajes clave de ambas parábolas. Al comparar a la oveja perdida con el hijo menor (ambos representan al pecador que se aleja) y al pastor con el padre (ambos representan a Dios misericordioso que busca y acoge), los estudiantes pueden deducir por sí mismos la enseñanza central y común a ambas historias: la alegría de Dios por encontrar y perdonar al que estaba perdido.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p19-20",
+      "contexto": "Durante una actividad de análisis bíblico, los estudiantes están analizando el siguiente texto:\n\nJesús es tentado en el desierto\n\nEl Espíritu condujo a Jesús al desierto para que fuera tentado por el diablo, y después de estar sin comer cuarenta días y cuarenta noches, al final sintió hambre. Entonces se le acercó el tentador y le dijo: \"Si eres Hijo de Dios, ordena que estas piedras se conviertan en pan\". Pero Jesús le respondió: \"Dice la Escritura: El hombre no vive solamente de pan, sino de toda la palabra que sale de la boca de Dios\". Después, el diablo lo llevó a la Ciudad Santa y lo puso en la parte más alta de la muralla del templo. Y le dijo: \"Si eres Hijo de Dios, tirate de aquí abajo, pues la Escritura dice: Dios dará órdenes a sus ángeles y te llevarán en sus manos para que tus pies no tropiecen en piedra alguna\". Jesús replicó: \"Dice también la Escritura: No tentarás al Señor tu Dios\". A continuación, lo llevó el diablo a un monte muy alto y le mostró todas las naciones del mundo con todas sus grandezas y maravillas. Y le dijo: \"Te daré todo esto si te arrodillas y me adoras\". Jesús le dijo: \"Aléjate, Satanás, porque dice la Escritura: Adorarás al Señor tu Dios, y a Él solo servirás\". Entonces lo dejó el diablo y se acercaron los ángeles a servirle.\n\nTomado de Mateo 4, 1-11.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Después de que los estudiantes han leído el texto, el docente busca promover que comprendan su mensaje. ¿Cuál de las siguientes acciones pedagógicas es más adecuada para que el docente logre su propósito?",
+          "opciones": [
+            "Comentarles que la Escritura es la fuente de fortaleza de Jesús, así como la Biblia lo es para los cristianos. Luego, pedir que lean los textos bíblicos que explican el contenido de las citas que Jesús mencionó en el desierto. Finalmente, explicarles en qué otros pasajes bíblicos Jesús recurre a la Escritura.",
+            "Solicitarles que busquen, en los comentarios del contexto bíblico, el significado de los símbolos presentes en el texto. Luego, sobre la base de lo leído, solicitar que expliquen por qué Jesús no cayó en las tentaciones. Finalmente, indicarles que Jesús salió fortalecido luego de vencer las tentaciones.",
+            "Pedirles que, en equipos, dialoguen sobre el significado de alguna de las respuestas de Jesús ante las tentaciones que se le presentaron. Luego, solicitar que expliquen por qué Jesús evoca pasajes de la Escritura para enfrentar las tentaciones. Finalmente, preguntarles qué enseñanza creen que ofrece el texto para los cristianos."
+          ],
+          "respuesta": "Pedirles que, en equipos, dialoguen sobre el significado de alguna de las respuestas de Jesús ante las tentaciones que se le presentaron. Luego, solicitar que expliquen por qué Jesús evoca pasajes de la Escritura para enfrentar las tentaciones. Finalmente, preguntarles qué enseñanza creen que ofrece el texto para los cristianos.",
+          "respuestaCorta": "Para comprender el mensaje, la mejor estrategia es que los estudiantes analicen las respuestas de Jesús, descubran su método (confiar en la Escritura) y apliquen esa enseñanza a sus vidas, fomentando un aprendizaje activo.",
+          "solucionario": "La opción C fomenta un aprendizaje constructivista y significativo. Al pedirles que dialoguen, analicen y expliquen, los estudiantes construyen el conocimiento por sí mismos. El proceso de analizar las respuestas de Jesús, entender el porqué de su método (el uso de la Escritura como defensa) y finalmente extrapolar una enseñanza para la vida cristiana, asegura una comprensión mucho más profunda y personal del mensaje del texto.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "El docente tiene como propósito que los estudiantes interpreten el simbolismo del número 40 presente en el texto \"Jesús es tentado en el desierto\". ¿Cuál de las siguientes acciones pedagógicas es más adecuada para ello?",
+          "opciones": [
+            "Pedirles que lean el relato del diluvio universal y Noé. Luego, solicitar que identifiquen, en el texto del diluvio, cuántos días y cuántas noches llovió en la tierra, y qué ocasionó que los hombres fueran destruidos. Finalmente, comentarles que el número 40, en el texto \"Jesús es tentado en el desierto\" y en el relato del diluvio universal, se asocia con la purificación.",
+            "Pedirles que lean el relato de Moisés y expliquen por qué el pueblo elegido tuvo que caminar 40 años. Luego, solicitar que señalen las semejanzas entre el relato del pueblo elegido en el desierto y el de \"Jesús es tentado en el desierto\". Finalmente, indicarles que comenten en qué contextos aparece el número 40 en ambos textos y qué creen que puede simbolizar.",
+            "Pedirles que busquen en los comentarios del contexto bíblico del texto \"Jesús es tentado en el desierto\" el significado del número 40. Luego, indicar que expliquen, en equipos, qué relación tiene el significado del número 40 con el desierto. Finalmente, brindarles otros textos bíblicos en los que se presenta el número 40 para que noten que su presencia es recurrente en diversos pasajes bíblicos."
+          ],
+          "respuesta": "Pedirles que lean el relato de Moisés y expliquen por qué el pueblo elegido tuvo que caminar 40 años. Luego, solicitar que señalen las semejanzas entre el relato del pueblo elegido en el desierto y el de \"Jesús es tentado en el desierto\". Finalmente, indicarles que comenten en qué contextos aparece el número 40 en ambos textos y qué creen que puede simbolizar.",
+          "respuestaCorta": "Para interpretar un símbolo bíblico como el número 40, se deben comparar textos análogos. Relacionar los 40 días de Jesús con los 40 años del pueblo de Israel en el desierto permite a los estudiantes deducir su significado de prueba y preparación.",
+          "solucionario": "La mejor forma de entender el simbolismo bíblico es a través de la intertextualidad, es decir, relacionando un texto con otro. La opción B es la más adecuada porque conecta los 40 días de Jesús en el desierto con su antecedente más directo: los 40 años del pueblo de Israel. Al comparar estas dos situaciones de prueba y preparación en el desierto, los estudiantes pueden inferir de manera inductiva el significado simbólico del número 40 como un tiempo de prueba que prepara para una nueva etapa o misión.",
+          "seccion": "Conocimientos Disciplinares"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p21",
+      "contexto": "Yavé Dios llamó al hombre y le dijo: '¿Dónde estás? . [...] El hombre respondió: 'La mujer que pusiste a mi lado me dio del árbol y comí'. Yavé dijo a la mujer: '¿Qué has hecho?'. La mujer respondió: 'La serpiente me engañó y he comido'. Entonces Yavé Dios dijo a la serpiente: 'Por haber hecho esto, maldita seas entre todas las bestias y entre todos los animales del campo. Te arrastrarás sobre tu vientre y comerás tierra por todos los días de tu vida. Haré que haya enemistad entre ti y la mujer, entre tu descendencia y la suya. Ella te pisará la cabeza' [...].\n\nTomado de Génesis 3, 9.12-15.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Por qué se puede afirmar que este texto tiene una relación de correspondencia con el Nuevo Testamento?",
+          "opciones": [
+            "Porque en este texto se evidencia la promesa de Dios de enviar a un Mesías Salvador.",
+            "Porque en este texto se evidencia cómo el demonio tienta al hombre desde el inicio de la humanidad.",
+            "Porque en este texto se evidencia la desobediencia del hombre a lo largo de toda la historia de la salvación."
+          ],
+          "respuesta": "Porque en este texto se evidencia la promesa de Dios de enviar a un Mesías Salvador.",
+          "respuestaCorta": "Este pasaje es conocido como el 'Protoevangelio' porque la frase 'Ella te pisará la cabeza' se interpreta como la primera promesa de un Salvador (la descendencia de la mujer) que vencerá al mal, promesa cumplida en el Nuevo Testamento.",
+          "solucionario": "La relación de correspondencia se encuentra en Génesis 3:15, un versículo conocido teológicamente como el Protoevangelio (el primer anuncio del Evangelio). La promesa de que la descendencia de la mujer ('Ella') aplastará la cabeza de la serpiente es interpretada por la tradición cristiana como el primer anuncio de un futuro Redentor (el Mesías) que triunfará sobre el mal (Satanás). El Nuevo Testamento narra el cumplimiento de esta promesa en la vida, muerte y resurrección de Jesucristo.",
+          "seccion": "Conocimientos Disciplinares"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p22",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Un docente tiene como propósito que los estudiantes reflexionen sobre la trascendencia de las enseñanzas de Jesús en la actualidad. ¿Qué actividad es más adecuada para que el docente logre su propósito?",
+          "opciones": [
+            "Darles un texto sobre \"La ley del buen samaritano\", la cual se aplica en países de Europa y América para proteger legalmente a las personas que actúan de buena fe ante accidentes. Luego, pedir que lean la parábola \"El buen samaritano\" e identifiquen qué enseñanzas se mantienen vigentes en la ley mencionada. Finalmente, indicar que, en pares, dialoguen sobre por qué las enseñanzas de Jesús siguen manteniéndose vigentes en la actualidad.",
+            "Indicarles que escojan tres parábolas que más les gusten e interpreten sus símbolos y sus mensajes. Luego, pedir que elaboren versiones actualizadas de una de las parábolas que han seleccionado. Finalmente, indicar que, en equipos, identifiquen los cambios que realizaron en las parábolas que han adaptado y verifiquen si se mantiene el mensaje que se desarrolla en la fuente original.",
+            "Presentarles una parábola del Reino cuya enseñanza se mantiene vigente en la actualidad. Luego, pedir que, en equipos, comenten sobre los aspectos de la parábola que les parecieron más relevantes e interesantes. Finalmente, indicar que, mediante un breve ensayo, expliquen por qué las parábolas son las fuentes más importantes del magisterio de Jesús."
+          ],
+          "respuesta": "Darles un texto sobre \"La ley del buen samaritano\", la cual se aplica en países de Europa y América para proteger legalmente a las personas que actúan de buena fe ante accidentes. Luego, pedir que lean la parábola \"El buen samaritano\" e identifiquen qué enseñanzas se mantienen vigentes en la ley mencionada. Finalmente, indicar que, en pares, dialoguen sobre por qué las enseñanzas de Jesús siguen manteniéndose vigentes en la actualidad.",
+          "respuestaCorta": "Para demostrar la trascendencia de las enseñanzas de Jesús, es muy efectivo conectar directamente una parábola con una ley civil moderna inspirada en ella, mostrando su aplicabilidad y vigencia en la sociedad actual.",
+          "solucionario": "La opción A es la más efectiva porque crea un puente claro y tangible entre el pasado y el presente. Al mostrar cómo una enseñanza de Jesús (la parábola del Buen Samaritano) ha influido directamente en la legislación civil contemporánea a nivel internacional, se demuestra de forma irrefutable su trascendencia y su impacto duradero más allá del ámbito puramente religioso. Esto permite a los estudiantes reflexionar sobre una vigencia concreta y no solo teórica.",
+          "seccion": "Conocimientos Pedagógicos"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p23",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Como parte de una sesión sobre la promoción del diálogo interreligioso, los estudiantes están compartiendo sobre lo que conocen acerca de las religiones del mundo. ¿Cuál de las siguientes afirmaciones de los estudiantes sobre las religiones del mundo es errónea?",
+          "opciones": [
+            "\"El judaísmo practica el rito de la absolución de los pecados\".",
+            "\"El hinduismo cree en la importancia del karma\".",
+            "\"El islam promueve la práctica de la oración\"."
+          ],
+          "respuesta": "\"El judaísmo practica el rito de la absolución de los pecados\".",
+          "respuestaCorta": "La afirmación errónea es que el judaísmo practica la absolución de los pecados, ya que este es un rito sacramental propio del cristianismo (católico), no del judaísmo.",
+          "solucionario": "La afirmación A es incorrecta. El rito de la absolución de los pecados, entendido como un sacramento en el que un clérigo ordenado (sacerdote) perdona los pecados en nombre de Dios, es específico del cristianismo, particularmente de la Iglesia Católica y Ortodoxa. El judaísmo tiene el concepto de Teshuvá (arrepentimiento) y el perdón que viene directamente de Dios, pero no un rito de absolución sacramental. Las afirmaciones B (karma en el hinduismo) y C (oración en el islam) son correctas.",
+          "seccion": "Conocimientos Disciplinares"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p24-25",
+      "contexto": "Una docente tiene como propósito que sus estudiantes analicen las principales imágenes e íconos religiosos peruanos. En este contexto, presenta la imagen del Señor de los Milagros y pide a los estudiantes que describan los elementos que identifican en ella. A continuación, se presentan los elementos que los estudiantes señalaron:",
+      "imagen": "img/ascenso/secundaria/2023/religion/1.jpg",
+      "preguntas": [
+        {
+          "pregunta": "Después de la observación, la docente se propone incorporar una estrategia para que los estudiantes analicen la imagen y así reconozcan las bases bíblicas contenidas en ella. ¿Cuál de las siguientes alternativas es más adecuada para el propósito de la docente?",
+          "opciones": [
+            "Explicarles que la imagen se basa en textos bíblicos que resaltan la divinidad de Jesús como hijo de Dios e indicarles que lean los pasajes bíblicos correspondientes.",
+            "Indicarles que establezcan la relación entre los distintos elementos de la imagen y los pasajes bíblicos de la profecía de Simeón, el bautismo de Jesús y la crucifixión.",
+            "Leerles la historia de la imagen del Señor de los Milagros y, sobre esa base, pedirles que investiguen qué elementos bíblicos están en la imagen."
+          ],
+          "respuesta": "Indicarles que establezcan la relación entre los distintos elementos de la imagen y los pasajes bíblicos de la profecía de Simeón, el bautismo de Jesús y la crucifixión.",
+          "respuestaCorta": "Para analizar la base bíblica de una imagen religiosa, la estrategia más efectiva es guiar a los estudiantes a conectar directamente los símbolos visuales con los pasajes específicos de la Escritura que representan.",
+          "solucionario": "La iconografía religiosa es una forma de catequesis visual que traduce pasajes bíblicos en imágenes. La opción B es la más adecuada porque propone un análisis teológico-iconográfico directo: pide a los estudiantes que conecten los elementos visuales (la Santísima Trinidad, la espada en el pecho de María, la crucifixión) con los eventos bíblicos específicos que los originan (el Bautismo, la Profecía de Simeón y la Pasión). Esto permite a los estudiantes descubrir por sí mismos cómo la imagen narra historias de la Biblia.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+
+   
+    {
+      "idGrupo": "asc_secundaria_2023_p24-25",
+      "contexto": "Una docente tiene como propósito que sus estudiantes analicen las principales imágenes e íconos religiosos peruanos. En este contexto, presenta la imagen del Señor de los Milagros y pide a los estudiantes que describan los elementos que identifican en ella.",
+      
+      "preguntas": [
+        {
+          "contexto": "Después de la descripción de la imagen, la docente pidió a los estudiantes explicar, de manera individual, el significado bíblico de los elementos de la imagen del Señor de los Milagros. A continuación, se presenta el trabajo de Saúl, uno de los estudiantes: ",
+          "imagen":"img/ascenso/secundaria/2023/religion/2.jpg",
+          "pregunta":"\nAl revisar el trabajo, la docente nota que Saúl realizó un buen análisis pero no encontró el significado correcto de algunos de los elementos en la imagen. Por ello, ha decidido brindarle ayuda pedagógica. ¿Cuál de las siguientes actividades es una adecuada ayuda pedagógica para Saúl?",
+          "opciones": [
+            "Preguntarle: \"¿En qué elementos y significados bíblicos crees que fallaste? ¿En cuáles acertaste? ¿Qué dificultades tuviste para encontrar el significado bíblico de cada elemento?\".",
+            "Preguntarle: \"¿Por qué la espada en el pecho de María representa para ti nobleza? ¿Por qué solo están san Juan y María al pie de la Cruz? ¿Tendrá relación con alguna de las últimas frases de Jesús?\".",
+            "Explicarle los significados bíblicos de los elementos en que se equivocó de la siguiente manera: \"La espada en el pecho de la virgen simboliza el dolor que sintió por la muerte de Jesús y san Juan representa a todos los hombres\"."
+          ],
+          "respuesta": "Preguntarle: \"¿Por qué la espada en el pecho de María representa para ti nobleza? ¿Por qué solo están san Juan y María al pie de la Cruz? ¿Tendrá relación con alguna de las últimas frases de Jesús?\".",
+          "respuestaCorta": "La ayuda pedagógica más efectiva es la repregunta reflexiva. En lugar de dar la respuesta, se guía al estudiante con preguntas clave para que él mismo descubra la conexión bíblica correcta y corrija su error.",
+          "solucionario": "La opción B representa la mejor ayuda pedagógica desde un enfoque constructivista. En lugar de darle la respuesta (opción C) o solo hacerle preguntas metacognitivas (opción A), la docente utiliza la repregunta para enfocar la atención de Saúl en el punto específico del error y le da pistas (\"¿tendrá relación con alguna de las últimas frases de Jesús?\") para que él mismo pueda reconstruir su conocimiento y llegar a la respuesta correcta. Esto fomenta el pensamiento crítico y un aprendizaje más duradero.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p26",
+      "contexto": "En el contexto de un proyecto de aprendizaje centrado en el cuidado de los espacios naturales de la comunidad, los estudiantes están formulando propuestas de mejora de las condiciones de la laguna de la comunidad donde se encuentra la IE. En ese contexto, junto con el docente, han acordado implementar las siguientes actividades:\n- Verificar las condiciones en las que se encuentra la laguna\n- Invitar a un experto a la IE para que explique cuáles son las causas y consecuencias de la contaminación de la laguna\n- Elaborar propuestas viables y seguras para realizar la limpieza de la laguna\n- Invitar a la comunidad a participar en el cuidado y limpieza de la laguna",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "En el marco de la competencia \"Construye su identidad como persona humana, amada por Dios, digna libre y trascendente, comprendiendo la doctrina de su propia religión, abierto al diálogo con las que le son cercanas\", ¿cuál de los siguientes aprendizajes se evidencia, principalmente, en la actividad descrita?",
+          "opciones": [
+            "Practica acciones que fomentan el respeto por la vida humana y el bien común.",
+            "Reflexiona sobre las necesidades del prójimo de acuerdo con las enseñanzas de la Iglesia.",
+            "Promueve el encuentro con Dios en diversos contextos orientados a la construcción de una comunidad de fe."
+          ],
+          "respuesta": "Practica acciones que fomentan el respeto por la vida humana y el bien común.",
+          "respuestaCorta": "El proyecto de limpiar y cuidar una laguna comunitaria es una acción concreta y observable que busca el beneficio de toda la comunidad, lo que se traduce directamente en la práctica del bien común.",
+          "solucionario": "El aprendizaje evidenciado es la puesta en práctica de acciones concretas por el bien común. El proyecto no se queda en la reflexión (opción B), sino que se traduce en un plan de acción (\"elaborar propuestas\", \"invitar a la comunidad a participar\") que busca mejorar un espacio compartido. Esta preocupación y acción por el entorno y la comunidad es una manifestación clara del respeto por la vida (en un sentido amplio, incluyendo la creación) y la promoción del bien común.",
+          "seccion": "Conocimientos Pedagógicos"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p27",
+      "contexto": "Durante una sesión de aprendizaje, un estudiante comenta que algunos de sus compañeros de clase cuestionan que él se interese en participar en política. Ellos aducen que participar en una actividad tan polémica como la política no se corresponde con la conducta de un cristiano.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Ante esta discrepancia, el docente busca que los estudiantes reflexionen sobre la relación entre formar parte de una comunidad cristiana y participar en política. ¿Cuál de las siguientes acciones pedagógicas es más adecuada para lograr ello?",
+          "opciones": [
+            "Pedirles que analicen, en el Compendio de la Iglesia católica, el principio de participación de la Doctrina Social. Luego, sobre la base de este análisis, indicarles que, en equipos, dialoguen sobre algunos casos que consideren polémicos para los cristianos y evalúen cómo actuarían. Finalmente, solicitarles que opinen si es posible ser un buen cristiano y a la vez participar activamente en política.",
+            "Pedirles que lean sobre algunas noticias relacionadas con diversas decisiones políticas en el país. Luego, comentarles qué acciones o posturas defendería la Iglesia católica en dichos asuntos políticos. Finalmente, explicarles en qué casos sería adecuado o no que las comunidades cristianas participen en la toma de decisiones sobre asuntos de relevancia pública.",
+            "Pedirles que busquen, en la Biblia, los pasajes que hablan sobre el gobierno del rey Salomón y las consecuencias políticas de sus decisiones. Luego, indicarles por qué dicho personaje fue considerado un ejemplo de sabiduría durante su reinado. Finalmente, preguntarles qué enseñanzas de la vida del rey Salomón podrían aplicar a su vida."
+          ],
+          "respuesta": "Pedirles que analicen, en el Compendio de la Iglesia católica, el principio de participación de la Doctrina Social. Luego, sobre la base de este análisis, indicarles que, en equipos, dialoguen sobre algunos casos que consideren polémicos para los cristianos y evalúen cómo actuarían. Finalmente, solicitarles que opinen si es posible ser un buen cristiano y a la vez participar activamente en política.",
+          "respuestaCorta": "Para abordar la relación entre fe y política desde la perspectiva católica, es fundamental acudir a la fuente doctrinal pertinente: la Doctrina Social de la Iglesia (DSI), que fundamenta la participación de los laicos en la vida pública como un deber.",
+          "solucionario": "La opción A es la más adecuada porque aborda la cuestión desde su fundamento teológico y doctrinal. La Doctrina Social de la Iglesia establece que la participación en la vida política es una forma de vivir la caridad y buscar el bien común, siendo un deber para los cristianos. Al hacer que los estudiantes analicen el \"principio de participación\" en una fuente oficial como el Compendio, se les proporciona el marco correcto para luego debatir casos concretos y resolver la discrepancia inicial con argumentos basados en la enseñanza de la Iglesia.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p28",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes actividades favorece que los estudiantes comprendan que Jesús es el Mesías esperado?",
+          "opciones": [
+            "Pedirles que identifiquen un texto bíblico del Antiguo Testamento que contenga información sobre la esperanza del Mesías y pedir que lo comparen con la narración de la pasión, muerte y resurrección de Jesús en el evangelio de Mateo.",
+            "Orientarlos para que elaboren un texto que reúna las características del Mesías según la idea que sobre él se habían formado los judíos y pedir que complementen su trabajo con ejemplos textuales del Antiguo Testamento.",
+            "Pedirles que identifiquen en los evangelios las características de amor, humildad y servicio de Jesús y, sobre la base de esos textos, pedir que expliquen si consideran que dichas características corresponden al Mesías."
+          ],
+          "respuesta": "Pedirles que identifiquen un texto bíblico del Antiguo Testamento que contenga información sobre la esperanza del Mesías y pedir que lo comparen con la narración de la pasión, muerte y resurrección de Jesús en el evangelio de Mateo.",
+          "respuestaCorta": "La comprensión de Jesús como Mesías se basa en la teología del cumplimiento. La actividad más efectiva es comparar directamente una profecía del Antiguo Testamento (la promesa) con su realización en la vida de Jesús (el cumplimiento).",
+          "solucionario": "La fe cristiana sostiene que Jesús es el cumplimiento de las promesas mesiánicas hechas en el Antiguo Testamento. Por lo tanto, la actividad pedagógica más directa y eficaz para comprender esta verdad es la que propone la opción A: tomar una profecía mesiánica (por ejemplo, del profeta Isaías) y compararla con los relatos de la Pasión en los Evangelios. Este ejercicio de conectar la promesa con su cumplimiento es el pilar para entender a Jesús como el Mesías esperado.",
+          "seccion": "Conocimientos Disciplinares"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p29",
+      "contexto": "Un docente inicia su sesión narrando una parábola:\n\n\"Recordemos la parábola 'Los trabajadores de la viña': El Reino de los Cielos es semejante a un propietario que salió a primera hora de la mañana a contratar obreros para su viña. Luego, volvió a salir a las nueve de la mañana, al mediodía, a las tres y a las cinco de la tarde; y a todos los obreros que encontró los envió a su viña. Al atardecer, empezando por los últimos y acabando por los primeros, pagó un denario a cada uno\".\n\nAdaptado de https://www.devocionario.com/textos/defectos_1.html\n\nCamila, una de las estudiantes, interviene: \"No entiendo. ¿Por qué se paga igual a quien empieza a trabajar a las cinco de la tarde y al que trabaja desde el amanecer? No me parece justo\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Ante esta intervención, ¿qué actividad es más adecuada para que Camila comprenda el mensaje principal de la parábola?",
+          "opciones": [
+            "Preguntarle: \"Si tú fueras el propietario de la viña, ¿cómo habrías pagado a los obreros? ¿Por qué?\". Luego, pedirle que cambie el final de la parábola, sustente dicho cambio y explique cuál es el nuevo mensaje que quiere expresar.",
+            "Explicarle que el propietario representa a Dios; la viña, al Reino; y los trabajadores son los elegidos para entrar en el Reino. Luego, preguntarle: \"Si el propietario de la viña representa a Dios, ¿podemos juzgar su forma de actuar? ¿Qué debe hacer un cristiano para entrar al Reino de Dios?\".",
+            "Pedirle que identifique a quiénes representan los personajes, y qué significan la viña y el salario. Luego, preguntarle: \"Si la viña representa el Reino, ¿tendrá importancia en qué orden entremos en él? ¿Para Dios hay diferencia entre alguien que es cristiano desde niño y alguien que recién conoció a Dios en su madurez?\"."
+          ],
+          "respuesta": "Pedirle que identifique a quiénes representan los personajes, y qué significan la viña y el salario. Luego, preguntarle: \"Si la viña representa el Reino, ¿tendrá importancia en qué orden entremos en él? ¿Para Dios hay diferencia entre alguien que es cristiano desde niño y alguien que recién conoció a Dios en su madurez?\".",
+          "respuestaCorta": "Para superar la objeción basada en la justicia humana, es necesario guiar a la estudiante a reinterpretar la parábola con la lógica de la gracia divina, donde el 'salario' es un don inmerecido y no un pago por mérito.",
+          "solucionario": "El error de Camila es aplicar criterios de justicia laboral humana a una parábola sobre la gratuidad del Reino de Dios. La opción C es la más adecuada porque, mediante preguntas, guía a Camila a cambiar de perspectiva. Al hacerle reflexionar sobre el significado simbólico de la viña (el Reino) y el salario (la salvación/gracia), y al plantearle la pregunta clave sobre si importa el orden de llegada, la ayuda a comprender que la 'justicia' de Dios es una justicia de misericordia y gratuidad, no de estricto merecimiento.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p30",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Como parte de una sesión, los estudiantes trabajarán en equipos para investigar sobre las principales religiones del mundo. Durante la etapa inicial de la actividad, el docente nota que los estudiantes tienen dificultades para organizar su trabajo en equipo. Por ello, busca promover el trabajo colaborativo entre los estudiantes. ¿Cuál de las siguientes acciones pedagógicas es más adecuada para ello?",
+          "opciones": [
+            "Asignar a cada miembro del equipo una tarea necesaria para realizar el trabajo. Luego, entregarles un cuadro de responsabilidades para que monitoreen el cumplimiento de sus tareas. Finalmente, explicarles por qué es importante que todos realicen actividades de manera equitativa.",
+            "Indicar que elijan un coordinador y un secretario del equipo. Luego, solicitar al coordinador que indique qué tareas debe realizar cada integrante del equipo y que supervise su cumplimiento. Finalmente, pedir al secretario que evalúe el desempeño de los estudiantes en la realización del trabajo.",
+            "Solicitar que elaboren un listado de las tareas necesarias para realizar el trabajo. Luego, pedir que se pongan de acuerdo para distribuirse las tareas y se pongan plazos para cumplirlas. Finalmente, sugerir que, durante el desarrollo del trabajo, revisen sus avances y, de ser necesario, hagan propuestas de mejora."
+          ],
+          "respuesta": "Solicitar que elaboren un listado de las tareas necesarias para realizar el trabajo. Luego, pedir que se pongan de acuerdo para distribuirse las tareas y se pongan plazos para cumplirlas. Finalmente, sugerir que, durante el desarrollo del trabajo, revisen sus avances y, de ser necesario, hagan propuestas de mejora.",
+          "respuestaCorta": "El verdadero trabajo colaborativo se fomenta promoviendo la autonomía del grupo. La acción adecuada es guiar al equipo para que ellos mismos planifiquen, distribuyan roles, establezcan plazos y se autorregulen.",
+          "solucionario": "La opción C describe la esencia del aprendizaje colaborativo, que se basa en la interdependencia positiva y la responsabilidad compartida. Al solicitar que el propio equipo planifique las tareas, las distribuya consensuadamente y monitoree su propio progreso, el docente fomenta la autonomía y la autogestión del grupo. En contraste, las opciones A y B son más directivas y se asemejan más a un trabajo grupal tradicional, donde el docente o un líder asignado organiza el trabajo, limitando la colaboración genuina.",
+          "seccion": "Conocimientos Pedagógicos"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p31",
+      "contexto": "El aula 1 de una IE es compartida por estudiantes del nivel Primaria del turno mañana, Secundaria del turno tarde y del CEBA del turno noche. Los estudiantes de los tres turnos se quejan de que constantemente encuentran las carpetas con garabatos y deterioradas.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Para orientar a los estudiantes en la resolución de esta problemática, los docentes de los tres turnos se han propuesto, como primera acción, promover en los estudiantes la reflexión sobre la importancia de cuidar el mobiliario que comparten. ¿Cuál de las siguientes acciones pedagógicas es más adecuada para el propósito de los docentes?",
+          "opciones": [
+            "Pedir que los estudiantes escriban cómo se sienten cuando encuentran las carpetas deterioradas y dejen sus escritos en el mural del salón. Luego, cuando inicie el siguiente turno, invitar a los estudiantes a que lean, en el mural, algunos de los comentarios escritos de sus compañeros de los otros turnos. Finalmente, solicitar que, sobre la base de lo leído, expliquen cómo les afecta a todos el mal estado de las carpetas.",
+            "Pedir que identifiquen si se han dañado otros bienes del aula, aparte de las carpetas. Luego, comentarles por qué es su deber como estudiantes cuidar los bienes que se encuentran en el aula y en la IE. Finalmente, indicar que, en equipos, elaboren escritos breves en los que comenten sobre la responsabilidad que tienen acerca del cuidado y limpieza de las carpetas y el mobiliario que comparten los estudiantes de los diferentes turnos de la IE.",
+            "Pedir que limpien las carpetas y coloquen, en cada una de ellas, los nombres de los estudiantes que las usan. Luego, solicitar que los estudiantes de cada turno elaboren propuestas de normas para cuidar las carpetas y las coloquen en un lugar visible para sus compañeros de los otros turnos. Finalmente, indicar que un representante de cada turno debe firmar un compromiso para cumplir las normas sobre el cuidado de las carpetas del aula que comparten."
+          ],
+          "respuesta": "Pedir que los estudiantes escriban cómo se sienten cuando encuentran las carpetas deterioradas y dejen sus escritos en el mural del salón. Luego, cuando inicie el siguiente turno, invitar a los estudiantes a que lean, en el mural, algunos de los comentarios escritos de sus compañeros de los otros turnos. Finalmente, solicitar que, sobre la base de lo leído, expliquen cómo les afecta a todos el mal estado de las carpetas.",
+          "respuestaCorta": "Para promover la reflexión y empatía entre grupos que no interactúan, una estrategia efectiva es crear un canal de comunicación asíncrono, como un mural, donde puedan compartir cómo las acciones de otros les afectan emocionalmente.",
+          "solucionario": "La primera acción busca promover la reflexión, y la forma más efectiva de hacerlo en esta situación es a través de la empatía. La opción A es la única que se centra en el aspecto emocional y en ponerse en el lugar del otro. Al leer cómo se sienten los compañeros de los otros turnos, los estudiantes pueden tomar conciencia del impacto de sus acciones (o de las de su grupo) en personas reales, lo cual es un motor más poderoso para el cambio de conducta que simplemente enunciar un deber (opción B) o imponer normas (opción C).",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p32-33",
+      "contexto": "Durante una actividad de análisis bíblico, los estudiantes van a analizar la historia de Jonás. A continuación, se presenta el pasaje en el que se están centrando los estudiantes:\n\nYavé manda a Jonás a Nínive\n\nLa palabra de Yavé fue dirigida a Jonás (...): \"Levántate, vete a Nínive, la ciudad grande, y predica contra ellos, porque su maldad ha subido hasta mí\". Se levantó Jonás, pero fue para huir a Tarsis, lejos de la presencia de Yavé. Descendió a Jafa, donde encontró un barco (...) y se embarcó para irse con ellos a Tarsis (...). Pero Yavé envió un fuerte viento sobre el mar, causando una tempestad tan grande que el barco amenazaba hundirse. Los marineros tuvieron miedo y cada uno invocaba a su Dios (...). Después se dijeron unos a otros: \"Echemos suertes para saber quién nos trajo ese mal\". Echaron suertes y la suerte cayó en Jonás. (...) Entonces empezó a decirles: \"Soy hebreo y temo a Yavé, Dios del Cielo, que hizo el mar y los continentes\". (...) \"Llévenme y arrójenme al mar, y éste se calmará, porque sé que por culpa mía les ha sobrevenido esta tempestad\". (...). Luego, llevando a Jonás, lo tiraron al mar, y el mar calmó su furia. (...).\n\nTomado de Jonás 1, 1-16.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "El docente tiene como propósito que los estudiantes analicen el texto bíblico \"Yavé manda a Jonás a Nínive\" a través del método histórico-crítico. ¿Cuál de las siguientes acciones pedagógicas es adecuada para iniciar el análisis de este texto mediante dicho método?",
+          "opciones": [
+            "Preguntarles: ¿qué acontecimiento describe el texto bíblico? ¿Qué provocó la tempestad que se menciona en el texto? Luego, pedirles que, en equipos, elaboren compromisos que promuevan la escucha atenta a la palabra de Dios.",
+            "Pedirles que investiguen quiénes eran las personas de Nínive y por qué dijo Dios: \"su maldad ha subido hasta mí\". Luego, solicitarles que, sobre la base de su investigación, comenten por qué Jonás se negó a ir a Nínive a predicar, a pesar que Dios se lo había ordenado.",
+            "Indicarles que lean el relato bíblico de Noé y el texto bíblico \"Yavé manda a Jonás a Nínive\". Luego, pedirles que, sobre la base de lo leído, expliquen si existe alguna relación entre la maldad que existía en el mundo en el tiempo de Noé y la maldad en el tiempo de Jonás."
+          ],
+          "respuesta": "Pedirles que investiguen quiénes eran las personas de Nínive y por qué dijo Dios: \"su maldad ha subido hasta mí\". Luego, solicitarles que, sobre la base de su investigación, comenten por qué Jonás se negó a ir a Nínive a predicar, a pesar que Dios se lo había ordenado.",
+          "respuestaCorta": "El método histórico-crítico comienza analizando el 'mundo detrás del texto'. Por ello, la acción inicial adecuada es investigar el contexto histórico-cultural de Nínive y las razones de la renuencia de Jonás, que estaban ligadas a la enemistad entre Israel y Asiria.",
+          "solucionario": "El método histórico-crítico busca entender el texto en su contexto original. El primer paso es siempre analizar el contexto histórico, geográfico y cultural en el que se escribió y en el que ocurren los hechos. La opción B apunta directamente a esto al pedir investigar sobre Nínive (capital del imperio asirio, enemigo de Israel) y las motivaciones de Jonás. Entender esta rivalidad histórica es crucial para comprender por qué un profeta hebreo huiría en lugar de predicar a sus enemigos.",
+          "seccion": "Conocimientos Disciplinares"
+        },
+        {
+          "pregunta": "Los estudiantes han analizado el texto \"Yavé manda a Jonás a Nínive\" a través del método histórico-crítico. En este contexto, un estudiante realiza el siguiente comentario:\n\n\"¿Por qué Dios le da esa misión a Jonás?, si los pobladores de Nínive tenían diferentes dioses y no formaban parte del pueblo elegido. Eso me confundió, pues ¿por qué Dios quiere salvar a los pobladores de Nínive si a lo largo de toda la Biblia se repite que el único pueblo elegido es Israel?\".\n\n¿Qué proceso de aprendizaje se evidencia, principalmente, en el comentario del estudiante?",
+          "opciones": [
+            "La transferencia del aprendizaje sobre el mensaje de un texto bíblico.",
+            "La activación de saberes previos sobre los símbolos de un texto bíblico.",
+            "La generación de un conflicto cognitivo sobre el mensaje de un texto bíblico."
+          ],
+          "respuesta": "La generación de un conflicto cognitivo sobre el mensaje de un texto bíblico.",
+          "respuestaCorta": "El estudiante experimenta un conflicto cognitivo porque su conocimiento previo (que Israel es el único pueblo elegido) choca con la nueva información del texto (Dios muestra misericordia a un pueblo pagano), creando una contradicción que desafía su comprensión.",
+          "solucionario": "El comentario del estudiante es un ejemplo claro de conflicto cognitivo. Él tiene una estructura de conocimiento previa, un saber consolidado (\"el único pueblo elegido es Israel\"). Al leer el texto de Jonás, encuentra una información que contradice y desafía esa estructura (\"¿por qué Dios quiere salvar a los pobladores de Nínive?\"). Esta tensión entre lo que sabía y la nueva información es lo que define al conflicto cognitivo, un momento crucial para un nuevo aprendizaje (la universalidad de la salvación).",
+          "seccion": "Conocimientos Pedagógicos"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p34",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Un docente está desarrollando una sesión de aprendizaje centrada en la historia de la salvación. En este contexto, se ha propuesto que los estudiantes comprendan la importancia de los profetas en la historia de la salvación. ¿Cuál de las siguientes actividades es más adecuada para el propósito del docente?",
+          "opciones": [
+            "Pedirles que lean, en el Catecismo, sobre la vida de los profetas mayores y menores. Luego, indicar que, en equipos, establezcan algunas semejanzas y diferencias entre los profetas mencionados dentro del plan de salvación. Finalmente, solicitar que, sobre la base de lo analizado, expliquen por qué se clasifica a los profetas en mayores y menores.",
+            "Explicarles cuál era el plan de salvación que Dios tenía preparado para el pueblo judío. Luego, organizarlos en equipos y presentarles un escrito con la historia de un profeta para que comenten lo que anunciaba y denunciaba. Finalmente, solicitar que expliquen cómo la acción de dicho profeta contribuyó con el plan de salvación que Dios tenía para las personas.",
+            "Brindarles un texto sobre los primeros profetas dentro del plan de salvación de Dios. Luego, decirles que, en equipos, busquen, en los libros proféticos del Antiguo Testamento, algunas características que tenían los profetas de Dios. Finalmente, indicarles que comenten a sus compañeros dichas características y que resalten aquellas que son comunes entre los profetas."
+          ],
+          "respuesta": "Explicarles cuál era el plan de salvación que Dios tenía preparado para el pueblo judío. Luego, organizarlos en equipos y presentarles un escrito con la historia de un profeta para que comenten lo que anunciaba y denunciaba. Finalmente, solicitar que expliquen cómo la acción de dicho profeta contribuyó con el plan de salvación que Dios tenía para las personas.",
+          "respuestaCorta": "Para comprender la importancia de los profetas, es efectivo presentar el marco general (plan de salvación), analizar un caso específico (la vida y mensaje de un profeta) y luego conectar ese caso particular de vuelta al plan general.",
+          "solucionario": "La opción B presenta la secuencia pedagógica más sólida. Parte de un marco general indispensable (el plan de salvación) para dar contexto. Luego, profundiza a través de un caso particular (la historia de un profeta), permitiendo un análisis concreto de su misión (anuncio y denuncia). Finalmente, pide a los estudiantes que realicen la síntesis, conectando la acción específica del profeta con el plan de salvación, lo que asegura una comprensión significativa de su importancia dentro de la historia de la salvación.",
+          "seccion": "Conocimientos Pedagógicos"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p35",
+      "contexto": "Un docente desea promover la capacidad de sus estudiantes para analizar relatos bíblicos. Para ello, presenta a los estudiantes el siguiente pasaje bíblico.\n\nEl impuesto debido al César\n\nQuerían pillar a Jesús en algo que dijera. Con este fin le enviaron algunos fariseos junto con partidarios de Herodes. Y dijeron a Jesús: \"Maestro, sabemos que eres sincero y que no te inquietas por los que te escuchan, sino que enseñas con franquza el camino de Dios. Dinos, ¿es contrario a la Ley pagar el impuesto al César? ¿Tenemos que pagarlo o no?\". Pero Jesús vio su hipocresía y les dijo: \"¿Por qué me ponen trampas? Tráiganme una moneda, que yo la vea\". Le mostraron un denario, y Jesús les preguntó: \"¿De quién es esta cara y lo que está escrito?\". Ellos le respondieron: \"Del César\". Entonces Jesús les dijo: \"Devuelvan al César las cosas del César, y a Dios lo que corresponde a Dios\". Jesús los dejó muy sorprendidos.\n\nAdaptado de Marcos 12,13-17.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Una vez que los estudiantes leyeron el texto, el docente se propone incorporar una estrategia para que comprendan las intenciones de los fariseos al formularle la siguiente pregunta a Jesús: \"¿Es contrario a la Ley pagar el impuesto al César? ¿Tenemos que pagarlo o no?\".\n\n¿Cuál de las siguientes estrategias es más adecuada para el propósito del docente?",
+          "opciones": [
+            "Explicar los verdaderos motivos que tenían los fariseos para hacerle esa pregunta a Jesús. Luego, pedir que expliquen con sus propias palabras el significado de la respuesta de Jesús a los fariseos.",
+            "Preguntar: ¿qué hubiese pasado si Jesús respondía con un sí a la pregunta que los fariseos le realizaron? ¿Y si decía que no? Luego, pedir que comparen las consecuencias de un sí y un no como respuesta.",
+            "Pedir que lean los comentarios del contexto bíblico donde se explica detalladamente cuál era la intención de los fariseos. Luego, preguntar: ¿por qué los fariseos escogieron el tema de los impuestos para ponerle una trampa a Jesús?"
+          ],
+          "respuesta": "Preguntar: ¿qué hubiese pasado si Jesús respondía con un sí a la pregunta que los fariseos le realizaron? ¿Y si decía que no? Luego, pedir que comparen las consecuencias de un sí y un no como respuesta.",
+          "respuestaCorta": "Para que los estudiantes descubran por sí mismos la naturaleza de una pregunta capciosa o una trampa, la estrategia más efectiva es hacerles analizar las consecuencias de cada posible respuesta directa (sí/no).",
+          "solucionario": "La pregunta de los fariseos era una trampa porque cualquier respuesta directa (sí o no) comprometía a Jesús. La opción B es la mejor estrategia porque, a través del análisis de escenarios hipotéticos, permite que los estudiantes descubran esto por sí mismos. Si decían que sí, los estudiantes deducirían que Jesús se enemistaría con los judíos nacionalistas. Si decían que no, deducirían que sería acusado de sedición por los romanos. Este ejercicio les hace comprender la astucia de la trampa y, por contraste, la sabiduría de la respuesta de Jesús.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p36",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes actividades implica un menor nivel de demanda cognitiva?",
+          "opciones": [
+            "Pedir a los estudiantes que escriban una parábola con un mensaje para los jóvenes de hoy.",
+            "Solicitar a los estudiantes que comparen las semejanzas y diferencias entre las vidas de san Pedro y san Pablo.",
+            "Indicar a los estudiantes que busquen en el evangelio de Lucas las citas que hacen referencia a la vida de la Virgen María."
+          ],
+          "respuesta": "Indicar a los estudiantes que busquen en el evangelio de Lucas las citas que hacen referencia a la vida de la Virgen María.",
+          "respuestaCorta": "La tarea de menor demanda cognitiva es la que requiere una habilidad de pensamiento de orden inferior. Buscar y listar información explícita, como encontrar citas, es una tarea de nivel más bajo que comparar (análisis) o crear (escribir una parábola).",
+          "solucionario": "La demanda cognitiva se refiere a la complejidad del proceso mental requerido. La opción C (buscar citas) es una tarea de localización de información, que se encuentra en el nivel más bajo de las taxonomías de pensamiento (como la de Bloom). La opción B (comparar) requiere análisis, un nivel intermedio. La opción A (escribir una parábola) es una tarea de creación, que representa el nivel más alto de demanda cognitiva. Por lo tanto, buscar citas es la actividad menos exigente cognitivamente.",
+          "seccion": "Conocimientos Pedagógicos"
+        }
+      ]
+    },
+
+  
+    {
+      "idGrupo": "asc_secundaria_2023_p37",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Para profundizar en el mensaje de \"La parábola del sembrador\", la docente pide a sus estudiantes que la analicen usando el método histórico-crítico. ¿Qué alternativa presenta el análisis de \"La parábola del sembrador\" según el método histórico-crítico?",
+          "opciones": [
+            "Jesús habló sobre siembra porque este era un tema importante para sus oyentes. Saber cuál era la mejor tierra para sembrar era un asunto delicado en esa época; de ello dependía la estabilidad o el hambre de todo un pueblo. Es por eso que también se sintieron confundidos por el sembrador: ¿por qué desperdiciar semillas en un suelo árido?",
+            "Jesús transmitió, a través de esta parábola, un mensaje aleccionador que trasciende en el tiempo: ¿qué importancia le damos a la Palabra de Dios en nuestras vidas? Esto asustó a sus oyentes, pero el hombre actual conoce la Palabra de Dios y sabe que, sin importar cuán endurecida esté la tierra, el Espíritu Santo puede volver fértil cualquier desierto.",
+            "Jesús conocía el alma de sus oyentes; por eso, los interpelaba preguntándoles: \"¿Cuán duro es tu corazón?\". Con esta pregunta, los invitaba a examinar su corazón y a determinar, sinceramente, a qué tipo de suelo se parecían. Además, no solo les recordaba la importancia de acoger y practicar la Palabra sino también la de darla a conocer."
+          ],
+          "respuesta": "Jesús habló sobre siembra porque este era un tema importante para sus oyentes. Saber cuál era la mejor tierra para sembrar era un asunto delicado en esa época; de ello dependía la estabilidad o el hambre de todo un pueblo. Es por eso que también se sintieron confundidos por el sembrador: ¿por qué desperdiciar semillas en un suelo árido?",
+          "respuestaCorta": "El método histórico-crítico se enfoca en el contexto original del texto. El análisis correcto explica por qué la metáfora de la siembra era relevante y comprensible para la audiencia de Jesús en esa época y lugar.",
+          "solucionario": "El método histórico-crítico busca entender el texto en su contexto histórico, cultural y social original. La opción A es la única que aplica este método, al explicar la elección de la parábola en función de la realidad de sus oyentes: una sociedad agrícola para la cual la siembra y la calidad de la tierra eran temas de subsistencia. Analiza el \"mundo detrás del texto\" para entender por qué Jesús usó esas imágenes. Las otras opciones se centran en el mensaje atemporal o su aplicación espiritual, no en el contexto histórico.",
+          "seccion": "Conocimientos Disciplinares"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p38",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "En el marco de una sesión de aprendizaje, los estudiantes dialogarán sobre la importancia de la fe religiosa. Para orientar a los estudiantes, el docente busca implementar una actividad inicial para recoger los saberes previos de sus estudiantes sobre la fe religiosa. ¿Cuál de las siguientes actividades contribuye más a dicho propósito?",
+          "opciones": [
+            "Pedirles que busquen definiciones de fe en el diccionario y, a partir de ello, solicitar que expliquen con sus propias palabras qué es la fe.",
+            "Pedirles que lean algunos fragmentos de la historia de Job y, a partir de ello, solicitar que expliquen qué acciones de este personaje expresan su fe.",
+            "Pedirles que lean el apartado \"La fe\" en el Catecismo y, a partir de ello, solicitar que expliquen por qué la fe es una virtud teologal de la Iglesia católica."
+          ],
+          "respuesta": "Pedirles que lean algunos fragmentos de la historia de Job y, a partir de ello, solicitar que expliquen qué acciones de este personaje expresan su fe.",
+          "respuestaCorta": "Para recoger saberes previos sobre un concepto como la fe, es más efectivo partir de un ejemplo narrativo (la historia de Job) que permita a los estudiantes identificar el concepto en acción, en lugar de partir de definiciones abstractas.",
+          "solucionario": "La recogida de saberes previos busca activar lo que los estudiantes ya saben o intuyen. La opción B es la más adecuada porque, al presentar un caso concreto y paradigmático (Job), permite que los estudiantes, usando sus propias ideas, identifiquen y describan las manifestaciones de la fe. Esto revela su comprensión previa del concepto de una forma más auténtica. Las opciones A y C, en cambio, proveen una definición externa (del diccionario o del catecismo), lo cual es una forma de introducir información nueva, no de recoger la existente.",
+          "seccion": "Conocimientos Pedagógicos"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p39",
+      "contexto": "Como parte de una sesión, en la cual los estudiantes van a usar el método ver-juzgar-actuar, la docente les pide que comenten sobre algunas situaciones de su localidad. En ese contexto, un estudiante comenta lo siguiente:\n\n\"Profesora, escuché que los comedores populares de la comunidad están pasando por una situación muy complicada, debido al aumento de precios de los alimentos como consecuencia del efecto de diversos fenómenos naturales\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Después de escuchar a su compañero, muchos de los estudiantes se han mostrado interesados en la situación descrita. Por ello, la docente busca aprovechar esta situación para desarrollar actividades alineadas a los momentos de juzgar y actuar del método ver-juzgar-actuar. ¿Cuál de las siguientes actividades es pertinente para ello?",
+          "opciones": [
+            "Pedir que analicen el texto \"La segunda multiplicación de los panes\" (Marcos 8, 1-10) y expliquen de qué forma actuó Jesús para satisfacer el hambre de las personas que lo seguían. Luego, solicitar que, tomando en cuenta su análisis, propongan formas de colaborar con la situación de los comedores populares.",
+            "Pedir que expliquen por qué es importante la solidaridad entre los cristianos y qué aportan los comedores populares a la comunidad. Luego, solicitar que lean el texto \"La ofrenda de la viuda\" (Marcos 12, 41-44) e identifiquen su mensaje sobre el desprendimiento y la solidaridad.",
+            "Pedir que investiguen sobre cuáles son las necesidades de los comedores populares de la localidad de la IE. Luego, indicar que expliquen, sobre la base de su investigación, cómo actuarían para brindar ayuda a los comedores siguiendo las enseñanzas de Jesús."
+          ],
+          "respuesta": "Pedir que analicen el texto \"La segunda multiplicación de los panes\" (Marcos 8, 1-10) y expliquen de qué forma actuó Jesús para satisfacer el hambre de las personas que lo seguían. Luego, solicitar que, tomando en cuenta su análisis, propongan formas de colaborar con la situación de los comedores populares.",
+          "respuestaCorta": "Dado que el momento 'VER' (la situación de los comedores) ya ocurrió, la secuencia correcta es 'JUZGAR' (iluminar la situación con un texto bíblico análogo, como la multiplicación de los panes) y luego 'ACTUAR' (proponer acciones concretas de colaboración).",
+          "solucionario": "El método ya ha cubierto la etapa del VER (constatar la problemática de los comedores). La opción A desarrolla perfectamente las dos etapas siguientes: JUZGAR, al analizar un texto bíblico donde Jesús enfrenta un problema similar de hambre, y ACTUAR, al pedir a los estudiantes que, inspirados por el análisis, propongan acciones concretas. Esta secuencia es la que define al método ver-juzgar-actuar.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p40",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Desde un enfoque ecuménico, ¿cuál de las siguientes estrategias es adecuada para que los estudiantes analicen la Biblia?",
+          "opciones": [
+            "Indicar que se apoyen en las explicaciones del Catecismo.",
+            "Pedir que lean las orientaciones ofrecidas en los comentarios del contexto bíblico.",
+            "Indicar que investiguen el contexto histórico de cada pasaje para comprenderlo mejor."
+          ],
+          "respuesta": "Indicar que investiguen el contexto histórico de cada pasaje para comprenderlo mejor.",
+          "respuestaCorta": "Un enfoque ecuménico debe usar herramientas de análisis aceptadas por todas las confesiones cristianas. La investigación del contexto histórico es una metodología académica neutral, a diferencia del Catecismo, que es específicamente católico.",
+          "solucionario": "El ecumenismo busca la unidad, por lo que en el estudio bíblico se deben priorizar herramientas comunes a las distintas iglesias cristianas. La investigación del contexto histórico (opción C) es parte de la exégesis científica, un método académico que es valorado y utilizado por católicos, protestantes y ortodoxos por igual. En cambio, el Catecismo (A) es un documento doctrinal de la Iglesia Católica, y los comentarios bíblicos (B) pueden tener sesgos confesionales, por lo que no son las herramientas más adecuadas para un enfoque ecuménico.",
+          "seccion": "Conocimientos Disciplinares"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p41",
+      "contexto": "Un docente tiene como propósito que los estudiantes analicen textos bíblicos mediante el método histórico-crítico. Por ello, les presenta el siguiente texto:\n\nAmar a los enemigos\n\nUstedes han oído que se dijo: \"Ojo por ojo y diente por diente\". Pero yo les digo: No resistan al malvado. Antes bien, si alguien te golpea en la mejilla derecha, ofrécele también la otra. Si alguien te hace un pleito por la camisa, entrégale también el manto. Si alguien te obliga a llevarle la carga, llévasela el doble más lejos. Da al que te pida, y al que espera de ti algo prestado, no le vuelvas la espalda.\n\nTomado de Mateo 5, 38-42.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes actividades es adecuada para iniciar el análisis del texto mediante el método histórico-crítico?",
+          "opciones": [
+            "Indicarles que analicen, en equipos, la siguiente frase: \"Si alguien te golpea en la mejilla derecha, ofrécele también la otra\". Luego, pedirles que expliquen, sobre la base de lo analizado, qué enseñanza se busca transmitir con esta frase y si la consideran fácil o difícil de ponerla en práctica.",
+            "Explicarles que la frase \"Ojo por ojo y diente por diente\" era una ley que regía en la sociedad en el tiempo antes de Cristo. Luego, pedir que, en equipos, comenten cómo creen que se sintieron los oyentes al escuchar que Jesús modifica la ley que durante muchos años habían obedecido.",
+            "Hacerles las siguientes preguntas: ¿cuál es la enseñanza del texto bíblico?, ¿cuál es su mensaje?, ¿qué te dice el texto de manera personal?, ¿qué le quieres decir a Dios con relación a este mensaje? Luego, indicarles que, en equipos, elaboren una oración tomando como base las enseñanzas del texto bíblico."
+          ],
+          "respuesta": "Explicarles que la frase \"Ojo por ojo y diente por diente\" era una ley que regía en la sociedad en el tiempo antes de Cristo. Luego, pedir que, en equipos, comenten cómo creen que se sintieron los oyentes al escuchar que Jesús modifica la ley que durante muchos años habían obedecido.",
+          "respuestaCorta": "Para iniciar un análisis histórico-crítico, es esencial establecer el contexto al que el texto responde. En este caso, se debe partir de la 'Ley del Talión' (Ojo por ojo), que era el marco legal y cultural que Jesús estaba interpelando.",
+          "solucionario": "El método histórico-crítico exige entender el texto en su contexto original para captar su significado. La enseñanza de Jesús sobre 'amar a los enemigos' es una antítesis directa a la Ley del Talión (\"Ojo por ojo\"). Por lo tanto, la actividad inicial correcta (opción B) es contextualizar esa ley, explicando qué significaba para la audiencia original de Jesús, para que así los estudiantes puedan comprender la naturaleza radical y novedosa de la nueva propuesta de Jesús.",
+          "seccion": "Conocimientos Disciplinares"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p42",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Como parte de una experiencia de aprendizaje, los estudiantes han analizado algunos capítulos de Fratelli Tutti y de la parábola \"El buen samaritano\". A partir de las enseñanzas que han reconocido en ambas fuentes, han elaborado compromisos que asumirán para contribuir con la construcción de una sociedad más justa, fraterna y solidaria. Después de que los estudiantes, en plenaria, han comentado sus compromisos y cómo van a ponerlos en práctica, la docente busca promover en ellos la metacognición con respecto a sus estrategias de aprendizaje. ¿Cuál de las siguientes actividades promueve procesos de metacognición en los estudiantes sobre sus estrategias de aprendizaje?",
+          "opciones": [
+            "Preguntar a los estudiantes qué otras fuentes de información seleccionaron para la elaboración de sus compromisos y solicitarles que especifiquen qué enseñanzas extrajeron de cada una.",
+            "Pedir a los estudiantes que señalen cómo se organizaron para formular los compromisos que querían elaborar y cómo han planificado supervisar el cumplimiento de dichos compromisos.",
+            "Solicitar a los estudiantes que analicen la relación que existe entre los siguientes conceptos: justicia, fraternidad y solidaridad; y preguntarles por qué estos son importantes para elaborar algunos compromisos según las enseñanzas del evangelio."
+          ],
+          "respuesta": "Pedir a los estudiantes que señalen cómo se organizaron para formular los compromisos que querían elaborar y cómo han planificado supervisar el cumplimiento de dichos compromisos.",
+          "respuestaCorta": "La metacognición sobre estrategias de aprendizaje implica reflexionar sobre el 'cómo' se aprende. Preguntar sobre la organización, la planificación y los métodos de supervisión de una tarea apunta directamente a esta reflexión sobre los propios procesos.",
+          "solucionario": "La pregunta pide promover la metacognición sobre las \"estrategias de aprendizaje\". La opción B es la única que se enfoca en el proceso y la estrategia: \"¿cómo se organizaron?\", \"¿cómo han planificado supervisar?\". Estas preguntas invitan a los estudiantes a pensar sobre sus propios métodos de trabajo, planificación y autorregulación, que son componentes centrales de la metacognición. Las opciones A y C se centran en el contenido del aprendizaje (las fuentes o los conceptos), no en las estrategias utilizadas para aprender.",
+          "seccion": "Conocimientos Pedagógicos"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p43",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "En una reunión de interaprendizaje, los docentes de Educación Religiosa están compartiendo actividades para promover el análisis bíblico. ¿Cuál de las siguientes actividades propuestas se corresponde con el método de la Lectio Divina?",
+          "opciones": [
+            "América dice: \"Identifiquemos una problemática social e invitemos a los estudiantes a que la analicen. Luego, pidamos que lean un texto bíblico en el cual se aborde dicha problemática y, a partir de ello, los estudiantes puedan proponer soluciones\".",
+            "Beatriz dice: \"Promovamos que los estudiantes, después de haber leído un texto bíblico, reflexionen sobre cómo las enseñanzas del texto aportan a sus vidas. Además, invitémoslos a agradecer por el mensaje de dicho texto bíblico con una oración\".",
+            "Clemente dice: \"Para que comprendan mejor el mensaje de un texto bíblico, planteemos a los estudiantes leer los comentarios del contexto bíblico. Ahí encontrarán la perspectiva de los oyentes de Jesús y, además, comprenderán las motivaciones que tuvo Jesús para narrar sus historias\"."
+          ],
+          "respuesta": "Beatriz dice: \"Promovamos que los estudiantes, después de haber leído un texto bíblico, reflexionen sobre cómo las enseñanzas del texto aportan a sus vidas. Además, invitémoslos a agradecer por el mensaje de dicho texto bíblico con una oración\".",
+          "respuestaCorta": "La Lectio Divina tiene cuatro pasos. La propuesta de Beatriz describe claramente el segundo (Meditatio: cómo aporta a mi vida) y el tercero (Oratio: responder a Dios con una oración), que son el corazón de este método orante.",
+          "solucionario": "El método de la Lectio Divina es un camino de oración con la Escritura que sigue los pasos de Lectura, Meditación, Oración y Contemplación. La propuesta de Beatriz (B) incluye explícitamente la Meditación (\"reflexionen sobre cómo las enseñanzas del texto aportan a sus vidas\") y la Oración (\"agradecer por el mensaje... con una oración\"). En contraste, la propuesta de América (A) describe el método Ver-Juzgar-Actuar, y la de Clemente (C) se alinea con el método Histórico-Crítico.",
+          "seccion": "Conocimientos Pedagógicos"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p44",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "En una sesión, en la cual los estudiantes están dialogando sobre la fe religiosa, la docente tiene como propósito que los estudiantes comprendan la importancia de la fe en la vida cristiana. ¿Cuál de las siguientes actividades es más adecuada para favorecer el logro de dicho propósito?",
+          "opciones": [
+            "Pedirles que lean el texto bíblico \"La fe del centurión\" (Mateo 8, 5-13). Luego, solicitar que comenten por qué el centurión pidió ayuda a Jesús y cómo respondió este a su pedido. Finalmente, proponer que expliquen cuál fue el rol de la fe para que se realice el milagro que pidió el centurión.",
+            "Pedirles que comenten por qué la mayoría de personas ponen su confianza en alguien o en algo. Luego, sobre esta base, indicar la relación que existe entre la fe y la confianza que sienten las personas. Finalmente, solicitar que lean, en el Compendio de la Iglesia católica, la diferencia entre la fe y la confianza.",
+            "Pedirles que lean la \"Parábola de las diez jóvenes\" (Mateo 25, 1-13) y que identifiquen sus principales enseñanzas. Luego, preguntar cómo pueden comprometerse para que sus acciones se correspondan con dichas enseñanzas. Finalmente, solicitar que anoten sus compromisos y los revisen semanalmente para verificar su cumplimiento."
+          ],
+          "respuesta": "Pedirles que lean el texto bíblico \"La fe del centurión\" (Mateo 8, 5-13). Luego, solicitar que comenten por qué el centurión pidió ayuda a Jesús y cómo respondió este a su pedido. Finalmente, proponer que expliquen cuál fue el rol de la fe para que se realice el milagro que pidió el centurión.",
+          "respuestaCorta": "Para comprender la importancia de la fe, es ideal analizar un relato bíblico donde la fe es la protagonista y la causa directa de la acción salvadora de Jesús, como es el caso del centurión, cuya fe es alabada por el propio Cristo.",
+          "solucionario": "La opción A es la más adecuada porque presenta un ejemplo claro, concreto y elogiado por Jesús mismo sobre el poder y la importancia de la fe. Al analizar el relato del centurión, los estudiantes pueden ver directamente la fe en acción y cómo esta provoca una respuesta milagrosa. La pregunta final (\"cuál fue el rol de la fe\") los guía a la conclusión central: la fe fue la condición indispensable para el milagro, demostrando así su importancia fundamental.",
+          "seccion": "Conocimientos Pedagógicos"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p45",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Los estudiantes están dialogando sobre las diversas devociones populares del Perú. En este contexto, el docente busca promover en los estudiantes la reflexión sobre los aportes culturales de las celebraciones religiosas a la comunidad. ¿Cuál de las siguientes acciones pedagógicas es más adecuada para el propósito del docente?",
+          "opciones": [
+            "Pedirles que comenten si es que han participado en alguna festividad religiosa en su comunidad y que señalen las costumbres asociadas a ella. Luego, solicitar que dialoguen sobre lo que les parece más importante y llamativo de la festividad mencionada para la comunidad. Finalmente, preguntar cuáles son los valores que se promueven con dicha fiesta y por qué creen que la comunidad la sigue celebrando.",
+            "Brindarles algunas fuentes sobre las características de las celebraciones religiosas cristianas que se desarrollan en el Perú. Luego, pedir que, en equipos, seleccionen alguna celebración religiosa y elaboren un organizador gráfico con sus principales características. Finalmente, entregar otras fuentes para que indaguen sobre el origen de algunas devociones populares de nuestro país.",
+            "Pedirles que expliquen cuál creen que es la celebración religiosa que tiene mayor relevancia en el país. Luego, indicar que comenten las características y ritos que tiene dicha celebración. Finalmente, solicitar que investiguen cómo se preparan las personas para participar en esa fiesta religiosa y qué actividad es la más importante en ella."
+          ],
+          "respuesta": "Pedirles que comenten si es que han participado en alguna festividad religiosa en su comunidad y que señalen las costumbres asociadas a ella. Luego, solicitar que dialoguen sobre lo que les parece más importante y llamativo de la festividad mencionada para la comunidad. Finalmente, preguntar cuáles son los valores que se promueven con dicha fiesta y por qué creen que la comunidad la sigue celebrando.",
+          "respuestaCorta": "Para reflexionar sobre los aportes culturales de una fiesta, la secuencia ideal es partir de la experiencia vivida, analizar su significado para la comunidad y finalmente identificar los valores subyacentes que explican su importancia y permanencia.",
+          "solucionario": "La opción A guía una reflexión profunda y progresiva. Comienza con la experiencia personal y comunitaria (participación, costumbres). Luego, profundiza en el significado social y cultural (\"qué es importante... para la comunidad\"). Finalmente, lleva a los estudiantes a un nivel de análisis superior, pidiéndoles que identifiquen los valores abstractos y las razones culturales de fondo que sustentan la celebración. Esta secuencia va de lo concreto a lo abstracto, promoviendo una reflexión completa sobre los aportes culturales.",
+          "seccion": "Conocimientos Pedagógicos"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p46",
+      "contexto": "Al inicio del año escolar, en una reunión entre el docente de Educación Religiosa y los padres de familia, estos han manifestado que pertenecen a diferentes confesiones cristianas.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Por ello, el docente, después de haber coordinado con los padres de familia, se ha propuesto incorporar actividades para que sus estudiantes desarrollen actitudes de apertura al diálogo y tolerancia con otras manifestaciones religiosas. ¿Cuál de las siguientes actividades es más pertinente para el propósito del docente?",
+          "opciones": [
+            "Registrar las confesiones religiosas de todos los estudiantes del aula. Luego, sobre las bases de fe de las diferentes confesiones a las que pertenecen los estudiantes, realizar actividades pedagógicas diferenciadas. Finalmente, pedirles que escriban, al terminar cada actividad, una oración mediante la cual pidan la unión de todos los cristianos.",
+            "Formar grupos con estudiantes de diferentes confesiones religiosas para que, entre ellos, se expliquen las bases de su fe. Luego, indicar que identifiquen elementos en común entre sus confesiones y cuáles de estos los unen como cristianos. Finalmente, sobre la base de estos elementos comunes, proponerles algunas actividades para trabajar en clase.",
+            "Pedir que formen equipos entre compañeros que profesen una misma confesión y se comprometan a trabajar en conjunto en todas las sesiones. Luego, indicar que elaboren un organizador visual que explique las principales creencias de su fe y las expongan a la clase. Finalmente, tras la exposición de sus organizadores, decirles que comenten, en plenaria, las diferencias entre sus confesiones cristianas."
+          ],
+          "respuesta": "Formar grupos con estudiantes de diferentes confesiones religiosas para que, entre ellos, se expliquen las bases de su fe. Luego, indicar que identifiquen elementos en común entre sus confesiones y cuáles de estos los unen como cristianos. Finalmente, sobre la base de estos elementos comunes, proponerles algunas actividades para trabajar en clase.",
+          "respuestaCorta": "Para fomentar el diálogo y la tolerancia, es clave crear espacios de interacción directa (grupos mixtos) y enfocar la tarea en la búsqueda de elementos comunes que unan, en lugar de centrarse en las diferencias.",
+          "solucionario": "La opción B es la más pertinente para fomentar el diálogo y la tolerancia (ecumenismo). La estrategia de formar grupos heterogéneos y pedirles que busquen explícitamente los \"elementos en común\" y lo que los \"une como cristianos\" se centra en construir puentes. Este enfoque en la unidad es el corazón del diálogo ecuménico. En contraste, la opción C (formar grupos por confesión y exponer diferencias) puede acentuar la separación, y la opción A (actividades diferenciadas) no promueve la interacción directa.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p47",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Una docente de quinto grado tiene como propósito que los estudiantes comprendan que la dimensión espiritual y religiosa es inherente a la naturaleza humana. ¿Cuál de las siguientes actividades es adecuada para el propósito de la docente?",
+          "opciones": [
+            "Presentar argumentos de personas que sustentan que Dios no existe. Luego, indicar que, en grupos, elaboren contraargumentos. Finalmente, pedir que elaboren propuestas para evangelizar a las personas que no conocen a Dios.",
+            "Explicar el significado de la frase \"el hombre es un ser religioso\". Luego, preguntar: \"¿Qué ha aportado la religión cristiana a tu vida? ¿Te consideras una persona religiosa?\". Finalmente, pedir que expliquen qué celebraciones religiosas son más importantes para ellos.",
+            "Pedir que comparen mitos de culturas no cristianas sobre la creación del mundo. Luego, solicitar que señalen las semejanzas entre dichos mitos y la Creación bíblica. Finalmente, preguntar: \"¿Por qué creen que estos mitos coinciden en intentar explicar quién nos creó y para qué?\"."
+          ],
+          "respuesta": "Pedir que comparen mitos de culturas no cristianas sobre la creación del mundo. Luego, solicitar que señalen las semejanzas entre dichos mitos y la Creación bíblica. Finalmente, preguntar: \"¿Por qué creen que estos mitos coinciden en intentar explicar quién nos creó y para qué?\".",
+          "respuestaCorta": "Para mostrar que la dimensión religiosa es inherente al ser humano, es efectivo usar la religión comparada. Demostrar que culturas diversas han buscado responder a las mismas preguntas trascendentales sobre el origen y el sentido de la vida evidencia una necesidad humana universal.",
+          "solucionario": "La opción C es la más adecuada porque, a través de un enfoque comparativo y antropológico, guía a los estudiantes a una conclusión universal. Al descubrir que diferentes culturas, sin contacto entre sí, han desarrollado mitos de creación para responder a las mismas preguntas fundamentales (\"¿quién nos creó y para qué?\"), los estudiantes pueden inferir que esta búsqueda de sentido y trascendencia es una característica intrínseca de la condición humana, es decir, es inherente a su naturaleza.",
+          "seccion": "Conocimientos Pedagógicos"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p48",
+      "contexto": "Como parte de una sesión de análisis bíblico, la docente se propone que los estudiantes reflexionen sobre por qué Dios cambia el nombre a algunos personajes bíblicos. Por ello, les presenta el siguiente texto:\n\nAbram pasa a ser Abraham\n\n(...) Abram cayó rostro en tierra, y Dios le habló así: \"Esta es mi alianza que voy a pactar contigo: tú serás el padre de una multitud de naciones. No te llamarás más Abram, sino Abraham, pues te tengo destinado a ser padre de una multitud de naciones. Te haré fecundo sin medida, de ti saldrán naciones y reyes, de generación en generación. Pacto mi alianza contigo y con tu descendencia después de ti: esta es una alianza eterna. Yo seré tu Dios y, después de ti, de tu descendencia.\n\nTomado de Génesis 17, 1-7.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes actividades pedagógicas es más adecuada para que la docente logre su propósito?",
+          "opciones": [
+            "Proponerles que lean un artículo sobre el papel de los patriarcas del pueblo prometido en la historia de la salvación. Luego, indicarles que, en equipos, identifiquen los argumentos que justifican por qué todos los patriarcas cambiaron de nombre. Finalmente, pedirles que, con sus propias palabras, elaboren un listado con las principales ideas del texto.",
+            "Presentarles historias de personajes bíblicos a quienes Jesús les cambió el nombre, como Simón y Saulo, y pedir que las comparen con el texto \"Abram pasa a ser Abraham\". Luego, pedirles que indiquen por qué creen que se les cambió de nombre. Finalmente, preguntarles cómo el cambio de nombre marcó la vida de dichos personajes.",
+            "Pedirles que busquen, en los comentarios del contexto bíblico, las razones por las que se le cambió de nombre a Abraham. Luego, comentarles por qué el cambio de nombre de Abraham dio inicio a la misión que Dios le encomendó. Finalmente, explicarles la razón por la que a la esposa de Abraham, llamada Saraí, también se le cambió el nombre."
+          ],
+          "respuesta": "Presentarles historias de personajes bíblicos a quienes Jesús les cambió el nombre, como Simón y Saulo, y pedir que las comparen con el texto \"Abram pasa a ser Abraham\". Luego, pedirles que indiquen por qué creen que se les cambió de nombre. Finalmente, preguntarles cómo el cambio de nombre marcó la vida de dichos personajes.",
+          "respuestaCorta": "Para entender el significado de un patrón bíblico como el cambio de nombre, la mejor estrategia es el análisis comparativo. Al estudiar varios casos (Abraham, Pedro, Pablo), los estudiantes pueden inferir el principio general: un cambio de nombre implica una nueva identidad y una nueva misión de parte de Dios.",
+          "solucionario": "La opción B utiliza una metodología inductiva y comparativa que promueve un aprendizaje más profundo. Al presentar múltiples ejemplos de un mismo fenómeno (el cambio de nombre divino) a lo largo de la Biblia (Antiguo y Nuevo Testamento), se permite que los estudiantes identifiquen un patrón y construyan por sí mismos el significado: el cambio de nombre está intrínsecamente ligado a una nueva misión y una transformación de la persona. Esto es más efectivo que simplemente darles la respuesta (opción C).",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+
+  
+    {
+      "idGrupo": "asc_secundaria_2023_p49",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Un grupo de docentes de Educación Religiosa está planificando diversas unidades didácticas que propondrán a los estudiantes. ¿Cuál de las siguientes unidades didácticas se centra en promover la competencia \"Construye su identidad como persona humana, amada por Dios, digna, libre y trascendente, comprendiendo la doctrina de su propia religión, abierto al diálogo con las que le son cercanas\"?",
+          "opciones": [
+            "Vivamos nuestra fe. Esta unidad didáctica tiene como propósito que los estudiantes cultiven su encuentro personal con Dios, y aprendan a valorar y a practicar sus momentos de oración.",
+            "Elaboremos nuestro proyecto de vida. Esta unidad didáctica tiene como propósito que los estudiantes identifiquen su propósito de vida cristiana y, sobre dicha base, elaboren su proyecto de vida.",
+            "Todos somos hijos de Dios. Esta unidad didáctica tiene como propósito que los estudiantes, a partir de las bases bíblicas, comprendan el valor que les confiere haber sido creados a \"imagen y semejanza de Dios\"."
+          ],
+          "respuesta": "Todos somos hijos de Dios. Esta unidad didáctica tiene como propósito que los estudiantes, a partir de las bases bíblicas, comprendan el valor que les confiere haber sido creados a \"imagen y semejanza de Dios\".",
+          "respuestaCorta": "La competencia se enfoca en la construcción de la identidad a partir de la dignidad de ser amado por Dios. La unidad que aborda la creación del hombre a 'imagen y semejanza de Dios' trabaja directamente sobre el fundamento de dicha dignidad.",
+          "solucionario": "El núcleo de la competencia es la construcción de la identidad personal basada en la dignidad, libertad y trascendencia que provienen de la relación con Dios. La unidad didáctica de la opción C, al centrarse en la comprensión de ser creados a \"imagen y semejanza de Dios\", aborda directamente el fundamento teológico de esa dignidad inherente. Las otras opciones son consecuencias o prácticas derivadas de esa identidad (la oración, el proyecto de vida), pero la C se centra en la raíz misma de la competencia.",
+          "seccion": "Conocimientos Pedagógicos"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p50",
+      "contexto": "Los estudiantes, orientados por la docente, están dialogando sobre las manifestaciones de religiosidad popular en su comunidad. En este contexto, Miriam, una de las estudiantes, dice que, durante el día de los difuntos, va con su familia a llevar música y comida a la tumba de su abuelita. Al respecto, Pedro, otro estudiante, dice que, en lugar de hacer lo mencionado por su compañera, lo más adecuado es guardar respeto a los difuntos participando en la misa de ese día y pidiendo por la salvación de estos.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "La docente ha notado que varios de los estudiantes están de acuerdo con Pedro. Por ello, a partir de este intercambio, ella busca promover el diálogo intercultural entre los estudiantes del aula. ¿Cuál de las siguientes acciones favorece más dicho propósito?",
+          "opciones": [
+            "Pedir a Pedro y Miriam que expliquen cuál es el propósito de las costumbres que practican y cómo se sienten ellos cuando, al lado de sus familiares, honran a los difuntos. Luego, invitar a los demás estudiantes a que compartan las costumbres que tienen sus familias para conmemorar a los difuntos. Finalmente, organizarlos en pares para que dialoguen sobre si consideran importante valorar la diversidad de costumbres y expresiones de fe de las personas.",
+            "Pedir a los estudiantes que comenten si les pareció adecuada la forma en que Pedro expresó su discrepancia ante Miriam. Luego, brindarles algunas recomendaciones para que compartan sus opiniones de manera asertiva. Finalmente, explicarles que, en el país, existen comunidades y personas que practican diversas costumbres en el día de los difuntos, por lo que siempre se presentarán discrepancias, las cuales deben expresarse manteniendo un clima de respeto.",
+            "Pedir que lean un texto sobre la libertad de culto y las diversas manifestaciones de fe en el día de los difuntos. Luego, explicarles las principales ideas de los documentos de la Iglesia católica sobre la religiosidad popular en el Perú. Finalmente, sobre la base de lo anterior, orientarlos para que elaboren compromisos cuyo centro sea el respeto de la libertad de culto y de las expresiones de la religiosidad popular."
+          ],
+          "respuesta": "Pedir a Pedro y Miriam que expliquen cuál es el propósito de las costumbres que practican y cómo se sienten ellos cuando, al lado de sus familiares, honran a los difuntos. Luego, invitar a los demás estudiantes a que compartan las costumbres que tienen sus familias para conmemorar a los difuntos. Finalmente, organizarlos en pares para que dialoguen sobre si consideran importante valorar la diversidad de costumbres y expresiones de fe de las personas.",
+          "respuestaCorta": "Para fomentar un diálogo intercultural genuino, es esencial ir más allá del juicio superficial y explorar el propósito y el significado emocional que cada costumbre tiene para quienes la practican, fomentando así la empatía.",
+          "solucionario": "La opción A es la más efectiva para promover el diálogo intercultural porque se centra en la comprensión empática. Al pedir a los estudiantes que expliquen el \"propósito\" y el \"cómo se sienten\", se valida la legitimidad de ambas expresiones culturales y se permite que el resto de la clase comprenda la lógica interna y la dimensión afectiva de cada una. Esto construye puentes de entendimiento, que es la base para valorar la diversidad, en lugar de solo enfocarse en la asertividad (B) o en un marco teórico (C).",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p51",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Como parte de una sesión, los estudiantes dialogarán sobre la fraternidad cristiana. Por ello, la docente busca recoger los saberes previos de los estudiantes sobre este concepto. ¿Cuál de las siguientes acciones pedagógicas es adecuada para ello?",
+          "opciones": [
+            "Pedirles que expliquen por qué el protagonista de la parábola \"El buen samaritano\" es un símbolo de fraternidad. Luego, indicarles que mencionen algunas obras sociales que consideran que son muestra de la fraternidad cristiana.",
+            "Presentarles una lista con diversas definiciones de la fraternidad cristiana planteadas por la Iglesia católica. Luego, pedirles que expliquen con sus propias palabras qué es la fraternidad cristiana.",
+            "Solicitarles que lean los apartados sobre fraternidad cristiana de la encíclica Fratelli Tutti. Luego, preguntarles por qué esta encíclica analiza con detalle la parábola \"El buen samaritano\"."
+          ],
+          "respuesta": "Pedirles que expliquen por qué el protagonista de la parábola \"El buen samaritano\" es un símbolo de fraternidad. Luego, indicarles que mencionen algunas obras sociales que consideran que son muestra de la fraternidad cristiana.",
+          "respuestaCorta": "Para recoger saberes previos sobre un concepto, es ideal partir de ejemplos concretos y conocidos por los estudiantes (como la parábola del buen samaritano y obras sociales) para que puedan expresar su comprensión a través de ellos.",
+          "solucionario": "La recogida de saberes previos implica activar lo que los estudiantes ya conocen. La opción A es la más adecuada porque parte de un referente cultural y religioso muy conocido (el buen samaritano) y de la experiencia observable (obras sociales). Al pedirles que conecten estos ejemplos con el concepto de \"fraternidad\", la docente puede evaluar la comprensión práctica e intuitiva que los estudiantes ya tienen del término, antes de pasar a definiciones más formales. Las opciones B y C introducen información nueva, por lo que no son para recoger saberes previos.",
+          "seccion": "Conocimientos Pedagógicos"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p52-54",
+      "contexto": "En una sesión centrada en el análisis de textos bíblicos, los estudiantes están leyendo la parábola \"El buen samaritano\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "La docente tiene como propósito que los estudiantes analicen la parábola \"El buen samaritano\" a través del método histórico-crítico. ¿Cuál de las siguientes acciones pedagógicas promueve el momento inicial de dicho método?",
+          "opciones": [
+            "Pedirles que, en equipos, identifiquen a quiénes representan los personajes de la parábola. Luego, solicitar que indiquen qué personaje representa a Jesús y expliquen por qué se representa de esa manera.",
+            "Comentarles por qué los samaritanos no eran aceptados por el pueblo de Israel. Luego, solicitar que expliquen por qué creen que se eligió a una persona que no formaba parte del pueblo de Israel para explicar quién era el prójimo.",
+            "Indicarles que comparen las actitudes del sacerdote, el levita y el samaritano al encontrar al hombre herido en el camino. Luego, solicitar que, sobre la base de lo comparado, expliquen por qué Jesús invitó a las personas a seguir el ejemplo del samaritano."
+          ],
+          "respuesta": "Comentarles por qué los samaritanos no eran aceptados por el pueblo de Israel. Luego, solicitar que expliquen por qué creen que se eligió a una persona que no formaba parte del pueblo de Israel para explicar quién era el prójimo.",
+          "respuestaCorta": "El método histórico-crítico comienza por analizar el contexto histórico y social. Explicar el conflicto entre judíos y samaritanos es el primer paso indispensable para entender por qué la elección de un samaritano como héroe fue tan impactante y radical para la audiencia original de Jesús.",
+          "solucionario": "El punto de partida del método histórico-crítico es la comprensión del \"mundo detrás del texto\". En la parábola del buen samaritano, el elemento contextual más importante y provocador es la identidad del protagonista. Sin comprender la profunda enemistad social y religiosa entre judíos y samaritanos en el siglo I, el mensaje de Jesús pierde gran parte de su fuerza. Por ello, la opción B, que se centra en este conflicto histórico, es la acción inicial correcta para este método de análisis.",
+          "seccion": "Conocimientos Disciplinares"
+        },
+        {
+          "pregunta": "Como parte de la lectura, la docente ha propuesto algunas actividades para el análisis de la parábola \"El buen samaritano\". ¿Cuál de las siguientes supone menor demanda cognitiva?",
+          "opciones": [
+            "Elaborar un listado de los personajes de la parábola.",
+            "Explicar el significado de los símbolos de la parábola.",
+            "Escribir un texto en el que se analiza un caso sobre la base del mensaje de la parábola."
+          ],
+          "respuesta": "Elaborar un listado de los personajes de la parábola.",
+          "respuestaCorta": "La menor demanda cognitiva corresponde a la tarea más simple. Listar personajes es una habilidad de orden inferior (recordar, identificar), mientras que explicar símbolos (analizar) o aplicar un mensaje (evaluar, crear) requieren un pensamiento más complejo.",
+          "solucionario": "Las tareas cognitivas se pueden jerarquizar por su complejidad. La opción A, \"elaborar un listado\", requiere la habilidad básica de identificar y recordar información explícita del texto. La opción B, \"explicar el significado\", implica un nivel de análisis e interpretación. La opción C, \"analizar un caso sobre la base del mensaje\", es una tarea de aplicación y evaluación, de orden superior. Por lo tanto, listar los personajes es la actividad que supone una menor demanda cognitiva.",
+          "seccion": "Conocimientos Pedagógicos"
+        },
+        {
+          "pregunta": "Después de que los estudiantes analizaron la parábola \"El buen samaritano\", la docente les pide que comenten por escrito cómo realizaron su análisis. A continuación, se presenta el texto de uno de ellos:\n\nEn otras sesiones, tuvimos que buscar información extra para comprender algunos temas y expresiones usadas en los textos bíblicos que leimos. Por eso, usé el contexto bíblico para comprender mejor el mensaje de \"El buen samaritano\". Además, seguí otros pasos que aprendí para analizar textos bíblicos: identifiqué a quiénes representaban los personajes, busqué las enseñanzas y, finalmente, busqué otros relatos que presenten un mensaje similar al de la parábola que analicé. Aplicar todos estos pasos me ayudó a comprender esta parábola.\n\n¿Qué proceso de aprendizaje se destaca, principalmente, en el escrito del estudiante?",
+          "opciones": [
+            "La activación de saberes previos sobre el mensaje de la parábola.",
+            "La transferencia del aprendizaje sobre los pasos del análisis bíblico.",
+            "La generación de un conflicto cognitivo sobre la enseñanza de la parábola."
+          ],
+          "respuesta": "La transferencia del aprendizaje sobre los pasos del análisis bíblico.",
+          "respuestaCorta": "El estudiante está aplicando un método de análisis que aprendió en una situación previa a un nuevo texto. Este acto de utilizar un conocimiento o habilidad en un nuevo contexto es la definición de transferencia del aprendizaje.",
+          "solucionario": "El estudiante describe cómo aplicó un conjunto de estrategias y \"pasos que aprendió\" en sesiones anteriores para abordar una nueva tarea (analizar esta parábola). La transferencia del aprendizaje es precisamente eso: la capacidad de tomar un conocimiento o una habilidad aprendida en un contexto y aplicarla de manera efectiva en otro. El estudiante no solo recuerda, sino que utiliza activamente un método aprendido, lo que demuestra la transferencia.",
+          "seccion": "Conocimientos Pedagógicos"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p55",
+      "contexto": "Una docente tiene como propósito que los estudiantes identifiquen las enseñanzas que brindan las parábolas de Jesús. Por ello, presenta la siguiente parábola:\n\nEl trigo y la hierba mala\n\nJesús les propuso otra parábola: \"Aquí tienen una figura del Reino de los Cielos. Un hombre sembró buena semilla en su campo, pero mientras la gente estaba durmiendo, vino su enemigo y sembró cizaña en medio del trigo y se fue. Cuando el trigo creció y empezó a echar espigas, apareció también la cizaña. Entonces los servidores fueron a decirle al patrón: 'Señor, ¿no sembraste buena semilla en tu campo? ¿De dónde, pues, viene esa cizaña?'. Respondió el patrón: 'Eso es obra de un enemigo'. Los obreros le preguntaron: '¿Quieres que arranquemos la cizaña?'. 'No, dijo el patrón, pues al quitar la cizaña podrían arrancar también el trigo. Déjenlos crecer juntos hasta la hora de la cosecha. Entonces diré a los segadores: 'Corten primero la cizaña, hagan fardos y arrójenlos al fuego. Después cosechen el trigo y guardenlo en mis bodegas'.\n\nTomado de Mateo 13, 24-30.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Después de leer \"El trigo y la hierba mala\", la docente busca que los estudiantes identifiquen el mensaje de dicho texto. ¿Qué actividad pedagógica es más adecuada para ello?",
+          "opciones": [
+            "Pedirles que comenten si conocen las plantas del trigo y la cizaña. Luego, indicar que describan cómo son dichas plantas y cuál es su utilidad. Finalmente, preguntarles por qué creen que la cizaña se puso como ejemplo de algo negativo y si han identificado este elemento en otras parábolas.",
+            "Pedirles que expliquen a quiénes representarían el trigo, la cizaña y el patrón de la parábola. Luego, solicitar que comenten por qué creen que el patrón espera la cosecha para separar las plantas. Finalmente, preguntar qué creen que simbolizaría que el trigo vaya a las bodegas y la cizaña al fuego.",
+            "Pedirles que expliquen el contexto en el cual Jesús narró esta parábola. Luego, solicitar que indiquen qué representa que un hombre siembre semillas. Finalmente, indicar que comenten a quién representa el enemigo del patrón que sembró la cizaña en el campo y por qué creen que lo hizo."
+          ],
+          "respuesta": "Pedirles que expliquen a quiénes representarían el trigo, la cizaña y el patrón de la parábola. Luego, solicitar que comenten por qué creen que el patrón espera la cosecha para separar las plantas. Finalmente, preguntar qué creen que simbolizaría que el trigo vaya a las bodegas y la cizaña al fuego.",
+          "respuestaCorta": "Para desentrañar el mensaje de esta parábola, es crucial seguir la secuencia de su lógica interna: decodificar los símbolos principales (trigo, cizaña), analizar la acción clave (la espera hasta la cosecha) y entender el significado del desenlace (el juicio final).",
+          "solucionario": "La opción B guía a los estudiantes a través de un análisis completo y ordenado de la parábola. Les pide que identifiquen la simbología de los personajes (quién es quién), que analicen la trama y su lógica teológica (la paciencia de Dios), y que interpreten el significado del final escatológico (la separación en el juicio final). Esta secuencia de análisis es la que permite a los estudiantes construir una comprensión integral del mensaje sobre la convivencia del bien y el mal en el mundo y la justicia divina final.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p56",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Un docente les ha propuesto a los estudiantes discutir sobre un caso en el que se vulneran los derechos y la dignidad de las personas. A partir de este caso, los estudiantes analizan y dialogan sobre los problemas que han identificado. Ahora, el docente busca que los estudiantes reflexionen sobre la importancia de la dignidad humana según la doctrina católica. ¿Cuál de las siguientes actividades es más adecuada para lograr dicho propósito?",
+          "opciones": [
+            "Pedir que, en equipos, comparen el caso que analizaron con otros casos que conozcan. Luego, solicitar que expliquen si se respeta o no la dignidad humana en los casos analizados. Finalmente, indicar que propongan acciones que pueden realizar para contribuir a que dichos casos se eviten.",
+            "Pedir que, en equipos, analicen el capítulo 1 del documento Gaudium et spes \"La dignidad de la persona humana\" y lo comparen con la Declaración Universal de los Derechos Humanos. Luego, solicitar que expliquen cómo la definición de dignidad humana del capítulo leído se relaciona con los derechos humanos. Finalmente, invitar a que, sobre la base de lo leído, expresen su posición sobre el caso presentado.",
+            "Pedir que lean, en el Catecismo, la explicación de la cita bíblica \"Dijo Dios: 'Hagamos al hombre a nuestra imagen y semejanza (...)\" (Génesis 1, 26). Luego, comentarles cuáles son las implicancias de que el hombre y la mujer sean creación de Dios. Finalmente, explicarles que todas las personas son dignas por ser hijos de Dios y que, por lo tanto, en el caso que analizaron, no se respeta la esencia divina de la persona."
+          ],
+          "respuesta": "Pedir que, en equipos, analicen el capítulo 1 del documento Gaudium et spes \"La dignidad de la persona humana\" y lo comparen con la Declaración Universal de los Derechos Humanos. Luego, solicitar que expliquen cómo la definición de dignidad humana del capítulo leído se relaciona con los derechos humanos. Finalmente, invitar a que, sobre la base de lo leído, expresen su posición sobre el caso presentado.",
+          "respuestaCorta": "Para una reflexión profunda sobre la dignidad humana, es muy enriquecedor poner en diálogo una fuente doctrinal clave de la Iglesia (Gaudium et spes) con un documento civil fundamental (Declaración de los DDHH) y luego aplicar esa comprensión a un caso práctico.",
+          "solucionario": "La opción B es la más completa y de mayor rigor intelectual. Promueve un diálogo entre fe y cultura al comparar un documento magisterial fundamental del Concilio Vaticano II con el principal documento civil sobre el tema. Este análisis comparativo permite a los estudiantes comprender la profundidad del concepto de dignidad desde ambas perspectivas, enriqueciendo su criterio para luego aplicarlo de manera fundamentada al caso concreto que están discutiendo.",
+          "seccion": "Conocimientos Pedagógicos"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p57",
+      "contexto": "Una docente está desarrollando una sesión sobre los elementos que forman parte de una tradición religiosa. En este contexto, pide a los estudiantes que brinden ejemplos de las tradiciones religiosas que conocen. A continuación, se presenta una parte del diálogo que se suscitó en el aula:\n\nAndrea dice: \"A mí me gusta el Domingo de Ramos en Semana Santa, en especial el rito de la bendición de las palmas. En este rito se escenifica la entrada de Jesús a Jerusalén, y lo que hace el sacerdote es bendecir nuestros ramos con agua bendita\".\nBernardo dice: \"Sí, he visto esos ramos. Son bonitos. Mmm... ¡Ah! A mí me gusta, aunque sé que se hace en contextos diferentes, el rito del pago a la tierra o a la Pachamama. En este rito, se entregan ofrendas a la tierra en agradecimiento o se pide protección a los apus\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "A partir de las intervenciones de Andrea y Bernardo, algunos de los estudiantes señalaron que el pago a la tierra no es parte de una tradición religiosa. En este contexto, la docente se propone que los estudiantes comprendan que ambos ritos forman parte de tradiciones religiosas. ¿Cuál de las siguientes acciones pedagógicas es más adecuada para que la docente logre su propósito?",
+          "opciones": [
+            "Pedir a Andrea que comparta con la clase otros ritos que se celebran durante la Semana Santa. Luego, solicitar a Bernardo que describa cómo se realiza el pago a la tierra. Finalmente, invitar a todos los estudiantes a que señalen los elementos religiosos comunes entre los ritos que se describieron.",
+            "Solicitar a Bernardo que explique si se pueden encontrar elementos cristianos en el pago a la tierra. Luego, pedir a Andrea que señale los elementos religiosos cristianos que se encuentran en los ritos de la Semana Santa. Finalmente, pedir a ambos estudiantes que den ejemplos de otras tradiciones para identificar sus elementos religiosos cristianos.",
+            "Brindar a Bernardo y a Andrea un texto sobre el sincretismo religioso. Luego, indicar que, sobre la base de lo leído, analicen los elementos de las tradiciones que señalaron y expliquen a sus compañeros las características del sincretismo en dichas fiestas religiosas. Finalmente, pedir que investiguen cuál es la posición de la Iglesia católica acerca del sincretismo religioso."
+          ],
+          "respuesta": "Pedir a Andrea que comparta con la clase otros ritos que se celebran durante la Semana Santa. Luego, solicitar a Bernardo que describa cómo se realiza el pago a la tierra. Finalmente, invitar a todos los estudiantes a que señalen los elementos religiosos comunes entre los ritos que se describieron.",
+          "respuestaCorta": "Para ayudar a los estudiantes a reconocer que ambas prácticas son religiosas, la mejor estrategia es analizarlas en paralelo y guiarles a identificar los elementos estructurales comunes a todo rito religioso que están presentes en ambas.",
+          "solucionario": "La opción A es la más adecuada porque utiliza un método comparativo para que los estudiantes lleguen a la conclusión por sí mismos. Al describir ambos ritos y luego buscar \"elementos religiosos comunes\" (como la idea de lo sagrado, la ofrenda, el agradecimiento, la petición, el simbolismo), los estudiantes pueden abstraer las características universales de una tradición religiosa y reconocer que, a pesar de sus diferencias formales, ambos ritos comparten esa estructura fundamental.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p58",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "La docente de Educación Religiosa comenta al director que, revisando los datos de sus nuevos estudiantes, ha identificado que algunos pertenecen a religiones no cristianas. Por ello, para promover el desarrollo espiritual de los estudiantes, la docente se propone incorporar actividades de meditación en algunas sesiones. ¿Por qué es adecuada la propuesta de la docente?",
+          "opciones": [
+            "Porque la meditación promueve que los estudiantes se centren en apreciar los aportes de la religiosidad.",
+            "Porque la meditación promueve que los estudiantes tengan un momento dedicado a la reflexión personal.",
+            "Porque la meditación promueve que los estudiantes reflexionen sobre por qué deben seguir las enseñanzas de Jesús."
+          ],
+          "respuesta": "Porque la meditación promueve que los estudiantes tengan un momento dedicado a la reflexión personal.",
+          "respuestaCorta": "En un aula con diversidad religiosa, la meditación es una práctica inclusiva porque se centra en la reflexión personal y el autoconocimiento, aspectos universales del desarrollo espiritual que no dependen de un credo específico.",
+          "solucionario": "La propuesta es adecuada porque la meditación, entendida como una práctica de introspección y silencio, es una herramienta espiritual universal. Se centra en la reflexión personal (opción B), que es un valor transversal a muchas religiones y filosofías de vida, y no impone un contenido doctrinal específico. Esto la hace una actividad inclusiva y respetuosa en un aula con estudiantes de diversas creencias, a diferencia de la opción C, que es confesionalmente cristiana.",
+          "seccion": "Conocimientos Disciplinares"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p59",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Un docente busca orientar a los estudiantes para que inicien la elaboración de su proyecto de vida cristiana. ¿Cuál de las siguientes acciones pedagógicas favorece más dicho propósito?",
+          "opciones": [
+            "Pedir que lean el texto \"La primera comunidad cristiana\" (Hechos 2, 42-47) y señalen las acciones que realizaban los apóstoles. Luego, solicitar que, sobre la base de lo leído, elaboren un perfil de cómo les gustaría ser en el futuro. Finalmente, preguntarles de qué manera este perfil los ayuda para empezar a construir su proyecto de vida cristiana.",
+            "Pedir que lean la parábola \"La oveja perdida\" (Lucas 15, 1-10) y señalen algunas enseñanzas que se desprenden de ella. Luego, solicitarles que, a partir de las enseñanzas encontradas, comenten sobre la importancia del proyecto de vida cristiana para seguir el camino de Dios. Finalmente, explicarles de qué manera esta parábola puede orientarlos a que su proyecto de vida siga las enseñanzas de Cristo.",
+            "Presentarles el proyecto de vida que Cristo propone para que las personas formen parte del Reino de Dios. Luego, pedirles que, a partir de la explicación, elaboren un listado con las características del proyecto que Cristo les ofrece. Finalmente, preguntarles si creen que, a partir de esta propuesta, podrían elaborar su proyecto de vida cristiana."
+          ],
+          "respuesta": "Pedir que lean el texto \"La primera comunidad cristiana\" (Hechos 2, 42-47) y señalen las acciones que realizaban los apóstoles. Luego, solicitar que, sobre la base de lo leído, elaboren un perfil de cómo les gustaría ser en el futuro. Finalmente, preguntarles de qué manera este perfil los ayuda para empezar a construir su proyecto de vida cristiana.",
+          "respuestaCorta": "Para iniciar un proyecto de vida, es muy efectivo partir de un modelo inspirador (la primera comunidad), usarlo para proyectar un ideal personal (elaborar un perfil), y luego utilizar ese perfil como el punto de partida concreto para la construcción del proyecto.",
+          "solucionario": "La opción A propone una secuencia pedagógica muy sólida y concreta para iniciar un proyecto de vida. Parte de un modelo inspirador y concreto (Hechos 2). Luego, traduce esa inspiración en una herramienta personal (\"elaboren un perfil de cómo les gustaría ser\"). Finalmente, utiliza esa herramienta como un puente o andamio para la tarea principal (\"de qué manera este perfil los ayuda para empezar a construir...\"). Este proceso, que va de la inspiración al autoconocimiento y de ahí a la planificación, es muy efectivo para una tarea tan compleja.",
+          "seccion": "Conocimientos Pedagógicos"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p60",
+      "contexto": "Luego de analizar con los estudiantes los textos bíblicos \"El impuesto debido al César\" (Mateo 22, 15-22) y \"La mujer adúltera\" (Juan 8, 1-11), la docente les pide que identifiquen, en cada texto, las preguntas que le plantearon los maestros de la Ley a Jesús y la respuesta que él les ofreció. A continuación, se presenta un organizador elaborado por un grupo de estudiantes:",
+      "imagen": "img/ascenso/secundaria/2023/religion/3.jpg",
+      "preguntas": [
+        {
+          "pregunta": "A partir del organizador, la docente busca que los estudiantes identifiquen en qué se parecen ambos textos. ¿Cuál de las siguientes actividades es adecuada para ese propósito?",
+          "opciones": [
+            "Preguntarles cuál es el mensaje central de cada texto y pedirles que expliquen, con sus propias palabras, las enseñanzas que más llamaron su atención.",
+            "Preguntarles cuál era el propósito de los maestros de la Ley al plantearle esas interrogantes a Jesús y por qué Jesús les respondió con esas frases.",
+            "Preguntarles por qué Jesús se refirió al César en su respuesta y por qué no permitió que los judíos mataran a pedradas a la mujer adúltera."
+          ],
+          "respuesta": "Preguntarles cuál era el propósito de los maestros de la Ley al plantearle esas interrogantes a Jesús y por qué Jesús les respondió con esas frases.",
+          "respuestaCorta": "La similitud fundamental entre ambos pasajes es la intención de los que preguntan. Cuestionar sobre el 'propósito' de los maestros de la ley guiará a los estudiantes a descubrir que, en ambos casos, la intención era ponerle una trampa a Jesús.",
+          "solucionario": "El organizador visualiza dos situaciones distintas con respuestas distintas. La semejanza clave no está en el contenido, sino en la intención de los interlocutores de Jesús. La opción B es la más adecuada porque enfoca el análisis en el \"propósito de los maestros de la Ley\". Al reflexionar sobre esto, los estudiantes descubrirán que en ambos relatos la pregunta no es sincera, sino una trampa diseñada para comprometer a Jesús, ya sea con las autoridades romanas o con la ley judía. Esta intención maliciosa es el gran parecido entre ambos textos.",
+          "seccion": "Casuística"
+        }
+      ]
+    }
+  ]
+}
+  

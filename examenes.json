@@ -924,7 +924,21 @@
     "archivos": {
       "especifico": "data/ascenso/secundaria/2023/ascenso_matematica2023.json"
     }
+  },
+  {
+    "id": 83,
+    "proceso": "Ascenso",
+    "anio": 2023,
+    "nivel": "Secundaria",
+    "especialidad": "Educación Religiosa",
+    "modalidad": "EBR",
+    "preguntas": 60,
+    "tiempo": 180,
+    "archivos": {
+      "especifico": "data/ascenso/secundaria/2023/ascenso_religion2023.json"
+    }
   }
+
 
 
 ]
