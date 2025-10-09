@@ -911,6 +911,20 @@
     "archivos": {
       "especifico": "data/ascenso/secundaria/2023/ascenso_sociales2023.json"
     }
+  },
+   {
+    "id": 82,
+    "proceso": "Ascenso",
+    "anio": 2023,
+    "nivel": "Secundaria",
+    "especialidad": "Matemática ",
+    "modalidad": "EBR",
+    "preguntas": 60,
+    "tiempo": 180,
+    "archivos": {
+      "especifico": "data/ascenso/secundaria/2023/ascenso_matematica2023.json"
+    }
   }
+
 
 ]
