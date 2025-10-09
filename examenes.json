@@ -885,6 +885,19 @@
     "archivos": {
       "especifico": "data/ascenso/secundaria/2023/ascenso_ingles2023.json"
     }
+  },
+  {
+    "id": 80,
+    "proceso": "Ascenso",
+    "anio": 2023,
+    "nivel": "Secundaria",
+    "especialidad": "Educación para el Trabajo (EPT)",
+    "modalidad": "EBR",
+    "preguntas": 60,
+    "tiempo": 180,
+    "archivos": {
+      "especifico": "data/ascenso/secundaria/2023/ascenso_ept2023.json"
+    }
   }
 
 ]
