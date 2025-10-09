@@ -898,6 +898,19 @@
     "archivos": {
       "especifico": "data/ascenso/secundaria/2023/ascenso_ept2023.json"
     }
+  },
+   {
+    "id": 81,
+    "proceso": "Ascenso",
+    "anio": 2023,
+    "nivel": "Secundaria",
+    "especialidad": "Ciencias Sociales ",
+    "modalidad": "EBR",
+    "preguntas": 60,
+    "tiempo": 180,
+    "archivos": {
+      "especifico": "data/ascenso/secundaria/2023/ascenso_sociales2023.json"
+    }
   }
 
 ]
