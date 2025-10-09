@@ -859,5 +859,32 @@
     "archivos": {
       "especifico": "data/ascenso/secundaria/2023/ascenso_comunicacion2023.json"
     }
+  },
+  {
+    "id": 78,
+    "proceso": "Ascenso",
+    "anio": 2023,
+    "nivel": "Secundaria",
+    "especialidad": "DPCC ",
+    "modalidad": "EBR",
+    "preguntas": 60,
+    "tiempo": 180,
+    "archivos": {
+      "especifico": "data/ascenso/secundaria/2023/ascenso_dpcc2023.json"
+    }
+  },
+  {
+    "id": 79,
+    "proceso": "Ascenso",
+    "anio": 2023,
+    "nivel": "Secundaria",
+    "especialidad": "Inglés",
+    "modalidad": "EBR",
+    "preguntas": 60,
+    "tiempo": 180,
+    "archivos": {
+      "especifico": "data/ascenso/secundaria/2023/ascenso_ingles2023.json"
+    }
   }
+
 ]

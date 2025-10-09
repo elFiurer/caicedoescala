@@ -2408,3 +2408,9 @@ h2 { font-size: 28px; }
     margin: 5px 0;
     transition: all 0.3s ease-in-out;
 }
+.options-container .option.incorrect-answer {
+    background-color: #f8d7da; /* Un fondo rojo muy claro */
+    border-color: #f5c6cb;
+    color: #721c24;
+    font-weight: bold;
+}
