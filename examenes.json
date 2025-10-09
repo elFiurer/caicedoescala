@@ -937,8 +937,20 @@
     "archivos": {
       "especifico": "data/ascenso/secundaria/2023/ascenso_religion2023.json"
     }
+  },
+{
+    "id": 84,
+    "proceso": "Ascenso",
+    "anio": 2023,
+    "nivel": "Primaria",
+    "especialidad": "Primaria",
+    "modalidad": "EBR",
+    "preguntas": 60,
+    "tiempo": 180,
+    "archivos": {
+      "especifico": "data/ascenso/primaria/2023/ascenso_primaria2023.json"
+    }
   }
-
 
 
 ]
