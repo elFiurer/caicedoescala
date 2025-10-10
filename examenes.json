@@ -1015,6 +1015,19 @@
     "archivos": {
       "especifico": "data/ascenso/primaria/2023/ascenso_aip2023.json"
     }
+  },
+  {
+    "id": 90,
+    "proceso": "Ascenso",
+    "anio": 2023,
+    "nivel": "Primaria",
+    "especialidad": "Educación Física ",
+    "modalidad": "EBR",
+    "preguntas": 60,
+    "tiempo": 180,
+    "archivos": {
+      "especifico": "data/ascenso/primaria/2023/ascenso_edufisicaprim2023.json"
+    }
   }
 
 
