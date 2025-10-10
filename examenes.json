@@ -976,6 +976,19 @@
     "archivos": {
       "especifico": "data/ascenso/secundaria/2023/ascenso_cyt2023.json"
     }
+  },
+  {
+    "id": 87,
+    "proceso": "Ascenso",
+    "anio": 2023,
+    "nivel": "inicial",
+    "especialidad": "inicial",
+    "modalidad": "EBR",
+    "preguntas": 60,
+    "tiempo": 180,
+    "archivos": {
+      "especifico": "data/ascenso/inicial/2023/ascenso_inicial2023.json"
+    }
   }
 
 
