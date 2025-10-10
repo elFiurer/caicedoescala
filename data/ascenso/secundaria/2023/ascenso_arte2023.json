@@ -1,0 +1,929 @@
+{
+  "completo": [
+    {
+      "idGrupo": "asc_secundaria_2023_p01",
+      "contexto": "Fernanda es una estudiante que presenta discapacidad física y se traslada en silla de ruedas.\nElla se va a incorporar la siguiente semana a un aula de una institución educativa.\nPor ello, el docente del aula realiza una asamblea con los estudiantes con el propósito de sensibilizarlos sobre la condición que presenta Fernanda.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "En este contexto, tres estudiantes comparten sus comentarios sobre las formas en que podrían ayudar a Fernanda a desplazarse en el colegio.\n¿Cuál de los siguientes comentarios de los estudiantes está alineado al enfoque inclusivo del Currículo Nacional de la Educación Básica?",
+          "opciones": [
+            "\"Para movilizar a Fernanda, es necesario que la llevemos en su silla de ruedas a todos los lugares a donde vayamos. De esta manera, la ayudaremos a desplazarse por todo el colegio y estará siempre acompañada\".",
+            "\"Si deseamos ayudar a Fernanda a movilizarse en el colegio, primero debemos preguntarle en qué casos requiere nuestro apoyo. Yo pienso que ella nos podría orientar sobre cuál es la mejor forma en que podemos ayudarla\".",
+            "\"Considero que siempre debemos estar pendientes de Fernanda para poder ayudarla cuando quiera movilizarse. Propongo que organicemos turnos entre nosotros para cuidarla y así evitar que tenga algún accidente en el colegio\"."
+          ],
+          "respuesta": "\"Si deseamos ayudar a Fernanda a movilizarse en el colegio, primero debemos preguntarle en qué casos requiere nuestro apoyo. Yo pienso que ella nos podría orientar sobre cuál es la mejor forma en que podemos ayudarla\".",
+          "respuestaCorta": "El enfoque inclusivo prioriza el respeto a la autonomía de la persona, por lo que se debe consultar directamente a Fernanda sobre el apoyo que necesita, en lugar de asumir o imponer ayuda.",
+          "solucionario": "La alternativa correcta está alineada con el enfoque inclusivo porque promueve el respeto por la autonomía y la toma de decisiones de la estudiante con discapacidad. En lugar de adoptar una postura sobreprotectora o asistencialista (como en las otras opciones), se propone un diálogo directo con Fernanda para que sea ella quien exprese sus necesidades y la forma en que desea recibir ayuda, reconociéndola como sujeto de derechos.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p02",
+      "contexto": "En el marco de un proyecto denominado \"Yo cuido mi barrio\", los estudiantes de una institución educativa han identificado diversos problemas que afectan los espacios públicos de la localidad.\nEllos comentan que uno de estos problemas es no poder utilizar la losa deportiva del barrio, debido a que se encuentra deteriorada.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "En este contexto, la docente tiene como propósito que los estudiantes aborden este problema desde el enfoque de derechos del Currículo Nacional de la Educación Básica.\n¿Cuál de las siguientes acciones pedagógicas es más pertinente para ello?",
+          "opciones": [
+            "Solicitar a los estudiantes que recojan las quejas de los vecinos de la localidad sobre el estado de la losa deportiva. Luego, pedir que organicen la información recabada y, considerando esto, que elaboren una solicitud dirigida a la municipalidad del distrito, con la finalidad de que se halle una solución que atienda las quejas de los vecinos.",
+            "Realizar una plenaria con los estudiantes y dialogar sobre las mejoras que requiere la losa deportiva para que los vecinos puedan usarla. Luego, compartir acciones de participación realizadas en distintas localidades para resolver un problema similar y, sobre esta base, pedir que seleccionen la que sea más factible de replicar en su localidad.",
+            "Conversar con los estudiantes sobre las limitaciones que produce no poder usar la losa deportiva en sus vidas y en las de los vecinos. Luego, solicitar que expliquen si consideran necesario actuar frente a este problema y, a partir de ello, pedir que planteen propuestas para mejorar el estado en el que se encuentra la losa."
+          ],
+          "respuesta": "Conversar con los estudiantes sobre las limitaciones que produce no poder usar la losa deportiva en sus vidas y en las de los vecinos. Luego, solicitar que expliquen si consideran necesario actuar frente a este problema y, a partir de ello, pedir que planteen propuestas para mejorar el estado en el que se encuentra la losa.",
+          "respuestaCorta": "Esta acción promueve que los estudiantes tomen conciencia de cómo el problema afecta sus derechos y los empodera para proponer soluciones, ejerciendo así su ciudadanía activa.",
+          "solucionario": "La opción más pertinente es la 'c' porque parte de la reflexión de los propios estudiantes sobre cómo la situación vulnera sus derechos (al juego, a la recreación, al uso de espacios públicos). El enfoque de derechos busca formar ciudadanos activos que reconozcan problemas en su entorno y se sientan capaces de proponer y gestionar soluciones, lo cual se logra al motivarlos a plantear sus propias propuestas de mejora.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p03",
+      "contexto": "El collage es una técnica creada por las vanguardias europeas de principios del siglo XX, у consiste en unir y pegar diversas imágenes, fotografías (o fragmentos de estas) u objetos en una misma superficie, y crear así una nueva imagen con un nuevo significado.",
+      "imagen": "img/ascenso/secundaria/2023/arte/1.jpg",
+      "preguntas": [
+        {
+          "pregunta": "El docente de Arte y Cultura va a trabajar con sus estudiantes el concepto de collage y está buscando ejemplos en internet.\nEl docente encuentra las siguientes tres imágenes de obras de arte. ¿Cuál de ellas es un collage?",
+          "opciones": [
+            "a",
+            "b",
+            "c"
+          ],
+          "respuesta": "b",
+          "respuestaCorta": "La imagen 'b' es un collage porque, de acuerdo a la definición, está compuesta por fragmentos de diversas imágenes unidas en una nueva composición.",
+          "solucionario": "De acuerdo con el texto, el collage consiste en unir y pegar diversas imágenes o fragmentos. La imagen 'a' (Warhol) es una serigrafía que repite la misma imagen. La imagen 'c' (Duchamp) es una intervención sobre una obra existente. La imagen 'b' es la única que muestra claramente la unión de múltiples fragmentos de imágenes distintas para crear una nueva, cumpliendo así con la definición de collage.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Luego de investigar y desarrollar el concepto junto con los estudiantes, el docente les propone realizar un collage, y ellos aceptan entusiasmados. ¿Cuál de las siguientes es la estrategia más pertinente para llevar a cabo este trabajo en el aula?",
+          "opciones": [
+            "Luego de que los estudiantes identifican posibles temas relevantes para ellos, solicitarles que traigan al aula revistas, periódicos, encartes y otros materiales impresos; luego, proponerles que seleccionen imágenes interesantes, que las recorten y peguen en una cartulina haciendo una composición propia que transmita un mensaje sobre el tema escogido por cada uno.",
+            "Sugerir a los estudiantes que lleven a clase diversas piezas de papel o cartulina de distintos colores, y proponerles cortarlas en cuadrados pequeños, de aproximadamente un centímetro de lado; luego, proponerles que dibujen sobre una cartulina una figura sencilla y que peguen sobre ella los pedazos de papel hasta cubrir todo el dibujo, tomando en cuenta los colores en su composición.",
+            "Proponer a los estudiantes que conformen grupos y que cada integrante realice un dibujo libre que lo represente; luego, pedirles a los miembros del grupo que, entre todos, peguen todos los dibujos del grupo en un papelógrafo de una manera novedosa para mostrar las principales características de todos los integrantes en un solo trabajo."
+          ],
+          "respuesta": "Luego de que los estudiantes identifican posibles temas relevantes para ellos, solicitarles que traigan al aula revistas, periódicos, encartes y otros materiales impresos; luego, proponerles que seleccionen imágenes interesantes, que las recorten y peguen en una cartulina haciendo una composición propia que transmita un mensaje sobre el tema escogido por cada uno.",
+          "respuestaCorta": "Esta estrategia es la más pertinente porque sigue la esencia de la técnica del collage: seleccionar, recortar y recomponer imágenes preexistentes de diversas fuentes para crear un nuevo significado.",
+          "solucionario": "La opción 'a' describe el proceso fundamental del collage: apropiarse de imágenes existentes (de revistas, periódicos), descontextualizarlas al recortarlas y recontextualizarlas en una nueva composición para transmitir un mensaje propio. La opción 'b' describe una técnica más cercana al mosaico, y la opción 'c' se refiere a la creación de un mural colectivo a partir de dibujos individuales, no a un collage.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Desde una perspectiva pedagógica, ¿cuál de las siguientes afirmaciones describe la principal ventaja de realizar collages con los estudiantes?",
+          "opciones": [
+            "Permite reutilizar materiales en desuso disponibles en el aula, lo que, además de ser económico y de fácil acceso, desarrolla la conciencia ambiental de los estudiantes al contribuir con el cuidado del planeta.",
+            "Permite crear imágenes muy novedosas que son apreciadas por el público en general, lo que les brinda a los estudiantes la posibilidad de desarrollar sus proyectos artísticos generando sus propios ingresos.",
+            "Permite explorar las relaciones entre las imágenes dándoles un nuevo significado y desarrollar nociones de composición de manera amena con materiales económicos y fácilmente accesibles."
+          ],
+          "respuesta": "Permite explorar las relaciones entre las imágenes dándoles un nuevo significado y desarrollar nociones de composición de manera amena con materiales económicos y fácilmente accesibles.",
+          "respuestaCorta": "La principal ventaja pedagógica del collage es que fomenta la creatividad y el pensamiento crítico al permitir resignificar imágenes y explorar la composición de forma accesible.",
+          "solucionario": "La ventaja pedagógica central del collage es su capacidad para que los estudiantes exploren conceptos complejos como la composición, el significado y la narrativa visual de una manera lúdica y con materiales de bajo costo. Les permite manipular imágenes existentes para crear nuevos mensajes, desarrollando así su pensamiento crítico y su creatividad. Aunque puede usar material reciclado (opción a), esa es una ventaja secundaria, y la generación de ingresos (opción b) no es el objetivo pedagógico principal.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p06",
+      "contexto": "En el distrito de Sarhua, en el departamento de Ayacucho, existe la costumbre de que, cada vez que se construye una casa, se le entrega a la familia un trabajo artístico pictórico plasmado en una tabla.\nEsta se coloca al lado derecho del techo a dos aguas, al costado de la viga.\nEn las tablas de Sarhua pueden apreciarse ilustraciones de todos los miembros de la familia, quienes son representados realizando sus labores diarias.\nLa tabla está dividida en cuadros y se lee de abajo hacia arriba. En la base, figura una dedicatoria;\nen el cuadro superior, suele verse la representación de una figura religiosa;\ny, en los cuadros siguientes, en orden de importancia, los miembros de la familia dueña de casa.\nFinalmente, en el último cuadro, suele figurar el Sol, que es una importante deidad andina.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Al inicio de la actividad, el docente presenta a los estudiantes las fotografías de las tablas de Sarhua y los invita a observarlas.\nLuego de que todos han observado las fotografías, el docente pide a los estudiantes que identifiquen las características comunes que tienen las diversas tablas de Sarhua presentadas, y las va anotando en la pizarra.\nLuego, por medio de preguntas, promueve que los estudiantes analicen los elementos que han mencionado, poniendo énfasis en la forma en que las figuras se distribuyen en las imágenes.\n¿Qué capacidad de la competencia \"Aprecia de manera crítica manifestaciones artístico-culturales\" están desarrollando principalmente los estudiantes por medio de esta actividad?",
+          "opciones": [
+            "Percibe manifestaciones artístico-culturales.",
+            "Contextualiza las manifestaciones artístico-culturales.",
+            "Reflexiona creativa y críticamente."
+          ],
+          "respuesta": "Percibe manifestaciones artístico-culturales.",
+          "respuestaCorta": "La actividad se centra en observar, identificar y describir las características y elementos visuales de las obras, lo cual corresponde directamente a la capacidad de percepción.",
+          "solucionario": "La capacidad 'Percibe manifestaciones artístico-culturales' implica el uso de los sentidos para observar, identificar, describir y analizar los elementos formales de una obra, como el color, la forma, la composición, etc. La actividad descrita, donde los estudiantes identifican características comunes y analizan la distribución de las figuras, es un ejercicio puro de percepción y análisis formal, previo a la contextualización o la reflexión crítica.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Cuál de las siguientes actividades es más pertinente que realice el docente para que los estudiantes analicen la iconografía de las tablas de Sarhua y su organización?",
+          "opciones": [
+            "Realizar un recorrido visual a lo largo de las imágenes estableciendo relaciones entre ellas.",
+            "Analizar el equilibrio de la composición poniendo énfasis en la simetría de las imágenes.",
+            "Observar y describir las características de los personajes, los colores y los diseños más utilizados."
+          ],
+          "respuesta": "Realizar un recorrido visual a lo largo de las imágenes estableciendo relaciones entre ellas.",
+          "respuestaCorta": "Dado que las tablas de Sarhua tienen una estructura narrativa que se lee de abajo hacia arriba, un recorrido visual es la forma más adecuada de analizar cómo se organizan sus imágenes y se construye el relato.",
+          "solucionario": "Las tablas de Sarhua tienen una estructura narrativa secuencial. Por lo tanto, un 'recorrido visual' es la estrategia más pertinente porque guía a los estudiantes a seguir esa secuencia (de abajo hacia arriba) y a establecer relaciones entre las distintas escenas o cuadros para comprender el relato completo y la organización de la iconografía. Las otras opciones son análisis más parciales que no consideran la naturaleza narrativa de la obra.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "El docente solicita a los estudiantes que, organizados en grupos, identifiquen las actividades representadas en cada una de las tablas y hagan un listado.\nLuego, les pide que describan cómo es el día a día de cada familia retratada, quiénes son sus miembros y qué tareas realizan diariamente.\nFinalmente, en plenaria, los estudiantes conversan sobre cómo las tablas los ayudaron a conocer algunos aspectos de la vida de las familias y sus comunidades, sobre qué otras fuentes de información podrían consultar para profundizar sus conocimientos, y en qué se diferencian esas fuentes de las manifestaciones artístico-culturales de una comunidad.\n¿Cuál es el propósito principal de la actividad descrita?",
+          "opciones": [
+            "Favorecer que los estudiantes comprendan el valor de las tablas de Sarhua como una forma de arte testimonial.",
+            "Promover que los estudiantes adquieran conocimientos relacionados con las actividades de una comunidad.",
+            "Desarrollar las habilidades de los estudiantes para inferir información a partir de una obra pictórica."
+          ],
+          "respuesta": "Favorecer que los estudiantes comprendan el valor de las tablas de Sarhua como una forma de arte testimonial.",
+          "respuestaCorta": "El propósito es que los estudiantes reconozcan que estas obras de arte no son solo decorativas, sino que funcionan como documentos que testifican y registran la vida, costumbres y estructura social de una comunidad.",
+          "solucionario": "La actividad guía a los estudiantes a extraer información sobre la vida cotidiana de las familias para luego reflexionar sobre cómo el arte sirve como fuente de conocimiento histórico y cultural. Al compararlas con otras fuentes, se resalta su valor único como 'arte testimonial'. Si bien se adquieren conocimientos (opción b) y se usan habilidades de inferencia (opción c), el propósito principal es la comprensión del rol social y documental de esta manifestación artística.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "La familia Evanan, destacados artistas sarhuinos, han confeccionado tablas que relatan su experiencia durante la pandemia de COVID-19.\nLas tablas no se ajustan a la práctica tradicional sarhuina, pues no han sido confeccionadas para una nueva casa o familia, sino que obedecen a un fin artístico y documental.\nEl docente muestra a los estudiantes fotografías de las tablas de la familia Evanan y les muestra diversas noticias y reportajes sobre su actividad artística durante la pandemia de COVID-19.\n¿Cuál es el propósito principal de mostrar a los estudiantes el trabajo de la familia Evanan?",
+          "opciones": [
+            "Que comprendan que las tablas de Sarhua son una manifestación artístico-cultural viva, que representa las experiencias y los valores de una comunidad.",
+            "Que comprendan la importancia de que los artistas sean creativos e innovadores para adaptarse a los tiempos y mantenerse vigentes.",
+            "Que comprendan cómo la pandemia de COVID-19 afectó social y económicamente a las comunidades y, particularmente, a sus artistas."
+          ],
+          "respuesta": "Que comprendan que las tablas de Sarhua son una manifestación artístico-cultural viva, que representa las experiencias y los valores de una comunidad.",
+          "respuestaCorta": "Al mostrar cómo una tradición se adapta para representar un evento contemporáneo como la pandemia, se demuestra que la cultura no es estática, sino una manifestación viva y en constante evolución.",
+          "solucionario": "El ejemplo de la familia Evanan ilustra perfectamente que una manifestación cultural tradicional puede adaptarse para narrar nuevas realidades y seguir siendo relevante. Esto demuestra que la cultura es dinámica, un ente 'vivo' que evoluciona con la comunidad. No se trata solo de la innovación del artista (opción b), sino de la capacidad de la tradición misma para acoger nuevas experiencias y significados.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "El docente propone a los estudiantes realizar un proyecto artístico inspirado en las tablas de Sarhua en el que representen algún evento o aspecto que consideren significativo o representativo de su comunidad.\nLos estudiantes tienen libertad para diseñar su proyecto, utilizando los medios y materiales que prefieran para expresar el mensaje que desean transmitir.\n¿Qué capacidad de la competencia \"Crea proyectos desde los lenguajes artísticos\" desarrollan principalmente los estudiantes cuando diseñan su proyecto artístico?",
+          "opciones": [
+            "Explora y experimenta los lenguajes del arte.",
+            "Aplica procesos creativos.",
+            "Evalúa y socializa sus procesos y proyectos."
+          ],
+          "respuesta": "Aplica procesos creativos.",
+          "respuestaCorta": "El diseño del proyecto —que implica planificar el mensaje, los medios y los materiales— es la fase central donde los estudiantes aplican los procesos de creación artística.",
+          "solucionario": "La capacidad 'Aplica procesos creativos' se refiere al conjunto de acciones que van desde la planificación hasta la ejecución de un proyecto artístico. Cuando los estudiantes diseñan su proyecto (definen el tema, el mensaje, los materiales, la técnica), están poniendo en práctica sus ideas y organizando las etapas de su creación. 'Explora y experimenta' es una fase previa de investigación, y 'Evalúa y socializa' es una fase posterior de reflexión y comunicación.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "El docente ha acompañado el desarrollo de los proyectos artísticos de los estudiantes y los ha evaluado de manera permanente, brindando retroalimentación durante todo el proceso.\nAl finalizar sus proyectos artísticos, el docente propone a los estudiantes realizar una presentación de sus proyectos.\nEn ella, deben mostrar sus trabajos a sus compañeros, analizar su estructura y su mensaje, y describir cómo fue el proceso de realizar el proyecto; qué eventos o aspectos significativos de la comunidad están representando y por qué; cómo definieron el mensaje, los medios y materiales; qué dificultades tuvieron y qué aprendizajes lograron durante la ejecución del proyecto artístico realizado.\nLos estudiantes presentan sus proyectos artísticos y el docente promueve la autoevaluación de los estudiantes y el intercambio de ideas entre compañeros.\nAl evaluar la presentación de los estudiantes, ¿en cuál de los siguientes aspectos debe poner énfasis el docente?",
+          "opciones": [
+            "En la identificación por parte del estudiante de aquellos eventos o aspectos que son significativos o representativos de su comunidad.",
+            "En la reflexión del estudiante sobre las decisiones tomadas durante el proceso y su relación con el propósito y mensaje de la obra.",
+            "En el dominio de la técnica artística logrado por el estudiante, tomando en cuenta sus habilidades al inicio del proyecto."
+          ],
+          "respuesta": "En la reflexión del estudiante sobre las decisiones tomadas durante el proceso y su relación con el propósito y mensaje de la obra.",
+          "respuestaCorta": "La evaluación debe centrarse en la capacidad del estudiante para reflexionar y justificar sus decisiones creativas (metacognición), conectando su proceso con el resultado y el mensaje final de su obra.",
+          "solucionario": "El aspecto central de esta evaluación es la reflexión metacognitiva del estudiante sobre su propio proceso creativo. La presentación está diseñada para que el estudiante explique el *porqué* de sus decisiones (elección del tema, materiales, composición) y cómo estas se relacionan con su intención comunicativa. Este análisis del proceso es más significativo pedagógicamente que solo el tema elegido (opción a) o el dominio técnico final (opción c).",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p12",
+      "contexto": "Una docente sabe que los estudiantes disfrutan mucho de ver películas.\nLa docente desea aprovechar este interés para promover que los estudiantes profundicen su visión de la música en el cine tomando en cuenta el enfoque multicultural e interdisciplinario.\nPara enriquecer la perspectiva de los estudiantes, la docente planifica una experiencia de aprendizaje en el Aula de Innovación Pedagógica, en la que los estudiantes apreciarán cómo artistas de diferentes culturas manifiestan su identidad a través de la música en diversas producciones cinematográficas.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Para iniciar la experiencia, la docente muestra una escena de la película Tiempo de gitanos, del cineasta serbio Emir Kusturica.\nLa escena es primero reproducida sin sonido. En ella se ve un joven de una comunidad rural gitana de los Balcanes que tiene un sueño en el que ve a su futura esposa, y escenas de su matrimonio.\nLa docente pide a los estudiantes que describan lo que ven en la escena.\nLuego, la docente pide a los estudiantes que imaginen cómo podría ser la música de una escena así, mientras apunta las ideas principales en la pizarra.\nLos estudiantes proponen una serie de características convencionales de la música amorosa en el cine hollywoodense: la presencia de violines para tocar melodías de corte romántico, el uso de una orquesta sinfónica, etc. Después, la docente reproduce la escena nuevamente, ahora con sonido.\nLa escena presenta una canción de la cultura gitana de los Balcanes, exótica y expresiva, llamada Ederlezi, acompañada por instrumentos propios del folklore serbio.\nLos estudiantes se muestran sorprendidos, pues la música de la escena es muy diferente de la que ellos habían imaginado.\n¿Qué proceso pedagógico promueve principalmente la docente cuando muestra la música de la escena a los estudiantes?",
+          "opciones": [
+            "Conflicto cognitivo.",
+            "Transferencia de la información.",
+            "Recuperación de saberes previos."
+          ],
+          "respuesta": "Conflicto cognitivo.",
+          "respuestaCorta": "Se genera un conflicto cognitivo al presentar una realidad (la música gitana) que choca y contradice las expectativas y saberes previos de los estudiantes (música romántica convencional de Hollywood).",
+          "solucionario": "El conflicto cognitivo ocurre cuando la nueva información desafía las estructuras mentales o conocimientos previos de un estudiante. En este caso, los estudiantes activaron sus saberes previos e imaginaron un tipo de música basado en estereotipos del cine comercial. Al presentarles la música real, que es muy diferente, la docente genera una disonancia que los obliga a cuestionar sus ideas preconcebidas y los motiva a aprender sobre la diversidad musical y cultural.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+
+ 
+    {
+      "idGrupo": "asc_secundaria_2023_p12",
+      "contexto": "Una docente sabe que los estudiantes disfrutan mucho de ver películas.\nLa docente desea aprovechar este interés para promover que los estudiantes profundicen su visión de la música en el cine tomando en cuenta el enfoque multicultural e interdisciplinario.\nPara enriquecer la perspectiva de los estudiantes, la docente planifica una experiencia de aprendizaje en el Aula de Innovación Pedagógica, en la que los estudiantes apreciarán cómo artistas de diferentes culturas manifiestan su identidad a través de la música en diversas producciones cinematográficas.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "La docente promueve un diálogo sobre las distintas maneras de representar musicalmente las emociones.\nLuego, entrega a los estudiantes una traducción de la letra de Ederlezi para analizarla.\nLos estudiantes identifican en la letra, con ayuda de la docente, metáforas relacionadas con la primavera y su relación con el sueño del joven y su futura esposa, y la docente explica cómo la letra de la canción representa la llegada de la primavera en la cultura gitana de los Balcanes.\nDespués, los estudiantes vuelven a ver la escena con sonido, y relacionan elementos de la letra con las imágenes y la música, y con la información brindada por la docente.\nDurante el diálogo, Juan, uno de los estudiantes, interviene: \"Cuando escuché por primera vez la canción, me quedé un poco desconcertado, pero luego, cuando analizamos la letra, entendí la procedencia de la canción y cómo representa la llegada de la primavera: entendí su lado romántico. Sinceramente, al principio no me gustó la canción, pero al final me ha llegado a gustar mucho\".\nEl comentario de Juan evidencia un proceso metacognitivo. ¿Por qué?",
+          "opciones": [
+            "Porque se muestra motivado por los aprendizajes que logró en la actividad.",
+            "Porque reflexiona sobre las emociones e ideas que experimentó durante la actividad.",
+            "Porque logra comprender el mensaje de la canción a partir del contexto en que fue creada."
+          ],
+          "respuesta": "Porque reflexiona sobre las emociones e ideas que experimentó durante la actividad.",
+          "respuestaCorta": "La metacognición implica reflexionar sobre el propio proceso de pensamiento y aprendizaje, incluyendo las emociones y cambios de perspectiva, como lo hace Juan.",
+          "solucionario": "Juan está realizando un acto metacognitivo porque no solo expresa el resultado de su aprendizaje, sino que describe el proceso que siguió: su desconcierto inicial, el análisis que le permitió comprender, y el cambio en su percepción y gusto. Está pensando sobre cómo pensó y sintió durante la actividad, lo cual es la esencia de la metacognición.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "La docente les dice a los estudiantes que les mostrará otro ejemplo de escena de película, pero que, primero, reproducirá solamente la música de la escena, y los estudiantes deberán identificar a qué cultura pertenece.\nA continuación, la docente reproduce la música de una película china y varios estudiantes, familiarizados por la presencia de la música china en el cine y la televisión, reconocen el origen de la música inmediatamente.\n¿Qué proceso pedagógico se evidencia cuando los estudiantes, familiarizados por la presencia de la música china en el cine y la televisión, reconocen el lugar de origen de la música?",
+          "opciones": [
+            "Metacognición.",
+            "Conflicto cognitivo.",
+            "Recuperación de saberes previos."
+          ],
+          "respuesta": "Recuperación de saberes previos.",
+          "respuestaCorta": "Al reconocer la música china basándose en su experiencia previa con el cine y la televisión, los estudiantes están activando y utilizando sus conocimientos anteriores.",
+          "solucionario": "El reconocimiento inmediato de la música china por parte de los estudiantes se basa en sus experiencias y conocimientos acumulados a través de medios como el cine y la televisión. Este acto de traer a la mente información ya almacenada para aplicarla a una nueva situación es exactamente el proceso de recuperación de saberes previos.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Luego, la docente les pregunta cómo hicieron para reconocer la cultura de origen de la música de la película china.\nAlgunos estudiantes comentan que se guiaron por las melodías o que les ayudó el sonido particular de los instrumentos.\nEntonces, la docente muestra a los estudiantes fotografías del erhu, que es un instrumento similar a un violín, pero con solo dos cuerdas, y que suele usarse en la música folklórica china.\nLuego, la docente reproduce un video donde se toca una melodía en el erhu y los estudiantes reconocen sus características sonoras.\nLa docente explica que parte del sonido característico del ehru es la ejecución de glissandos, que se producen en el ehru cuando el músico desliza la mano a lo largo del diapasón.\nEntonces la docente canta una breve melodía ejecutando glissandos con la voz, y pide a los estudiantes que repitan lo que ha cantado, y que luego describan qué es lo que sucede con la voz cuando se canta un glissando.\nCuando la docente solicita a los estudiantes que canten los glissandos y describan lo que sucede al cantarlos, ¿qué capacidad están promoviendo principalmente?",
+          "opciones": [
+            "Reflexiona creativa y críticamente.",
+            "Percibe manifestaciones artístico-culturales.",
+            "Contextualiza manifestaciones artístico-culturales."
+          ],
+          "respuesta": "Percibe manifestaciones artístico-culturales.",
+          "respuestaCorta": "La actividad se centra en la escucha atenta y la experimentación vocal para identificar y describir una característica sonora específica (el glissando), lo que corresponde a la capacidad de percepción.",
+          "solucionario": "La capacidad de 'Percibir manifestaciones artístico-culturales' se desarrolla al agudizar los sentidos para identificar y analizar los elementos que componen una expresión artística. Al pedir a los estudiantes que escuchen, reproduzcan con su cuerpo (la voz) y describan una cualidad sonora específica como el glissando, la docente está enfocando la actividad en la percepción sensorial y el análisis de un elemento musical concreto.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "La docente reproduce un fragmento de la música de la película Héroe, del director chino Zhang Yimou.\nEl fragmento es tocado por una orquesta sinfónica, y los violines tocan una melodía china donde se ejecutan muchos glissandos, imitiando el sonido del erhu.\nDespués de que los estudiantes escuchan el fragmento, la docente reproduce ejemplos de música tocada con el erhu, y luego vuelve a reproducir la música de Héroe para que los estudiantes aprecien la similitud entre lo que toca el violín y la música tradicional china.\nTomando en cuenta el propósito de la experiencia de aprendizaje, ¿cuál de las siguientes preguntas es más relevante plantear a los estudiantes?",
+          "opciones": [
+            "\"¿Qué característica común del violín y el erhu permite que ambos instrumentos produzcan glissandos?\".",
+            "\"¿Qué creen que quiere expresar el compositor de esta música cuando pide a los violines imitar al erhu?\".",
+            "\"¿Qué ventajas ofrece un instrumento como el violín en comparación con un instrumento como el erhu?\"."
+          ],
+          "respuesta": "\"¿Qué creen que quiere expresar el compositor de esta música cuando pide a los violines imitar al erhu?\".",
+          "respuestaCorta": "Esta pregunta promueve la reflexión sobre la intención del compositor al fusionar elementos culturales, lo cual se alinea con el propósito de entender cómo la música expresa identidad.",
+          "solucionario": "El propósito de la sesión es apreciar cómo se manifiesta la identidad cultural a través de la música en el cine. La pregunta 'b' orienta a los estudiantes a reflexionar sobre la intención comunicativa y cultural detrás de una elección artística (imitar un instrumento tradicional con una orquesta occidental). Esto los lleva a analizar cómo se construye un significado cultural a través de la música, que es el objetivo central de la actividad.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "La docente ha escogido un fragmento de la música de la película peruana Kukulí, dirigida por Luis Figueroa, para mostrar un ejemplo en el que se han usado expresiones musicales peruanas.\nArmando Guevara Ochoa es el autor de la música de Kukulí, escrita para orquesta sinfónica tomando como base los ritmos y melodías de diversas expresiones musicales del folklore andino peruano.\nAntes de reproducir el fragmento de la música de Kukulí a los estudiantes, la docente ha planificado realizar una actividad que facilite a los estudiantes percibir los ritmos y melodías del folklore peruano presentes en la composición.\n¿Cuál de las siguientes acciones es más pertinente?",
+          "opciones": [
+            "Mostrar a los estudiantes fotos de instrumentos musicales folklóricos andinos.",
+            "Escuchar con los estudiantes ejemplos de música andina escrita para orquestas sinfónicas.",
+            "Oír con los estudiantes una breve selección de música de danzas folklóricas andinas del Perú."
+          ],
+          "respuesta": "Oír con los estudiantes una breve selección de música de danzas folklóricas andinas del Perú.",
+          "respuestaCorta": "Para que los estudiantes reconozcan los ritmos y melodías folklóricas dentro de una obra sinfónica, lo más efectivo es familiarizarlos primero con la música folklórica en su formato original.",
+          "solucionario": "La acción más pertinente es la 'c' porque expone a los estudiantes directamente a la fuente original de los ritmos y melodías que luego escucharán en la versión sinfónica. Esto crea un anclaje auditivo que les permitirá percibir y reconocer cómo esos elementos folklóricos fueron adaptados y orquestados en la música de la película, facilitando así el análisis.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "La docente reproduce la música de Kukulí para los estudiantes.\nUno de los estudiantes pregunta: \"Profesora, en Tiempo de gitanos vimos que se usa música de un conjunto folklórico, pero en Héroe y en Kukulí se ha usado una orquesta sinfónica que imita algunas cosas de la música popular. ¿No habría sido mejor que en Tiempo de gitanos también usen música de orquesta sinfónica? ¿No le parece que en las películas siempre es mejor usar música de orquesta, porque eso se hace en la mayoría de producciones?\".\nDespués de agradecer el aporte, ¿cuál de los siguientes grupos de preguntas es más apropiado para dar retroalimentación al estudiante?",
+          "opciones": [
+            "¿Qué será más costoso, utilizar una grabación de música popular o grabar a una orquesta sinfónica? ¿Cuál puede ser el motivo para la diferencia de costo? ¿Qué pueden hacer los cineastas con poco presupuesto para que la música de su película sea de buena calidad y de bajo costo?",
+            "¿Es necesario que todas las películas usen el mismo tipo de música? ¿Qué películas conoces, o escenas de películas, donde no se usa música de orquesta, sino música rock o alguna otra? ¿Qué motivo pudo haber tenido el director de Tiempo de gitanos para usar música de un conjunto folklórico?",
+            "¿Qué tipo de música se escuchará con mayor frecuencia en una comunidad rural? ¿Qué tipo de conjunto musical es más posible encontrar en una comunidad así? ¿Qué tipo de música puede ser entonces el más adecuado para representar la vida en una comunidad rural como la que se ve en Tiempo de gitanos?"
+          ],
+          "respuesta": "¿Es necesario que todas las películas usen el mismo tipo de música? ¿Qué películas conoces, o escenas de películas, donde no se usa música de orquesta, sino música rock o alguna otra? ¿Qué motivo pudo haber tenido el director de Tiempo de gitanos para usar música de un conjunto folklórico?",
+          "respuestaCorta": "Este grupo de preguntas cuestiona la generalización del estudiante y lo guía a reflexionar sobre la intención artística y la diversidad de opciones musicales en el cine, promoviendo un pensamiento crítico.",
+          "solucionario": "La retroalimentación efectiva aquí debe desafiar la premisa del estudiante de que 'la música de orquesta siempre es mejor'. El grupo de preguntas 'b' logra esto al invitarlo a considerar la diversidad de géneros musicales en el cine y a inferir la posible intención del director al elegir una música específica (en este caso, folklórica), conectando la elección musical con el propósito narrativo y cultural de la película.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Los estudiantes han tenido la oportunidad de escuchar la música y apreciar escenas de todas las películas mencionadas. Los estudiantes comparan cómo ha sido usada en cada una de las escenas, y encuentran diferencias y similitudes entre cada caso. La docente pregunta: \"¿Qué habría pasado si pusiéramos, por ejemplo, la música china en la película gitana, o viceversa? ¿A qué país o grupo humano está relacionado cada uno de los directores de las películas?\". A partir de estas preguntas, los estudiantes reflexionan sobre cuál puede ser la motivación de cada director para poner en su película música de su propio pueblo.\nTomando en cuenta los fines de la experiencia de aprendizaje, ¿cuál es el propósito principal de las acciones de la docente?",
+          "opciones": [
+            "Que los estudiantes comprendan la necesidad de que los directores utilicen en sus películas música originaria para representar su origen cultural.",
+            "Que los estudiantes descubran la utilidad de utilizar música de diversas procedencias culturales para enriquecer las escenas de una película.",
+            "Que los estudiantes reflexionen sobre el valor del uso de la música en el cine para expresar la identidad cultural de un pueblo."
+          ],
+          "respuesta": "Que los estudiantes reflexionen sobre el valor del uso de la música en el cine para expresar la identidad cultural de un pueblo.",
+          "respuestaCorta": "Las preguntas de la docente guían a los estudiantes a concluir que la elección musical en el cine a menudo sirve para afirmar y comunicar la identidad cultural de un pueblo o comunidad.",
+          "solucionario": "El propósito central de la experiencia de aprendizaje es que los estudiantes aprecien cómo se manifiesta la identidad cultural a través de la música. Las acciones de la docente, especialmente las preguntas finales, están diseñadas para que los estudiantes sinteticen lo aprendido y lleguen a la conclusión de que la música es una herramienta poderosa en el cine para expresar y valorar la identidad de un pueblo, conectando la obra con sus raíces culturales.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "La docente propone a los estudiantes que se organicen en grupos y desarrollen la banda sonora de un día cualquiera en el colegio, como si fuera una película. Para ello, deberán confeccionar un video en el que representen las actividades de un estudiante de la comunidad educativa durante una jornada escolar, y a cada suceso importante de la jornada debe corresponder una pieza musical escogida por el grupo. Cada pieza deberá representar aspectos característicos de la cultura de la comunidad, como sus valores, sus anhelos y los logros y desafíos que enfrentan cada día en su vida.\n¿Qué capacidad desarrollan principalmente los estudiantes cuando planifican la realización del video?",
+          "opciones": [
+            "Explora y experimenta los lenguajes del arte.",
+            "Aplica procesos artísticos.",
+            "Evalúa y socializa sus procesos y proyectos."
+          ],
+          "respuesta": "Aplica procesos artísticos.",
+          "respuestaCorta": "La planificación de un proyecto artístico, que incluye la conceptualización de la idea, la selección de música y la estructuración del video, corresponde a la aplicación de procesos creativos.",
+          "solucionario": "La capacidad 'Aplica procesos artísticos' (en algunas versiones del currículo, 'Aplica procesos creativos') se refiere al momento en que los estudiantes planifican y ejecutan su proyecto. En esta etapa, toman decisiones sobre cómo materializar sus ideas, seleccionan sus medios (música, video) y organizan los elementos para comunicar un mensaje. Es el paso de la concepción a la realización.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p21",
+      "contexto": "En una IE de la capital en la que hay muchos estudiantes que son hijos o nietos de migrantes, la docente de Arte ha invitado a la IE a una diseñadora de ropa para que muestre su trabajo.\nEsta diseñadora aplica el arte popular de los shipibo-konibo en sus diseños, creando atuendos que simbolizan la herencia de sus antepasados.\nLa diseñadora les explica a los estudiantes en qué consiste su trabajo y les muestra fotos de sus diseños mientras les habla sobre su fascinación por las culturas originarias y sus saberes ancestrales.\nLos estudiantes se muestran muy interesados y por eso el docente les propone diseñar cada uno un traje que refleje su identidad, tomando en cuenta sus necesidades al vestirse, el tipo de ropa que más les gusta usar y los elementos que creen que los definen, como sus características personales y sus orígenes culturales.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "La docente desea que, antes de hacer los diseños de sus trajes, los estudiantes hagan una investigación previa que les permita recoger insumos para representar sus propias identidades en los diseños que crearán.\n¿Cuál de las siguientes actividades es la más apropiada para conseguir dicho propósito?",
+          "opciones": [
+            "Pedir a los estudiantes que hagan un portafolio gráfico donde guarden imágenes que respondan a preguntas como \"¿De qué lugar procede mi familia? ¿Con cuáles de sus costumbres y creencias me identifico y por qué? ¿Qué costumbres y creencias me identifican a mí como individuo?\".",
+            "Solicitar a los estudiantes que identifiquen la comunidad de origen de sus antepasados y busquen en la biblioteca municipal o en internet imágenes y fotografías de lugares o personajes históricos que representen a dicha comunidad.",
+            "Sugerir que confeccionen un árbol genealógico de sus antepasados que se remonte a por lo menos cinco generaciones, e identifiquen qué culturas originarias del Perú se relacionan con sus antepasados, y luego que hagan una investigación sobre el patrimonio iconográfico de esas culturas."
+          ],
+          "respuesta": "Pedir a los estudiantes que hagan un portafolio gráfico donde guarden imágenes que respondan a preguntas como \"¿De qué lugar procede mi familia? ¿Con cuáles de sus costumbres y creencias me identifico y por qué? ¿Qué costumbres y creencias me identifican a mí como individuo?\".",
+          "respuestaCorta": "Esta actividad es la más apropiada porque se centra en la reflexión personal y la construcción de la identidad del propio estudiante, combinando la herencia familiar con la individualidad, lo cual es el insumo directo para el diseño.",
+          "solucionario": "La opción 'a' es la más adecuada porque enfoca la investigación en la identidad personal y subjetiva del estudiante. Las preguntas propuestas guían una auto-reflexión sobre cómo la herencia cultural se integra con la identidad individual, lo cual es el propósito del proyecto. Las otras opciones son más históricas o genealógicas, pero no se centran en la apropiación personal que se necesita para el diseño.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Antes de comenzar a realizar los bosquejos de sus diseños, la docente abre una bolsa llena de retazos de telas, hilos y lanas de diferentes materiales, texturas y colores, y les propone a los estudiantes realizar una exploración sensorial de los materiales: los invita a despertar sus sentidos tocándolos con sus manos, pasándolos por su cara para sentir su textura, su olor y temperatura, manipulándolos libremente de diversas maneras hasta que logren descubrir sus propiedades y las sensaciones que les producen y que puedan representar su identidad.\nLos estudiantes comienzan a manipular los materiales mientras comentan entre ellos de manera informal sus gustos y preferencias.\n¿Cuál es el propósito principal de realizar esta actividad antes de diseñar el traje?",
+          "opciones": [
+            "Descubrir las posibilidades creativas que les brindan los materiales tomando conciencia de las impresiones que estos evocan en ellos para generar ideas para el desarrollo de sus diseños.",
+            "Promover un ambiente distendido y de confianza que favorezca que los estudiantes reflexionen sobre aquello que los define y compartan sus impresiones sobre los materiales sin miedo a ser juzgados.",
+            "Identificar los materiales más adecuados para el diseño que han imaginado, de manera que puedan confeccionar su traje tomando en cuenta las características específicas de los materiales con los que cuentan."
+          ],
+          "respuesta": "Descubrir las posibilidades creativas que les brindan los materiales tomando conciencia de las impresiones que estos evocan en ellos para generar ideas para el desarrollo de sus diseños.",
+          "respuestaCorta": "El propósito es que la exploración sensorial de los materiales sirva como fuente de inspiración, permitiendo que las texturas, colores y sensaciones generen ideas creativas para el diseño.",
+          "solucionario": "Esta actividad se enmarca en la capacidad 'Explora y experimenta los lenguajes del arte'. El propósito principal es que los estudiantes, a través de la interacción sensorial con los materiales, no solo conozcan sus propiedades físicas, sino que también descubran las sensaciones, emociones e ideas que estos les evocan. Esta exploración es una fuente directa de inspiración para la etapa de diseño, conectando el material con el concepto de identidad que se quiere expresar.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Luego de explorar los materiales, los estudiantes van a comenzar a diseñar sus trajes por medio de un dibujo.\n¿Cuál de los siguientes grupos de preguntas los orientaría mejor para comenzar sus diseños?",
+          "opciones": [
+            "¿Qué importancia tiene para tu vida tu herencia cultural? ¿Qué sentido tiene para ti representarla en tus creaciones artísticas? ¿Cómo vas a integrar las tradiciones de tus antepasados y tu propia experiencia para representar tu identidad?",
+            "¿Qué ideas se te ocurrieron cuando exploraste los materiales? ¿Alguno de ellos llamó más tu atención? ¿Qué tipo de prenda te gustaría diseñar? ¿Cómo vas a representar tu procedencia, tus vivencias y tus inquietudes en esa prenda?",
+            "¿Qué descubriste al conocer el trabajo de la diseñadora que invitamos al aula? ¿En qué sentido te fueron útiles sus experiencias para activar tu imaginación? ¿Qué vas a hacer con esa información?"
+          ],
+          "respuesta": "¿Qué ideas se te ocurrieron cuando exploraste los materiales? ¿Alguno de ellos llamó más tu atención? ¿Qué tipo de prenda te gustaría diseñar? ¿Cómo vas a representar tu procedencia, tus vivencias y tus inquietudes en esa prenda?",
+          "respuestaCorta": "Este grupo de preguntas es el más efectivo porque conecta directamente la experiencia sensorial previa (exploración de materiales) con la tarea de diseño, guiando al estudiante a traducir sus ideas e identidad en una prenda concreta.",
+          "solucionario": "La opción 'b' ofrece el mejor andamiaje para iniciar el diseño. Comienza por conectar con la actividad inmediata anterior (la exploración de materiales), luego avanza hacia la concreción de la idea (qué tipo de prenda) y finalmente enlaza todo con el propósito del proyecto (cómo representar tu identidad). Es una secuencia lógica que guía al estudiante desde la inspiración sensorial hasta la conceptualización del diseño.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p24",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes situaciones en una obra de teatro representa una \"ruptura de la cuarta pared\"?",
+          "opciones": [
+            "Dos náufragos abandonados en una isla desierta miran hacia el público. Uno de ellos dice \"¡No logro ver signos de vida!\".",
+            "Dos abogados se encuentran en una habitación. Súbitamente, uno saca una pistola y dispara al otro, que cae fulminado. El asesino baja del escenario y sale corriendo por el pasillo.",
+            "Un anciano entierra en el patio de su casa una caja llena de fotografías. Mira hacia el público y dice \"¡Si ven a mi nieto no le digan nada! ¡Es una sorpresa para cuando yo me vaya!\"."
+          ],
+          "respuesta": "Un anciano entierra en el patio de su casa una caja llena de fotografías. Mira hacia el público y dice \"¡Si ven a mi nieto no le digan nada! ¡Es una sorpresa para cuando yo me vaya!\".",
+          "respuestaCorta": "La ruptura de la cuarta pared ocurre cuando un personaje se dirige directamente al público, reconociendo su presencia y rompiendo la ilusión de que son meros observadores.",
+          "solucionario": "La 'cuarta pared' es la barrera invisible imaginaria que separa a los actores del público. En la opción 'c', el personaje se dirige explícitamente a la audiencia, tratándola como cómplice de su secreto. Este acto de mirar y hablar directamente al público rompe esa barrera y reconoce que lo que está sucediendo es una representación, lo cual es la definición exacta de 'romper la cuarta pared'.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+
+  
+    {
+      "idGrupo": "asc_secundaria_2023_p25",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes actividades es más adecuada para promover el desarrollo de la conciencia corporal en los estudiantes?",
+          "opciones": [
+            "Proponer a los estudiantes colocar una cuerda larga en el piso para que, al ritmo de una melodía, caminen sobre ella, poniendo un pie delante del otro sin dejar espacio entre ellos y evitando salirse de la línea trazada por la cuerda.",
+            "Indicar a los estudiantes que caminen por el espacio haciendo rebotar una pelota con las manos al pulso de una melodía y, cada cierto tiempo, indicar con una palmada que se detengan y dejen de rebotar la pelota hasta que el docente dé otra palmada.",
+            "Solicitar a los estudiantes que se recuesten sobre el piso con los ojos cerrados y que realicen respiraciones profundas mientras imaginan cómo el aire que inhalan recorre todo su cuerpo; luego, pedirles mover muy lentamente cada parte de su cuerpo."
+          ],
+          "respuesta": "Solicitar a los estudiantes que se recuesten sobre el piso con los ojos cerrados y que realicen respiraciones profundas mientras imaginan cómo el aire que inhalan recorre todo su cuerpo; luego, pedirles mover muy lentamente cada parte de su cuerpo.",
+          "respuestaCorta": "Esta actividad promueve la conciencia corporal al enfocar la atención del estudiante hacia sus propias sensaciones internas, su respiración y el movimiento aislado de cada parte del cuerpo.",
+          "solucionario": "La conciencia corporal es la capacidad de percibir y ser consciente del propio cuerpo, sus sensaciones, posturas y movimientos. La opción 'c' es la más adecuada porque es un ejercicio de introspección que dirige la atención hacia el interior, a través de la respiración y la propiocepción (sentir el movimiento de cada parte del cuerpo), a diferencia de las otras opciones que se centran en la coordinación y el equilibrio (a) o el ritmo y la atención a estímulos externos (b).",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p26",
+      
+      "imagen": "img/ascenso/secundaria/2023/arte/2.jpg",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes capacidades es la que menos se desarrolla con la dinámica descrita?",
+          "opción": [
+            "Atención y concentración.",
+            "Comunicación no verbal.",
+            "Memoria corporal."
+          ],
+          "respuesta": "Memoria corporal.",
+          "respuestaCorta": "La dinámica se basa en la imitación inmediata de movimientos propuestos por un líder, lo que exige atención y comunicación no verbal, pero no requiere memorizar secuencias de movimiento a largo plazo.",
+          "solucionario": "La dinámica del 'cardumen' se basa en la imitación en tiempo real. Esto exige una alta 'atención y concentración' para seguir al líder y una 'comunicación no verbal' efectiva para mantener la cohesión del grupo. La 'memoria corporal', que implica aprender y retener secuencias de movimiento para ejecutarlas posteriormente sin un modelo presente, es la capacidad que menos se ejercita, ya que el movimiento es inmediato y no necesita ser almacenado.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Qué tipo de capacidades están desarrollando principalmente los estudiantes con esta dinámica?",
+          "opciones": [
+            "Perceptivo-motrices.",
+            "Socio-motrices.",
+            "Físico-motrices."
+          ],
+          "respuesta": "Perceptivo-motrices.",
+          "respuestaCorta": "Se desarrollan principalmente las capacidades perceptivo-motrices, ya que la dinámica exige percibir los movimientos del líder (percepción visual) y coordinar el propio cuerpo para imitarlos (ejecución motriz).",
+          "solucionario": "Las capacidades perceptivo-motrices son aquellas que coordinan la información recibida por los sentidos con la respuesta motora del cuerpo. En esta dinámica, el estudiante debe percibir visualmente las acciones del líder y procesar esa información para luego ejecutar una respuesta motora coordinada y precisa. Aunque hay un componente social, el foco principal está en la percepción y la coordinación motriz individual para lograr el efecto grupal.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Terminada la dinámica, se produce una conversación entre el docente y los estudiantes.\nEl docente les plantea las siguientes preguntas: \"¿Cómo se sintieron al realizar la dinámica? ¿Les gustó realizarla? ¿Qué les gustó más? ¿Algo no les gustó? ¿Por qué? ¿Qué podríamos mejorar la siguiente vez que realicemos el ejercicio?\", y luego les pide que repitan la dinámica tomando en cuenta sus ideas.\n¿Qué proceso ha promovido el docente en los estudiantes con estas preguntas?",
+          "opciones": [
+            "Transferencia del aprendizaje.",
+            "Conflicto cognitivo.",
+            "Metacognición."
+          ],
+          "respuesta": "Metacognición.",
+          "respuestaCorta": "Las preguntas del docente incitan a los estudiantes a reflexionar sobre su propio proceso de aprendizaje, sus emociones y cómo pueden mejorar su desempeño, lo cual es un ejercicio metacognitivo.",
+          "solucionario": "La metacognición es el proceso de 'pensar sobre el propio pensamiento'. Al preguntarles cómo se sintieron, qué les gustó o no, por qué, y cómo podrían mejorar, el docente está guiando a los estudiantes a analizar su propia experiencia de aprendizaje, evaluar su desempeño y regular sus futuras acciones para optimizar el resultado. Esto va más allá de la simple ejecución de la tarea.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p29",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes alternativas presenta la definición de \"orquesta sinfónica\"?",
+          "opciones": [
+            "\"Es el conjunto de músicos que acompaña a los cantantes en obras musicales escénicas, como la ópera y la zarzuela\".",
+            "\"Es una formación de instrumentistas que se dedica a tocar exclusivamente piezas de música clásica, como sinfonías, conciertos y sonatas\".",
+            "\"Es un conjunto de músicos propio de la tradición de la música clásica occidental que ejecutan instrumentos de cuerda, de percusión y de viento\"."
+          ],
+          "respuesta": "\"Es un conjunto de músicos propio de la tradición de la música clásica occidental que ejecutan instrumentos de cuerda, de percusión y de viento\".",
+          "respuestaCorta": "La definición más precisa y completa de una orquesta sinfónica es la que la describe como un gran conjunto que integra las familias de instrumentos de cuerda, viento y percusión.",
+          "solucionario": "La opción 'c' ofrece la definición más técnica y abarcadora. Una orquesta sinfónica se caracteriza por la inclusión de las tres grandes familias de instrumentos (cuerda, viento y percusión). Las otras opciones son incorrectas porque una orquesta puede tocar en una ópera (a) pero no es su única función, y aunque tocan música clásica (b), también pueden interpretar bandas sonoras de películas, música contemporánea, etc.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p30",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes instrumentos NO suele formar parte de las orquestas sinfónicas?",
+          "opciones": [
+            "Saxofón.",
+            "Clarinete.",
+            "Contrabajo."
+          ],
+          "respuesta": "Saxofón.",
+          "respuestaCorta": "El saxofón no es un instrumento estándar en la formación de la orquesta sinfónica clásica, a diferencia del clarinete (viento madera) y el contrabajo (cuerda frotada).",
+          "solucionario": "La orquesta sinfónica tiene una formación instrumental estandarizada durante el período clásico y romántico. El clarinete y el contrabajo son miembros fundamentales de las familias de viento madera y cuerdas, respectivamente. El saxofón, inventado a mediados del siglo XIX, no fue incorporado a esta formación estándar y su uso es muy esporádico, requiriéndose como un instrumento 'extra' para obras específicas, principalmente del siglo XX en adelante.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p31",
+      "contexto": "Durante una experiencia de aprendizaje, los estudiantes están tomando fotografías.\nEn ese contexto, Rodolfo, visiblemente frustrado, se acerca a la docente y le comenta: \"Profesora, mis fotos me ha salido feas, no me gustan, y es que, por más que lo intento, no me salen como quiero. Ya no me está gustando tomar fotos\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué alternativa sería la más adecuada para ayudar al estudiante?",
+          "opciones": [
+            "Enumerar a Rodolfo todas sus virtudes y fortalezas como estudiante, para así darle ánimo reforzando la idea de que, con mucho empeño y dedicación, él es capaz de superar sus dificultades y tomar mejores fotografías.",
+            "Tranquilizar a Rodolfo proponiéndole hacer un trabajo diferente, que no sea tomar fotografías, usando alguna técnica con la que se sienta más a gusto, y de esa manera promover su motivación y evitar que se frustre.",
+            "Calmar a Rodolfo haciéndole notar que antes ha logrado superar situaciones difíciles, y preguntarle qué es lo que no le gusta de sus fotografías, por qué cree que están saliendo así, y luego orientarlo para que corrija aquello que quiere mejorar."
+          ],
+          "respuesta": "Calmar a Rodolfo haciéndole notar que antes ha logrado superar situaciones difíciles, y preguntarle qué es lo que no le gusta de sus fotografías, por qué cree que están saliendo así, y luego orientarlo para que corrija aquello que quiere mejorar.",
+          "respuestaCorta": "Esta opción ofrece una retroalimentación formativa: valida la emoción del estudiante, promueve la autoevaluación para identificar el problema y ofrece andamiaje para superarlo, fomentando la autonomía.",
+          "solucionario": "La alternativa 'c' es la más adecuada desde un enfoque de evaluación formativa. Primero, gestiona el aspecto socioemocional (calmarlo, recordarle sus logros). Segundo, promueve la metacognición al pedirle que identifique la causa del problema ('qué no te gusta', 'por qué crees que salen así'). Tercero, ofrece un andamiaje específico para que el propio estudiante supere la dificultad, en lugar de simplemente animarlo (a) o permitirle evitar el desafío (b).",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p32",
+      "contexto": "Durante el recreo, un grupo de estudiantes conversa animadamente sobre lo que más les gustó del proyecto que acaban de finalizar.\nJuliana quiere intervenir en la conversación desde hace rato y espera el momento adecuado para hacerlo, pero, cuando comienza a hablar, Mariela la interrumpe.\nCuando Mariela termina de hablar, Juliana intenta nuevamente participar, pero es interrumpida una vez más por Mariela.\nA pesar de que está un poco molesta, Juliana le dice calmadamente a Mariela: \"Por favor, Mariela, déjame hablar, me estás interrumpiendo continuamente\".\nMariela, un poco incómoda, se da cuenta de lo que ha hecho y le responde a Juliana: \"Perdón, lo hice sin querer. ¿Qué decías, Juliana?\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "La intervención de Juliana fue asertiva, ¿por qué?",
+          "opciones": [
+            "Porque logró que su compañera se dé cuenta de su error y le pida disculpas.",
+            "Porque logró mantenerse calmada a pesar de que estaba molesta.",
+            "Porque logró expresar su molestia de manera clara y respetuosa."
+          ],
+          "respuesta": "Porque logró expresar su molestia de manera clara y respetuosa.",
+          "respuestaCorta": "La asertividad consiste en expresar los propios sentimientos y defender los derechos personales de forma clara y directa, pero sin agredir a los demás, como lo hizo Juliana.",
+          "solucionario": "La asertividad es una habilidad comunicativa que implica expresar las propias necesidades, opiniones y emociones de forma honesta, directa y respetuosa. Juliana, aunque molesta, no recurrió a la pasividad (quedarse callada) ni a la agresividad (gritar o insultar). En su lugar, describió la situación objetivamente ('me estás interrumpiendo') y expresó su necesidad ('déjame hablar') con calma y respeto. El resultado (la disculpa de Mariela) es una consecuencia de su asertividad, pero no la definición de la misma.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p33",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Cuando el propósito de aprendizaje es que los estudiantes desarrollen las actividades con iniciativa y autonomía, ¿cuál de los siguientes métodos de enseñanza es más pertinente?",
+          "opciones": [
+            "Descubrimiento guiado.",
+            "Resolución de problemas.",
+            "Mando directo modificado."
+          ],
+          "respuesta": "Resolución de problemas.",
+          "respuestaCorta": "El método de resolución de problemas es el más pertinente porque sitúa al estudiante como protagonista, exigiéndole iniciativa para analizar una situación y autonomía para proponer y ejecutar soluciones.",
+          "solucionario": "Para fomentar la iniciativa y autonomía, se requiere un método que dé al estudiante un rol central y activo. La 'resolución de problemas' es ideal, ya que plantea un desafío o situación que los estudiantes deben analizar, investigar y resolver por sí mismos, tomando sus propias decisiones. El 'descubrimiento guiado' implica más orientación del docente, y el 'mando directo' es el menos autónomo de todos.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p34",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿En qué consiste el solfeo?",
+          "opciones": [
+            "En la reproducción vocal de las notas y ritmos escritos en una partitura.",
+            "En la notación de los sonidos que están contenidos dentro de una partitura.",
+            "En el análisis de las armonías que figuran en una partitura."
+          ],
+          "respuesta": "En la reproducción vocal de las notas y ritmos escritos en una partitura.",
+          "respuestaCorta": "El solfeo es la práctica de leer una partitura cantando las notas con su nombre correspondiente mientras se mantiene el ritmo indicado.",
+          "solucionario": "El solfeo es una técnica de entrenamiento musical que consiste en entonar, mientras se recita el nombre de las notas musicales (Do, Re, Mi...), una melodía escrita en una partitura, respetando las alturas (notas) y las duraciones (figuras rítmicas) especificadas. Su objetivo es desarrollar la habilidad de leer música a primera vista.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p35",
+      "contexto": "\"El Mar\", de Claude Debussy (Francia, 1862), es una composición musical que representa una serie de sucesos durante una travesía en el mar, los cuales van desde un tranquilo amanecer hasta una violenta tormenta.\nUn docente pide a sus estudiantes que se muevan libremente por el aula mientras escuchan la obra mencionada, intentando que sus cuerpos reaccionen a la música que están escuchando.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Luego de la actividad, el docente les pide que identifiquen a partir de los movimientos realizados qué tipo de emociones les generaron las diversas partes de la composición y qué elementos de la composición fueron los que las generaron.\n¿Qué busca desarrollar principalmente el docente en los estudiantes mediante esta actividad?",
+          "opciones": [
+            "La capacidad de representar dramáticamente las emociones que puede generar la música a través de movimientos y posturas corporales.",
+            "La apreciación de las diversas partes de la composición por medio de una actividad que involucra el movimiento de sus cuerpos.",
+            "La habilidad de los estudiantes para representar con los movimientos de su cuerpo los sonidos que puede evocar el mar."
+          ],
+          "respuesta": "La apreciación de las diversas partes de la composición por medio de una actividad que involucra el movimiento de sus cuerpos.",
+          "respuestaCorta": "El docente utiliza el movimiento corporal como un medio para que los estudiantes se conecten sensorialmente con la música y, a partir de esa experiencia, analicen y aprecien sus elementos y las emociones que evoca.",
+          "solucionario": "El objetivo principal es la apreciación musical. El movimiento corporal no es un fin en sí mismo (no se evalúa la calidad de la danza), sino una estrategia pedagógica para facilitar una escucha activa y profunda. Al mover sus cuerpos, los estudiantes internalizan los cambios en la música (dinámicas, tempo, etc.) y luego, al reflexionar sobre sus movimientos y emociones, son capaces de apreciar y analizar la composición de una manera más significativa y conectada.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p36",
+      "contexto": "La docente forma grupos de estudiantes para hacer una dinámica denominada \"Balón en llamas\".\nLos estudiantes, de pie, forman un círculo y uno de ellos recibe un balón.\nLa docente les pide que imaginen que el balón está en llamas, muy caliente, y les indica que deben pasárselo entre ellos, de manera aleatoria, tocándolo lo menos posible para evitar \"quemarse\" y procurando que no toque el piso, para evitar un incendio.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "En el marco de la exploración para la actuación teatral, ¿cuál es el propósito principal de la dinámica descrita?",
+          "opciones": [
+            "Que los estudiantes desarrollen su liderazgo cuando se encuentran actuando en una obra de teatro.",
+            "Que los estudiantes desarrollen su conciencia del entorno y de su relación con los demás cuando están en escena.",
+            "Que los estudiantes desarrollen el control de su cuerpo y sus movimientos para aprender a expresar emociones en escena."
+          ],
+          "respuesta": "Que los estudiantes desarrollen su conciencia del entorno y de su relación con los demás cuando están en escena.",
+          "respuestaCorta": "El propósito es desarrollar la escucha activa y la conciencia escénica; los estudiantes deben estar atentos a todo el grupo para poder reaccionar rápidamente y mantener el juego fluido.",
+          "solucionario": "Esta dinámica teatral busca desarrollar la conciencia espacial y la conexión con el grupo (el 'ensemble'). Para que el balón no caiga, cada estudiante debe estar constantemente atento no solo a quien tiene el balón, sino a todos los demás compañeros, anticipando a quién se lo pueden pasar y estando listo para recibirlo en cualquier momento. Esto fomenta la 'escucha' y la reacción al entorno, habilidades cruciales en la actuación.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+
+   
+    {
+      "idGrupo": "asc_secundaria_2023_p36",
+      "contexto": "La docente forma grupos de estudiantes para hacer una dinámica denominada \"Balón en llamas\".\nLos estudiantes, de pie, forman un círculo y uno de ellos recibe un balón.\nLa docente les pide que imaginen que el balón está en llamas, muy caliente, y les indica que deben pasárselo entre ellos, de manera aleatoria, tocándolo lo menos posible para evitar \"quemarse\" y procurando que no toque el piso, para evitar un incendio.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes funciones cognitivas se requiere principalmente en la dinámica descrita?",
+          "opciones": [
+            "Orientación.",
+            "Memoria.",
+            "Atención."
+          ],
+          "respuesta": "Atención.",
+          "respuestaCorta": "La dinámica exige principalmente la atención, ya que los estudiantes deben estar constantemente alerta para reaccionar al movimiento impredecible del balón.",
+          "solucionario": "La dinámica del 'Balón en llamas' requiere que los participantes mantengan un estado de alerta constante, enfocando sus recursos cognitivos en el estímulo principal (el balón) y en el entorno (sus compañeros). Deben procesar información rápidamente y reaccionar de manera imprevista, lo cual es una tarea que depende fundamentalmente de la función de la atención, específicamente de la atención sostenida y selectiva.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Los estudiantes están realizando la dinámica hace varios minutos, pero pierden la pelota con frecuencia.\nEntonces, la docente detiene el juego y propone lo siguiente: \"¿Qué les parece si, antes de lanzar, dicen en voz alta el nombre del compañero al que le van a pasar la pelota?\".\nLos estudiantes aceptan la sugerencia, la aplican, y comienzan a jugar de manera más fluida.\n¿Cuál es el propósito pedagógico del cambio propuesto por la docente?",
+          "opciones": [
+            "Brindar andamiaje.",
+            "Activar los saberes previos.",
+            "Favorecer la metacognición."
+          ],
+          "respuesta": "Brindar andamiaje.",
+          "respuestaCorta": "La docente introduce una ayuda temporal (decir el nombre) para facilitar la tarea y que los estudiantes puedan alcanzar el objetivo. Esto es un claro ejemplo de andamiaje.",
+          "solucionario": "El andamiaje es un concepto pedagógico que se refiere al apoyo temporal que un docente proporciona a un estudiante para que este pueda realizar una tarea que no podría hacer por sí solo. Al sugerir que digan el nombre, la docente introduce una estructura o 'andamio' que simplifica la coordinación del grupo, permitiéndoles tener éxito. Una vez que la habilidad se consolide, este 'andamio' podría retirarse.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Luego de proponer la variación en la dinámica, la docente observa interesada cómo los estudiantes logran comunicarse mejor al realizar la tarea.\nEntonces, la docente interviene nuevamente y propone una nueva variación: ahora, para alertar al compañero que recibirá el balón no deben decir su nombre, deben permanecer en silencio sin pronunciar ningún sonido.\nLos estudiantes retoman el juego y van probando distintas formas de llamar la atención de sus compañeros para avisarles que recibirán la pelota, como, por ejemplo, con la mirada, con gestos, con señas, entre otras opciones.\n¿Cuál de los siguientes aspectos desarrollan principalmente los estudiantes al incluir la modificación planteada por la docente?",
+          "opciones": [
+            "Su imagen corporal.",
+            "Su lenguaje corporal.",
+            "Su conciencia corporal."
+          ],
+          "respuesta": "Su lenguaje corporal.",
+          "respuestaCorta": "Al eliminar la comunicación verbal, la nueva regla obliga a los estudiantes a utilizar y desarrollar su lenguaje corporal (miradas, gestos, posturas) para comunicarse de manera efectiva.",
+          "solucionario": "La modificación introducida por la docente tiene como propósito principal que los estudiantes exploren y desarrollen su capacidad de comunicación no verbal. Al no poder usar la voz, se ven forzados a usar su cuerpo de manera intencional para transmitir un mensaje claro (llamar la atención, indicar una dirección). Esto es, en esencia, el desarrollo del lenguaje corporal como herramienta comunicativa.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "La docente nota que Julieta, una de las estudiantes, tiene dificultades para seguir la nueva consigna -es decir, no nombrar al compañero- a pesar de que la ha comprendido, porque ya se ha acostumbrado a decir el nombre y \"se le sale\".\n¿Cuál de las siguientes funciones ejecutivas se relaciona principalmente con la dificultad presentada por Julieta?",
+          "opciones": [
+            "Control inhibitorio.",
+            "Memoria de trabajo.",
+            "Velocidad de procesamiento."
+          ],
+          "respuesta": "Control inhibitorio.",
+          "respuestaCorta": "La dificultad de Julieta para suprimir una respuesta automática y ya aprendida (decir el nombre) se relaciona directamente con el control inhibitorio, una función ejecutiva clave.",
+          "solucionario": "El control inhibitorio es la función ejecutiva que nos permite suprimir o controlar respuestas impulsivas o automáticas para elegir una respuesta más adecuada a la situación. Julieta ha automatizado la acción de 'decir el nombre'. Su dificultad para frenar este impulso, a pesar de conocer la nueva regla, evidencia un desafío en su control inhibitorio.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p41",
+      "contexto": "La \"Pedagogía de la Creación Musical\" (PCM) es una propuesta que proviene de las experiencias de principios del siglo XXI con la música concreta (piezas sonoras que no utilizan notas musicales sino sonidos grabados y manipulados por medios electrónicos).\nSegún la PCM, lo importante no es que los estudiantes aprendan a tocar un instrumento convencional o aprendan teoría musical, sino que experimenten libremente con el sonido, aportando soluciones a retos creativos que poco a poco los encaminen a formas de creación musical que escapen de lo convencional.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Si un docente desea implementar la pedagogía descrita con los estudiantes, ¿cuál de las siguientes actividades es pertinente?",
+          "opciones": [
+            "Construir junto con los estudiantes xilófonos con botellas de vidrio y utilizarlos para componer melodías libremente.",
+            "Distribuir entre los estudiantes sonajas y vuvuzelas e invitarlos a explorar todas las posibilidades sonoras que dichos instrumentos ofrecen.",
+            "Proponer a los estudiantes que intenten contar una historia breve con una variedad de sonidos producidos con sus útiles escolares y otros objetos que encuentren en el aula."
+          ],
+          "respuesta": "Proponer a los estudiantes que intenten contar una historia breve con una variedad de sonidos producidos con sus útiles escolares y otros objetos que encuentren en el aula.",
+          "respuestaCorta": "Esta actividad se alinea con la PCM porque utiliza sonidos de objetos cotidianos (no instrumentos convencionales) para una creación con propósito narrativo, fomentando la experimentación sonora.",
+          "solucionario": "La Pedagogía de la Creación Musical (PCM) se basa en la música concreta, que trabaja con sonidos grabados del entorno en lugar de notas musicales. La opción 'c' es la más pertinente porque propone usar objetos no musicales ('útiles escolares') para crear una pieza con una intención ('contar una historia breve'), lo cual refleja fielmente los principios de experimentación, creatividad y uso de cualquier fuente sonora que definen a la PCM.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p42",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "La expresión \"C#m\" representa:",
+          "opciones": [
+            "Una sucesión de notas.",
+            "Un patrón rítmico.",
+            "Un acorde."
+          ],
+          "respuesta": "Un acorde.",
+          "respuestaCorta": "La notación \"C#m\" corresponde a un acorde. 'C#' es la nota fundamental (Do sostenido) y 'm' indica la modalidad (menor).",
+          "solucionario": "En la notación musical moderna o cifrado americano, una letra mayúscula (con o sin alteración como # o b) representa la nota fundamental de un acorde. La letra 'm' minúscula que le sigue indica que el acorde es de tipo menor. Por lo tanto, 'C#m' representa el acorde de Do sostenido menor, que se forma con las notas Do#, Mi y Sol#.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p43",
+      "contexto": "La docente planifica una experiencia de aprendizaje en la que los estudiantes conocerán y apreciarán distintos tipos de marinera y reflexionarán sobre cómo el contexto geográfico, social y cultural influye en las características de las manifestaciones artísticas.\nComo parte de la experiencia, los estudiantes aprenderán a bailar alguna variedad de marinera, desarrollando su expresión corporal a través de esta danza.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "La docente desea recoger los saberes previos de los estudiantes sobre las distintas marineras y cómo estas se bailan.\n¿Cuál de las siguientes acciones pedagógicas es más adecuada para dicho propósito?",
+          "opciones": [
+            "Pedir a los estudiantes que se organicen en pequeños grupos, se pongan de acuerdo y, utilizando música de diversas marineras, construyan una secuencia y así explorar sus habilidades en esta danza.",
+            "Preguntar a los estudiantes sobre sus experiencias previas con las marineras, qué otras danzas han bailado antes y en qué se parecen a las marineras, y qué música se necesita para bailarlas, y así identificar lo que conocen sobre esta danza.",
+            "Reproducir un popurrí de marineras y solicitar a los estudiantes que imaginen que bailan con una pareja, y que, en función a sus recuerdos, reproduzcan desplazamientos, movimientos y pasos diversos, para observar sus conocimientos sobre esta danza."
+          ],
+          "respuesta": "Reproducir un popurrí de marineras y solicitar a los estudiantes que imaginen que bailan con una pareja, y que, en función a sus recuerdos, reproduzcan desplazamientos, movimientos y pasos diversos, para observar sus conocimientos sobre esta danza.",
+          "respuestaCorta": "Esta acción es la más adecuada para recoger saberes previos corporales y prácticos, ya que permite a la docente observar directamente lo que los estudiantes saben hacer y recuerdan de la danza.",
+          "solucionario": "Para recoger saberes previos sobre una danza, la estrategia más efectiva es la que involucra al cuerpo. La opción 'c' permite a la docente observar de manera directa qué movimientos, pasos y posturas los estudiantes ya conocen o asocian con la marinera. A diferencia de la opción 'b' que recoge saberes teóricos o verbales, esta opción evalúa el conocimiento incorporado, que es fundamental en la danza. La opción 'a' es una actividad de creación, no de recojo de saberes previos.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "La docente ha recogido los saberes previos de los estudiantes sobre la marinera.\nEn esta actividad se ha evidenciado que existen diversas variedades locales de marinera, y los estudiantes se han mostrado interesados en conocer más sobre dichas variedades.\nPor ese motivo, la docente reproduce ante la clase un documental donde se aprecian marineras de distintos lugares y sus orígenes.\nUna estudiante comenta sus impresiones después de ver el video:\n\"A mí me gustó la segunda marinera del documental, que tiene movimientos más suaves, precisos y cadenciosos. Los bailarines usan los gestos, las sonrisas y la mirada para decir lo que no dice la coreografía. El ritmo en base a guitarra y percusión combinado con el movimiento de los pies y el vaivén de los pañuelos y el coqueteo en la resbalosa es lo que más me gustó\".\n¿A qué marinera se refiere la estudiante?",
+          "opciones": [
+            "Marinera limeña.",
+            "Marinera mochera.",
+            "Marinera cuzqueña."
+          ],
+          "respuesta": "Marinera limeña.",
+          "respuestaCorta": "La descripción de movimientos cadenciosos, el uso de guitarra y percusión (cajón), y la mención de la 'resbalosa' son características distintivas de la marinera limeña.",
+          "solucionario": "Las características descritas por la estudiante coinciden plenamente con la marinera limeña: es un baile de salón más elegante y 'suave' que otras variantes. Su acompañamiento musical característico es con guitarra y cajón, y su estructura incluye una sección final llamada 'resbalosa', un elemento clave mencionado en el comentario.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Otro estudiante comenta lo siguiente:\n\"A mí me gustó la tercera marinera, que tiene una música melancólica. Me parece que tiene mucha influencia del huayno, por eso su ritmo musical es más lento. En el documental dijeron que sus características cambian ligeramente dependiendo del barrio donde se baile\".\nEntre las siguientes alternativas, ¿a qué marinera se refiere el estudiante?",
+          "opciones": [
+            "Marinera puneña.",
+            "Marinera piurana.",
+            "Marinera de Lamas."
+          ],
+          "respuesta": "Marinera puneña.",
+          "respuestaCorta": "La marinera puneña se caracteriza por su tono melancólico, su ritmo más lento y su clara influencia del huayno, rasgos que coinciden con la descripción del estudiante.",
+          "solucionario": "La marinera puneña es una variante andina que se distingue por su tempo más pausado y un carácter solemne y melancólico, en gran parte debido a su fuerte sincretismo con el huayno. Estas características la diferencian claramente de las marineras costeñas (como la piurana) o selváticas (como la de Lamas), haciendo que la descripción del estudiante corresponda inequívocamente a esta variedad.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Los estudiantes se muestran interesados por las diferencias que existen entre las diversas manifestaciones de la marinera que existen en el Perú, y desean saber qué ha motivado esta variedad.\nLa docente solicita a los estudiantes que confeccionen en la pizarra, colaborativamente, un cuadro comparativo donde se señalen las diferencias y semejanzas entre las marineras de Trujillo, Puno y Lamas.\nLuego, los estudiantes analizan las características geográficas, sociales y culturales de Trujillo, Puno y Lamas, y sus principales diferencias, y la docente los anima a formular hipótesis sobre cómo estas diferencias pueden haber influido en las manifestaciones locales de la marinera.\n¿Qué capacidad están desarrollando principalmente los estudiantes cuando proponen hipótesis sobre las diferencias entre los distintos tipos de marinera y su origen?",
+          "opciones": [
+            "Contextualiza las manifestaciones culturales.",
+            "Explora y experimenta los lenguajes del arte.",
+            "Percibe manifestaciones artístico-culturales."
+          ],
+          "respuesta": "Contextualiza las manifestaciones culturales.",
+          "respuestaCorta": "Al relacionar las características de cada marinera con el contexto geográfico, social y cultural de su lugar de origen, los estudiantes están contextualizando la manifestación artística.",
+          "solucionario": "La capacidad de 'Contextualizar las manifestaciones culturales' implica comprender cómo los factores sociales, culturales, geográficos e históricos influyen en la creación artística. En esta actividad, los estudiantes van más allá de la simple descripción (percepción) y analizan el *porqué* de las diferencias, vinculando las características de la danza con su entorno. La formulación de hipótesis sobre esta relación es un ejercicio puro de contextualización.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Los estudiantes van a aprender a bailar marinera. La docente propone a los estudiantes escoger la marinera de una región o localidad para comenzar, y ellos escogen la marinera trujillana.\n¿Cuál de las siguientes actividades es más adecuada para iniciar el aprendizaje de esta danza?",
+          "opciones": [
+            "Proponer a los estudiantes actividades de reconocimiento del espacio con desplazamientos variados, en las que los estudiantes marquen el ritmo con palmas, golpeando con los pies al caminar, desplazándose en diferentes direcciones, dibujando círculos y curvas en el piso.",
+            "Pedir a los estudiantes que marquen la postura de la marinera, colocando un pie adelante totalmente plano que servirá de apoyo, y ubicando el otro pie atrás, en media punta, para impulsarse y dar dinamismo al movimiento. Luego, deben desplazarse lateralmente por el espacio llevando el ritmo de la música.",
+            "Explicar a los estudiantes los movimientos del taco y la punta del pie, y luego solicitarles que vayan adaptando estos movimientos a la música, mientras se desplazan por el espacio, comprendiendo la importancia de imaginar que debe haber una línea que atraviesa el pie base, la columna, el cuello, la cabeza y la barbilla."
+          ],
+          "respuesta": "Proponer a los estudiantes actividades de reconocimiento del espacio con desplazamientos variados, en las que los estudiantes marquen el ritmo con palmas, golpeando con los pies al caminar, desplazándose en diferentes direcciones, dibujando círculos y curvas en el piso.",
+          "respuestaCorta": "Antes de enseñar pasos específicos, es fundamental iniciar con actividades de exploración del ritmo y el espacio, que son la base de cualquier danza y preparan el cuerpo para movimientos más complejos.",
+          "solucionario": "Pedagógicamente, al iniciar el aprendizaje de una danza, se debe comenzar por los fundamentos: la relación del cuerpo con el espacio y el ritmo. La opción 'a' propone exactamente esto, actividades preparatorias que desarrollan la conciencia espacial (direcciones, círculos) y la rítmica (marcar con palmas y pies) sin la presión de ejecutar pasos técnicos complejos. Las opciones 'b' y 'c' se saltan esta etapa fundamental y van directamente a la técnica específica, lo cual no es adecuado para un inicio.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Cuando los estudiantes están aprendiendo los pasos de la marinera, ¿qué capacidad del área están desarrollando principalmente?",
+          "opciones": [
+            "Explora y experimenta los lenguajes del arte.",
+            "Aplica procesos creativos.",
+            "Evalúa y socializa sus procesos y proyectos."
+          ],
+          "respuesta": "Explora y experimenta los lenguajes del arte.",
+          "respuestaCorta": "Aprender los pasos de una danza es una forma de explorar y experimentar con los elementos del lenguaje artístico de la danza (movimiento, ritmo, espacio) a través del propio cuerpo.",
+          "solucionario": "La capacidad 'Explora y experimenta los lenguajes del arte' se refiere a la investigación y práctica con los elementos y materiales de cada lenguaje artístico. En el caso de la danza, el material es el cuerpo y los elementos son el movimiento, el espacio, el tiempo, el ritmo, etc. Al aprender los pasos, los estudiantes están explorando y experimentando de manera práctica con estos elementos para comprender cómo funcionan y cómo se combinan en la marinera.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+
+ 
+    {
+      "idGrupo": "asc_secundaria_2023_p43",
+      "contexto": "La docente planifica una experiencia de aprendizaje en la que los estudiantes conocerán y apreciarán distintos tipos de marinera y reflexionarán sobre cómo el contexto geográfico, social y cultural influye en las características de las manifestaciones artísticas.\nComo parte de la experiencia, los estudiantes aprenderán a bailar alguna variedad de marinera, desarrollando su expresión corporal a través de esta danza.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Los estudiantes están practicando el zapateo de la marinera trujillana.\nLiliana, una de las estudiantes tiene dificultades para realizar el zapateo llamado \"cepillado\", por lo que pide ayuda a la docente.\nEsta se acerca, le demuestra el paso del zapateo y le sugiere: \"mira, puedes hacer el paso más lento, mucho más lento... despacio, de esta manera, ahora hazlo tú\".\nLa estudiante hace el paso lento y tras practicar unos minutos logra una gran mejoría.\nLa docente le sugiere entonces: \"Ahora que ya lo dominas, extiende bien la pierna hacia delante y con el pie rodea el pie opuesto, el que sirve de apoyo, jmuy bien!\".\nCuando la estudiante ha conseguido mejorar, la docente le sugiere: \"Ahora, para volver, nuevamente extiende la pierna hacia delante rodeando el pie de apoyo y coloca el pie junto al pie de apoyo, para llegar a la posición inicial. ¡Ya lo estás logrando!\".\nA partir de lo descrito, ¿qué proceso pedagógico realiza principalmente la docente?",
+          "opciones": [
+            "Andamiaje.",
+            "Evaluación.",
+            "Recojo de saberes previos."
+          ],
+          "respuesta": "Andamiaje.",
+          "respuestaCorta": "La docente proporciona un apoyo graduado y temporal (ralentizar el paso, dar indicaciones precisas por partes) para que la estudiante pueda dominar una habilidad que no podía hacer sola, lo que define al andamiaje.",
+          "solucionario": "El andamiaje es el proceso a través del cual un docente o par más experto ofrece un soporte estratégico y ajustado a un estudiante para ayudarlo a construir un aprendizaje o desarrollar una habilidad. En este caso, la docente descompone el paso complejo del 'cepillado' en partes más sencillas, reduce la velocidad y da indicaciones progresivas, retirando el apoyo a medida que la estudiante gana dominio. Esta ayuda estructurada y temporal es un ejemplo clásico de andamiaje.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Los estudiantes han aprendido los pasos básicos de diversas marineras y están realizando coreografías sencillas.\nMientras ellos bailan, la docente los observa, les brinda retroalimentación de manera grupal e individual, y anima a los estudiantes a seguir progresando.\nSi la docente se propone que los estudiantes desarrollen su expresión corporal por medio de la danza, ¿en qué aspecto debe centrar su retroalimentación?",
+          "opciones": [
+            "En los aspectos técnicos de las marineras, como la fluidez de los movimientos, la seguridad al ejecutar los pasos y los zapateos, y la relajación y tensión de los músculos en los momentos que corresponde.",
+            "En el mensaje de las marineras, la capacidad de los estudiantes para transmitir emociones en cada momento del baile, sus procesos motrices individuales y en pareja, y si los movimientos corporales y expresivos se relacionan.",
+            "En la forma cómo los estudiantes coordinan sus movimientos de acuerdo a su discriminación auditiva, si marcan los pasos y si se desplazan llevando el ritmo de la música y manteniendo una buena orientación espacial."
+          ],
+          "respuesta": "En el mensaje de las marineras, la capacidad de los estudiantes para transmitir emociones en cada momento del baile, sus procesos motrices individuales y en pareja, y si los movimientos corporales y expresivos se relacionan.",
+          "respuestaCorta": "Para desarrollar la expresión corporal, la retroalimentación debe enfocarse en la capacidad de comunicar y transmitir emociones y mensajes a través del movimiento, y no solo en la correcta ejecución técnica.",
+          "solucionario": "La expresión corporal va más allá de la técnica; se trata de la comunicación a través del cuerpo. Por ello, la retroalimentación más pertinente (opción b) es la que se centra en la dimensión comunicativa y emocional de la danza: cómo los estudiantes usan el movimiento para transmitir un mensaje, expresar emociones y relacionarse con su pareja. Los aspectos técnicos (a) y rítmicos (c) son importantes, pero son medios para un fin expresivo, no el fin en sí mismo cuando el propósito es la expresión corporal.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p51",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿En qué consiste el ensayo técnico en el teatro?",
+          "opciones": [
+            "En un ensayo que se hace con participación de actores y personal que controla la iluminación, sonido, etc.",
+            "En un ensayo que se enfoca en la lectura y análisis dramatúrgico del guion que se va a poner en escena.",
+            "En un ensayo en el que se repasa la ubicación y desplazamientos de los actores sobre el escenario a lo largo de la obra."
+          ],
+          "respuesta": "En un ensayo que se hace con participación de actores y personal que controla la iluminación, sonido, etc.",
+          "respuestaCorta": "El ensayo técnico es aquel donde se integran todos los elementos escénicos: actuación, luces, sonido, utilería, etc., para sincronizarlos antes de la presentación.",
+          "solucionario": "El ensayo técnico es una etapa crucial en el montaje de una obra donde se juntan por primera vez todos los componentes. Los actores realizan sus escenas mientras los técnicos de luces, sonido, vestuario y utilería ejecutan sus respectivas tareas para asegurar que todo funcione de manera coordinada y fluida. Su propósito es ajustar y sincronizar la parte artística con la técnica.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p52",
+      "contexto": "Durante una unidad pedagógica, un docente prepara una banda de instrumentos de percusión para una presentación en público.\nEn una sección de la pieza que tocarán se necesita que todos los estudiantes toquen al unísono, pero estos tienen dificultades para tocar juntos uniformemente el mismo ritmo.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes alternativas es la más apropiada para superar esta dificultad?",
+          "opciones": [
+            "Solicitar a los estudiantes que solo los que se sientan seguros toquen la sección en cuestión y que los demás permanezcan en silencio en las partes en las que tengan dudas.",
+            "Trabajar la sección de la pieza reduciendo la velocidad hasta que los estudiantes puedan dominarla, y luego aumentar la velocidad progresivamente hasta tocar a la velocidad original.",
+            "Hacer dinámicas de motivación y concentración con los estudiantes para mejorar su disposición para tocar y que esto redunde en un mejor rendimiento durante la ejecución de la pieza."
+          ],
+          "respuesta": "Trabajar la sección de la pieza reduciendo la velocidad hasta que los estudiantes puedan dominarla, y luego aumentar la velocidad progresivamente hasta tocar a la velocidad original.",
+          "respuestaCorta": "La estrategia pedagógica más efectiva para resolver dificultades rítmicas o técnicas en un ensamble musical es reducir la velocidad (tempo) para asegurar la precisión y luego aumentarla gradualmente.",
+          "solucionario": "Esta es una técnica de ensayo estándar y altamente efectiva en la pedagogía musical. Al ralentizar la pieza, los estudiantes tienen más tiempo para procesar la información rítmica, coordinar sus movimientos y escucharse mutuamente. Una vez que logran la precisión a una velocidad lenta, se construye la memoria muscular y auditiva, permitiendo aumentar el tempo progresivamente sin perder la cohesión del ensamble. Las otras opciones evaden el problema (a) o no lo abordan directamente (c).",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p53",
+      "contexto": "Una estudiante va a interpretar a un personaje teatral llamado \"Pepita\".\nPara la construcción del personaje, ha leído el guion de la obra y ha escrito la siguiente descripción: \"Pepita tuvo en un su juventud un gran amor con el que iba a casarse, pero él murió en un trágico accidente. Pepita nunca pudo superar su dolor, y por eso está siempre refunfuñando y siente rechazo hacia todas las expresiones de afecto desde hace décadas. Al final de la obra, descubrirá una sorpresa que le dejó su amor fallecido, que le devolverá la esperanza\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "El docente observa que la estudiante tiene dificultades para la construcción de su personaje, pues no puede verse a sí misma como una persona anciana y amargada, por lo que le sugiere usar una pieza de vestuario o utilería que la ayude a caracterizar a Pepita.\n¿Cuál de las siguientes opciones es más pertinente?",
+          "opciones": [
+            "Un pesado chal, viejo y raído, que la ayude a sentir la huella de todos los años transcurridos.",
+            "Unos zapatos de tacón grueso, que puede utilizar para golpear el piso con energía cada vez que tiene un arrebato de furia.",
+            "Una fotografía de su amor de juventud, que puede sacar de su bolsillo para mirar a su novio fallecido cada vez que algo la mortifica."
+          ],
+          "respuesta": "Un pesado chal, viejo y raído, que la ayude a sentir la huella de todos los años transcurridos.",
+          "respuestaCorta": "El chal pesado y viejo es el elemento más pertinente porque afecta la corporalidad de la actriz (la encorva, la hace sentir el 'peso' de los años), ayudándola a construir el personaje desde lo físico y sensorial.",
+          "solucionario": "En la construcción de un personaje, los elementos externos pueden ser un poderoso detonante interno. Un chal pesado, viejo y raído (opción a) tiene un impacto directo en la postura y el movimiento de la actriz, obligándola a sentir físicamente el 'peso' del tiempo y el dolor. Esto puede ayudarla a encontrar la corporalidad de una persona anciana y amargada de una manera más orgánica que un elemento para expresar furia (b) o un objeto puramente emocional (c).",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p54",
+      "contexto": "El científico literario Algirdas Julien Greimas (1917-1992) desarrolló un modelo para el análisis de las acciones o los relatos.\nEl modelo puede ser usado para dividir las acciones en seis facetas o \"actantes\": el sujeto, el objeto, el destinador, el destinatario, el ayudante y el oponente.\nEl sujeto es el personaje principal del análisis. El objeto es aquello que el sujeto quiere conseguir.\nEl destinador es el personaje o motivo que mueve al sujeto a conseguir el objeto.\nEl destinatario es quien se beneficia si el sujeto obtiene el objeto, pudiendo ser o no el propio sujeto.\nEl ayudante es aquel que ayuda al sujeto a conseguir el objeto, mientras que el oponente es aquello que se opone a que el sujeto consiga su objetivo.\nTodos los actantes pueden ser tanto personajes como objetos o conceptos, pero el sujeto, destinador y destinatario suelen ser personajes.\nTomemos como ejemplo la leyenda de Manco Cápacy Mama Ocllo: \"El dios Inti, compadecido por el estado de salvajismo en el que vivían los hombres, decidió civilizarlos. Para ello hizo salir a Manco Cápac y Mama Ocllo de las profundidades del Lago Titicaca, y les dio el encargo de dirigirse hacia el norte llevando una vara de oro, que debían tratar de hundir en el suelo periódicamente hasta encontrar un lugar donde entre fácilmente. En ese lugar debían establecerse. Esto ocurrió al pie del cerro Huanacaure, en Cuzco. Manco Cápac y Mama Ocllo convocaron a todos los pobladores de las áreas vecinas, y les comunicaron su origen divino y su labor civilizadora. De esta manera, y siguiendo los ejemplos de su padre Sol, Manco Cápac enseñó a los hombres a cultivar la tierra y el maíz, a hacer canales de riego y a construir casas de piedra, y Mama Ocllo enseñó a las mujeres a hilar y a tejer para hacer vestidos y otros tejidos de lana y algodón\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Si el sujeto es Manco Cápac, ¿quién es el destinador?",
+          "opciones": [
+            "Las mujeres.",
+            "El dios Inti.",
+            "Mama Ocllo."
+          ],
+          "respuesta": "El dios Inti.",
+          "respuestaCorta": "El destinador es quien motiva o encarga la misión al sujeto. En este caso, el dios Inti es quien le da a Manco Cápac la misión de civilizar a los hombres.",
+          "solucionario": "Según el modelo de Greimas, el destinador es la fuerza o personaje que impulsa al sujeto a actuar. En el relato, se afirma claramente que el dios Inti \"les dio el encargo\" a Manco Cápac y Mama Ocllo. Por lo tanto, el dios Inti es el destinador de la misión de Manco Cápac (sujeto).",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Si el sujeto es el dios Inti, ¿cuál es el objeto?",
+          "opciones": [
+            "La vara de oro.",
+            "Civilizar a los hombres.",
+            "El cerro Huanacaure."
+          ],
+          "respuesta": "Civilizar a los hombres.",
+          "respuestaCorta": "El objeto es el objetivo o lo que el sujeto desea conseguir. El texto indica que el dios Inti \"decidió civilizarlos\", siendo este su principal objetivo.",
+          "solucionario": "El objeto, en el análisis actancial, es la meta que el sujeto busca alcanzar. El texto inicia diciendo que el dios Inti, viendo el estado de salvajismo, \"decidió civilizarlos\". Ese es su deseo y objetivo principal. Manco Cápac, Mama Ocllo y la vara de oro son los medios o ayudantes que utiliza para conseguir ese fin.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Si el sujeto es Mama Ocllo, ¿quién es el ayudante?",
+          "opciones": [
+            "El dios Inti.",
+            "Los hombres.",
+            "Manco Cápac."
+          ],
+          "respuesta": "Manco Cápac.",
+          "respuestaCorta": "El ayudante es quien colabora con el sujeto para conseguir su objeto. Manco Cápac y Mama Ocllo actúan como un equipo, ayudándose mutuamente en la misión civilizadora.",
+          "solucionario": "Tanto Manco Cápac como Mama Ocllo comparten la misma misión encomendada por el dios Inti. Actúan en conjunto para lograr el objetivo común de civilizar a los pobladores. Por lo tanto, desde la perspectiva de Mama Ocllo como sujeto, Manco Cápac es su principal ayudante en esta tarea.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Un grupo de estudiantes está escribiendo una obra de teatro, y ya tienen el primer borrador la obra.\nSe lo muestran a la docente para pedirle retroalimentación. Luego de leer el borrador, la docente conversa con los estudiantes, comenta sus logros y les señala las debilidades que observa.\nEntre otras estrategias, les propone utilizar el análisis actancial de Greimas para mejorar su trabajo.\n¿En qué puede aportar el análisis propuesto por Greimas a este propósito?",
+          "opciones": [
+            "Puede ayudar a organizar mejor la secuencia de escenas, de manera que estas cuenten una historia coherente.",
+            "Permite enriquecer los personajes, al profundizar en sus motivaciones, sus características y su rol en la trama de la obra.",
+            "Contribuye a la profundización de las características del contexto social y cultural en el que transcurre la historia."
+          ],
+          "respuesta": "Permite enriquecer los personajes, al profundizar en sus motivaciones, sus características y su rol en la trama de la obra.",
+          "respuestaCorta": "El modelo de Greimas ayuda a clarificar la función de cada personaje en la trama (quién quiere qué, quién ayuda, quién se opone), lo que permite profundizar en sus motivaciones y relaciones.",
+          "solucionario": "El análisis actancial es una herramienta para analizar la estructura profunda de una narración, centrándose en las funciones y relaciones entre los personajes (o fuerzas). Al aplicar este modelo, los estudiantes pueden identificar si el rol de cada personaje (sujeto, oponente, ayudante, etc.) es claro, si sus motivaciones (la relación sujeto-objeto-destinador) son coherentes y si los conflictos están bien definidos. Esto conduce directamente a un enriquecimiento de los personajes y a una trama más sólida.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p58",
+      "contexto": "Rudolf Laban (1879-1958) fue un coreógrafo, bailarín y teórico de origen húngaro que creó un sistema de análisis y registro del movimiento humano.\nEl sistema de Laban se centra en cuatro conceptos: el cuerpo, el espacio, el tiempo y la energía.\nAsí también, analiza las relaciones entre estos conceptos, por ejemplo, cuerpo-espacio, cuerpo-tiempo o cuerpo- energía.\nEstas relaciones son importantes porque permiten analizar cómo el cuerpo se mueve en relación con su entorno y con otros cuerpos en movimiento, y se utiliza en la apreciación y creación de coreografías de danza.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes actividades es más adecuada para que los estudiantes identifiquen la relación cuerpo-espacio de acuerdo al sistema propuesto por Rudolf Laban?",
+          "opciones": [
+            "Proponerles consignas imaginarias en las que apliquen calidades de movimiento; por ejemplo, caminar como si sus pies se quemaran, cargar rocas muy pesadas, flotar como una pluma, derretirse como una vela encendida, etc. Luego, indicarles que creen una secuencia combinando los movimientos realizados.",
+            "Demostrarles secuencias de movimientos en diferentes planos, niveles y direcciones con distintas energías y velocidades; luego, solicitarles que repitan las secuencias, tratando de moverse con sincronía.",
+            "Guiarlos para que experimenten movimientos utilizando direcciones, niveles y planos diversos. Luego, mostrarles un gráfico que represente las diversas direcciones, niveles y planos de movimiento, y pedirles que describan las cualidades de los movimientos realizados."
+          ],
+          "respuesta": "Guiarlos para que experimenten movimientos utilizando direcciones, niveles y planos diversos. Luego, mostrarles un gráfico que represente las diversas direcciones, niveles y planos de movimiento, y pedirles que describan las cualidades de los movimientos realizados.",
+          "respuestaCorta": "Esta actividad se enfoca directamente en los componentes de la relación cuerpo-espacio según Laban (direcciones, niveles, planos), combinando la experimentación práctica con la conceptualización teórica.",
+          "solucionario": "La relación cuerpo-espacio en el sistema de Laban se analiza a través de conceptos como las direcciones (adelante, atrás, etc.), los niveles (alto, medio, bajo) y los planos de movimiento (vertical, horizontal, sagital). La opción 'c' es la más completa y adecuada porque primero permite a los estudiantes explorar estos conceptos de manera práctica y kinestésica, y luego los ayuda a identificar y nombrar teóricamente lo que han experimentado, logrando una comprensión integral de la relación cuerpo-espacio.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "La docente reproduce fragmentos de piezas musicales de distintos géneros y ritmos, y solicita a los estudiantes caminar por todo el espacio al compás de la música.\nDe acuerdo al sistema propuesto por Rudolf Laban, ¿en cuál de las siguientes relaciones conceptuales se enfoca principalmente la actividad propuesta por la docente?",
+          "opciones": [
+            "Cuerpo-energía.",
+            "Cuerpo-espacio.",
+            "Cuerpo-tiempo."
+          ],
+          "respuesta": "Cuerpo-tiempo.",
+          "respuestaCorta": "La actividad se centra en la relación cuerpo-tiempo, ya que pide a los estudiantes adaptar su movimiento (caminar) al compás y ritmo de la música, explorando la dimensión temporal del movimiento.",
+          "solucionario": "En el sistema de Laban, el concepto de 'tiempo' se refiere a la velocidad y el ritmo del movimiento (rápido, lento, sostenido, súbito). Al pedir a los estudiantes que caminen 'al compás' de músicas con distintos ritmos, la actividad se enfoca principalmente en cómo el cuerpo se adapta y responde a la dimensión temporal, explorando la relación cuerpo-tiempo.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Con respecto a la relación cuerpo-espacio, el cuerpo se mueve en varios planos.\n¿Cuál de las siguientes acciones combina la mayor cantidad de planos de movimiento?",
+          "opciones": [
+            "Subir y bajar un banco de baja altura saltando con los pies juntos lo más rápido posible.",
+            "Agacharse, recoger un objeto del piso, girar el tronco y entregárselo a una persona detrás.",
+            "Sentado sobre un columpio, balancear el cuerpo hacia adelante y hacia atrás subiendo y bajando las piernas."
+          ],
+          "respuesta": "Agacharse, recoger un objeto del piso, girar el tronco y entregárselo a una persona detrás.",
+          "respuestaCorta": "Esta acción combina el plano sagital (agacharse), el plano vertical (levantarse) y el plano transversal (girar el tronco), involucrando así los tres planos de movimiento.",
+          "solucionario": "Los tres planos de movimiento son: sagital (movimientos hacia adelante y atrás, como agacharse), vertical o frontal (movimientos de lado a lado, como inclinarse lateralmente) y transversal u horizontal (giros). La acción de 'agacharse' (plano sagital), 'recoger un objeto' y levantarse (involucra plano vertical) y 'girar el tronco' (plano transversal) es la única que integra claramente los tres planos, haciéndola la más compleja espacialmente.",
+          "seccion": "Casuística"
+        }
+      ]
+    }
+  ]
+}
+  

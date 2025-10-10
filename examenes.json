@@ -989,6 +989,19 @@
     "archivos": {
       "especifico": "data/ascenso/inicial/2023/ascenso_inicial2023.json"
     }
+  },
+  {
+    "id": 88,
+    "proceso": "Ascenso",
+    "anio": 2023,
+    "nivel": "Secundaria",
+    "especialidad": "Arte y Cultura",
+    "modalidad": "EBR",
+    "preguntas": 60,
+    "tiempo": 180,
+    "archivos": {
+      "especifico": "data/ascenso/secundaria/2023/ascenso_arte2023.json"
+    }
   }
 
 
