@@ -1,0 +1,988 @@
+{
+  "completo": [
+    {
+      "idGrupo": "asc_secundaria_2023_p01",
+      "contexto": "Fernanda es una estudiante que presenta discapacidad física y se traslada en silla de ruedas. Ella se va a incorporar la siguiente semana a un aula de una institución educativa. Por ello, el docente del aula realiza una asamblea con los estudiantes con el propósito de sensibilizarlos sobre la condición que presenta Fernanda. En este contexto, tres estudiantes comparten sus comentarios sobre las formas en que podrían ayudar a Fernanda a desplazarse en el colegio.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes comentarios de los estudiantes está alineado al enfoque inclusivo del Currículo Nacional de la Educación Básica?",
+          "opciones": [
+            "\"Para movilizar a Fernanda, es necesario que la llevemos en su silla de ruedas a todos los lugares a donde vayamos. De esta manera, la ayudaremos a desplazarse por todo el colegio y estará siempre acompañada\".",
+            "\"Si deseamos ayudar a Fernanda a movilizarse en el colegio, primero debemos preguntarle en qué casos requiere nuestro apoyo. Yo pienso que ella nos podría orientar sobre cuál es la mejor forma en que podemos ayudarla\".",
+            "\"Considero que siempre debemos estar pendientes de Fernanda para poder ayudarla cuando quiera movilizarse. Propongo que organicemos turnos entre nosotros para cuidarla y así evitar que tenga algún accidente en el colegio\"."
+          ],
+          "respuesta": "\"Si deseamos ayudar a Fernanda a movilizarse en el colegio, primero debemos preguntarle en qué casos requiere nuestro apoyo. Yo pienso que ella nos podría orientar sobre cuál es la mejor forma en que podemos ayudarla\".",
+          "respuestaCorta": "El enfoque inclusivo promueve la autonomía y participación de la persona con discapacidad, por lo que consultarle directamente es la acción más adecuada.",
+          "solucionario": "La opción 'b' se alinea con el enfoque inclusivo porque parte del respeto a la autonomía de Fernanda. En lugar de tomar decisiones por ella o sobreprotegerla, se le da el protagonismo para que exprese sus necesidades y la forma en que desea recibir apoyo, reconociéndola como un sujeto de derechos con capacidad de decisión.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p02",
+      "contexto": "En el marco de un proyecto denominado \"Yo cuido mi barrio\", los estudiantes de una institución educativa han identificado diversos problemas que afectan los espacios públicos de la localidad. Ellos comentan que uno de estos problemas es no poder utilizar la losa deportiva del barrio, debido a que se encuentra deteriorada. En este contexto, la docente tiene como propósito que los estudiantes aborden este problema desde el enfoque de derechos del Currículo Nacional de la Educación Básica.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes acciones pedagógicas es más pertinente para ello?",
+          "opciones": [
+            "Solicitar a los estudiantes que recojan las quejas de los vecinos de la localidad sobre el estado de la losa deportiva. Luego, pedir que organicen la información recabada y, considerando esto, que elaboren una solicitud dirigida a la municipalidad del distrito, con la finalidad de que se halle una solución que atienda las quejas de los vecinos.",
+            "Realizar una plenaria con los estudiantes y dialogar sobre las mejoras que requiere la losa deportiva para que los vecinos puedan usarla. Luego, compartir acciones de participación realizadas en distintas localidades para resolver un problema similar y, sobre esta base, pedir que seleccionen la que sea más factible de replicar en su localidad.",
+            "Conversar con los estudiantes sobre las limitaciones que produce no poder usar la losa deportiva en sus vidas y en las de los vecinos. Luego, solicitar que expliquen si consideran necesario actuar frente a este problema y, a partir de ello, pedir que planteen propuestas para mejorar el estado en el que se encuentra la losa."
+          ],
+          "respuesta": "Conversar con los estudiantes sobre las limitaciones que produce no poder usar la losa deportiva en sus vidas y en las de los vecinos. Luego, solicitar que expliquen si consideran necesario actuar frente a este problema y, a partir de ello, pedir que planteen propuestas para mejorar el estado en el que se encuentra la losa.",
+          "respuestaCorta": "El enfoque de derechos implica que los estudiantes reconozcan cómo una situación afecta sus derechos y los de su comunidad, y que actúen como ciudadanos proponiendo soluciones.",
+          "solucionario": "La opción 'c' es la más pertinente porque promueve que los estudiantes tomen conciencia de cómo el problema afecta su derecho al esparcimiento y el de su comunidad. A partir de esta reflexión, se fomenta su rol como ciudadanos activos y propositivos, capaces de generar sus propias soluciones en lugar de solo canalizar quejas o replicar acciones externas.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p03",
+      "contexto": "Una docente se encuentra desarrollando una unidad didáctica sobre las características del suelo. En ese contexto, en una de las sesiones de aprendizaje, un equipo de estudiantes presenta la siguiente propuesta de indagación:\nNuestro equipo va a identificar qué tipo de suelo retiene mayor cantidad de agua. Para ello, vamos a realizar lo siguiente:\n1. Conseguir los siguientes materiales:\n• 6 muestras de suelo: 2 muestras de suelo arcilloso, 2 muestras de suelo arenoso y 2 muestras de suelo orgánico. Cada muestra de suelo debe pesar 50 g\n• 6 vasos descartables transparentes iguales\n• 6 tacitas o vasitos medidores de los que se usan para tomar jarabe\n• Agua\n2. En la base de cada vaso descartable se deben hacer tres agujeros de igual tamaño. La ubicación y la distancia que separa los agujeros debe ser igual en todos los vasos.\n3. Colocar cada una de las muestras de suelo en los vasos descartables, compactarlas y rotularlas.\n4. Instalar una tacita o vasito medidor en la base de cada vaso descartable de tal manera que sirva como colector del agua que se filtrará por los tres agujeros.\n5. Verter 10 mL de agua sobre cada una de las muestras de suelo.\n6. Después de 6 minutos, observar y registrar la cantidad de agua colectada en las tacitas o vasitos medidores de cada muestra.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes es la variable dependiente en la propuesta de indagación presentada por los estudiantes?",
+          "opciones": [
+            "La masa de cada muestra de suelo empleada.",
+            "El tiempo transcurrido hasta que empieza a salir el agua de las muestras.",
+            "La diferencia entre la cantidad de agua que ingresa y la que sale de las muestras."
+          ],
+          "respuesta": "La diferencia entre la cantidad de agua que ingresa y la que sale de las muestras.",
+          "respuestaCorta": "La variable dependiente es aquello que se mide como resultado del experimento. En este caso, se mide la cantidad de agua retenida por el suelo.",
+          "solucionario": "La variable independiente es la que se manipula, en este caso, el tipo de suelo. La variable dependiente es el resultado que se mide para ver el efecto de la variable independiente. El objetivo es saber cuánta agua retiene cada suelo, lo cual se calcula restando la cantidad de agua que sale (colectada) de la cantidad de agua que entra (vertida).",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Luego de llevar a cabo la propuesta de indagación, los estudiantes observaron que la cantidad de agua recolectada era muy pequeña como para identificar diferencias significativas entre las muestras. Tomando en cuenta lo observado por los estudiantes, ¿cuál de los siguientes ajustes es necesario realizar en la propuesta?",
+          "opciones": [
+            "Para cada tipo de suelo, incluir dos muestras de 100 g. Verter 20 mL de agua sobre las dos muestras.",
+            "Para cada tipo de suelo, incluir dos muestras de 50 g. Verter 20 mL de agua sobre una de las muestras y 50 mL de agua sobre la otra muestra.",
+            "Para cada tipo de suelo, incluir dos muestras de 150 g. Una de ellas será la muestra control. Verter 30 mL de agua sobre la otra muestra."
+          ],
+          "respuesta": "Para cada tipo de suelo, incluir dos muestras de 50 g. Verter 20 mL de agua sobre una de las muestras y 50 mL de agua sobre la otra muestra.",
+          "respuestaCorta": "Para obtener un volumen de agua recolectada mayor y más fácil de medir, es necesario aumentar la cantidad de agua que se vierte sobre las muestras.",
+          "solucionario": "El problema es que el volumen de agua filtrada es demasiado pequeño para notar diferencias. El ajuste más directo para solucionar esto es incrementar la cantidad de agua inicial vertida sobre las muestras. Al usar un volumen mayor de agua (como 50 mL), la cantidad de agua recolectada también será mayor, haciendo más evidentes y medibles las diferencias en la retención de cada tipo de suelo.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Luego de realizar los ajustes a su propuesta de indagación, los estudiantes la llevan a cabo. A continuación, se presenta la conclusión elaborada por uno de los integrantes del equipo: \"El suelo arenoso filtra más rápido el agua que los demás tipos de suelo\". ¿Cuál es el error que se evidencia en la conclusión elaborada por el estudiante?",
+          "opciones": [
+            "Considerar la rapidez de filtración en lugar de la cantidad de agua retenida por cada tipo de suelo.",
+            "Considerar la rapidez de filtración del agua en lugar de explicar a qué se deben las diferencias entre los tipos de suelo en función del tiempo que demoran en filtrar el agua.",
+            "Considerar que el suelo arenoso filtra el agua más rápido que los otros tipos de suelo en lugar de explicitar el tiempo que este tarda en filtrar el agua, en comparación con los otros tipos de suelo."
+          ],
+          "respuesta": "Considerar la rapidez de filtración en lugar de la cantidad de agua retenida por cada tipo de suelo.",
+          "respuestaCorta": "El error consiste en concluir sobre una variable (rapidez de filtración) que no corresponde a la pregunta de indagación original (cantidad de agua retenida).",
+          "solucionario": "La pregunta de indagación inicial era \"qué tipo de suelo retiene mayor cantidad de agua\". La conclusión del estudiante se enfoca en la velocidad con la que el agua pasa a través del suelo, lo cual es una variable diferente a la cantidad de agua retenida. La conclusión no responde directamente a la pregunta que guió el experimento.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p06",
+      "contexto": "Un docente se encuentra desarrollando una unidad didáctica sobre la forma en que los seres vivos obtienen energía. Como parte de esta unidad, presentó la siguiente ecuación global de la reacción química de un proceso de fermentación:\nC6H12O6 → 2CH3CH2OH + 2CO2 + energía\nglucosa      etanol      dióxido de carbono",
+      "imagen": "img/ascenso/secundaria/2023/cyt/1.jpg",
+      "preguntas": [
+        {
+          "pregunta": "La fermentación es un proceso anaeróbico. ¿Cuál de las siguientes características permite diferenciar la fermentación de la respiración aeróbica?",
+          "opciones": [
+            "La liberación de energía.",
+            "La obtención de etanol en lugar de agua.",
+            "La ruptura de glucosa en sustancias de menor peso molecular."
+          ],
+          "respuesta": "La obtención de etanol en lugar de agua.",
+          "respuestaCorta": "La fermentación alcohólica produce etanol como producto final, mientras que la respiración aeróbica produce agua.",
+          "solucionario": "Tanto la fermentación como la respiración aeróbica liberan energía y rompen la glucosa. La diferencia fundamental en los productos finales es que la respiración aeróbica, al utilizar oxígeno, produce agua (H2O), mientras que la fermentación alcohólica, al ser anaeróbica, produce etanol (CH3CH2OH).",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p07",
+      "contexto": "Un docente se encuentra desarrollando una unidad didáctica sobre las biomoléculas presentes en los alimentos. Durante una de las sesiones de aprendizaje, el docente comenta a los estudiantes lo siguiente: ",
+      "imagen": "img/ascenso/secundaria/2023/cyt/2.jpg",
+      "preguntas": [
+        {
+          "pregunta": "El docente pregunta a los estudiantes lo siguiente: \"De acuerdo con los resultados obtenidos, ¿de qué alimento es altamente probable que sea la muestra 'A'?\". A continuación, se presentan las respuestas de tres estudiantes. ¿Cuál de ellos menciona de qué alimento es altamente probable que sea la muestra 'A'?",
+          "opciones": [
+            "Ana dice: \"De papa sancochada\".",
+            "Brunella dice: \"De mantequilla\".",
+            "Cristel dice: \"De carne de res sancochada\"."
+          ],
+          "respuesta": "Cristel dice: \"De carne de res sancochada\".",
+          "respuestaCorta": "La muestra A dio positivo a Biuret (proteínas) y Sudán rojo (lípidos), lo cual es característico de la carne de res.",
+          "solucionario": "Los resultados para la muestra 'A' indican la presencia de proteínas (positivo en Biuret) y lípidos (positivo en Sudán rojo). De los alimentos mencionados, la carne de res sancochada es la que contiene una cantidad significativa de ambas biomoléculas.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "El docente pregunta a los estudiantes lo siguiente: \"De acuerdo con los resultados obtenidos, ¿de qué alimento es altamente probable que sea la muestra 'B'?\". A continuación, se presentan las respuestas de tres estudiantes. ¿Cuál de ellos menciona de qué alimento es altamente probable que sea la muestra 'B'?",
+          "opciones": [
+            "Alanis dice: \"De arroz cocido\".",
+            "Briseida dice: \"De miel pura\".",
+            "Caleb dice: \"De clara de huevo sancochado\"."
+          ],
+          "respuesta": "Alanis dice: \"De arroz cocido\".",
+          "respuestaCorta": "La muestra B dio positivo a Lugol, que detecta polisacáridos como el almidón, el componente principal del arroz cocido.",
+          "solucionario": "El resultado para la muestra 'B' es positivo únicamente para Lugol, el cual es un indicador de polisacáridos (almidón). Entre las opciones, el arroz cocido es el alimento cuya composición principal es el almidón.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "En otra de las sesiones de aprendizaje de la unidad, el docente presenta a los estudiantes la siguiente situación ficticia: \"Una persona pensó que tenía diabetes luego de obtener, en tres ocasiones, un resultado positivo a la prueba de Benedict en orina. Se realizó un cuarto análisis, esta vez de sangre, y con otro método, para identificar su nivel de glucosa en la sangre. Su nivel de glucosa en sangre resultó normal\". El docente pregunta a los estudiantes qué podría explicar esta diferencia entre los resultados de las pruebas en orina y en sangre de esta persona. A continuación, se muestran las respuestas de tres estudiantes. ¿Cuál de los siguientes estudiantes responde correctamente la pregunta planteada por el docente?",
+          "opciones": [
+            "Álvaro dice: \"Posiblemente la muestra de orina de la persona se contaminó con el recipiente contenedor\".",
+            "Beatriz dice: \"Posiblemente la solución de Benedict utilizada en la muestra de orina estaba defectuosa o caduca\".",
+            "Camilo dice: \"Posiblemente la prueba de Benedict identificó en la muestra de orina azúcares diferentes a la glucosa\"."
+          ],
+          "respuesta": "Camilo dice: \"Posiblemente la prueba de Benedict identificó en la muestra de orina azúcares diferentes a la glucosa\".",
+          "respuestaCorta": "El reactivo de Benedict detecta la presencia de azúcares reductores en general, no es específico para la glucosa, lo que puede dar falsos positivos para diabetes.",
+          "solucionario": "La prueba de Benedict no es específica para la glucosa; reacciona con cualquier azúcar reductor. Es posible que la orina de la persona contuviera otros azúcares reductores (como fructosa o lactosa) que dieron un resultado positivo, mientras que su nivel de glucosa en sangre (el indicador clave para la diabetes) era normal. Esto explica la discrepancia entre las pruebas.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p10",
+      "contexto": "A continuación, se presenta el procedimiento y los resultados obtenidos en una investigación realizada por un equipo de científicos. ",
+      "imagen": "img/ascenso/secundaria/2023/cyt/3.jpg",
+      "preguntas": [
+        {
+          "pregunta": "De acuerdo con el procedimiento realizado y los resultados obtenidos por el equipo de científicos, ¿cuál es la variable dependiente?",
+          "opciones": [
+            "El tipo de enzima: la pepsina.",
+            "La apariencia final de la albúmina.",
+            "La cantidad de gotas de ácido clorhídrico."
+          ],
+          "respuesta": "La apariencia final de la albúmina.",
+          "respuestaCorta": "La variable dependiente es el resultado que se mide para observar el efecto de los cambios realizados, en este caso, la apariencia de la albúmina.",
+          "solucionario": "En este experimento, se manipulan las condiciones en cada tubo (presencia de pepsina, ácido, temperatura de la pepsina), que son las variables independientes. La variable que se observa y registra para ver el resultado de esas manipulaciones es la apariencia de la albúmina (lechosa, turbia, clara), que indica si la proteína fue digerida o no. Por lo tanto, la apariencia es la variable dependiente.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "De acuerdo con los resultados obtenidos por el equipo de científicos, ¿cuál de las siguientes afirmaciones es correcta?",
+          "opciones": [
+            "La acción de la pepsina es independiente del pH del medio.",
+            "La temperatura altera la función de la pepsina sobre la albúmina.",
+            "El ácido clorhídrico descompone la albúmina presente en la clara de huevo."
+          ],
+          "respuesta": "La temperatura altera la función de la pepsina sobre la albúmina.",
+          "respuestaCorta": "La pepsina hervida (Tubo E) no digirió la albúmina, demostrando que la alta temperatura desnaturalizó la enzima e impidió su funcionamiento.",
+          "solucionario": "Al comparar los resultados del Tubo B (pepsina activa) con el Tubo E (pepsina hervida), se observa que en el Tubo E no hubo digestión de la albúmina (apariencia lechosa). Esto demuestra que el calentamiento hasta el punto de ebullición desnaturalizó la enzima pepsina, alterando su estructura tridimensional y, por ende, su función catalítica.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p12",
+      "contexto": "Una docente se encuentra desarrollando una unidad didáctica sobre las propiedades de los metales. Como parte de esta unidad, presenta a los estudiantes un video de un experimento en el que se muestra la velocidad de reacción de algunos metales. A continuación, se describe el video observado: ",
+      "imagen": "img/ascenso/secundaria/2023/cyt/4.jpg",
+      "preguntas": [
+        {
+          "pregunta": "En el experimento presentado en el video, ¿cuál es la variable independiente?",
+          "opciones": [
+            "El volumen del ácido clorhídrico.",
+            "La identidad química del metal empleado.",
+            "El tiempo que demoran los metales en consumirse."
+          ],
+          "respuesta": "La identidad química del metal empleado.",
+          "respuestaCorta": "La variable independiente es la que se cambia a propósito para observar su efecto; en este caso, se utilizan diferentes tipos de metales.",
+          "solucionario": "El propósito del experimento es comparar la reactividad de diferentes metales. Para lograrlo, la variable que se manipula o cambia intencionadamente es el tipo de metal (magnesio, zinc, hierro, cobre). Las demás variables, como la cantidad de metal, la concentración y volumen del ácido, y las condiciones ambientales, se mantienen constantes (variables de control).",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+
+  
+    {
+      "idGrupo": "asc_secundaria_2023_p12",
+      
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Luego de observar el video, la docente promueve que los estudiantes comenten lo que han comprendido. A continuación, se presentan las afirmaciones realizadas por tres estudiantes. ¿Cuál de las afirmaciones de los estudiantes es correcta?",
+          "opciones": [
+            "Armando dice: \"La reacción química se puede llevar a cabo, porque el metal no está entero sino en polvo\".",
+            "Bianca dice: \"El metal es el reactivo que determina el final de la reacción química, porque disminuye en cantidad hasta consumirse\".",
+            "Carol dice: \"El desprendimiento de burbujas durante la reacción se debe a la formación de un gas tóxico, porque el ácido clorhídrico es tóxico\"."
+          ],
+          "respuesta": "Bianca dice: \"El metal es el reactivo que determina el final de la reacción química, porque disminuye en cantidad hasta consumirse\".",
+          "respuestaCorta": "La afirmación es correcta porque el metal es el reactivo limitante, es decir, el que se consume por completo y detiene la reacción.",
+          "solucionario": "En una reacción química, el reactivo limitante es aquel que se agota primero y, por lo tanto, determina cuándo se detiene la reacción. El enunciado del problema especifica que 'los metales en polvo se consumen por completo', lo que identifica al metal como el reactivo limitante. La afirmación de Bianca describe correctamente este rol.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p14",
+      "contexto": "Un docente se encuentra desarrollando una unidad didáctica sobre la acción del calor en los cuerpos. Como parte de esta unidad, realiza la siguiente actividad con los estudiantes: ",
+      "imagen": "img/ascenso/secundaria/2023/cyt/5.jpg",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es el error que se evidencia en el comentario del estudiante?",
+          "opciones": [
+            "Creer que los globos llenos con agua revientan al ser expuestos al calor de una vela.",
+            "Creer que el calor proporcionado por la vela es suficiente para generar algún cambio en los globos.",
+            "Creer que las sustancias contenidas en los globos presentan el mismo comportamiento frente al calor."
+          ],
+          "respuesta": "Creer que las sustancias contenidas en los globos presentan el mismo comportamiento frente al calor.",
+          "respuestaCorta": "El error del estudiante es generalizar su experiencia previa sin considerar que las diferentes sustancias dentro de los globos (aire vs. agua) tienen distintas propiedades térmicas.",
+          "solucionario": "El estudiante comete un error de sobregeneralización al suponer que todos los globos reaccionarán al calor de la misma manera, basándose en su experiencia con globos llenos de aire. No considera que el agua tiene una alta capacidad calorífica, lo que le permite absorber una gran cantidad de calor de la llama. Esto mantiene la temperatura del plástico del globo por debajo de su punto de fusión, evitando que se reviente, a diferencia del globo con aire.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p15",
+      "contexto": "Un docente se encuentra desarrollando una unidad didáctica que tiene como propósito describir las características de los gases ideales.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "contexto": "A continuación, se presenta una de las actividades realizadas con los estudiantes: ",
+          "imagen":"img/ascenso/secundaria/2023/cyt/6.jpg",
+          "pregunta":"Considerando que los gases se comportan de manera ideal, ¿cuál es el error que se evidencia en la respuesta del estudiante?",
+          "opciones": [
+            "Creer que la presión ejercida por los gases en los globos es proporcional a su masa molar.",
+            "Creer que las sustancias contenidas en los globos tienen diferente masa molar.",
+            "Creer que todos los globos contienen la misma cantidad de moléculas de gas."
+          ],
+          "respuesta": "Creer que la presión ejercida por los gases en los globos es proporcional a su masa molar.",
+          "respuestaCorta": "El error es pensar que la masa molar afecta la presión. Según la ley de los gases ideales, la presión depende del número de moles, no del tipo de gas, si el volumen y la temperatura son constantes.",
+          "solucionario": "Según el principio de Avogadro y la ley de los gases ideales (PV=nRT), a igual volumen, temperatura y cantidad de sustancia (número de moles), todos los gases ideales ejercen la misma presión. El estudiante comete el error de asociar la presión con la masa molar de las moléculas del gas, cuando en realidad depende del número de partículas (moles) presentes en el recipiente. Como todos los globos tienen 0.1 mol, la presión debe ser la misma en todos.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "En otra de las sesiones de aprendizaje, el docente realizó la siguiente actividad con los estudiantes: \n1. Infló un globo, asegurándose de no inflarlo a su máxima capacidad. Luego, le hizo un nudo. \n2. Colocó el globo al interior de una jarra de plástico transparente con tapa. \n3. Por el pico de la jarra, agregó agua caliente hasta la mitad de su capacidad. \n4. Solicitó a los estudiantes observar y registrar lo que sucedía con el globo. Los estudiantes registraron que el tamaño del globo había aumentado. \n5. Finalmente, el docente preguntó lo siguiente: \n\"¿A qué se debe el cambio observado en el globo después de haber entrado en contacto con el agua caliente?\". ¿Cuál es el propósito de la actividad realizada por el docente?",
+          "opciones": [
+            "Que los estudiantes establezcan relaciones entre el volumen y la temperatura de los gases.",
+            "Que los estudiantes identifiquen cómo se equilibra la temperatura del globo con la temperatura del agua.",
+            "Que los estudiantes establezcan la diferencia entre la densidad de los líquidos y la de los gases a diferentes temperaturas."
+          ],
+          "respuesta": "Que los estudiantes establezcan relaciones entre el volumen y la temperatura de los gases.",
+          "respuestaCorta": "El propósito es demostrar experimentalmente la Ley de Charles, que establece que el volumen de un gas es directamente proporcional a su temperatura.",
+          "solucionario": "La actividad está diseñada para que los estudiantes observen que al aumentar la temperatura del gas dentro del globo (por el contacto con el agua caliente), su volumen también aumenta (el globo se infla más). Este fenómeno ilustra la relación directamente proporcional entre el volumen y la temperatura de un gas a presión constante, conocida como la Ley de Charles. El objetivo es que los estudiantes infieran esta relación a partir de la observación.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p17",
+      "contexto": "Un docente se encuentra desarrollando una sesión de aprendizaje sobre la teoría cinético-molecular. Como parte de esta sesión, el docente agregó igual cantidad de gotas de colorante azul a dos vasos. Uno de ellos contenía agua a temperatura ambiente, a 20°C y, el otro vaso, agua a 50°C. \n\nAmbos vasos contenían la misma cantidad de agua. Luego, solicitó a los estudiantes explicar lo que ocurrió en los vasos. \n\nA continuación, se presenta la intervención de Raúl, uno de los estudiantes: \n\n\"A diferencia de lo que ocurre en el agua sólida o hielo, en el agua líquida las moléculas que la conforman sí se mueven. Estas moléculas se mueven aún más cuando el agua líquida está caliente. Este movimiento contribuye a que el colorante, que también es líquido, se disperse en el vaso con agua caliente\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es el error que se evidencia en el comentario del estudiante?",
+          "opciones": [
+            "Creer que el estado de agregación de las sustancias favorece que estas se mezclen.",
+            "Creer que la temperatura influye en el movimiento de las moléculas en un líquido.",
+            "Creer que las moléculas que conforman el estado sólido carecen de movimiento."
+          ],
+          "respuesta": "Creer que las moléculas que conforman el estado sólido carecen de movimiento.",
+          "respuestaCorta": "El error del estudiante es afirmar que las moléculas en estado sólido (hielo) no se mueven, cuando en realidad vibran en posiciones fijas.",
+          "solucionario": "La teoría cinético-molecular establece que las partículas de la materia están en constante movimiento en todos los estados (sólido, líquido y gaseoso). Aunque el resto del razonamiento del estudiante es correcto, su frase inicial \"A diferencia de lo que ocurre en el agua sólida o hielo...\" sugiere erróneamente que las moléculas en el hielo están inmóviles. En el estado sólido, las moléculas vibran continuamente en torno a sus posiciones en la red cristalina.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p18",
+      "contexto": "Un docente se encuentra desarrollando una sesión de aprendizaje acerca de las características y aplicaciones de los gases nobles. A continuación, se presenta el diálogo entre el docente y los estudiantes:\nPaolo dice: \"Profesor, yo he visto que en algunas tiendas suelen poner letreros con luces de neón\".\n\nEl docente dice: \"Claro, muchos letreros usan gases nobles como el neón. De acuerdo con lo desarrollado en clase, ¿cuáles son las características de estos gases?\".\n\nFelipe dice: \"Estos gases no tienen olor, pero sí tienen color; por eso, se usan en los letreros que menciona Paolo. Antes se llamaban gases raros porque se creía que eran escasos en la naturaleza, pero ahora se sabe que algunos de ellos abundan. Actualmente se llaman gases nobles porque son los elementos menos reactivos de la tabla periódica\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es el error que se evidencia en el comentario de Felipe?",
+          "opciones": [
+            "Creer que los gases nobles presentan color.",
+            "Creer que los gases nobles abundan en la naturaleza.",
+            "Creer que los gases nobles son inodoros."
+          ],
+          "respuesta": "Creer que los gases nobles presentan color.",
+          "respuestaCorta": "El error de Felipe es afirmar que los gases nobles tienen color por sí mismos. En realidad, son incoloros y solo emiten luz coloreada al ser excitados por una corriente eléctrica.",
+          "solucionario": "Los gases nobles en su estado natural son incoloros. El color característico de las 'luces de neón' no es una propiedad inherente del gas, sino el resultado de la emisión de luz cuando los átomos del gas son excitados por una descarga eléctrica de alto voltaje. El error de Felipe es atribuirles color como una característica intrínseca.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Paolo le pregunta al docente lo siguiente: \"¿Por qué los gases nobles son los elementos menos reactivos de la tabla periódica?\". El docente tiene como propósito que el estudiante identifique la información que necesita para responder a su pregunta. ¿Cuál de las siguientes acciones es más pertinente que realice el docente para lograr este propósito?",
+          "opciones": [
+            "Sugerir al estudiante que revise algunas fuentes de información confiable sobre las aplicaciones de los gases nobles debido a su estabilidad química.",
+            "Desarrollar conjuntamente la configuración electrónica de un gas noble y pedir al estudiante que identifique los electrones de valencia.",
+            "Representar en la pizarra las fuerzas intermoleculares de los gases nobles y pedir al estudiante que identifique los tipos de fuerzas."
+          ],
+          "respuesta": "Desarrollar conjuntamente la configuración electrónica de un gas noble y pedir al estudiante que identifique los electrones de valencia.",
+          "respuestaCorta": "La acción más pertinente es analizar la configuración electrónica, ya que la baja reactividad de los gases nobles se debe a que tienen su capa de valencia completa.",
+          "solucionario": "La reactividad de un elemento químico está determinada fundamentalmente por su número de electrones de valencia. La acción más directa y conceptualmente correcta para que el estudiante comprenda la estabilidad de los gases nobles es guiarlo para que analice su configuración electrónica. Al hacerlo, descubrirá que su última capa de electrones está completa (cumplen la regla del octeto), lo que les confiere una gran estabilidad y, por ende, una reactividad muy baja.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p20",
+      "contexto": "Una docente se encuentra desarrollando una sesión de aprendizaje sobre el aporte calórico de los alimentos. En este contexto, un equipo de estudiantes plantea una propuesta para identificar el aporte calórico del maní. A continuación, se presenta la propuesta del equipo de estudiantes. ",
+      "imagen": "img/ascenso/secundaria/2023/cyt/7.jpg",
+      "preguntas": [
+        {
+         "imagen":"img/ascenso/secundaria/2023/cyt/8.jpg",
+            "pregunta": "Pablo, uno de los integrantes del equipo, muestra a la docente el procedimiento que ha realizado para determinar las calorías en un solo grano de maní:  ¿Cuál es el error que se evidencia en el procedimiento realizado por el estudiante?",
+          "opciones": [
+            "Emplear la masa del grano de maní.",
+            "Incluir la variación de la temperatura del agua.",
+            "Usar 1 cal/g°C como el calor específico del agua."
+          ],
+          "respuesta": "Emplear la masa del grano de maní.",
+          "respuestaCorta": "El error está en usar la masa del maní en la fórmula de calor (Q=mcΔT). Se debe usar la masa del agua, que es la sustancia que absorbe el calor.",
+          "solucionario": "La fórmula para calcular la cantidad de calor absorbido (Q) es Q = m·c·ΔT, donde 'm' es la masa de la sustancia que cambia de temperatura. En este experimento, la sustancia que se calienta y cuya temperatura se mide es el agua. Por lo tanto, en la fórmula se debe utilizar la masa del agua (5 g), no la masa del maní (2 g), que es la fuente de calor.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Sofía, una integrante del equipo, comenta lo siguiente: \"Si hubiéramos utilizado una lata vacía de gaseosa en lugar de un tubo de ensayo, por conducción, la lata, como es de metal, se habría calentado más rápido que el vidrio del tubo de ensayo\". ¿Cuál es el aprendizaje evidenciado en el comentario de la estudiante?",
+          "opciones": [
+            "Diferencia entre calor y temperatura de las sustancias.",
+            "Define que el calor es una manifestación de la energía térmica de las sustancias.",
+            "Identifica que las características de las sustancias influyen en la cantidad de calor que transfieren."
+          ],
+          "respuesta": "Identifica que las características de las sustancias influyen en la cantidad de calor que transfieren.",
+          "respuestaCorta": "El comentario de Sofía demuestra que entiende que el tipo de material (metal vs. vidrio) afecta la velocidad de transferencia de calor, una propiedad conocida como conductividad térmica.",
+          "solucionario": "El comentario de la estudiante compara la rapidez con la que se calentarían dos materiales diferentes (metal de la lata y vidrio del tubo de ensayo). Al afirmar que el metal se calentaría más rápido, demuestra que comprende que la transferencia de calor por conducción depende de las propiedades intrínsecas del material, es decir, de su conductividad térmica.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Alicia, otra integrante del equipo, comenta lo siguiente: \"En esta propuesta, mientras el agua se calienta, también se libera calor al ambiente. Por eso, es posible que el termómetro no registre la temperatura final como tiene que ser\". Tomando en cuenta el comentario de la estudiante, ¿cuál de los siguientes reajustes es necesario realizar en la propuesta?",
+          "opciones": [
+            "Utilizar más granos de maní juntos.",
+            "Utilizar un tapón con un solo orificio.",
+            "Utilizar dos mecheros al mismo tiempo."
+          ],
+          "respuesta": "Utilizar un tapón con un solo orificio.",
+          "respuestaCorta": "Para minimizar la pérdida de calor al ambiente que Alicia identificó, se debe aislar el sistema, y usar un tapón es una forma efectiva de hacerlo.",
+          "solucionario": "Alicia identifica correctamente una fuente de error experimental: la pérdida de calor del sistema (el agua en el tubo de ensayo) hacia el entorno. Para obtener una medición más precisa del calor transferido del maní al agua, es necesario minimizar esta pérdida. Un tapón en el tubo de ensayo (con un orificio para el termómetro) actuaría como un aislante, reduciendo la pérdida de calor por convección y evaporación, lo que permitiría un registro más exacto de la temperatura final.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p23",
+      "contexto": "Un estudiante comenta que no entiende por qué hay tanta publicidad en contra del consumo de azúcar de mesa y de golosinas si los carbohidratos son importantes en la dieta de las personas.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes alternativas es una ayuda pedagógica pertinente para este estudiante?",
+          "opciones": [
+            "Explicarle la diferencia entre el proceso de digestión del azúcar y las golosinas, y el de las legumbres, y pedirle que compare la información nutricional para ambos.",
+            "Presentarle una tabla en la que se compare la cantidad de calorías de diferentes golosinas versus la de frutas y cereales para que note que estos tienen una cantidad mucho menor de calorías.",
+            "Pedirle que lea la información nutricional de las golosinas para que observe que estas, a diferencia del azúcar de mesa, tienen sustancias que sí son perjudiciales para la salud, como grasas, colorantes artificiales y alto contenido de sodio."
+          ],
+          "respuesta": "Explicarle la diferencia entre el proceso de digestión del azúcar y las golosinas, y el de las legumbres, y pedirle que compare la información nutricional para ambos.",
+          "respuestaCorta": "La mejor ayuda es diferenciar entre carbohidratos simples (azúcar) y complejos (legumbres), explicando sus distintos procesos digestivos y valor nutricional.",
+          "solucionario": "La confusión del estudiante radica en que considera a todos los carbohidratos como iguales. La intervención pedagógica más efectiva es ayudarle a distinguir entre carbohidratos simples (presentes en golosinas) que se absorben rápidamente y aportan pocas vitaminas o fibra, y carbohidratos complejos (presentes en legumbres) que tienen una digestión más lenta y son ricos en nutrientes. Comparar la información nutricional y los procesos digestivos de ambos tipos le permitirá construir una comprensión más matizada y responder a su propia duda.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p24",
+      "contexto": "Durante una sesión de aprendizaje acerca del proceso de respiración en el ser humano, un docente plantea la siguiente situación a los estudiantes: \"El aire que respiramos contiene una mezcla de gases, principalmente, nitrógeno en aproximadamente 78%, oxígeno cerca de 21%, además de otros gases. Cuando respiramos, consumimos parte del oxígeno del aire y producimos dióxido de carbono, pero ¿qué pasa con el nitrógeno presente en el aire que respiramos?\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "A continuación, se muestran las respuestas de tres estudiantes. ¿Cuál de los siguientes estudiantes responde correctamente la pregunta planteada por el docente?",
+          "opciones": [
+            "Ángela dice: \"El nitrógeno inhalado es incorporado a las proteínas\".",
+            "Brenda dice: \"El nitrógeno exhalado del cuerpo mantiene su identidad química\".",
+            "Cinthia dice: \"El nitrógeno no es inhalado, solo el oxígeno ingresa a los pulmones\"."
+          ],
+          "respuesta": "Brenda dice: \"El nitrógeno exhalado del cuerpo mantiene su identidad química\".",
+          "respuestaCorta": "El nitrógeno gaseoso (N₂) que inhalamos no es utilizado por el cuerpo en la respiración; simplemente entra y sale de los pulmones sin cambiar químicamente.",
+          "solucionario": "El cuerpo humano no puede utilizar el nitrógeno directamente del aire en su forma gaseosa (N₂) para procesos metabólicos como la síntesis de proteínas. El intercambio gaseoso en los alvéolos pulmonares se centra en el oxígeno y el dióxido de carbono. Por lo tanto, la gran cantidad de nitrógeno que se inhala simplemente se exhala sin sufrir ninguna transformación química.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+
+    
+    {
+      "idGrupo": "asc_secundaria_2023_p25",
+      "contexto": "Bety y Carmen viajan en un automóvil por una autopista recta y se mantienen en un mismo\ncarril. El automóvil tiene un instrumento que indica la rapidez con la que este se desplaza\nen cada instante. Al costado de la autopista, de manera paralela a esta, se encuentra una hilera de postes.\nLos postes están distanciados 10 m entre sí. Bety y Carmen deciden descansar y estacionan\nel automóvil justo a la altura de uno de los postes de la hilera. Luego de retomar el viaje,\nBety le empieza a escribir un mensaje de texto a su mamá para decirle en qué autopista\nse encuentra y que está viajando hacia el oeste. Para el momento en el que Bety envía el\nmensaje a su mamá, el automóvil ya avanzó 5 postes (tras pasar el primero).",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué información se necesita para saber la ubicación de Bety en la carretera en el instante\nen que envió el mensaje?",
+          "opciones": [
+            "La imagen de la carretera con las orientaciones cardinales.",
+            "La posición desde la que partió el automóvil después del descanso.",
+            "El sistema de referencia, el eje y sentido del movimiento del automóvil."
+          ],
+          "respuesta": "La posición desde la que partió el automóvil después del descanso.",
+          "respuestaCorta": "Para determinar la ubicación final de un objeto, es indispensable conocer su punto de partida o posición inicial.",
+          "solucionario": "La ubicación o posición es una magnitud relativa que depende de un punto de referencia. Para saber la ubicación final de Bety, no basta con saber cuánto se desplazó (50 m); es crucial conocer el punto de inicio de ese desplazamiento. Sin la posición inicial, es imposible determinar la posición final en la carretera.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "En el instante en el que Bety envía el mensaje a su mamá, el automóvil ya avanzó 5 postes (tras\npasar el primero). En ese instante, ¿cuál de las siguientes afirmaciones expresa correctamente\nel desplazamiento del automóvil?",
+          "opciones": [
+            "(-50 m, 0)",
+            "50 m en el eje +x.",
+            "50 m hacia el oeste."
+          ],
+          "respuesta": "50 m hacia el oeste.",
+          "respuestaCorta": "El desplazamiento es una magnitud vectorial, por lo que debe incluir tanto la magnitud (50 m) como la dirección (hacia el oeste).",
+          "solucionario": "El desplazamiento se define como un vector que une la posición inicial con la final, por lo que requiere especificar una magnitud y una dirección. La magnitud es la distancia recorrida: 5 postes × 10 m/poste = 50 m. La dirección se indica explícitamente en el texto: \"viajando hacia el oeste\". Por lo tanto, la expresión correcta del desplazamiento es '50 m hacia el oeste'.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Carmen determina que el automóvil ha avanzado ese tramo en 5 s. ¿Cuál de las siguientes\nafirmaciones es correcta respecto del movimiento del automóvil en ese tramo?",
+          "opciones": [
+            "La rapidez instantánea es 10 m/s.",
+            "La velocidad media es 5 m/s.",
+            "La rapidez media es 10 m/s."
+          ],
+          "respuesta": "La rapidez media es 10 m/s.",
+          "respuestaCorta": "La rapidez media se calcula dividiendo la distancia total recorrida (50 m) entre el tiempo empleado (5 s), lo que resulta en 10 m/s.",
+          "solucionario": "La rapidez media es una cantidad escalar que se calcula como la distancia total recorrida dividida por el intervalo de tiempo. La distancia es de 50 m (5 postes x 10 m) y el tiempo es de 5 s. Por lo tanto, la rapidez media es 50 m / 5 s = 10 m/s. No se puede determinar la rapidez instantánea ni la velocidad media sin más información.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Respecto de la aceleración del automóvil, ¿cuál de las siguientes afirmaciones es correcta?",
+          "opciones": [
+            "Si la persona que maneja el automóvil pisa el freno, la aceleración es nula.",
+            "Si el automóvil, tras ingresar a un óvalo y mientras da la vuelta, mantiene una rapidez constante, su aceleración también es constante.",
+            "Si el automóvil va en línea recta y la dirección y sentido de la aceleración va a favor del movimiento pero su magnitud disminuye, la rapidez del automóvil aumenta."
+          ],
+          "respuesta": "Si el automóvil va en línea recta y la dirección y sentido de la aceleración va a favor del movimiento pero su magnitud disminuye, la rapidez del automóvil aumenta.",
+          "respuestaCorta": "Mientras la aceleración y la velocidad tengan la misma dirección, la rapidez del objeto aumentará, incluso si la magnitud de la aceleración está disminuyendo.",
+          "solucionario": "La aceleración es el cambio de la velocidad. Si la aceleración tiene la misma dirección y sentido que la velocidad, el módulo de la velocidad (rapidez) aumentará. Aunque la magnitud de la aceleración disminuya, sigue siendo un valor positivo que se suma a la velocidad, por lo que el automóvil seguirá acelerando, aunque a un ritmo menor.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p29",
+      "contexto": "Un estudiante tiene como propósito determinar el trabajo realizado por el peso de una\nesfera mientras esta desciende rodando por una rampa.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "El estudiante ha medido tres datos. ¿Cuál de estos datos NO es necesario para que el\nestudiante logre su propósito?",
+          "opciones": [
+            "La masa de la esfera.",
+            "La distancia recorrida por la esfera en la rampa.",
+            "La altura de la rampa por la que desciende la esfera."
+          ],
+          "respuesta": "La distancia recorrida por la esfera en la rampa.",
+          "respuestaCorta": "El trabajo realizado por el peso (una fuerza conservativa) solo depende de la diferencia de altura vertical, no de la trayectoria o distancia recorrida.",
+          "solucionario": "El trabajo realizado por la fuerza gravitatoria (el peso) se calcula con la fórmula W = mgh, donde 'm' es la masa, 'g' la aceleración de la gravedad y 'h' el desplazamiento vertical (la altura). La distancia que la esfera recorre a lo largo de la rampa no interviene en el cálculo del trabajo realizado por el peso.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p30",
+      "contexto": "Como parte de una unidad didáctica sobre el estudio de los ecosistemas, un docente\nmuestra a los estudiantes el siguiente gráfico que representa una cadena alimenticia de un\necosistema en equilibrio.",
+      "imagen": "img/ascenso/secundaria/2023/cyt/9.jpg",
+      "preguntas": [
+        {
+          "pregunta": "El docente tiene como propósito que el estudiante identifique el error evidenciado en su\nrespuesta. ¿Cuál de los siguientes grupos de preguntas es pertinente que plantee el docente\npara lograr su propósito?",
+          "opciones": [
+            "La energía que pasa de un nivel a otro nivel trófico de la cadena alimenticia es\naproximadamente la décima parte. ¿A qué crees que se deba esto? ¿Consideraste esta\npérdida de energía en el esquema que elaboraste?",
+            "Además de las palomas, ¿cuáles son los principales depredadores de los saltamontes en\nlos ecosistemas? ¿Has considerado la cantidad de este tipo de artrópodos y la energía\nque estos aportan en el esquema que elaboraste?",
+            "Las plantas son los productores en esta cadena alimenticia. ¿Cuánta energía aportan\nlos productores en los ecosistemas? ¿Qué lugar deben ocupar los productores en el\nesquema que elaboraste?"
+          ],
+          "respuesta": "La energía que pasa de un nivel a otro nivel trófico de la cadena alimenticia es\naproximadamente la décima parte. ¿A qué crees que se deba esto? ¿Consideraste esta\npérdida de energía en el esquema que elaboraste?",
+          "respuestaCorta": "El estudiante dibujó una pirámide de energía invertida. La pregunta correcta debe guiarlo a reflexionar sobre la pérdida de energía en cada nivel trófico, lo que explica la forma correcta de la pirámide.",
+          "solucionario": "El error de Alan es representar la pirámide de energía de forma invertida. La energía fluye desde los productores (base) hacia los consumidores, pero en cada paso se pierde aproximadamente el 90%. Esto significa que la base (plantas) debe ser la más grande y la punta (halcones) la más pequeña. Las preguntas de la opción 'a' le hacen reflexionar sobre esta pérdida de energía (la regla del 10%), lo que le permitirá darse cuenta de que su esquema es incorrecto.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "El docente solicita a los estudiantes que brinden una razón por la que la cantidad de\nsaltamontes podría aumentar en dicha cadena alimenticia. A continuación, se muestran las\nrazones planteadas por tres estudiantes. ¿Cuál de los siguientes estudiantes brinda la razón\nmás probable?",
+          "opciones": [
+            "Abel dice: \"El surgimiento de una plaga en las plantas\".",
+            "Blanca dice: \"La aparición de otro depredador de las palomas\".",
+            "Crisanto dice: \"El brote de una enfermedad mortal en los halcones\"."
+          ],
+          "respuesta": "Blanca dice: \"La aparición de otro depredador de las palomas\".",
+          "respuestaCorta": "Un aumento en la población de saltamontes se explicaría por una disminución de sus depredadores (las palomas), lo cual ocurriría si apareciera un nuevo depredador para estas últimas.",
+          "solucionario": "Las poblaciones en una cadena trófica están interconectadas. La población de saltamontes está controlada por su depredador, la paloma. Si la población de palomas disminuye, habrá menos depredadores para los saltamontes y su población aumentará. La aparición de un nuevo depredador que cace palomas causaría esta disminución, beneficiando indirectamente a los saltamontes.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p32",
+      "contexto": "El brócoli, la coliflor y el repollo descendieron de la misma especie, la planta Brassica\noleracea salvaje. Para obtener la planta llamada brócoli, los horticultores identificaron\nindividuos de Brassica oleracea salvaje con tallos de floración especialmente grandes y\ncompactos. Cuando los individuos identificados se cruzaron entre sí, su descendencia\ndemostró tener tallos de floración más grandes y más compactos que la población\noriginal. Repitiendo este proceso en muchas generaciones, los horticultores lograron\nuna población cuyos tallos de floración eran extraordinariamente grandes y compactos.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué mecanismo de evolución se evidencia en la situación presentada?",
+          "opciones": [
+            "Selección artificial.",
+            "Selección natural.",
+            "Mutación dirigida."
+          ],
+          "respuesta": "Selección artificial.",
+          "respuestaCorta": "El mecanismo es la selección artificial, ya que son los humanos (horticultores) quienes seleccionan intencionadamente los rasgos deseados y controlan la reproducción.",
+          "solucionario": "La situación describe un proceso donde los humanos intervienen directamente para elegir y cruzar individuos con características específicas de interés (tallos grandes y compactos). Este proceso de selección y cría dirigido por humanos para favorecer ciertos rasgos se denomina selección artificial, en contraste con la selección natural, donde el agente selector es el ambiente.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p33",
+      "contexto": "Un docente se encuentra desarrollando una unidad didáctica sobre la evolución del ser\nhumano. Como parte de una de las sesiones de aprendizaje, el docente presenta a los\nestudiantes el siguiente esquema:",
+      "imagen": "img/ascenso/secundaria/2023/cyt/10.jpg",
+      "preguntas": [
+        {
+          "pregunta": "El docente solicita a los estudiantes que interpreten el esquema mostrado. A continuación,\nse presentan las respuestas de tres estudiantes. ¿Cuál de ellos interpreta correctamente el\nesquema?",
+          "opciones": [
+            "André dice: \"Los humanos evolucionaron a partir de los chimpancés\".",
+            "Benjamín dice: \"Los humanos son más evolucionados que los chimpancés\".",
+            "Carlos dice: \"Los humanos y los bonobos evolucionaron de un antepasado común\"."
+          ],
+          "respuesta": "Carlos dice: \"Los humanos y los bonobos evolucionaron de un antepasado común\".",
+          "respuestaCorta": "El esquema filogenético muestra que humanos y bonobos comparten una rama evolutiva que se origina en un ancestro común más reciente que el que comparten con los gorilas.",
+          "solucionario": "Este tipo de esquema, llamado cladograma o árbol filogenético, ilustra las relaciones de parentesco evolutivo. Los puntos de ramificación (nodos) representan ancestros comunes. El esquema muestra que las líneas que conducen a humanos, chimpancés y bonobos se separan de un nodo común, indicando que descienden de un mismo ancestro. Interpretar que uno evoluciona 'a partir' de otro que existe hoy es un error común (la falacia de la escala evolutiva).",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p34",
+      "contexto": "Gatos con diferentes características físicas se reproducen y obtienen crías. A continuación, se\npresenta un ejemplo de ello:\nUn gato de pelo largo, color negro, orejas largas y puntiagudas, y una gata de pelo corto,\ncolor blanco, orejas cortas y redondeadas tienen una cría de pelo corto, color blanco,\norejas largas y puntiagudas.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Asumiendo que hay tres genes que determinan la forma de las orejas, el largo del pelo y el\ncolor del pelo, y que cada uno de esos genes tiene dos alelos \"1\" y \"2\", ¿cuál es la relación\nentre los alelos \"1\" y \"2\" en el gen que determina la forma de las orejas?",
+          "opciones": [
+            "Uno de ellos es dominante incompleto sobre el otro.",
+            "Uno de ellos es dominante y el otro es recesivo.",
+            "Ambos son codominantes."
+          ],
+          "respuesta": "Uno de ellos es dominante y el otro es recesivo.",
+          "respuestaCorta": "Dado que la cría heredó el rasgo 'orejas largas' de uno de los padres, a pesar de que el otro tenía 'orejas cortas', el alelo para orejas largas es dominante sobre el de orejas cortas.",
+          "solucionario": "En la genética mendeliana, un alelo dominante es aquel que se expresa en el fenotipo incluso si está presente en una sola copia. Un alelo recesivo solo se expresa si ambas copias del gen lo contienen. En este caso, un padre tiene orejas largas y el otro cortas, pero la cría tiene orejas largas. Esto significa que el alelo para 'orejas largas y puntiagudas' es dominante, y el alelo para 'orejas cortas y redondeadas' es recesivo.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p35",
+      "contexto": "En una sesión de aprendizaje sobre los microorganismos, Celia, una estudiante, realizó el\nsiguiente comentario:\n\"Las bacterias solo causan enfermedades al ser humano. Deberíamos erradicarlas\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "La docente tiene como propósito generar conflicto cognitivo en la estudiante. De acuerdo con\neste propósito, ¿sobre cuál de los siguientes microorganismos debería sugerirle investigar a\nla estudiante?",
+          "opciones": [
+            "Sobre Lactobacillus bulgaricus.",
+            "Sobre Saccharomyces cerevisiae.",
+            "Sobre Mycobacterium tuberculosis."
+          ],
+          "respuesta": "Sobre Lactobacillus bulgaricus.",
+          "respuestaCorta": "Para contrarrestar la idea de que todas las bacterias son dañinas, es ideal investigar una bacteria beneficiosa como Lactobacillus bulgaricus, utilizada en la producción de yogur.",
+          "solucionario": "El propósito es generar un conflicto cognitivo, es decir, presentar información que contradiga la creencia errónea de la estudiante. Celia cree que todas las bacterias son perjudiciales. Investigar sobre *Lactobacillus bulgaricus*, una bacteria clave en la fermentación del yogur, le mostrará un ejemplo claro y conocido de una bacteria beneficiosa para el ser humano. *Mycobacterium tuberculosis* confirmaría su creencia, y *Saccharomyces cerevisiae* es una levadura (hongo), no una bacteria.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p36",
+      "contexto": "Oscar, un estudiante, comenta lo siguiente:\n\"Una bacteria se diferencia de un virus en el tipo de material genético que tienen. Las\nbacterias pueden tener ADN o ARN; en cambio, los virus solo tienen ARN, como, por\nejemplo, el virus de VIH\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es el error que se evidencia en la respuesta del estudiante?",
+          "opciones": [
+            "Creer que el VIH presenta ARN como material genético.",
+            "Creer que los virus solo tienen ARN como material genético.",
+            "Creer que las bacterias y los virus presentan material genético."
+          ],
+          "respuesta": "Creer que los virus solo tienen ARN como material genético.",
+          "respuestaCorta": "El error del estudiante es generalizar que todos los virus tienen ARN. Existen tanto virus de ARN como virus de ADN.",
+          "solucionario": "La afirmación del estudiante contiene dos errores. Primero, las bacterias tienen ADN como material genético principal (y ARN para la expresión génica), pero no ARN como genoma. El error principal, sin embargo, es la generalización sobre los virus. Si bien algunos virus como el VIH son de ARN (retrovirus), muchos otros virus tienen genomas de ADN (por ejemplo, los herpesvirus o el virus de la viruela). Por lo tanto, es incorrecto afirmar que los virus 'solo tienen ARN'.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+
+   
+    {
+      "idGrupo": "asc_secundaria_2023_p37",
+      "contexto": "Una docente se encuentra desarrollando una unidad didáctica sobre el cuidado de la salud.\nComo parte de una de las sesiones, la docente comenta que, de acuerdo con la Organización\nMundial de la Salud, el consumo máximo recomendado de sodio para los adultos es 2 g/día.\nLuego, presenta a los estudiantes la siguiente tabla:",
+      "imagen": "img/ascenso/secundaria/2023/cyt/11.jpg",
+      "preguntas": [
+        {
+          "pregunta": "La docente tiene como propósito que la estudiante identifique el error evidenciado en su\nintervención. ¿Cuál de los siguientes grupos de preguntas es pertinente para lograr este\npropósito?",
+          "opciones": [
+            "¿Qué masa de sodio consumió tu mamá en 4 pastillas de este medicamento? ¿Cómo es\nesta masa en comparación con la dosis diaria recomendada para el sodio?",
+            "¿Por qué tu mamá consumió este medicamento cada seis horas? ¿Tu mamá hubiera\nexcedido la dosis diaria recomendada para el sodio tomando menos pastillas?",
+            "¿Cuál de los medicamentos mostrados en la tabla presenta mayor masa de sodio? ¿Este\nmedicamento aliviaría más rápido el malestar de tu mamá que el que consumió?"
+          ],
+          "respuesta": "¿Qué masa de sodio consumió tu mamá en 4 pastillas de este medicamento? ¿Cómo es\nesta masa en comparación con la dosis diaria recomendada para el sodio?",
+          "respuestaCorta": "La estudiante cometió un error de cálculo. Las preguntas la guían para que calcule correctamente la ingesta total de sodio y la compare con el límite diario, permitiéndole autocorregirse.",
+          "solucionario": "El error de Lucía es de cálculo. Si su mamá tomó una pastilla cada 6 horas durante un día (24 horas), entonces tomó 4 pastillas en total. El consumo de sodio sería 4 pastillas * 338 mg/pastilla = 1352 mg, que es 1.352 g. Este valor no excede los 2 g recomendados. Las preguntas de la opción 'a' guían a la estudiante a realizar este cálculo por sí misma, lo que constituye una retroalimentación por descubrimiento.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p38",
+      "contexto": "Un equipo de científicos desarrolló una investigación cuyo propósito fue identificar\nlos beneficios de utilizar un medicamento de origen natural en el tratamiento de una\nenfermedad neurológica. Para ello, el equipo utilizó dos grupos de ratones: 'A' y 'B'. Los\nratones del grupo 'A' estaban sanos, mientras que los ratones del grupo 'B' presentaban\nla enfermedad neurológica. A partir de cada uno de estos grupos, se formaron dos\nsubgrupos: 'A1', 'A2', 'B1' y 'B2'. Cada subgrupo estuvo conformado por 12 ratones. Los\nsubgrupos 'A1' y 'B1' no recibieron el medicamento. Los subgrupos 'A2' y 'B2' recibieron\nuna dosis diaria de 30 µg/g de dicho medicamento durante 2 semanas.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es una variable que se debe mantener igual para todos los subgrupos en la investigación?",
+          "opciones": [
+            "La presencia de la enfermedad neurológica.",
+            "La alimentación de los ratones.",
+            "La dosis del medicamento."
+          ],
+          "respuesta": "La alimentación de los ratones.",
+          "respuestaCorta": "En un experimento controlado, variables como la alimentación deben mantenerse constantes (variables de control) para todos los grupos, para asegurar que los resultados se deban solo a las variables que se están probando.",
+          "solucionario": "Para que los resultados de una investigación sean válidos, es fundamental controlar las variables que podrían influir en el resultado, aparte de las que se están estudiando (las variables independientes). La alimentación puede afectar la salud general de los ratones y el curso de la enfermedad. Por lo tanto, debe ser idéntica para todos los subgrupos para garantizar que cualquier efecto observado se deba al medicamento y no a diferencias en la dieta.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p39",
+      "contexto": "Una alta concentración de sodio en la sangre es perjudicial para nuestro organismo.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cómo\nse manifestaría este problema en el cuerpo humano?",
+          "opciones": [
+            "El nivel de glucosa en sangre aumentaría.",
+            "La temperatura corporal sería inestable.",
+            "La presión arterial se elevaría."
+          ],
+          "respuesta": "La presión arterial se elevaría.",
+          "respuestaCorta": "El exceso de sodio provoca retención de líquidos en el torrente sanguíneo, lo que aumenta el volumen de la sangre y, consecuentemente, eleva la presión arterial.",
+          "solucionario": "El sodio juega un papel crucial en la regulación del equilibrio de líquidos del cuerpo. Una alta concentración de sodio en la sangre (hipernatremia) hace que el cuerpo retenga agua para intentar diluir el exceso de sodio. Este aumento en el volumen de líquido dentro de los vasos sanguíneos incrementa la presión que la sangre ejerce sobre las paredes de las arterias, lo que se conoce como hipertensión o presión arterial elevada.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p40",
+      "contexto": "A continuación, se presenta un gráfico sobre la acción bactericida de dos líquidos limpiadores\nen diferentes superficies.",
+      "imagen": "img/ascenso/secundaria/2023/cyt/12.jpg",
+      "preguntas": [
+        {
+          "pregunta": "A partir del gráfico, ¿cuál fue la variable dependiente en esta investigación?",
+          "opciones": [
+            "El momento en el que se recolectaron las muestras.",
+            "El número de bacterias registradas.",
+            "El tipo de líquido limpiador."
+          ],
+          "respuesta": "El número de bacterias registradas.",
+          "respuestaCorta": "La variable dependiente es la que se mide para observar los efectos de los cambios realizados. En este caso, se mide el número de bacterias para ver la eficacia de los limpiadores.",
+          "solucionario": "En esta investigación, las variables independientes son el tipo de líquido limpiador y el tipo de superficie, ya que son las condiciones que se manipulan. La variable dependiente es el resultado que se mide para evaluar el efecto de esas manipulaciones. El gráfico muestra cómo cambia el 'Número de bacterias' en función del limpiador y la superficie, por lo que el número de bacterias es la variable dependiente.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "El gráfico presenta una indicación del margen de error (I), es decir, la variabilidad de los\ndatos. ¿Por qué el gráfico presenta esta indicación?",
+          "opciones": [
+            "Porque los seres vivos, aunque sean microscópicos, presentan diferencias entre sí.",
+            "Porque la medición de microorganismos requiere técnicas indirectas de aproximación.",
+            "Porque la investigación se realizó en una oportunidad; es decir, no se llevaron a cabo repeticiones."
+          ],
+          "respuesta": "Porque la medición de microorganismos requiere técnicas indirectas de aproximación.",
+          "respuestaCorta": "Las barras de error se utilizan porque el conteo de bacterias no es un conteo directo, sino una estimación a través de técnicas como el cultivo en placa, que tienen una variabilidad inherente.",
+          "solucionario": "La cuantificación de poblaciones bacterianas no se realiza contando cada célula individualmente. Se emplean métodos indirectos, como el recuento de unidades formadoras de colonias, que son estimaciones. Estos métodos tienen una variabilidad intrínseca. Las barras de error representan esta incertidumbre o variabilidad estadística de las mediciones, mostrando un rango probable para el valor real.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "A partir del gráfico, ¿cuál de las siguientes afirmaciones es correcta?",
+          "opciones": [
+            "La acción bactericida del líquido limpiador B es mayor que la del líquido limpiador A.",
+            "La acción bactericida del líquido limpiador A es mayor que la del líquido limpiador B.",
+            "La acción bactericida de los líquidos limpiadores A y B es igual."
+          ],
+          "respuesta": "La acción bactericida del líquido limpiador B es mayor que la del líquido limpiador A.",
+          "respuestaCorta": "La acción bactericida es mayor en el limpiador B porque, después de su aplicación, la cantidad de bacterias restantes es significativamente menor que con el limpiador A en ambas superficies.",
+          "solucionario": "La eficacia bactericida se mide por la capacidad de reducir la población de bacterias. Al observar las barras de 'Después de lavar la superficie', se ve claramente que las barras correspondientes al líquido limpiador B son mucho más bajas que las del líquido A, tanto en el lavadero como en la mesa. Esto indica una mayor reducción de bacterias y, por lo tanto, una mayor acción bactericida.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Se asume que se realizará una nueva investigación, pero esta vez se utilizará solo uno de los\nlíquidos limpiadores sobre las dos superficies: lavadero y mesa. Se registrará el número de\nbacterias existentes en cada una de estas superficies antes de utilizar dicho líquido limpiador\ne inmediatamente después de usarlo. Además, también se registrará el número de bacterias\nque permanecieron al transcurrir 5 minutos, 10 minutos y 15 minutos, después de haber\nutilizado el líquido limpiador sobre ambas superficies.\nEn esta nueva investigación, ¿qué tipo de variable es el líquido limpiador?",
+          "opciones": [
+            "Es una variable independiente.",
+            "Es una variable dependiente.",
+            "Es una variable control."
+          ],
+          "respuesta": "Es una variable control.",
+          "respuestaCorta": "En el nuevo experimento, al usar un solo tipo de limpiador para todas las pruebas, este deja de ser una variable a comparar y se convierte en una condición constante, es decir, una variable de control.",
+          "solucionario": "En el nuevo diseño experimental, las variables que se manipulan (independientes) son el tipo de superficie y el tiempo transcurrido. La variable que se mide (dependiente) es el número de bacterias. Dado que se utiliza el mismo líquido limpiador en todas las condiciones, este factor se mantiene constante a lo largo de toda la investigación. Una variable que se mantiene constante a propósito para no influir en los resultados es una variable de control.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p44",
+      "contexto": "Como parte de una sesión de aprendizaje, una docente realiza la siguiente actividad con los\nestudiantes.\n1. Lleva al aula un balde con agua que tiene instalado un caño. Además, lleva una chalina\nde lana, una cañita de plástico o un paliglobo, y un recipiente.\n2. Abre el caño y deja caer un chorro delgado y continuo de agua en el recipiente.\n3. Frota la cañita con la chalina de lana.\n4. Luego, acerca la cañita al chorro de agua. Los estudiantes observan que el chorro de\nagua desvía su curso acercándose a la cañita.\n5. Finalmente, la docente pregunta a los estudiantes, ¿por qué creen que el chorro de\nagua se acerca a la cañita de plástico?",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es el propósito principal de la actividad realizada por la docente?",
+          "opciones": [
+            "Que los estudiantes identifiquen la transferencia de cargas eléctricas entre dos materiales,\nel plástico y el agua.",
+            "Que los estudiantes identifiquen las fuerzas electrostáticas que intervienen entre dos\nmateriales, el plástico y el agua.",
+            "Que los estudiantes identifiquen dos tipos de materiales: conductores, como el agua, y\naislantes eléctricos, como el plástico."
+          ],
+          "respuesta": "Que los estudiantes identifiquen las fuerzas electrostáticas que intervienen entre dos\nmateriales, el plástico y el agua.",
+          "respuestaCorta": "El propósito es que los estudiantes observen y expliquen el fenómeno de la atracción entre un objeto cargado (la cañita) y un cuerpo polar (el agua), evidenciando la existencia de fuerzas electrostáticas.",
+          "solucionario": "Al frotar la cañita, esta se carga eléctricamente. Aunque el agua es eléctricamente neutra, sus moléculas son polares (tienen una distribución de carga desigual). La cañita cargada induce una reorientación de las moléculas de agua, atrayendo el lado con carga opuesta. Esta atracción es una fuerza electrostática. El propósito de la actividad es que los estudiantes observen este efecto y lo atribuyan a la interacción de fuerzas eléctricas a distancia.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p45",
+      "contexto": "Como parte de una unidad didáctica sobre las características de la materia, un docente realiza\ncon los estudiantes la siguiente actividad:",
+      "imagen": "img/ascenso/secundaria/2023/cyt/13.jpg",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es el propósito principal de esta actividad?",
+          "opciones": [
+            "Promover en los estudiantes el diseño de propuestas de indagación.",
+            "Promover en los estudiantes el planteamiento de hipótesis de indagación.",
+            "Promover en los estudiantes la elaboración de conclusiones de indagación."
+          ],
+          "respuesta": "Promover en los estudiantes la elaboración de conclusiones de indagación.",
+          "respuestaCorta": "El propósito es que los estudiantes analicen los datos proporcionados de un experimento ya realizado para formular una conclusión fundamentada en la evidencia.",
+          "solucionario": "La actividad no pide a los estudiantes que diseñen un experimento ni que formulen una hipótesis inicial. En cambio, les proporciona un conjunto de datos y les pide que los interpreten para responder una pregunta. Esta tarea se centra en la habilidad de analizar evidencia experimental y, a partir de ella, elaborar una conclusión lógica y argumentada.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Luego, el docente pregunta a los estudiantes lo siguiente:\n\"De acuerdo con los resultados del experimento de Lavoisier, ¿de dónde provienen los\nrestos sólidos?\".\nA continuación, se muestran las respuestas de tres estudiantes. ¿Cuál de los siguientes\nestudiantes responde correctamente la pregunta planteada por el docente?",
+          "opciones": [
+            "Adriana dice: \"Provienen del material del que está hecho el frasco\".",
+            "Bertha dice: \"Provienen del aire dentro del frasco\".",
+            "Cristy dice: \"Provienen del agua dentro del frasco\"."
+          ],
+          "respuesta": "Adriana dice: \"Provienen del material del que está hecho el frasco\".",
+          "respuestaCorta": "Los datos muestran que la masa del frasco disminuyó, lo que indica que el material del frasco (vidrio) se disolvió parcialmente en el agua caliente, formando los restos sólidos.",
+          "solucionario": "La clave para responder está en comparar la masa del frasco vacío antes y después del calentamiento. La tabla muestra una disminución significativa en la masa del frasco. Lavoisier concluyó que el calentamiento prolongado causó que parte del vidrio del frasco se erosionara y se disolviera en el agua, apareciendo luego como un residuo sólido. Por lo tanto, los sólidos provienen del frasco, no de una transformación del agua.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Varios estudiantes han identificado que, tomando en cuenta la información de la tabla, en el\nresiduo sólido hay granos extra. En ese sentido, el docente solicita a los estudiantes proponer\nexplicaciones ante ese hecho. A continuación, se presenta la respuesta de Daniel, un estudiante:\n\"El frasco vacío, antes de calentarlo, tenía 21,50 granos. El frasco vacío, después de\ncalentarlo, tenía 4,12 granos. Restamos ambas cantidades y obtenemos 17,38 granos de\nrestos sólidos. En la tabla, dice que los restos sólidos son 20,40 granos. Esos 3,02 granos\nextra son un error. ¡El experimento no está bien realizado porque los resultados no son\nexactos!\".\nEl docente identifica que varios estudiantes están de acuerdo con Daniel. A partir de la\nrespuesta de los estudiantes, ¿cuál de los siguientes aprendizajes es más pertinente promover\nen ellos?",
+          "opciones": [
+            "Identifica la reproducibilidad de los resultados de un experimento.",
+            "Identifica el margen de error en las mediciones de un experimento.",
+            "Identifica el uso de unidades de medida en las mediciones de un experimento."
+          ],
+          "respuesta": "Identifica el margen de error en las mediciones de un experimento.",
+          "respuestaCorta": "El estudiante cree que una pequeña discrepancia invalida todo el experimento. El aprendizaje a promover es que toda medición experimental tiene un margen de error inherente.",
+          "solucionario": "La reacción del estudiante de descartar el experimento por no ser 'exacto' revela una concepción errónea de la naturaleza de la ciencia experimental. Ninguna medición es perfecta. Es pertinente promover la idea de que siempre existe un margen de error o incertidumbre en las mediciones, debido a las limitaciones de los instrumentos y los procedimientos. Los estudiantes deben aprender a evaluar si las discrepancias son significativas o si caen dentro de un error experimental aceptable.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p48",
+      "contexto": "Una docente está desarrollando una unidad didáctica sobre la formación de compuestos.\nEn este contexto, en una de las sesiones de aprendizaje, la docente presenta la siguiente\nnotación de Lewis para un elemento químico::",
+      "imagen": "img/ascenso/secundaria/2023/cyt/14.jpg",
+      "preguntas": [
+        {
+          "pregunta": "La docente pregunta a los estudiantes qué representan los puntos alrededor del elemento X.\nA continuación, se muestran las respuestas de tres estudiantes. ¿Cuál de los siguientes\nestudiantes responde correctamente la pregunta planteada por la docente?",
+          "opciones": [
+            "Alondra dice: \"Los electrones de valencia\".",
+            "Belén dice: \"Los enlaces químicos\".",
+            "Cristian dice: \"Los protones\"."
+          ],
+          "respuesta": "Alondra dice: \"Los electrones de valencia\".",
+          "respuestaCorta": "En una estructura de Lewis, los puntos que rodean el símbolo del elemento representan los electrones de valencia.",
+          "solucionario": "La notación de Lewis es una representación gráfica que muestra los electrones de la capa más externa de un átomo, que son los que participan en la formación de enlaces químicos. A estos electrones se les denomina electrones de valencia. Cada punto en la notación de Lewis simboliza un electrón de valencia.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+
+ 
+    {
+      "idGrupo": "asc_secundaria_2023_p48",
+      
+      
+      "preguntas": [
+        {
+          "contexto":"En una siguiente sesión de aprendizaje, la docente solicita a los estudiantes que representen\nla notación de Lewis para el compuesto cloruro de sodio. Francisco, uno de los estudiantes,\nescribe la siguiente respuesta:",
+            "pregunta": "\n¿Cuál es el error que se evidencia en la respuesta del estudiante?",
+          "imagen": "img/ascenso/secundaria/2023/cyt/15.jpg",
+            "opciones": [
+            "Representar al sodio y al cloro como iones.",
+            "Representar al sodio en el cloruro de sodio con 1 punto.",
+            "Representar al cloro en el cloruro de sodio con 8 puntos."
+          ],
+          "respuesta": "Representar al sodio en el cloruro de sodio con 1 punto.",
+          "respuestaCorta": "El error es dibujar un punto en el sodio, lo que sugiere un enlace covalente (compartición). En un enlace iónico como el NaCl, el sodio pierde su electrón y se representa como un catión sin puntos de valencia.",
+          "solucionario": "El cloruro de sodio (NaCl) es un compuesto iónico, formado por la transferencia de un electrón del sodio al cloro. El sodio pierde su electrón de valencia y se convierte en el ion Na⁺. El cloro gana ese electrón y se convierte en el ion Cl⁻. La notación de Lewis correcta es [Na]⁺[:Cl:]⁻. El error del estudiante es representar al sodio con un punto, lo cual implicaría que está compartiendo ese electrón, característico de un enlace covalente, en lugar de haberlo transferido por completo.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p50",
+      "contexto": "Como parte de una sesión de aprendizaje, una docente llevó a cabo la siguiente actividad con\nlos estudiantes:\n1. Presentó 2 vasos de plástico transparentes rotulados como \"A\" y \"B\", una botella con\nvinagre blanco (solución de CH₃COOH) y sal de cocina (NaCl).\n2. Colocó en cada vaso lo siguiente:\n• Vaso A: 50 mL de vinagre blanco.\n• Vaso B: 50 mL de vinagre blanco y una cucharadita de sal de cocina. Disolvió la sal\nen el vinagre.\n3. Consiguió tres monedas de 20 céntimos (las monedas estaban oxidadas). Sumergió una\nde las monedas en cada uno de los vasos y dejó una moneda sobre la mesa.\n4. Después de 5 minutos, retiró las monedas de los vasos, las enjuagó con agua y las secó.\n5. Solicitó a los estudiantes que observen lo que había sucedido en la superficie de las\nmonedas.\n6. Pidió que comparen y expliquen los cambios que observaron en las monedas.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Pedro, un estudiante, realizó el siguiente comentario:\n\"Las monedas de 20 céntimos están hechas de un solo metal. Este pierde su brillo y se\noxida en el ambiente\".\nLa docente sabe que las monedas de 20 céntimos están hechas de latón. ¿En cuál de los\nsiguientes aspectos la docente debe centrar la retroalimentación a brindar al estudiante?",
+          "opciones": [
+            "En la conformación de mezclas a partir de los metales.",
+            "En el carácter metálico de las sustancias.",
+            "En la oxidación de los metales."
+          ],
+          "respuesta": "En la conformación de mezclas a partir de los metales.",
+          "respuestaCorta": "El error del estudiante es creer que la moneda es un metal puro. La retroalimentación debe enfocarse en aclarar que el latón es una aleación, es decir, una mezcla de metales.",
+          "solucionario": "El comentario de Pedro revela una idea errónea sobre la composición de la moneda, al considerarla \"un solo metal\". El latón es en realidad una aleación (una mezcla homogénea, principalmente de cobre y zinc). El aspecto clave a corregir es su desconocimiento sobre las mezclas metálicas. La retroalimentación debe centrarse en el concepto de aleaciones para que comprenda la verdadera naturaleza del material.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Luego, la docente pregunta: \"En la actividad, ¿por qué el vinagre reacciona con el óxido de la\nsuperficie de las monedas?\".\nA continuación, se muestran las respuestas de tres estudiantes. ¿Cuál de los siguientes\nestudiantes responde correctamente la pregunta planteada por la docente?",
+          "opciones": [
+            "Antoni dice: \"Porque el pH del vinagre es ácido\".",
+            "Bernardo dice: \"Porque el vinagre es soluble en agua\".",
+            "Cindy dice: \"Porque el vinagre está a temperatura ambiente\"."
+          ],
+          "respuesta": "Antoni dice: \"Porque el pH del vinagre es ácido\".",
+          "respuestaCorta": "La reacción ocurre porque el óxido de la moneda es una sustancia básica que reacciona con el ácido acético presente en el vinagre, que es ácido.",
+          "solucionario": "El óxido que recubre la superficie de las monedas es un óxido metálico, que tiene propiedades básicas. El vinagre es una solución acuosa de ácido acético, que es un ácido débil. La limpieza de la moneda se produce debido a una reacción ácido-base, en la que el ácido del vinagre reacciona con el óxido básico, disolviéndolo.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "La docente comenta a los estudiantes que, en la actividad, el ácido acético presente en el\nvinagre y el cloruro de sodio, que se encuentra en la sal de cocina, se disocian en el agua.\nLuego, la docente pregunta: \"¿Qué producto o productos se obtienen a partir de esta\ndisociación?\".\nA continuación, se muestran las respuestas de tres estudiantes. ¿Cuál de los siguientes\nestudiantes responde correctamente la pregunta planteada por la docente?",
+          "opciones": [
+            "Alba dice: \"Se obtiene ácido clorhídrico (HCl)\".",
+            "Briana dice: \"Se obtiene dióxido de carbono (CO₂)\".",
+            "Carla dice: \"Se obtiene carbonato de sodio (Na₂CO₃)\"."
+          ],
+          "respuesta": "Alba dice: \"Se obtiene ácido clorhídrico (HCl)\".",
+          "respuestaCorta": "Al disociarse el ácido acético (CH₃COOH) y el cloruro de sodio (NaCl) en agua, los iones H⁺ y Cl⁻ presentes en la solución se combinan para formar ácido clorhídrico (HCl).",
+          "solucionario": "En la solución acuosa, el ácido acético (CH₃COOH) libera iones H⁺ y CH₃COO⁻, mientras que el cloruro de sodio (NaCl) se disocia en iones Na⁺ y Cl⁻. Los iones hidrógeno (H⁺) provenientes del ácido y los iones cloruro (Cl⁻) provenientes de la sal pueden combinarse para formar moléculas de ácido clorhídrico (HCl), un ácido más fuerte que ayuda a disolver el óxido metálico de manera más eficaz.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p53",
+      "contexto": "Una docente se encuentra desarrollando una unidad didáctica sobre las propiedades de las\nsoluciones.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Como parte de una de las sesiones de aprendizaje de dicha unidad, la docente comenta a los\nestudiantes lo siguiente:\n\"Es importante analizar, periódicamente, muestras de agua potable para corroborar si\nesta cumple con los estándares de calidad. El estándar de calidad de agua potable se\nrefiere a la concentración de sustancias presentes en el agua, por ejemplo, los metales.\nEstos no deben representar algún riesgo significativo para el ambiente ni para la salud\nde las personas que la consumen\".\nA continuación, José, un estudiante, realiza el siguiente comentario:\n\"Profesora, yo no entiendo cómo los metales puros pueden contaminar el agua si estos\nmetales son sólidos en su estado natural. Sería como cuando se te cae una moneda en\nun vaso con agua: la moneda se queda en el fondo. Y, cuando eso sucede, podemos\nseparar la moneda del agua sin que el agua se contamine\".\nLa docente tiene como propósito que el estudiante identifique el error evidenciado en su\ncomentario. ¿En cuál de los siguientes aspectos la docente debe centrar la retroalimentación\na brindar al estudiante?",
+          "opciones": [
+            "En la formación de mezclas heterogéneas entre metales.",
+            "En las reacciones químicas de los metales y la formación de compuestos.",
+            "En la cantidad de soluto que, en este caso, es un metal presente en las soluciones."
+          ],
+          "respuesta": "En las reacciones químicas de los metales y la formación de compuestos.",
+          "respuestaCorta": "El error del estudiante es pensar en los metales solo en su forma sólida e insoluble. La retroalimentación debe centrarse en cómo los metales reaccionan para formar compuestos solubles (iones) que sí contaminan el agua.",
+          "solucionario": "El estudiante concibe la contaminación por metales de forma incorrecta, imaginando trozos sólidos de metal que no se mezclan con el agua. El concepto clave que necesita comprender es que los metales en el ambiente pueden reaccionar (por ejemplo, oxidarse) y formar compuestos químicos (sales o iones) que son solubles en agua. Es esta forma disuelta la que constituye la contaminación y representa un riesgo para la salud, no el metal en su estado elemental y sólido.",
+          "seccion": "Casuística"
+        },
+        {
+          "contexto": "En otra de las sesiones de aprendizaje de la unidad, la docente realiza la siguiente actividad\ncon los estudiantes:",
+          "imagen":"img/ascenso/secundaria/2023/cyt/16.jpg",
+          "pregunta":"A continuación, se muestran las respuestas de tres estudiantes. ¿Cuál de los siguientes estudiantes responde correctamente la pregunta planteada por la docente?",
+          "opciones": [
+            "Aron dice: \"El plomo no supera el estándar de calidad en el agua potable\".",
+            "Braulio dice: \"El zinc no supera el estándar de calidad en el agua potable\".",
+            "Corina dice: \"El cobre no supera el estándar de calidad en el agua potable\"."
+          ],
+          "respuesta": "Corina dice: \"El cobre no supera el estándar de calidad en el agua potable\".",
+          "respuestaCorta": "Se deben convertir todas las concentraciones a ppm (mg/L). El Plomo (5 ppm) y el Zinc (10 ppm) superan sus límites, mientras que el Cobre (0.4 ppm) está por debajo de su límite de 2 ppm.",
+          "solucionario": "Para comparar los resultados con los estándares, es necesario expresar todas las concentraciones en las mismas unidades (ppm, que equivale a mg/L, asumiendo que 1L de agua tiene una masa de 1kg).\n- Plomo: 5 mg / 1 L = 5 ppm. Supera el límite de 0.01 ppm.\n- Zinc: 10⁻³ g / 100 g = 1 mg / 0.1 kg ≈ 10 mg/L = 10 ppm. Supera el límite de 3 ppm.\n- Cobre: 4 mg / 10 kg ≈ 4 mg / 10 L = 0.4 ppm. No supera el límite de 2 ppm.\nPor lo tanto, el cobre es el único metal que cumple con el estándar de calidad.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p55",
+      "contexto": "Como parte de una sesión de aprendizaje, una docente se encuentra desarrollando una\nactividad sobre la acidez de los vinagres comerciales. Los estudiantes saben que el principal\ncomponente de los vinagres comerciales es el ácido acético y que este ácido está presente\nen los vinagres en diferente concentración. Para determinar la concentración de ácido\nacético en una muestra de vinagre comercial, la docente y los estudiantes realizarán un\nproceso de titulación ácido-base. Para ello usarán una solución de una base fuerte, 50 mL\nde vinagre blanco comercial y un indicador de pH.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Para determinar la concentración de ácido acético en una muestra de vinagre comercial, los\nestudiantes necesitan identificar con precisión el volumen de la solución de la base fuerte\nque reacciona con este ácido. Ellos han averiguado que, usualmente, para 50 mL de vinagre,\nse requiere usar 20 mL de la solución de la base fuerte.\n¿Cuál de estos instrumentos es más pertinente que empleen los estudiantes para identificar\ncon precisión el volumen de la solución de la base fuerte a utilizar?",
+          "opciones": [
+            "Una bureta de 25 mL (+/- 0,05 mL).",
+            "Una probeta graduada de 100 mL (+/- 1,00 mL).",
+            "Un matraz Erlenmeyer de 250 mL (+/- 5,00 mL)."
+          ],
+          "respuesta": "Una bureta de 25 mL (+/- 0,05 mL).",
+          "respuestaCorta": "La bureta es el instrumento de laboratorio diseñado para medir volúmenes variables de líquido con alta precisión, siendo la herramienta estándar para las titulaciones.",
+          "solucionario": "Una titulación requiere la adición controlada y la medición exacta del volumen de una solución (el titulante). Entre las opciones, la bureta es el único instrumento diseñado para este propósito, ya que permite dispensar volúmenes variables con una precisión muy alta (indicada por la baja incertidumbre de +/- 0.05 mL). La probeta y el matraz son instrumentos para mediciones de volumen aproximadas.",
+          "seccion": "Casuística"
+        },
+        {
+          "contexto": "Los estudiantes necesitan seleccionar el indicador de pH pertinente para realizar la titulación.\nA continuación, se presentan las siguientes opciones de indicadores con las que cuentan los\nestudiantes: ",
+          "imagen":"img/ascenso/secundaria/2023/cyt/17.jpg",
+          "pregunta":"\n¿Cuál de los indicadores de la tabla deben seleccionar los estudiantes?",
+          "opciones": [
+            "Azul de timol.",
+            "Naranja de metilo.",
+            "Fenolftaleína."
+          ],
+          "respuesta": "Fenolftaleína.",
+          "respuestaCorta": "La titulación de un ácido débil (ácido acético) con una base fuerte tiene un punto de equivalencia en pH básico (>7). La fenolftaleína es el indicador adecuado porque su rango de viraje (8.2-10.0) se encuentra en esta zona básica.",
+          "solucionario": "La reacción de titulación es entre un ácido débil (ácido acético) y una base fuerte. Cuando se alcanza el punto de equivalencia, la sal formada (acetato de sodio) sufre hidrólisis, lo que resulta en una solución con un pH básico (mayor a 7). Por lo tanto, se necesita un indicador cuyo intervalo de viraje de color se encuentre en la región básica del pH. De las opciones, solo la fenolftaleína (pH 8.2-10.0) cumple con este requisito.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2023_p57",
+      "contexto": "Como parte de una unidad didáctica, un docente solicita a los estudiantes que formen equipos\nde trabajo para realizar una indagación que les permita responder las siguientes preguntas:\n¿Qué es la levadura? ¿Es un ser vivo?\nA continuación, se presenta el diálogo entre el docente y un equipo de estudiantes:\nMarcela dice: \"Yo he visto que en mi casa a veces usan levadura en polvo y, otras, levadura\nen barra. Y como no se mueven ni comen no creo que sean seres vivos\".\nDocente dice: \"(El docente sabe que lo que se vende como 'levadura en polvo' es, en\nrealidad, una sal). Es una hipótesis interesante. ¿Cómo podríamos comprobarla?\".\nInés dice: \"Pero yo creo que la levadura en barra sí es un ser vivo, porque he visto que\ncuando se usa esta levadura para hacer picarones y le agregan azúcar a la masa, la masa\nse levanta, o sea, que la levadura se come el azúcar y produce algo que levanta la masa\".\nMarcela dice: \"Entonces, podríamos probar si las levaduras están vivas o no haciendo\nmasa para picarones, una con levadura en polvo y otra con levadura en barra. Si la masa se\nlevanta, sabremos que sí son seres vivos y, si la masa no se levanta, entonces no son seres\nvivos\".\nJorge dice: \"Mejor disolvemos azúcar en agua y agregamos levadura en barra en una\nbotella y, en el pico, le ponemos un globo, porque he visto que usan globos para atrapar el\ngas que se produce. En otra botella, hacemos lo mismo, pero con levadura en polvo. Así,\nsabremos cuál de ellas está viva\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes preguntas es pertinente para retroalimentar a Marcela respecto de la\nnecesidad de controlar algunas variables en su propuesta de indagación?",
+          "opciones": [
+            "¿Qué instrumentos emplearás para medir el tiempo que demora en levantarse la masa\npara picarones?",
+            "¿Cuáles serán las evidencias que te permitirán comprobar que, efectivamente, las\nlevaduras son seres vivos o no?",
+            "¿Los otros ingredientes o el método de preparación de la masa para picarones pueden\nocasionar también que la masa se levante?"
+          ],
+          "respuesta": "¿Los otros ingredientes o el método de preparación de la masa para picarones pueden\nocasionar también que la masa se levante?",
+          "respuestaCorta": "La propuesta de Marcela tiene variables no controladas (otros ingredientes de la masa). La pregunta pertinente la orienta a reflexionar sobre cómo estos factores podrían afectar su resultado.",
+          "solucionario": "El diseño experimental de Marcela es deficiente porque la masa de picarones contiene múltiples ingredientes (harina, agua, azúcar, etc.) que podrían interactuar o afectar el resultado. Para poder atribuir el levantamiento de la masa únicamente al tipo de levadura, es necesario controlar las demás variables. La pregunta de la opción 'c' la lleva a considerar estos otros factores, ayudándola a entender la importancia del control de variables en una indagación científica.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Cuál es la variable dependiente de la indagación planteada por Jorge?",
+          "opciones": [
+            "El tipo de levadura.",
+            "La producción de gas.",
+            "La presencia de azúcar."
+          ],
+          "respuesta": "La producción de gas.",
+          "respuestaCorta": "En el experimento de Jorge, lo que se mide para ver el resultado es si el globo se infla, lo cual es una medida de la producción de gas. Por lo tanto, esta es la variable dependiente.",
+          "solucionario": "En la propuesta de Jorge, la variable que se manipula intencionalmente es el 'tipo de levadura' (independiente). La variable que se observa y mide como resultado de este cambio es la cantidad de gas producido, evidenciada por el inflado del globo. Por lo tanto, la 'producción de gas' es la variable dependiente.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Los estudiantes llevaron a cabo la propuesta de Jorge y observaron que ambos globos se\ninflaron. A partir de ello, concluyeron que tanto la levadura en barra como la levadura en\npolvo son seres vivos.\nEl docente identifica que los estudiantes deben realizar un ajuste en su plan de indagación,\npues la \"levadura en polvo\" no es un ser vivo.\n¿Qué procedimiento deben incluir los estudiantes en su indagación para que cuestionen su\nconclusión?",
+          "opciones": [
+            "Realizar los experimentos planteados, pero esta vez no utilizar azúcar.",
+            "Realizar los experimentos planteados, pero esta vez emplear agua a mayor temperatura.",
+            "Realizar los experimentos planteados, pero esta vez disolver bien la levadura antes de colocar los globos."
+          ],
+          "respuesta": "Realizar los experimentos planteados, pero esta vez no utilizar azúcar.",
+          "respuestaCorta": "Para diferenciar el proceso biológico (levadura viva que come azúcar) del químico (sal que reacciona con agua), el control clave es quitar el azúcar. Sin azúcar, la levadura viva no producirá gas, desenmascarando la conclusión errónea.",
+          "solucionario": "La conclusión de los estudiantes es incorrecta porque la 'levadura en polvo' (una sal química, como el bicarbonato) produce gas por una reacción química, mientras que la levadura real lo hace por un proceso biológico (fermentación del azúcar). Para que los estudiantes cuestionen su conclusión, deben realizar un experimento de control que diferencie estos dos mecanismos. Al quitar el azúcar, la levadura real (ser vivo) ya no tendrá alimento y no producirá gas, mientras que la reacción de la 'levadura en polvo' podría ocurrir de todas formas. Esto les mostraría que los procesos subyacentes son diferentes.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes gráficos es una representación adecuada de los gases al interior del\nsistema cuando termina la reacción planteada por los estudiantes en su indagación?",
+          "imagen":"img/ascenso/secundaria/2023/cyt/18.jpg",
+          "opciones": [
+            "a",
+            "b",
+            "c"
+          ],
+          "respuesta": "b",
+          "respuestaCorta": "Según la teoría cinético-molecular, las partículas de un gas se distribuyen de manera uniforme y aleatoria por todo el volumen del recipiente que lo contiene (botella y globo).",
+          "solucionario": "Los gases, por naturaleza, tienden a expandirse hasta ocupar todo el volumen disponible. Sus partículas se mueven de forma caótica y están muy separadas entre sí. Por lo tanto, el gas producido llenará tanto la botella como el globo de manera uniforme. El gráfico 'b' es el único que representa correctamente esta distribución homogénea y aleatoria de las partículas de gas en todo el sistema.",
+          "seccion": "Casuística"
+        }
+      ]
+    }
+  ]
+}
+  

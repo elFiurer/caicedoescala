@@ -963,6 +963,19 @@
     "archivos": {
       "especifico": "data/ascenso/secundaria/2023/ascenso_edufisicasec2023.json"
     }
+  },
+  {
+    "id": 86,
+    "proceso": "Ascenso",
+    "anio": 2023,
+    "nivel": "Secundaria",
+    "especialidad": "Ciencia y Tecnología",
+    "modalidad": "EBR",
+    "preguntas": 60,
+    "tiempo": 180,
+    "archivos": {
+      "especifico": "data/ascenso/secundaria/2023/ascenso_cyt2023.json"
+    }
   }
 
 
