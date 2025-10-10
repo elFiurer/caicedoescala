@@ -1,0 +1,1108 @@
+{
+    "completo": [
+        {
+            "idGrupo": "asc_primaria_2023_p01",
+            "contexto": "Fernanda es una estudiante que presenta discapacidad física y se traslada en silla de ruedas.\nElla se va a incorporar la siguiente semana a un aula de una institución educativa.\nPor ello, el docente del aula realiza una asamblea con los estudiantes con el propósito de sensibilizarlos sobre la condición que presenta Fernanda.\nEn este contexto, tres estudiantes comparten sus comentarios sobre las formas en que podrían ayudar a Fernanda a desplazarse en el colegio.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál de los siguientes comentarios de los estudiantes está alineado al enfoque inclusivo del Currículo Nacional de la Educación Básica?",
+                    "opciones": [
+                        "\"Para movilizar a Fernanda, es necesario que la llevemos en su silla de ruedas a todos los lugares a donde vayamos. De esta manera, la ayudaremos a desplazarse por todo el colegio y estará siempre acompañada\".",
+                        "\"Si deseamos ayudar a Fernanda a movilizarse en el colegio, primero debemos preguntarle en qué casos requiere nuestro apoyo. Yo pienso que ella nos podría orientar sobre cuál es la mejor forma en que podemos ayudarla\".",
+                        "\"Considero que siempre debemos estar pendientes de Fernanda para poder ayudarla cuando quiera movilizarse. Propongo que organicemos turnos entre nosotros para cuidarla y así evitar que tenga algún accidente en el colegio\"."
+                    ],
+                    "respuesta": "\"Si deseamos ayudar a Fernanda a movilizarse en el colegio, primero debemos preguntarle en qué casos requiere nuestro apoyo. Yo pienso que ella nos podría orientar sobre cuál es la mejor forma en que podemos ayudarla\".",
+                    "respuestaCorta": "El enfoque inclusivo promueve la autonomía y el respeto, por lo que se debe consultar directamente a la persona con discapacidad sobre el tipo de apoyo que necesita y cuándo lo necesita.",
+                    "solucionario": "La respuesta correcta se alinea con el enfoque inclusivo al reconocer a Fernanda como un sujeto de derecho, con voz y capacidad de decisión sobre su propia vida. Preguntarle directamente cómo y cuándo necesita ayuda respeta su autonomía y evita actitudes sobreprotectoras o paternalistas que podrían limitar su independencia y participación en igualdad de condiciones.",
+                    "seccion": "Casuística"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_primaria_2023_p02",
+            "contexto": "En el marco de un proyecto denominado \"Yo cuido mi barrio\", los estudiantes de una institución educativa han identificado diversos problemas que afectan los espacios públicos de la localidad.\nEllos comentan que uno de estos problemas es no poder utilizar la losa deportiva del barrio, debido a que se encuentra deteriorada.\nEn este contexto, la docente tiene como propósito que los estudiantes aborden este problema desde el enfoque de derechos del Currículo Nacional de la Educación Básica.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál de las siguientes acciones pedagógicas es más pertinente para ello?",
+                    "opciones": [
+                        "Solicitar a los estudiantes que recojan las quejas de los vecinos de la localidad sobre el estado de la losa deportiva. Luego, pedir que organicen la información recabada y, considerando esto, que elaboren una solicitud dirigida a la municipalidad del distrito, con la finalidad de que se halle una solución que atienda las quejas de los vecinos.",
+                        "Realizar una plenaria con los estudiantes y dialogar sobre las mejoras que requiere la losa deportiva para que los vecinos puedan usarla. Luego, compartir acciones de participación realizadas en distintas localidades para resolver un problema similar y, sobre esta base, pedir que seleccionen la que sea más factible de replicar en su localidad.",
+                        "Conversar con los estudiantes sobre las limitaciones que produce no poder usar la losa deportiva en sus vidas y en las de los vecinos. Luego, solicitar que expliquen si consideran necesario actuar frente a este problema y, a partir de ello, pedir que planteen propuestas para mejorar el estado en el que se encuentra la losa."
+                    ],
+                    "respuesta": "Conversar con los estudiantes sobre las limitaciones que produce no poder usar la losa deportiva en sus vidas y en las de los vecinos. Luego, solicitar que expliquen si consideran necesario actuar frente a este problema y, a partir de ello, pedir que planteen propuestas para mejorar el estado en el que se encuentra la losa.",
+                    "respuestaCorta": "El enfoque de derechos busca que los estudiantes se reconozcan como ciudadanos capaces de reflexionar sobre cómo un problema afecta sus derechos y proponer soluciones para ejercerlos.",
+                    "solucionario": "La opción C es la más pertinente porque promueve la reflexión de los estudiantes sobre cómo un problema comunitario (la losa deteriorada) afecta sus derechos (como el derecho a la recreación y al uso de espacios públicos). Al empoderarlos para que asuman un rol activo y propositivo en la búsqueda de soluciones, se fomenta su formación como ciudadanos conscientes y participativos, lo cual es central en el enfoque de derechos.",
+                    "seccion": "Casuística"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_primaria_2023_p03",
+            "contexto": "Como parte de un taller sobre redes y conectividad dirigido a Profesores de Innovación Pedagógica, el facilitador coloca en la pizarra una tabla de doble entrada para comparar las ventajas y desventajas de una red con cable y una red inalámbrica.\nLuego, el facilitador solicita intervenciones de los participantes para completar la tabla de manera conjunta.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Qué proceso de aprendizaje ha promovido principalmente el facilitador en los profesores al realizar esta actividad?",
+                    "opciones": [
+                        "La metacognición sobre las estrategias de aprendizaje.",
+                        "La activación y recojo de saberes previos.",
+                        "La generación de conflicto cognitivo."
+                    ],
+                    "respuesta": "La activación y recojo de saberes previos.",
+                    "respuestaCorta": "Al pedir a los participantes que completen una tabla con base en sus conocimientos sobre un tema, el facilitador está indagando y utilizando lo que ellos ya saben.",
+                    "solucionario": "La actividad de completar una tabla comparativa sobre redes se basa en el conocimiento y experiencia que los profesores ya poseen. Esta estrategia es una técnica clásica para activar y recoger los saberes previos de los participantes antes de introducir nueva información, permitiendo conectar lo nuevo con lo ya conocido y construir sobre esa base.",
+                    "seccion": "Casuística"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_primaria_2023_p04",
+            "contexto": "Un estudiante solicita el apoyo de la PIP y le comenta lo siguiente:\n\"He traído la memoria USB que utilizaba hasta el año pasado porque, al insertarla en mi computadora, he observado que se han borrado todos mis archivos y solo aparecen accesos directos\".\nLa PIP analiza la memoria USB con el antivirus, elimina los virus alojados en esta, pero observa que se siguen mostrando solo accesos directos.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la acción que debe realizar la PIP para acceder a los archivos de la memoria USB?",
+                    "opciones": [
+                        "Desfragmentar la memoria USB.",
+                        "Insertar la memoria USB en otra computadora.",
+                        "Quitar el atributo oculto a los archivos de la memoria USB."
+                    ],
+                    "respuesta": "Quitar el atributo oculto a los archivos de la memoria USB.",
+                    "respuestaCorta": "Ciertos virus no borran los archivos, sino que cambian sus atributos para ocultarlos y crean accesos directos falsos. Es necesario revertir este cambio para hacerlos visibles nuevamente.",
+                    "solucionario": "Cuando un virus de este tipo infecta una unidad USB, comúnmente modifica los atributos de los archivos y carpetas a 'oculto' y 'de sistema', reemplazándolos visualmente por accesos directos que perpetúan el malware. Después de eliminar el virus, los archivos originales siguen en la unidad pero no son visibles. La solución correcta es utilizar herramientas del sistema (como el comando `attrib` en la consola o las opciones de vista del explorador) para quitar estos atributos y restaurar la visibilidad de los archivos.",
+                    "seccion": "Conocimientos Disciplinares"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_primaria_2023_p05",
+            "contexto": "Una estudiante ha realizado una indagación acerca de la acción de una enzima en la descomposición del peróxido de hidrógeno.\nComo producto de esta reacción se obtiene oxígeno. La estudiante ha registrado, en una hoja de cálculo, los datos del volumen de oxígeno producido en centímetros cúbicos, en 6 tiempos diferentes previamente establecidos.\nLuego de realizar varias veces la indagación, la estudiante ha identificado que los resultados que está registrando presentan una tendencia.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Qué tipo de gráfico es el menos pertinente para representar la tendencia identificada por la estudiante en los resultados?",
+                    "opciones": [
+                        "Gráfico circular.",
+                        "Gráfico de barras.",
+                        "Gráfico de dispersión."
+                    ],
+                    "respuesta": "Gráfico circular.",
+                    "respuestaCorta": "Un gráfico circular se usa para mostrar proporciones de un todo en un momento estático, no para representar la evolución o tendencia de datos a lo largo del tiempo.",
+                    "solucionario": "El propósito es mostrar una tendencia, es decir, cómo una variable (volumen de oxígeno) cambia en función de otra (tiempo). Los gráficos de barras y de dispersión son adecuados para este fin. En cambio, el gráfico circular se utiliza para representar porcentajes o partes de un todo. Es completamente ineficaz para mostrar la evolución de datos a través de diferentes mediciones en el tiempo, por lo que es la opción menos pertinente.",
+                    "seccion": "Conocimientos Disciplinares"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_primaria_2023_p06",
+            "contexto": "En el AIP, durante una sesión de aprendizaje del área de Matemática, los estudiantes calculan el área de un trapecio utilizando la siguiente fórmula:\nÁrea = (Base mayor + Base menor / 2) x Altura\nLos datos para el cálculo del área del trapecio se encuentran en una hoja de cálculo, en las siguientes celdas:\nLa celda A1 contiene el valor de la base mayor.\nLa celda A2 contiene el valor de la base menor.\nLa celda A3 contiene el valor de la altura.\nEn la celda B3, los estudiantes deben obtener el valor del área del trapecio.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la fórmula que les permite a los estudiantes calcular correctamente el área del trapecio?",
+                    "opciones": [
+                        "=A1+(A2*A3/2)",
+                        "=(A1+A2/2)*A3",
+                        "=(A1+A2)/2*A3"
+                    ],
+                    "respuesta": "=(A1+A2)/2*A3",
+                    "respuestaCorta": "La fórmula correcta debe respetar el orden de las operaciones: primero se debe sumar las bases (agrupándolas entre paréntesis), y luego realizar la división y la multiplicación.",
+                    "solucionario": "La fórmula matemática para el área de un trapecio es ((Base mayor + Base menor) / 2) * Altura. En una hoja de cálculo, esto se traduce a `=(A1+A2)/2*A3`. El uso de paréntesis en `(A1+A2)` es crucial para asegurar que la suma de las bases se realice antes de la división y la multiplicación, siguiendo la jerarquía de operaciones matemáticas. Las otras opciones realizan los cálculos en un orden incorrecto.",
+                    "seccion": "Conocimientos Disciplinares"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_primaria_2023_p07",
+            "contexto": "En una red local se desea reemplazar una de las computadoras por una computadora nueva.\nEsta nueva computadora debe conservar la configuración de red de la computadora anterior.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "En la configuración de la nueva computadora, ¿cuál es el único dato que cambiaría de valor?",
+                    "opciones": [
+                        "La dirección IP.",
+                        "La dirección física.",
+                        "El nombre del host."
+                    ],
+                    "respuesta": "La dirección física.",
+                    "respuestaCorta": "La dirección física (MAC) es un identificador único de hardware que viene de fábrica con la tarjeta de red, por lo que no se puede transferir a un nuevo equipo.",
+                    "solucionario": "La dirección IP y el nombre del host (hostname) son configuraciones lógicas que pueden ser asignadas manualmente a la nueva computadora para que asuma la identidad de la anterior en la red. Sin embargo, la dirección física, también conocida como dirección MAC (Media Access Control), es un identificador único grabado de fábrica en el hardware (la tarjeta de red) de cada dispositivo. Por lo tanto, al cambiar la computadora, la dirección física cambiará necesariamente.",
+                    "seccion": "Conocimientos Disciplinares"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_primaria_2023_p08",
+            "contexto": null,
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál de los siguientes enunciados presenta una diferencia entre la tecnología de realidad aumentada y la tecnología de realidad virtual?",
+                    "opciones": [
+                        "La realidad aumentada demanda un mayor ancho de banda de internet que la aplicación de la tecnología de realidad virtual.",
+                        "La realidad aumentada modifica parcialmente el ambiente real sin cambiarlo en su totalidad, mientras que la realidad virtual crea un ambiente totalmente diferente del real.",
+                        "La realidad aumentada se apoya necesariamente en gafas especiales para su aplicación; en cambio, la realidad virtual puede prescindir de ellas y aplicarse sin restricción en tablets o smartphones."
+                    ],
+                    "respuesta": "La realidad aumentada modifica parcialmente el ambiente real sin cambiarlo en su totalidad, mientras que la realidad virtual crea un ambiente totalmente diferente del real.",
+                    "respuestaCorta": "La realidad aumentada (RA) superpone elementos virtuales sobre el mundo real, mientras que la realidad virtual (RV) sumerge al usuario en un entorno completamente digital y simulado.",
+                    "solucionario": "La diferencia fundamental radica en su relación con el entorno. La Realidad Aumentada (RA) enriquece el mundo real añadiendo capas de información digital sobre él (ej. ver un personaje en tu sala a través del móvil). En contraste, la Realidad Virtual (RV) sustituye completamente el entorno real por uno simulado, creando una inmersión total que aísla al usuario del mundo físico (ej. explorar un mundo fantástico con gafas de RV).",
+                    "seccion": "Conocimientos Disciplinares"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_primaria_2023_p09",
+            "contexto": "Durante el desarrollo de un proyecto, un equipo de estudiantes ha registrado, en una hoja de cálculo, los nombres, los apellidos y el área curricular de los profesores de su IE.\nAl finalizar, los estudiantes han identificado que se han realizado registros duplicados.\nEn ese sentido, ellos tienen como propósito que, luego de seleccionar el conjunto de datos usando una de las opciones de la hoja de cálculo, se marquen automáticamente los registros duplicados.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál de las siguientes opciones de la hoja de cálculo permitiría a los estudiantes lograr su propósito?",
+                    "opciones": [
+                        "El formato de celdas.",
+                        "La validación de datos.",
+                        "El formato condicional."
+                    ],
+                    "respuesta": "El formato condicional.",
+                    "respuestaCorta": "El formato condicional es la herramienta que aplica reglas visuales a las celdas, como cambiar su color si cumplen una condición específica, como ser un valor duplicado.",
+                    "solucionario": "La herramienta específica diseñada para este propósito en las hojas de cálculo es el 'Formato condicional'. Esta funcionalidad permite establecer reglas personalizadas, y una de las más comunes es 'Resaltar celdas con valores duplicados'. Al aplicar esta regla al conjunto de datos, la hoja de cálculo marcará automáticamente (por ejemplo, con un color de relleno) todas las celdas que contengan información repetida, logrando el objetivo de los estudiantes.",
+                    "seccion": "Conocimientos Disciplinares"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_primaria_2023_p10",
+            "contexto": "En una hoja de cálculo, el rango de celdas desde la A1 hasta la A25 contienen texto o números.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "Si se desea calcular la cantidad de celdas que contienen únicamente datos de tipo numérico en el rango de celdas indicado, ¿cuál de las siguientes fórmulas se debe usar?",
+                    "opciones": [
+                        "=CONTAR(A1:A25)",
+                        "=CONTARA(A1:A25)",
+                        "=CONTAR.SI(A1:A25;\"es número\")"
+                    ],
+                    "respuesta": "=CONTAR(A1:A25)",
+                    "respuestaCorta": "La función `=CONTAR()` en hojas de cálculo está diseñada específicamente para contar celdas que contienen valores numéricos, ignorando celdas con texto o vacías.",
+                    "solucionario": "Las funciones de conteo en hojas de cálculo tienen propósitos específicos: `=CONTAR(rango)` cuenta exclusivamente las celdas que contienen números. Por otro lado, `=CONTARA(rango)` cuenta todas las celdas que no están vacías (incluyendo tanto números como texto). Finalmente, `=CONTAR.SI` requiere un criterio específico. Para el propósito de contar únicamente celdas con datos numéricos, `=CONTAR(A1:A25)` es la función correcta y directa.",
+                    "seccion": "Conocimientos Disciplinares"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_primaria_2023_p11",
+            "contexto": "Una profesora ha registrado en una hoja de cálculo la edad en años de cada uno de los 30 estudiantes a su cargo.\nLa profesora tiene como propósito conocer qué edad tiene la mayoría de sus estudiantes.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la función que debe utilizar la profesora?",
+                    "opciones": [
+                        "PROMEDIO.SI.CONJUNTO",
+                        "MODA.UNO",
+                        "REPETIR"
+                    ],
+                    "respuesta": "MODA.UNO",
+                    "respuestaCorta": "La moda es la medida estadística que representa el valor que aparece con mayor frecuencia en un conjunto de datos. La función `MODA.UNO` calcula este valor.",
+                    "solucionario": "El propósito es encontrar la 'edad que tiene la mayoría', lo que estadísticamente corresponde a la moda (el valor que más se repite en un conjunto de datos). En las hojas de cálculo modernas, la función `MODA.UNO` está diseñada para devolver el valor que ocurre con más frecuencia en un rango. Las otras funciones tienen propósitos diferentes: `PROMEDIO.SI.CONJUNTO` calcula promedios bajo múltiples condiciones y `REPETIR` duplica un texto un número de veces.",
+                    "seccion": "Conocimientos Disciplinares"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_primaria_2023_p12",
+            "contexto": "Un profesor ha creado un video en alta calidad (4K).\nAl guardar el archivo en su computadora, identifica que este tiene 7,5 GB de tamaño.\nEl profesor tiene como propósito copiar el archivo de video en una memoria USB vacía, de 16 GB de capacidad.\nAl momento de copiar el archivo en la memoria USB, aparece un mensaje que indica que no es posible copiar el archivo porque es demasiado grande.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la acción que debe realizar el profesor para que pueda copiar el archivo en la memoria USB?",
+                    "opciones": [
+                        "Insertar la memoria USB en otro puerto de la computadora.",
+                        "Cambiar el sistema de archivos de la memoria USB.",
+                        "Reparar los sectores dañados en la memoria USB."
+                    ],
+                    "respuesta": "Cambiar el sistema de archivos de la memoria USB.",
+                    "respuestaCorta": "El sistema de archivos FAT32, común en USBs, tiene un límite de tamaño por archivo de 4 GB. Se debe formatear la unidad a un sistema como NTFS o exFAT para poder copiar archivos más grandes.",
+                    "solucionario": "Este problema es clásico y se debe a una limitación del sistema de archivos de la memoria USB, que muy probablemente está formateada en FAT32. El sistema FAT32 no puede manejar archivos individuales de más de 4 GB, sin importar la capacidad total de la unidad (16 GB en este caso). Para solucionar el problema, el profesor debe formatear la memoria USB y cambiar el sistema de archivos a NTFS o exFAT, ya que ambos admiten archivos de tamaños muy superiores a 4 GB.",
+                    "seccion": "Conocimientos Disciplinares"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_primaria_2023_p13",
+            "contexto": "Una PIP está realizando una capacitación a los profesores de una IE.\nComo parte de esta capacitación, la PIP ha simulado una red con tres computadoras creadas mediante software en la computadora que utiliza para monitorear esta actividad.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál de las siguientes tecnologías computacionales ha utilizado la PIP en esta actividad?",
+                    "opciones": [
+                        "Clonación.",
+                        "Virtualización.",
+                        "Computación en la nube."
+                    ],
+                    "respuesta": "Virtualización.",
+                    "respuestaCorta": "La virtualización es la tecnología que permite crear y ejecutar múltiples máquinas o computadoras simuladas (virtuales) dentro de un único equipo físico.",
+                    "solucionario": "La descripción de 'simular una red con tres computadoras creadas mediante software' se ajusta perfectamente a la definición de virtualización. Esta tecnología permite que un solo equipo físico (el host) ejecute múltiples sistemas operativos o instancias de computadoras (invitados) de forma simultánea y aislada, lo cual es ideal para pruebas, simulaciones y capacitaciones.",
+                    "seccion": "Conocimientos Disciplinares"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_primaria_2023_p14",
+            "contexto": "Un usuario ha comprado un disco duro externo de 1 TB de capacidad (según indica el fabricante en el empaque).\nAl conectar el disco duro a la computadora, el usuario observa en pantalla que la capacidad de almacenamiento de este disco duro es de 931 GB.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "Teniendo en cuenta que no es un error del fabricante, ¿cuál es la causa más probable de la diferencia en la capacidad de almacenamiento del disco duro externo?",
+                    "opciones": [
+                        "El fabricante preinstaló un sistema operativo en el disco duro externo.",
+                        "La computadora del usuario transfirió un virus informático al disco duro externo.",
+                        "La capacidad del disco duro externo fue expresada en el sistema binario por la computadora."
+                    ],
+                    "respuesta": "La capacidad del disco duro externo fue expresada en el sistema binario por la computadora.",
+                    "respuestaCorta": "La diferencia se debe a que los fabricantes usan el sistema decimal (1 KB = 1000 bytes) para el marketing, mientras que los sistemas operativos usan el sistema binario (1 KiB = 1024 bytes) para calcular el espacio real.",
+                    "solucionario": "Los fabricantes de almacenamiento miden la capacidad en potencias de 10 (sistema decimal), donde 1 Terabyte (TB) equivale a 1,000,000,000,000 de bytes. Sin embargo, los sistemas operativos como Windows calculan el espacio en potencias de 2 (sistema binario). Al convertir ese billón de bytes a la medida binaria que usa el sistema operativo, el resultado es aproximadamente 931 Gibibytes (GiB), que en pantalla se muestra como 'GB'.",
+                    "seccion": "Conocimientos Disciplinares"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_primaria_2023_p15",
+            "contexto": null,
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Qué característica presenta una unidad de estado sólido (SSD)?",
+                    "opciones": [
+                        "Utiliza tecnología de almacenamiento NAND flash.",
+                        "Utiliza tecnología de almacenamiento magnético.",
+                        "Utiliza tecnología de almacenamiento óptico."
+                    ],
+                    "respuesta": "Utiliza tecnología de almacenamiento NAND flash.",
+                    "respuestaCorta": "Las SSD no tienen partes móviles y almacenan datos en microchips de memoria flash tipo NAND, lo que les permite un acceso a los datos mucho más rápido que los discos duros tradicionales.",
+                    "solucionario": "A diferencia de los discos duros tradicionales (HDD) que utilizan platos magnéticos giratorios y un cabezal de lectura/escritura (almacenamiento magnético), las Unidades de Estado Sólido (SSD) se basan en memoria flash no volátil. Específicamente, usan chips de memoria NAND flash para almacenar datos sin necesidad de energía constante y sin partes mecánicas, resultando en mayor velocidad, resistencia y eficiencia energética.",
+                    "seccion": "Conocimientos Disciplinares"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_primaria_2023_p16",
+            "contexto": null,
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál de estas situaciones requiere del uso de una estación de acoplamiento?",
+                    "opciones": [
+                        "Conectar varias computadoras a la red local usando un medio físico.",
+                        "Ampliar las posibilidades de conectividad de un dispositivo portátil.",
+                        "Almacenar información referente a un sitio web en un servidor en la nube."
+                    ],
+                    "respuesta": "Ampliar las posibilidades de conectividad de un dispositivo portátil.",
+                    "respuestaCorta": "Una estación de acoplamiento (docking station) se usa para conectar fácilmente un dispositivo portátil, como una laptop, a múltiples periféricos (monitor, teclado, red, etc.) a través de una sola conexión.",
+                    "solucionario": "Una estación de acoplamiento o 'docking station' está diseñada para resolver la limitación de puertos en dispositivos portátiles como laptops. Permite al usuario conectar su equipo a una variedad de periféricos de escritorio (monitores externos, teclados, ratones, unidades de red, impresoras) de forma simultánea y sencilla, usualmente mediante un solo cable, convirtiendo así el portátil en una estación de trabajo completa.",
+                    "seccion": "Conocimientos Disciplinares"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_primaria_2023_p17",
+            "contexto": "Durante una capacitación, la PIP comenta a los participantes lo siguiente:\n\"Existe una tecnología que, cuando se conecta un dispositivo a una computadora, permite que este dispositivo sea identificado y configurado automáticamente para ser usado de inmediato\".",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Qué tecnología es la que describe la PIP?",
+                    "opciones": [
+                        "Bluetooth",
+                        "Intellisense",
+                        "Plug and Play"
+                    ],
+                    "respuesta": "Plug and Play",
+                    "respuestaCorta": "Plug and Play (PnP) es el estándar que permite a un sistema operativo detectar y configurar hardware nuevo automáticamente sin necesidad de intervención manual del usuario.",
+                    "solucionario": "La descripción 'conecta un dispositivo a una computadora, permite que este dispositivo sea identificado y configurado automáticamente para ser usado de inmediato' es la definición exacta de la tecnología Plug and Play (PnP), o 'Conectar y Usar'. Esta capacidad del sistema operativo simplifica enormemente la adición de nuevo hardware, gestionando la asignación de recursos y la instalación de controladores necesarios de forma transparente para el usuario.",
+                    "seccion": "Conocimientos Disciplinares"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_primaria_2023_p18",
+            "contexto": null,
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál de los siguientes dispositivos se conecta a la computadora usando el puerto SATA?",
+                    "opciones": [
+                        "El disco duro.",
+                        "La tarjeta de video.",
+                        "El microprocesador."
+                    ],
+                    "respuesta": "El disco duro.",
+                    "respuestaCorta": "El puerto SATA (Serial ATA) es la interfaz estándar utilizada para conectar dispositivos de almacenamiento como discos duros (HDD) y unidades de estado sólido (SSD) a la placa madre.",
+                    "solucionario": "El puerto SATA (Serial Advanced Technology Attachment) es una interfaz de transferencia de datos diseñada principalmente para conectar dispositivos de almacenamiento masivo a la placa base de una computadora. Los dispositivos más comunes que usan esta conexión son los discos duros mecánicos (HDD) y las unidades de estado sólido (SSD). Las tarjetas de video usan puertos PCIe y los microprocesadores se conectan a un zócalo (socket) específico en la placa madre.",
+                    "seccion": "Conocimientos Disciplinares"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_primaria_2023_p19",
+            "contexto": "Se ha reemplazado el disco duro (HDD) de una laptop por una unidad de estado sólido (SSD).\nAl iniciar la instalación del sistema operativo en la laptop, esta no reconoce la SSD.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la acción inicial para corregir este problema?",
+                    "opciones": [
+                        "Utilizar un software utilitario para particionar la unidad de estado sólido (SSD).",
+                        "Formatear la unidad de estado sólido (SSD).",
+                        "Actualizar el BIOS o UEFI de la laptop."
+                    ],
+                    "respuesta": "Actualizar el BIOS o UEFI de la laptop.",
+                    "respuestaCorta": "Si una laptop antigua no reconoce un SSD nuevo, es probable que su firmware (BIOS/UEFI) carezca del soporte necesario para el nuevo hardware, por lo que una actualización es el primer paso lógico.",
+                    "solucionario": "Cuando se instala hardware moderno, como un SSD, en un equipo más antiguo, el firmware de la placa base (BIOS o UEFI) puede no tener la capacidad de reconocerlo. Una actualización del BIOS/UEFI a menudo incluye nuevos controladores de almacenamiento y mejora la compatibilidad con hardware más reciente. Antes de intentar particionar o formatear un disco que el sistema ni siquiera detecta, la acción inicial correcta es asegurar que el sistema base (el firmware) pueda comunicarse con el dispositivo.",
+                    "seccion": "Conocimientos Disciplinares"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_primaria_2023_p20",
+            "contexto": "En el AIP, durante el trabajo del día, se suscitó una subida de tensión eléctrica, lo cual generó que una de las computadoras se apague.\nAl pulsar el botón de encendido de la computadora, esta ya no enciende.\nLa PIP realiza las verificaciones del caso y revisa la fuente de poder.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál de los siguientes componentes de la fuente de poder es más probable que se haya dañado?",
+                    "opciones": [
+                        "El fusible.",
+                        "La resistencia.",
+                        "El condensador."
+                    ],
+                    "respuesta": "El fusible.",
+                    "respuestaCorta": "El fusible es un componente de seguridad diseñado específicamente para quemarse y cortar el flujo de corriente durante una subida de tensión, protegiendo así al resto de los componentes.",
+                    "solucionario": "La función principal de un fusible en cualquier dispositivo electrónico, incluyendo la fuente de poder, es proteger el circuito de sobrecargas de corriente. Está diseñado para ser el 'eslabón débil' que se sacrifica (se quema) para interrumpir el paso de una corriente excesiva y evitar daños mayores en componentes más costosos. Por lo tanto, tras una subida de tensión, es el primer y más probable componente en fallar.",
+                    "seccion": "Conocimientos Disciplinares"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_primaria_2023_p21",
+            "contexto": "Luego de encender y utilizar algunos programas de ofimática, la computadora de un usuario se apaga sola.\nEl usuario vuelve a encender su computadora y, luego de un corto tiempo, ocurre lo mismo.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la causa más probable del problema que presenta la computadora del usuario?",
+                    "opciones": [
+                        "El sistema operativo de la computadora está dañado.",
+                        "El disco duro de la computadora tiene sectores defectuosos.",
+                        "El sistema de enfriamiento del procesador no funciona adecuadamente."
+                    ],
+                    "respuesta": "El sistema de enfriamiento del procesador no funciona adecuadamente.",
+                    "respuestaCorta": "Los apagados repentinos bajo carga son un síntoma clásico de sobrecalentamiento del procesador, usualmente causado por un sistema de enfriamiento defectuoso (ventilador obstruido, pasta térmica seca, etc.).",
+                    "solucionario": "Los procesadores modernos tienen mecanismos de protección térmica. Si el sistema de enfriamiento (ventilador, disipador) falla o es ineficiente, la temperatura del procesador aumenta rápidamente al realizar tareas. Para evitar daños físicos permanentes por el calor excesivo, el sistema se apaga automáticamente de forma abrupta. Este patrón de 'funciona por un corto tiempo y luego se apaga' es característico del sobrecalentamiento.",
+                    "seccion": "Conocimientos Disciplinares"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_primaria_2023_p22",
+            "contexto": "Al encender una computadora del AIP, una estudiante informa a la PIP que la fecha y hora que esta muestra se encuentran desactualizadas.\nLa PIP configura la fecha y hora correctas en la computadora, pero, al día siguiente, al encenderla se presenta nuevamente el mismo problema.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la solución más pertinente al problema presentado?",
+                    "opciones": [
+                        "Evitar desconectar la computadora de la energía eléctrica.",
+                        "Cambiar la pila de la placa madre de la computadora.",
+                        "Configurar el BIOS de la computadora."
+                    ],
+                    "respuesta": "Cambiar la pila de la placa madre de la computadora.",
+                    "respuestaCorta": "La pila (batería CMOS) en la placa madre es la que mantiene la configuración del BIOS, incluyendo la fecha y la hora, cuando la computadora está apagada. Si se agota, esta información se pierde.",
+                    "solucionario": "La configuración del BIOS/UEFI, que incluye la fecha, la hora y los parámetros de arranque, se almacena en una memoria volátil llamada CMOS. Esta memoria requiere una pequeña cantidad de energía constante para no perder los datos, la cual es suministrada por una pila de tipo botón (generalmente una CR2032) ubicada en la placa madre. Cuando esta pila se agota, el CMOS se resetea cada vez que la computadora pierde la alimentación principal, causando la desactualización de la fecha y la hora.",
+                    "seccion": "Conocimientos Disciplinares"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_primaria_2023_p23",
+            "contexto": "Al iniciar su día de trabajo, un usuario intenta abrir sus archivos almacenados en la computadora en diferentes formatos.\nAlgunos de estos archivos sí se pueden abrir; pero otros archivos, no. Al intentar abrirlos se muestra el siguiente mensaje:\n\"El archivo está dañado y no se puede abrir\".\nComo parte de la solución del problema, se debe realizar el mantenimiento del disco duro de la computadora del usuario.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál de las siguientes acciones es más pertinente realizar antes del mantenimiento del disco duro?",
+                    "opciones": [
+                        "Desfragmentar las unidades del disco duro.",
+                        "Reinstalar los aplicativos cuyos archivos no abren.",
+                        "Crear la copia de seguridad de los archivos del usuario."
+                    ],
+                    "respuesta": "Crear la copia de seguridad de los archivos del usuario.",
+                    "respuestaCorta": "Ante cualquier signo de falla de un disco duro (como archivos dañados), la prioridad absoluta es respaldar todos los datos importantes para prevenir su pérdida total antes de intentar cualquier reparación.",
+                    "solucionario": "Cuando un disco duro presenta síntomas de fallo, como la corrupción de archivos, cualquier operación de mantenimiento (como una comprobación de disco o una desfragmentación) es intensiva y conlleva el riesgo de agravar el problema, pudiendo causar una pérdida de datos irrecuperable. Por lo tanto, la primera y más crucial acción es siempre realizar una copia de seguridad (backup) de toda la información valiosa posible antes de intentar cualquier tipo de reparación.",
+                    "seccion": "Conocimientos Disciplinares"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_primaria_2023_p24",
+            "contexto": "La PIP tiene como propósito instalar un conector RJ45 en cada extremo de un segmento de cable UTP para que cumpla la función de un cable cruzado.\nEn uno de los extremos, para el conector 1, los hilos del cable se ordenan con el estándar T568-B, cuya distribución de colores se muestra a continuación: \nEn el otro extremo, para el conector 2, los hilos del cable se ordenan con el estándar T568-A.",
+            "imagen": "img/ascenso/primaria/2023/aip/1.jpg",
+            "preguntas": [
+                {
+                    "pregunta": "¿Qué color de hilo se ubicará en los pines 3 y 6 del conector 2?",
+                    "opciones": [
+                        "Blanco/naranja y naranja.",
+                        "Blanco/verde y verde.",
+                        "Naranja y verde."
+                    ],
+                    "respuesta": "Blanco/naranja y naranja.",
+                    "respuestaCorta": "Para hacer un cable cruzado con un extremo T568-B, el otro extremo debe ser T568-A. En la norma T568-A, los pines 3 y 6 corresponden al par naranja (Blanco/naranja y Naranja).",
+                    "solucionario": "Un cable cruzado (crossover) se crea utilizando la norma T568-B en un extremo y la T568-A en el otro. La diferencia fundamental entre ambas normas es el intercambio de los pares de hilos verde (par 3) y naranja (par 2). Si el conector 1 (T568-B) tiene el par verde en los pines 3 y 6 (Blanco/verde y Verde), el conector 2 (T568-A) debe tener el par naranja en esos mismos pines. Por lo tanto, en el conector 2, el pin 3 será Blanco/naranja y el pin 6 será Naranja.",
+                    "seccion": "Conocimientos Disciplinares"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_primaria_2023_p25",
+            "contexto": "Un usuario inicia su trabajo en una institución donde existen varias redes inalámbricas disponibles.\nPara cumplir sus funciones, el usuario puede conectar su dispositivo solo a una de esas redes inalámbricas.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Qué necesita conocer el usuario para identificar la red inalámbrica a la que puede conectar su dispositivo?",
+                    "opciones": [
+                        "El hostname.",
+                        "El DHCP.",
+                        "El SSID."
+                    ],
+                    "respuesta": "El SSID.",
+                    "respuestaCorta": "El SSID (Service Set Identifier) es el nombre público de una red inalámbrica, el cual permite a los usuarios identificarla y distinguirla de otras redes cercanas para poder conectarse.",
+                    "solucionario": "El SSID es, en términos sencillos, el nombre con el que una red Wi-Fi se anuncia públicamente. Es el identificador que aparece en la lista de redes disponibles en un dispositivo. Para que un usuario pueda seleccionar y conectarse a la red correcta entre varias opciones, es indispensable que conozca su SSID. El hostname es el nombre de un equipo en la red y el DHCP es un protocolo para asignar direcciones IP.",
+                    "seccion": "Conocimientos Disciplinares"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_primaria_2023_p26",
+            "contexto": "Un PIP está elaborando un recurso interactivo que les permita a los estudiantes reforzar el aprendizaje de ciertos contenidos.\nEl recurso es una presentación de diapositivas con un cuestionario que presenta varias alternativas de respuesta.\nCada vez que el estudiante hace clic en una de las opciones de resultado, se emite un sonido reforzando la respuesta correcta o sugiriendo al estudiante que lo vuelva a intentar.\nAdemás, el recurso cuenta con botones para \"saltar\" entre las distintas pantallas y una opción para acceder a imágenes que explican la respuesta correcta.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "Además de la reproducción de sonido, ¿cuál de las siguientes opciones del programa presentador de diapositivas permite construir dicha interactividad?",
+                    "opciones": [
+                        "Botones de acción.",
+                        "Personalización de animaciones.",
+                        "Ensayo de intervalos y personalización de transiciones."
+                    ],
+                    "respuesta": "Botones de acción.",
+                    "respuestaCorta": "Los botones de acción son elementos que se pueden configurar para realizar una tarea específica al hacer clic, como saltar a otra diapositiva, lo cual es esencial para crear la navegación de un cuestionario interactivo.",
+                    "solucionario": "Para construir la interactividad descrita (botones para 'saltar' entre pantallas, acceder a explicaciones, etc.), la herramienta más adecuada en un software de presentaciones son los 'Botones de acción'. Estos permiten asignar hipervínculos a objetos o formas para que, al hacerles clic, se navegue a diapositivas específicas, se ejecute un programa o se reproduzca un sonido, permitiendo así construir la lógica de un recurso interactivo complejo.",
+                    "seccion": "Conocimientos Disciplinares"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_primaria_2023_p27",
+            "contexto": null,
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es el propósito de usar el comando ping en una red de computadoras?",
+                    "opciones": [
+                        "Determinar la ruta de un paquete de datos.",
+                        "Verificar si hay conectividad entre los dispositivos de la red.",
+                        "Averiguar el número de IP público que tiene asignada una computadora local."
+                    ],
+                    "respuesta": "Verificar si hay conectividad entre los dispositivos de la red.",
+                    "respuestaCorta": "El comando `ping` se utiliza para enviar un pequeño paquete de datos a otro dispositivo en la red y esperar una respuesta, confirmando así si hay una conexión activa y midiendo el tiempo de esa respuesta.",
+                    "solucionario": "La principal utilidad del comando `ping` es diagnosticar la conectividad de red. Envía un paquete de solicitud de eco (ICMP) a una dirección IP o nombre de host. Si el dispositivo de destino está accesible, responde a ese paquete. Esto permite al usuario saber que hay una conexión funcional entre ambos puntos y también proporciona información sobre la latencia (el tiempo que tarda en ir y volver el paquete).",
+                    "seccion": "Conocimientos Disciplinares"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_primaria_2023_p28",
+            "contexto": "Una profesora ha redactado, en un documento de un procesador de texto, el resumen de una capacitación.\nAdemás, la profesora desea incluir en el documento un enlace a una página web con información adicional, de manera que, al hacer clic en este enlace, se visualice dicha página.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Qué elemento debe utilizar la profesora para incluir el enlace en el documento?",
+                    "opciones": [
+                        "Un marcador.",
+                        "Un hipervínculo.",
+                        "Una referencia cruzada."
+                    ],
+                    "respuesta": "Un hipervínculo.",
+                    "respuestaCorta": "Un hipervínculo es el elemento estándar en los procesadores de texto que permite crear un enlace en un texto o imagen para que, al hacerle clic, dirija al usuario a una página web.",
+                    "solucionario": "El elemento diseñado específicamente para crear enlaces a páginas web, archivos, direcciones de correo electrónico u otras ubicaciones es el 'hipervínculo'. Este permite asociar una URL a un texto (como 'más información aquí'), de modo que al interactuar con dicho texto se abre el destino del enlace, en este caso, en el navegador web.",
+                    "seccion": "Conocimientos Disciplinares"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_primaria_2023_p29",
+            "contexto": "Una profesora tiene como propósito que los estudiantes elaboren, de manera colaborativa, una presentación multimedia sobre el cuidado ambiental.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál de las siguientes acciones es más pertinente que realice la profesora para lograr su propósito?",
+                    "opciones": [
+                        "Generar una presentación multimedia en la nube y compartirla en modo edición con los integrantes del equipo para que intercambien ideas y contribuyan en la elaboración conjunta del contenido de la presentación.",
+                        "Generar una presentación multimedia en el escritorio, enviarla por correo electrónico a los integrantes del equipo para que cada estudiante incluya sus aportes y que, luego, uno de ellos reúna los aportes individuales.",
+                        "Generar una carpeta en la nube y compartirla en modo edición con los integrantes del equipo para que cada estudiante suba a dicha carpeta la parte de la presentación multimedia que elaboró."
+                    ],
+                    "respuesta": "Generar una presentación multimedia en la nube y compartirla en modo edición con los integrantes del equipo para que intercambien ideas y contribuyan en la elaboración conjunta del contenido de la presentación.",
+                    "respuestaCorta": "Para un trabajo colaborativo en tiempo real y eficiente, la mejor opción es usar una herramienta en la nube que permita a todos los miembros del equipo editar el mismo archivo simultáneamente.",
+                    "solucionario": "La opción A describe el método más eficaz para el trabajo colaborativo. Las herramientas de presentación en la nube (como Google Slides o PowerPoint Online) están diseñadas para que múltiples usuarios puedan trabajar en el mismo archivo al mismo tiempo, viendo los cambios de los demás en tiempo real. Esto fomenta una verdadera colaboración y co-construcción, a diferencia de los otros métodos que son secuenciales, fragmentados y propensos a generar múltiples versiones del mismo archivo.",
+                    "seccion": "Casuística"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_primaria_2023_p30",
+            "contexto": "Al revisar sus mensajes de correo electrónico personal, un profesor se sorprende porque el mensaje de uno de sus colegas de trabajo llegó a la categoría de correos no deseados.\nEl profesor tiene como propósito que los mensajes de correo electrónico de su colega lleguen directamente a su bandeja de entrada.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es el procedimiento que debe realizar el profesor?",
+                    "opciones": [
+                        "Ingresar a la categoría \"no deseados\", identificar el correo de su colega y reenviárselo a sí mismo.",
+                        "Ingresar a la categoría \"no deseados\", identificar el correo de su colega y marcarlo como \"No es spam\".",
+                        "Ingresar a la categoría \"no deseados\", identificar el correo de su colega, eliminarlo y pedirle a su colega que le reenvíe el mensaje."
+                    ],
+                    "respuesta": "Ingresar a la categoría \"no deseados\", identificar el correo de su colega y marcarlo como \"No es spam\".",
+                    "respuestaCorta": "Marcar un correo como 'No es spam' le indica al proveedor de correo electrónico que el filtro cometió un error y ayuda a entrenarlo para que los futuros mensajes de ese remitente lleguen correctamente a la bandeja de entrada.",
+                    "solucionario": "Los filtros de spam aprenden del comportamiento del usuario. Al encontrar un correo legítimo en la carpeta de 'no deseados', la acción correcta es seleccionarlo y usar la opción 'No es spam' o 'Marcar como seguro'. Esto no solo mueve el mensaje actual a la bandeja de entrada, sino que también informa al sistema que los correos de ese remitente son confiables, lo que disminuye significativamente la probabilidad de que vuelvan a ser clasificados incorrectamente en el futuro.",
+                    "seccion": "Conocimientos Disciplinares"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_primaria_2023_p31",
+            "contexto": null,
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál de las siguientes alternativas es la función de la memoria caché del computador?",
+                    "opciones": [
+                        "Mejorar el tiempo de acceso a la información que la computadora utiliza de forma reiterada.",
+                        "Almacenar los programas e información de solo lectura que pone en marcha la computadora y realizar los diagnósticos de inicio.",
+                        "Servir de complemento del procesador principal y encargarse de operaciones de aritmética de punto flotante, gráficos, encriptaciones, entre otros."
+                    ],
+                    "respuesta": "Mejorar el tiempo de acceso a la información que la computadora utiliza de forma reiterada.",
+                    "respuestaCorta": "La memoria caché es una memoria pequeña y extremadamente rápida que almacena los datos e instrucciones más utilizadas por el procesador para evitar tener que buscarlos en la memoria RAM, que es más lenta.",
+                    "solucionario": "La memoria caché actúa como un búfer de alta velocidad entre el procesador (CPU) y la memoria principal (RAM). Su función es almacenar temporalmente las copias de los datos e instrucciones que se usan con más frecuencia. Dado que la caché es mucho más rápida que la RAM, el procesador puede acceder a esta información casi instantáneamente, lo que acelera los procesos y mejora significativamente el rendimiento general del sistema.",
+                    "seccion": "Conocimientos Disciplinares"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_primaria_2023_p32",
+            "contexto": null,
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿En qué consiste el formateo de alto nivel del disco duro?",
+                    "opciones": [
+                        "Es un proceso que permite la reagrupación de los datos que se encuentran en el disco duro para mejorar la velocidad de acceso a la información.",
+                        "Es un proceso de tipo lógico que consiste en la reasignación de la tabla de archivos en la que se marcan los sectores del disco duro como sectores vacíos para poderlos reescribir, según la demanda del usuario.",
+                        "Es un proceso de tipo físico que permite restablecer los sectores del disco duro, realineándolos si fuera el caso, y borrando permanentemente la información hasta dejar el dispositivo como vino de fábrica."
+                    ],
+                    "respuesta": "Es un proceso de tipo lógico que consiste en la reasignación de la tabla de archivos en la que se marcan los sectores del disco duro como sectores vacíos para poderlos reescribir, según la demanda del usuario.",
+                    "respuestaCorta": "El formateo de alto nivel (o formateo rápido) es un proceso lógico que borra la tabla de asignación de archivos, haciendo que el espacio parezca vacío para el sistema operativo, aunque los datos subyacentes no se eliminan de inmediato.",
+                    "solucionario": "El formateo de alto nivel, también conocido como formato lógico o rápido, no borra físicamente los datos del disco. En su lugar, crea una nueva estructura de sistema de archivos (como NTFS o FAT32) y reescribe la tabla de asignación de archivos, que actúa como un índice. Esto le dice al sistema operativo que todo el espacio está disponible para ser sobrescrito. Los datos antiguos permanecen físicamente en el disco hasta que nuevos archivos ocupen su lugar.",
+                    "seccion": "Conocimientos Disciplinares"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_primaria_2023_p33",
+            "contexto": "Un usuario ha ingresado a una página web que contiene simuladores.\nSin embargo, en la pantalla de su computadora, no aparecen todos los componentes de los simuladores, incluso luego de actualizar el navegador.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál de las siguientes acciones debe realizar el usuario para solucionar este problema?",
+                    "opciones": [
+                        "Eliminar el historial de navegación.",
+                        "Instalar una extensión a su navegador.",
+                        "Actualizar el sistema operativo de la computadora."
+                    ],
+                    "respuesta": "Instalar una extensión a su navegador.",
+                    "respuestaCorta": "Muchos contenidos web interactivos, como simuladores antiguos o específicos, dependen de tecnologías como Flash o Java, que a menudo requieren la instalación de un complemento o extensión en el navegador para funcionar correctamente.",
+                    "solucionario": "Cuando el contenido dinámico o interactivo de una página web no se muestra correctamente, a menudo se debe a que el navegador carece del complemento (plugin) o extensión necesarios para interpretarlo. Tecnologías como Adobe Flash Player (ahora en desuso), Java, o ciertos frameworks de visualización 3D pueden requerir la instalación o activación de componentes adicionales para poder renderizar los simuladores y otros elementos complejos.",
+                    "seccion": "Conocimientos Disciplinares"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_primaria_2023_p34",
+            "contexto": null,
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es el sistema de archivos menos adecuado para formatear un disco duro externo de 1 TB de capacidad que se utilizará para la transferencia de archivos?",
+                    "opciones": [
+                        "FAT",
+                        "NTFS",
+                        "ExFAT"
+                    ],
+                    "respuesta": "FAT",
+                    "respuestaCorta": "El sistema de archivos FAT (específicamente FAT32) es el menos adecuado porque no puede manejar archivos individuales de más de 4 GB y tiene limitaciones de tamaño de partición, lo cual es ineficiente para una unidad moderna de 1 TB.",
+                    "solucionario": "FAT, refiriéndose comúnmente a FAT32, es un sistema de archivos antiguo con dos limitaciones críticas para un disco de 1 TB: 1) no soporta archivos individuales mayores de 4 GB, un problema habitual con videos en alta definición o imágenes de disco; y 2) es ineficiente gestionando volúmenes tan grandes. Tanto NTFS (ideal para Windows) como exFAT (diseñado para gran capacidad y compatibilidad entre sistemas operativos) son opciones muy superiores para este propósito.",
+                    "seccion": "Conocimientos Disciplinares"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_primaria_2023_p35",
+            "contexto": "Como parte de una capacitación, el PIP les comenta a los participantes lo siguiente:\n\"Ahora nosotros, en un mismo espacio virtual, podemos crear, implementar y entregar actividades de formación en línea a los estudiantes que, previamente, hemos inscrito en este espacio. De esta manera, apoyamos el proceso de enseñanza y gestionamos la comunicación entre los integrantes del espacio virtual\".",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es el sistema de gestión de las TIC que ha descrito el PIP?",
+                    "opciones": [
+                        "Content Management System.",
+                        "Database Management System.",
+                        "Learning Management System."
+                    ],
+                    "respuesta": "Learning Management System.",
+                    "respuestaCorta": "Un Learning Management System (LMS) o Sistema de Gestión de Aprendizaje es una plataforma de software diseñada específicamente para administrar, distribuir y gestionar actividades de formación en línea.",
+                    "solucionario": "La descripción sobre crear, implementar, entregar actividades de formación en línea, inscribir estudiantes y gestionar la comunicación, coincide exactamente con las funciones de un Learning Management System (LMS) o Sistema de Gestión de Aprendizaje. Ejemplos comunes son Moodle, Google Classroom o Canvas. En contraste, un CMS (Content Management System) gestiona contenido de sitios web y un DBMS (Database Management System) administra bases de datos.",
+                    "seccion": "Conocimientos Disciplinares"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_primaria_2023_p36",
+            "contexto": "Al acceder a un sitio web, un usuario observa que, junto a la dirección URL del sitio web, el navegador muestra el mensaje \"Sitio seguro\".",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Qué característica tiene el sitio web que presenta dicho mensaje en el navegador?",
+                    "opciones": [
+                        "El sitio web tiene activado el proceso de autenticación del usuario en dos pasos.",
+                        "El sitio web cifra la información al establecer sesiones con la computadora.",
+                        "El sitio web no genera cookies en la computadora del usuario visitante."
+                    ],
+                    "respuesta": "El sitio web cifra la información al establecer sesiones con la computadora.",
+                    "respuestaCorta": "Un sitio web 'seguro' (indicado por HTTPS y un candado) utiliza un certificado SSL/TLS para cifrar toda la comunicación entre el navegador del usuario y el servidor, protegiendo los datos en tránsito.",
+                    "solucionario": "El mensaje 'Sitio seguro' o el ícono de un candado en el navegador indican que el sitio web utiliza el protocolo HTTPS (Hypertext Transfer Protocol Secure). La 'S' de 'Secure' significa que la conexión entre el navegador del usuario y el servidor del sitio web está cifrada mediante un certificado de seguridad (SSL/TLS). Este cifrado protege la integridad y confidencialidad de los datos intercambiados, como contraseñas o información personal, impidiendo que terceros puedan interceptarlos y leerlos.",
+                    "seccion": "Conocimientos Disciplinares"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_primaria_2023_p37",
+            "contexto": null,
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál de las siguientes herramientas del servidor escuela permite monitorear las actividades que los estudiantes desarrollan al utilizar las computadoras del AIP?",
+                    "opciones": [
+                        "Visor de eventos.",
+                        "Firewall.",
+                        "Italc."
+                    ],
+                    "respuesta": "Italc.",
+                    "respuestaCorta": "iTALC (Intelligent Teaching and Learning with Computers) es un software de gestión de aulas diseñado específicamente para que los profesores puedan ver, controlar y monitorear las computadoras de los estudiantes en la red.",
+                    "solucionario": "iTALC es una herramienta de software libre creada para la gestión de aulas de computadoras en un entorno escolar. Permite a un profesor monitorear las pantallas de los estudiantes en tiempo real, tomar el control remoto de sus equipos para asistirlos, mostrar la pantalla del profesor en todas las computadoras y restringir el acceso a sitios web o aplicaciones. El Visor de eventos registra sucesos del sistema operativo y el Firewall gestiona la seguridad de la red.",
+                    "seccion": "Conocimientos Disciplinares"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_primaria_2023_p38",
+            "contexto": "El diseño web responsivo es utilizado para visualizar las páginas web en diferentes dispositivos, tales como tablets, smartphones, laptops, entre otros.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál de las siguientes alternativas es una característica de una página web con este diseño?",
+                    "opciones": [
+                        "La página web tiene una única versión que se ajusta a cada dispositivo en el cual se visualizará.",
+                        "La página web está diseñada en varias versiones, una por cada dispositivo, en el cual se visualizará.",
+                        "La página web tiene una única versión con dimensiones fijas que no cambian al visualizarse en diversos dispositivos."
+                    ],
+                    "respuesta": "La página web tiene una única versión que se ajusta a cada dispositivo en el cual se visualizará.",
+                    "respuestaCorta": "El diseño web responsivo utiliza una única base de código (HTML y CSS) que se adapta y reorganiza de forma fluida según el tamaño de la pantalla del dispositivo, en lugar de crear versiones separadas.",
+                    "solucionario": "La esencia del diseño web responsivo es la flexibilidad. Se basa en el uso de rejillas fluidas, imágenes flexibles y 'media queries' en el código CSS para que un único sitio web se adapte automáticamente al entorno de visualización del usuario (móvil, tablet, escritorio). Esto significa que no se crean múltiples sitios, sino uno solo que responde y se reajusta al tamaño de la pantalla.",
+                    "seccion": "Conocimientos Disciplinares"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_primaria_2023_p39",
+            "contexto": "En un sitio web sobre robótica educativa, una PIP ha encontrado el siguiente enlace: \"https:// roboticaeducativa.org\".\nAl hacer clic en el enlace, aparece el siguiente mensaje:\n\"No se puede acceder a este sitio\".\nAdemás, la PIP nota que en la barra de direcciones aparece la siguiente ruta:\n\"https://robotica%20educativa.org\"",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál de las siguientes razones explica por qué NO se puede acceder al sitio web desde el enlace?",
+                    "opciones": [
+                        "Porque el enlace al sitio web inicia con el protocolo de navegación a internet \"https\".",
+                        "Porque la vigencia del registro del dominio \"roboticaeducativa.org\" en internet ha expirado.",
+                        "Porque el código del enlace al sitio web contiene un espacio en blanco que el navegador reemplazó por \"%20\"."
+                    ],
+                    "respuesta": "Porque el código del enlace al sitio web contiene un espacio en blanco que el navegador reemplazó por \"%20\".",
+                    "respuestaCorta": "Las URLs no pueden contener espacios en blanco. Los navegadores codifican los espacios como '%20', lo que altera el nombre de dominio original, volviéndolo inválido y causando un error de acceso.",
+                    "solucionario": "Los nombres de dominio en las URLs no permiten espacios. El enlace original contenía un espacio entre 'robotica' y 'educativa.org'. Al hacer clic, el navegador codifica ese espacio en blanco con el carácter '%20', resultando en 'robotica%20educativa.org'. Este no es un nombre de dominio válido y, por lo tanto, el sistema de nombres de dominio (DNS) no puede resolverlo para encontrar el servidor correcto, lo que genera el mensaje de error.",
+                    "seccion": "Conocimientos Disciplinares"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_primaria_2023_p40",
+            "contexto": "En una IE, la corriente eléctrica suele cortarse de manera intempestiva con bastante frecuencia, lo que puede producir desperfectos en las computadoras.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Qué dispositivo debería recomendar el PIP para proteger las computadoras de los cortes eléctricos intempestivos?",
+                    "opciones": [
+                        "Estabilizador de corriente.",
+                        "Supresor de picos.",
+                        "Dispositivo UPS."
+                    ],
+                    "respuesta": "Dispositivo UPS.",
+                    "respuestaCorta": "Un UPS (Sistema de Alimentación Ininterrumpida) contiene una batería interna que proporciona energía temporalmente durante un corte de luz, permitiendo guardar el trabajo y apagar el equipo de forma segura.",
+                    "solucionario": "Mientras que un estabilizador regula el voltaje y un supresor de picos protege contra sobretensiones, solo un UPS (Uninterruptible Power Supply) está diseñado para el problema de los cortes de energía. El UPS tiene una batería que se activa instantáneamente cuando se corta la electricidad, dando al usuario varios minutos de energía para guardar sus archivos y apagar la computadora correctamente, evitando así la pérdida de datos y posibles daños al sistema operativo o hardware.",
+                    "seccion": "Conocimientos Disciplinares"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_primaria_2023_p41",
+            "contexto": "Como parte de un proyecto, los estudiantes de una IE crearán y publicarán una página web con información sobre la contaminación ambiental.\nLos estudiantes han acordado usar código HTML para elaborar la página empleando los aplicativos disponibles en el AIP, motivo por el cual solicitan ayuda al PIP.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Qué aplicativo básico debe sugerir el PIP a los estudiantes para crear la página web mediante códigos HTML?",
+                    "opciones": [
+                        "Un software de diseño gráfico.",
+                        "Un navegador web o browser.",
+                        "Un editor de texto plano."
+                    ],
+                    "respuesta": "Un editor de texto plano.",
+                    "respuestaCorta": "El código HTML es simplemente texto. Por lo tanto, la herramienta fundamental para escribirlo desde cero es un editor de texto plano, como el Bloc de Notas o similares.",
+                    "solucionario": "Para escribir código HTML, la herramienta más básica y esencial es un editor de texto plano (como Bloc de Notas en Windows o TextEdit en Mac). Estos programas guardan el archivo con la extensión .html sin añadir ningún formato oculto, permitiendo que los navegadores web interpreten correctamente las etiquetas. Un navegador se usa para visualizar el resultado, y un software de diseño gráfico para crear imágenes, pero no para codificar HTML directamente.",
+                    "seccion": "Conocimientos Disciplinares"
+                },
+                {
+                    "contexto": "A continuación, se muestra el código HTML de la página web elaborada por los estudiantes:",
+                    "imagen": "img/ascenso/primaria/2023/aip/2.jpg",
+                    "pregunta": "Luego de visualizar el resultado, los estudiantes tienen como propósito que el título \"La contaminación ambiental\" presente mayor tamaño de letra que el que muestra actualmente.\n¿Cuál es el código HTML que deben usar los estudiantes para lograr su propósito?",
+                    "opciones": [
+                        "&lt;title&gt;La contaminación ambiental&lt;/title&gt;",
+                        "&lt;h3&gt;La contaminación ambiental&lt;/h3&gt;",
+                        "&lt;h1&gt;La contaminación ambiental&lt;/h1&gt;"
+                    ],
+                    "respuesta": "<h1>La contaminación ambiental</h1>",
+                    "respuestaCorta": "En HTML, las etiquetas de encabezado van de `<h1>` a `<h6>`. `<h1>` representa el nivel más alto de importancia y, por defecto, se visualiza con el tamaño de fuente más grande.",
+                    "solucionario": "Las etiquetas de encabezado en HTML (`<h1>`, `<h2>`, etc.) definen una jerarquía de títulos. `<h1>` es el encabezado principal y más importante, y los navegadores lo muestran con el tamaño de letra más grande por defecto. El código actual usa `<h2>`. Para aumentar tanto el tamaño visual como la importancia semántica del título, se debe cambiar la etiqueta `<h2>` por la etiqueta `<h1>`.",
+                    "seccion": "Conocimientos Disciplinares"
+                },
+                {
+                    "pregunta": "La página web está lista. Ahora, el propósito de los estudiantes es publicarla.\nEn ese sentido, el PIP les comenta a los estudiantes que, para publicar una página web, deben contar con dos servicios básicos.\nUno de estos servicios es el hosting.\n¿Cuál es el otro servicio básico que requieren los estudiantes para lograr su propósito?",
+                    "opciones": [
+                        "Servicio de difusión.",
+                        "Servicio de dominio.",
+                        "Servicio de correo electrónico."
+                    ],
+                    "respuesta": "Servicio de dominio.",
+                    "respuestaCorta": "Para publicar una página web se necesita un 'hosting' (el espacio de servidor donde se alojan los archivos) y un 'dominio' (la dirección web amigable que los usuarios escriben en el navegador, como www.ejemplo.com).",
+                    "solucionario": "La publicación de un sitio web requiere dos servicios fundamentales: 1) el **Hosting**, que es el servicio de alquiler de espacio en un servidor web para almacenar los archivos del sitio (HTML, CSS, imágenes); y 2) el **Dominio**, que es el nombre único y fácil de recordar (ej. `minedu.gob.pe`) que se asocia a la dirección IP del servidor de hosting para que los usuarios puedan encontrar el sitio fácilmente en internet.",
+                    "seccion": "Conocimientos Disciplinares"
+                },
+                {
+                    "pregunta": "El PIP indica a los estudiantes que deben transferir los archivos de su página web desde la computadora local al servidor web donde serán alojados.\nDe esa manera, su página web estará publicada y podrá ser visualizada por los visitantes.\n¿Qué aplicativo deben usar los estudiantes para transferir los archivos de su página web?",
+                    "opciones": [
+                        "Un cliente FTP.",
+                        "Un servidor DNS.",
+                        "Un navegador web."
+                    ],
+                    "respuesta": "Un cliente FTP.",
+                    "respuestaCorta": "Un cliente FTP (File Transfer Protocol) es una aplicación de software diseñada específicamente para transferir archivos entre una computadora local y un servidor remoto, como un servidor de hosting web.",
+                    "solucionario": "El protocolo estándar para subir archivos a un servidor de hosting es el FTP (File Transfer Protocol). Para ello, se utiliza un programa llamado 'cliente FTP' (como FileZilla, Cyberduck o WinSCP). Este software permite conectarse al servidor remoto usando las credenciales proporcionadas por el servicio de hosting y luego transferir (subir) los archivos de la página web desde la computadora local a las carpetas del servidor para que sean públicos en internet.",
+                    "seccion": "Conocimientos Disciplinares"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_primaria_2023_p45",
+            "contexto": "Los estudiantes están buscando información en internet sobre las teorías del origen del Universo.\nEn ese sentido, le piden ayuda a la PIP para realizar una búsqueda más específica, con una menor cantidad de resultados.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la recomendación que debe brindar la PIP a los estudiantes?",
+                    "opciones": [
+                        "Escriban en el navegador el tema que buscan separando cada palabra con el signo más.",
+                        "Escriban en el navegador el tema que buscan entre signos de interrogación.",
+                        "Escriban en el navegador el tema que buscan entre comillas."
+                    ],
+                    "respuesta": "Escriban en el navegador el tema que buscan entre comillas.",
+                    "respuestaCorta": "Usar comillas en un motor de búsqueda le indica que debe buscar la frase exacta, lo que reduce drásticamente la cantidad de resultados y aumenta su relevancia.",
+                    "solucionario": "El uso de comillas dobles (\" \") es un operador de búsqueda estándar en la mayoría de los motores como Google para indicar una 'búsqueda de frase exacta'. Al encerrar un término entre comillas, como \"teorías del origen del Universo\", el motor solo devolverá páginas que contengan esas palabras exactas y en ese orden específico, lo que resulta en una búsqueda mucho más precisa y con menos resultados irrelevantes que una búsqueda sin comillas.",
+                    "seccion": "Casuística"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_primaria_2023_p46",
+            "contexto": "Un AIP cuenta con una computadora servidor escuela y varias computadoras para el uso de los estudiantes.\nComo parte de un trabajo en equipo, los estudiantes quieren buscar información en internet usando las computadoras del AIP, pero no pueden acceder a algunos sitios web.\nEl PIP nota que en la computadora que funciona como servidor escuela sí se puede acceder a estos sitios web.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál de las siguientes alternativas describe lo que sucede con las computadoras que usan los estudiantes?",
+                    "opciones": [
+                        "El acceso de las computadoras a la red ha sido bloqueado a través del filtrado de MAC.",
+                        "La configuración de los DNS de las computadoras presentan direcciones IP incorrectas.",
+                        "El filtro de contenido ha restringido la navegación en las computadoras."
+                    ],
+                    "respuesta": "El filtro de contenido ha restringido la navegación en las computadoras.",
+                    "respuestaCorta": "El escenario donde el servidor tiene acceso total pero las computadoras de los estudiantes no, es típico de un filtro de contenido, que restringe el acceso a ciertos sitios web según políticas de seguridad establecidas para los usuarios.",
+                    "solucionario": "Dado que el servidor escuela (que probablemente actúa como administrador de la red) tiene acceso a internet sin restricciones, pero las computadoras de los estudiantes no, la causa más probable es un software de filtrado de contenido. Este tipo de software se configura en el servidor o en la puerta de enlace de la red para aplicar políticas de navegación, bloqueando el acceso a categorías de sitios web (redes sociales, juegos, contenido para adultos, etc.) solo para ciertos usuarios o equipos, en este caso, los de los estudiantes.",
+                    "seccion": "Conocimientos Disciplinares"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_primaria_2023_p47",
+            "contexto": "Un usuario ha enviado un mensaje de correo electrónico incluyendo en los campos las siguientes direcciones de correo:\nPara: mrivera@empresa.com\nCC: aporras@empresa.com;rrojas@empresa.com\nCCO: csoto@empresa.com;pmarquez@empresa.com;ghurtado@empresa.com",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "El usuario \"csoto\" revisa el mensaje recibido. Además de su dirección de correo electrónico, ¿cuáles de las otras direcciones de correo electrónico observará este usuario?",
+                    "opciones": [
+                        "pmarquez@empresa.com; ghurtado@empresa.com",
+                        "mrivera@empresa.com;aporras@empresa.com;rrojas@empresa.com",
+                        "mrivera@empresa.com;pmarquez@empresa.com;ghurtado@empresa.com"
+                    ],
+                    "respuesta": "mrivera@empresa.com;aporras@empresa.com;rrojas@empresa.com",
+                    "respuestaCorta": "Un destinatario en el campo CCO (Copia de Carbón Oculta) puede ver a todos los destinatarios de los campos 'Para' y 'CC', pero no puede ver a ningún otro destinatario que también esté en el campo CCO.",
+                    "solucionario": "La función del campo CCO (Copia de Carbón Oculta) es enviar una copia del correo a alguien sin que los demás destinatarios sepan de su existencia. Un destinatario en CCO es invisible para todos los demás. Por lo tanto, el usuario 'csoto' (que está en CCO) podrá ver la dirección del destinatario principal ('Para': mrivera) y las de copia de carbón ('CC': aporras, rrojas), pero no verá las direcciones de los otros destinatarios ocultos (pmarquez, ghurtado).",
+                    "seccion": "Conocimientos Disciplinares"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_primaria_2023_p48",
+            "contexto": null,
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál de las siguientes alternativas es una característica del uso del modo oculto o incógnito en un navegador?",
+                    "opciones": [
+                        "Permite desactivar el bloqueo de páginas restringidas al navegar en internet.",
+                        "Permite ocultar la dirección IP de la computadora que se está utilizando al navegar en internet.",
+                        "Permite navegar en internet sin guardar en el historial del navegador las direcciones de los sitios web visitados."
+                    ],
+                    "respuesta": "Permite navegar en internet sin guardar en el historial del navegador las direcciones de los sitios web visitados.",
+                    "respuestaCorta": "El modo incógnito previene que el navegador guarde localmente el historial de navegación, las cookies y la información de formularios una vez que se cierra la sesión, pero no oculta la actividad a la red o al proveedor de internet.",
+                    "solucionario": "La función principal del modo incógnito o privado es evitar que la sesión de navegación deje rastros en el dispositivo local. Específicamente, al cerrar la ventana de incógnito, el navegador borra el historial de las páginas visitadas, las cookies y los datos de sitios, así como la información introducida en formularios durante esa sesión. Es crucial entender que no oculta la dirección IP ni la actividad de navegación al proveedor de servicios de internet, a la escuela o al empleador.",
+                    "seccion": "Conocimientos Disciplinares"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_primaria_2023_p49",
+            "contexto": "Un directivo ha elaborado un conjunto de preguntas con el propósito de recopilar información para generar reportes sobre las preferencias de lectura de todos los estudiantes de la IE.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál de las siguientes acciones tecnológicas es más pertinente para lograr dicho propósito?",
+                    "opciones": [
+                        "Enviar a todos los estudiantes, por correo electrónico, el enlace a un formulario virtual para que respondan las preguntas.",
+                        "Enviar a todos los estudiantes, por correo electrónico, un documento adjunto para que respondan las preguntas y lo reenvíen por este medio.",
+                        "Enviar a todos los estudiantes, por correo electrónico, el enlace a una hoja de cálculo compartida con permiso de edición, para que respondan las preguntas."
+                    ],
+                    "respuesta": "Enviar a todos los estudiantes, por correo electrónico, el enlace a un formulario virtual para que respondan las preguntas.",
+                    "respuestaCorta": "Los formularios virtuales son la herramienta ideal para recopilar datos de muchas personas, ya que centralizan las respuestas automáticamente en una hoja de cálculo, facilitando la generación de reportes.",
+                    "solucionario": "La opción A es la más pertinente porque los formularios virtuales (como Google Forms o Microsoft Forms) están diseñados para recopilar respuestas de manera estructurada y masiva. Su principal ventaja es que consolidan automáticamente toda la información en una hoja de cálculo, lo que simplifica enormemente el análisis y la generación de reportes. Las otras opciones generarían un trabajo manual excesivo de consolidación o un caos al tener a todos editando un mismo archivo.",
+                    "seccion": "Casuística"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_primaria_2023_p50",
+            "contexto": "Una profesora comenta que ingresó a la página web de cierta universidad para revisar la información de un diplomado.\nNo obstante, a pesar de haber cerrado dicha página sin realizar ninguna compra, observa que, mientras visualiza un video en otra página web, en la pantalla aparece una pequeña publicidad del diplomado revisado con anterioridad.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Por qué la publicidad sobre el diplomado consultado aparece en el navegador de la profesora, a pesar de haber cerrado dicha página?",
+                    "opciones": [
+                        "Por la presencia de spam.",
+                        "Por el funcionamiento de las cookies.",
+                        "Por el accionar de la caché del navegador."
+                    ],
+                    "respuesta": "Por el funcionamiento de las cookies.",
+                    "respuestaCorta": "Las cookies de seguimiento son utilizadas por las redes de publicidad para registrar el interés de un usuario en un producto y luego mostrarle anuncios relacionados en otros sitios web, una técnica llamada 'retargeting'.",
+                    "solucionario": "Este fenómeno se conoce como 'retargeting' o 'remarketing' y funciona a través de las cookies. Cuando la profesora visitó la página de la universidad, el sitio instaló una cookie de seguimiento en su navegador. Posteriormente, las redes de publicidad que colaboran con la universidad detectan esa cookie y le muestran anuncios personalizados del diplomado en otros sitios web que forman parte de esa misma red publicitaria.",
+                    "seccion": "Conocimientos Disciplinares"
+                },
+                {
+                    "pregunta": "La profesora ha descargado la aplicación de la universidad que ofrece el diplomado. En dicha aplicación, se muestran las opciones de pago.\n¿Cuál de las siguientes formas de confirmación de pago es menos segura para las transacciones vía web?",
+                    "opciones": [
+                        "El touch ID.",
+                        "El uso de dispositivos token.",
+                        "El método usuario-contraseña."
+                    ],
+                    "respuesta": "El método usuario-contraseña.",
+                    "respuestaCorta": "El método de solo usuario y contraseña es el menos seguro porque es vulnerable a ataques de phishing, adivinación (fuerza bruta) y reutilización de contraseñas filtradas en otras brechas de seguridad.",
+                    "solucionario": "El método de solo usuario y contraseña representa un único factor de autenticación (algo que sabes), lo que lo hace el más débil. En cambio, el Touch ID (factor biométrico - algo que eres) y los dispositivos token (factor de posesión - algo que tienes) son componentes de la autenticación de dos factores (2FA) o multifactor (MFA), que añaden capas de seguridad significativamente mayores a las transacciones.",
+                    "seccion": "Conocimientos Disciplinares"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_primaria_2023_p52",
+            "contexto": "Un profesor les comenta a los estudiantes acerca de una tendencia sobre la automatización de las viviendas llamada domótica.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la característica principal de la \"domótica\"?",
+                    "opciones": [
+                        "Emplea sensores.",
+                        "Utiliza nanotecnología.",
+                        "Integra información sobre rasgos anatómicos."
+                    ],
+                    "respuesta": "Emplea sensores.",
+                    "respuestaCorta": "La domótica se basa en el uso de sensores para recopilar información del entorno (temperatura, luz, movimiento) y actuadores para ejecutar acciones automáticamente, creando así un hogar inteligente.",
+                    "solucionario": "La característica fundamental de la domótica es la automatización y el control inteligente de una vivienda. Esto se logra mediante una red de sensores que capturan datos del ambiente (luz, temperatura, presencia, etc.) y envían esa información a una unidad central. Esta unidad procesa los datos y da órdenes a los actuadores (interruptores, motores de persianas, termostatos) para que realicen una acción. Por tanto, los sensores son la base de todo el sistema.",
+                    "seccion": "Conocimientos Disciplinares"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_primaria_2023_p53",
+            "contexto": null,
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es el principal efecto del malware conocido como keylogger?",
+                    "opciones": [
+                        "Guardar las pulsaciones realizadas en el teclado de un equipo con la finalidad de registrar las contraseñas y así acceder a información confidencial del usuario.",
+                        "Engañar por medio del envío de mensajes, falsas alarmas de virus, cadenas, denuncias o alertas a través de correo electrónico o redes sociales.",
+                        "Secuestrar la página de inicio del navegador para mostrar una página web del atacante o infectar la PC con un virus."
+                    ],
+                    "respuesta": "Guardar las pulsaciones realizadas en el teclado de un equipo con la finalidad de registrar las contraseñas y así acceder a información confidencial del usuario.",
+                    "respuestaCorta": "Un keylogger es un tipo de spyware que registra secretamente cada tecla que se pulsa en un teclado, con el objetivo principal de robar contraseñas, números de tarjetas de crédito y otra información sensible.",
+                    "solucionario": "La función específica de un keylogger (registrador de teclas) es capturar y almacenar todas las pulsaciones de teclado que un usuario realiza en un equipo infectado. Los ciberdelincuentes utilizan este malware para obtener de forma encubierta información confidencial como nombres de usuario, contraseñas, datos bancarios y mensajes privados, para luego utilizarlos con fines maliciosos.",
+                    "seccion": "Conocimientos Disciplinares"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_primaria_2023_p54",
+            "contexto": "Un directivo tiene el propósito de recopilar información de todos los estudiantes de la IE con la finalidad de proponer algunas actividades recreativas sobre la base de dicha información.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "Una de las preguntas del instrumento de recojo de información debe permitir que cada estudiante indique el grado de estudios que está cursando.\n¿Qué tipo de pregunta es más pertinente utilizar?",
+                    "opciones": [
+                        "Respuesta corta.",
+                        "Opción múltiple.",
+                        "Casillas de verificación."
+                    ],
+                    "respuesta": "Opción múltiple.",
+                    "respuestaCorta": "La pregunta de opción múltiple es ideal cuando hay una lista de opciones predefinidas y el usuario debe seleccionar solo una respuesta posible, como es el caso del grado de estudios.",
+                    "solucionario": "Para una pregunta donde las respuestas son mutuamente excluyentes (un estudiante solo puede estar en un grado a la vez) y la lista de opciones es finita (1.º, 2.º, 3.º, etc.), el tipo de pregunta más pertinente es la de 'Opción múltiple'. Esto garantiza que los datos recopilados sean consistentes y fáciles de agrupar y analizar. Las casillas de verificación permitirían seleccionar varios grados, y la respuesta corta podría generar inconsistencias en la escritura (ej. 'primero', '1er', '1 grado').",
+                    "seccion": "Casuística"
+                },
+                {
+                    "pregunta": "El instrumento de recojo de información también incluirá una pregunta que permitirá recopilar los comentarios o sugerencias de los estudiantes acerca de las actividades recreativas que se podrían proponer en la IE.\n¿Qué tipo de pregunta es más pertinente utilizar?",
+                    "opciones": [
+                        "Párrafo.",
+                        "Lista desplegable.",
+                        "Escala de valoración."
+                    ],
+                    "respuesta": "Párrafo.",
+                    "respuestaCorta": "Para recopilar respuestas abiertas, cualitativas y extensas, como comentarios o sugerencias, el tipo de pregunta 'Párrafo' (o texto largo) es el más adecuado.",
+                    "solucionario": "El objetivo es recopilar 'comentarios o sugerencias', que son respuestas cualitativas y de formato libre. El tipo de pregunta 'Párrafo' (o 'Respuesta larga') está diseñado específicamente para este fin, proporcionando un campo de texto amplio donde los estudiantes pueden expresarse sin las restricciones de una lista de opciones, una escala numérica o un texto corto.",
+                    "seccion": "Casuística"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_primaria_2023_p56",
+            "contexto": "Durante una capacitación sobre seguridad de la información, el capacitador pregunta a los participantes qué es un ransomware.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál de los participantes responde correctamente la pregunta del capacitador?",
+                    "opciones": [
+                        "Adela dice: \"El ransomware es un mensaje de correo electrónico no solicitado de tipo publicitario\".",
+                        "Julio dice: \"El ransomware es un software malicioso que muestra en la pantalla de la computadora anuncios publicitarios emergentes\".",
+                        "Miriam dice: \"El ransomware es un malware que bloquea el acceso a los archivos o dispositivos del usuario exigiendo un pago para desbloquearlos\"."
+                    ],
+                    "respuesta": "Miriam dice: \"El ransomware es un malware que bloquea el acceso a los archivos o dispositivos del usuario exigiendo un pago para desbloquearlos\".",
+                    "respuestaCorta": "El ransomware es un tipo de malware que cifra los archivos de la víctima y exige un rescate (ransom) para proporcionar la clave de descifrado y así restaurar el acceso a los datos.",
+                    "solucionario": "La respuesta de Miriam describe con precisión el funcionamiento del ransomware. Su nombre proviene de la combinación de las palabras 'ransom' (rescate) y 'software'. Este malware se especializa en cifrar los datos del usuario (documentos, fotos, etc.) o bloquear el acceso completo al sistema, para luego mostrar un mensaje exigiendo un pago, generalmente en criptomonedas, a cambio de la clave para recuperar los archivos secuestrados.",
+                    "seccion": "Conocimientos Disciplinares"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_primaria_2023_p57",
+            "contexto": "Como parte de las actividades de un taller sobre seguridad informática, el facilitador solicita que los participantes brinden alternativas ante el potencial riesgo a la seguridad de las redes inalámbricas.\nA continuación, se presentan las intervenciones de tres participantes.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál de ellos propone una alternativa que brinda mayor seguridad a las redes inalámbricas?",
+                    "opciones": [
+                        "Abel dice: \"Cambiar el número de IP de las computadoras de la red frecuentemente\".",
+                        "Bruno dice: \"Cambiar la contraseña de acceso a la red frecuentemente\".",
+                        "Carolina dice: \"Cambiar frecuentemente de nombre a la red\"."
+                    ],
+                    "respuesta": "Bruno dice: \"Cambiar la contraseña de acceso a la red frecuentemente\".",
+                    "respuestaCorta": "Cambiar la contraseña de la red Wi-Fi periódicamente es una medida de seguridad fundamental para invalidar el acceso a dispositivos no autorizados que pudieran haberla obtenido previamente.",
+                    "solucionario": "De las opciones presentadas, cambiar la contraseña de acceso a la red (la clave WPA2/WPA3) es la medida más efectiva y fundamental. Una contraseña fuerte, cambiada con frecuencia, es la primera y más importante barrera contra el acceso no autorizado. Cambiar el nombre de la red (SSID) ofrece una seguridad mínima por oscuridad, y cambiar las IPs internas no previene que un atacante se conecte a la red si ya conoce la contraseña.",
+                    "seccion": "Conocimientos Disciplinares"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_primaria_2023_p58",
+            "contexto": "Un PIP está desarrollando un taller de programación con los profesores de la IE.\nComo parte de este taller, el PIP muestra a los participantes pseudocódigos que contienen errores.\nEl PIP solicita que los participantes identifiquen dichos errores.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "contexto": "Uno de los pseudocódigos que presenta el PIP a los participantes es el siguiente:",
+                    "imagen":"img/ascenso/primaria/2023/aip/3.jpg",
+                    "pregunta":"A continuación, se muestran las respuestas de tres profesores. ¿Cuál de ellos identifica la ubicación del error en el pseudocódigo presentado?",
+                    "opciones": [
+                        "Ana dice: \"El error se encuentra en la línea 5\".",
+                        "Benito dice: \"El error se encuentra en la línea 6\".",
+                        "Cristina dice: \"El error se encuentra en la línea 7\"."
+                    ],
+                    "respuesta": "Benito dice: \"El error se encuentra en la línea 6\".",
+                    "respuestaCorta": "El error de lógica está en la línea 6, porque al precio se le está restando el porcentaje de descuento (ej. 15) en lugar de restarle el monto del descuento ya calculado en la variable `descuento_aplicado`.",
+                    "solucionario": "El pseudocódigo calcula correctamente el monto del descuento en la línea 5 y lo almacena en la variable `descuento_aplicado`. Sin embargo, en la línea 6, para calcular el `precio_final`, se resta incorrectamente el valor del porcentaje (`descuento`) en lugar del monto del descuento ya calculado. La corrección sería: `precio_final = precio - descuento_aplicado`.",
+                    "seccion": "Conocimientos Disciplinares"
+                },
+                {
+                    "contexto": "Luego, el PIP presenta a los participantes el siguiente pseudocódigo:",
+                    "imagen":"img/ascenso/primaria/2023/aip/4.jpg",
+                    "pregunta":"A continuación, se muestran las respuestas de tres profesores. ¿Cuál de ellos identifica la ubicación del error en el pseudocódigo presentado y lo corrige?",
+                    "opciones": [
+                        "Andrés dice: \"El error se encuentra en la línea 6, a la variable m se le debe asignar el valor 12 en lugar del valor 1\".",
+                        "Beatriz dice: \"El error se encuentra en la línea 7, la condición m<=12 debe ser cambiada por la condición m>=12\".",
+                        "Carlos dice: \"El error se encuentra en la línea 9, la asignación m=m+2 debe ser cambiada por la asignación m=m+1\"."
+                    ],
+                    "respuesta": "Carlos dice: \"El error se encuentra en la línea 9, la asignación m=m+2 debe ser cambiada por la asignación m=m+1\".",
+                    "respuestaCorta": "El error es que el contador `m` se incrementa de 2 en 2 (`m=m+2`), lo que provoca que la tabla de multiplicar se salte números (mostraría la del 1, 3, 5...). Para una tabla completa, debe incrementarse de 1 en 1 (`m=m+1`).",
+                    "solucionario": "El objetivo del pseudocódigo es mostrar la tabla de multiplicar completa de un número, del 1 al 12. El bucle 'Mientras' está correctamente configurado para ejecutarse mientras `m` sea menor o igual a 12. Sin embargo, en la línea 9, el contador `m` se incrementa en 2 en cada iteración. Esto hará que solo se muestren las multiplicaciones por los números impares (1, 3, 5, 7, 9 y 11). Para corregirlo y que se muestre la tabla completa, el incremento debe ser de 1, es decir, la línea debe ser `m=m+1`.",
+                    "seccion": "Conocimientos Disciplinares"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_primaria_2023_p60",
+            "contexto": "A continuación, se muestra el algoritmo elaborado por un estudiante:",
+            "imagen": "img/ascenso/primaria/2023/aip/5.jpg",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la figura que se traza al ejecutar este algoritmo?",
+                    "opciones": [
+                        "La figura de la letra R.",
+                        "La figura de la letra P.",
+                        "La figura de la letra O."
+                    ],
+                    "respuesta": "La figura de la letra P.",
+                    "respuestaCorta": "El algoritmo primero dibuja una línea vertical larga, y luego, en la parte superior, dibuja tres lados de un cuadrado, formando la curva superior de la letra P.",
+                    "solucionario": "Analizando los pasos del algoritmo: 1) `bajar lápiz` para empezar a dibujar. 2) `avanzar 120 pasos` dibuja el trazo vertical de la P. 3) El bucle `repetir 3` ejecuta lo siguiente tres veces: `girar 90 grados a la derecha` y `avanzar 60 pasos`. Esto dibuja tres segmentos que forman la parte superior cerrada de la letra P (el primer segmento va hacia la derecha, el segundo hacia abajo y el tercero hacia la izquierda, conectando con el palo vertical). Finalmente `subir lápiz`. La figura resultante es la letra P.",
+                    "seccion": "Conocimientos Disciplinares"
+                }
+            ]
+        }
+    ]
+}
