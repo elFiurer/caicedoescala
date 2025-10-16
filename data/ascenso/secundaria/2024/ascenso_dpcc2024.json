@@ -1,0 +1,1093 @@
+{
+    "completo": [
+        {
+            "idGrupo": "asc_dpcc_2024_p01",
+            "contexto": "Los estudiantes van a realizar una investigación sobre la situación de la democracia en el\nPerú. Para iniciar dicha investigación, los estudiantes comparten en plenaria sus opiniones\nacerca de qué condiciones debería asegurar un gobierno democrático. En ese contexto, los\nestudiantes comparten distintas opiniones.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál de los siguientes estudiantes NO menciona una característica de la democracia?",
+                    "opciones": [
+                        "Armando dice: \"Creo que, en una democracia, el gobierno debe garantizar que todas las\npersonas, sin importar su religión, origen o género, vean representados sus intereses en\nel manejo del gobierno\".",
+                        "Talía dice: \"Para mí, en una democracia, todas las decisiones del gobierno deben ser\nsometidas previamente a referéndum, para que así este se asegure de hacer lo que la\nmayoría cree mejor para la sociedad\".",
+                        "Rosario dice: \"Yo creo que, en una democracia, el gobierno debe asegurar que todos los\nciudadanos puedan ser libres de trabajar, producir, consumir o invertir su dinero de la\nforma que deseen hacerlo, en tanto no afecten el bien común\"."
+                    ],
+                    "respuesta": "Talía dice: \"Para mí, en una democracia, todas las decisiones del gobierno deben ser\nsometidas previamente a referéndum, para que así este se asegure de hacer lo que la\nmayoría cree mejor para la sociedad\".",
+                    "respuestaCorta": "La propuesta de Talía describe una forma de democracia directa que no es una característica esencial de los gobiernos democráticos modernos, los cuales son mayoritariamente representativos y deben proteger también los derechos de las minorías.",
+                    "solucionario": "Mientras que Armando (representatividad e inclusión) y Rosario (libertad económica con responsabilidad social) describen pilares fundamentales de una democracia, la idea de Talía es una generalización incorrecta. Someter *todas* las decisiones a referéndum es inviable y podría llevar a la 'tiranía de la mayoría', donde los derechos de los grupos minoritarios no son protegidos. Las democracias representativas equilibran la voluntad popular con la protección de derechos fundamentales y la gobernabilidad.",
+                    "seccion": "Casuística"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_dpcc_2024_p02",
+            "contexto": "Luego de que los estudiantes han realizado un trabajo de investigación en equipos, la docente\nles entrega una ficha que contiene un conjunto de preguntas con el propósito de promover la\nmetacognición acerca de las estrategias de trabajo en equipo.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál de los siguientes conjuntos de preguntas es más pertinente para favorecer el logro del\npropósito de la docente?",
+                    "opciones": [
+                        "¿Qué aprendiste sobre el tema que aborda el trabajo realizado por tu equipo? ¿El trabajo\nelaborado por tu equipo contribuyó a dicho propósito? ¿Cómo podrías profundizar esos\nconocimientos?",
+                        "¿Cómo se organizó tu equipo? ¿Cómo afrontó el equipo las dificultades durante la\nelaboración del trabajo? ¿Cómo el aporte de cada miembro del equipo favoreció al logro\ndel trabajo realizado?",
+                        "¿Cuál fue el problema de investigación planteado por tu equipo? ¿Cuál crees que es la\nimportancia del trabajo que han elaborado? ¿Qué aporte consideras que brindan las\nconclusiones del trabajo realizado por el equipo?"
+                    ],
+                    "respuesta": "¿Cómo se organizó tu equipo? ¿Cómo afrontó el equipo las dificultades durante la\nelaboración del trabajo? ¿Cómo el aporte de cada miembro del equipo favoreció al logro\ndel trabajo realizado?",
+                    "respuestaCorta": "Este conjunto de preguntas se enfoca directamente en el *proceso* del trabajo en equipo (organización, resolución de problemas, contribuciones individuales), lo cual es el objetivo de la metacognición sobre las estrategias utilizadas.",
+                    "solucionario": "El propósito es la metacognición sobre las 'estrategias de trabajo en equipo'. La opción 'a' se centra en el aprendizaje del contenido. La opción 'c' se enfoca en el producto de la investigación. La opción 'b' es la única que dirige la reflexión de los estudiantes hacia el 'cómo' trabajaron juntos: su organización, su manejo de dificultades y la sinergia de sus aportes, lo cual constituye una evaluación de sus estrategias colaborativas.",
+                    "seccion": "Casuística"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_dpcc_2024_p03",
+            "contexto": "Durante una sesión de aprendizaje, la docente les presenta a los estudiantes la siguiente\nsituación hipotética:\n\nEn una empresa, como parte de un recorte presupuestal, se ha aplicado una\ndisminución de los salarios de todo el personal. Los trabajadores de dicha empresa\nconsideran que esta medida se realizó sin ningún sustento y sin previo aviso. Por esa\nrazón, están organizando una protesta frente al local de la empresa para exigir que\nse enmiende esta situación.\n\nEntre los trabajadores, se encuentra Alfredo. Él también\nestá en desacuerdo con la medida tomada por la empresa, pero no sabe si participar\nen la acción de protesta, pues, si bien considera que es necesario reclamar para que\nse haga justicia, también teme que ello pueda poner en riesgo su empleo, el cual\nnecesita para mantener a su familia.\n\nPara analizar esta situación, la docente y los estudiantes realizan diversas actividades.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál de las siguientes justificaciones de los estudiantes evidencia mejor\nla comprensión del concepto de dilema moral?",
+                    "opciones": [
+                        "Martha dice: \"A mí me parece que este es un dilema moral porque Alfredo se encuentra\nante un problema frente al cual es difícil identificar qué decisión traerá menos conflictos\nentre las diversas personas involucradas\".",
+                        "Jorge dice: \"Pienso que esta situación es un dilema moral porque Alfredo está envuelto\nen un problema en el que, para saber qué acción es la correcta, tendrá que decidir poner\nel interés de la mayoría sobre sus intereses personales\".",
+                        "Patricia dice: \"Creo que esta situación es un dilema moral porque Alfredo nota que está\nen la necesidad de actuar frente a un problema y que, sin importar la decisión que tome,\nesta implicará ir en contra de algo que es importante para él\"."
+                    ],
+                    "respuesta": "Patricia dice: \"Creo que esta situación es un dilema moral porque Alfredo nota que está\nen la necesidad de actuar frente a un problema y que, sin importar la decisión que tome,\nesta implicará ir en contra de algo que es importante para él\".",
+                    "respuestaCorta": "Patricia define correctamente un dilema moral como un conflicto interno entre dos o más valores importantes para una persona, donde cualquier elección implica sacrificar uno de ellos.",
+                    "solucionario": "Un dilema moral se caracteriza fundamentalmente por el conflicto entre valores en el fuero interno de una persona. Patricia lo capta perfectamente al señalar que Alfredo, sin importar lo que decida, irá en contra de 'algo que es importante para él' (la justicia y la solidaridad con sus compañeros, o la seguridad económica de su familia). Las otras opciones describen aspectos que pueden estar presentes, pero no son la esencia del dilema: un dilema no es solo buscar la opción con 'menos conflictos' (Martha) ni se reduce siempre a 'mayoría vs. interés personal' (Jorge).",
+                    "seccion": "Casuística"
+                },
+                {
+                    "pregunta": "El propósito de la docente es que los estudiantes reflexionen éticamente sobre la situación\npresentada.\n¿Cuál de los siguientes conjuntos de preguntas es más pertinente que la docente\nformule a los estudiantes para continuar con la actividad?",
+                    "opciones": [
+                        "¿Cuál es la importancia que la sociedad le atribuye al valor moral de la justicia? ¿Por qué\nel interés que tiene Alfredo por conservar su empleo puede considerarse una decisión\nmoralmente menos apropiada que defender lo que es justo con sus compañeros?",
+                        "¿Con qué argumentos podría sustentar Alfredo los dos posibles cursos de acción ante los\nque se encuentra? ¿Qué harían ustedes si estuvieran en la posición de Alfredo y tuviesen\nque elegir entre estas dos posibles acciones?",
+                        "¿Podrían plantearse nuevas alternativas para que Alfredo no tenga que verse obligado a\nelegir entre estas dos alternativas de acción? ¿Cuál de estas nuevas alternativas podría\nresultar más beneficiosa para Alfredo?"
+                    ],
+                    "respuesta": "¿Con qué argumentos podría sustentar Alfredo los dos posibles cursos de acción ante los\nque se encuentra? ¿Qué harían ustedes si estuvieran en la posición de Alfredo y tuviesen\nque elegir entre estas dos posibles acciones?",
+                    "respuestaCorta": "Estas preguntas fomentan la reflexión ética al pedir a los estudiantes que construyan argumentos para ambas opciones y que realicen un ejercicio de toma de perspectiva, enfrentándose directamente al dilema.",
+                    "solucionario": "Para promover la reflexión ética, es crucial que los estudiantes analicen la validez de los argumentos de cada opción y se pongan en el lugar de quien toma la decisión. La opción 'a' induce una respuesta al calificar una opción como 'menos apropiada', cerrando la reflexión. La opción 'c' busca evadir el dilema en lugar de analizarlo. La opción 'b' es la más pertinente porque pide explícitamente analizar los 'argumentos' de cada lado y luego personaliza el dilema ('¿Qué harían ustedes?'), obligando a los estudiantes a sopesar los valores en conflicto desde una perspectiva ética.",
+                    "seccion": "Casuística"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_dpcc_2024_p05",
+            "contexto": "En unos meses, se realizarán las elecciones Regionales y Municipales. Por ello, en una IE de\nzona urbana, la docente inicia una plenaria con los estudiantes para recoger sus impresiones\nrespecto de estas elecciones. En ese contexto, un estudiante menciona lo siguiente:\n\n\"A mí no me interesan las elecciones porque creo que la política no influye realmente\nen mi vida\".\n\nAlgunos estudiantes estuvieron de acuerdo con su compañero. En ese contexto, la docente se\npropone generar conflicto cognitivo en los estudiantes.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál de las siguientes intervenciones\nes más pertinente para ello?",
+                    "opciones": [
+                        "\"Consideren qué sucedería si el alcalde que ha sido recientemente elegido en el distrito\ndecidiera emitir ordenanzas que limiten el uso libre de los espacios públicos que suelen\nusar. ¿Tendría un impacto en sus vidas, las de sus familias o la de los vecinos?\".",
+                        "\"Las decisiones de los políticos afectan y generan cambios en la vida de las personas\naun cuando no parezca. ¿No creen que los cambios que estos puedan hacer podrían ser\nbuenos o malos para las personas? Entonces, elegirlos bien debería importarnos\".",
+                        "\"Las elecciones son un medio a través del cual los ciudadanos expresamos nuestra\nvoluntad y es uno de los mecanismos de la democracia. ¿Acaso no es importante\ncontribuir con el mantenimiento de la democracia para que no se afecte nuestra vida?\"."
+                    ],
+                    "respuesta": "\"Consideren qué sucedería si el alcalde que ha sido recientemente elegido en el distrito\ndecidiera emitir ordenanzas que limiten el uso libre de los espacios públicos que suelen\nusar. ¿Tendría un impacto en sus vidas, las de sus familias o la de los vecinos?\".",
+                    "respuestaCorta": "Esta intervención genera conflicto cognitivo al plantear un escenario concreto y cercano a la realidad de los estudiantes, donde una decisión política local afecta directamente sus actividades cotidianas.",
+                    "solucionario": "Para generar conflicto cognitivo, es más eficaz partir de la experiencia de los estudiantes. La opción 'b' es una afirmación directa de la docente, lo que resulta menos efectivo que una pregunta que los haga pensar. La opción 'c' es abstracta al hablar de 'mecanismos de la democracia'. La opción 'a' es la más pertinente porque conecta la política con la vida diaria de los estudiantes a través de un ejemplo tangible (un alcalde y el uso de los parques), obligándolos a cuestionar su creencia inicial de que la política no les afecta.",
+                    "seccion": "Casuística"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_dpcc_2024_p06",
+            "contexto": "Un equipo de estudiantes está elaborando un proyecto de investigación. Durante una reunión\nde equipo, Manuel olvidó sus materiales y sus compañeros tuvieron que prestarle algunos\nde los suyos para que pueda trabajar. Pasados dos días, Manuel no ha devuelto lo que le\nprestaron. Incómodos con la situación porque necesitan sus materiales, sus compañeros\ndeciden hablar con él.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál de las siguientes intervenciones de los estudiantes evidencia asertividad?",
+                    "opciones": [
+                        "Mercedes dice: \"Ayer no pude avanzar un trabajo del área. Mañana tengo que presentar\nun avance de ese trabajo y aún no tengo mi libro. Eso me molesta. Te pido que me lo\ndevuelvas mañana antes de la clase\".",
+                        "Agapito dice: \"El otro día te presté mis útiles para que puedas trabajar en el proyecto y\nhasta ahora sigo esperando que me los devuelvas. Siempre hay que recordarte las cosas.\nEres muy desconsiderado\".",
+                        "Guillermo dice: \"Yo entiendo que a veces uno se olvida las cosas y necesita ayuda. Por\neso quería saber si habías tenido problemas para devolverme las fichas de trabajo que\nte presté el otro día\"."
+                    ],
+                    "respuesta": "Mercedes dice: \"Ayer no pude avanzar un trabajo del área. Mañana tengo que presentar\nun avance de ese trabajo y aún no tengo mi libro. Eso me molesta. Te pido que me lo\ndevuelvas mañana antes de la clase\".",
+                    "respuestaCorta": "La intervención de Mercedes es asertiva porque describe la situación objetivamente, expresa sus sentimientos en primera persona ('me molesta') y realiza una petición clara y respetuosa.",
+                    "solucionario": "La asertividad implica comunicar necesidades y sentimientos de forma clara, directa y respetuosa. Agapito (b) es agresivo, ya que ataca y culpa ('Eres muy desconsiderado'). Guillermo (c) es pasivo, ya que no expresa su necesidad claramente y da rodeos. Mercedes (a) es el ejemplo de asertividad: 1) Describe el hecho y su consecuencia ('no pude avanzar'), 2) Expresa su emoción ('me molesta') y 3) Formula una petición específica y concreta ('Te pido que me lo devuelvas mañana').",
+                    "seccion": "Casuística"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_dpcc_2024_p07",
+            "contexto": "La docente ha planificado un conjunto de actividades para que los estudiantes exploren sus\nintereses vocacionales. Como parte de dichas actividades, la docente busca promover el\nautoconocimiento de los estudiantes.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál de las siguientes acciones pedagógicas es más\npertinente para ello?",
+                    "opciones": [
+                        "Pedir a los estudiantes que se imaginen ejerciendo una profesión que se ajuste a sus\ngustos e intereses. Luego, pedirles que comenten qué creen que deberán hacer para\nllegar a ejercer dicha profesión y qué dificultades se les presentarán en el proceso.",
+                        "Solicitar a los estudiantes que mencionen qué profesiones creen que son afines a sus\ngustos e intereses. Luego, pedirles que identifiquen cuáles de sus habilidades son\ndeseables en dichas profesiones y qué otras deberán desarrollar para ejercerlas.",
+                        "Entregar a los estudiantes un test vocacional para que lo resuelvan. Luego, pedirles\nque, a partir de los resultados que obtengan, busquen cuál es el mercado laboral de las\nprofesiones que el test sugiera."
+                    ],
+                    "respuesta": "Solicitar a los estudiantes que mencionen qué profesiones creen que son afines a sus\ngustos e intereses. Luego, pedirles que identifiquen cuáles de sus habilidades son\ndeseables en dichas profesiones y qué otras deberán desarrollar para ejercerlas.",
+                    "respuestaCorta": "Esta acción promueve el autoconocimiento al hacer que los estudiantes analicen sus habilidades actuales en relación con sus intereses profesionales e identifiquen áreas de crecimiento personal.",
+                    "solucionario": "El objetivo es el autoconocimiento. La opción 'a' se centra en la proyección a futuro y la planificación. La opción 'c' externaliza el proceso a una herramienta (test) y se enfoca en el mercado laboral. La opción 'b' es la más pertinente porque promueve una introspección directa: los estudiantes deben mirar hacia adentro para identificar sus 'habilidades' actuales y, a la vez, reconocer las que 'deberán desarrollar'. Este análisis del presente con miras al futuro es un ejercicio clave de autoconocimiento.",
+                    "seccion": "Casuística"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_dpcc_2024_p08",
+            "contexto": "Los estudiantes se encuentran comentando las diversas noticias que han seleccionado para\ncompartir en el aula. Durante el diálogo, una estudiante presenta la siguiente noticia:\n\nUn nuevo derrame de petróleo afecta la Amazonía peruana por fuga en oleoducto\n\nLa Amazonía peruana volvió a sufrir un nuevo derrame de petróleo por una fuga\nacontecida, esta vez, en el Oleoducto Nor Peruano (ONP). Esto fue informado por el\nOrganismo de Evaluación y Fiscalización Ambiental (OEFA) en un comunicado. El derrame\nocurrió a la altura del kilómetro 20 del Tramo 1 del oleoducto, cerca de la comunidad\nnativa de San Pedro, situada dentro del municipio de Urarinas, que se encuentra en\nla región amazónica de Loreto. Técnicos del OEFA se encuentran en la zona afectada\nsupervisando las acciones emprendidas por la compañía para la reparación de la fuga y\nel recojo del crudo vertido al ambiente.\nAdaptado de http://www.americatv.com.pe/noticias/actualidad/nuevo-derrame-petroleo-afecta-amazonia-peruana-\nfugaoleoducto-n31242",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál de las siguientes actividades es pertinente para que los estudiantes analicen esta\nproblemática desde la perspectiva del bien común?",
+                    "opciones": [
+                        "Mostrar a los estudiantes información acerca de la importancia económica, ecológica,\nhídrica y climática de la Amazonía; luego, preguntarles si consideran que el cuidado de\nesta región es responsabilidad exclusiva de sus habitantes.",
+                        "Solicitar a los estudiantes que recopilen noticias acerca de los derrames de petróleo\nocurridos en el último año en la Amazonía; luego, a partir de las noticias recopiladas,\npedirles que elaboren una lista de causas probables del derrame.",
+                        "Pedir a los estudiantes que identifiquen las demandas de los representantes de la\nempresa petrolera y de los habitantes de la comunidad de San Pedro; luego, solicitarles\nque elaboren una propuesta de solución a las necesidades de ambos actores."
+                    ],
+                    "respuesta": "Mostrar a los estudiantes información acerca de la importancia económica, ecológica,\nhídrica y climática de la Amazonía; luego, preguntarles si consideran que el cuidado de\nesta región es responsabilidad exclusiva de sus habitantes.",
+                    "respuestaCorta": "Esta actividad eleva el problema de un asunto local a uno de interés colectivo (bien común) al resaltar la importancia de la Amazonía para todos y cuestionar el alcance de la responsabilidad de su cuidado.",
+                    "solucionario": "La perspectiva del bien común implica reconocer que ciertos bienes y recursos benefician a toda la sociedad, no solo a una parte. La opción 'b' se enfoca en las causas técnicas. La opción 'c' se limita a un conflicto entre dos partes. La opción 'a' es la más adecuada porque amplía la perspectiva: establece a la Amazonía como un bien valioso para todos en múltiples dimensiones (económica, ecológica, etc.) y luego plantea la pregunta clave sobre la responsabilidad compartida, lo que es esencial para el concepto de bien común.",
+                    "seccion": "Casuística"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_dpcc_2024_p09",
+            "contexto": "En una IE, el Municipio Escolar ha convocado a una reunión de delegados escolares para\ntomar una decisión sobre el motivo de un mural que se pintará en la IE y el lugar en el\nque se ubicará. Durante la reunión, los delegados de cada grado hablan interrumpiéndose\ny minimizando constantemente las propuestas de sus pares. En este contexto, Miguel, el\nrepresentante del Municipio Escolar que modera la reunión, considera que debe hacer algo\npara promover una mejor comunicación entre los asistentes.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál de las siguientes posibles intervenciones de Miguel promueve la escucha activa?",
+                    "opciones": [
+                        "\"No se están respetando los tiempos para hablar ni las intervenciones. Así, el diálogo no\nes posible y jamás podremos llegar a un acuerdo de forma adecuada. Si van a minimizar\nla opinión de un compañero, es preferible que no intervengan\".",
+                        "\"Necesitamos evitar hablar por encima del otro. Cada uno debe tomar un tiempo para\nhablar y el resto debemos prestar atención. Si uno tiene una idea, propóngala de modo\nclaro y preciso; y, si algo no queda claro, lo preguntamos cuando sea pertinente\".",
+                        "\"Para que esta reunión no genere enemistades entre compañeros debemos evitar\nagredirnos. También hay que procurar expresar claramente si sentimos que nos han\nminimizado o ignorado; hay que dejar claro qué necesitamos en esta comunicación\"."
+                    ],
+                    "respuesta": "\"Necesitamos evitar hablar por encima del otro. Cada uno debe tomar un tiempo para\nhablar y el resto debemos prestar atención. Si uno tiene una idea, propóngala de modo\nclaro y preciso; y, si algo no queda claro, lo preguntamos cuando sea pertinente\".",
+                    "respuestaCorta": "Esta intervención promueve la escucha activa al establecer reglas claras y constructivas para el diálogo: respetar turnos, prestar atención y pedir aclaraciones para asegurar la comprensión.",
+                    "solucionario": "La escucha activa implica más que solo oír; requiere atención, comprensión y respuesta. La opción 'a' es un regaño que se enfoca en lo negativo. La opción 'c' se centra en la gestión de emociones y agresiones. La opción 'b' es la que mejor promueve la escucha activa porque establece pautas de procedimiento claras y positivas: respetar turnos ('Cada uno debe tomar un tiempo'), focalizar la atención ('el resto debemos prestar atención') y verificar la comprensión ('si algo no queda claro, lo preguntamos'), que son componentes esenciales de esta habilidad comunicativa.",
+                    "seccion": "Casuística"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_dpcc_2024_p10",
+            "contexto": "El propósito de una docente de primer grado es promover en los estudiantes el desarrollo\ndel autoconocimiento. Para ello, les ha solicitado que, de forma individual, pregunten a sus\namigos, padres, hermanos y a otros docentes cómo los describirían. Les ha pedido, además,\nque lleven la información recogida a la siguiente sesión.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "Para continuar con el trabajo individual de esta actividad en la próxima sesión, ¿cuál de las\nsiguientes acciones es más pertinente para favorecer el desarrollo del autoconocimiento?",
+                    "opciones": [
+                        "Pedir a los estudiantes que organicen la información recogida según características con\nlas que ellos se identifican y características con las que no se identifican. Luego, pedirles\nque expliquen, por escrito, las razones que sustentan la clasificación realizada.",
+                        "Pedir a los estudiantes que ordenen la información recogida según las características\nque consideren positivas o negativas. Luego, pedirles que, a partir de la opinión de las\npersonas de su entorno, determinen por escrito cuáles son sus cualidades.",
+                        "Pedir a los estudiantes que identifiquen las características mencionadas con mayor\nfrecuencia. Luego, pedirles que elaboren, a partir de las características más recurrentes,\nuna descripción escrita acerca de cómo son los adolescentes."
+                    ],
+                    "respuesta": "Pedir a los estudiantes que organicen la información recogida según características con\nlas que ellos se identifican y características con las que no se identifican. Luego, pedirles\nque expliquen, por escrito, las razones que sustentan la clasificación realizada.",
+                    "respuestaCorta": "Esta acción es la más pertinente porque el autoconocimiento se construye al contrastar la percepción externa con la propia y reflexionar sobre las coincidencias y discrepancias.",
+                    "solucionario": "El autoconocimiento no es la simple aceptación de lo que otros dicen, sino un proceso reflexivo. La opción 'b' se enfoca en la autoestima (positivo/negativo). La opción 'c' busca una generalización, no un autoconcepto individual. La opción 'a' es la más efectiva porque promueve el proceso central del autoconocimiento: comparar la imagen que otros tienen de uno con la imagen que uno tiene de sí mismo ('con las que se identifican y con las que no') y analizar críticamente esa relación. Es en esa reflexión donde se profundiza el conocimiento de sí mismo.",
+                    "seccion": "Casuística"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_dpcc_2024_p11",
+            "contexto": "Los estudiantes, organizados en equipos, están desarrollando un proyecto denominado \"El\nproblema de las noticias falsas. ¿Qué podemos hacer para combatirlo?\". Con este proyecto,\nbuscan concientizar a la comunidad educativa sobre la problemática identificada. Para ello,\nlos estudiantes realizan distintas actividades.\nComo parte de las actividades iniciales del proyecto, la docente realiza la siguiente actividad\ncon los estudiantes:\n• Les pide a los estudiantes que comenten por qué consideran que la difusión de las\nnoticias falsas es un problema.\n• A partir de sus respuestas, dialoga con ellos, en plenaria, acerca de las dudas y las\nimpresiones que han surgido en sus comentarios iniciales, para reflexionar acerca de\nlas noticias falsas.\n• Luego, les pide que se organicen en equipos y, para continuar con la reflexión, les\npide que busquen información para responder las siguientes preguntas:\n¿Cuáles son las características de las noticias falsas?\n¿Cuáles son sus principales formas de difusión?\n¿Qué formas existen de verificar la autenticidad de una noticia?\n• Posteriormente, les pide que compartan sus hallazgos en plenaria.\n• Finalmente, les pide a los equipos que comenten si la información obtenida será de\nutilidad para el desarrollo de este proyecto y que planteen acciones para profundizar\nen el análisis de la problemática de las noticias falsas, a partir de esta información.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál de los siguientes propósitos NO se evidencia en la actividad realizada por la docente?",
+                    "opciones": [
+                        "Desarrollar la metacognición.",
+                        "Promover la transferencia del aprendizaje.",
+                        "Brindar andamiaje sobre la problemática investigada."
+                    ],
+                    "respuesta": "Promover la transferencia del aprendizaje.",
+                    "respuestaCorta": "La actividad guía a los estudiantes en la investigación (andamiaje) y los hace reflexionar sobre su propio aprendizaje (metacognición), pero no les pide aplicar lo aprendido a un contexto nuevo o diferente (transferencia).",
+                    "solucionario": "La actividad sí brinda 'andamiaje', ya que la docente estructura la investigación con preguntas guía. También desarrolla la 'metacognición' al final, cuando pide a los estudiantes que evalúen la utilidad de la información y planifiquen los siguientes pasos. Sin embargo, en ningún momento se evidencia la 'transferencia del aprendizaje', que implicaría que los estudiantes usen las habilidades y conocimientos adquiridos sobre noticias falsas para analizar un problema distinto o en una situación completamente nueva, lo cual no ocurre en la secuencia descrita.",
+                    "seccion": "Casuística"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_dpcc_2024_p12",
+            "contexto": "Para desarrollar una de las actividades del proyecto, la docente ha buscado diversas noticias\nfalsas para que los estudiantes las analicen. En ese contexto, les presenta la siguiente\nnoticia falsa:\n\nSegún la ONU, llevar a los niños a la iglesia viola sus derechos humanos\n\nSegún la Organización de las Naciones Unidas (ONU), llevar a los niños a la iglesia vulnera\nsus derechos humanos. Desde la ONU, alegan que la asistencia a centros religiosos debe\nser una decisión de los menores de edad y no de los padres.\nUn polémico informe del Comité de las Naciones Unidas sobre los Derechos del Niño\nseñala su \"preocupación\" por los niños que están obligados a asistir a un acto de\nadoración colectiva, tal y como publica The Christian Institute. El comité recomendó\nal Reino Unido \"derogar las disposiciones legales para la asistencia obligatoria a la\nadoración colectiva\". Dicho órgano quiere que los niños sean capaces de actuar con\nindependencia de sus padres.\nPara David Burrowes, miembro del actual partido conservador británico, el informe es\n\"ridículo\" y dijo que el gobierno puede \"tirar respetuosamente el informe a la basura,\nque es el lugar al que pertenece\". Según Burrowes, \"el acto colectivo de culto no es un\nejercicio de adoctrinamiento. Es reconocer y respetar la herencia cristiana del país y\ndarle a la gente una oportunidad para poder reflexionar\". \"La ONU debería invertir más\ntiempo haciendo su trabajo principal y prevenir las guerras y el genocidio, en vez de\nestar metiendo las narices en las salas de las casas\", aseveró Burrowes.\nAdaptado de Rodriguez, J. (2016). \"Según la ONU, llevar a los niños a la iglesia viola sus derechos humanos\".\nEn: actuall.com\n\nLuego de leer la noticia con ellos, la docente les comenta que se trata de una noticia falsa.\nA partir de ello, busca que los estudiantes analicen críticamente esta noticia.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál de las\nsiguientes acciones pedagógicas es más pertinente para ello?",
+                    "opciones": [
+                        "Pedir a los estudiantes que contrasten lo que señala el título de la noticia con lo que\ndice la cita textual del informe de la ONU que emplea la noticia. Luego, pedirles que\nidentifiquen qué información se busca destacar en la noticia. Finalmente, preguntarles\ncuál creen que es el objetivo que tiene el autor de la noticia.",
+                        "Pedir a los estudiantes que mencionen qué es lo que se cita en el artículo respecto\ndel informe de la ONU. Luego, preguntarles por qué, para el representante del partido\nconservador británico, el acto de adoración colectiva es importante. Finalmente,\npreguntarles cuál es la postura de este político con respecto al informe de la ONU.",
+                        "Pedir a los estudiantes que indaguen si la ONU puede dar recomendaciones como las\ndel informe mencionado en la noticia. Luego, pedirles que indiquen qué funciones debe\npriorizar la ONU, según lo que señala la noticia. Finalmente, preguntarles si creen que la\nONU debe priorizar problemas más críticos que la asistencia de los niños a la Iglesia."
+                    ],
+                    "respuesta": "Pedir a los estudiantes que contrasten lo que señala el título de la noticia con lo que\ndice la cita textual del informe de la ONU que emplea la noticia. Luego, pedirles que\nidentifiquen qué información se busca destacar en la noticia. Finalmente, preguntarles\ncuál creen que es el objetivo que tiene el autor de la noticia.",
+                    "respuestaCorta": "Esta secuencia promueve el análisis crítico al guiar a los estudiantes a identificar la manipulación (contraste título-texto), la selección de información (sesgo) y la intención del autor (propósito).",
+                    "solucionario": "El análisis crítico de una noticia falsa implica deconstruirla para entender cómo manipula la información. La opción 'b' se limita a la comprensión lectora del texto. La opción 'c' desvía el foco hacia las funciones de la ONU en general. La opción 'a' es la más pertinente porque guía un proceso de análisis crítico: 1) Detecta la inconsistencia entre el titular alarmista y el contenido real. 2) Identifica el sesgo en la selección y énfasis de la información. 3) Infiere la intencionalidad del autor. Este proceso permite a los estudiantes comprender las técnicas de desinformación.",
+                    "seccion": "Casuística"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_dpcc_2024_p13",
+            "contexto": "Los estudiantes, organizados en equipos, están desarrollando un proyecto denominado \"El\nproblema de las noticias falsas. ¿Qué podemos hacer para combatirlo?\". Con este proyecto,\nbuscan concientizar a la comunidad educativa sobre la problemática identificada. Para ello,\nlos estudiantes realizan distintas actividades.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "Para continuar con las actividades del proyecto, la docente busca que los estudiantes\nproblematicen el asunto público de la difusión de noticias falsas. ¿Cuál de las siguientes\nacciones pedagógicas es más pertinente para promover el logro de dicho propósito?",
+                    "opciones": [
+                        "Pedir a los estudiantes que indaguen cuáles son los principales intereses que sustentan\nla difusión de este tipo de noticias. Luego, dialogar con ellos acerca de las repercusiones\nque consideran que puede tener difundir noticias falsas.",
+                        "Pedir a los estudiantes que opinen sobre una noticia falsa, difundida en medios nacionales,\nsobre una persona famosa. Luego, pedirles que indaguen qué acciones legales tomó\ndicha persona y qué sanciones tuvieron quienes difundieron la noticia.",
+                        "Pedir a los estudiantes que sinteticen lo que señalan los especialistas en el tema respecto\nde por qué es incorrecto difundir noticias falsas. Luego, pedirles que indaguen qué\nacciones se suelen realizar para concientizar acerca de dicha incorrección."
+                    ],
+                    "respuesta": "Pedir a los estudiantes que indaguen cuáles son los principales intereses que sustentan\nla difusión de este tipo de noticias. Luego, dialogar con ellos acerca de las repercusiones\nque consideran que puede tener difundir noticias falsas.",
+                    "respuestaCorta": "Esta acción problematiza el asunto público al llevar a los estudiantes a investigar las causas subyacentes (intereses) y los efectos a gran escala (repercusiones sociales) del fenómeno.",
+                    "solucionario": "Problematizar un asunto público implica ir más allá de la anécdota o la opinión para analizar sus causas, consecuencias y dimensiones sociales. La opción 'b' se centra en un caso individual y sus consecuencias legales, no en el problema general. La opción 'c' se enfoca en recopilar opiniones de expertos. La opción 'a' es la más pertinente porque impulsa a los estudiantes a investigar las raíces del problema ('intereses que sustentan la difusión') y a reflexionar sobre su impacto colectivo ('repercusiones'), lo cual es la esencia de la problematización de un asunto público.",
+                    "seccion": "Casuística"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_dpcc_2024_p14",
+            "contexto": "Durante una sesión de aprendizaje en la que los estudiantes están compartiendo noticias\nsobre casos de discriminación, surge el siguiente diálogo:\n\nFelipe dice: \"Yo encontré una noticia acerca de una mujer a quien, por presentar ceguera,\nse le negó el trabajo de jefa de personal de una fábrica. El jefe de Recursos Humanos\nseñaló que por presentar esta condición no era apta para ese trabajo\".\n\nMariana dice: \"No entiendo por qué crees que habría discriminación. Es obvio que hay\ntareas que, de hecho, una persona con discapacidad no va a poder realizar\".\n\nVarios estudiantes se mostraron de acuerdo con Mariana. Por ello, la docente se propone\nbrindar una retroalimentación sobre el comentario de la estudiante.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál de las siguientes\nintervenciones de la docente es pertinente para el logro de dicho propósito?",
+                    "opciones": [
+                        "\"Hay que preguntarse si podrían existir puestos de trabajo específicos para las personas\nque presentan ceguera u otra discapacidad. En ese sentido, ¿qué tipos de trabajos podrían\nser más adecuados para personas que presentan ceguera? ¿Cómo podría incentivarse\nque las empresas, como la fábrica de la noticia, creen puestos de trabajo para estas\npersonas?\".",
+                        "\"Creo que el problema es que la fábrica no ha previsto implementar un espacio de trabajo\nexclusivo para personas que presentan discapacidad. En ese sentido, ¿han pensado que,\ncon un espacio como ese, las personas que presentan discapacidad podrían sentirse más\ncómodas y así trabajar de manera óptima? ¿Qué características debería tener un espacio\nde este tipo en una fábrica como la de la noticia?\".",
+                        "\"Convendría analizar si la manera de hacer algunas tareas ha sido diseñada desde la\nperspectiva de las personas que no presentan ceguera. En ese sentido, ¿no podría\nhaber una forma para que el trabajo de jefe de personal pueda ser realizado también\npor personas invidentes? ¿Por qué creen que la fábrica no está dispuesta a generar\ncondiciones para que esta persona pueda desempeñarse en ese puesto?\"."
+                    ],
+                    "respuesta": "\"Convendría analizar si la manera de hacer algunas tareas ha sido diseñada desde la\nperspectiva de las personas que no presentan ceguera. En ese sentido, ¿no podría\nhaber una forma para que el trabajo de jefe de personal pueda ser realizado también\npor personas invidentes? ¿Por qué creen que la fábrica no está dispuesta a generar\ncondiciones para que esta persona pueda desempeñarse en ese puesto?\".",
+                    "respuestaCorta": "Esta retroalimentación cuestiona el prejuicio subyacente de Mariana, invitando a los estudiantes a reflexionar sobre si la limitación está en la persona o en el diseño excluyente del entorno laboral.",
+                    "solucionario": "La retroalimentación efectiva (por descubrimiento o reflexión) no da la respuesta, sino que guía al estudiante a cuestionar su propia premisa. Mariana asume que la discapacidad es una barrera insalvable. Las opciones 'a' y 'b' aceptan esta premisa y buscan soluciones segregadoras (puestos específicos, espacios exclusivos). La opción 'c' es la más pertinente porque desafía directamente esa premisa al plantear que el problema no es la persona, sino el entorno diseñado sin considerar la diversidad. Esto promueve un cambio de perspectiva hacia un modelo social de la discapacidad.",
+                    "seccion": "Casuística"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_dpcc_2024_p15",
+            "contexto": "Para el desarrollo de una actividad, la docente ha solicitado a los estudiantes que, en equipos,\nanalicen noticias nacionales y que, a partir de estas, identifiquen un asunto público de su\ninterés. Luego de ello, un estudiante de cada equipo deberá presentar, en plenaria, el asunto\nidentificado y sustentar por qué consideran que este es público.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿En cuál de las siguientes presentaciones NO se menciona un criterio adecuado para\nidentificar asuntos públicos?",
+                    "opciones": [
+                        "\"Nosotros hemos identificado como asunto público el reconocimiento que ha recibido\nun equipo de médicos peruanos por sus aportes en la investigación en el campo de la\nsalud infantil. Pensamos que es un asunto público porque este tipo de reconocimiento\npromociona el desarrollo del conocimiento científico en el país\".",
+                        "\"Nosotros hemos identificado como asunto público el aumento de migraciones hacia\nla capital. Consideramos que este es un asunto público porque se menciona en varias\nnoticias de los diarios que hemos revisado, lo que nos muestra el interés que este asunto\nha generado en los medios de comunicación\".",
+                        "\"Nosotros hemos identificado como asunto público el incremento del número de\npersonas enfermas de dengue en cuatro regiones. Para nosotros, es un asunto público\nporque esta enfermedad está poniendo en riesgo la vida de las personas que viven en\nestas regiones\"."
+                    ],
+                    "respuesta": "\"Nosotros hemos identificado como asunto público el aumento de migraciones hacia\nla capital. Consideramos que este es un asunto público porque se menciona en varias\nnoticias de los diarios que hemos revisado, lo que nos muestra el interés que este asunto\nha generado en los medios de comunicación\".",
+                    "respuestaCorta": "Este sustento es inadecuado porque confunde la cobertura mediática de un tema con la definición de asunto público. Un asunto es público por su impacto en el bienestar colectivo, no por su popularidad en las noticias.",
+                    "solucionario": "Un asunto público se define por su impacto en los derechos y el bienestar de la colectividad. La opción 'a' es válida porque el desarrollo científico afecta al bien común del país. La opción 'c' es válida porque una epidemia afecta directamente la salud pública y el derecho a la vida. La opción 'b' presenta un criterio inadecuado; el hecho de que un tema aparezca en los medios lo convierte en un asunto mediatizado, pero no necesariamente en un asunto público. El criterio real es el impacto de la migración en la sociedad, no su presencia en los diarios.",
+                    "seccion": "Casuística"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_dpcc_2024_p16",
+            "contexto": "Como parte del proceso de deliberación de asuntos públicos, la docente ha elaborado una\nficha de preguntas para que los estudiantes analicen críticamente las fuentes de información\nque utilizarán:\n\n• ¿Cuál es la trayectoria del autor o autora de la fuente?\n• ¿Qué caracteriza la línea editorial del medio o institución que publicó la fuente?\n• ¿Con qué objetivo se publicó la fuente?\n• ¿Qué tema aborda la fuente? ¿Es controversial?",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "Teniendo en cuenta el propósito indicado, ¿cuál de las siguientes preguntas es más pertinente\nque se incluya en esta ficha?",
+                    "opciones": [
+                        "¿Qué postura adopta el autor o autora sobre el tema? ¿Qué argumentos utiliza el autor\no autora para validar su postura? ¿Dichos argumentos están debidamente sustentados?",
+                        "¿Cómo consideras que se podrían mejorar los argumentos que presenta el autor o\nautora? ¿Convendría usar fuentes distintas para sustentarlo? ¿Por qué?",
+                        "¿Cuál es la idea principal de la fuente? ¿Cuáles son las ideas secundarias? ¿Qué tan\nclaramente son expresadas dichas ideas?"
+                    ],
+                    "respuesta": "¿Qué postura adopta el autor o autora sobre el tema? ¿Qué argumentos utiliza el autor\no autora para validar su postura? ¿Dichos argumentos están debidamente sustentados?",
+                    "respuestaCorta": "Este conjunto de preguntas es el más pertinente porque pasa del análisis externo de la fuente (autor, medio) al análisis crítico interno de su contenido: la postura, los argumentos y la evidencia que los respalda.",
+                    "solucionario": "Las preguntas iniciales de la ficha se centran en el contexto de la fuente (análisis externo). Para un análisis crítico completo, es indispensable analizar el contenido (análisis interno). La opción 'c' se queda en el nivel de la comprensión lectora (identificar ideas). La opción 'b' es un paso posterior, de propuesta. La opción 'a' es la más pertinente porque aborda el núcleo del análisis crítico: identificar la tesis del autor (postura), desglosar su razonamiento (argumentos) y evaluar la calidad de su evidencia (sustento).",
+                    "seccion": "Casuística"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_dpcc_2024_p17",
+            "contexto": "Luego de un concurso interescolar de matemática, los estudiantes se encuentran muy\ndesanimados y tristes por haber perdido en la ronda final. Cuando el docente se acerca a\nellos, los escucha mencionar las siguientes frases: \"no servimos para nada\" y \"somos malos\nen esto\". Ante ello, el docente busca intervenir para promover el desarrollo del sentido de\nautoeficacia de los estudiantes.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál de las siguientes posibles intervenciones del docente es más pertinente para el logro\nde dicho propósito?",
+                    "opciones": [
+                        "\"Entiendo que se sientan mal por haber perdido, pero eso no debe llevarlos a\ndesmerecerse. Primero, podrían evaluar las capacidades que les permitieron llegar hasta\nla ronda final; luego, podrían analizar qué debilidades les impidieron alcanzar el resultado\nfinal que esperaban y, así, puedan gestionarlas en el futuro\".",
+                        "\"Sé que se sienten muy mal por haber perdido, pero no creo que eso se justifique después\ndel resultado que lograron en el concurso. Ustedes fueron uno de los mejores equipos,\npero en esta ocasión no pudieron ganar. ¿Eso significa que no tienen las capacidades\npara poder ganar en un próximo concurso?\".",
+                        "\"Que hayan perdido el concurso en la ronda final debe ser frustrante, pero ello no\nimplica que decir esas frases acerca de sus capacidades sea la solución. No vale la pena\nquedarse con esa sensación; vendrán otros concursos y sin duda podrán prepararse más\npara lograr ganarlos\"."
+                    ],
+                    "respuesta": "\"Entiendo que se sientan mal por haber perdido, pero eso no debe llevarlos a\ndesmerecerse. Primero, podrían evaluar las capacidades que les permitieron llegar hasta\nla ronda final; luego, podrían analizar qué debilidades les impidieron alcanzar el resultado\nfinal que esperaban y, así, puedan gestionarlas en el futuro\".",
+                    "respuestaCorta": "Esta intervención promueve la autoeficacia al guiar a los estudiantes a realizar una evaluación balanceada de sus fortalezas y debilidades, fomentando una mentalidad de crecimiento y control sobre futuros resultados.",
+                    "solucionario": "La autoeficacia es la creencia en la propia capacidad para alcanzar metas. Las frases de los estudiantes reflejan una mentalidad fija y una baja autoeficacia. La opción 'b' invalida sus sentimientos ('no creo que se justifique'). La opción 'c' es un consuelo superficial. La opción 'a' es la más pertinente porque valida sus emociones ('Entiendo que se sientan mal') pero inmediatamente los orienta hacia una autoevaluación constructiva: reconocer sus fortalezas ('capacidades que les permitieron llegar hasta la ronda final') y ver sus debilidades como algo gestionable. Este enfoque promueve la idea de que pueden mejorar y tener éxito en el futuro, que es la base de la autoeficacia.",
+                    "seccion": "Casuística"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_dpcc_2024_p18",
+            "contexto": "El fin de semana, se realizó en la localidad una exhibición de drones y los estudiantes de la\nIE comentan sobre ello. Al ver el interés que ha causado este evento, un docente busca que\nlos estudiantes asuman una perspectiva crítica sobre el asunto público del uso de los drones.\nPara ello, presenta a los estudiantes las siguientes noticias:\n\nCaos en un aeropuerto de Londres por la presencia de drones en las pistas\n\nLa noche pasada se detectó, hasta en 50 ocasiones, el paso de drones cerca de las pistas\nde aterrizaje de un aeropuerto en Londres. Para evitar accidentes, se tuvieron que\ncancelar muchos vuelos. En vista de este suceso, el gobierno inglés ha decidido limitar\nel uso de drones.\nAdaptado de Todo Noticias (2018).\n\nUnicef usó drones para enviar vacunas\n\nDurante una campaña de salud, el Fondo de las Naciones Unidas para la Infancia\n(Unicef) utilizó drones para enviar vacunas a zonas de difícil acceso. Los miembros de la\norganización consideran que los drones representan una gran alternativa de bajo costo\npara asegurar el derecho a la salud.\nAdaptado de Todo Noticias (2018).",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "Si el propósito del docente es promover que los estudiantes construyan argumentos\nrazonados asumiendo una perspectiva crítica, ¿cuál de las siguientes acciones pedagógicas\nes pertinente para continuar la actividad?",
+                    "opciones": [
+                        "Pedir a los estudiantes que encuesten a otros estudiantes de la IE para determinar cuáles\nson sus opiniones sobre el uso de drones. Luego, solicitarles que sustenten la postura\nmayoritaria a partir de lo expuesto en las noticias presentadas.",
+                        "Pedir a los estudiantes que busquen la mayor diversidad de ejemplos sobre el uso de\ndrones y que evalúen las consecuencias en cada caso. Luego, solicitarles que redacten\nun texto en el que sustenten si debería regularse el uso de los drones.",
+                        "Pedir a los estudiantes que, partiendo de las noticias presentadas, indaguen cuáles han\nsido los principales problemas que ha traído el uso de drones en los países que más los\nemplean. Luego, solicitarles que sustenten en un texto por qué debería limitarse su uso."
+                    ],
+                    "respuesta": "Pedir a los estudiantes que busquen la mayor diversidad de ejemplos sobre el uso de\ndrones y que evalúen las consecuencias en cada caso. Luego, solicitarles que redacten\nun texto en el que sustenten si debería regularse el uso de los drones.",
+                    "respuestaCorta": "Esta acción promueve una perspectiva crítica al exigir una investigación amplia y balanceada (diversidad de ejemplos y evaluación de consecuencias) como base para construir un argumento razonado propio.",
+                    "solucionario": "Construir un argumento razonado desde una perspectiva crítica requiere analizar un tema desde múltiples ángulos, no solo desde uno. La opción 'a' se basa en la opinión popular, no en el análisis. La opción 'c' induce un sesgo al pedir que investiguen solo 'los principales problemas' y que sustenten una postura ya definida ('por qué debería limitarse'). La opción 'b' es la más pertinente porque promueve una visión completa al pedir 'la mayor diversidad de ejemplos' y 'evaluar las consecuencias', permitiendo que los estudiantes, a partir de ese análisis balanceado, construyan su propia postura fundamentada.",
+                    "seccion": "Casuística"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_dpcc_2024_p19",
+            "contexto": "Los estudiantes van a iniciar una indagación acerca de la convivencia en democracia. Antes\nde iniciar la investigación, los estudiantes comparten en plenaria sus impresiones acerca de\ncuál es el papel que cumplen las leyes en la convivencia. En ese contexto, un estudiante\ncomenta lo siguiente:\n\n\"Yo creo que las leyes sólo sirven para restringir nuestras acciones y, con ello, nuestra\nlibertad\".\n\nAnte el comentario de su compañero, varios de los estudiantes se mostraron de acuerdo. Por\nello, la docente busca generar conflicto cognitivo en los estudiantes.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál de los siguientes\nconjuntos de preguntas es más pertinente para promover el logro de dicho propósito?",
+                    "opciones": [
+                        "¿En qué contextos nuestras acciones se ven limitadas por las leyes? ¿Cómo ello afecta la\nconvivencia?",
+                        "¿Qué acciones se ven restringidas por las leyes? ¿Las leyes son siempre efectivas para\nrestringir dichas acciones?",
+                        "¿Qué buscan las leyes que protegen, por ejemplo, la libertad de expresión? ¿Qué otras\nleyes como esta existen?"
+                    ],
+                    "respuesta": "¿Qué buscan las leyes que protegen, por ejemplo, la libertad de expresión? ¿Qué otras\nleyes como esta existen?",
+                    "respuestaCorta": "Este conjunto de preguntas genera conflicto cognitivo al presentar un contraejemplo directo a la creencia del estudiante, mostrando que las leyes no solo restringen, sino que también protegen y garantizan libertades.",
+                    "solucionario": "El conflicto cognitivo se produce cuando se enfrenta al estudiante con una idea que contradice sus concepciones previas. La creencia previa es que 'las leyes solo restringen la libertad'. Las opciones 'a' y 'b' exploran esa misma idea restrictiva. La opción 'c' es la más pertinente porque introduce una idea opuesta y desafiante: la existencia de leyes que, en lugar de limitar la libertad, la protegen y la hacen posible (como la ley de libertad de expresión). Esto obliga al estudiante a reconsiderar su afirmación inicial.",
+                    "seccion": "Casuística"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_dpcc_2024_p20",
+            "contexto": "En una sesión de aprendizaje, los estudiantes están compartiendo sus impresiones sobre las\nnoticias que han encontrado acerca de denuncias de actos de corrupción. Durante el diálogo,\nllegan a un consenso sobre qué es la corrupción y por qué es un acto reprobable.\nA partir de ello, la docente busca que los estudiantes puedan reflexionar acerca de cómo\nla corrupción afecta la democracia.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál de las siguientes acciones pedagógicas es más\npertinente para promover el logro de dicho propósito?",
+                    "opciones": [
+                        "Pedir a los estudiantes que indaguen cuáles son las pérdidas económicas que genera la\ncorrupción en las democracias de Sudamérica. Luego, dialogar con ellos acerca de por\nqué no se consigue frenar esta problemática a pesar del perjuicio que genera.",
+                        "Realizar con los estudiantes una lluvia de ideas sobre las formas en las que creen que\nla corrupción afecta su vida. Luego, preguntarles si creen que dichas formas afectan el\nacceso a una vida digna en una democracia.",
+                        "Mostrar a los estudiantes cuáles son las leyes que buscan prevenir los actos de\ncorrupción en nuestro país. Luego, explicarles cómo es que dichas leyes buscan proteger\nla democracia."
+                    ],
+                    "respuesta": "Realizar con los estudiantes una lluvia de ideas sobre las formas en las que creen que\nla corrupción afecta su vida. Luego, preguntarles si creen que dichas formas afectan el\nacceso a una vida digna en una democracia.",
+                    "respuestaCorta": "Esta acción es la más pertinente porque conecta el concepto abstracto de 'corrupción' con la vida cotidiana de los estudiantes y luego lo vincula al pilar de la democracia: el derecho a una vida digna.",
+                    "solucionario": "Para que la reflexión sea significativa, los estudiantes deben poder relacionar los conceptos con su propia realidad. La opción 'a' se enfoca en datos macroeconómicos, que pueden ser distantes. La opción 'c' es expositiva, la docente explica en lugar de promover la reflexión de los estudiantes. La opción 'b' es la más efectiva porque parte de la experiencia y percepción de los estudiantes ('afecta su vida') y luego les pide que conecten ese impacto concreto con un principio fundamental de la democracia ('acceso a una vida digna'), construyendo así una comprensión profunda de la relación entre ambos conceptos.",
+                    "seccion": "Casuística"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_dpcc_2024_p21",
+            "contexto": "Durante una sesión de aprendizaje, los estudiantes están compartiendo las noticias que más\nles han llamado la atención en la semana. En este contexto, una estudiante comenta que\nha encontrado una noticia sobre unas estudiantes musulmanas en la India que protestaban\npor una ley que les prohibía asistir a sus centros educativos usando los velos tradicionales\nde la religión musulmana. Luego de que la estudiante comparte la noticia, sus compañeros\nrealizan distintos comentarios acerca de esta.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál de los siguientes estudiantes explica mejor la situación presentada en la noticia desde\nuna perspectiva intercultural?",
+                    "opciones": [
+                        "Alina dice: \"Creo que las escuelas no deberían prohibirles utilizar el velo a las chicas\nmusulmanas porque es necesario que el Estado tenga un comportamiento solidario con\njóvenes de una minoría cultural\".",
+                        "Fátima dice: \"Pienso que esta medida es discriminatoria porque, al impedir que las\nchicas musulmanas realicen una práctica religiosa que no afecta la convivencia, se está\natentando contra sus derechos culturales\".",
+                        "Ornela dice: \"Me parece que, en esta situación, al estar involucradas las chicas\nmusulmanas y los centros educativos que seguramente no profesan esa religión, hay un\ndesencuentro entre dos culturas diferentes que es muy grave\"."
+                    ],
+                    "respuesta": "Fátima dice: \"Pienso que esta medida es discriminatoria porque, al impedir que las\nchicas musulmanas realicen una práctica religiosa que no afecta la convivencia, se está\natentando contra sus derechos culturales\".",
+                    "respuestaCorta": "Fátima analiza la situación desde una perspectiva intercultural al enmarcar el problema en el respeto a los derechos culturales, siempre que estos no contravengan los principios de la convivencia democrática.",
+                    "solucionario": "La perspectiva intercultural implica valorar la diversidad cultural en un marco de respeto a los derechos humanos. Alina (a) apela a la 'solidaridad', un valor importante pero menos preciso que el enfoque de derechos. Ornela (c) solo describe el conflicto como un 'desencuentro', sin analizarlo. Fátima (b) ofrece la explicación más completa desde este enfoque: identifica la práctica como un 'derecho cultural', evalúa su compatibilidad con el bien común ('no afecta la convivencia') y concluye que prohibirla constituye un acto de discriminación que atenta contra dichos derechos.",
+                    "seccion": "Casuística"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_dpcc_2024_p22",
+            "contexto": "Durante una sesión de aprendizaje, la docente presenta a los estudiantes la siguiente situación\nhipotética:\n\nJulio y Raúl están haciendo un trabajo en parejas. A Julio le cuesta mucho hacer el\nproducto que están realizando, pero está decidido a esforzarse. Sin embargo, Raúl está\nimpaciente por terminar el trabajo porque no quiere ser el último en entregarlo. Por ello,\ncuando Julio está terminando su parte del trabajo, Raúl se lo quita y le dice: \"Dámelo,\nmejor. Eres muy lento. Yo lo termino\". Ante ello, Julio responde gritándole: \"¡Qué te\npasa! ¡Quién te crees que eres! Tú no eres mejor que yo\".\n\nLuego de leer la situación con los estudiantes, la docente les pide que planteen alternativas\nque permitan solucionar el conflicto evidenciado en dicha situación.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál de los siguientes estudiantes propone el uso de habilidades socioemocionales para la\nsolución del conflicto?",
+                    "opciones": [
+                        "Daniel dice: \"Creo que la forma para arreglar este problema es que Julio y Raúl se digan\nclaramente qué le ha molestado a cada uno para que puedan entender por qué no están\nlogrando trabajar en equipo. Así, podrán acordar la mejor forma de terminar el trabajo\".",
+                        "Carolina dice: \"Yo creo que la única manera para que Julio y Raúl solucionen su problema\nes que se pidan disculpas por haberse hablado mal y terminen el trabajo para tener la\nmejor calificación. Así, evitan rencores entre ambos y cumplen con su trabajo\".",
+                        "Humberto dice: \"Pienso que la manera más pertinente de solucionar este problema es\nque alguien recuerde a Julio y Raúl cuáles son las normas de convivencia del aula. Así,\nreflexionarán sobre por qué no se han comunicado adecuadamente\"."
+                    ],
+                    "respuesta": "Daniel dice: \"Creo que la forma para arreglar este problema es que Julio y Raúl se digan\nclaramente qué le ha molestado a cada uno para que puedan entender por qué no están\nlogrando trabajar en equipo. Así, podrán acordar la mejor forma de terminar el trabajo\".",
+                    "respuestaCorta": "Daniel propone usar habilidades socioemocionales clave como la comunicación asertiva (decir lo que molesta) y la empatía (para entender al otro), con el fin de llegar a una solución negociada.",
+                    "solucionario": "La solución de conflictos a través de habilidades socioemocionales se centra en la comunicación, la empatía y la negociación. La propuesta de Carolina (b) es superficial (pedir disculpas sin entender el problema). La de Humberto (c) recurre a una autoridad externa (las normas). La propuesta de Daniel (a) es la única que se basa en que los propios involucrados utilicen sus habilidades: la comunicación asertiva ('se digan claramente qué le ha molestado') para lograr la empatía ('puedan entender') y así llegar a una negociación ('podrán acordar').",
+                    "seccion": "Casuística"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_dpcc_2024_p23",
+            "contexto": "Dos estudiantes conversan acerca de los resultados que obtuvieron en una competencia\ndeportiva:\n\nMiguel dice: \"Luis, ¿cómo te fue en la carrera? Yo creo que entrenar juntos me dio\nbuenos resultados\".\n\nLuis dice: \"Creo que no fue lo mismo para mí. Entrenamos mucho para esta competencia\ny aun así no superé mi marca. Estoy cansado de esforzarme un montón para que no sirva\nde nada\".",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál de las siguientes respuestas de Miguel evidencia escucha activa?",
+                    "opciones": [
+                        "\"Te entiendo, Luis. Sé que estás frustrado por el resultado que has obtenido, pues no\nparece evidenciar el esfuerzo que has hecho\".",
+                        "\"Lo siento, Luis. Debe ser difícil sentirse así, por lo que creo que mejor dejamos de pensar\nen eso un momento para que no sigas sintiéndote mal\".",
+                        "\"Luis, yo también me he sentido igual que tú en otras oportunidades y entiendo muy\nbien lo que debes estar sintiendo en este momento\"."
+                    ],
+                    "respuesta": "\"Te entiendo, Luis. Sé que estás frustrado por el resultado que has obtenido, pues no\nparece evidenciar el esfuerzo que has hecho\".",
+                    "respuestaCorta": "Esta respuesta evidencia escucha activa porque parafrasea y refleja el sentimiento de frustración de Luis, demostrando que Miguel ha comprendido el mensaje emocional detrás de sus palabras.",
+                    "solucionario": "La escucha activa implica reflejar y validar los sentimientos del interlocutor, demostrando que se ha entendido su perspectiva. La opción 'b' es evasiva, busca cambiar de tema. La opción 'c' centra la atención en la experiencia de Miguel ('yo también me he sentido así'), en lugar de enfocarse en Luis. La opción 'a' es el mejor ejemplo de escucha activa, ya que nombra la emoción ('estás frustrado') y la conecta con su causa ('no parece evidenciar el esfuerzo'), validando así la experiencia de Luis y demostrando una comprensión empática.",
+                    "seccion": "Casuística"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_dpcc_2024_p24",
+            "contexto": "Luego de identificar diversas problemáticas sociales que se presentan en la región donde se\nubica la IE, a los estudiantes les ha llamado la atención el alto porcentaje de adultos mayores\nen situación de abandono. Por tal razón, junto con la docente, han decidido abordar este\nasunto público.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "Para iniciar el análisis del asunto público, los estudiantes comentan, en plenaria, sus\nimpresiones sobre esta problemática. En ese contexto, los estudiantes plantean distintos\ncomentarios.\n¿Cuál de los siguientes comentarios de los estudiantes evidencia mejor los valores del\nenfoque de derechos del Currículo Nacional de la Educación Básica?",
+                    "opciones": [
+                        "Felipe dice: \"Que existan personas en situación de abandono es un problema ético que\nlas autoridades tienen que atender de manera urgente. Por ello, creo que las personas\nque dejan a sus familiares así no tienen valores morales y deberían ser sancionadas\".",
+                        "Lucía dice: \"Yo creo que, en este caso, se está impidiendo que estas personas puedan\ntener una buena calidad de vida y que eso ocurra afecta a la sociedad en su conjunto. Por\nello, tenemos la responsabilidad de actuar para que eso deje de ocurrir\".",
+                        "Renzo dice: \"Pienso que esta situación se da porque las autoridades del Estado no se\nestán haciendo cargo de una situación que afecta a estas personas. Por ello, creo que, si\nel Estado no toma medidas drásticas, la situación va a empeorar\"."
+                    ],
+                    "respuesta": "Lucía dice: \"Yo creo que, en este caso, se está impidiendo que estas personas puedan\ntener una buena calidad de vida y que eso ocurra afecta a la sociedad en su conjunto. Por\nello, tenemos la responsabilidad de actuar para que eso deje de ocurrir\".",
+                    "respuestaCorta": "El comentario de Lucía refleja el enfoque de derechos al identificar la vulneración de un derecho (buena calidad de vida), reconocer el impacto colectivo y asumir una responsabilidad ciudadana compartida.",
+                    "solucionario": "El enfoque de derechos se basa en reconocer a las personas como sujetos de derechos y a la sociedad como responsable de garantizarlos. El comentario de Felipe (a) se centra en un juicio moral y punitivo. El de Renzo (c) se enfoca únicamente en la responsabilidad del Estado. El de Lucía (b) es el más completo desde este enfoque porque: 1) Identifica la vulneración de un derecho fundamental ('tener una buena calidad de vida'), 2) Reconoce que esto afecta al bien común ('afecta a la sociedad en su conjunto'), y 3) Asume una corresponsabilidad ciudadana ('tenemos la responsabilidad de actuar').",
+                    "seccion": "Casuística"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_dpcc_2024_p25",
+            "contexto": "Luego de identificar diversas problemáticas sociales que se presentan en la región donde se\nubica la IE, a los estudiantes les ha llamado la atención el alto porcentaje de adultos mayores\nen situación de abandono. Por tal razón, junto con la docente, han decidido abordar este\nasunto público.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "Para profundizar en el análisis del asunto público de los adultos mayores en situación de\nabandono en la región en la que se encuentra la IE, la docente busca que los estudiantes\nproblematicen dicho asunto haciendo uso de fuentes de información.",
+                    "opciones": [
+                        "Pedir a los estudiantes que indaguen cuáles son las principales causas del abandono de\nadultos mayores en su región. Luego, dialogar con ellos acerca de qué se necesita para\nque dichas causas puedan ser atendidas.",
+                        "Pedir a los estudiantes que indaguen cuáles son las leyes que protegen a los adultos\nmayores en el Perú. Luego, pedirles que averigüen desde cuándo existen dichas leyes y si\nhan sufrido modificaciones en años recientes.",
+                        "Pedir a los estudiantes que indaguen cuáles son las problemáticas de la región cuya\natención prioriza el Estado antes que a los adultos mayores en situación de abandono.\nLuego, explicarles que dicha priorización se debe a la urgencia de estas problemáticas."
+                    ],
+                    "respuesta": "Pedir a los estudiantes que indaguen cuáles son las principales causas del abandono de\nadultos mayores en su región. Luego, dialogar con ellos acerca de qué se necesita para\nque dichas causas puedan ser atendidas.",
+                    "respuestaCorta": "Esta acción promueve la problematización al guiar a los estudiantes a investigar las raíces del problema (causas) y a reflexionar sobre las posibles soluciones estructurales.",
+                    "solucionario": "Problematizar un asunto público implica analizar sus causas y dimensiones para comprenderlo a fondo. La opción 'b' se limita a un análisis legal-descriptivo. La opción 'c' es expositiva y justifica la inacción en lugar de analizar el problema. La opción 'a' es la más pertinente porque enfoca la investigación en las 'principales causas' del abandono, para luego pasar a una reflexión propositiva sobre cómo 'atenderlas', lo cual constituye el núcleo del proceso de problematización.",
+                    "seccion": "Casuística"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_dpcc_2024_p26",
+            "contexto": "Luego de haber analizado el asunto público, los estudiantes comparten sus impresiones\nacerca de dicho análisis. En este contexto, un estudiante comparte lo siguiente:\n\n\"Para llegar a algunas conclusiones sobre este asunto público, lo que hice primero fue\nidentificar las ideas principales de las fuentes especializadas que revisé. Luego, con\ndichas ideas elaboré un organizador gráfico y, de esa manera, me fue más fácil llegar a\nconclusiones. Encontré, por ejemplo, un dato que me sorprendió y en el que las fuentes\ncoincidían, y es que más del 40% de personas que tienen una discapacidad en el Perú\nson adultos mayores y que el 20% de las personas mayores de 70 vive en condiciones de\npobreza. De ahí me pregunté: '¿Qué se puede concluir a \npartir de esto?'. Así, entendí que\nhay dos condiciones de vulnerabilidad de los adultos mayores que están presentes en\ntodo el país y que se mantienen porque no hay un cuidado adecuado de esta población\".",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál de los siguientes procesos del aprendizaje se evidencia principalmente en la\nintervención del estudiante?",
+                    "opciones": [
+                        "La metacognición.",
+                        "La transferencia del aprendizaje.",
+                        "La generación de conflicto cognitivo."
+                    ],
+                    "respuesta": "La metacognición.",
+                    "respuestaCorta": "El estudiante evidencia metacognición al describir conscientemente su propio proceso de aprendizaje: las estrategias que utilizó (identificar ideas, usar un organizador) y cómo estas le permitieron llegar a conclusiones.",
+                    "solucionario": "La metacognición es la capacidad de reflexionar sobre el propio proceso de pensamiento y aprendizaje. El estudiante no está aplicando un conocimiento a un nuevo contexto (transferencia) ni enfrentando una idea que contradice sus saberes (conflicto cognitivo). En cambio, está narrando explícitamente el 'cómo' aprendió: 'lo que hice primero fue...', 'de esa manera, me fue más fácil...', 'De ahí me pregunté...'. Esta descripción del propio proceso cognitivo es un claro ejemplo de metacognición.",
+                    "seccion": "Casuística"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_dpcc_2024_p27",
+            "contexto": "La docente desarrolla un conjunto de actividades para promover la autorregulación\nemocional de los estudiantes. Como parte de dichas actividades, van a elaborar una \"caja\nde herramientas emocional\", la cual contendrá acciones que los puedan ayudar a manejar\nsus emociones.\nLuego de haber confeccionado su caja de herramientas emocional, los estudiantes van a\nelaborar el contenido de esta. Para ello, la docente realiza la siguiente actividad:\nPrimero, les pide a los estudiantes que identifiquen situaciones en las que hayan\nexperimentado alguna emoción que les haya resultado difícil de manejar. Luego, les\npide que recuerden cómo se sintieron en ese momento y les pregunta qué creen que les\ncausó dicha emoción. Posteriormente, les pide que mencionen qué acciones realizaron\npara intentar regular su emoción y si les fueron útiles.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "Si el propósito de la docente es que los estudiantes elaboren estrategias que favorezcan su\nautorregulación emocional, ¿cuál de las siguientes acciones pedagógicas es más pertinente\npara continuar con la actividad?",
+                    "opciones": [
+                        "Pedir a los estudiantes que incluyan en su caja acciones que podrían realizar para no\nverse involucrados en situaciones que les produzcan emociones difíciles de manejar,\ncomo las que recordaron. Luego, dialogar con ellos sobre por qué es necesario que\ndichas acciones se realicen sobre la base del respeto y la buena convivencia.",
+                        "Pedir a los estudiantes que incluyan en su caja acciones como las que previamente\nrecordaron y agreguen otras que les permitan tener emociones que sean más positivas.\nLuego, pedirles que comenten cómo las acciones que han planteado como contenido de\nsu caja evitarían que sus emociones les generen consecuencias negativas.",
+                        "Pedir a los estudiantes que incluyan en su caja las acciones que realizaron para gestionar\nemociones como las que recordaron previamente y agreguen otras que les permitan\nmejorar dicha gestión. Luego, pedirles que comenten cómo consideran que realizar\nestas acciones podría tener un impacto en su bienestar personal."
+                    ],
+                    "respuesta": "Pedir a los estudiantes que incluyan en su caja las acciones que realizaron para gestionar\nemociones como las que recordaron previamente y agreguen otras que les permitan\nmejorar dicha gestión. Luego, pedirles que comenten cómo consideran que realizar\nestas acciones podría tener un impacto en su bienestar personal.",
+                    "respuestaCorta": "Esta acción se centra en mejorar la gestión de las emociones (no en evitarlas) y conecta estas estrategias con el resultado final de la autorregulación, que es el bienestar personal.",
+                    "solucionario": "La autorregulación emocional no consiste en evitar situaciones (opción a) ni simplemente en buscar emociones positivas (opción b), sino en gestionar eficazmente las emociones que surgen. La opción 'c' es la más pertinente porque se enfoca en 'mejorar dicha gestión', partiendo de experiencias pasadas y buscando nuevas estrategias. Además, vincula este proceso con el 'bienestar personal', que es el objetivo último de la autorregulación.",
+                    "seccion": "Casuística"
+                },
+                {
+                    "pregunta": "Después de que los estudiantes han elaborado su \"caja de herramientas emocional\" y han\nrealizado algunas de las acciones incluidas en esta, en situaciones de su cotidianeidad, la\ndocente busca que realicen un proceso de metacognición sobre cómo han funcionado para\nellos dichas acciones.\nPara ello, les entregará una ficha de preguntas. ¿Cuál de los siguientes conjuntos de preguntas es más pertinente incluir en la ficha para\npromover el logro de dicho propósito?",
+                    "opciones": [
+                        "¿Qué ventajas tiene usar la caja de herramientas emocional? ¿Sería posible difundir a\notras personas las ventajas que trae diseñar acciones para manejar las propias emociones?\n¿Qué medios utilizarías para hacerlo?",
+                        "¿Crees que las acciones de tu caja de herramientas han resultado útiles para el manejo\nde tus emociones? ¿Por qué? ¿De qué forma crees que podrías mejorar las estrategias\nde tu caja para manejar tus emociones?",
+                        "¿Cuántas fueron las acciones que colocaste como contenido de tu caja de herramientas\nemocional? ¿Has hecho uso de todas las acciones que estaban en tu caja de herramientas?\n¿Usaste alguna más de una vez?"
+                    ],
+                    "respuesta": "¿Crees que las acciones de tu caja de herramientas han resultado útiles para el manejo\nde tus emociones? ¿Por qué? ¿De qué forma crees que podrías mejorar las estrategias\nde tu caja para manejar tus emociones?",
+                    "respuestaCorta": "Este conjunto de preguntas promueve la metacognición al llevar al estudiante a evaluar la efectividad de sus estrategias ('¿han resultado útiles?') y a planificar mejoras ('¿cómo podrías mejorar?').",
+                    "solucionario": "El propósito es la metacognición sobre las propias estrategias. La opción 'a' se enfoca en la difusión, no en la autoevaluación. La opción 'c' es descriptiva y cuantitativa, no reflexiva. La opción 'b' es la más adecuada porque incita a la reflexión metacognitiva: primero, evalúa la eficacia de las estrategias usadas ('¿han resultado útiles? ¿Por qué?'), y segundo, promueve la planificación y el ajuste de esas estrategias ('¿De qué forma crees que podrías mejorar?'), completando el ciclo metacognitivo.",
+                    "seccion": "Casuística"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_dpcc_2024_p29",
+            "contexto": "Durante una sesión de aprendizaje, los estudiantes están proponiendo distintos asuntos\npúblicos para deliberar acerca de ellos. En ese contexto, un estudiante comenta que en el\ndistrito en el que vive, el municipio ha emitido una ordenanza que prohíbe el uso de los\nparques para realizar actividades deportivas, lo que ha generado un debate entre los vecinos\nque están de acuerdo y los que no. Durante el diálogo sobre esta situación, los estudiantes\ncoinciden en que se trata de un asunto público y brindan distintas razones para justificarlo.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál de los siguientes estudiantes justifica mejor por qué el asunto es público?",
+                    "opciones": [
+                        "Bertha dice: \"Es un asunto público porque, en este caso, hay mucho debate sobre esto\nen los medios; de hecho, se puede notar que hay muchas noticias al respecto\".",
+                        "Adriana dice: \"Es un asunto público porque todo lo que sucede en espacios públicos\ncomo los parques es un asunto de este tipo\".",
+                        "Julián dice: \"Es un asunto público porque, con una ordenanza como esta, se afecta a las\npersonas, en tanto se les limita la libertad\"."
+                    ],
+                    "respuesta": "Julián dice: \"Es un asunto público porque, con una ordenanza como esta, se afecta a las\npersonas, en tanto se les limita la libertad\".",
+                    "respuestaCorta": "Julián da la mejor justificación porque identifica que un asunto es público cuando una decisión afecta los derechos y el bienestar de la colectividad, en este caso, la libertad de uso del espacio público.",
+                    "solucionario": "Un asunto es público no por dónde ocurre (Adriana) ni por cuánta atención mediática recibe (Bertha), sino por su impacto en los derechos y el bien común. Julián lo entiende correctamente al señalar que la ordenanza 'afecta a las personas' al 'limitar la libertad'. Este criterio, centrado en la afectación de los derechos de la ciudadanía, es el que define con mayor precisión un asunto público.",
+                    "seccion": "Casuística"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_dpcc_2024_p30",
+            "contexto": "La docente desea que sus estudiantes reconozcan aspectos que constituyen su identidad. Por\nello, inicia la siguiente actividad:\nPide a los estudiantes que indaguen sobre los lugares de nacimiento de sus bisabuelos,\nabuelos, tíos, padre y madre, y los marquen en un mapa. Luego, les solicita que\ninvestiguen qué costumbres, música, comida típica son de esos lugares e indaguen\nsobre si algunas de ellas se mantienen en su familia. Finalmente, les encarga realizar\nuna presentación individual que conste de dos partes: primero, muestran sus hallazgos\ny, segundo, responden a las siguientes preguntas: ¿comparto estas costumbres?, ¿cuán\nimportantes son esas costumbres para $mil_{x}$ ¿por qué?",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál de las siguientes alternativas expresa la razón principal por la que esta actividad es\npertinente para cumplir con el propósito de la docente?",
+                    "opciones": [
+                        "Porque la actividad permite que los estudiantes conozcan las expresiones culturales de\ndiversos lugares del país.",
+                        "Porque la actividad permite que los estudiantes superen los prejuicios y estereotipos\nque podrían tener ante su propia herencia cultural.",
+                        "Porque la actividad permite que los estudiantes reflexionen sobre sí mismos a partir de\nlas prácticas culturales que comparten con sus antepasados."
+                    ],
+                    "respuesta": "Porque la actividad permite que los estudiantes reflexionen sobre sí mismos a partir de\nlas prácticas culturales que comparten con sus antepasados.",
+                    "respuestaCorta": "La actividad es pertinente porque la identidad se construye a través de la reflexión personal sobre la herencia cultural y la decisión consciente de qué elementos se asumen como propios.",
+                    "solucionario": "El propósito es que los estudiantes 'reconozcan aspectos que constituyen su identidad'. Si bien la actividad permite conocer expresiones culturales (a) o superar prejuicios (b), su núcleo está en las preguntas finales: '¿comparto estas costumbres?', '¿cuán importantes son para mí?'. Estas preguntas llevan al estudiante a la 'reflexión sobre sí mismos' (c) en relación con su herencia. No se trata solo de conocer el pasado, sino de analizar cómo ese pasado influye en el presente de cada uno, que es la esencia de la construcción de la identidad cultural.",
+                    "seccion": "Casuística"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_dpcc_2024_p31",
+            "contexto": "Durante una reunión, los docentes conversan acerca de las características de la construcción\nde la identidad durante la adolescencia y el rol que les compete a los adultos cuidadores al\nrespecto.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "Teniendo en cuenta las características de la adolescencia, ¿cuál de los siguientes docentes\nexpresa de manera más pertinente el rol del adulto cuidador?",
+                    "opciones": [
+                        "Bertha dice: \"Por la variedad de cambios que experimentan, los adolescentes suelen\natravesar situaciones que impactan directamente en la construcción de su identidad. Por\nello, el rol de los adultos debe ser el de acompañarlos en su exploración para que puedan\nestablecer, por sí mismos, sus compromisos con valores, metas y creencias\".",
+                        "Alicia dice: \"La construcción de la identidad de los adolescentes se desarrolla en función\nde sus pares. Por ello, la participación de los adultos debe limitarse lo más posible para\nevitar interferir en la construcción que hagan los adolescentes, conjuntamente con sus\npares, de sus valores, metas y creencias\".",
+                        "César dice: \"Durante la adolescencia, se termina de consolidar la identidad de la persona.\nPor ello, la tarea de un adulto cuidador es indispensable para lograr que los adolescentes\nasuman un compromiso con los valores, metas y creencias enseñados en la familia y que\nson compartidos por la sociedad\"."
+                    ],
+                    "respuesta": "Bertha dice: \"Por la variedad de cambios que experimentan, los adolescentes suelen\natravesar situaciones que impactan directamente en la construcción de su identidad. Por\nello, el rol de los adultos debe ser el de acompañarlos en su exploración para que puedan\nestablecer, por sí mismos, sus compromisos con valores, metas y creencias\".",
+                    "respuestaCorta": "Bertha describe el rol adecuado del adulto como un acompañante que facilita la exploración autónoma del adolescente, en lugar de imponer valores o retirarse por completo del proceso.",
+                    "solucionario": "La construcción de la identidad en la adolescencia es un proceso de exploración y compromiso. El rol del adulto no es imponer (César), lo que sería autoritario, ni ausentarse (Alicia), lo que sería negligente. El rol más pertinente es el de acompañamiento, como describe Bertha (a). El adulto brinda soporte y guía durante la 'exploración' del adolescente, pero respeta que la decisión final y el establecimiento de compromisos ('establecer, por sí mismos') es una tarea personal e intransferible del propio adolescente.",
+                    "seccion": "Casuística"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_dpcc_2024_p32",
+            "contexto": "En el marco de un proyecto sobre el maltrato animal, los estudiantes están recabando\ninformación acerca de cómo se aborda esta problemática en diferentes países. En ese\ncontexto, uno de los estudiantes comparte la siguiente noticia:\n\nSentencia de un tribunal internacional a favor del bienestar animal en Bélgica\n\nCon la finalidad de evitar el sufrimiento de los animales de granja, la ley europea\nexige aturdirlos hasta la inconsciencia antes de su sacrificio en los mataderos, pero\nla misma ley hace una excepción para los casos de sacrificios religiosos. Las comidas\nhalal y kosher, según las tradiciones religiosas musulmana y judía respectively,\ntienen en común asegurar la consciencia del animal al momento del sacrificio. El\nEstado belga decidió eliminar la excepción religiosa para reforzar su ley de bienestar\nanimal, pero asociaciones musulmanas y judías exigieron a dicho país no hacer\nese cambio para seguir produciendo la carne de sus comidas de acuerdo con sus\ntradiciones. Por ello, el Estado belga acudió al Tribunal de Justicia de la Unión Europea\npara que solucionara el conflicto. Finalmente, el Tribunal emitió una sentencia dando\nla razón a dicho país, lo cual satisface a su sociedad civil cada vez más preocupada por\nproteger a los animales.\nAdaptado de Pellicer, L. (2020). \"El animalismo gana ante la justicia europea la batalla\ncontra la crueldad en los sacrificios religiosos\".\n\nA partir del interés mostrado por los estudiantes, la docente realiza con ellos distintas\nactividades para analizar la noticia.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "Luego de haber leído la noticia, los estudiantes coinciden en que esta aborda asuntos públicos.\nEn ese contexto, la docente tiene como propósito orientar a los estudiantes en la búsqueda\nde información que los ayude a justificar por qué dichos asuntos son públicos. ¿Cuál de las siguientes acciones pedagógicas es más pertinente para el logro de dicho\npropósito?",
+                    "opciones": [
+                        "Pedir a los estudiantes que indaguen por qué Bélgica anuló la excepción en la ley de\nbienestar animal en el contexto en el que lo hizo. Luego, pedirles que comenten cómo\ndicha anulación impactaría en las tradiciones de las personas.",
+                        "Pedir a los estudiantes que expliquen cómo el modo de preparar los alimentos es\nimportante en las tradiciones halal y kosher. Luego, pedirles que expongan de qué\nmanera el prohibir parte de dichas tradiciones atenta la libertad de culto.",
+                        "Pedir a los estudiantes que averigüen si existen otros países que han anulado la excepción\nen la ley de bienestar animal. Luego, pedirles que averigüen si en dichos países hubo\nreacciones similares a las de las asociaciones mencionadas en la noticia."
+                    ],
+                    "respuesta": "Pedir a los estudiantes que indaguen por qué Bélgica anuló la excepción en la ley de\nbienestar animal en el contexto en el que lo hizo. Luego, pedirles que comenten cómo\ndicha anulación impactaría en las tradiciones de las personas.",
+                    "respuestaCorta": "Esta acción permite justificar el tema como asunto público al analizar el impacto de una ley en los derechos y prácticas culturales de una parte de la población, evidenciando su relevancia colectiva.",
+                    "solucionario": "Un asunto es público cuando afecta los derechos y el bienestar de la colectividad. La opción 'c' se enfoca en comparar con otros países, lo cual es útil pero secundario. La opción 'b' se centra solo en una de las partes del conflicto. La opción 'a' es la más pertinente porque aborda el núcleo del conflicto: la tensión entre una ley que busca el bien común (bienestar animal) y su impacto directo en derechos específicos de un grupo (tradiciones culturales y religiosas). Analizar esta colisión de derechos y sus repercusiones es fundamental para justificarlo como asunto público.",
+                    "seccion": "Casuística"
+                },
+                {
+                    "pregunta": "Luego de que los estudiantes han indagado y discutido sobre la ley de bienestar animal que\nse indica en la noticia, la docente busca que reflexionen éticamente sobre dicha ley. ¿Cuál de\nlas siguientes acciones pedagógicas es más pertinente para el logro de este propósito?",
+                    "opciones": [
+                        "Pedir a los estudiantes que indiquen qué argumentos hay a favor y en contra de la\nanulación de la excepción de la ley de bienestar animal en Bélgica. Luego, pedirles que\nexpliquen las consecuencias positivas y negativas de dicha anulación.",
+                        "Pedir a los estudiantes que identifiquen qué actores participan en la elaboración de\nlas leyes que regulan las relaciones entre humanos y animales. Luego, pedirles que\ncomenten las acciones y los intereses de dichos actores.",
+                        "Pedir a los estudiantes que expliquen por qué se debe priorizar, en las leyes, el bienestar\nanimal para evitarles sufrimiento innecesario. Luego, pedirles que indaguen sobre\nprácticas que podrían ejemplificar dicha priorización."
+                    ],
+                    "respuesta": "Pedir a los estudiantes que indiquen qué argumentos hay a favor y en contra de la\nanulación de la excepción de la ley de bienestar animal en Bélgica. Luego, pedirles que\nexpliquen las consecuencias positivas y negativas de dicha anulación.",
+                    "respuestaCorta": "La reflexión ética se promueve al analizar los valores en conflicto, sopesando los argumentos de todas las partes involucradas y evaluando las consecuencias de las decisiones tomadas.",
+                    "solucionario": "La reflexión ética sobre un dilema requiere un análisis balanceado de las posturas en conflicto. La opción 'b' es un análisis político, no ético. La opción 'c' induce a una única respuesta ('por qué se debe priorizar...'), cerrando la reflexión. La opción 'a' es la más adecuada para la reflexión ética porque pide explícitamente identificar los argumentos de ambos lados ('a favor y en contra') y analizar el impacto de la decisión ('consecuencias positivas y negativas'). Este ejercicio de sopesar valores y consecuencias es el núcleo de la deliberación ética.",
+                    "seccion": "Casuística"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_dpcc_2024_p34",
+            "contexto": "Durante una sesión de aprendizaje, la docente les presenta a los estudiantes la siguiente\nsituación hipotética con el propósito de que la analicen y planteen acciones que favorecen\nla regulación de emociones:\n\nAntonio tiene 13 años. Él suele disfrutar de salir con sus amigos del barrio a jugar vóley\ndespués del colegio. Sin embargo, sus padres le han dicho que, por una semana, no\npodrá salir a jugar después de clase porque tiene que quedarse a cuidar a su hermana\nmenor. Antonio, molesto, grita a sus padres diciéndoles que preferiría no tener hermana.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "Si el propósito de la docente es que los estudiantes analicen la situación y, a partir de ello,\nplanteen acciones para favorecer la regulación de emociones, ¿cuál de las siguientes acciones\npedagógicas es más pertinente?",
+                    "opciones": [
+                        "Solicitar a los estudiantes que expliquen qué creen que sintió Antonio respecto de sus\npadres y de su hermana. Luego, pedirles que evalúen las emociones de Antonio y expliquen\nsi creen que son adecuadas. Finalmente, pedirles que propongan qué podría haber\nhecho Antonio para experimentar emociones positivas frente a lo indicado por sus padres.",
+                        "Indicar a los estudiantes que se imaginen que ellos se encuentran en la situación de\nAntonio. Luego, pedirles que planteen cómo podrían evadir una situación como la que ha\nprovocado que Antonio se sienta así. Finalmente, pedirles que expliquen por qué creen\nque es importante cuidarnos de situaciones que nos pueden afectar emocionalmente.",
+                        "Pedir a los estudiantes que comenten qué emociones podría haber experimentado Antonio.\nLuego, pedirles que expliquen cómo creen que influyeron dichas emociones en la reacción\nque tuvo. Finalmente, pedirles que evalúen dicha reacción y planteen qué acciones le\nhubieran ayudado a Antonio a comunicarse con sus padres de una mejor manera."
+                    ],
+                    "respuesta": "Pedir a los estudiantes que comenten qué emociones podría haber experimentado Antonio.\nLuego, pedirles que expliquen cómo creen que influyeron dichas emociones en la reacción\nque tuvo. Finalmente, pedirles que evalúen dicha reacción y planteen qué acciones le\nhubieran ayudado a Antonio a comunicarse con sus padres de una mejor manera.",
+                    "respuestaCorta": "Esta secuencia es la más pertinente porque sigue el proceso de la regulación emocional: identificar la emoción, comprender su influencia en la conducta y buscar estrategias de expresión más adecuadas.",
+                    "solucionario": "La regulación emocional no implica juzgar las emociones como 'adecuadas' (a) o evitarlas (b). Implica reconocerlas, entender su impacto y modular la respuesta conductual. La opción 'c' sigue este proceso de forma pedagógica: 1) Identifica la emoción ('qué emociones podría haber experimentado'), 2) Analiza la conexión emoción-conducta ('cómo influyeron en la reacción'), y 3) Propone una regulación de la conducta ('qué acciones le hubieran ayudado a comunicarse de una mejor manera').",
+                    "seccion": "Casuística"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_dpcc_2024_p35",
+            "contexto": "Los estudiantes van a debatir en torno a la siguiente pregunta: \"¿El voto debería ser obligatorio\no voluntario?\". Para que participen en el debate, la docente busca que los estudiantes\nelaboren argumentos razonados en relación con el asunto planteado.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál de las siguientes acciones pedagógicas es más pertinente para el logro del propósito\nindicado?",
+                    "opciones": [
+                        "Solicitar a los estudiantes que busquen diversas fuentes de información sobre la\npregunta planteada. Luego, pedirles que identifiquen ideas de las fuentes que podrían\nser respuestas a la pregunta y las repliquen en el debate.",
+                        "Brindar a los estudiantes fuentes de información especializadas que puedan revisar para\nseleccionar argumentos. Luego, pedirles que escojan el mejor argumento que hayan leído\ny lo presenten en el debate para defender su postura.",
+                        "Pedir a los estudiantes que busquen información en fuentes confiables sobre la pregunta\nplanteada. Luego, pedirles que expliquen, a partir de los datos que encontraron, por qué\nsu postura es preferible a la contraria."
+                    ],
+                    "respuesta": "Pedir a los estudiantes que busquen información en fuentes confiables sobre la pregunta\nplanteada. Luego, pedirles que expliquen, a partir de los datos que encontraron, por qué\nsu postura es preferible a la contraria.",
+                    "respuestaCorta": "Elaborar un argumento razonado implica procesar información de fuentes para construir una justificación propia que demuestre la superioridad de una postura sobre otra.",
+                    "solucionario": "Un argumento razonado no es simplemente repetir o seleccionar ideas de otros (opciones a y b). Implica un proceso de construcción personal. La opción 'c' es la más pertinente porque pide a los estudiantes que usen la información encontrada ('a partir de los datos') para realizar una operación cognitiva superior: explicar por qué su postura es 'preferible a la contraria'. Esto les exige analizar, comparar y sintetizar la información para construir un argumento propio y sólido.",
+                    "seccion": "Casuística"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_dpcc_2024_p36",
+            "contexto": "Durante una sesión de aprendizaje, la docente busca recoger los saberes previos de los\nestudiantes acerca del concepto de autoritarismo.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál de las siguientes acciones es más\npertinente para el logro de dicho propósito?",
+                    "opciones": [
+                        "Solicitar a los estudiantes que expliquen qué es el autoritarismo utilizando diversas\nfuentes que traten sobre el tema. Luego, pedirles que elaboren ejemplos de autoritarismo\nque apoyen su explicación. Finalmente, pedirles que expliquen por qué sus ejemplos de\nautoritarismo se condicen con las fuentes revisadas.",
+                        "Mostrar a los estudiantes varias noticias, indicándoles que son ejemplos de actos\nautoritarios realizados en diferentes contextos. Luego, preguntarles qué elementos\ncomunes hay entre esos actos. Finalmente, pedirles que elaboren una definición de\nautoritarismo que considere esos elementos en común.",
+                        "Pedir a los estudiantes que imaginen que el alcalde del Municipio Escolar decide, sin\nconsultarle a nadie, realizar una ceremonia para reconocer la conducta ejemplar de\nsus amigos más cercanos. Luego, preguntarles si creen que ese comportamiento es\nautoritario. Finalmente, pedirles que expliquen sus respuestas."
+                    ],
+                    "respuesta": "Pedir a los estudiantes que imaginen que el alcalde del Municipio Escolar decide, sin\nconsultarle a nadie, realizar una ceremonia para reconocer la conducta ejemplar de\nsus amigos más cercanos. Luego, preguntarles si creen que ese comportamiento es\nautoritario. Finalmente, pedirles que expliquen sus respuestas.",
+                    "respuestaCorta": "Para recoger saberes previos, es más efectivo presentar una situación concreta y cercana a la experiencia de los estudiantes y pedirles que la analicen usando sus conocimientos e intuiciones actuales.",
+                    "solucionario": "El objetivo es recoger saberes previos, no enseñar un concepto nuevo. La opción 'a' implica una investigación formal, no la activación de conocimientos previos. La opción 'b' es una actividad inductiva para construir un concepto, no para recoger lo que ya saben. La opción 'c' es la más pertinente porque presenta un caso hipotético, simple y relatable ('Municipio Escolar') que permite a los estudiantes aplicar sus nociones intuitivas sobre el autoritarismo para calificar la situación y justificar su respuesta, revelando así sus concepciones iniciales sobre el tema.",
+                    "seccion": "Casuística"
+                }
+            ]
+        },
+
+       
+    {
+      "idGrupo": "asc_dpcc_2024_p37",
+      "contexto": "Durante un partido de básquet, Andrea, una de las jugadoras, le pide repetidas veces a su\ncompañero Leo que le pase el balón durante el juego. Al final del juego, la docente observa\nque Andrea se acerca a conversar con Leo. Andrea le dice que está molesta porque no le pasó\nel balón en ningún momento. Leo le responde que no fue intencionalmente, sino que no vio\nninguna oportunidad para hacerlo. A partir de ello, Andrea le pidió a Leo que esté más atento\na su posición para darle pases y, por su parte, Leo le pidió a Andrea que trate de desmarcarse\nconstantemente para que sea más fácil verla y pasarle el balón. Así, llegan a un acuerdo. Al notar\nque han finalizado la conversación, la docente se acerca para preguntarles si han acordado\ncómo comunicarse mejor durante el juego.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "A partir de la situación presentada, ¿qué mecanismo de resolución de conflictos se aplicó en\nel conflicto de Andrea y Leo?",
+          "opciones": [
+            "Arbitraje.",
+            "Mediación.",
+            "Negociación."
+          ],
+          "respuesta": "Negociación.",
+          "respuestaCorta": "El mecanismo aplicado es la negociación, ya que las dos partes involucradas (Andrea y Leo) dialogaron directamente y llegaron a un acuerdo mutuo sin la intervención de un tercero.",
+          "solucionario": "En la situación descrita, Andrea y Leo, las partes directamente implicadas en el conflicto, dialogan, exponen sus puntos de vista y llegan a un acuerdo por sí mismos. Esto define a la negociación. No es mediación, porque no hay un tercero neutral que facilite la comunicación, ni arbitraje, porque no hay un tercero que imponga una solución.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_dpcc_2024_p38",
+      "contexto": "Una docente de tercer grado percibe que los estudiantes experimentan la búsqueda constante\nde pertenecer al grupo y ser aceptados por otros. Por ello, solicita a los estudiantes que\nelaboren una reflexión acerca de cómo perciben sus relaciones y vínculos con los demás. Una\nestudiante entregó por escrito el siguiente texto:\n\n\"Me gusta sentir que pertenezco a mi grupo de amigas. Mis amigas siempre están de\nacuerdo conmigo, siguen mis ideas, hacen lo que yo digo, e inclusive copian mis formas\nde hablar y mis gustos. A veces, cuando ellas no actúan como yo quiero, me molesto y\nse los digo abiertamente porque son mis amigas\".\n\nLa docente desea promover que la estudiante reflexione acerca de su concepto de sentido\nde pertenencia.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes anotaciones de la docente es pertinente para dicho\npropósito?",
+          "opciones": [
+            "\"Es importante sentir que tenemos un grupo de amigas al que podemos recurrir cuando\nnos sentimos bien y cuando nos sentimos mal. Pero, ¿te has puesto a pensar en cómo\npodrías mejorar tu forma de expresar a tus amigas que estás molesta?\".",
+            "\"Es importante reconocer que pertenecer a un grupo de amigas nos hace sentir bien con\nnosotras mismas. Pero, ¿qué valoras de las relaciones que tienes con ellas: que tienes\ncosas en común y compartes intereses con ellas, o que ellas imitan tu comportamiento?\".",
+            "\"Es importante valorar a las amigas porque nos hacen sentir bien y porque ellas\nmanifiestan su gusto de estar con nosotras. Pero, ¿cómo crees que podrían sentirse tus\namigas cuando les haces tus reclamos? Recuerda que todos nos merecemos un buen trato\"."
+          ],
+          "respuesta": "\"Es importante reconocer que pertenecer a un grupo de amigas nos hace sentir bien con\nnosotras mismas. Pero, ¿qué valoras de las relaciones que tienes con ellas: que tienes\ncosas en común y compartes intereses con ellas, o que ellas imitan tu comportamiento?\".",
+          "respuestaCorta": "Esta anotación es la más pertinente porque cuestiona directamente la concepción de la estudiante sobre la pertenencia, invitándola a diferenciar entre una relación basada en la afinidad y una basada en la sumisión.",
+          "solucionario": "El propósito es que la estudiante reflexione sobre su 'concepto de sentido de pertenencia', que actualmente parece basarse en el dominio y la imitación. La opción 'a' desvía el tema hacia la expresión de la molestia. La opción 'c' se enfoca en la empatía y el buen trato. La opción 'b' es la única que aborda el núcleo del problema al plantear una dicotomía: pertenencia por afinidad ('compartes intereses') vs. pertenencia por imitación ('imitan tu comportamiento'). Esta pregunta la obliga a reflexionar sobre la calidad y naturaleza de sus vínculos.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_dpcc_2024_p39",
+      "contexto": "Un docente presenta a los estudiantes la siguiente situación hipotética:\n\nCarlos es muy amigo de Miguel. Hoy, luego de una prueba, Miguel le contó a Carlos\nque había plagiado y le pidió que no se lo contara a nadie. Carlos no sabe qué hacer,\npues piensa que, si le cuenta a la docente, Miguel se podría enterar y dejaría de ser su\namigo. Al mismo tiempo, Carlos piensa que, si no lo denuncia, estaría siendo cómplice\nde un acto deshonesto.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Para iniciar el análisis de la situación, el docente pregunta a los estudiantes por qué la situación\npresentada es un dilema moral. ¿Cuál de los estudiantes explica correctamente por qué la situación presentada es un dilema\nmoral?",
+          "opciones": [
+            "Inés dice: \"Es un dilema moral porque es una situación en la que solo hay una acción\nmoralmente correcta y esta es difícil de realizar. Aquí, lo correcto es que Carlos denuncie\nel plagio, pero le es difícil hacerlo porque con ello se ganará la enemistad de Miguel\".",
+            "Pablo dice: \"Aquí hay un dilema moral porque, para saber qué es lo correcto, hay que\npensar en los riesgos y en los beneficios. En este caso, Carlos tendría que pensar qué\nriesgos hay en contarle a la docente y qué opción le traería más beneficios a la larga\".",
+            "Jesús dice: \"Creo que es un dilema moral porque, para Carlos, la lealtad y la honestidad\nson valores importantes. Pero, como solo puede optar por una opción, esto implicará\ndejar de lado uno de estos valores\"."
+          ],
+          "respuesta": "Jesús dice: \"Creo que es un dilema moral porque, para Carlos, la lealtad y la honestidad\nson valores importantes. Pero, como solo puede optar por una opción, esto implicará\ndejar de lado uno de estos valores\".",
+          "respuestaCorta": "Jesús define correctamente el dilema moral como una situación en la que dos valores importantes para una persona (lealtad y honestidad) entran en conflicto, y cualquier decisión implica sacrificar uno de ellos.",
+          "solucionario": "La característica esencial de un dilema moral es el conflicto interno entre dos o más principios o valores morales. Inés (a) simplifica el problema al afirmar que solo hay una acción correcta. Pablo (b) lo reduce a un cálculo de riesgos y beneficios. Jesús (c), en cambio, captura la esencia del dilema al identificar los dos valores en pugna que son importantes para Carlos (lealtad y honestidad) y señalar que la decisión forzosamente implicará actuar en contra de uno de ellos.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Considerando que el propósito de la actividad es promover la reflexión ética de los estudiantes\nsobre la situación analizada, ¿por qué la actividad propuesta NO contribuye al logro de este\npropósito?",
+          "opciones": [
+            "Porque, en la actividad, se indica a los estudiantes que reflexionen en relación con las\nnormas de la IE, lo cual imposibilita que se realice el análisis de la situación desde una\nperspectiva ética.",
+            "Porque, en la actividad, se conduce a que los estudiantes asuman un papel dentro de la\nsituación, lo que conlleva que la reflexión ética, al estar interferida por una vinculación\nemocional, no se realice de manera objetiva.",
+            "Porque, en la actividad, se brinda a los estudiantes las razones por las que una determinada\nacción es incorrecta, lo cual impide que sean ellos quienes, a partir de su propio análisis,\nreflexionen sobre por qué el plagio es incorrecto."
+          ],
+          "respuesta": "Porque, en la actividad, se brinda a los estudiantes las razones por las que una determinada\nacción es incorrecta, lo cual impide que sean ellos quienes, a partir de su propio análisis,\nreflexionen sobre por qué el plagio es incorrecto.",
+          "respuestaCorta": "La actividad no promueve la reflexión ética porque el docente les da a los estudiantes las conclusiones morales ('explicarles las razones morales') en lugar de guiarlos para que ellos mismos las construyan a través del análisis.",
+          "solucionario": "La reflexión ética es un proceso autónomo de razonamiento. La actividad propuesta cortocircuita este proceso, ya que el docente 'explica las razones morales' y luego pide a los estudiantes que las apliquen. En lugar de permitir que los estudiantes deliberen y construyan su propio juicio moral sobre por qué el plagio es incorrecto, se les entrega una conclusión preestablecida. Esto transforma el ejercicio en una aplicación de reglas dadas, no en una genuina reflexión ética.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_dpcc_2024_p41",
+      "contexto": "En el marco de una experiencia de aprendizaje en la que los estudiantes están abordando\ndistintos aspectos de su desarrollo personal, la docente tiene como propósito promover\nel desarrollo del sentido de autoeficacia de los estudiantes. Para ello, realiza la siguiente\nactividad:\n\n• Les presenta la siguiente situación hipotética:\nAndrés, un adolescente de 14 años, disfruta mucho de pintar. Por ello, se ha inscrito\nen el concurso de arte organizado por la municipalidad de su distrito. Cuando llega\nel momento de presentar su obra para el concurso, Andrés se siente nervioso\nporque ninguna de sus pinturas le parece suficientemente buena. Cuando entregan\nlos resultados del concurso, Andrés se entera de que no obtuvo ningún premio o\nreconocimiento. A causa de esto, él piensa que debería dejar la pintura.\n\n• Luego de leer la situación en plenaria, la docente les plantea las siguientes preguntas:\no ¿Cómo creen que esta experiencia podría afectar emocionalmente a Andrés?\no ¿Qué debería hacer Andrés para analizar sus fortalezas para la pintura?\no ¿Qué debería hacer para analizar sus debilidades, de modo que pueda continuar\npintando y mejorar en su práctica?\n\n• Posteriormente, les pide que recuerden una experiencia personal en la que no hayan\nobtenido los resultados que esperaban. Luego, les pide que, de manera individual,\nadapten las preguntas que respondieron para el caso de Andrés a su situación y las\nrespondan en un texto.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Si el propósito de la docente es promover el desarrollo del sentido de autoeficacia de los\nestudiantes, ¿por qué la actividad es pertinente?",
+          "opciones": [
+            "Porque la actividad brinda preguntas a los estudiantes para que puedan analizar sus\ncaracterísticas personales en relación con la obtención de un logro. Así, se promueve\nuna manera balanceada de evaluarse a sí mismos ante una situación de fracaso.",
+            "Porque la actividad proporciona una forma de analizar una experiencia de fracaso como\nun medio para mejorar ante un reto. Así, se promueve que los estudiantes identifiquen\nsus debilidades para superarlas y obtener los mejores resultados posibles.",
+            "Porque la actividad presenta una situación dirigida a que los estudiantes sepan qué hacer\nante la frustración de no haber alcanzado un logro. Así, se promueve que los estudiantes\nreconozcan que el fracaso no debe truncar sus expectativas."
+          ],
+          "respuesta": "Porque la actividad brinda preguntas a los estudiantes para que puedan analizar sus\ncaracterísticas personales en relación con la obtención de un logro. Así, se promueve\nuna manera balanceada de evaluarse a sí mismos ante una situación de fracaso.",
+          "respuestaCorta": "La actividad es pertinente porque guía a los estudiantes a analizar un fracaso de forma equilibrada, reconociendo tanto fortalezas como debilidades, lo cual es clave para construir un sentido de autoeficacia realista y resiliente.",
+          "solucionario": "La autoeficacia se nutre de una autoevaluación realista. Andrés generaliza un fracaso ('debería dejar la pintura'). La actividad contrarresta esto al proponer un análisis estructurado y balanceado a través de preguntas que apuntan tanto a fortalezas como a debilidades. Al hacer que los estudiantes apliquen este análisis a sus propias vidas, se les dota de una herramienta para interpretar los fracasos no como una prueba de incapacidad total, sino como una oportunidad para una evaluación constructiva que fomenta la confianza en su capacidad para mejorar y superar desafíos futuros.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_dpcc_2024_p42",
+      "contexto": "Durante una sesión de aprendizaje, los estudiantes, organizados en equipos, están preparando\nuna exposición sobre experiencias de participación ciudadana realizadas por adolescentes.\nEn dicho contexto, se produce el siguiente diálogo en uno de los equipos:\n\nMario dice: \"Ya estamos listos para la exposición. Ya tenemos bastantes casos. Solo\ntenemos que salir a leerlos\".\n\nAlejandro dice: \"Espera. Creo que, si hacemos lo que dices, la presentación va a salir\nmuy aburrida. Recuerda cómo hicimos en el área de Comunicación la vez pasada.\nPrimero, seleccionamos la información más importante de las fuentes, luego sacamos\nconclusiones y después organizamos todas las ideas en un esquema. Recién ahí\nempezamos a prepararnos para la exposición. Para eso, usamos nuestras propias\npalabras y no leímos mientras exponíamos. Así nos fue muy bien\".\n\nMario dice: \"¿Y cómo haríamos con nuestros casos? No me parece tan fácil hacer lo\nmismo para esta presentación\".\n\nAlejandro dice: \"Es verdad que puede ser un problema, pero empecemos por intentarlo\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes procesos de aprendizaje NO se evidencia en lo dicho por Alejandro?",
+          "opciones": [
+            "Conflicto cognitivo.",
+            "Transferencia del aprendizaje.",
+            "Metacognición sobre sus estrategias de aprendizaje."
+          ],
+          "respuesta": "Conflicto cognitivo.",
+          "respuestaCorta": "Alejandro demuestra transferencia (aplica una estrategia de otro curso) y metacognición (describe y evalúa esa estrategia), pero no experimenta un conflicto cognitivo, ya que no se enfrenta a una idea que contradiga sus conocimientos.",
+          "solucionario": "En la intervención de Alejandro se evidencia claramente la **transferencia del aprendizaje**, al proponer usar una estrategia exitosa del área de Comunicación en esta nueva tarea. También hay **metacognición**, ya que es consciente de su proceso de aprendizaje y lo describe paso a paso ('Primero seleccionamos...', 'luego sacamos...', etc.). Lo que NO se evidencia es un **conflicto cognitivo**; por el contrario, Alejandro tiene seguridad en su estrategia y no se enfrenta a ninguna contradicción con sus saberes previos.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_dpcc_2024_p43",
+      "contexto": "Los estudiantes están llevando a cabo un proyecto de investigación sobre la democracia en\nel Perú. Durante una de las actividades del proyecto, los estudiantes comparten en plenaria\nsus impresiones acerca de cómo creen que debería ser la democracia ideal. En ese contexto,\nuno de los estudiantes menciona lo siguiente:\n\n\"Si la democracia es el gobierno del pueblo, entonces, en gobiernos democráticos como el\nnuestro, todo lo deberíamos decidir los ciudadanos y no los congresistas ni el presidente\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes conjuntos de preguntas es más pertinente para brindar andamiaje al\nestudiante para que revise su concepción de democracia?",
+          "opciones": [
+            "¿Cuál es el concepto de gobierno democrático? ¿Existe solo una forma de ejercer este\ntipo de gobierno? ¿Sabían que algunos países tienen una democracia representativa?\n¿Estos países no podrían ser considerados como democracias?",
+            "¿Sería viable que todos los asuntos de un país tuvieran que ser decididos por todos los\nciudadanos? ¿Cómo se haría? ¿Quiénes eligen a los congresistas y presidentes en una\ndemocracia? ¿Para qué las autoridades son elegidas por votación?",
+            "¿Qué países democráticos conoces? ¿Qué características consideras que comparten\ndichos países? En dichos países, ¿hay decisiones que son tomadas por los ciudadanos?\n¿Qué otras características corresponden a gobiernos democráticos?"
+          ],
+          "respuesta": "¿Sería viable que todos los asuntos de un país tuvieran que ser decididos por todos los\nciudadanos? ¿Cómo se haría? ¿Quiénes eligen a los congresistas y presidentes en una\ndemocracia? ¿Para qué las autoridades son elegidas por votación?",
+          "respuestaCorta": "Este conjunto de preguntas brinda andamiaje al guiar al estudiante a cuestionar la viabilidad de su propuesta (democracia directa) y a reflexionar sobre el propósito y la lógica de la democracia representativa.",
+          "solucionario": "El andamiaje debe guiar al estudiante a construir una comprensión más compleja. La concepción del estudiante es la de una democracia directa pura. La opción 'a' es muy teórica. La opción 'c' es comparativa. La opción 'b' es la más efectiva porque parte de la idea del estudiante y la cuestiona desde la practicidad ('¿Sería viable? ¿Cómo se haría?'), para luego guiarlo hacia el concepto de representación ('¿Quiénes eligen a los congresistas...? ¿Para qué...?'). Este proceso lo ayuda a construir por sí mismo la noción de democracia representativa como una solución funcional.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_dpcc_2024_p44",
+      "contexto": "Andrés es un estudiante que tiene discapacidad física y utiliza silla de ruedas. Últimamente,\nse siente incómodo, ya que su compañera Carla siempre empuja su silla de ruedas para\ndesplazarlo sin consultarle, a pesar de que le ha dicho que puede hacerlo por sí mismo. Un\ndía, al inicio del recreo, cuando Carla empieza a llevarlo al patio empujando su silla, Andrés\nle pidió que dejara de hacerlo. Ante ello, Carla, muy molesta, le dice lo siguiente: \"Yo solo he\ntratado de ayudarte y me tratas así. Eres muy malagradecido\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Ante el comentario de Carla, ¿cuál de las siguientes posibles intervenciones de Andrés es\nasertiva?",
+          "opciones": [
+            "\"Entiendo tu preocupación, pero, al empujar mi silla sin preguntarme, me haces sentir que\nno puedo hacerlo por mí mismo. Me siento como un objeto y no me ayudas realmente\ncon lo que haces. Por eso, te pido que me entiendas y no lo vuelvas a hacer\".",
+            "\"Creo que yo nunca pedí tu ayuda para mover mi silla. Supongo que quieres ser amable\nconmigo porque empujas mi silla; sin embargo, me da la impresión de que sólo lo haces\npor ti; como para sentirte bien contigo misma\".",
+            "\"Discúlpame por contestarte así. Lo que pasa es que a veces me impaciento y reacciono\nde esa forma. Yo aprecio mucho la ayuda que me das, así que voy a tratar de ser más\npaciente y no volver a hablarte de esa forma\"."
+          ],
+          "respuesta": "\"Entiendo tu preocupación, pero, al empujar mi silla sin preguntarme, me haces sentir que\nno puedo hacerlo por mí mismo. Me siento como un objeto y no me ayudas realmente\ncon lo que haces. Por eso, te pido que me entiendas y no lo vuelvas a hacer\".",
+          "respuestaCorta": "Esta intervención es asertiva porque valida la intención de la otra persona, expresa los propios sentimientos en primera persona sin culpar, explica el impacto de la acción y realiza una petición clara y respetuosa.",
+          "solucionario": "La comunicación asertiva implica expresar las propias necesidades y sentimientos de forma clara y respetuosa, sin ser pasivo ni agresivo. La opción 'b' es agresiva, ya que ataca las intenciones de Carla. La opción 'c' es pasiva, ya que Andrés se disculpa sin motivo y cede a la presión. La opción 'a' es el ejemplo perfecto de asertividad: valida la intención de Carla ('Entiendo tu preocupación'), describe la conducta objetiva ('empujar mi silla sin preguntarme'), expresa sus propios sentimientos ('me haces sentir que no puedo...'), explica el impacto ('no me ayudas realmente') y finaliza con una petición concreta ('te pido que... no lo vuelvas a hacer').",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_dpcc_2024_p45",
+      "contexto": "Los estudiantes están compartiendo las noticias que más les han interesado en la semana.\nEn este contexto, una estudiante comparte la siguiente:\n\nLos supermercados ya no podrán desperdiciar alimentos\n\nFrancia ha prohibido legalmente a los supermercados destruir o tirar alimentos, lo\nque puede llegar a incluir multas que alcanzan hasta los 75,000 euros. Por ello, los\nestablecimientos comerciales ya no pueden almacenar comida con fecha de caducidad\ncercana a vencer, sino que deberán firmar convenios con organizaciones benéficas para\ndar otro destino a dicha comida. Se calcula que, en Francia, se desperdician, en general,\nmillones de toneladas de alimentos al año. Sin embargo, a partir de dicha ley, que regula\nel desperdicio de alimentos por parte de los supermercados, se espera que la cantidad\nde comida gratuita aumente y llegue a más personas en situación de pobreza.\nAdaptado de La Vanguardia (2016). \"Francia prohíbe por ley desperdiciar la comida sobrante de los supermercados\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Luego de leer la noticia, los estudiantes comparten distintas impresiones sobre la importancia\ndel tema tratado. En el marco del enfoque de orientación al bien común, ¿cuál de los\nsiguientes estudiantes sustenta mejor su comentario sobre la base del valor de la empatía?",
+          "opciones": [
+            "Víctor dice: \"Yo creo que la prohibición a los supermercados sobre desperdiciar alimentos\ncolabora con que seamos conscientes de que hay muchas personas que no cuentan con\nlos medios para adquirir alimentos por sus precios\".",
+            "Ángela dice: \"Yo considero que prohibir que los supermercados desperdicien alimentos\npuede colaborar con que restaurantes, y otros negocios relacionados con los alimentos,\ntambién se comprometan con el cambio social\".",
+            "Gloria dice: \"Yo creo que desperdiciar comida no tiene sentido y justamente esa medida,\nque prohíbe a los supermercados que lo hagan, permite que los alimentos cumplan con\nsu función de ser útiles\"."
+          ],
+          "respuesta": "Víctor dice: \"Yo creo que la prohibición a los supermercados sobre desperdiciar alimentos\ncolabora con que seamos conscientes de que hay muchas personas que no cuentan con\nlos medios para adquirir alimentos por sus precios\".",
+          "respuestaCorta": "El comentario de Víctor se basa en la empatía porque implica ponerse en la situación de las personas que sufren la carencia de alimentos y reconocer sus dificultades.",
+          "solucionario": "La empatía, en el contexto del bien común, es la capacidad de conectar con la situación y las necesidades de los demás miembros de la comunidad. Ángela (b) se enfoca en el efecto multiplicador de la medida. Gloria (c) se centra en un razonamiento utilitario sobre la función de los alimentos. Víctor (a) es quien mejor demuestra empatía, ya que su comentario se centra en tomar conciencia de la situación de 'muchas personas que no cuentan con los medios', lo que demuestra una comprensión y sensibilidad hacia la realidad de los más vulnerables.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Los estudiantes han coincidido en que el desperdicio de alimentos es un asunto público. En\nese contexto, la docente busca que los estudiantes reflexionen sobre dicho asunto desde un\nenfoque de derechos. ¿Cuál de las siguientes acciones pedagógicas es más pertinente para\nel logro de dicho propósito?",
+          "opciones": [
+            "Pedir a los estudiantes que indaguen sobre las actividades humanas que intervienen\nen el desperdicio de alimentos. Luego, pedirles que averigüen cómo dichas actividades\nafectan a las personas.",
+            "Pedir a los estudiantes que expliquen por qué sancionar el desperdicio de alimentos sería\nmás efectivo que promover acciones solidarias. Luego, pedirles que averigüen ejemplos\nde ambas formas de solucionar el desperdicio de alimentos.",
+            "Pedir a los estudiantes que averigüen sobre testimonios de personas que trabajan como\nvoluntarias en organizaciones benéficas. Luego, preguntarles si consideran que ese\ntrabajo podría ser valorado socialmente para atender este asunto público."
+          ],
+          "respuesta": "Pedir a los estudiantes que indaguen sobre las actividades humanas que intervienen\nen el desperdicio de alimentos. Luego, pedirles que averigüen cómo dichas actividades\nafectan a las personas.",
+          "respuestaCorta": "Esta acción enfoca la reflexión en cómo una problemática social (desperdicio de alimentos) impacta en los derechos de las personas (como el derecho a la alimentación), lo cual es central en el enfoque de derechos.",
+          "solucionario": "El enfoque de derechos analiza los problemas sociales en términos de cómo afectan a la dignidad y los derechos fundamentales de las personas. La opción 'b' se centra en una comparación de estrategias (sanción vs. solidaridad). La opción 'c' se enfoca en el voluntariado. La opción 'a' es la más pertinente porque guía a los estudiantes a establecer una cadena causal propia del enfoque de derechos: identificar las causas del problema ('actividades humanas que intervienen') y luego analizar su impacto en los individuos ('cómo dichas actividades afectan a las personas'), lo que lleva directamente a la reflexión sobre la vulneración de derechos como el de la alimentación o a una vida digna.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_dpcc_2024_p47",
+      "contexto": "Como parte de una experiencia de aprendizaje, los estudiantes han identificado diversos\nasuntos públicos en la localidad donde se ubica la IE. Varios estudiantes se han interesado\npor la sobrepoblación de perros y gatos que viven en las calles de dicha localidad. En este\ncontexto, la docente propone realizar diversas actividades para abordar dicha situación.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Al iniciar el diálogo sobre el asunto identificado, la docente nota que algunos estudiantes no\nlogran explicitar las razones por las que la sobrepoblación de perros y gatos de la calle es un\nasunto público. En ese contexto, la docente busca orientarlos para que expliquen por qué es\nun asunto público. ¿Cuál de los siguientes conjuntos de preguntas es más pertinente para\nlograr dicho propósito?",
+          "opciones": [
+            "¿Cómo debería ser nuestra convivencia con los perros y gatos de la calle? ¿De qué modo\nmejorar dicha convivencia contribuiría con el bien común?",
+            "¿Desde cuándo se ha incrementado el número de perros y gatos en la localidad? ¿Con\nqué frecuencia suelen aparecer crías de dichos animales en la localidad?",
+            "¿Creen que las acciones humanas que causan la sobrepoblación de perros y gatos son\nincorrectas? ¿Qué piensan de las motivaciones personales de quienes actúan así?"
+          ],
+          "respuesta": "¿Cómo debería ser nuestra convivencia con los perros y gatos de la calle? ¿De qué modo\nmejorar dicha convivencia contribuiría con el bien común?",
+          "respuestaCorta": "Este conjunto de preguntas orienta a los estudiantes a justificar el tema como asunto público al conectarlo con conceptos clave como la convivencia y el bien común.",
+          "solucionario": "Un tema se convierte en asunto público cuando afecta a la colectividad y al bien común. Las preguntas de la opción 'b' son descriptivas y buscan datos, no justificaciones. Las de la opción 'c' llevan a un juicio moral individual. Las preguntas de la opción 'a' son las más pertinentes porque guían la reflexión hacia los criterios que definen un asunto público: cómo afecta la 'convivencia' entre los miembros de la comunidad y de qué manera su atención contribuye al 'bien común'.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Los estudiantes han coincidido que la sobrepoblación de perros y gatos de la calle es un asunto\nrelevante de atender. En ese contexto, los estudiantes comparten sus razones. ¿En cuál de las\nintervenciones de los estudiantes se evidencia un razonamiento moral deontológico?",
+          "opciones": [
+            "Carlota dice: \"Pienso que hay que intervenir en este problema porque al hacerlo se\nconseguiría más orden y limpieza en las calles, lo que no es posible con estos animales\".",
+            "Gloria dice: \"Para mí hay que intervenir en este problema porque brindar protección a\nquien sufre es lo que corresponde hacer, tal y como ocurre con estos animales\".",
+            "Ana dice: \"Creo que hay que intervenir en este problema porque, practicar la caridad con\nestos animales sin hogar, nos hace mejores personas\"."
+          ],
+          "respuesta": "Gloria dice: \"Para mí hay que intervenir en este problema porque brindar protección a\nquien sufre es lo que corresponde hacer, tal y como ocurre con estos animales\".",
+          "respuestaCorta": "El razonamiento de Gloria es deontológico porque basa su decisión en el cumplimiento de un deber moral ('es lo que corresponde hacer'), independientemente de las consecuencias o de los beneficios para quien actúa.",
+          "solucionario": "La ética deontológica se basa en el deber; una acción es correcta si se alinea con un principio moral, sin importar sus consecuencias. El razonamiento de Carlota (a) es consecuencialista, ya que se enfoca en los resultados positivos (orden, limpieza). El de Ana (c) se basa en la ética de la virtud, pues se centra en el carácter moral de quien actúa ('nos hace mejores personas'). El de Gloria (b) es puramente deontológico: la razón para actuar es el deber mismo ('brindar protección a quien sufre es lo que corresponde hacer').",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+
+
+    {
+      "idGrupo": "asc_dpcc_2024_p49",
+      "contexto": "Como parte de una experiencia de aprendizaje, los estudiantes han identificado diversos\nasuntos públicos en la localidad donde se ubica la IE. Varios estudiantes se han interesado\npor la sobrepoblación de perros y gatos que viven en las calles de dicha localidad. En este\ncontexto, la docente propone realizar diversas actividades para abordar dicha situación.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Durante el desarrollo de una de las actividades, la docente busca que los estudiantes\nproblematicen el asunto público de la sobrepoblación de perros y gatos que viven en las\ncalles de la localidad. ¿Cuál de las siguientes acciones pedagógicas es más pertinente para\nfavorecer el logro de este propósito?",
+          "opciones": [
+            "Pedir a los estudiantes que averigüen sobre organizaciones, dedicadas al cuidado de\nanimales de la calle, de otras localidades que hayan tenido éxito. Luego, pedirles que\nidentifiquen qué acciones realizaron estas organizaciones para alcanzar dicho éxito.\nFinalmente, preguntarles si es posible replicar dichas acciones en la localidad de la IE.",
+            "Pedir a los estudiantes que comenten, de acuerdo con lo que han visto en la localidad,\nsus impresiones sobre la sobrepoblación de perros y gatos. Luego, mencionarles que\nuna de las causas de esta problemática es el abandono de estos animales. Finalmente,\npedirles que comenten por qué dicho abandono es un problema ético.",
+            "Pedir a los estudiantes que entrevisten a un veterinario sobre las causas e impactos de\nla sobrepoblación de perros y gatos. Luego, pedirles que, a partir de lo anterior, realicen\nuna observación en las zonas con dicho problema. Finalmente, pedirles que comenten si\nlas normas que buscan atender esta situación están funcionando."
+          ],
+          "respuesta": "Pedir a los estudiantes que entrevisten a un veterinario sobre las causas e impactos de\nla sobrepoblación de perros y gatos. Luego, pedirles que, a partir de lo anterior, realicen\nuna observación en las zonas con dicho problema. Finalmente, pedirles que comenten si\nlas normas que buscan atender esta situación están funcionando.",
+          "respuestaCorta": "Esta secuencia problematiza el asunto público de forma integral, combinando la consulta a una fuente experta (veterinario), la constatación directa de la realidad (observación) y el análisis de las políticas existentes (evaluación de normas).",
+          "solucionario": "Problematizar implica investigar un asunto desde diversas aristas para comprender su complejidad. La opción 'a' se centra en buscar soluciones sin haber profundizado en el problema local. La opción 'b' es muy dirigida por la docente, quien da una de las causas y sesga el análisis hacia lo ético. La opción 'c' es la más completa y autónoma: combina investigación con una fuente calificada, trabajo de campo para contrastar la información y análisis crítico de las respuestas institucionales al problema, permitiendo una comprensión profunda y multidimensional del asunto público.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Un grupo de estudiantes ha identificado que la esterilización de perros y gatos de la calle puede\ncolaborar con el control de la población de dichos animales. Por ello, han creído conveniente\nrealizar una acción de participación para sensibilizar a la localidad sobre la importancia de\nla esterilización para abordar el problema de la sobrepoblación de estos animales. Para ello,\nhan solicitado ayuda a la docente. En ese contexto, la docente busca guiar a los estudiantes para que realicen una acción de\nparticipación. ¿Cuál de las siguientes acciones pedagógicas es más pertinente para ello?",
+          "opciones": [
+            "Sugerir a los estudiantes que averigüen qué piensan los vecinos sobre la sobrepoblación\nde perros y gatos de las calles. Luego, pedirles que, a partir de lo anterior, elaboren una\nestrategia para comunicar la necesidad de organizarse para esterilizar a estos animales.\nPor último, pedirles que planteen tareas y responsabilidades para realizar la estrategia.",
+            "Sugerir a los estudiantes que averigüen, en distintas fuentes, si en su localidad se realizan\ncampañas de esterilización. Luego, pedirles que busquen iniciativas para promover la\nesterilización realizadas en localidades con problemáticas similares. Por último, indicarles\nque realicen un video con la información recopilada y lo muestren en el aula.",
+            "Sugerir a los estudiantes que averigüen cuáles son los métodos más eficientes para\nesterilizar perros y gatos de la calle. Luego, pedirles que averigüen si hay municipalidades\nque implementan estos métodos en sus campañas de esterilización. Por último, pedirles\nque elaboren un texto en el que sistematicen dicha información."
+          ],
+          "respuesta": "Sugerir a los estudiantes que averigüen qué piensan los vecinos sobre la sobrepoblación\nde perros y gatos de las calles. Luego, pedirles que, a partir de lo anterior, elaboren una\nestrategia para comunicar la necesidad de organizarse para esterilizar a estos animales.\nPor último, pedirles que planteen tareas y responsabilidades para realizar la estrategia.",
+          "respuestaCorta": "Esta secuencia guía una acción de participación efectiva al partir de un diagnóstico de la comunidad, para luego diseñar una estrategia de comunicación y culminar con una planificación concreta de la acción.",
+          "solucionario": "Una acción de participación ciudadana busca incidir en la comunidad. Las opciones 'b' y 'c' se quedan en la fase de investigación y sistematización, sin una acción concreta dirigida al exterior. La opción 'a' guía el proceso completo de participación: 1) Diagnóstico (conocer la percepción de los vecinos), 2) Diseño estratégico (cómo comunicar y organizar) y 3) Planificación (definir tareas y roles). Este es el camino más pertinente para que una iniciativa estudiantil se convierta en una verdadera acción de participación.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_dpcc_2024_p51",
+      "contexto": "Durante una revisión de noticias de la semana, los estudiantes conversan con la docente\nacerca de una noticia que menciona que un conocido periodista ha sido sentenciado por\ndifundir en un canal de televisión información sensible sobre la vida privada de un cantante\nconocido, hecho que puso en riesgo a los familiares de este. En ese contexto, luego de\nanalizar el caso y tomar una postura sobre este, los estudiantes intercambian sus opiniones\nal respecto.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes estudiantes explica mejor los límites éticos de la libertad de expresión?",
+          "opciones": [
+            "Alicia dice: \"Esta es una forma de atentar contra el derecho a la libertad de expresión\nde quienes tienen la función social de informar a la comunidad, como es el caso de este\nperiodista; y eso afecta a la democracia. Por eso, creo que esta sentencia es incorrecta\".",
+            "Bernardo dice: \"La libertad de expresión es necesaria en una democracia. Sin embargo,\nsi el periodista, al ejercer su derecho a la libertad de expresión, puso en riesgo a la familia\ndel cantante, es necesario que haya una sanción como la de esta sentencia\".",
+            "Carol dice: \"Para mí, sentencias como estas son muy importantes en una democracia. Por\nejemplo, que se dé esta sentencia le permite al canal asegurar sus intereses económicos\ny proteger su confiabilidad despidiendo al periodista\"."
+          ],
+          "respuesta": "Bernardo dice: \"La libertad de expresión es necesaria en una democracia. Sin embargo,\nsi el periodista, al ejercer su derecho a la libertad de expresión, puso en riesgo a la familia\ndel cantante, es necesario que haya una sanción como la de esta sentencia\".",
+          "respuestaCorta": "Bernardo explica correctamente que el límite ético de la libertad de expresión es el derecho de los demás; en este caso, el derecho a la seguridad y a la vida, que fue puesto en riesgo.",
+          "solucionario": "La libertad de expresión, como todo derecho, no es absoluta. Su principal límite es el respeto a los derechos de las demás personas. Alicia (a) defiende una libertad de expresión sin límites. Carol (c) se enfoca en los intereses económicos de la empresa, no en el principio ético. Bernardo (b) articula correctamente el principio: reconoce la importancia del derecho ('es necesaria'), pero establece su límite cuando su ejercicio causa un daño o pone en riesgo a otros, justificando así la necesidad de una sanción.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_dpcc_2024_p52",
+      "contexto": "Una docente de cuarto grado quiere promover en sus estudiantes la capacidad de autorregular\nsus emociones.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes actividades NO es pertinente para el desarrollo de\nesta capacidad?",
+          "opciones": [
+            "Generar distintas situaciones en las que los estudiantes, al afrontar algún reto,\ndeban utilizar una estrategia pertinente para inhibir sus emociones y así asegurar el\nmantenimiento de buenas relaciones con los otros.",
+            "Solicitar a los estudiantes que a lo largo de un día identifiquen eventos y describan sus\nemociones, explicando posibles causas y consecuencias a través del medio que ellos\nmismos elijan.",
+            "Plantear a los estudiantes que practiquen ejercicios de respiración para que aprendan a\nregular emociones fuertes como la cólera, el miedo o la tristeza."
+          ],
+          "respuesta": "Generar distintas situaciones en las que los estudiantes, al afrontar algún reto,\ndeban utilizar una estrategia pertinente para inhibir sus emociones y así asegurar el\nmantenimiento de buenas relaciones con los otros.",
+          "respuestaCorta": "Esta actividad no es pertinente porque la autorregulación emocional no busca inhibir (suprimir o reprimir) las emociones, sino gestionarlas y expresarlas de manera adecuada.",
+          "solucionario": "La autorregulación emocional implica la gestión consciente de las emociones, no su anulación. Las actividades 'b' (identificar y analizar emociones) y 'c' (usar técnicas como la respiración) son estrategias válidas para la gestión emocional. La actividad 'a' es incorrecta porque promueve la 'inhibición' de las emociones. Reprimir o suprimir las emociones es contraproducente para la salud mental y no constituye una estrategia saludable de autorregulación.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_dpcc_2024_p53",
+      "contexto": "Un docente nota que dos estudiantes mantienen un conflicto y, aunque en varias ocasiones\nhan intentado resolverlo, no lo han logrado. Cada vez que ellos lo intentan, terminan siempre\ndiscutiendo. Por ello, el docente considera pertinente asistirlos adoptando el rol de mediador\npara que ellos mismos puedan resolver dicho conflicto.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes alternativas describe el rol de mediador?",
+          "opciones": [
+            "Identificar al estudiante que es causante de los desacuerdos y altercados, con la finalidad\nde hacer cumplir las normas de conducta para restaurar el orden en la IE y evitar que el\nconflicto se reactive.",
+            "Escuchar las posiciones de los estudiantes y evaluarlas imparcialmente para determinar\nla responsabilidad de cada uno de ellos y presentarles una solución que sea justa para\nambos.",
+            "Reunir a los estudiantes en un espacio tranquilo y plantear pautas para el diálogo, a fin\nde generar un clima de confianza que promueva que ellos resuelvan su conflicto."
+          ],
+          "respuesta": "Reunir a los estudiantes en un espacio tranquilo y plantear pautas para el diálogo, a fin\nde generar un clima de confianza que promueva que ellos resuelvan su conflicto.",
+          "respuestaCorta": "El rol del mediador es ser un facilitador neutral que crea las condiciones adecuadas (espacio, pautas, confianza) para que las partes en conflicto puedan comunicarse y encontrar su propia solución.",
+          "solucionario": "El mediador no es un juez ni un árbitro. La opción 'a' describe un rol disciplinario. La opción 'b' describe el rol de un árbitro, que escucha y decide por las partes. La opción 'c' describe correctamente el rol del mediador: es un tercero imparcial que no impone una solución, sino que facilita el proceso ('genera un clima de confianza', 'plantea pautas para el diálogo') para que sean los propios involucrados quienes 'resuelvan su conflicto'.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_dpcc_2024_p54",
+      "contexto": "Los estudiantes están realizando una experiencia de aprendizaje llamada \"Los desafíos y\ncompromisos de la diversidad cultural en el Perú\". Para una de las actividades, los estudiantes\nhan realizado una revisión bibliográfica sobre las características y el propósito de la educación\nintercultural bilingüe en el país. En dicho contexto, los estudiantes realizan distintos\ncomentarios sobre sus hallazgos.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿En cuál de los siguientes comentarios de los estudiantes se evidencia un análisis de la\nsituación a partir de la consideración del enfoque de derechos del Currículo Nacional de la\nEducación Básica?",
+          "opciones": [
+            "Bárbara dice: \"Creo que para el Estado es difícil atender las necesidades de los hablantes\nde las diversas lenguas que hay en el país. Sin embargo, tiene que ofrecer y asegurar las\nmismas oportunidades dadas a las escuelas de lenguas no originarias y adaptarse a las\ncondiciones que los hablantes de cada lengua originaria necesitan\".",
+            "Carolina dice: \"Sería interesante que cada hablante pueda estudiar en su lengua, pero, si\nno se enseña español, los jóvenes estarían excluidos de las oportunidades de estudio y de\ntrabajo futuros. El Estado tiene que esforzarse sobre todo en asegurar esas posibilidades\nde estudio y trabajo a través de la enseñanza del español\".",
+            "Aníbal dice: \"Pienso que lo más justo es que el Estado distribuya sus esfuerzos en brindar\neducación según la cantidad de hablantes de cada lengua. Por ello, creo que se debe\npriorizar la atención y creación de servicios para las lenguas con mayor cantidad de\nhablantes\"."
+          ],
+          "respuesta": "Bárbara dice: \"Creo que para el Estado es difícil atender las necesidades de los hablantes\nde las diversas lenguas que hay en el país. Sin embargo, tiene que ofrecer y asegurar las\nmismas oportunidades dadas a las escuelas de lenguas no originarias y adaptarse a las\ncondiciones que los hablantes de cada lengua originaria necesitan\".",
+          "respuestaCorta": "Bárbara aplica el enfoque de derechos al reconocer que el Estado tiene el deber de garantizar el derecho a la educación en igualdad de oportunidades para todos, adaptando los servicios a las necesidades específicas de las poblaciones con lenguas originarias.",
+          "solucionario": "El enfoque de derechos se basa en la igualdad y la no discriminación, sosteniendo que el Estado debe garantizar los derechos para todos. Carolina (b) subordina el derecho a la educación en lengua materna a la conveniencia del mercado. Aníbal (c) propone una lógica utilitarista (atender a las mayorías) que podría vulnerar los derechos de las minorías. Bárbara (a) es la que mejor aplica el enfoque: reconoce la obligación del Estado de 'asegurar las mismas oportunidades' para todos (principio de igualdad) y la necesidad de 'adaptarse a las condiciones' de los hablantes de lenguas originarias (principio de equidad).",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_dpcc_2024_p55",
+      "contexto": "Los docentes se encuentran realizando un taller de desarrollo adolescente dirigido a familias.\nEn ese contexto, un docente va a abordar la toma de decisiones durante la adolescencia.\nAntes de iniciar, el docente les pide a los participantes que planteen situaciones en las que se\nevidencie una forma adecuada de acompañar a los adolescentes en la toma de sus decisiones.\nAlgunos participantes comentan al respecto.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes intervenciones\ncorresponde a un estilo parental que favorece mejor el desarrollo adolescente?",
+          "opciones": [
+            "Carla dice: \"Yo siempre estoy atenta a las decisiones de mi sobrina de quince años. Tengo\nque decirle cuáles son los límites que existen para hacer cosas, cuáles son las opciones\nque hay e indicarle cuál es la mejor para que aprenda. Creo que, como cualquier\nadolescente, no está lista para tomar decisiones importantes por sí sola\".",
+            "Rosa dice: \"En mi caso, mi hijo de quince años es totalmente independiente, como deben\nser los chicos de esa edad. Yo escucho las decisiones que él toma y respeto lo que dice.\nMe doy cuenta de que a veces se equivoca, pero no intervengo porque quiero que así\ndesarrolle su autonomía y descubra sus límites para hacer sus cosas\".",
+            "Patricio dice: \"Mi nieta tiene quince años. A veces, noto que quiere hacer todo sola,\notras veces recurre a mí para pedirme consejo. Sé que está aprendiendo a tomar sus\ndecisiones; por eso, trato de darle espacio para que ella decida, pero también hemos\nconversado sobre la importancia de respetar ciertos límites\"."
+          ],
+          "respuesta": "Patricio dice: \"Mi nieta tiene quince años. A veces, noto que quiere hacer todo sola,\notras veces recurre a mí para pedirme consejo. Sé que está aprendiendo a tomar sus\ndecisiones; por eso, trato de darle espacio para que ella decida, pero también hemos\nconversado sobre la importancia de respetar ciertos límites\".",
+          "respuestaCorta": "Patricio describe un estilo democrático o autoritativo, que es el más favorable, ya que equilibra la autonomía del adolescente ('darle espacio para que ella decida') con el establecimiento de límites claros y dialogados.",
+          "solucionario": "El estilo parental más beneficioso para el desarrollo adolescente es el democrático o con autoridad, que combina altos niveles de afecto y comunicación con límites firmes. Carla (a) describe un estilo autoritario, donde ella impone las decisiones. Rosa (b) describe un estilo permisivo o negligente, donde hay una ausencia de límites y guía. Patricio (c) describe el estilo democrático: respeta y fomenta la autonomía del adolescente, pero al mismo tiempo mantiene un marco de límites conversados y claros, logrando el equilibrio ideal.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_dpcc_2024_p56",
+      "contexto": "En la localidad donde está ubicada la IE, se ha incrementado aceleradamente el número\nde inmigrantes. Eso ha generado diversas reacciones en la población. Algunas de ellas\nreflejan prejuicios y estereotipos. Ante esa situación, una docente desea que los estudiantes\nreflexionen críticamente sobre dichos prejuicios y estereotipos.\nPara ello, la docente inicia la sesión mostrando los siguientes titulares de los diarios de la\nlocalidad:\n\n\"Con la llegada de los migrantes la delincuencia se ha incrementado en la ciudad\".\n\"Un inmigrante de 24 años reaccionó violentamente tras una broma callejera\".\n\"Se denuncian robos a mano armada por banda de extranjeros\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes actividades es adecuada para cumplir el propósito de la docente?",
+          "opciones": [
+            "Pedir a los estudiantes que busquen otras noticias que expliquen el incremento de la\ndelincuencia en la ciudad; luego, solicitarles que señalen todas las causas probables de\nla delincuencia, además de la inmigración; finalmente, pedirles que elaboren posibles\nsoluciones al problema de la delincuencia.",
+            "Pedir a los estudiantes que analicen qué idea expresan los titulares acerca de los\ninmigrantes; luego, solicitarles que evalúen si los titulares trasmiten una idea que puede\nser generalizada a todos los inmigrantes y por qué; finalmente, pedirles que discutan, en\nplenaria, cómo es que el lenguaje utilizado en los titulares configura una imagen de los\ninmigrantes.",
+            "Pedir a los estudiantes que expliquen cómo se sentirían al leer los titulares presentados\nsi fueran inmigrantes y por qué; luego, solicitarles que evalúen qué condiciones se\ndeberían mejorar en la localidad para que los inmigrantes abandonen la delincuencia;\nfinalmente, pedirles que discutan en grupos cómo se podría mejorar la percepción sobre\nlos inmigrantes."
+          ],
+          "respuesta": "Pedir a los estudiantes que analicen qué idea expresan los titulares acerca de los\ninmigrantes; luego, solicitarles que evalúen si los titulares trasmiten una idea que puede\nser generalizada a todos los inmigrantes y por qué; finalmente, pedirles que discutan, en\nplenaria, cómo es que el lenguaje utilizado en los titulares configura una imagen de los\ninmigrantes.",
+          "respuestaCorta": "Esta actividad promueve la reflexión crítica sobre prejuicios al guiar a los estudiantes a deconstruir los mensajes mediáticos: identificando la idea subyacente, cuestionando su generalización (la base del estereotipo) y analizando el poder del lenguaje para crear imágenes sociales.",
+          "solucionario": "El propósito es reflexionar críticamente sobre 'prejuicios y estereotipos'. La opción 'a' desvía el foco al problema de la delincuencia en general. La opción 'c' se centra en la empatía y la búsqueda de soluciones, pero no en el análisis crítico del prejuicio en sí. La opción 'b' es la más adecuada porque ataca directamente la construcción del estereotipo: 1) Analiza la idea que transmiten los medios. 2) Cuestiona la validez de generalizar esa idea a todo un colectivo. 3) Reflexiona sobre cómo el lenguaje mediático construye y refuerza esa imagen prejuiciosa.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_dpcc_2024_p57",
+      "contexto": "Durante una reunión, un grupo de docentes está planteando propuestas sobre cómo enfocar\nlas actividades académicas para promover el desarrollo de la autorregulación académica de\nlos estudiantes.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes propuestas docentes es más pertinente para promover el logro de\ndicho propósito?",
+          "opciones": [
+            "Alba dice: \"Pienso que es central que los estudiantes sean conscientes de la importancia\nde cumplir con su responsabilidad frente a los trabajos académicos. Para ello, debemos\nayudarlos a que reconozcan que el incumplimiento de sus trabajos académicos puede\nacarrear tanto sanciones como la pérdida de aprendizajes\".",
+            "Beatriz dice: \"Para mí, lo más importante para promover la autorregulación es que\nlos estudiantes incrementen su motivación para el trabajo académico. Para lograrlo,\ndebemos destacar sus logros en cada actividad académica y, así, hacerlos sentir más\nseguros de sí mismos para lograr los objetivos de aprendizaje\".",
+            "Carmen dice: \"Creo que es esencial que los estudiantes reconozcan cuál es el objetivo de\ncada trabajo académico, la importancia que este tiene y con qué capacidades cuentan\npara lograrlo. En esa línea, debemos promover que ellos realicen procesos de reflexión\nen los que, además, evalúen sus estrategias de aprendizaje\"."
+          ],
+          "respuesta": "Carmen dice: \"Creo que es esencial que los estudiantes reconozcan cuál es el objetivo de\ncada trabajo académico, la importancia que este tiene y con qué capacidades cuentan\npara lograrlo. En esa línea, debemos promover que ellos realicen procesos de reflexión\nen los que, además, evalúen sus estrategias de aprendizaje\".",
+          "respuestaCorta": "La propuesta de Carmen es la más pertinente porque aborda los componentes clave de la autorregulación académica: la planificación (reconocer objetivos y capacidades) y la supervisión o monitoreo (evaluar las propias estrategias).",
+          "solucionario": "La autorregulación académica es un proceso cíclico que incluye planificación, ejecución y autoevaluación. La propuesta de Alba (a) se centra en la motivación extrínseca (evitar sanciones). La de Beatriz (b) se enfoca en la motivación y la autoeficacia, que son importantes pero no abarcan todo el proceso. La de Carmen (c) es la más completa porque integra las fases clave del ciclo de autorregulación: la planificación (reconocer objetivos, importancia y capacidades) y la autoevaluación metacognitiva ('evalúen sus estrategias de aprendizaje').",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_dpcc_2024_p58",
+      "contexto": "Durante una sesión de aprendizaje, la docente realiza la siguiente actividad:\n\nLes presenta a los estudiantes la siguiente situación hipotética:\nCristóbal ha presenciado que un grupo de sus compañeros le ha estado haciendo\nbullying a uno de los estudiantes nuevos del salón. Sabe que sus compañeros están\nactuando en contra de las normas de convivencia de la IE, pero cree que debe\nanalizar la situación con detenimiento antes de decidir qué debe hacer, pues no\nsabe si intervenir directamente o avisarle de esta situación al docente.\n\nLuego, la docente les pide que indiquen si creen que Cristóbal debería tomarse un\ntiempo para analizar la situación y por qué. Posteriormente, dialoga con ellos sobre\nqué criterios, vinculados con la convivencia, debería tomar en cuenta Cristóbal para\nevaluar sus posibles acciones frente al caso de bullying que ha presenciado y cuáles\nserían las consecuencias de estas.\n\nFinalmente, les indica que, de manera individual, piensen en una experiencia\npersonal en la que se hayan encontrado en una situación similar a la de Cristóbal\ny la evalúen utilizando los mismos criterios que usaron para evaluar la situación\nhipotética de Cristóbal.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Si el propósito de la docente es promover la reflexión ética de los estudiantes, ¿por qué la\nactividad es pertinente?",
+          "opciones": [
+            "Porque favorece que los estudiantes, al hacer el ejercicio de considerar posibles acciones\nfrente a una situación, conciban que el proceso de toma de decisiones debe tener en\ncuenta el impacto que estas tendrían en sus vidas y en la de los otros.",
+            "Porque permite que los estudiantes, al considerar las normas de convivencia como parte\ndel proceso de toma de decisiones, cuenten con una herramienta que les permita tomar\ndecisiones correctas.",
+            "Porque promueve que los estudiantes, al ponerse en el lugar del personaje de la situación,\ndesarrollen la empatía, la cual es indispensable para tomar decisiones moralmente\ncorrectas."
+          ],
+          "respuesta": "Porque favorece que los estudiantes, al hacer el ejercicio de considerar posibles acciones\nfrente a una situación, conciban que el proceso de toma de decisiones debe tener en\ncuenta el impacto que estas tendrían en sus vidas y en la de los otros.",
+          "respuestaCorta": "La actividad promueve la reflexión ética porque entrena a los estudiantes en el análisis de las consecuencias de sus acciones para sí mismos y para los demás, un pilar del razonamiento moral.",
+          "solucionario": "La reflexión ética implica deliberar sobre las acciones y sus consecuencias en función de principios y valores. Si bien la actividad toca las normas (b) y la empatía (c), su núcleo y pertinencia radican en el proceso que guía: analizar una situación, evaluar posibles acciones y, crucialmente, considerar 'cuáles serían las consecuencias de estas'. Al centrarse en el impacto de las decisiones en uno mismo y en los otros, la actividad desarrolla el razonamiento consecuencialista, que es una dimensión fundamental de la reflexión ética.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_dpcc_2024_p59",
+      "contexto": "Durante una sesión de aprendizaje, en la que los estudiantes están compartiendo las\nnoticias y artículos que más les han llamado la atención durante la semana, una estudiante\ncomparte el siguiente texto:\n\nEl problema del karoshi en Japón\n\nUna periodista de 31 años falleció en Japón como resultado de una insuficiencia\ncardíaca tras trabajar 159 horas extra al mes y contar con solo dos días libres en el\nmes previo a su muerte. La autoridad laboral de Tokyo estableció que Miwa Sado,\nperiodista de la cadena pública NHK, murió por consecuencia directa de sus largas\njornadas laborales y falta de descanso.\nSin embargo, no fue sino hasta un año después que el medio de comunicación\nreconoció públicamente que el karoshi (muerte por exceso de trabajo) fue la causa del\nfallecimiento. Lo hizo por petición expresa de la familia de su trabajadora, que desea\nque no se vuelva a repetir un caso como este. \"Esperamos que el dolor de una familia\ndesolada no sea desperdiciado\", declararon sus padres en un comunicado de NHK.\nMás de 2000 japoneses se suicidaron debido al estrés relacionado con el trabajo\nentre marzo de 2015 y marzo de 2016, segundo el gobierno japonés. Muchos otros\nsufrieron ataques cardíacos, infartos y otras condiciones vinculadas a la presión vivida\nen el trabajo. Según el gobierno, casi la cuarta parte de las compañías japonesas tiene a sus\nempleados trabajando más de 80 horas extra al mes, en ocasiones, no remuneradas.\nCada año, el gobierno recibe unas 2000 reclamaciones de compensación por\nsupuestos casos de karoshi, de las que sólo un 37% son exitosas. En ese sentido,\nlos esfuerzos del gobierno por reconducir el problema del karoshi no pueden ser\ndescritos como exitosos.\nAdaptado de BBC Mundo (2017). \"La joven que falleció en Japón tras trabajar 159 horas extra en un mes\ny cuya muerte reabrió el debate sobre el 'karoshi\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Luego de haber leído el texto presentado por su compañera, los estudiantes se mostraron\ninteresados en profundizar acerca del karoshi. Por ello, la docente busca que los estudiantes\nidentifiquen asuntos públicos implicados en este texto. ¿Cuál de los siguientes conjuntos de\npreguntas es más pertinente para el logro de dicho propósito?",
+          "opciones": [
+            "¿Qué significa la palabra karoshi de acuerdo con el texto? ¿Qué porcentaje de las\nempresas japonesas tienen a sus empleados trabajando más de 80 horas extra al mes,\nsegún el texto?",
+            "¿Cómo calificarían la reacción que tuvo la cadena NHK ante el fallecimiento de su\nperiodista? ¿En qué momento dicha cadena se pronunció respecto de las causas de la\nmuerte de su trabajadora?",
+            "¿Qué consecuencias sociales consideran que tiene privilegiar la sobrexigencia\nlaboral en Japón? ¿Cómo creen que impacta en la sociedad que los reclamos ante el\ngobierno japonés no tengan éxito?"
+          ],
+          "respuesta": "¿Qué consecuencias sociales consideran que tiene privilegiar la sobrexigencia\nlaboral en Japón? ¿Cómo creen que impacta en la sociedad que los reclamos ante el\ngobierno japonés no tengan éxito?",
+          "respuestaCorta": "Este conjunto de preguntas es el más pertinente porque orienta a los estudiantes a analizar las dimensiones colectivas y el impacto en la sociedad del problema, que son las características de un asunto público.",
+          "solucionario": "Un asunto público es un problema que trasciende lo individual y afecta al bienestar de la colectividad. Las preguntas de la opción 'a' son de comprensión lectora. Las de la opción 'b' se centran en la conducta de un actor específico. Las preguntas de la opción 'c' son las que mejor apuntan a la dimensión pública del problema, al indagar por las 'consecuencias sociales' de una práctica laboral y el 'impacto en la sociedad' de la falta de respuesta institucional, llevando la reflexión del caso particular a la problemática social general.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Luego de que los estudiantes han identificado asuntos públicos a partir del texto, la docente\nbusca que los problematicen. ¿Cuál de las siguientes acciones pedagógicas es más pertinente\npara promover el logro de dicho propósito?",
+          "opciones": [
+            "Presentar a los estudiantes el testimonio de un trabajador japonés contando por\nqué realiza tantas horas extra y por qué lo hace frecuentemente. Luego, pedirles que\nidentifiquen, en base al testimonio, qué factores sociales causarían esta problemática.\nFinalmente, pedirles que indaguen qué razones explicarían dichos factores.",
+            "Dialogar con los estudiantes sobre cuáles son los factores sociales que influyen en la\nexistencia de condiciones de sobrexigencia laboral de los japoneses. Luego, indicarles\ncómo debería intervenir el gobierno japonés para abordar dichos factores. Finalmente,\nindicarles cuáles serían los impactos sociales si dichos factores no se atienden.",
+            "Mostrar a los estudiantes el trabajo de organizaciones que abordan los factores sociales\nque causan problemáticas laborales como el karoshi. Luego, comentarles los logros que\nobtuvieron estas organizaciones hasta el momento. Finalmente, pedirles que sustenten\nla importancia de estas organizaciones para combatir problemáticas como el karoshi."
+          ],
+          "respuesta": "Presentar a los estudiantes el testimonio de un trabajador japonés contando por\nqué realiza tantas horas extra y por qué lo hace frecuentemente. Luego, pedirles que\nidentifiquen, en base al testimonio, qué factores sociales causarían esta problemática.\nFinalmente, pedirles que indaguen qué razones explicarían dichos factores.",
+          "respuestaCorta": "Esta actividad problematiza el asunto al partir de un caso concreto (testimonio) para guiar a los estudiantes a identificar y luego investigar las causas estructurales y sociales subyacentes.",
+          "solucionario": "Problematizar un asunto público implica profundizar en sus causas y complejidad. La opción 'b' es expositiva, ya que la docente 'indica' las respuestas en lugar de guiar a los estudiantes para que las descubran. La opción 'c' se centra en las soluciones (organizaciones) antes de haber profundizado en el problema. La opción 'a' es la más pertinente porque guía un proceso de indagación inductivo: parte de lo particular (un testimonio) para que los estudiantes identifiquen 'factores sociales' y luego los impulsa a 'indagar qué razones explicarían dichos factores', promoviendo una comprensión profunda de las raíces del problema.",
+          "seccion": "Casuística"
+        }
+      ]
+    }
+  ]
+}
+  
