@@ -1067,6 +1067,32 @@
     "archivos": {
       "especifico": "data/ascenso/secundaria/2024/ascenso_dpcc2024.json"
     }
+  },
+  {
+    "id": 94,
+    "proceso": "Ascenso",
+    "anio": 2024,
+    "nivel": "Secundaria",
+    "especialidad": "Ciencias Sociales ",
+    "modalidad": "EBR",
+    "preguntas": 60,
+    "tiempo": 180,
+    "archivos": {
+      "especifico": "data/ascenso/secundaria/2024/ascenso_sociales2024.json"
+    }
+  },
+  {
+    "id": 95,
+    "proceso": "Ascenso",
+    "anio": 2024,
+    "nivel": "Secundaria",
+    "especialidad": "Matemática ",
+    "modalidad": "EBR",
+    "preguntas": 60,
+    "tiempo": 180,
+    "archivos": {
+      "especifico": "data/ascenso/secundaria/2024/ascenso_matematica2024.json"
+    }
   }
 
 
