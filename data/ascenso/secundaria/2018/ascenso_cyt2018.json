@@ -907,19 +907,19 @@
     },
     {
       "idGrupo": "asc_secundaria_2018_p57",
-      "contexto": null,
+      "contexto": "Un estudiante realiza la siguiente pregunta:\n\n\"¿Por qué los caparazones de los animales marinos no se disuelven en el agua si están hechos de carbonato de calcio que también es una sal como la sal de cocina?\".",
       "imagen": null,
       "preguntas": [
         {
-          "pregunta": "Un estudiante realiza la siguiente pregunta:\n\"¿Por qué los caparazones de los animales marinos no se disuelven en el agua si están hechos de carbonato de calcio que también es una sal como la sal de cocina?\".\n¿Cuál de los siguientes factores determina la diferencia en el comportamiento de ambas sales?",
+          "pregunta": "¿Cuál de los siguientes factores determina la diferencia en el comportamiento de ambas sales?",
           "opciones": [
-            "La diferencia en el tipo de enlace del NaCl y del CaCO3",
-            "La diferencia en el tamaño de los iones del  NaCl y del CaCO3",
-            "La diferencia en las cargas de los iones del  NaCl y del CaCO3"
+            "La diferencia en el tipo de enlace del NaCl y del CaCO₃",
+            "La diferencia en el tamaño de los iones del NaCl y del CaCO₃",
+            "La diferencia en las cargas de los iones del NaCl y del CaCO₃"
           ],
-          "respuesta": "La diferencia en las cargas de los iones del NaCl y del  NaCl y del CaCO3",
-          "respuestaCorta": "La mayor magnitud de las cargas de los iones en el CaCO₃ (Ca²⁺ y CO₃²⁻) en comparación con el NaCl (Na⁺ y Cl⁻) resulta en una atracción electrostática mucho más fuerte dentro de la red cristalina, lo que dificulta enormemente su disolución por parte del agua.",
-          "solucionario": "La solubilidad de un compuesto iónico depende de un equilibrio entre la energía reticular (que mantiene unidos a los iones en el cristal) y la energía de hidratación. Según la ley de Coulomb, la fuerza de atracción electrostática es directamente proporcional al producto de las cargas. El NaCl está compuesto por iones de carga +1 y -1, mientras que el $CaCO_{3}$ está compuesto por iones de carga +2 y -2. La atracción entre los iones en el cristal de $CaCO_{3}$ es, por tanto, mucho más fuerte, lo que resulta en una energía reticular muy alta que las moléculas de agua no pueden superar fácilmente. Esto explica su baja solubilidad.",
+          "respuesta": "La diferencia en las cargas de los iones del NaCl y del CaCO₃",
+          "respuestaCorta": "La solubilidad depende de la energía de red del compuesto. Las cargas de los iones del carbonato de calcio (Ca²⁺ y CO₃²⁻) son mayores que las del cloruro de sodio (Na⁺ y Cl⁻), lo que genera una atracción electrostática mucho más fuerte y, por lo tanto, una menor solubilidad en agua.",
+          "solucionario": "La solubilidad de un compuesto iónico depende de un equilibrio entre la energía de red (la fuerza que mantiene unidos a los iones en el cristal) y la energía de hidratación (la atracción entre los iones y las moléculas de agua). La energía de red es directamente proporcional al producto de las cargas de los iones. En el NaCl, los iones son Na⁺ y Cl⁻ (cargas +1 y -1). En el CaCO₃, los iones son Ca²⁺ y CO₃²⁻ (cargas +2 y -2). El producto de las cargas en CaCO₃ (|-4|) es cuatro veces mayor que en NaCl (|-1|), lo que resulta en una energía de red significativamente más alta. Esta fuerte atracción hace que sea muy difícil para las moléculas de agua separar los iones, explicando por qué el CaCO₃ es prácticamente insoluble en comparación con el NaCl.",
           "seccion": "Casuística"
         }
       ]
