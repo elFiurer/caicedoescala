@@ -69,8 +69,8 @@
     },
     {
       "idGrupo": "asc_secundaria_2024_p06",
-      "contexto": "Una docente se encuentra desarrollando una unidad didáctica sobre los cuidados de la salud. En ese contexto, en una de las sesiones, un equipo de estudiantes presenta la siguiente propuesta de indagación sobre la protección que brindan los bloqueadores solares:\n1. Conseguir los siguientes materiales: dos hojas de papel periódico, dos micas de plástico transparente, un plumón indeleble, tijera, una crema hidratante y muestras de dos bloqueadores solares de diferente marca comercial, pero con el mismo factor de protección solar. Usaremos crema hidratante como muestra porque, usualmente, los bloqueadores solares contienen crema hidratante como parte de su composición.\n2. Cortar y colocar una hoja de papel periódico dentro de una mica. La mica y la hoja de papel deben tener las mismas dimensiones.\n3. Dividir el área de la mica en cuatro zonas de igual tamaño y, con el plumón indeleble, rotular cada zona como \"A\", \"B\", \"C\" y \"D\".\n4. Según las zonas divididas en la mica, realizar las siguientes acciones:\nZona A: No esparcir ninguna muestra\nZona B: Esparcir la muestra de crema hidratante\nZona C: Esparcir la muestra del bloqueador solar de marca 1\nZona D: Esparcir la muestra del bloqueador solar de marca 2\nSe esparcirá la misma cantidad de cada muestra cuidando cubrir toda la zona, de manera uniforme.\n5. Repetir los pasos del 2 al 4 utilizando la otra mica.\n6. Exponer las micas al sol durante tres horas.\n7. Limpiar las micas, observar la apariencia de las zonas en las hojas de papel periódico y registrar estas observaciones.",
-      "imagen": null,
+      "contexto": "Una docente se encuentra desarrollando una unidad didáctica sobre los cuidados de la salud. En ese contexto, en una de las sesiones, un equipo de estudiantes presenta la siguiente propuesta de indagación sobre la protección que brindan los bloqueadores solares:",
+      "imagen": "img/ascenso/secundaria/2024/cyt/2.jpg",
       "preguntas": [
         {
           "pregunta": "¿Cuál de las siguientes es una variable dependiente en la propuesta de indagación presentada por los estudiantes?",
@@ -116,7 +116,9 @@
       "imagen": null,
       "preguntas": [
         {
-          "pregunta": "La radiación ultravioleta (UV), de acuerdo con su longitud de onda, se clasifica en tres tipos:\nTipo de radiación UV: UVA, UVB, UVC\nLongitud de onda: 315-399 nm, 280-314 nm, 100-279 nm\n¿Cuál de los tipos de radiación UV presenta mayor frecuencia?",
+          "contexto": "La radiación ultravioleta (UV), de acuerdo con su longitud de onda, se clasifica en tres tipos:",
+          "imagen":"img/ascenso/secundaria/2024/cyt/3.jpg",
+          "pregunta":"¿Cuál de los tipos de radiación UV presenta mayor frecuencia?",
           "opciones": [
             "UVA",
             "UVB",
@@ -131,8 +133,8 @@
     },
     {
       "idGrupo": "asc_secundaria_2024_p10",
-      "contexto": "Con el propósito de recoger saberes previos de los estudiantes sobre el efecto de los movimientos terrestres, el docente les pide que representen, mediante un dibujo, a qué se debe el cambio de estaciones durante cada año. Un equipo de estudiantes propone la siguiente representación:\n[IMAGEN_02]\nLa Tierra gira alrededor del Sol. Cuando los rayos solares llegan al Perú, es verano y cuando no llegan es invierno.",
-      "imagen": "[IMAGEN_02]",
+      "contexto": "Con el propósito de recoger saberes previos de los estudiantes sobre el efecto de los movimientos terrestres, el docente les pide que representen, mediante un dibujo, a qué se debe el cambio de estaciones durante cada año. Un equipo de estudiantes propone la siguiente representación:",
+      "imagen": "img/ascenso/secundaria/2024/cyt/4.jpg",
       "preguntas": [
         {
           "pregunta": "¿Cuál de los siguientes es uno de los errores que se evidencia en la representación de los estudiantes?",
@@ -202,8 +204,8 @@
     },
     {
       "idGrupo": "asc_secundaria_2024_p14",
-      "contexto": "Un docente se encuentra desarrollando una unidad didáctica sobre las enfermedades infectocontagiosas. Como parte de una de las sesiones de aprendizaje de la unidad, el docente comenta a los estudiantes que las bacterias son minúsculos organismos que se reproducen por división celular, pero este proceso se puede ver afectado por diversos factores. Uno de ellos es la temperatura. En este contexto, el docente presenta a los estudiantes el siguiente gráfico:\n[IMAGEN_03]\nAdaptado de Miller, K. & Levine, J. (2004). Biología. Pearson Prentice Hall.",
-      "imagen": "[IMAGEN_03]",
+      "contexto": "Un docente se encuentra desarrollando una unidad didáctica sobre las enfermedades infectocontagiosas. Como parte de una de las sesiones de aprendizaje de la unidad, el docente comenta a los estudiantes que las bacterias son minúsculos organismos que se reproducen por división celular, pero este proceso se puede ver afectado por diversos factores. Uno de ellos es la temperatura. En este contexto, el docente presenta a los estudiantes el siguiente gráfico:",
+      "imagen": "img/ascenso/secundaria/2024/cyt/5.jpg",
       "preguntas": [
         {
           "pregunta": "El docente tiene como propósito que los estudiantes interpreten información a partir del gráfico presentado. ¿Cuál de los siguientes grupos de preguntas es más pertinente para lograr este propósito?",
@@ -292,7 +294,9 @@
           "seccion": "Casuística"
         },
         {
-          "pregunta": "Luego, la docente pregunta a los estudiantes lo siguiente: \"¿Cuántos gramos de cloruro de zinc se obtienen, si 10 mL de una solución de ácido clorhídrico 6 M reaccionan completamente con zinc metálico?\". Martín, uno de los estudiantes, presenta la siguiente respuesta: 6 mol HCl × (1 mol ZnCl₂ / 2 moles HCl) × (136 g ZnCl₂ / 1 mol ZnCl₂) = 408 g ZnCl₂. La docente tiene como propósito que el estudiante reflexione sobre el error evidenciado en su respuesta. ¿En cuál de los siguientes aspectos la docente debe centrar la retroalimentación?",
+          "contexto": "Luego, la docente pregunta a los estudiantes lo siguiente: \"¿Cuántos gramos de cloruro de zinc se obtienen, si 10 mL de una solución de ácido clorhídrico 6 M reaccionan completamente con zinc metálico?\". Martín, uno de los estudiantes, presenta la siguiente respuesta:  ",
+          "imagen":"img/ascenso/secundaria/2024/cyt/6.jpg",
+          "pregunta":"La docente tiene como propósito que el estudiante reflexione sobre el error evidenciado en su respuesta. ¿En cuál de los siguientes aspectos la docente debe centrar la retroalimentación?",
           "opciones": [
             "En la relación empleada entre la masa y los moles de ZnCl₂",
             "En la proporción utilizada entre los moles de ZnCl₂ y de HCl",
@@ -304,7 +308,9 @@
           "seccion": "Casuística"
         },
         {
-          "pregunta": "Finalmente, la docente plantea la siguiente situación a los estudiantes: \"Si se tienen 100 moles de ácido clorhídrico, ¿cuántos gramos de cloruro de zinc se pueden obtener a partir de ellos?\". Arturo, uno de los estudiantes, presenta la siguiente respuesta: 100 moles HCl × (136 g ZnCl₂ / 1 mol HCl) = 13 600 g ZnCl₂. ¿Cuál de los siguientes grupos de preguntas es pertinente que plantee la docente para que el estudiante reflexione sobre el error evidenciado en su respuesta?",
+          "contexto": "Finalmente, la docente plantea la siguiente situación a los estudiantes: \"Si se tienen 100 moles de ácido clorhídrico, ¿cuántos gramos de cloruro de zinc se pueden obtener a partir de ellos?\". Arturo, uno de los estudiantes, presenta la siguiente respuesta:  ",
+          "imagen":"img/ascenso/secundaria/2024/cyt/7.jpg",
+          "pregunta":"¿Cuál de los siguientes grupos de preguntas es pertinente que plantee la docente para que el estudiante reflexione sobre el error evidenciado en su respuesta?",
           "opciones": [
             "¿Cuántos moles de cloruro de zinc se obtienen a partir de dos moles de ácido clorhídrico?¿Cómo estableciste la equivalencia entre moles de ácido clorhídrico y masa de cloruro de zinc?",
             "¿Cuánta masa hay en 100 moles de ácido clorhídrico? ¿Por qué no empleaste esta proporción en tus cálculos?",
@@ -463,8 +469,8 @@
     },
     {
       "idGrupo": "asc_secundaria_2024_p31",
-      "contexto": "Una científica implementó un equipo cerrado conformado por un tubo de ensayo, agua, plantas de Elodea y un caracol. El caracol, las plantas de Elodea y el agua fueron extraídos de un estanque. En la boca del tubo de ensayo, la científica instaló un tapón al que conectó un sensor para medir la concentración de dióxido de carbono. Además, una computadora estuvo conectada a dicho sensor para registrar los datos que este enviaba. La científica se aseguró de que el caracol cuente con comida suficiente y colocó el equipo en una habitación bien iluminada.\nA continuación, se presenta el dibujo del equipo utilizado por la científica:\n[IMAGEN_04]\nAdaptado de https://www.aqa.org.uk",
-      "imagen": "[IMAGEN_04]",
+      "contexto": "Una científica implementó un equipo cerrado conformado por un tubo de ensayo, agua, plantas de Elodea y un caracol. El caracol, las plantas de Elodea y el agua fueron extraídos de un estanque. En la boca del tubo de ensayo, la científica instaló un tapón al que conectó un sensor para medir la concentración de dióxido de carbono. Además, una computadora estuvo conectada a dicho sensor para registrar los datos que este enviaba. La científica se aseguró de que el caracol cuente con comida suficiente y colocó el equipo en una habitación bien iluminada.\nA continuación, se presenta el dibujo del equipo utilizado por la científica:",
+      "imagen": "img/ascenso/secundaria/2024/cyt/8.jpg",
       "preguntas": [
         {
           "pregunta": "Luego de cinco horas de realizar la investigación, ¿cuál de los siguientes resultados es más probable que obtenga la científica?",
@@ -589,8 +595,8 @@
     },
     {
       "idGrupo": "asc_secundaria_2024_p39",
-      "contexto": "El petróleo\nEl petróleo, también conocido como \"oro negro\", es una mezcla de hidrocarburos provenientes de restos orgánicos fósiles, acumulados por millones de años debajo de los océanos o continentes y sometidos a procesos químicos, favorecidos por alta presión y temperatura. Para aprovechar este recurso, la actividad petrolera realiza varios pasos: exploración, explotación, refinación, transporte, almacenamiento y servicio de apoyo del petróleo. Esto hace posible contar con una amplia variedad de productos comerciales, como por ejemplo combustibles, lubricantes, parafinas, entre otros.\nA continuación, se presenta una tabla con el punto de ebullición de algunos de los hidrocarburos presentes en el petróleo.\n[TABLA_01]\nDado que los hidrocarburos presentes en el petróleo tienen diferentes puntos de ebullición, estos se pueden separar y ser comercializados individualmente. Para poder separarlos, el crudo de petróleo debe pasar por un proceso que se realiza en una torre de fraccionamiento. Esta torre presenta un horno en su base y una columna de enfriamiento.\nEl proceso consiste en calentar el crudo de petróleo hasta 400 °C y hacer pasar a través de la columna los vapores que se generan. Estos vapores ascienden por la columna, se van enfriando, condensando y se recogen a diferentes alturas.\nAdaptado de https://www.minagri.gob.pe/portal/45-sector-agrario/recurso-energetico/339-el-petroleo\nhttps://oi-files-cng-prod.s3.amazonaws.com/peru.oxfam.org/s3fs-public/file_attachments/La-sombra-del-petroleo-esp.pdf",
-      "imagen": "[TABLA_01]",
+      "contexto": "El petróleo",
+      "imagen": "img/ascenso/secundaria/2024/cyt/9.jpg",
       "preguntas": [
         {
           "pregunta": "Cuando se mezclan petróleo y agua, el petróleo flota en esta. ¿Cuál de las siguientes es una de las propiedades del petróleo que explica este hecho?",
@@ -651,8 +657,8 @@
     },
     {
       "idGrupo": "asc_secundaria_2024_p43",
-      "contexto": "Un docente se encuentra desarrollando una unidad didáctica que tiene como propósito que los estudiantes describan las propiedades de las soluciones.\nEn otra de las sesiones de aprendizaje de la unidad, el docente plantea a los estudiantes la siguiente actividad:\n1. Comenta que, en el mercado, encontró dos marcas de lejía: 'Clorita' y 'Purita', y que le llamó la atención la diferencia en el precio. Una costaba un sol más que la otra a pesar de que ambos envases eran de un litro.\n2. Preguntó a los estudiantes \"¿Por qué creen que una lejía cuesta más que la otra?\". La mayoría de estudiantes respondió que una lejía cuesta más que la otra porque es más conocida o tiene más publicidad.\n3. Presentó a los estudiantes las etiquetas de ambas lejías, las cuales se muestran a continuación:\n[TABLA_02]\n4. Solicitó comparar la composición de estas y les preguntó a los estudiantes: \"Además de la publicidad y, teniendo en cuenta la composición de estas lejías, ¿qué otros aspectos pueden influir en su precio?\".\nA continuación, se presenta la respuesta de Mateo, uno de los estudiantes: \"En las etiquetas, el hipoclorito de sodio es el componente principal de estas lejías. La 'Clorita' tiene 5 % m/m de hipoclorito de sodio. En cambio, la 'Purita' tiene, aproximadamente, 3 % m/m de este compuesto. El hecho que una lejía tenga más hipoclorito de sodio en su composición que otra, también, influye en el precio\".",
-      "imagen": "[TABLA_02]",
+      "contexto": "Un docente se encuentra desarrollando una unidad didáctica que tiene como propósito que los estudiantes describan las propiedades de las soluciones.\nEn otra de las sesiones de aprendizaje de la unidad, el docente plantea a los estudiantes la siguiente actividad:",
+      "imagen": "img/ascenso/secundaria/2024/cyt/10.jpg",
       "preguntas": [
         {
           "pregunta": "¿Cuál es el aprendizaje evidenciado en la respuesta del estudiante?",
@@ -670,8 +676,8 @@
     },
     {
       "idGrupo": "asc_secundaria_2024_p44",
-      "contexto": "Un docente se encuentra desarrollando una unidad didáctica que tiene como propósito que los estudiantes expliquen la solubilidad de las sustancias. Como parte de una de las sesiones de aprendizaje de la unidad, los estudiantes, organizados en equipos, plantean propuestas de indagación. A continuación, se presenta la propuesta de uno de los equipos:\nHipótesis: La cantidad de azúcar que se disuelve depende del solvente que se emplee.\nProcedimiento:\n1. Conseguir seis vasos plásticos transparentes e iguales, 15 g de azúcar rubia, agua destilada a temperatura ambiente (25 °C), alcohol medicinal de 70° y 96°, tres baguetas, una balanza y una probeta.\n2. Preparar las siguientes muestras utilizando una balanza y una probeta. Tanto el agua como los alcoholes están a temperatura ambiente.\nMuestra A: Colocar en un vaso 5 g de azúcar + 50 mL de agua destilada\nMuestra B: Colocar en un vaso 5 g de azúcar + 50 mL de alcohol medicinal de 70°\nMuestra C: Colocar en un vaso 5 g de azúcar + 50 mL de alcohol medicinal de 96°\n3. Agitar el contenido de los vasos, de forma similar, con una bagueta diferente para cada muestra.\n4. Decantar el líquido de cada una de las muestras en un vaso diferente.\n5. Identificar la masa de azúcar que pueda quedar en cada muestra, con ayuda de una balanza.",
-      "imagen": null,
+      
+      "imagen": "img/ascenso/secundaria/2024/cyt/11.jpg",
       "preguntas": [
         {
           "pregunta": "De acuerdo con la hipótesis de la propuesta de indagación, ¿cuál de los siguientes es un ajuste que deben realizar los estudiantes?",
@@ -708,8 +714,8 @@
     },
     {
       "idGrupo": "asc_secundaria_2024_p46",
-      "contexto": "La descomposición del peróxido de hidrógeno\nEl peróxido de hidrógeno, componente principal del agua oxigenada, se descompone en oxígeno y agua. En un laboratorio, se realizó esta reacción química empleando dióxido de manganeso como catalizador. Se colectó y midió el oxígeno producido en esta reacción. A continuación, se presenta uno de los gráficos elaborados a partir de los resultados obtenidos en el laboratorio.\n[GRÁFICO_01]\nAdaptado de https://www.aqa.org.uk",
-      "imagen": "[GRÁFICO_01]",
+      
+      "imagen": "img/ascenso/secundaria/2024/cyt/12.jpg",
       "preguntas": [
         {
           "pregunta": "A partir del gráfico, ¿en cuál de los siguientes intervalos es más rápida la reacción química?",
@@ -771,8 +777,8 @@
     },
     {
       "idGrupo": "asc_secundaria_2024_p50",
-      "contexto": "Como parte de una unidad didáctica sobre cómo evolucionan los organismos, en una de las sesiones de aprendizaje, un docente tiene como propósito que los estudiantes construyan diagramas para mostrar las relaciones evolutivas entre un grupo de organismos. En ese sentido, el docente elabora junto con los estudiantes la siguiente tabla con características de algunos organismos:\n[TABLA_03]",
-      "imagen": "[TABLA_03]",
+      "contexto": "Como parte de una unidad didáctica sobre cómo evolucionan los organismos, en una de las sesiones de aprendizaje, un docente tiene como propósito que los estudiantes construyan diagramas para mostrar las relaciones evolutivas entre un grupo de organismos. En ese sentido, el docente elabora junto con los estudiantes la siguiente tabla con características de algunos organismos:",
+      "imagen": "img/ascenso/secundaria/2024/cyt/13.jpg",
       "preguntas": [
         {
           "pregunta": "De acuerdo con el propósito de la sesión de aprendizaje, ¿cuál de las siguientes acciones pedagógicas es más pertinente plantear a los estudiantes?",
@@ -787,7 +793,9 @@
           "seccion": "Casuística"
         },
         {
-          "pregunta": "Daniel, un estudiante, elabora el siguiente diagrama con base en la información de la tabla:\n[DIAGRAMA_01]\n¿Cuál es el error que se evidencia en el diagrama elaborado por el estudiante?",
+          "imagen":"img/ascenso/secundaria/2024/cyt/14.jpg",
+            "pregunta": "Daniel, un estudiante, elabora el siguiente diagrama con base en la información de la tabla:\n[DIAGRAMA_01]\n¿Cuál es el error que se evidencia en el diagrama elaborado por el estudiante?",
+
           "opciones": [
             "Representar que la lombriz pertenece a una rama del diagrama lejanamente emparentada con el ser humano.",
             "Representar que la lombriz, la lagartija, el pez y el ser humano evolucionaron de un ancestro común.",
