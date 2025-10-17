@@ -1106,6 +1106,19 @@
     "archivos": {
       "especifico": "data/ascenso/secundaria/2024/ascenso_cyt2024.json"
     }
+  },
+  {
+    "id": 97,
+    "proceso": "Ascenso",
+    "anio": 2024,
+    "nivel": "inicial",
+    "especialidad": "inicial",
+    "modalidad": "EBR",
+    "preguntas": 60,
+    "tiempo": 180,
+    "archivos": {
+      "especifico": "data/ascenso/inicial/2024/ascenso_inicial2024.json"
+    }
   }
 
 
