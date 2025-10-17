@@ -100,6 +100,16 @@ document.addEventListener('DOMContentLoaded', () => {
             .replace(/[\u0300-\u036f]/g, "") // Elimina los signos de tilde
             .toLowerCase(); // Convierte todo a minúsculas
     };
+
+    const limpiarComillas = (texto) => {
+        if (!texto) return '';
+        return texto
+            .trim()
+            .replace(/["""''«»\\]/g, '')  // Elimina comillas y backslashes
+            .replace(/\.+$/g, '')          // Elimina puntos finales
+            .replace(/\s+/g, ' ')          // Normaliza espacios (SIN la barra extra)
+            .trim();
+    };
     const sanitizarHTML = (texto) => {
         if (!texto) return '';
         // Esta expresión busca y elimina cualquier etiqueta <script> y su contenido.
@@ -930,7 +940,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 todasLasPreguntas.forEach((pregunta, index) => {
                     const respuestaUsuario = userAnswers[index];
                     if (!respuestaUsuario) enBlanco++;
-                    else if (respuestaUsuario === pregunta.respuesta) correctas++;
+                    else if (normalizarTexto(limpiarComillas(respuestaUsuario)) === normalizarTexto(limpiarComillas(pregunta.respuesta))) correctas++;
                     else incorrectas++;
                 });
                 const totalPreguntas = todasLasPreguntas.length;
@@ -1038,7 +1048,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
                 if (!respuestaUsuario) {
                     navButton.classList.add('blank');
-                } else if (respuestaUsuario === respuestaCorrecta) {
+                } else if (normalizarTexto(limpiarComillas(respuestaUsuario)) === normalizarTexto(limpiarComillas(respuestaCorrecta))) {
                     navButton.classList.add('correct');
                 } else {
                     navButton.classList.add('incorrect');
@@ -1114,7 +1124,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
                         const preguntaIndex = questionCounter;
                         const respuestaUsuario = resultadosData.respuestasUsuario[preguntaIndex];
-                        const esCorrecta = respuestaUsuario === pregunta.respuesta;
+                        const esCorrecta = normalizarTexto(limpiarComillas(respuestaUsuario || '')) === normalizarTexto(limpiarComillas(pregunta.respuesta));
                         const estaEnBlanco = !respuestaUsuario;
 
                         let statusClass = '';
@@ -1830,7 +1840,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 const examId = params.get('id');
                 const seccion = params.get('seccion');
                 const botonGuardarHTML = `<button class="btn-repaso" data-exam-id="${examId}" data-seccion="${seccion}" data-index="${currentQuestionIndex}">💾 Guardar para repasar</button>`;
-                if (selectedOption === correctOption) {
+                if (normalizarTexto(limpiarComillas(selectedOption)) === normalizarTexto(limpiarComillas(correctOption))) {
                     correctas++;
                     // DESPUÉS (CORREGIDO)
                     feedbackContainerEl.innerHTML = `<div class="feedback correct">¡Correcto! <br><br> ${solucionario.replace(/\n/g, '<br>')}</div> ${botonGuardarHTML}`;
