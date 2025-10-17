@@ -1,0 +1,998 @@
+{
+  "completo": [
+    {
+      "idGrupo": "asc_secundaria_2024_p01",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Cuando el propósito del docente es que los estudiantes desarrollen las actividades de aprendizaje con iniciativa y autonomía, ¿cuál de los siguientes métodos de enseñanza es más pertinente?",
+          "opciones": [
+            "Descubrimiento guiado.",
+            "Resolución de problemas.",
+            "Mando directo modificado."
+          ],
+          "respuesta": "Resolución de problemas.",
+          "respuestaCorta": "El método de resolución de problemas fomenta que los estudiantes encuentren soluciones de manera autónoma, utilizando sus propios recursos y estrategias, lo que promueve directamente la iniciativa.",
+          "solucionario": "A diferencia del descubrimiento guiado, donde el docente da pistas, o el mando directo, que es puramente instruccional, la resolución de problemas plantea un desafío o una situación que los estudiantes deben abordar y solucionar por sí mismos. Este enfoque es el más adecuado para desarrollar la autonomía y la capacidad de tomar decisiones.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2024_p02",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿En cuál de los siguientes casos es pertinente utilizar el método de mando directo?",
+          "opciones": [
+            "Los estudiantes van a aprender los pasos de una coreografía.",
+            "Los estudiantes van a desarrollar sus habilidades tácticas y estratégicas.",
+            "Los estudiantes van a familiarizarse con los fundamentos de un deporte."
+          ],
+          "respuesta": "Los estudiantes van a aprender los pasos de una coreografía.",
+          "respuestaCorta": "El mando directo es ideal para enseñar secuencias de movimiento precisas, uniformes y que no admiten variaciones, como los pasos de una coreografía.",
+          "solucionario": "El método de mando directo se basa en la instrucción explícita y la repetición de un modelo ejecutado por el docente. Es altamente eficaz para tareas donde se busca la ejecución exacta de una secuencia, como en una coreografía, formaciones o ejercicios de gimnasia específicos, donde la creatividad o la táctica no son el objetivo principal.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2024_p03",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Tomando en cuenta el enfoque del área de Educación Física del CNEB, ¿cuál es el propósito principal de la iniciación deportiva?",
+          "opciones": [
+            "Sirve como medio para que los estudiantes desarrollen habilidades sociales y motrices cada vez más complejas.",
+            "Permite identificar estudiantes con potencial para ser deportistas de alta competencia cuando aún son muy jóvenes.",
+            "Ayuda a formar la personalidad de los estudiantes por medio del aprendizaje de reglas, la perseverancia y la disciplina."
+          ],
+          "respuesta": "Sirve como medio para que los estudiantes desarrollen habilidades sociales y motrices cada vez más complejas.",
+          "respuestaCorta": "Según el CNEB, la iniciación deportiva es una herramienta pedagógica para el desarrollo integral del estudiante, enfocándose en habilidades motrices y sociales en un entorno lúdico.",
+          "solucionario": "El enfoque del Currículo Nacional de la Educación Básica (CNEB) concibe la iniciación deportiva no como una cantera para el alto rendimiento, sino como un medio formativo. Su propósito es que los estudiantes, a través del juego y la práctica deportiva, desarrollen de manera integral sus competencias motrices y, fundamentalmente, sus habilidades sociales como la cooperación, el respeto y el trabajo en equipo.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2024_p04",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿En cuál de las siguientes situaciones motrices los estudiantes le dan un valor simbólico a los materiales que sirven de soporte para la actividad?",
+          "opciones": [
+            "Al deslizarse por un tobogán de diversas maneras: sentados, echados boca abajo, entre otras.",
+            "Al utilizar unas cuerdas para colgarse como si fueran un mono avanzando entre los árboles.",
+            "Al pasar por una escalera de psicomotricidad en posición de cuadrupedia siguiendo el ritmo marcado por un tambor."
+          ],
+          "respuesta": "Al utilizar unas cuerdas para colgarse como si fueran un mono avanzando entre los árboles.",
+          "respuestaCorta": "El juego simbólico se manifiesta al transformar el significado de un objeto; en este caso, las cuerdas dejan de ser cuerdas para convertirse en lianas de la selva en la imaginación del estudiante.",
+          "solucionario": "La situación descrita en la opción 'b' es un claro ejemplo de juego simbólico, donde los estudiantes no utilizan el material (cuerdas) por su función literal, sino que le atribuyen un significado imaginario (lianas) dentro de un juego de roles (ser monos). Las otras opciones describen un uso más funcional y directo de los materiales sin transformación simbólica.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2024_p05",
+      "contexto": "Una alimentación adecuada contiene vitaminas y minerales, entre ellos, el calcio.\nHabitualmente, se recomienda comer alimentos lácteos para cubrir las necesidades de este mineral. Sin embargo, Lorena, una docente, ha sido diagnosticada con intolerancia a la lactosa y está buscando otros alimentos ricos en calcio para cubrir sus necesidades de este mineral.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes alimentos es rico en calcio?",
+          "opciones": [
+            "Espinaca.",
+            "Carne de res.",
+            "Jugo de naranja."
+          ],
+          "respuesta": "Espinaca.",
+          "respuestaCorta": "La espinaca es un vegetal de hoja verde que constituye una importante fuente vegetal de calcio, siendo una excelente alternativa a los productos lácteos.",
+          "solucionario": "Aunque los lácteos son la fuente más popular de calcio, existen muchas otras fuentes de origen vegetal. Las verduras de hoja verde oscuro, como la espinaca, la col rizada y el brócoli, son ricas en este mineral. La carne de res es principalmente fuente de hierro y proteínas, y el jugo de naranja es conocido por su alto contenido de vitamina C.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2024_p06",
+      "contexto": "La docente conversa con los estudiantes sobre los alimentos que consideran saludables y poco saludables. Durante la conversación, los estudiantes intervienen libremente compartiendo sus opiniones. A continuación, se presentan comentarios realizados por tres estudiantes.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los estudiantes maneja información correcta desde el punto de vista nutricional?",
+          "opciones": [
+            "Pedro dice: \"En vez de mantequilla, es mejor consumir margarina, porque su grasa es de origen vegetal\".",
+            "Julieta dice: \"El pan elaborado con harina integral contiene más fibra que el pan hecho de harina refinada\".",
+            "Lucrecia dice: \"Comer frutas es bueno para la salud, pero no se deben consumir por la noche porque aumentas de peso\"."
+          ],
+          "respuesta": "Julieta dice: \"El pan elaborado con harina integral contiene más fibra que el pan hecho de harina refinada\".",
+          "respuestaCorta": "La afirmación de Julieta es correcta, ya que la harina integral se elabora con el grano de cereal completo, conservando el salvado, que es la principal fuente de fibra.",
+          "solucionario": "La afirmación de Julieta es nutricionalmente correcta. El pan integral aporta más fibra, lo que beneficia la digestión. La afirmación de Pedro es un error común; muchas margarinas contienen grasas trans, que son más perjudiciales que las grasas saturadas de la mantequilla. La afirmación de Lucrecia es un mito; el aumento de peso se debe a un superávit calórico total, no al horario en que se consumen los alimentos.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2024_p07",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes acciones es un ejemplo de supinación?",
+          "opciones": [
+            "Impulsar el balón con la mano para driblear.",
+            "Golpear una pelota pequeña con la palma hacia arriba.",
+            "Levantar una pierna lateralmente alejándola de la otra."
+          ],
+          "respuesta": "Golpear una pelota pequeña con la palma hacia arriba.",
+          "respuestaCorta": "La supinación del antebrazo es el movimiento de rotación externa que resulta en que la palma de la mano mire hacia arriba.",
+          "solucionario": "En anatomía, la supinación del antebrazo es el movimiento que permite girar la mano para que la palma quede visible o hacia arriba. Golpear una pelota en esa posición es un ejemplo claro de este movimiento. Driblear implica el movimiento contrario, la pronación (palma hacia abajo), y levantar una pierna lateralmente es una abducción de cadera.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2024_p08",
+      "contexto": "Un docente ha notado que Mariano, uno de sus estudiantes, hace constantemente comentarios como \"Por más que me esfuerzo, me equivoco en todo, nada me sale\", \"Para variar no entiendo nada de lo que explican\" o \"Es que yo no sirvo para esto\". Ante esta situación, el docente se ha propuesto ayudarlo a mejorar su rendimiento y con ello la imagen que tiene de sí mismo.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes acciones es la más adecuada para su propósito?",
+          "opciones": [
+            "Planificar para Mariano actividades mucho más sencillas que las de sus compañeros para que no se frustre y gane confianza; además, ubicarlo siempre cerca del docente para que así sea más fácil monitorear y halagar su trabajo delante de sus compañeros, de manera que se sienta reconocido por ellos.",
+            "Hacerle entender a Mariano que él y todos sus compañeros tienen las mismas capacidades y que también puede realizar un buen trabajo si se esfuerza de verdad, para que se dé cuenta de que superar sus dificultades depende de su voluntad por salir adelante y vencer la adversidad.",
+            "Analizar junto con Mariano las tareas que ha estado realizando para que él mismo identifique las fortalezas que posee y las principales dificultades que tuvo y cómo podría superarlas, para ayudarlo a identificar algunas estrategias que le permitan desarrollar su potencial."
+          ],
+          "respuesta": "Analizar junto con Mariano las tareas que ha estado realizando para que él mismo identifique las fortalezas que posee y las principales dificultades que tuvo y cómo podría superarlas, para ayudarlo a identificar algunas estrategias que le permitan desarrollar su potencial.",
+          "respuestaCorta": "La estrategia más adecuada es la que fomenta la metacognición y la autoeficacia, guiando al estudiante a analizar su propio proceso, reconocer sus logros y planificar cómo superar sus dificultades.",
+          "solucionario": "La opción 'c' es la más pertinente pedagógicamente porque empodera al estudiante. En lugar de darle soluciones externas (tareas más fáciles o discursos motivacionales), el docente actúa como mediador para que Mariano desarrolle una mentalidad de crecimiento, tome conciencia de sus capacidades y aprenda a generar sus propias estrategias de mejora. Esto tiene un impacto mucho más profundo y duradero en su autoestima y rendimiento.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2024_p09",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Como parte del calentamiento previo a la actividad deportiva, se suelen realizar trotes o carreras de baja a moderada intensidad. ¿Para qué?",
+          "opciones": [
+            "Para favorecer la elongación de los músculos y la movilidad articular, y así evitar posibles lesiones.",
+            "Para promover la relajación física y mental al disminuir la tensión y residuos metabólicos como el ácido láctico.",
+            "Para activar el sistema cardiovascular, aumentar la frecuencia cardiaca e incrementar la temperatura corporal."
+          ],
+          "respuesta": "Para activar el sistema cardiovascular, aumentar la frecuencia cardiaca e incrementar la temperatura corporal.",
+          "respuestaCorta": "El objetivo principal de la fase de activación del calentamiento, como el trote, es elevar la frecuencia cardíaca y la temperatura corporal para preparar al organismo para un esfuerzo mayor.",
+          "solucionario": "El calentamiento general tiene como finalidad principal preparar los grandes sistemas del cuerpo para la actividad física. El trote activa el sistema cardiovascular (aumentando la frecuencia cardíaca y la vasodilatación), el sistema respiratorio y eleva la temperatura de los músculos, lo que los hace más elásticos y eficientes, reduciendo el riesgo de lesiones. La elongación es otra parte del calentamiento (movilidad articular), y la relajación es propia de la fase de vuelta a la calma.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2024_p10",
+      "contexto": "Un docente les propone a los estudiantes diseñar diversos juegos para una gymkana que se va a realizar por el aniversario de la IE. Los estudiantes deben organizarse en pequeños grupos, y, entre todos, elegir un implemento deportivo, inventar las reglas del juego y ponerle un nombre creativo. Los estudiantes se reúnen en equipos, exploran el uso de los implementos y proponen varias ideas. Entre todos se van poniendo de acuerdo y al final presentan su propuesta a los demás compañeros.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué tipo de capacidades están desarrollando principalmente los estudiantes en la actividad descrita?",
+          "opciones": [
+            "Sociomotrices.",
+            "Físicomotrices.",
+            "Sensoriomotrices."
+          ],
+          "respuesta": "Sociomotrices.",
+          "respuestaCorta": "La actividad se centra en la interacción, comunicación, negociación y trabajo en equipo para lograr un objetivo común, que son los componentes clave de las capacidades sociomotrices.",
+          "solucionario": "Si bien la actividad tiene un componente físico y sensorial, el énfasis principal del proceso descrito está en la interacción social. Las capacidades sociomotrices se refieren a la habilidad de comunicarse y relacionarse con otros en contextos de juego y actividad física. La organización en grupos, la discusión de ideas, la toma de acuerdos y la presentación conjunta son acciones que desarrollan directamente estas capacidades.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2024_p11",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "A Eduardo le gusta mucho jugar fútbol y lo hace muy bien: no solo tiene un excelente manejo táctico y estratégico, sino que muestra una actitud de respeto hacia sus compañeros evitando realizar jugadas bruscas o peligrosas y promoviendo la participación de todos en el juego.\nLo descrito sobre Eduardo, ¿a qué competencia del CNEB se refiere?",
+          "opciones": [
+            "Se desenvuelve de manera autónoma a través de su motricidad.",
+            "Interactúa a través de sus habilidades sociomotrices.",
+            "Asume una vida saludable."
+          ],
+          "respuesta": "Interactúa a través de sus habilidades sociomotrices.",
+          "respuestaCorta": "La descripción enfatiza la interacción respetuosa, la cooperación y la aplicación de tácticas en un juego colectivo, lo cual corresponde directamente a la competencia 'Interactúa a través de sus habilidades sociomotrices'.",
+          "solucionario": "La competencia 'Interactúa a través de sus habilidades sociomotrices' del CNEB implica relacionarse asertivamente con los demás, mostrando respeto, generando trabajo en equipo y resolviendo conflictos en la práctica de actividades físicas. El comportamiento de Eduardo (respeto, juego limpio, promoción de la participación y manejo táctico) es un claro ejemplo de la puesta en práctica de esta competencia.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2024_p12",
+      "contexto": "En una reunión colegiada, los docentes están revisando las leyes generales del desarrollo psicomotor: la ley céfalo-caudal, la ley próximo-distal y la ley de desarrollo de flexores y extensores.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Una docente interviene: \"Un bebé controla primero su cabeza, luego su torso y, después, poco a poco, va controlando sus piernas, se coloca en cuadrupedia y gatea hasta que consigue ponerse de pie y, más tarde, caminar, con lo que logra el control de la verticalidad\".\n¿A qué ley del desarrollo psicomotor se refiere la docente en su comentario?",
+          "opciones": [
+            "Ley del desarrollo céfalo-caudal.",
+            "Ley del desarrollo próximo-distal.",
+            "Ley del desarrollo de flexores y extensores."
+          ],
+          "respuesta": "Ley del desarrollo céfalo-caudal.",
+          "respuestaCorta": "La ley céfalo-caudal establece que el control motor progresa desde la cabeza hacia los pies, secuencia que se describe exactamente en el comentario de la docente.",
+          "solucionario": "El desarrollo psicomotor sigue un orden predecible. La ley céfalo-caudal (de la cabeza a la cola) postula que el control de los músculos y las partes del cuerpo avanza en dirección descendente. El ejemplo de la docente (control de cabeza, luego tronco y finalmente piernas) ilustra perfectamente este principio fundamental del desarrollo motor humano.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+
+   
+    {
+      "idGrupo": "asc_secundaria_2024_p13",
+      "contexto": "En una reunión colegiada, los docentes están revisando las leyes generales del desarrollo psicomotor: la ley céfalo-caudal, la ley próximo-distal y la ley de desarrollo de flexores y extensores.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Tomando en cuenta la ley próximo-distal, ¿cuál de las siguientes actividades evidencia un mayor nivel of desarrollo?",
+          "opciones": [
+            "Subir y bajar de una banca sueca saltando con los pies juntos.",
+            "Dibujar figuras en el aire utilizando un estilete con cinta.",
+            "Empujar una caja llena de pelotas de trapo por el piso."
+          ],
+          "respuesta": "Dibujar figuras en el aire utilizando un estilete con cinta.",
+          "respuestaCorta": "La ley próximo-distal indica que el control motor se desarrolla desde el centro del cuerpo hacia las extremidades. Dibujar con un estilete requiere un control fino de la muñeca y los dedos, que son las partes más distales.",
+          "solucionario": "La ley del desarrollo próximo-distal establece que el control motriz progresa desde el eje central del cuerpo hacia las partes más alejadas (manos y dedos, pies). Empujar una caja y saltar involucran principalmente el control del tronco y las extremidades grandes (control proximal). En cambio, manipular un estilete con precisión para dibujar figuras en el aire exige un control motor fino y coordinado de la mano y los dedos, lo que representa un mayor nivel de desarrollo según esta ley.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2024_p14",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes aspectos corporales permite principalmente mantener la postura corporal?",
+          "opciones": [
+            "El peso corporal.",
+            "El tono muscular.",
+            "Las sensaciones plantares."
+          ],
+          "respuesta": "El tono muscular.",
+          "respuestaCorta": "El tono muscular es la contracción parcial y sostenida de los músculos que permite mantener la postura y estar preparado para el movimiento, incluso en estado de reposo.",
+          "solucionario": "La postura corporal se mantiene gracias a un estado de ligera tensión en los músculos, conocido como tono muscular. Este mecanismo permite que el cuerpo resista la fuerza de la gravedad y mantenga una alineación adecuada sin un esfuerzo consciente constante. El peso corporal y las sensaciones plantares influyen, pero el tono muscular es el factor fisiológico directo responsable del mantenimiento postural.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2024_p15",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Según las reglas del ajedrez, ¿cómo se desplaza el alfil?",
+          "opciones": [
+            "En diagonal.",
+            "Siguiendo la forma de una \"L\".",
+            "De manera horizontal o vertical."
+          ],
+          "respuesta": "En diagonal.",
+          "respuestaCorta": "El alfil en ajedrez se mueve cualquier número de casillas desocupadas, pero siempre en dirección diagonal, permaneciendo en las casillas del mismo color durante toda la partida.",
+          "solucionario": "En el ajedrez, cada pieza tiene un movimiento específico. El alfil se caracteriza por su desplazamiento exclusivamente diagonal. No puede saltar sobre otras piezas y su movimiento está limitado a las casillas libres en las diagonales que ocupa. El movimiento en 'L' corresponde al caballo y el horizontal/vertical a la torre.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2024_p16",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes NO es una regla del ajedrez?",
+          "opciones": [
+            "El jugador que utiliza las piezas blancas siempre mueve primero.",
+            "Las piezas no pueden saltar una por encima de la otra, a excepción del caballo.",
+            "El rey puede moverse en todas direcciones y la cantidad de casillas que se desee."
+          ],
+          "respuesta": "El rey puede moverse en todas direcciones y la cantidad de casillas que se desee.",
+          "respuestaCorta": "Esta afirmación es falsa porque, si bien el rey puede moverse en todas las direcciones, solo puede avanzar una casilla a la vez.",
+          "solucionario": "Las reglas del ajedrez establecen que las blancas inician el juego y que solo el caballo puede saltar sobre otras piezas. El error en la tercera opción es la cantidad de casillas; el rey puede moverse a cualquier casilla adyacente (una a la vez), pero no una cantidad ilimitada como la dama o la torre. Esa limitación es fundamental para la estrategia del juego.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2024_p17",
+      "contexto": "Los estudiantes van a tener una clase de natación. Antes de entrar en la piscina, el docente se coloca frente a los estudiantes e inicia el calentamiento en tierra.\nEl docente modela los movimientos de cada ejercicio y los estudiantes los realizan mientras él marca la cadencia con las palmas.\nEntre los ejercicios que realizan se encuentran los siguientes:\n• Caminar a paso ligero alrededor de la piscina.\n• Flexionar el cuello hacia adelante y hacia atrás; luego realizar rotaciones de la cabeza hacia la derecha e izquierda.\n• Desde los muslos, elevar los brazos extendiéndolos lateralmente hasta cruzar las manos por encima de la cabeza.\n• Balancear los brazos extendidos hacia adelante y hacia atrás de manera alternada, como un péndulo.\n• Elevar la pierna hacia adelante con la rodilla flexionada y luego hacia atrás completamente extendida en movimiento pendular.\n• Flexionar el tronco lateralmente a la derecha y a la izquierda.\n• Girar el tronco manteniendo las piernas separadas y los pies fijos.\n• Sentados, apoyando las manos a los lados, alternar el movimiento de las piernas extendidas de arriba a abajo sin tocar el suelo.\n• En parejas, un estudiante sujeta los tobillos de su compañero quien, desde la posición de decúbito prono, eleva el tronco y, extendiendo los brazos, dibuja círculos paralelos al piso.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué método está aplicando el docente durante el calentamiento en tierra?",
+          "opciones": [
+            "Mando directo.",
+            "Asignación de tareas.",
+            "Descubrimiento guiado."
+          ],
+          "respuesta": "Mando directo.",
+          "respuestaCorta": "El método es mando directo porque el docente modela cada movimiento y los estudiantes lo imitan de forma sincronizada, siguiendo una cadencia marcada por él.",
+          "solucionario": "El mando directo se caracteriza por una instrucción centralizada donde el docente toma todas las decisiones: qué ejercicio hacer, cómo hacerlo, cuándo empezar, a qué ritmo y cuándo parar. La descripción ('el docente modela', 'los estudiantes los realizan mientras él marca la cadencia') encaja perfectamente con este método, que busca la uniformidad en la ejecución.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes ejercicios forma parte del calentamiento específico en la natación?",
+          "opciones": [
+            "Desde los muslos, elevar los brazos extendiéndolos lateralmente hasta cruzar las manos por encima de la cabeza.",
+            "Flexionar el cuello hacia adelante y hacia atrás; luego realizar rotaciones de la cabeza hacia la derecha e izquierda.",
+            "Sentados, apoyando las manos a los lados, alternar el movimiento de las piernas extendidas de arriba a abajo sin tocar el suelo."
+          ],
+          "respuesta": "Sentados, apoyando las manos a los lados, alternar el movimiento de las piernas extendidas de arriba a abajo sin tocar el suelo.",
+          "respuestaCorta": "Este ejercicio simula el movimiento de la patada de crol o espalda, por lo que es un ejercicio específico que prepara los músculos y articulaciones implicados directamente en la técnica de natación.",
+          "solucionario": "El calentamiento específico incluye movimientos que imitan los gestos técnicos del deporte a practicar. Alternar el movimiento de las piernas extendidas simula directamente el batido de piernas de los estilos crol y espalda. Los otros ejercicios son parte del calentamiento general (movilidad articular de hombros y cuello), pero no son específicos de la técnica de natación.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿En cuál de los siguientes ejercicios se realiza un movimiento sobre el eje vertical o longitudinal?",
+          "opciones": [
+            "Elevar la pierna hacia adelante con la rodilla flexionada y luego hacia atrás completamente extendida en movimiento pendular.",
+            "Flexionar el tronco lateralmente a la derecha y a la izquierda.",
+            "Girar el tronco manteniendo las piernas separadas y los pies fijos."
+          ],
+          "respuesta": "Girar el tronco manteniendo las piernas separadas y los pies fijos.",
+          "respuestaCorta": "Girar o rotar el tronco sobre sí mismo es un movimiento que ocurre en el plano transversal y tiene como eje de rotación el eje vertical o longitudinal, que atraviesa el cuerpo de arriba a abajo.",
+          "solucionario": "El eje vertical o longitudinal es una línea imaginaria que recorre el cuerpo desde la cabeza hasta los pies. Los movimientos de rotación, como girar el torso, ocurren alrededor de este eje. La flexión lateral del tronco ocurre sobre el eje anteroposterior, y el movimiento pendular de la pierna ocurre sobre el eje transversal.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Cuando los estudiantes balancean los brazos extendidos hacia adelante y hacia atrás de manera alternada, como un péndulo, ¿sobre qué eje están realizando el movimiento?",
+          "opciones": [
+            "Eje transversal.",
+            "Eje longitudinal.",
+            "Eje anteroposterior."
+          ],
+          "respuesta": "Eje transversal.",
+          "respuestaCorta": "El movimiento de flexión y extensión del hombro (balanceo hacia adelante y atrás) se produce en el plano sagital, y el eje de rotación para este plano es el eje transversal.",
+          "solucionario": "El eje transversal, también conocido como eje latero-lateral, atraviesa el cuerpo de lado a lado. Los movimientos de flexión y extensión, como el balanceo de los brazos hacia adelante y atrás, ocurren en el plano sagital y giran alrededor de este eje transversal. Es similar al eje de una rueda que permite el movimiento hacia adelante y atrás.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Cuál de las siguientes alternativas presenta un ejercicio de calentamiento específico para el estilo pecho?",
+          "opciones": [
+            "Elevar la pierna hacia adelante con la rodilla flexionada y luego hacia atrás completamente extendida en movimiento pendular.",
+            "Sentados, apoyando las manos a los lados, alternar el movimiento de las piernas extendidas de arriba a abajo sin tocar el suelo.",
+            "En parejas, un estudiante sujeta los tobillos de su compañero quien, desde la posición de decúbito prono, eleva el tronco y, extendiendo los brazos, dibuja círculos paralelos al piso."
+          ],
+          "respuesta": "En parejas, un estudiante sujeta los tobillos de su compañero quien, desde la posición de decúbito prono, eleva el tronco y, extendiendo los brazos, dibuja círculos paralelos al piso.",
+          "respuestaCorta": "Este ejercicio imita la brazada del estilo pecho, que consiste en un movimiento circular y simultáneo de los brazos hacia afuera y hacia adentro, fortaleciendo también la zona lumbar.",
+          "solucionario": "La opción 'c' describe un ejercicio que simula de manera muy precisa la acción de la brazada en el estilo pecho, donde los brazos realizan un movimiento de tracción circular. Además, al elevar el tronco desde decúbito prono, se activan los músculos de la espalda baja, importantes para la ondulación en este estilo. Las otras opciones se relacionan más con la patada de crol/espalda o con la movilidad general de la cadera.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2024_p22",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Cuando se trabajan los fundamentos básicos de los deportes se desarrolla principalmente:",
+          "opciones": [
+            "La táctica.",
+            "La técnica.",
+            "La estrategia."
+          ],
+          "respuesta": "La técnica.",
+          "respuestaCorta": "Los fundamentos básicos de un deporte son los modelos de movimiento ideales para ejecutar una acción específica, lo cual se define como técnica deportiva.",
+          "solucionario": "La técnica se refiere al 'cómo' hacer algo en un deporte (ej. cómo pasar el balón, cómo lanzar a canasta). Son los procedimientos de movimiento eficientes para resolver una tarea motriz. La táctica es el 'qué' hacer en una situación de juego (ej. decidir pasar en vez de tirar), y la estrategia es el plan general previo al juego. Por tanto, trabajar fundamentos es trabajar la técnica.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2024_p23",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es la principal adaptación del fútbol 5 o blindfutsal?",
+          "opciones": [
+            "La pelota posee un dispositivo sonoro interno.",
+            "El arco es más ancho que el utilizado en el futsal.",
+            "El campo de juego es más pequeño que el de futsal."
+          ],
+          "respuesta": "La pelota posee un dispositivo sonoro interno.",
+          "respuestaCorta": "La adaptación fundamental del blindfutsal (fútbol para ciegos) es el balón sonoro, que permite a los jugadores localizarlo en el campo a través del oído.",
+          "solucionario": "El fútbol 5 está adaptado para personas con discapacidad visual. Para que el juego sea posible, la pelota contiene cápsulas sonoras o cascabeles en su interior. Este sonido permite a los jugadores seguir la trayectoria del balón y orientarse en el campo. Aunque hay otras adaptaciones (vallas laterales, guías, etc.), el balón sonoro es la más esencial y característica.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2024_p24",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué condición de percepción sensorial debe tener el portero de un equipo de fútbol 5 adaptado o blindfutsal?",
+          "opciones": [
+            "Baja visión.",
+            "Ceguera total.",
+            "Sin discapacidad visual."
+          ],
+          "respuesta": "Sin discapacidad visual.",
+          "respuestaCorta": "En el fútbol 5 adaptado, el portero es el único jugador del equipo que no tiene discapacidad visual, ya que cumple un rol fundamental de orientación para sus compañeros.",
+          "solucionario": "Según el reglamento del blindfutsal, el equipo se compone de cuatro jugadores de campo con ceguera total (categoría B1, que usan antifaz para igualar condiciones) y un portero vidente o con baja visión (categoría B2 o B3) que no puede salir de su área. El portero, junto con el guía detrás del arco rival y el entrenador, son los responsables de orientar verbalmente a los jugadores.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+
+ 
+    {
+      "idGrupo": "asc_secundaria_2024_p25",
+      "contexto": "Durante una sesión, los estudiantes están realizando diversos juegos:\n• Chapadas: Los estudiantes deben correr por todo el espacio evitando ser atrapados por uno de los compañeros.\n• Matagente: Los estudiantes deben evitar que el balón lanzado por dos de sus compañeros los toque y elimine.\n• Rayuela o mundo: Los estudiantes deben desplazarse saltando con un solo pie sobre un esquema dibujado en el piso.\n• La gallinita ciega: Mientras los compañeros repiten \"Yo no soy, yo no soy\", un estudiante con los ojos vendados debe identificar al compañero elegido guiándose solamente por su voz.\n• Ponle la cola al burro: Con los ojos vendados y guiado por las indicaciones de los compañeros, un estudiante debe ponerle la cola a un burro dibujado en una cartulina.\n• Las sillas musicales: Los estudiantes deben correr alrededor de las sillas y, al detenerse la música, deben sentarse en una silla lo más rápido posible.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿En cuál de los siguientes juegos se desarrolla principalmente el equilibrio dinámico?",
+          "opciones": [
+            "Matagente.",
+            "Rayuela o mundo.",
+            "Las sillas musicales."
+          ],
+          "respuesta": "Rayuela o mundo.",
+          "respuestaCorta": "La rayuela exige mantener la estabilidad del cuerpo mientras se realizan saltos y desplazamientos sobre un solo pie, lo que desarrolla directamente el equilibrio dinámico.",
+          "solucionario": "El equilibrio dinámico es la capacidad de mantener la postura mientras se está en movimiento. El juego de la rayuela, que implica saltar y moverse en un pie de un cuadro a otro, es una actividad que pone a prueba y desarrolla específicamente esta capacidad. Matagente y las sillas musicales se centran más en la agilidad, la esquiva y la velocidad de reacción.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿En cuál de los siguientes juegos se desarrolla principalmente la organización espacial?",
+          "opciones": [
+            "Chapadas.",
+            "Rayuela o mundo.",
+            "Ponle la cola al burro."
+          ],
+          "respuesta": "Ponle la cola al burro.",
+          "respuestaCorta": "Al tener los ojos vendados, el estudiante debe construir una representación mental del espacio y su ubicación en él, basándose únicamente en las indicaciones verbales, lo que ejercita la organización espacial.",
+          "solucionario": "La organización espacial es la habilidad de percibir la relación entre el propio cuerpo y los objetos en el espacio. En el juego 'Ponle la cola al burro', el participante no tiene referencias visuales, por lo que debe orientarse, calcular distancias y direccionar su movimiento basándose en su mapa mental del entorno y las instrucciones que recibe, desarrollando así esta capacidad.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿En cuál de los siguientes juegos se desarrolla principalmente la discriminación auditiva?",
+          "opciones": [
+            "Chapadas.",
+            "La gallinita ciega.",
+            "Ponle la cola al burro."
+          ],
+          "respuesta": "La gallinita ciega.",
+          "respuestaCorta": "En 'La gallinita ciega', el jugador con los ojos vendados debe identificar a un compañero guiándose únicamente por el sonido de su voz, lo que entrena la habilidad de diferenciar y localizar estímulos auditivos.",
+          "solucionario": "La discriminación auditiva es la capacidad de reconocer, diferenciar e interpretar estímulos sonoros. Este juego se basa por completo en esa habilidad, ya que el participante debe aislar la voz de un compañero específico del ruido ambiental y de las voces de otros para poder identificarlo, siendo el canal auditivo el único medio de percepción disponible.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿En cuál de los siguientes juegos predomina la velocidad de reacción?",
+          "opciones": [
+            "Chapadas.",
+            "La gallinita ciega.",
+            "Las sillas musicales."
+          ],
+          "respuesta": "Las sillas musicales.",
+          "respuestaCorta": "Este juego exige una respuesta motora inmediata (sentarse) ante un estímulo auditivo específico (la música se detiene), lo que lo convierte en un ejercicio clásico de velocidad de reacción.",
+          "solucionario": "La velocidad de reacción es el tiempo que transcurre entre la percepción de un estímulo y el inicio de una respuesta. En las sillas musicales, el estímulo es el cese de la música, y la respuesta es buscar y ocupar una silla lo más rápido posible. El éxito en el juego depende directamente de la rapidez con la que se procesa el estímulo y se ejecuta la acción.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿En cuál de los siguientes juegos se desarrolla principalmente la coordinación espacio-temporal?",
+          "opciones": [
+            "Matagente.",
+            "Rayuela o mundo.",
+            "Ponle la cola al burro."
+          ],
+          "respuesta": "Matagente.",
+          "respuestaCorta": "En Matagente, los jugadores deben calcular la trayectoria y velocidad del balón (tiempo) para moverse y esquivarlo en el espacio correcto (espacio), desarrollando la coordinación espacio-temporal.",
+          "solucionario": "La coordinación espacio-temporal es la habilidad de ajustar el movimiento a las condiciones de espacio y tiempo, calculando la velocidad y la trayectoria de objetos móviles. En 'Matagente', el jugador debe percibir dónde está el balón y predecir a dónde llegará y cuándo, para poder ejecutar el movimiento de esquiva en el momento y lugar precisos.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2024_p30",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es el propósito principal de desarrollar habilidades motrices específicas?",
+          "opciones": [
+            "Aumentar la habilidad y la confianza al participar en actividades deportivas.",
+            "Desarrollar capacidades físicas como la fuerza, la resistencia, la flexibilidad y la velocidad.",
+            "Desarrollar habilidades que pueden ser aplicadas en diversas actividades de la vida diaria."
+          ],
+          "respuesta": "Aumentar la habilidad y la confianza al participar en actividades deportivas.",
+          "respuestaCorta": "Las habilidades motrices específicas son propias de disciplinas deportivas concretas y su desarrollo permite una ejecución más eficiente y exitosa dentro de ese deporte, aumentando la confianza del practicante.",
+          "solucionario": "Las habilidades motrices específicas son gestos técnicos propios de un deporte (ej: el remate en vóley, el lanzamiento de gancho en baloncesto). Su propósito es dotar al individuo de las herramientas motrices para desempeñarse con eficacia en esa disciplina deportiva particular, lo que a su vez genera mayor confianza y disfrute en la práctica.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2024_p31",
+      "contexto": "Las habilidades motrices genéricas son la combinación de más de una habilidad básica; es decir, presentan un mayor nivel de complejidad y concreción que las habilidades motrices básicas, pero no tanto como las específicas, y destacan por ser comunes a diferentes disciplinas deportivas.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes alternativas presenta una acción que implica una habilidad motriz genérica?",
+          "opciones": [
+            "Lanzar una piedra al mar.",
+            "Rebotar un balón contra el suelo.",
+            "Pasar por debajo de una mesa gateando."
+          ],
+          "respuesta": "Rebotar un balón contra el suelo.",
+          "respuestaCorta": "Rebotar un balón (botar o driblar) es una habilidad genérica porque combina habilidades básicas (empujar, coordinar ojo-mano) y es fundamental en múltiples deportes como el baloncesto, balonmano, etc.",
+          "solucionario": "Según la definición, una habilidad genérica es más compleja que una básica y sirve para varios deportes. Lanzar y gatear son habilidades básicas. En cambio, rebotar un balón es una habilidad genérica, ya que es la base para el dribling en baloncesto, la conducción en balonmano y otras acciones deportivas, requiriendo una coordinación más elaborada que un simple lanzamiento.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2024_p32",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes actividades favorece principalmente el desarrollo de la conciencia corporal de los estudiantes?",
+          "opciones": [
+            "El docente entrega papelógrafos a los estudiantes. Cada estudiante, por turnos, se echa sobre un papelógrafo y un compañero dibuja su silueta con un plumón y escribe el nombre del compañero en el reverso. Luego, se colocan todos los papelógrafos aleatoriamente en el suelo y los estudiantes caminan por todo el espacio hasta ubicar su propia silueta. Una vez que han ubicado el papelógrafo, lo giran y verifican si se trata de su silueta.",
+            "Los estudiantes se organizan en parejas, eligen un lugar en el espacio y se sitúan de pie, uno frente al otro. Uno de los estudiantes debe ejecutar movimientos libres en el lugar mientras su compañero lo observa atentamente y va imitando dichos movimientos lo más parecido posible, como si fuera su reflejo en el espejo. Transcurridos unos minutos, se intercambian los roles.",
+            "Se elabora un dado gigante de cartón y se coloca el nombre de una danza tradicional del Perú en cada una de sus seis caras. El docente tira el dado y, cuando este se detiene, reproduce un fragmento de la danza que se ubicó en el lado superior del dado, y los estudiantes deben bailar libremente por todo el espacio al ritmo de esa danza. El dado se tira varias veces hasta que los estudiantes han bailado todas las danzas."
+          ],
+          "respuesta": "Los estudiantes se organizan en parejas, eligen un lugar en el espacio y se sitúan de pie, uno frente al otro. Uno de los estudiantes debe ejecutar movimientos libres en el lugar mientras su compañero lo observa atentamente y va imitando dichos movimientos lo más parecido posible, como si fuera su reflejo en el espejo. Transcurridos unos minutos, se intercambian los roles.",
+          "respuestaCorta": "La actividad del espejo obliga a los estudiantes a observar detenidamente los movimientos del otro y a ser conscientes de cómo ejecutar esos mismos movimientos con su propio cuerpo, desarrollando la propiocepción y el esquema corporal.",
+          "solucionario": "La conciencia corporal implica el conocimiento y control del propio cuerpo, sus partes, sus movimientos y su posición en el espacio. La actividad del 'espejo' es la más pertinente porque fomenta una atención focalizada en el movimiento. El estudiante que imita debe ser consciente de sus segmentos corporales para replicar la acción, y el estudiante que es imitado también toma conciencia de sus propios gestos al verlos reflejados en su compañero.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2024_p33",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Si el docente tiene el propósito de desarrollar con sus estudiantes acciones de familiarización con el balón en el fútbol, ¿cuál de los siguientes conjuntos de acciones es pertinente proponerles ejecutar?",
+          "opciones": [
+            "Acciones de golpeo del balón, como interceptar el balón en el aire con el puño y golpear con el pie un balón lanzado por un compañero; conducir el balón en slalom; realizar golpeos consecutivos con la cabeza y con los hombros desplazándose, detener el balón y pasarlo.",
+            "Acciones de manipulación del balón por medio de juegos que involucren toques de balón de una mano a otra, rebotar el balón en los brazos, pasar el balón de un pie a otro con saltitos, hacer pataditas con el empeine, rebotar el balón sobre el muslo y dar toques al balón con la cabeza.",
+            "Acciones de conducción de balón con diferentes partes del pie: borde interno, externo y empeine; lanzar y atrapar el balón con las manos; conducir el balón en zigzag entre conos cambiando de pie, primero con el pie derecho y luego con el izquierdo; combinar golpeos de balón con el pie y el muslo."
+          ],
+          "respuesta": "Acciones de manipulación del balón por medio de juegos que involucren toques de balón de una mano a otra, rebotar el balón en los brazos, pasar el balón de un pie a otro con saltitos, hacer pataditas con el empeine, rebotar el balón sobre el muslo y dar toques al balón con la cabeza.",
+          "respuestaCorta": "La familiarización busca que el estudiante explore y sienta el balón con todas las partes del cuerpo de forma lúdica y libre, sin la presión de una técnica deportiva específica, como se describe en esta opción.",
+          "solucionario": "La etapa de familiarización con un implemento deportivo consiste en actividades exploratorias y perceptivas. La opción 'b' describe perfectamente este proceso: se utilizan múltiples partes del cuerpo (manos, brazos, pies, muslos, cabeza) de manera lúdica y variada ('juegos', 'saltitos', 'pataditas') para que el estudiante desarrolle sensibilidad y control sobre el balón antes de pasar a gestos técnicos más estructurados como la conducción en zigzag o el pase, que corresponden a etapas posteriores.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2024_p34",
+      "contexto": "La docente propone un circuito de actividades lúdicas con globos para desarrollar la resistencia. El circuito consta de tres estaciones:\n• Estación 1: Utilizando un alfiler, en turnos de diez segundos, los estudiantes realizan saltos verticales para reventar la mayor cantidad de globos colgados a dos metros de altura.\n• Estación 2: Los estudiantes hacen burpees, o flexiones, y revientan con el abdomen la mayor cantidad de globos colocados en el piso durante un minuto.\n• Estación 3: Los estudiantes toman un globo, recorren una distancia de diez metros a la mayor velocidad posible, y dan la posta al compañero entregándole el globo.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué método de enseñanza está aplicando la docente al proponer el circuito de actividades?",
+          "opciones": [
+            "Mando directo.",
+            "Asignación de tareas.",
+            "Resolución de problemas."
+          ],
+          "respuesta": "Asignación de tareas.",
+          "respuestaCorta": "El método de asignación de tareas se evidencia en la organización de los estudiantes en estaciones donde realizan diferentes actividades de forma simultánea o secuencial, con cierta autonomía.",
+          "solucionario": "La organización en circuitos o estaciones es una característica clásica del método de enseñanza por asignación de tareas. La docente planifica y dispone las actividades, pero los estudiantes trabajan de manera más autónoma en cada estación, a menudo gestionando su propio tiempo y ritmo. Esto difiere del mando directo, donde todos hacen lo mismo al mismo tiempo bajo la indicación del docente.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Qué tipo de resistencia predomina en la estación 1?",
+          "opciones": [
+            "Aeróbica.",
+            "Anaeróbica láctica.",
+            "Anaeróbica aláctica."
+          ],
+          "respuesta": "Anaeróbica aláctica.",
+          "respuestaCorta": "La actividad de la estación 1 (saltos verticales máximos durante 10 segundos) es un esfuerzo de muy alta intensidad y muy corta duración, característico de la vía energética anaeróbica aláctica.",
+          "solucionario": "La resistencia anaeróbica aláctica se activa en esfuerzos explosivos y de máxima intensidad que duran hasta aproximadamente 10-15 segundos. La energía se obtiene del ATP y la fosfocreatina almacenados en el músculo, sin necesidad de oxígeno y sin producir ácido láctico. Los saltos verticales a máxima intensidad durante 10 segundos encajan perfectamente en esta descripción.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Qué tipo de resistencia predomina en la estación 2?",
+          "opciones": [
+            "Aeróbica.",
+            "Anaeróbica láctica.",
+            "Anaeróbica aláctica."
+          ],
+          "respuesta": "Anaeróbica láctica.",
+          "respuestaCorta": "Realizar burpees durante un minuto es un esfuerzo de alta intensidad que supera los 15-20 segundos, por lo que la vía energética predominante es la anaeróbica láctica, con producción de lactato.",
+          "solucionario": "La resistencia anaeróbica láctica es la protagonista en esfuerzos de alta intensidad que duran entre 30 segundos y 2-3 minutos. El cuerpo descompone el glucógeno para obtener energía sin oxígeno, lo que genera ácido láctico como subproducto. Los burpees mantenidos durante un minuto son un ejemplo claro de este tipo de esfuerzo, que causa la sensación de 'quemazón' muscular.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+
+    
+    {
+      "idGrupo": "asc_secundaria_2024_p37",
+      "contexto": "La docente propone un circuito de actividades lúdicas con globos para desarrollar la resistencia. El circuito consta de tres estaciones:\n• Estación 1: Utilizando un alfiler, en turnos de diez segundos, los estudiantes realizan saltos verticales para reventar la mayor cantidad de globos colgados a dos metros de altura.\n• Estación 2: Los estudiantes hacen burpees, o flexiones, y revientan con el abdomen la mayor cantidad de globos colocados en el piso durante un minuto.\n• Estación 3: Los estudiantes toman un globo, recorren una distancia de diez metros a la mayor velocidad posible, y dan la posta al compañero entregándole el globo.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué tipo de resistencia predomina en la estación 3?",
+          "opciones": [
+            "Aeróbica.",
+            "Anaeróbica láctica.",
+            "Anaeróbica aláctica."
+          ],
+          "respuesta": "Anaeróbica aláctica.",
+          "respuestaCorta": "La estación 3 implica un sprint de 10 metros, un esfuerzo de máxima velocidad y muy corta duración, característico de la vía energética anaeróbica aláctica.",
+          "solucionario": "Correr 10 metros a la mayor velocidad posible es una acción explosiva que dura muy pocos segundos (generalmente menos de 10). Este tipo de esfuerzo utiliza la energía inmediata (ATP-PC) almacenada en los músculos, sin recurrir al oxígeno y sin generar lactato, lo que define a la resistencia anaeróbica aláctica.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿En cuál de las estaciones predomina la velocidad cíclica?",
+          "opciones": [
+            "Estación 1.",
+            "Estación 2.",
+            "Estación 3."
+          ],
+          "respuesta": "Estación 3.",
+          "respuestaCorta": "La velocidad cíclica se manifiesta en la repetición continua de un mismo gesto motor, como la zancada al correr, lo que ocurre en la estación 3.",
+          "solucionario": "La velocidad cíclica implica una secuencia de movimientos repetidos a alta velocidad, como pedalear, nadar o correr. La Estación 3 (correr 10 metros) es el único ejemplo claro de esto. Las estaciones 1 (saltos verticales) y 2 (burpees) son movimientos acíclicos, ya que consisten en acciones motoras distintas y no en una repetición constante del mismo patrón.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Durante el circuito, ¿cuál es la frecuencia cardíaca máxima (FCM) de referencia que se debe considerar si los estudiantes tienen 15 años?",
+          "opciones": [
+            "180 latidos por minuto.",
+            "205 latidos por minuto.",
+            "235 latidos por minuto."
+          ],
+          "respuesta": "205 latidos por minuto.",
+          "respuestaCorta": "La fórmula más común para estimar la Frecuencia Cardíaca Máxima (FCM) es 220 menos la edad. Para un estudiante de 15 años, el cálculo es 220 - 15 = 205 lpm.",
+          "solucionario": "Para calcular la Frecuencia Cardíaca Máxima teórica, se utiliza la fórmula de Karvonen (220 - edad). En este caso, para estudiantes de 15 años, la operación sería: FCM = 220 - 15 = 205 latidos por minuto. Este valor sirve como referencia para dosificar la intensidad de los ejercicios.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2024_p40",
+      "contexto": "Los estudiantes están jugando a \"El carrusel\". Todos forman un círculo tomados de la mano haciendo una ronda, y luego comienzan a girar hacia la derecha o la izquierda, según el docente lo indique. Los estudiantes deben subir poco a poco la velocidad, girando cada vez más de prisa. Cuando el docente indica \"¡Alto!\", los estudiantes deben soltarse e intentar permanecer quietos en una postura equilibrada contrarrestando la fuerza centrífuga.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué aspecto están desarrollando principalmente los estudiantes con el juego descrito?",
+          "opciones": [
+            "Control postural.",
+            "Orientación espacial.",
+            "Regulación temporal."
+          ],
+          "respuesta": "Control postural.",
+          "respuestaCorta": "El juego exige que los estudiantes ajusten activamente su cuerpo para mantener el equilibrio y no caerse al detenerse bruscamente después de girar, lo que trabaja directamente el control postural.",
+          "solucionario": "El control postural es la capacidad de mantener el equilibrio y la alineación del cuerpo, tanto en reposo como en movimiento. La parte culminante del juego, donde los estudiantes deben quedarse quietos y luchar contra la sensación de mareo y la inercia del giro, es un desafío directo al sistema vestibular y a los mecanismos neuromusculares que regulan la postura.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Qué tipo de sensaciones experimentan principalmente los estudiantes cuando intentan permanecer quietos en una postura equilibrada?",
+          "opciones": [
+            "Interoceptivas.",
+            "Exteroceptivas.",
+            "Propioceptivas."
+          ],
+          "respuesta": "Propioceptivas.",
+          "respuestaCorta": "Las sensaciones propioceptivas informan al cerebro sobre la posición y el movimiento del cuerpo en el espacio, siendo cruciales para mantener el equilibrio al detenerse tras el giro.",
+          "solucionario": "La propiocepción es el sentido que nos permite saber dónde están las partes de nuestro cuerpo sin necesidad de mirarlas. Al detenerse, el sistema vestibular está alterado, por lo que el cerebro depende intensamente de la información de los músculos y articulaciones (propioceptores) para reajustar la postura y mantener el equilibrio. Las sensaciones interoceptivas son internas (hambre, sed) y las exteroceptivas provienen del exterior (vista, oído).",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2024_p42",
+      "contexto": "La diabetes es una enfermedad metabólica crónica caracterizada por altos niveles de glucosa en la sangre. La diabetes es una enfermedad que con el tiempo puede causar daños graves en el corazón, los vasos sanguíneos, los ojos, los riñones y los nervios.\nLa docente de Educación Física está conversando con sus estudiantes sobre la diabetes, sus causas, sus consecuencias y cómo ayudar a prevenirla.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "La docente pregunta a los estudiantes si saben qué es la diabetes y muchos responden que sí, dado que algunos de sus familiares la padecen. Entonces, la docente divide la pizarra en dos y escribe en una mitad la palabra \"VERDADERO\" y en la otra mitad escribe \"FALSO\". Luego, entrega hojas de cartulina con frases sobre la diabetes y les solicita a los estudiantes que las evalúen y coloquen en el lugar de la pizarra que corresponde. Los estudiantes leen las tarjetas, discuten su contenido y las van pegando una a una en la pizarra.\n¿Cuál de los siguientes procesos está promoviendo principalmente la docente cuando solicita a los estudiantes colocar las tarjetas en la pizarra?",
+          "opciones": [
+            "Autoevaluación.",
+            "Recojo de saberes previos.",
+            "Transferencia del aprendizaje."
+          ],
+          "respuesta": "Recojo de saberes previos.",
+          "respuestaCorta": "La actividad está diseñada para que los estudiantes expresen y organicen lo que ya saben o creen saber sobre la diabetes, permitiendo a la docente identificar sus conocimientos iniciales.",
+          "solucionario": "El recojo de saberes previos es una estrategia pedagógica fundamental que consiste en exteriorizar las ideas, nociones y concepciones que los estudiantes ya poseen sobre un tema. Al pedirles que clasifiquen las frases como verdaderas o falsas, la docente está activando esos conocimientos para usarlos como punto de partida de la sesión de aprendizaje.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "La docente observa a los estudiantes pegar las cartulinas en la pizarra e identifica varios errores y algunos aciertos. ¿Cuál de las siguientes afirmaciones acerca de la diabetes es correcta?",
+          "opciones": [
+            "Practicar un estilo de vida saludable permite curar la diabetes.",
+            "El consumo excesivo de azúcar es la principal causa de la diabetes.",
+            "La obesidad constituye un factor de riesgo para desarrollar diabetes."
+          ],
+          "respuesta": "La obesidad constituye un factor de riesgo para desarrollar diabetes.",
+          "respuestaCorta": "Científicamente, está establecido que el sobrepeso y la obesidad son factores de riesgo significativos para el desarrollo de la diabetes tipo 2.",
+          "solucionario": "La afirmación 'c' es la correcta. La obesidad, especialmente la acumulación de grasa abdominal, aumenta la resistencia a la insulina, un mecanismo clave en el desarrollo de la diabetes tipo 2. La diabetes es crónica y no tiene cura, aunque se puede controlar con un estilo de vida saludable (opción a incorrecta). El consumo de azúcar no es la única causa, ya que influyen factores genéticos y de estilo de vida en general (opción b incorrecta).",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Cuál de las siguientes alternativas presenta una concepción errónea sobre la diabetes?",
+          "opciones": [
+            "Realizar actividad física es beneficioso para las personas con diabetes.",
+            "La diabetes no es una enfermedad que se contagie de una persona a otra.",
+            "Las personas con diabetes no pueden consumir alimentos que contienen azúcar."
+          ],
+          "respuesta": "Las personas con diabetes no pueden consumir alimentos que contienen azúcar.",
+          "respuestaCorta": "Esta es una concepción errónea. Las personas con diabetes pueden consumir azúcar, pero deben hacerlo de forma controlada y planificada dentro de una dieta equilibrada.",
+          "solucionario": "El mito de que los diabéticos tienen una prohibición absoluta del azúcar es falso. La clave para una persona con diabetes es la gestión de la ingesta total de carbohidratos, incluyendo los azúcares, para mantener los niveles de glucosa en sangre bajo control. Un plan de alimentación, a menudo con la ayuda de un nutricionista, permite incluir pequeñas cantidades de azúcar de forma segura. Las otras dos afirmaciones son correctas.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Luego de revisar todas las tarjetas, los estudiantes y la docente conversan sobre la importancia de conocer más sobre la diabetes, aprender a identificar sus síntomas y saber cómo actuar ante una fluctuación anormal del nivel de glucosa en la sangre. ¿Cuál de los siguientes síntomas se presenta ante la elevación excesiva del nivel de azúcar, o hiperglucemia, en una persona con diabetes?",
+          "opciones": [
+            "Temblores o sacudidas involuntarias.",
+            "Latidos acelerados del corazón.",
+            "Sensación excesiva de sed."
+          ],
+          "respuesta": "Sensación excesiva de sed.",
+          "respuestaCorta": "La sed excesiva (polidipsia) es un síntoma clásico de la hiperglucemia, ya que el cuerpo intenta eliminar el exceso de glucosa a través de la orina, lo que provoca deshidratación.",
+          "solucionario": "La hiperglucemia provoca que los riñones trabajen en exceso para filtrar y absorber el exceso de glucosa. Cuando no pueden seguir el ritmo, el exceso de glucosa se excreta en la orina, arrastrando líquidos de los tejidos y causando deshidratación y, como consecuencia, una sensación de sed intensa. Los temblores y latidos acelerados son más característicos de la hipoglucemia (nivel bajo de azúcar).",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes síntomas se presenta ante un descenso excesivo del nivel de azúcar, o hipoglucemia, en una persona con diabetes?",
+          "opciones": [
+            "Aumento de producción de orina.",
+            "Confusión e irritabilidad.",
+            "Dificultades para respirar."
+          ],
+          "respuesta": "Confusión e irritabilidad.",
+          "respuestaCorta": "El cerebro depende de la glucosa para funcionar. Un nivel bajo de azúcar (hipoglucemia) afecta directamente al sistema nervioso central, pudiendo causar confusión, irritabilidad y cambios de humor.",
+          "solucionario": "La hipoglucemia priva al cerebro de su principal fuente de energía. Esto puede manifestarse con una variedad de síntomas neurológicos, como confusión, dificultad para concentrarse, irritabilidad, mareos y, en casos graves, pérdida de conciencia. El aumento de orina es síntoma de hiperglucemia, y la dificultad para respirar no es un síntoma primario típico.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "¿Cómo contrarrestar una descompensación producida por una crisis hipoglucémica en un paciente diabético?",
+          "opciones": [
+            "Facilitar que el paciente consuma alimentos ricos en fibra y agua.",
+            "Pedir al paciente que realice respiraciones profundas e intente tranquilizarse.",
+            "Dar al paciente bebidas azucaradas o alimentos con azúcar de absorción rápida."
+          ],
+          "respuesta": "Dar al paciente bebidas azucaradas o alimentos con azúcar de absorción rápida.",
+          "respuestaCorta": "Para tratar una hipoglucemia se necesita elevar rápidamente el nivel de glucosa en la sangre, lo cual se logra ingiriendo azúcares simples de absorción rápida.",
+          "solucionario": "La acción inmediata ante una crisis hipoglucémica (si el paciente está consciente) es administrar entre 15 y 20 gramos de carbohidratos de acción rápida. Ejemplos incluyen jugos de fruta, refrescos no dietéticos, caramelos o tabletas de glucosa. Esto permite que el azúcar llegue rápidamente al torrente sanguíneo y restablezca los niveles de glucosa a un rango seguro. La fibra ralentizaría esta absorción.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Durante la sesión, un estudiante comenta: \"La diabetes es una enfermedad que solo le da a las personas gordas\". Si la docente se propone generar conflicto cognitivo en el estudiante, ¿cuál de las siguientes acciones es más pertinente?",
+          "opciones": [
+            "Presentar ejemplos de personas delgadas que tienen diabetes.",
+            "Explicar que hay muchas personas gordas que no sufren de diabetes.",
+            "Mostrar estadísticas de prevalencia de diabetes en la población según su peso."
+          ],
+          "respuesta": "Presentar ejemplos de personas delgadas que tienen diabetes.",
+          "respuestaCorta": "Presentar un contraejemplo directo (persona delgada con diabetes) desafía la regla absoluta que el estudiante ha formulado (\"solo le da a personas gordas\"), generando así el conflicto cognitivo.",
+          "solucionario": "El conflicto cognitivo se produce cuando una nueva información choca con una creencia o esquema mental preexistente. La afirmación del estudiante es una generalización absoluta. Al presentar un caso concreto que contradice directamente esa regla (como una persona delgada con diabetes, especialmente del tipo 1), se obliga al estudiante a cuestionar su creencia y a reestructurar su comprensión del tema. Es una estrategia más directa y efectiva que las otras opciones para este propósito.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+  
+    {
+      "idGrupo": "asc_secundaria_2024_p49",
+      "contexto": "En una unidad didáctica en la que los estudiantes van a aprender a jugar tenis de mesa, el docente les propone realizar el siguiente juego: los estudiantes se organizan en dos columnas y, a la señal, un estudiante de cada equipo se desplaza una distancia de 10 metros, ida y vuelta, lo más rápido posible, mientras hace rebotar una pelota de tenis de mesa sobre la raqueta, y, al regresar, le da la posta a su compañero de equipo. Si durante el trayecto al estudiante se le cae la pelota, debe regresar al lugar donde se le cayó y retomar el juego. El equipo que termina primero es el ganador.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué tipo de juego ha propuesto el docente a los estudiantes?",
+          "opciones": [
+            "Deportivo.",
+            "Recreativo.",
+            "Predeportivo."
+          ],
+          "respuesta": "Predeportivo.",
+          "respuestaCorta": "El juego es predeportivo porque utiliza un gesto básico del tenis de mesa (hacer rebotar la pelota en la raqueta) de una forma lúdica y simplificada, preparando a los estudiantes para el deporte real.",
+          "solucionario": "Los juegos predeportivos son aquellos que utilizan elementos y movimientos fundamentales de un deporte, pero con reglas más sencillas y un enfoque más lúdico. En este caso, se practica el control de la pelota con la raqueta, una habilidad esencial en el tenis de mesa, dentro del formato de un juego de relevos, lo que facilita el aprendizaje y la familiarización con los implementos.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2024_p50",
+      "contexto": "Dado que los estudiantes están creando una coreografía de hip hop como parte de un proyecto artístico, el docente de Educación Física planifica una sesión en la que explorarán diversas formas de realizar giros corporales, lo que les permitirá ampliar sus posibilidades de movimiento y conocer los ejes corporales implicados en los giros. Luego del calentamiento, el docente indica a los estudiantes danzar libremente alrededor de todo el espacio improvisando movimientos con una música de fondo. Luego, les va proponiendo consignas para que exploren diversos giros corporales y acrobacias para luego integrarlas en su coreografía.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Cuando los estudiantes danzan libremente alrededor de todo el espacio improvisando movimientos con una música de fondo, ¿qué capacidad del CNEB están desarrollando principalmente?",
+          "opciones": [
+            "Comprende su cuerpo.",
+            "Se expresa corporalmente.",
+            "Se relaciona utilizando sus habilidades sociomotrices."
+          ],
+          "respuesta": "Se expresa corporalmente.",
+          "respuestaCorta": "La danza libre e improvisada es una manifestación directa de la capacidad 'Se expresa corporalmente', ya que los estudiantes utilizan el movimiento para comunicar ideas, emociones y sentimientos de manera creativa.",
+          "solucionario": "La capacidad 'Se expresa corporalmente' de la competencia 'Se desenvuelve de manera autónoma a través de su motricidad' implica el uso creativo del cuerpo y el movimiento para expresar sensaciones y pensamientos. La improvisación de movimientos al ritmo de la música es la esencia de esta capacidad, permitiendo a los estudiantes explorar y comunicar a través del lenguaje corporal.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Luego de que los estudiantes han explorado diversos movimientos con la música, el docente comienza a guiar a los estudiantes, proponiéndoles diversos tipos de giro. El docente les indica: \"Giren como una bailarina de ballet o como un patinador sobre hielo, de pie, dando vueltas\" y los estudiantes comienzan a girar sobre su sitio, subiendo los brazos. ¿Sobre qué eje corporal están girando los estudiantes al realizar esta acción?",
+          "opciones": [
+            "Sobre su eje sagital.",
+            "Sobre su eje transversal.",
+            "Sobre su eje longitudinal."
+          ],
+          "respuesta": "Sobre su eje longitudinal.",
+          "respuestaCorta": "El giro tipo 'pirueta' o de patinador se realiza sobre el eje longitudinal, una línea vertical imaginaria que atraviesa el cuerpo de la cabeza a los pies.",
+          "solucionario": "El eje longitudinal o vertical permite los movimientos de rotación. Cuando un estudiante gira sobre sí mismo estando de pie, como en una pirueta, su cuerpo está rotando alrededor de esta línea vertical. Los giros sobre el eje transversal son las volteretas (hacia adelante o atrás) y sobre el eje sagital o anteroposterior son las ruedas laterales o 'aspas de molino'.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Luego, los estudiantes realizan diversos giros y acrobacias según sus posibilidades y con ayuda del docente. ¿En cuál de las siguientes acciones los estudiantes están girando sobre su eje transversal?",
+          "opciones": [
+            "Al hacer un aspa de molino.",
+            "Al realizar un medio mortal.",
+            "Al girar 360 grados apoyados en un solo pie."
+          ],
+          "respuesta": "Al realizar un medio mortal.",
+          "respuestaCorta": "Un medio mortal es una voltereta o 'flip', un movimiento que implica girar el cuerpo de adelante hacia atrás (o viceversa), lo cual ocurre sobre el eje transversal.",
+          "solucionario": "El eje transversal es una línea imaginaria que atraviesa el cuerpo de lado a lado. Los movimientos que ocurren alrededor de este eje son las flexiones y extensiones, como las volteretas o mortales. El aspa de molino gira sobre el eje anteroposterior y el giro de 360 grados sobre el eje longitudinal.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Luego, el docente propone a los estudiantes incorporar algunos de los giros en la coreografía de hip hop que están creando. Los estudiantes se organizan en grupos, comparten los movimientos que les gustaría incluir, valoran sus propias destrezas y luego toman decisiones sobre la coreografía, acordando los giros y acrobacias que van a incluir, sus posiciones, los desplazamientos y los roles de cada uno en la ejecución de las acrobacias. ¿Qué capacidades están desarrollando principalmente los estudiantes durante estas acciones?",
+          "opciones": [
+            "Expresivo-motrices.",
+            "Físico-motrices.",
+            "Socio-motrices."
+          ],
+          "respuesta": "Socio-motrices.",
+          "respuestaCorta": "La actividad descrita se centra en la interacción, la negociación, la toma de acuerdos y la asignación de roles dentro de un grupo para lograr un objetivo común, que son los componentes clave de las capacidades sociomotrices.",
+          "solucionario": "Si bien la creación de la coreografía involucra capacidades expresivas y físicas, el énfasis del proceso descrito está en la interacción social. Las capacidades sociomotrices se refieren a la habilidad de comunicarse, cooperar y organizarse con otros en un contexto motriz. El trabajo en grupo, el debate de ideas y la toma de decisiones conjuntas son acciones que desarrollan directamente estas capacidades.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2024_p54",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Según el enfoque del CNEB, para la iniciación deportiva, ¿cuál de las siguientes acciones metodológicas debe tomarse en cuenta principalmente en la enseñanza-aprendizaje del vóleibol con los estudiantes?",
+          "opciones": [
+            "Proponer situaciones motrices individuales que permitan a cada estudiante desarrollar la técnica básica antes de realizar juegos de oposición.",
+            "Centrarse en la comprensión de la lógica del juego en situaciones lúdicas de colaboración y oposición, e ir agregando acciones técnicas y tácticas progresivamente.",
+            "Centrarse en el acondicionamiento físico de los estudiantes por medio de ejercicios de fortalecimiento corporal y actividades para desarrollar velocidad y agilidad."
+          ],
+          "respuesta": "Centrarse en la comprensión de la lógica del juego en situaciones lúdicas de colaboración y oposición, e ir agregando acciones técnicas y tácticas progresivamente.",
+          "respuestaCorta": "El enfoque actual, basado en la comprensión, prioriza que los estudiantes entiendan la lógica y táctica del juego a través de situaciones jugadas, integrando la técnica de forma contextualizada.",
+          "solucionario": "Frente a modelos tradicionales que se centraban en la repetición aislada de la técnica, el CNEB promueve modelos de enseñanza comprensivos. En este enfoque, el juego y la situación táctica son el punto de partida. Se busca que el estudiante entienda 'para qué' sirve una técnica dentro del juego (la lógica del juego), y a partir de esa necesidad, se introducen y practican los gestos técnicos de manera progresiva y con sentido.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2024_p55",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Dos docentes de Educación Física están conversando y uno de ellos realiza el siguiente comentario: \"Cuando un deportista juega al voleibol, necesita golpear de determinada manera el balón, no solo por lo reglamentado y por la forma de ejecución específica, sino también por su propia seguridad, por la garantía de economizar el esfuerzo y la posibilidad de ser más eficiente durante el juego\". ¿A qué aspecto del deporte se refiere el docente en su comentario?",
+          "opciones": [
+            "A la táctica.",
+            "A la técnica.",
+            "A la estrategia."
+          ],
+          "respuesta": "A la técnica.",
+          "respuestaCorta": "El comentario describe el 'cómo' ejecutar una acción de manera eficiente, segura y económica, lo cual define el concepto de técnica deportiva.",
+          "solucionario": "La técnica deportiva es el modelo ideal de movimiento para realizar una acción específica en un deporte. La descripción del docente se refiere a la ejecución correcta de un gesto (golpear el balón), destacando sus beneficios: eficiencia, economía de esfuerzo y seguridad. Esto se alinea perfectamente con la definición de técnica, en contraposición a la táctica (decisiones en el juego) o la estrategia (plan previo).",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2024_p56",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes alternativas presenta una regla oficial del vóleibol sentado?",
+          "opciones": [
+            "Cada equipo debe tener cuatro jugadores en el campo de juego.",
+            "El primer equipo que gane dos sets de 25 puntos gana el partido.",
+            "La pelvis de los jugadores siempre debe estar en contacto con el piso."
+          ],
+          "respuesta": "La pelvis de los jugadores siempre debe estar en contacto con el piso.",
+          "respuestaCorta": "Una regla fundamental y característica del vóleibol sentado es que la pelvis del jugador debe mantenerse en contacto con el suelo en el momento de jugar el balón.",
+          "solucionario": "La regla más distintiva del vóleibol sentado es que alguna parte del torso del jugador, desde los glúteos hasta los hombros, debe estar en contacto con el suelo al momento de golpear la pelota. Esto incluye la acción de levantar brevemente la pelvis, pero no de despegarla completamente para ganar altura. Las otras opciones son incorrectas: se juega con seis jugadores y los partidos son al mejor de cinco sets.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2024_p57",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "El vóleibol sentado es un deporte adaptado para personas que presentan:",
+          "opciones": [
+            "Discapacidad física.",
+            "Discapacidad visual.",
+            "Síndrome de Down."
+          ],
+          "respuesta": "Discapacidad física.",
+          "respuestaCorta": "El vóleibol sentado es un deporte paralímpico diseñado principalmente para atletas con discapacidad física, especialmente en las extremidades inferiores.",
+          "solucionario": "Este deporte fue creado para permitir la participación de personas con diversas discapacidades físicas, como amputaciones, parálisis cerebral, lesiones de la médula espinal u otras afecciones que afecten la movilidad de las piernas. Su reglamento e inclusividad permiten que atletas con diferentes grados de discapacidad física puedan competir juntos.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2024_p58",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Un docente realiza un diagnóstico inicial de los estudiantes mediante una ficha biométrica y somática. Al culminar, se percata de que un estudiante presenta una curvatura acentuada en la zona dorsal y cervical, como si tuviera una joroba. ¿A qué condición corresponden las características descritas?",
+          "opciones": [
+            "Hiperlordosis.",
+            "Hipercifosis.",
+            "Escoliosis."
+          ],
+          "respuesta": "Hipercifosis.",
+          "respuestaCorta": "La hipercifosis es una exageración de la curvatura convexa de la columna dorsal, lo que comúnmente se conoce como 'joroba' o 'chepa'.",
+          "solucionario": "La columna vertebral tiene curvaturas naturales. La hipercifosis es el aumento anormal de la curvatura cifótica en la región dorsal, produciendo una espalda redondeada o joroba. La hiperlordosis es una curvatura excesiva hacia adentro en la zona lumbar, y la escoliosis es una desviación lateral de la columna.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2024_p59",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes actividades lúdicas es más pertinente para reeducar la postura de los estudiantes?",
+          "opciones": [
+            "La torre más alta: Consiste en caminar sobre los metatarsos tratando de no flexionar las rodillas, con el mentón levantado, el cuerpo extendido al máximo, los brazos levantados más arriba de la cabeza y las manos y los dedos bien extendidos.",
+            "El arado: Consiste en sentarse en parejas, frente a frente; ambos participantes mantienen las piernas bien separadas, extendidas y con los pies en contacto con los de su compañero. Por turnos, uno de los estudiantes toma las manos de su compañero y lo jala para que baje el tronco lo más cerca posible del piso manteniendo las piernas extendidas.",
+            "Duelo de titanes: Consiste en pararse en parejas, frente a frente; ambos participantes sostienen con las manos el extremo de una toalla enrollada, la cual deben jalar al mismo tiempo intentando desplazar a su oponente hacia adelante hasta cruzar una línea marcada en el piso."
+          ],
+          "respuesta": "La torre más alta: Consiste en caminar sobre los metatarsos tratando de no flexionar las rodillas, con el mentón levantado, el cuerpo extendido al máximo, los brazos levantados más arriba de la cabeza y las manos y los dedos bien extendidos.",
+          "respuestaCorta": "Esta actividad promueve activamente la autoelongación y la alineación de la columna vertebral, incentivando una postura erguida de manera consciente y lúdica.",
+          "solucionario": "La actividad 'La torre más alta' está diseñada específicamente para trabajar la conciencia postural y el enderezamiento activo de la columna. Al pedir a los estudiantes que se estiren 'al máximo' y levanten los brazos, se fomenta la extensión de la columna y se contrarrestan posturas encorvadas. Las otras actividades se centran más en la flexibilidad de los isquiotibiales (El arado) y en la fuerza de tracción (Duelo de titanes), no directamente en la reeducación postural.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2024_p60",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes aspectos NO es regulado por el aparato vestibular?",
+          "opciones": [
+            "El tono muscular.",
+            "La postura corporal.",
+            "Los movimientos oculares."
+          ],
+          "respuesta": "El tono muscular.",
+          "respuestaCorta": "Si bien el aparato vestibular influye en el tono muscular para mantener el equilibrio, no es su regulador principal. La regulación del tono muscular es una función más compleja del sistema nervioso central, incluyendo el cerebelo y los ganglios basales.",
+          "solucionario": "El aparato vestibular, ubicado en el oído interno, es fundamental para el equilibrio (postura corporal) y para coordinar los movimientos de la cabeza con los movimientos oculares (reflejo vestíbulo-ocular). Aunque envía señales que ayudan a ajustar el tono de los músculos posturales para mantener el equilibrio, la regulación general del tono muscular depende de una red neurológica más amplia y compleja que el aparato vestibular por sí solo.",
+          "seccion": "Casuística"
+        }
+      ]
+    }
+  ]
+}
+  
