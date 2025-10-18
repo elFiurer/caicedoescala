@@ -1130,5 +1130,18 @@
     "archivos": {
       "especifico": "data/ascenso/secundaria/2024/ascenso_edufisica2024.json"
     }
+  },
+  {
+    "id": 99,
+    "proceso": "Ascenso",
+    "anio": 2024,
+    "nivel": "Secundaria",
+    "especialidad": "Educación Religiosa",
+    "modalidad": "EBR",
+    "preguntas": 60,
+    "tiempo": 180,
+    "archivos": {
+      "especifico": "data/ascenso/secundaria/2024/ascenso_religion2024.json"
+    }
   }
 ]
