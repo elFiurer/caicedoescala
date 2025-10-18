@@ -1143,5 +1143,18 @@
     "archivos": {
       "especifico": "data/ascenso/secundaria/2024/ascenso_religion2024.json"
     }
+  },
+  {
+    "id": 100,
+    "proceso": "Ascenso",
+    "anio": 2024,
+    "nivel": "Secundaria",
+    "especialidad": "Inglés",
+    "modalidad": "EBR",
+    "preguntas": 60,
+    "tiempo": 180,
+    "archivos": {
+      "especifico": "data/ascenso/secundaria/2024/ascenso_ingles2024.json"
+    }
   }
 ]

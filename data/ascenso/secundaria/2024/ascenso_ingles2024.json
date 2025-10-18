@@ -1,0 +1,1003 @@
+{
+  "completo": [
+    {
+      "idGrupo": "asc_secundaria_2024_p01",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Dario wants his students to work on written cohesion before they start writing their own\narticle.\nWhich of the following strategies is appropriate to achieve Dario's purpose?",
+          "opciones": [
+            "The teacher brings envelopes that contain pieces of an article that he has previously cut\nup and mixed up.\nNext, he groups the students, gives each group an envelope and asks\nthem to put the parts of the article in the correct order.\nThen they check the order of the\narticle as a whole class.",
+            "The teacher gives each student a five-paragraph article and writes some sentences on\nthe board.\nNext, he asks the students to insert the sentences in the most logical place\nwithin the paragraphs.\nThen they compare their choices with a classmate.",
+            "The teacher gives the students an article that has some blanks.\nNext, he asks the students\nto fill in the blanks with an appropriate signal or reference word.\nThen the students get in\ngroups to check their answers."
+          ],
+          "respuesta": "The teacher gives the students an article that has some blanks.\nNext, he asks the students\nto fill in the blanks with an appropriate signal or reference word.\nThen the students get in\ngroups to check their answers.",
+          "respuestaCorta": "Esta estrategia se enfoca directamente en la cohesión (cohesion), ya que pide a los estudiantes usar palabras de referencia o conectores (signal or reference word) para llenar los espacios, conectando así las ideas a nivel de oración y párrafo.",
+          "solucionario": "La cohesión se refiere a los mecanismos lingüísticos (como conectores, pronombres, sinónimos) que unen un texto. La opción C aborda esto explícitamente al hacer que los estudiantes completen espacios con 'signal or reference words'. Las opciones A y B trabajan la coherencia (el orden lógico de las ideas), no la cohesión (los enlaces lingüísticos).",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2024_p02",
+      "contexto": "Bartolomé wants his students to discuss on the following question: \"Should tablets replace\ntextbooks in high schools?\"\nDuring the discussion, Bartolomé wants his students to use the\nfollowing expressions:\n• I think your idea is pretty accurate. However, we should consider...\n• Could you say that again, please?\n• I'm sorry, I did not get your point.\n• It's important that you...",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Which of the following language functions is NOT involved in the expressions above?",
+          "opciones": [
+            "Asking for clarifications.",
+            "Responding to praise.",
+            "Persuading others."
+          ],
+          "respuesta": "Responding to praise.",
+          "respuestaCorta": "Ninguna de las expresiones listadas (pedir clarificación, persuadir, o discrepar parcialmente) corresponde a la función de responder a un elogio (Responding to praise).",
+          "solucionario": "Analizando las expresiones: 'I think your idea is... However...' y 'It's important that you...' son para persuadir (c). 'Could you say that again?' y 'I'm sorry, I did not get your point' son para pedir clarificación (a). La función 'Responding to praise' (ej. 'Thank you', 'That's very kind of you') no está presente.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2024_p03",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Ofelia wants to help her third-grade students improve their listening skills using authentic\nlistening resources on movie reviews.\nWhich of the following activities is using those types\nof resources?",
+          "opciones": [
+            "The students listen to the recording of a graded level movie review.\nThen they discuss if\nthey agree or not with the comments given in the review.",
+            "The students listen to a movie review podcast. After that, based on the content of the\npodcast, they make a comic strip that depicts the story of the movie.",
+            "The students listen to an audio of a movie review recorded by their teacher and a\ncolleague.\nNext, based on the information heard, the students identify the elements of\nthe movie review."
+          ],
+          "respuesta": "The students listen to a movie review podcast. After that, based on the content of the\npodcast, they make a comic strip that depicts the story of the movie.",
+          "respuestaCorta": "Un recurso 'auténtico' es aquel creado para hablantes nativos, no con fines pedagógicos. Un podcast (opción B) es un recurso auténtico.",
+          "solucionario": "Los recursos auténticos (authentic resources) son materiales creados por y para hablantes nativos, no adaptados para estudiantes de idiomas. Un podcast (B) es un ejemplo perfecto. Un 'graded level review' (A) y una grabación hecha por el profesor (C) son recursos pedagógicos o adaptados, no auténticos.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2024_p04",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Abel has noticed that his students usually have difficulties managing their time when working\nin group discussions and, as a consequence, they don't finish the activities assigned.\nAware of\nthat situation, he wants to help his students manage their time better.\nWhich of the following\nactions is NOT appropriate to achieve his purpose?",
+          "opciones": [
+            "Let students work and, when the time is over, collect only the products of the groups\nthat have finished the activity.\nThis way, students in other groups will manage their time\nbetter in future activities.",
+            "Set time limits before the activity starts and, while the students are working, remind\nthem occasionally how much time they still have ahead.\nThis way, the students will try to\nfinish the task on time.",
+            "Assign each student of the group a role (time controller, secretary, reporter, etc.).\nThis\nway, they will stay focused on the role they were assigned and won't get distracted from\nthe task."
+          ],
+          "respuesta": "Let students work and, when the time is over, collect only the products of the groups\nthat have finished the activity.\nThis way, students in other groups will manage their time\nbetter in future activities.",
+          "respuestaCorta": "La acción A es punitiva y no enseña la habilidad de gestionar el tiempo. Simplemente castiga al grupo por no terminar, lo cual genera frustración y no es formativo.",
+          "solucionario": "El propósito es ayudar a los estudiantes a *gestionar mejor* su tiempo, lo cual es una habilidad que debe enseñarse. Las opciones B (fijar límites y recordarlos) y C (asignar un 'time controller') son estrategias activas de andamiaje para enseñar esa habilidad. La opción A es una medida punitiva que no ofrece soporte; simplemente sanciona el fallo sin enseñar cómo evitarlo.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2024_p05",
+      "contexto": "During a speaking session, Sara provides the students with the following input:",
+      "imagen": "img/ascenso/secundaria/2024/ingles/1.jpg",
+      "preguntas": [
+        {
+          "pregunta": "First, Sara gives each student a copy of the conversation above.\nShe asks them to put the\nsentences in the correct order, following the logical sequence of the conversation and paying\nattention to how well the ideas fit together.\nWhich of the following aspects of language is involved in Sara's activity?",
+          "opciones": [
+            "Fluency.",
+            "Cohesion.",
+            "Coherence."
+          ],
+          "respuesta": "Coherence.",
+          "respuestaCorta": "La actividad pide ordenar las oraciones en una 'secuencia lógica' (logical sequence) para que las ideas 'encajen bien' (fit together). Esto es la definición de coherencia.",
+          "solucionario": "La coherencia se refiere al orden lógico y el sentido global de un texto o diálogo. La actividad de ordenar oraciones desordenadas para encontrar la secuencia lógica trabaja directamente la coherencia. La cohesión (B) se enfocaría en las palabras que conectan (ej. 'and', 'but', 'so'). La fluidez (A) se refiere a la velocidad y facilidad al hablar.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Considering the content of the conversation, which of the following functions is involved in\nit?",
+          "opciones": [
+            "Asking for location.",
+            "Giving directions.",
+            "Offering help."
+          ],
+          "respuesta": "Asking for location.",
+          "respuestaCorta": "Las preguntas clave en el diálogo, como '...is there a good restaurant in this part of town?' y 'Are there any good cafés near here?', son ejemplos claros de la función 'Asking for location'.",
+          "solucionario": "El hablante A pregunta 'is there a good restaurant...' y 'Are there any good cafés near here?'. Ambas son preguntas sobre la ubicación de lugares (Asking for location). Aunque B responde (ej. 'near the station'), la función principal de 'Giving directions' (dar instrucciones detalladas, ej. 'go straight, turn left') no está presente. 'Offering help' (C) tampoco ocurre; A pide ayuda.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Next, Sara would like her students to practice the conversation using their nonverbal and\nparaverbal sources.\nShe is about to give the students some instructions to practice the\nconversation.\nWhich would be the least appropriate instruction to accomplish Sara's aim?",
+          "opciones": [
+            "\"Practice the conversation using the right pace to deliver the information thoroughly.\nDon't forget to focus on your body language.\"",
+            "\"Practice the conversation using the right tone to convey your message clearly. Also,\nremember that you have to focus on your facial expressions.\"",
+            "\"Practice the conversation using the right pronunciation to make sure your classmates\nunderstand you. Additionally, be ready to say your lines properly.\""
+          ],
+          "respuesta": "\"Practice the conversation using the right pronunciation to make sure your classmates\nunderstand you. Additionally, be ready to say your lines properly.\"",
+          "respuestaCorta": "La instrucción C se enfoca en 'pronunciation' y 'say your lines properly', que son aspectos verbales (lingüísticos), no en los recursos no verbales (body language, facial expressions) o paraverbales (pace, tone) que la docente quería practicar.",
+          "solucionario": "El objetivo de Sara es practicar recursos 'no verbales' (lenguaje corporal, expresiones faciales) y 'paraverbales' (tono, ritmo/pace, volumen). Las opciones A (pace, body language) y B (tone, facial expressions) apuntan directamente a ese objetivo. La opción C se centra en la 'pronunciation' (pronunciación), que es un componente verbal o lingüístico del habla, no paraverbal o no verbal.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2024_p08",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "During a writing session, Rosa has asked her students to imagine they have a friend in another\ncountry.\nShe asks them to write an e-mail to that friend describing their vacation plans.\nBefore\nthe students write the text, Rosa wants them to make an outline.\nWhich of the following strategies is appropriate to achieve the teacher's purpose?",
+          "opciones": [
+            "Tell the students to write some sentences describing their vacation plans and put those\nsentences into paragraphs.\nAsk the students to connect the sentences and paragraphs\nusing varied linking words.\nThen ask the students to exchange their paragraphs with a\nclassmate for correction.",
+            "Tell the students to make a list of their vacation plans and add some details about each\nplan.\nAsk the students to use brief and concise information in each plan.\nLast, ask them to\ncompare their list with a partner and give each other suggestions on how to improve it.",
+            "Tell the students to write, in their notebooks, as many ideas as possible about their\nvacation plans.\nAsk the students to choose the information they consider more interesting\nto include in their texts.\nNext, ask the students to share their ideas with a peer."
+          ],
+          "respuesta": "Tell the students to make a list of their vacation plans and add some details about each\nplan.\nAsk the students to use brief and concise information in each plan.\nLast, ask them to\ncompare their list with a partner and give each other suggestions on how to improve it.",
+          "respuestaCorta": "Un 'outline' (esquema) es una lista estructurada de ideas principales y detalles (lista de planes y detalles). La opción B describe perfectamente este proceso de planificación.",
+          "solucionario": "El objetivo es crear un 'outline' (esquema o borrador inicial). La opción B (hacer una lista de planes y añadir detalles) es la definición de un outline. La opción A (escribir oraciones y párrafos) ya es la etapa de 'drafting' (redacción). La opción C (escribir tantas ideas como sea posible) describe la técnica de 'brainstorming' (lluvia de ideas), que precede al outline.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2024_p09",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Luisa's students are going to watch a short video about popular sports among young people.\nShe wants to engage the students in a meaningful activity before they watch the video.\nWhich of the following activities is most appropriate to achieve Luisa's purpose?",
+          "opciones": [
+            "The teacher shows the students pictures of sports and athletes.\nNext, the students\nmention what they see in the pictures and the teacher writes this information on the\nboard.",
+            "The teacher gets the students to brainstorm words connected to sports.\nThey write the\nwords in their notebooks and then they share the words with the whole class.",
+            "The teacher writes questions related to the sports the students play or would like to play.\nThey discuss the questions in pairs and then report their answers to the class."
+          ],
+          "respuesta": "The teacher writes questions related to the sports the students play or would like to play.\nThey discuss the questions in pairs and then report their answers to the class.",
+          "respuestaCorta": "Una actividad 'meaningful' (significativa) conecta el tema con la vida personal de los estudiantes. Discutir los deportes que ellos mismos juegan o quisieran jugar (Opción C) logra esto.",
+          "solucionario": "El objetivo es una actividad 'meaningful' (significativa) de 'pre-watching'. Las opciones A (describir fotos) y B (brainstorming de vocabulario) son actividades de 'pre-' válidas, pero se centran en el vocabulario. La opción C es la más significativa porque personaliza el tema, conectando el contenido del video (deportes) con las propias experiencias y deseos de los estudiantes ('sports the students play or would like to play').",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2024_p10",
+      "contexto": "Amanda wants the students in her class to use the following expressions in a dialogue:\n• I'd rather go to ...\n. It's very kind of you, but...\n• Actually, I think I'm going to pass on it.\n• Let me sleep on it.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Which of the following language functions is Amanda trying to promote with the expressions\nabove?",
+          "opciones": [
+            "Disagreeing with an opinion.",
+            "Expressing preference.",
+            "Rejecting an offer."
+          ],
+          "respuesta": "Rejecting an offer.",
+          "respuestaCorta": "Expresiones como 'It's very kind of you, but...' y 'I think I'm going to pass on it' son fórmulas sociales utilizadas específicamente para rechazar una oferta (Rejecting an offer) educadamente.",
+          "solucionario": "Analicemos las expresiones. 'I'd rather go to...' (B) expresa una preferencia, pero las otras tres no. 'It's very kind of you, but...', 'I'm going to pass on it' (rechazar) y 'Let me sleep on it' (posponer una decisión ante una oferta) se agrupan mejor bajo la función de 'Rejecting an offer' (Rechazar una oferta). 'Disagreeing with an opinion' (A) usaría frases como 'I don't agree' o 'I see your point, but...'.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2024_p11",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Maximiliano wants to use bottom-up processing to help his students develop their listening\nskills.\nHe has thought of three activities to be presented before the students listen to the talk\n\"Stay safe during an earthquake.\"\nWhich of the activities he has thought of is related to bottom-up processing?",
+          "opciones": [
+            "The teacher gives each student a list of key words from the talk.\nHe practices the\npronunciation of the words with the students.\nWhile listening, the students underline\nthe words mentioned in the talk.",
+            "The teacher shows some pictures that are related to the talk and some pictures that\naren't.\nNext, in pairs, the students decide which pictures are related to earthquakes and\nexplain the reasons of their choice.",
+            "The teacher writes on the board the title of the talk.\nHe asks the students to think of the\npossible content of the talk and write their ideas in their notebooks.\nThen they listen to\nthe talk to check their predictions."
+          ],
+          "respuesta": "The teacher gives each student a list of key words from the talk.\nHe practices the\npronunciation of the words with the students.\nWhile listening, the students underline\nthe words mentioned in the talk.",
+          "respuestaCorta": "El procesamiento 'bottom-up' (de abajo hacia arriba) se enfoca en decodificar las partes pequeñas del lenguaje (sonidos, palabras clave). La actividad A se centra en identificar 'key words' específicas.",
+          "solucionario": "El procesamiento 'bottom-up' en listening implica construir el significado a partir de las unidades más pequeñas (sonidos, palabras, gramática). La opción A, que pide identificar 'key words' (palabras clave) mientras escuchan, es una actividad 'bottom-up'. Las opciones B (usar imágenes) y C (predecir el contenido desde el título) son 'top-down' (de arriba hacia abajo), ya que usan el conocimiento previo y el contexto para inferir el significado.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2024_p12",
+      "contexto": "Daisy, a second-grade teacher, wants to help her students develop their reading skills.\nShe has brought the following story to be read in class.",
+      "imagen": "img/ascenso/secundaria/2024/ingles/2.jpg",
+      "preguntas": [
+        {
+          "pregunta": "Before the students read the text, Daisy wants to activate the students' prior knowledge\nabout the story.\nWhich of the following activities is NOT appropriate to carry out?",
+          "opciones": [
+            "Tell the students they are going to read the story of \"The Ugly Duckling\" using a puzzle\nthat contains parts of the written story.\nDivide the class into groups of four students and\ngive each group an envelope containing a copy of the story split into pieces.\nAsk the\nstudents to put the pieces together and then read the story to the whole class.",
+            "Stick, on the board, pictures of the characters of the story.\nWrite the names of the\ncharacters under each picture: The Ugly Duckling, Mother Duck, swam, etc. Pair up the\nstudents and ask them to tell each other what they know about the story.\nThen ask some\nvolunteers to share their ideas aloud.",
+            "Show the students the cover of the story \"The Ugly Duckling.\"\nOn the board, write some\nquestions to predict what comes in the story.\nPair up the students and ask them to\nanswer the questions together.\nThen invite some students to share their answers with\nthe rest of the class."
+          ],
+          "respuesta": "Tell the students they are going to read the story of \"The Ugly Duckling\" using a puzzle\nthat contains parts of the written story.\nDivide the class into groups of four students and\ngive each group an envelope containing a copy of the story split into pieces.\nAsk the\nstudents to put the pieces together and then read the story to the whole class.",
+          "respuestaCorta": "La actividad A es una actividad 'while-reading' (mientras leen) o 'post-reading' (jigsaw reading), no una actividad 'pre-reading' (antes de leer) para activar conocimiento previo.",
+          "solucionario": "El objetivo es 'activar el conocimiento previo' (activate prior knowledge) *antes* de leer (Before the students read). Las opciones B (usar imágenes de personajes) y C (predecir desde la portada) son actividades clásicas de 'pre-reading'. La opción A (armar la historia con piezas) es una actividad que requiere que los estudiantes lean y ordenen el texto *mientras* lo procesan (while-reading), no antes.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    
+    {
+      "idGrupo": "asc_secundaria_2024_p13",
+      
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "After the students read the text once, Daisy wants them to interpret information from it.\nWhich of the following questions is appropriate for the teacher's purpose?",
+          "opciones": [
+            "Why did The Ugly Duckling live in the barn for some time?",
+            "Why did Mother Duck say \"but never mind. I'm sure you've got a heart of gold\"?",
+            "Why did the other animals reject The Ugly Duckling when he wanted to play with them?"
+          ],
+          "respuesta": "Why did Mother Duck say \"but never mind. I'm sure you've got a heart of gold\"?",
+          "respuestaCorta": "Esta pregunta requiere que los estudiantes interpreten el significado de la frase 'heart of gold' (corazón de oro) en el contexto de la apariencia 'diferente' del patito.",
+          "solucionario": "El objetivo es 'interpretar información'. Las opciones A ('...live in the barn') y C ('...reject The Ugly Duckling') piden recuperar información explícita (Retrieval). La opción B pide interpretar el significado de una expresión idiomática ('heart of gold') en el contexto de la historia, infiriendo que la madre valoraba su interior a pesar de su exterior.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Here are some sentences that the characters used in the story:\n• \"You do look different from my other ducklings...but never mind. I'm sure you've got\na heart of gold.\"\n• \"Even though I'm not fluffy and golden as my brothers and sisters are, I'm just as\ngood! - and I'm even better at swimming!\"\n• \"Our growing process takes longer. Still, we have to be patient.\"\nWhich of the following language functions is related to the expressions in bold?",
+          "opciones": [
+            "Contrasting ideas.",
+            "Expressing disbelief.",
+            "Restating information."
+          ],
+          "respuesta": "Contrasting ideas.",
+          "respuestaCorta": "Las palabras en negrita ('but', 'Even though', 'Still') son conectores lingüísticos que se utilizan específicamente para introducir un contraste o una oposición entre dos ideas.",
+          "solucionario": "Las conjunciones y adverbios en negrita ('but', 'Even though', 'Still') son marcadores discursivos clásicos para expresar contraste. 'But' opone 'diferente' con 'corazón de oro'. 'Even though' contrasta la apariencia ('not fluffy') con la habilidad ('just as good'). 'Still' contrasta el proceso largo con la necesidad de paciencia.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Next, Daisy writes some questions on the board and asks the students to discuss them in\npairs.\nHere are the questions she presents:\n• What do you think about the behavior of the characters in the story?\n• What would you do if you were The Ugly Duckling's mother?\n• What did you learn from the story?\nWhat is Daisy aiming at with the questions presented?",
+          "opciones": [
+            "Having the students retrieve explicit information.",
+            "Having the students develop critical thinking skills.",
+            "Having the students summarize the content of the story."
+          ],
+          "respuesta": "Having the students develop critical thinking skills.",
+          "respuestaCorta": "Las preguntas ('What do you think...', 'What would you do if...', 'What did you learn...') piden a los estudiantes evaluar, opinar y reflexionar sobre el texto, lo cual desarrolla el pensamiento crítico.",
+          "solucionario": "Estas preguntas no piden resumir (C) ni localizar datos (A). Son preguntas abiertas que exigen reflexión, evaluación (juzgar el comportamiento), aplicación (ponerse en el lugar de la madre) y extracción de una moraleja (aprender). Todas estas son habilidades de pensamiento crítico (critical thinking).",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "After the students have worked on different comprehension tasks, Daisy wants them to\ndevelop their writing skills through a post-reading task.\nWhich of the following tasks is more\nappropriate to carry out?",
+          "opciones": [
+            "Ask the students to write an extra paragraph about the future of the duckling after\nrealizing he was a beautiful swam.",
+            "Write, on the board, five questions about the text and ask the students to answer them\nusing the information provided in the story.",
+            "Encourage the students to make a list of words that were new for them in the text and\nask them to make a sentence with each of those words in their notebooks."
+          ],
+          "respuesta": "Ask the students to write an extra paragraph about the future of the duckling after\nrealizing he was a beautiful swam.",
+          "respuestaCorta": "La opción A es una tarea de 'post-reading' (después de la lectura) que desarrolla la habilidad de escritura (writing) de forma creativa, pidiendo una producción textual.",
+          "solucionario": "El objetivo es una tarea de 'post-reading' centrada en 'writing skills'. La opción A (escribir un párrafo extra) es una tarea de escritura creativa (producción). La opción B (responder preguntas) es una tarea de comprensión lectora (reading comprehension), no de escritura. La opción C (hacer oraciones con vocabulario) es una práctica de vocabulario, menos enfocada en el desarrollo de la habilidad de escritura de textos.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2024_p17",
+      "contexto": "Thalia wants her students to practice demonstratives (this/that/these/those). She has thought\nof the following strategies:",
+      "imagen": "img/ascenso/secundaria/2024/ingles/3.jpg",
+      "preguntas": [
+        {
+          "pregunta": "Which of the strategies Thalia has thought of corresponds to the Functional approach?",
+          "opciones": [
+            "Strategy 1.",
+            "Strategy 2.",
+            "Strategy 3."
+          ],
+          "respuesta": "Strategy 2.",
+          "respuestaCorta": "El 'Functional approach' enseña el lenguaje priorizando su uso en contextos reales. La Estrategia 2 sitúa el uso de demostrativos en una función comunicativa: 'empacar ropa para un viaje'.",
+          "solucionario": "El 'Functional approach' (Enfoque Funcional) se centra en el propósito comunicativo del lenguaje (la función) más que en la gramática aislada. La Estrategia 2 (B) hace esto al contextualizar los demostrativos en una situación real (empacar para un viaje) y usarlos en un diálogo (práctica comunicativa). La Estrategia 1 es un enfoque estructural (Presentation-Practice-Production) y la Estrategia 3 es un enfoque inductivo (guiar a los estudiantes a descubrir la regla).",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2024_p18",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Marisela's students are participating in a debate as part of a free speaking activity.\nWhile\ndebating, a student forgets a word, stops speaking, and makes some effort to remember the\nword.\nGiven that situation, which could be the best way to correct the student's mistake?",
+          "opciones": [
+            "Say the word the student has forgotten and ask him to repeat the word after her.",
+            "Call on a volunteer to help the student recall the word he has forgotten.",
+            "Tell the student not to worry and ask him to carry on with his arguments."
+          ],
+          "respuesta": "Tell the student not to worry and ask him to carry on with his arguments.",
+          "respuestaCorta": "En una actividad de 'free speaking' (habla fluida) como un debate, el objetivo principal es la comunicación y la fluidez, no la precisión. Interrumpir para corregir (A, B) corta la fluidez.",
+          "solucionario": "El contexto es una 'free speaking activity' (actividad de fluidez). En estas actividades, la prioridad es que el estudiante comunique sus ideas. Interrumpir al estudiante (Opción A) o a otro compañero (Opción B) para corregir una palabra rompe el flujo de la comunicación (fluency). Lo más apropiado es priorizar la fluidez, animar al estudiante a continuar (Opción C) y, si es necesario, tomar nota del error para abordarlo más tarde (delayed correction).",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2024_p19",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Aldo's fifth-grade students are reading an article called \"Cultures around the world,\" and\nhe wants to check students' understanding of the content through formative assessment.\nWhich of the following activities is NOT appropriate to achieve Aldo's purpose?",
+          "opciones": [
+            "The students work in groups to make a poster about the article.\nAfter that, they present the\nposters to the whole class.\nAldo uses a rubric to give a score to each of the presentations\nof the posters.",
+            "The students work in groups to draw a concept map about the article.\nNext, they hand in\ntheir maps to the teacher. Aldo uses a checklist to monitor reading comprehension and\nwrites some recommendations if needed.",
+            "The students work in pairs to discuss some open-ended questions about the article.\nThen they share their answers with another pair. While the students are discussing the\nquestions, Aldo walks around the classroom and makes some comments about the\nstudents' answers."
+          ],
+          "respuesta": "The students work in groups to make a poster about the article.\nAfter that, they present the\nposters to the whole class.\nAldo uses a rubric to give a score to each of the presentations\nof the posters.",
+          "respuestaCorta": "La evaluación formativa busca monitorear y dar retroalimentación para mejorar. La opción A describe una evaluación sumativa, ya que asigna 'a score' (una calificación) al producto final.",
+          "solucionario": "La evaluación formativa (formative assessment) se enfoca en el proceso de aprendizaje y provee retroalimentación (feedback) para mejorar. Las opciones B (checklist y recomendaciones) y C (monitoreo y comentarios) son formativas. La opción A, al 'give a score' (dar una calificación) a la presentación final, es una evaluación sumativa, que mide el resultado final del aprendizaje.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2024_p20",
+      "contexto": "Luz is checking the written production of her second-grade students.\nThey presented a short\ntext describing the routine of a member of their family.\nLeonardo, one of her students, has handed in his first version of the text:\nMy brother is a student. He wakes up 7am. He has breakfast 7.20. We go school 8 am.\nNext, he studies 8.15am and 1pm. He does homework 4pm. He watches TV and has\nlunch. He sleeps 10pm.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Luz will check Leonardo's text. Which of the following aspects should be prioritized in the\nrevision of Leonardo's text?",
+          "opciones": [
+            "Word order.",
+            "Prepositions.",
+            "Verb tense."
+          ],
+          "respuesta": "Prepositions.",
+          "respuestaCorta": "El texto muestra un error sistemático en la omisión de preposiciones de tiempo ('at' 7am, 'at' 7.20, 'at' 4pm, 'at' 10pm) y lugar ('to' school), lo cual es el problema más recurrente.",
+          "solucionario": "Analizando el texto, el 'Word order' (A) es generalmente correcto (Sujeto-Verbo-Objeto). El 'Verb tense' (C) es correcto (Presente Simple para rutinas: wakes up, studies, etc.). El error más evidente y repetitivo es la omisión de preposiciones: 'wakes up *at* 7am', 'breakfast *at* 7.20', 'go *to* school', 'homework *at* 4pm', 'sleeps *at* 10pm'. Por lo tanto, las preposiciones (B) deben ser priorizadas.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2024_p21",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "During a reading session, Oswaldo's students are giving the text a first reading.\nWhile reading,\na student raises his hand and asks the teacher for the meaning of the phrasal verb \"back up.\"\nWhich of the following actions is better for the teacher to carry out?",
+          "opciones": [
+            "Tell the student that, at this point, it is important to understand the general idea.\nThen\npoint out that there will be a moment to check vocabulary as a whole class.\nWhen the\nstudents finish reading, ask them to circle the words they don't understand in order to\nclarify their meaning.",
+            "Tell the student that the phrasal verb \"back up\" is similar in meaning to \"support\" or\n\"confirm,\" but that it's more informal.\nThen give the student an example using \"back up.\"\nAfter that, encourage the student to think of another situation in which he could use that\nphrasal verb.",
+            "Tell the student what a phrasal verb is and explain the meaning of \"back up\" in English.\nIf the student doesn't understand the meaning of that phrasal verb, translate it into\nSpanish.\nFinally, ask the student if he has problems with the meaning of other words in\nthe text."
+          ],
+          "respuesta": "Tell the student that, at this point, it is important to understand the general idea.\nThen\npoint out that there will be a moment to check vocabulary as a whole class.\nWhen the\nstudents finish reading, ask them to circle the words they don't understand in order to\nclarify their meaning.",
+          "respuestaCorta": "Durante la 'first reading' (primera lectura), el objetivo es la comprensión global (gist). Detenerse a explicar vocabulario específico (B, C) interrumpe el flujo y el objetivo de la actividad.",
+          "solucionario": "La situación ocurre durante la 'first reading' (primera lectura), cuyo propósito es usualmente 'skimming' o 'reading for gist' (comprensión global). Detener la lectura de toda la clase para explicar un 'phrasal verb' (Opción B) o dar una lección de gramática y traducir (Opción C) interrumpe el flujo. Lo más pedagógico (Opción A) es recordarle al estudiante el objetivo (idea general) y posponer las dudas de vocabulario para una etapa posterior, promoviendo la inferencia.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2024_p22",
+      "contexto": "Teofilo has noticed that some of the students seem uninterested and bored at the beginning\nof the lessons.\nHe asks his colleagues to suggest an activity to start his lesson.\nHere are some\nof the activities his colleagues recommend:\nBernardo says: \"I suggest an activity that helps activate students' schemata. It is a good\nway to make sure they get familiar with the topic.\"\nCarmen says: \"You should start the lesson with an activity in which the students introduce\neach other. That way, they will feel more relaxed together.\"\nDionisio says: \"Maybe you can involve the students in an activity such as a game or an\nenergizer. This will engage your students and get them in the mood to learn.\"",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Which of Teofilo's colleagues has suggested a warm-up?",
+          "opciones": [
+            "Bernardo.",
+            "Carmen.",
+            "Dionisio."
+          ],
+          "respuesta": "Dionisio.",
+          "respuestaCorta": "Un 'warm-up' o 'energizer' es una actividad corta y dinámica al inicio de la clase para motivar y 'despertar' a los estudiantes. La sugerencia de Dionisio (juego o energizer) encaja perfectamente.",
+          "solucionario": "Un 'warm-up' (o 'warmer') tiene como objetivo 'calentar' a los estudiantes, captar su interés y ponerlos 'in the mood to learn'. La sugerencia de Dionisio (un juego o 'energizer') cumple esta función de motivación y dinamismo. La de Bernardo (activar esquemas) es un 'lead-in', que introduce el tema. La de Carmen (presentarse) es un 'ice-breaker', más útil al inicio de un curso.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2024_p23",
+      "contexto": "Irene would like her students to perform a roleplay, within the context of two language\nfunctions.\nFor this purpose, she provides them with these expressions:\n• What happened? How are you feeling?\n• Are you ok? You look worried.\n• Is everything under control?\n• Before you move on, I'd like to say...\n• Can I just add something here?",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Which two language functions are the ones Irene would like her students to practice?",
+          "opciones": [
+            "Complimenting someone / establishing guidelines.",
+            "Expressing concern / interrupting another speaker politely.",
+            "Asking about other people's opinions / clarifying or arranging one's ideas."
+          ],
+          "respuesta": "Expressing concern / interrupting another speaker politely.",
+          "respuestaCorta": "El primer grupo de frases ('What happened?', 'Are you ok?') expresa preocupación ('Expressing concern'). El segundo grupo ('Before you move on...', 'Can I just add...') se usa para interrumpir educadamente.",
+          "solucionario": "El set de expresiones se divide claramente en dos funciones. Las primeras tres ('What happened? How are you feeling?', 'Are you ok? You look worried.', 'Is everything under control?') son para mostrar interés por el bienestar de alguien (Expressing concern). Las últimas dos ('Before you move on, I'd like to say...', 'Can I just add something here?') son fórmulas estándar para interrumpir una conversación de manera educada (Interrupting politely).",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2024_p24",
+      "contexto": "Anna's students are going to listen to the following conversation:\nA: I saw the movie \"The walker\" yesterday.\nB: Really! How did you like it?\nA: I loved it! The soundtrack and the special effects were\namazing.\nB: Oh yeah! The special effects really impressed me too.\nBefore the students listen to the conversation, Anna gives the following instructions: \"You\nare going to listen to a short conversation between two friends. Listen to it once and answer:\nWhat is the subject of the conversation?\"",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Which skill is the teacher trying to develop with her question?",
+          "opciones": [
+            "Listening for gist.",
+            "Inferring attitude.",
+            "Listening for details."
+          ],
+          "respuesta": "Listening for gist.",
+          "respuestaCorta": "La pregunta 'What is the subject of the conversation?' (¿Cuál es el tema de la conversación?) pide la idea general o principal del audio, lo cual es 'Listening for gist'.",
+          "solucionario": "'Listening for gist' (comprensión global) significa entender la idea principal o el tema general de un audio. La pregunta 'What is the subject...?' busca exactamente eso. 'Listening for details' (C) buscaría información específica (ej. '¿Qué le gustó de la película?'). 'Inferring attitude' (B) buscaría la opinión o emoción (ej. '¿A 'A' le gustó la película?').",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+  
+    {
+      "idGrupo": "asc_secundaria_2024_p25",
+      "contexto": "Victor's third-grade students have written a text in which they give advice to a friend.\nNow,\nthe teacher is correcting the students' texts. Here is a comment he has written in one of the\nstudents' texts:\n\"This is a great text. You have included really useful pieces of advice to help your friend\nsolve a problem. However, you could have used more of the expressions to give advice\nwe studied in our previous sessions.\"",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Based on the comment above, what was Victor's feedback focus?",
+          "opciones": [
+            "Organization.",
+            "Accuracy.",
+            "Range."
+          ],
+          "respuesta": "Range.",
+          "respuestaCorta": "El feedback se centra en el 'rango' (Range) del vocabulario, ya que el docente sugiere que el estudiante podría haber usado 'más expresiones' (more of the expressions) de las ya estudiadas.",
+          "solucionario": "El comentario del docente elogia el contenido ('useful pieces of advice') pero señala que el estudiante no usó una variedad suficiente de las estructuras enseñadas ('more of the expressions'). Esto se refiere al 'Range' (rango o variedad) del lenguaje (vocabulario y gramática), no a la 'Accuracy' (precisión/corrección) ni a la 'Organization' (organización del texto).",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2024_p26",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "During a reading session, Hubner's students have answered some questions related to the\ntext they have just read.\nBefore he calls on volunteers, he asks them to compare their answers\nin pairs.\nWhich of the following purposes is involved in Hubner's action?",
+          "opciones": [
+            "He wants to give the students some thinking time.",
+            "He wants to make sure that the students complete the task quickly.",
+            "He wants to give the students confidence before the whole class hears their responses."
+          ],
+          "respuesta": "He wants to give the students confidence before the whole class hears their responses.",
+          "respuestaCorta": "Pedir a los estudiantes que comparen en pares (pair-check) les permite verificar sus respuestas y ganar confianza (confidence) antes de exponerlas a toda la clase.",
+          "solucionario": "Esta técnica, a veces llamada 'check in pairs', tiene un propósito socio-afectivo. Permite a los estudiantes menos seguros (less confident) confirmar sus respuestas con un compañero, ensayar su respuesta en un entorno seguro y, por lo tanto, ganar confianza (give students confidence) antes de hablar frente al 'whole class'.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2024_p27",
+      "contexto": "Susana's students have been practicing how to ask and answer information questions.\nHowever, some students still have problems formulating this kind of questions.\nAware of\nthat, Susana wants to help her students improve their accuracy. She has thought of the three\nfollowing activities:\nActivity 1:\nThe teacher writes five incorrect information questions on the board.\nShe pairs up the\nstudents and asks them to identify the mistakes and correct them.\nThen the students\nexplain, to the rest of the class, the reasons for the corrections they made.\nActivity 2:\nThe teacher brings copies of a song that contains information questions and gives each\nstudent a copy of it.\nShe asks them to circle the information questions in the song.\nFinally, the teacher plays the song and invites the students to sing it aloud.\nActivity 3:\nThe teacher pairs up the students and gives each pair a set of scrambled information\nquestions.\nThe students unscramble the questions and share the correct order of the\nquestions with the whole class.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Which of the activities Susana has thought of is least appropriate for her purpose?",
+          "opciones": [
+            "Activity 1.",
+            "Activity 2.",
+            "Activity 3."
+          ],
+          "respuesta": "Activity 2.",
+          "respuestaCorta": "El objetivo es 'accuracy' (precisión) en la formulación. La Actividad 2 solo pide 'identificar' (circle) preguntas, no producirlas ni corregirlas, y termina con una actividad de fluidez (singing).",
+          "solucionario": "El objetivo de Susana es mejorar la 'accuracy' (precisión) en la *formulación* de preguntas. Las Actividades 1 (corregir errores) y 3 (ordenar preguntas) se enfocan directamente en la forma y estructura (precisión). La Actividad 2 solo pide identificar (reconocer) preguntas, no formularlas, y finaliza con una actividad lúdica (cantar) que no se centra en la precisión gramatical, siendo la menos apropiada para el objetivo.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2024_p28",
+      "contexto": "Margot's students are going to have a conversation in pairs about \"the qualifications needed\nto be elected as the school Mayor.\"\nShe asks her students to include the expressions they\nhave been practicing for class discussions:\n• As a rule...\n• By and large...\n• On the whole...\n• What normally happens is...",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Which of the following language functions corresponds to the expressions Margot wants her\nstudents to practice?",
+          "opciones": [
+            "Expressing hopes.",
+            "Making generalizations.",
+            "Expressing degrees of certainty."
+          ],
+          "respuesta": "Making generalizations.",
+          "respuestaCorta": "Las expresiones 'As a rule' (Como regla), 'By and large' (En general), y 'On the whole' (En conjunto) son marcadores lingüísticos usados para 'hacer generalizaciones' (Making generalizations).",
+          "solucionario": "Todas las expresiones listadas ('As a rule...', 'By and large...', 'On the whole...', 'What normally happens is...') se utilizan para hablar de tendencias o situaciones comunes, evitando absolutos. Esta es la definición de la función 'Making generalizations' (Hacer generalizaciones).",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2024_p29",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "During the past few sessions, Wilmer's students have been practicing the function \"Greeting\nand introducing people.\"\nNow, he wants them to use that function through a speaking\ncommunicative activity.\nGiven this goal, which of the following activities is it more appropriate\nto carry out?",
+          "opciones": [
+            "The teacher elicits some expressions used to greet and introduce people, and writes them\non the board.\nThen he forms groups of three and sets a context for each group: friends\nat a party, students in a new class, etc. He tells the students to perform a conversation\nincluding some of the expressions written on the board.",
+            "The teacher gives each student the copy of a conversation of two students greeting\nand introducing themselves.\nHe pairs up the students and asks them to practice the\nconversation for some minutes.\nThen he invites some volunteers to present the\nconversation in front of the class.",
+            "The teacher gives the students a handout that contains expressions to greet and introduce\npeople.\nThen he asks the students to stand up and mingle in order to greet a classmate\nusing the expressions in the handout.\nNext, they continue to greet different classmates\nfor about five minutes."
+          ],
+          "respuesta": "The teacher elicits some expressions used to greet and introduce people, and writes them\non the board.\nThen he forms groups of three and sets a context for each group: friends\nat a party, students in a new class, etc. He tells the students to perform a conversation\nincluding some of the expressions written on the board.",
+          "respuestaCorta": "La opción A es la más comunicativa (communicative activity) porque establece un contexto real (una fiesta, una nueva clase) y pide a los estudiantes *crear* una conversación (perform a conversation), no solo repetirla.",
+          "solucionario": "El objetivo es una 'speaking communicative activity'. La opción B (practicar un diálogo escrito) es práctica controlada (controlled practice), no comunicativa. La opción C (mingle y repetir frases) es práctica mecánica. La opción A es la más comunicativa, ya que proporciona un contexto (context) y pide a los estudiantes que produzcan lenguaje de forma más libre y con un propósito (role-play).",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2024_p30",
+      "contexto": "Mario wants his fourth-grade students to improve their reading skills. He has planned a\nsession about product reviews.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "At the beginning of the session, Mario gives each student the reviews of two products, an iron\nand a microwave oven.\nThen he sticks the pictures of those two products on the board.\nNext,\nhe asks the students to read the reviews and decide which picture each review is describing.\nWhich reading skill does Mario want to promote with his activity?",
+          "opciones": [
+            "Scanning.",
+            "Skimming.",
+            "Categorizing."
+          ],
+          "respuesta": "Skimming.",
+          "respuestaCorta": "La actividad (matching texts to pictures) requiere una lectura rápida para captar la idea general (gist) de cada reseña, lo cual es la habilidad de 'Skimming'.",
+          "solucionario": "'Skimming' (lectura rápida) es la habilidad de leer un texto rápidamente para obtener la idea general o principal. La tarea de asociar (match) un texto (la reseña) con una imagen (el producto) requiere que el estudiante identifique rápidamente de qué producto se está hablando (la idea general), sin necesidad de entender cada detalle. 'Scanning' (A) sería buscar datos específicos (ej. el precio).",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2024_p31",
+      "contexto": "After having done some reading comprehension activities, Mario tells the students to\nparaphrase, orally, the review of the microwave oven, which is the following:\nI'm sorry to say I'm very disappointed with this microwave oven.\nIt's big, awful and very\nheavy, so I can't carry it. It's also very difficult to use.\nSo overall, it's definitely not worth\nthe money and it's very poor value. Also, it was nearly two weeks late.\nMy advice is don't\nbuy it.\nJen Swift\nRetrieved from Hugues, J. & Wood, K. (2019). Navigate Elementary. Unit 5 p 53. Oxford University Press.\nThese are some of the students' samples. Which one shows paraphrasing skills?",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "These are some of the students' samples. Which one shows paraphrasing skills?",
+          "opciones": [
+            "Juan says: \"Jen is very mad at the company that sent her the product. I think the product\nis ugly and big so I wouldn't buy it. It was too expensive and didn't arrive on time. In my\nopinion, the product is terrible and the company, too.\"",
+            "Alicia says: \"Jen is really unhappy with a product. The product is large, horrible, weighty\nand not easy to operate. In general, it is not good value for money. Besides, it arrived two\nweeks late approximately. She recommends not buying it.\"",
+            "Lucia says: \"Jen is very disappointed with this product. It's big, awful, and very heavy so\nshe can't carry it. It's also very difficult to use.\nIt is definitely not worth the money and\nit's poor value. Also, it was nearly two weeks late.\nHer advice is don't buy it.\""
+          ],
+          "respuesta": "Alicia says: \"Jen is really unhappy with a product. The product is large, horrible, weighty\nand not easy to operate. In general, it is not good value for money. Besides, it arrived two\nweeks late approximately. She recommends not buying it.\"",
+          "respuestaCorta": "Parafrasear (Paraphrasing) es decir la misma idea con diferentes palabras. Alicia (B) lo hace: 'disappointed' -> 'unhappy', 'big' -> 'large', 'heavy' -> 'weighty', 'difficult to use' -> 'not easy to operate'.",
+          "solucionario": "Paraphrasing (parafraseo) implica reformular las ideas de un texto usando vocabulario y estructuras diferentes, pero manteniendo el significado original. La opción B (Alicia) lo demuestra: 'disappointed' se vuelve 'unhappy'; 'big, awful, heavy' se vuelve 'large, horrible, weighty'; 'difficult to use' es 'not easy to operate'. La opción C (Lucía) es una copia casi literal (copy-paste). La opción A (Juan) añade opiniones personales ('I think...', 'In my opinion...'), lo cual no es parafrasear.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Mario wants his students to work on a meaningful extension activity in which they will write\na product review.\nHe has thought of three different activities.\nWhich of the activities Mario has thought of is appropriate to achieve his purpose?",
+          "opciones": [
+            "The teacher brings cards with the name of different products in each one.\nHe asks the\nstudents to randomly pick a card. After that, they write a review of the product.",
+            "The teacher gives the students a review of a product.\nHe asks them to highlight the key\nwords in it. Then they rewrite the review substituting the key words.",
+            "The teacher tells the students to think about the products they have at home.\nHe asks\nthem to choose one of those products. Next, they write a review of it."
+          ],
+          "respuesta": "The teacher tells the students to think about the products they have at home.\nHe asks\nthem to choose one of those products. Next, they write a review of it.",
+          "respuestaCorta": "Una actividad 'meaningful' (significativa) se conecta con la experiencia personal del estudiante. Escribir una reseña sobre un producto real que tienen en casa (Opción C) es la más significativa.",
+          "solucionario": "El objetivo es una 'meaningful extension activity' (actividad de extensión significativa). Una actividad significativa (meaningful) es aquella que tiene relevancia personal para el estudiante. La opción C logra esto al pedirles que escriban sobre un producto que realmente poseen ('products they have at home'). Las opciones A (producto al azar) y B (reescribir una reseña) son menos significativas porque carecen de esa conexión personal.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2024_p33",
+      "contexto": "Antonio wants to help his students develop their listening skills.\nFor this purpose, they will listen\nto an interview of a celebrity. He has designed the following listening activity:\nThe teacher asks the students to listen to an audio. They will listen three times with different\npurposes:\n• First listening: The students listen to recognize the type of oral interaction, as well as\nthe roles of the speakers in the audio.\nThey check their findings in pairs and volunteer to\nshare their answers with the whole class.\n• Second listening: The teacher asks the students to identify some of the questions used\nin the audio.\nThen, in pairs, they compare the questions they got.\n• Third listening: The students listen to analyze the reporter's mood while asking the\nquestions.\nAlso, they try to identify the celebrity's reaction when answering the questions.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Which listening skill is involved in the second listening of the sequence?",
+          "opciones": [
+            "Listening for global understanding.",
+            "Inferring meaning from context.",
+            "Listening for specific information."
+          ],
+          "respuesta": "Listening for specific information.",
+          "respuestaCorta": "En la 'Second listening', se pide a los estudiantes 'identificar algunas de las preguntas' usadas. Esto es buscar datos puntuales y específicos, es decir, 'Listening for specific information'.",
+          "solucionario": "'Listening for specific information' (también 'scanning' en listening) implica escuchar para encontrar piezas de información concretas, como nombres, números o, en este caso, 'some of the questions used'. La 'First listening' (tipo de interacción) fue 'Listening for global understanding' (A).",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Which of the following listening skills is involved in the third listening of the sequence?",
+          "opciones": [
+            "Inferring attitude.",
+            "Detecting connectors.",
+            "Deducing meaning from context."
+          ],
+          "respuesta": "Inferring attitude.",
+          "respuestaCorta": "La 'Third listening' pide 'analizar el estado de ánimo (mood) del reportero' e 'identificar la reacción de la celebridad'. Esto es 'Inferring attitude' (inferir la actitud o emoción).",
+          "solucionario": "La tarea de analizar el 'mood' (estado de ánimo) del reportero y la 'reaction' (reacción) de la celebridad no se basa en información explícita, sino en inferencias a partir del tono de voz, la entonación y la elección de palabras. Esta habilidad se conoce como 'Inferring attitude' (Inferir actitud).",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2024_p35",
+      "contexto": "Renzo's students are going to work in pairs in order to talk about challenging situations they\nhave gone through.\nAfter Renzo has assigned each student a role and given instructions for\nthe activity, he writes the following expressions on the board:\n• What a shame!\n• That's too bad.\n• What a let-down!",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Considering the expressions above, which of the following language functions is Renzo going\nto promote with his activity?",
+          "opciones": [
+            "Expressing disappointment.",
+            "Expressing uncertainty.",
+            "Expressing necessity."
+          ],
+          "respuesta": "Expressing disappointment.",
+          "respuestaCorta": "Las expresiones 'What a shame!', 'That's too bad.' y 'What a let-down!' son frases idiomáticas que se usan comúnmente para 'expresar decepción' (Expressing disappointment).",
+          "solucionario": "Las tres expresiones ('What a shame!', 'That's too bad.', 'What a let-down!') son frases hechas (fixed expressions) que se utilizan en inglés para reaccionar ante una noticia negativa o una situación desafortunada, mostrando decepción, lástima o desilusión. La función principal es 'Expressing disappointment'.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2024_p36",
+      "contexto": "Camila's students are participating in a semi-controlled speaking activity about their holiday\nplans, while she is monitoring and correcting mistakes if necessary.\nSuddenly, she overhears\nLucas, one of the students say, \"I go to travel to Cusco.\"\nSince Camila wants to provide Lucas with a chance to correct himself, which of the following\ntechniques is more appropriate to use?",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Since Camila wants to provide Lucas with a chance to correct himself, which of the following\ntechniques is more appropriate to use?",
+          "opciones": [
+            "Recast:\nStudent says: \"I go to travel to Cusco.\"\nTeacher says: \"I'm going to travel to Cusco.\"",
+            "Repetition:\nStudent says: \"I go to travel to Cusco.\"\nTeacher says: \"I go to travel?\"",
+            "Clarification request:\nStudent says: \"I go to travel to Cusco.\"\nTeacher says: \"Could you repeat your sentence?\""
+          ],
+          "respuesta": "Repetition:\nStudent says: \"I go to travel to Cusco.\"\nTeacher says: \"I go to travel?\"",
+          "respuestaCorta": "El objetivo es que el estudiante se 'auto-corrija' (correct himself). La técnica de 'Repetition' (repetir la parte errónea con entonación de pregunta) alerta al estudiante sobre el error sin darle la respuesta, invitándolo a autocorregirse.",
+          "solucionario": "El objetivo de Camila es la 'autocorrección' (self-correction). El 'Recast' (A) le da la respuesta correcta, por lo que no hay autocorrección. El 'Clarification request' (C) pide repetir, pero el estudiante podría repetir el mismo error. La 'Repetition' (B), al repetir solo la parte incorrecta ('I go to travel?') con entonación ascendente, le señala al estudiante *dónde* está el error y lo invita a él mismo a encontrar la forma correcta.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+  
+    {
+      "idGrupo": "asc_secundaria_2024_p37",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Fernando has asked his students to have a conversation in which they talk about things they\ndid in the past, but they wish they had not done.\nWhich language function is better to achieve\nFernando's purpose?",
+          "opciones": [
+            "Offering apologies.",
+            "Showing sympathy.",
+            "Expressing regrets."
+          ],
+          "respuesta": "Expressing regrets.",
+          "respuestaCorta": "Hablar de cosas del pasado que 'desearían no haber hecho' (wish they had not done) es la definición exacta de 'expresar arrepentimientos' (Expressing regrets).",
+          "solucionario": "La situación describe un arrepentimiento (regret), que es el sentimiento de tristeza o deseo de que algo en el pasado hubiese sido diferente (ej. 'I wish I hadn't done that'). 'Offering apologies' (A) es pedir perdón a alguien (ej. 'I'm sorry'). 'Showing sympathy' (B) es mostrar compasión por alguien (ej. 'That's too bad').",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2024_p38",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Patricia wants to check her students' listening comprehension through a communicative\ntask. Given Patricia's goal, which of the following tasks is appropriate to carry out?",
+          "opciones": [
+            "The students listen to a few radio news about a sports event and try to identify as many\nverbs as they can.\nThen they compare their answers in pairs.",
+            "The students listen to an audio of a man who has to make a difficult choice in his life.\nThey get in pairs and come up with a solution for his problem.",
+            "The students listen to the recording of a conversation about global warming.\nThen they\nanswer some questions about the audio in pairs."
+          ],
+          "respuesta": "The students listen to an audio of a man who has to make a difficult choice in his life.\nThey get in pairs and come up with a solution for his problem.",
+          "respuestaCorta": "Una 'communicative task' (tarea comunicativa) requiere que los estudiantes usen el lenguaje para un propósito real. Proponer una 'solución a su problema' (B) es una tarea comunicativa de 'problem-solving'.",
+          "solucionario": "El objetivo es una 'communicative task'. La opción A (identificar verbos) es un ejercicio de gramática ('focus on form'). La opción C (responder preguntas) es una tarea de comprensión, pero no necesariamente comunicativa. La opción B es una tarea comunicativa (problem-solving), ya que los estudiantes deben entender el audio (listening comprehension) y luego usar el lenguaje para negociar y proponer una solución (communicative output).",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2024_p39",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Maribel's students are writing an essay. Now, they are making sure that the sentences and\nparagraphs they wrote are well connected and that the details in their essays are closely\nrelated to the topic.\nThey are also checking punctuation and spelling.\nTaking into account the actions the students are carrying out, in which stage of the writing\nprocess are they?",
+          "opciones": [
+            "Planning.",
+            "Drafting.",
+            "Revising."
+          ],
+          "respuesta": "Revising.",
+          "respuestaCorta": "La etapa de 'Revising' (Revisión) incluye tanto la revisión de contenido (ideas conectadas, detalles relevantes) como la edición de forma (puntuación, ortografía).",
+          "solucionario": "El proceso de escritura tiene varias etapas. 'Planning' (A) es organizar ideas antes de escribir. 'Drafting' (B) es escribir el primer borrador. 'Revising' (Revisión) es el proceso de releer el borrador para mejorar el contenido (conexión de ideas, relevancia) y 'Editing' (Edición) es corregir la forma (puntuación, ortografía). La descripción de la tarea de Maribel ('Revising') abarca ambas acciones, que comúnmente se agrupan bajo la etapa de 'Revising'.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2024_p40",
+      "contexto": "Danny is going to teach \"double comparatives\" using the Presentation-Practice-Production\nmethod (PPP).\nThe students have previously learned how to compare things. This is the\nteaching sequence he will follow: ",
+      "imagen": "img/ascenso/secundaria/2024/ingles/4.jpg",
+      "preguntas": [
+        {
+          "pregunta": "Which of the PPP method stages is missing in Danny's teaching sequence?",
+          "opciones": [
+            "The Presentation stage.",
+            "The Production stage.",
+            "The Practice stage."
+          ],
+          "respuesta": "The Production stage.",
+          "respuestaCorta": "Falta la etapa de 'Producción' (Production), donde los estudiantes deberían usar la estructura de forma libre y creativa en un contexto comunicativo, no solo en ejercicios controlados.",
+          "solucionario": "En el método PPP: 'Presentation' (Presentación) se cumple cuando el profesor introduce la estructura ('The more I practice...'). 'Practice' (Práctica) se cumple con las oraciones incompletas y el 'matching' de las tiras de papel (práctica controlada). Sin embargo, falta la etapa de 'Production' (Producción), en la que los estudiantes deberían usar la estructura de forma más libre y comunicativa (ej. en un diálogo, un debate o una composición).",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2024_p41",
+      "contexto": "Eugenia wants her students to discuss the following question: \"Are video games one of the\nleading causes of violence among teenagers?\"\nDuring the discussion, Eugenia wants her\nstudents to use the following expressions:\n• Chances are that...\n• My guess is that...\n• I wouldn't be surprised if...",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Which of the following language functions is mostly involved in the expressions above?",
+          "opciones": [
+            "Making speculations.",
+            "Making suggestions.",
+            "Making requests."
+          ],
+          "respuesta": "Making speculations.",
+          "respuestaCorta": "Las frases 'Chances are that...' (Lo más probable es que...), 'My guess is that...' (Mi suposición es que...) se usan para hablar sobre posibilidades o suposiciones, es decir, 'hacer especulaciones'.",
+          "solucionario": "Las tres expresiones ('Chances are that...', 'My guess is that...', 'I wouldn't be surprised if...') indican que el hablante no está seguro de un hecho, sino que está suponiendo o hablando de probabilidades. Esta es la función de 'Making speculations' (Hacer especulaciones).",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2024_p42",
+      "contexto": "Melina wants to help her students develop their listening skills.\nIn a lesson about birthdays, she\nasks her students to listen to an audio whose transcript is as follows:\nRosalba says: Tommy, have you bought dad's birthday present yet?\nTommy says: No, I haven't. I don't know what to buy. He's difficult to please.\nRosalba says: Why don't you buy him something related to his new interest?\nTommy says: Good idea. He's into gardening now, right?\nRosalba says: Yes, he is.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "After having worked on some comprehension activities, Melina writes a list of three items on\nthe board: a flowerpot, a flashlight, and a watch.\nShe asks the students to choose the item\nthat would make an appropriate present for Tommy's dad.\nThen they have to justify their\nchoice.\nBased on Melina's activity, which listening skill does she want the students to develop?",
+          "opciones": [
+            "Ordering.",
+            "Inferring information.",
+            "Deducing meaning from context."
+          ],
+          "respuesta": "Inferring information.",
+          "respuestaCorta": "Los estudiantes deben inferir (Infer) que, dado que al padre 'is into gardening' (le gusta la jardinería), un 'flowerpot' (maceta) es el regalo apropiado, aunque no se mencione explícitamente.",
+          "solucionario": "La habilidad es 'Inferring information' (Inferir información). El audio dice que el padre 'is into gardening now' (está interesado en la jardinería). El audio no menciona la palabra 'flowerpot'. Los estudiantes deben inferir la conexión entre 'gardening' y 'flowerpot' para elegir el regalo apropiado de la lista y justificarlo. No están deduciendo el significado de una palabra (C), ni ordenando eventos (A).",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Finally, Melina wants to involve her students in a communicative post-listening activity.\nWhich activity is NOT appropriate to reach Melina's goal?",
+          "opciones": [
+            "The teacher groups the students and asks them to talk about a present they gave to\ntheir dads in the past.\nOne student talks about the present and the others ask follow-up\nquestions.\nThey repeat the same procedure until all the members have participated.",
+            "The teacher pairs up the students and assigns each student a role: One student is Tommy\nand the other is Tommy's dad.\nThey have to role-play a conversation in which Tommy is\ngiving the present to his dad.\nThen they present their role-play in front of the class.",
+            "The teacher tells the students to individually think about other possible presents Tommy's\nfather would like to get.\nThey make a list and get ready to explain the reasons of their\nchoices.\nFinally, the students read their lists and explain their reasons to the class."
+          ],
+          "respuesta": "The teacher tells the students to individually think about other possible presents Tommy's\nfather would like to get.\nThey make a list and get ready to explain the reasons of their\nchoices.\nFinally, the students read their lists and explain their reasons to the class.",
+          "respuestaCorta": "Una actividad 'comunicativa' implica interacción. La opción C es una actividad individual (think, make a list) seguida de una presentación unidireccional (read their lists), careciendo de la interacción comunicativa que sí tienen A y B.",
+          "solucionario": "El objetivo es una actividad 'comunicativa' (communicative post-listening activity), lo que implica interacción oral (speaking) entre los estudiantes. La opción A (discusión grupal con follow-up questions) y la opción B (role-play en parejas) son altamente comunicativas. La opción C, aunque es una buena actividad de 'post-listening', no es comunicativa en el sentido de la interacción oral, ya que el trabajo principal es individual (pensar, hacer lista) y la parte final es una presentación (leer la lista), no una conversación.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2024_p44",
+      "contexto": "Ruben's fourth-grade students have finished writing a text on \"The role of technology in\neducation.\"\nNow, Ruben gives the students the following instructions:\n\"Exchange your text with another classmate. Read the text and add some\nrecommendations. Then return the text to your classmate so that he can improve it\nbefore handing in the last version.\"",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Which of the following types of assessment is Ruben promoting with his instructions?",
+          "opciones": [
+            "Co-assessment.",
+            "Self-assessment.",
+            "Peer assessment."
+          ],
+          "respuesta": "Peer assessment.",
+          "respuestaCorta": "La 'Peer assessment' (evaluación entre pares) es exactamente el proceso descrito: un estudiante ('classmate') evalúa el trabajo de otro par y le da retroalimentación ('recommendations').",
+          "solucionario": "El tipo de evaluación donde los estudiantes evalúan el trabajo de sus compañeros ('peers') se denomina 'Peer assessment' (Evaluación entre pares). 'Self-assessment' (B) sería si el estudiante evaluara su *propio* texto. 'Co-assessment' (A) (co-evaluación) implicaría que el profesor y el estudiante evalúan el trabajo juntos, lo cual no es el caso aquí.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2024_p45",
+      "contexto": "Manolo's students are going to participate in a debate based on the statement \"Animal\ntesting should be banned.\"\nHe wants them to focus on the use of the language function\nAcknowledging ideas.\nConsidering the teacher's purpose, which set of expressions is\nappropriate to work on this function?",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Considering the teacher's purpose, which set of expressions is\nappropriate to work on this function?",
+          "opciones": [
+            "• You are right! I also believe that...\n• I agree with you based on....\nMy opinion builds upon...'s opinion.",
+            "• From my perspective,\n• I feel that...\n• I'm sure that...",
+            "• In fact, it is not true that...\n• I'm afraid you'll have to do it.\n• You must reconsider..."
+          ],
+          "respuesta": "• You are right! I also believe that...\n• I agree with you based on....\nMy opinion builds upon...'s opinion.",
+          "respuestaCorta": "La función 'Acknowledging ideas' (Reconocer ideas) implica mostrar que se ha escuchado y aceptado la idea de otro, usando frases como 'You are right!' (¡Tienes razón!) o 'I agree with you' (Estoy de acuerdo).",
+          "solucionario": "La función 'Acknowledging ideas' (reconocer/aceptar ideas) se usa en un debate para construir sobre lo que dijo un compañero anterior o para mostrar acuerdo. Las expresiones en la opción A ('You are right!', 'I agree with you', 'My opinion builds upon...') cumplen esta función. La opción B es para 'Expressing opinions' (Expresar opiniones). La opción C es para 'Disagreeing' (Estar en desacuerdo) o 'Persuading' (Persuadir).",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_2024_p46",
+      
+      "imagen": "img/ascenso/secundaria/2024/ingles/5.jpg",
+      "preguntas": [
+        {
+          "pregunta": "46",
+          "opciones": [
+            "finding",
+            "wanting",
+            "looking"
+          ],
+          "respuesta": "looking",
+          "respuestaCorta": "La expresión (phrasal verb) 'looking for' significa 'buscando'. En el contexto, 'you might be looking for anything' (podrías estar buscando cualquier cosa) para curarte.",
+          "solucionario": "El espacio (46) requiere un verbo que, junto con 'for', signifique 'buscar'. El phrasal verb 'to look for' (buscar) es el adecuado. 'Finding' (encontrar) no encaja. 'Wanting' (querer) no usa 'for' de esa manera.",
+          "seccion": "CLOZE"
+        },
+        {
+          "pregunta": "47",
+          "opciones": [
+            "will",
+            "must",
+            "may"
+          ],
+          "respuesta": "may",
+          "respuestaCorta": "'May' es un verbo modal que expresa posibilidad ('You may want to add...' - 'Tal vez quieras añadir...'). 'Will' (futuro) y 'Must' (obligación) no encajan en el tono de sugerencia.",
+          "solucionario": "El contexto es de sugerencia o posibilidad, no de obligación o certeza futura. 'May' (47) expresa una posibilidad o sugerencia ('Tú tal vez quieras añadir...'). 'Must' (debes) es una obligación fuerte. 'Will' (indica futuro) es demasiado asertivo para una sugerencia.",
+          "seccion": "CLOZE"
+        },
+        {
+          "pregunta": "48",
+          "opciones": [
+            "advantageous",
+            "supportive",
+            "profitable"
+          ],
+          "respuesta": "advantageous",
+          "respuestaCorta": "El texto sugiere que algunas cosas en el yogur 'serían ventajosas' (would be advantageous) o beneficiosas. 'Supportive' (que da apoyo) y 'Profitable' (rentable) no encajan.",
+          "solucionario": "El espacio (48) necesita un adjetivo que signifique 'beneficioso' o 'útil' en el contexto de combatir un resfriado. 'Advantageous' (ventajoso) es el sinónimo más cercano. 'Supportive' (que da apoyo) no se usa para cosas. 'Profitable' (rentable) se refiere al dinero.",
+          "seccion": "CLOZE"
+        }
+      ]
+    },
+  
+    {
+      "idGrupo": "asc_secundaria_2024_p49",
+      
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "49",
+          "opciones": [
+            "promote",
+            "boost",
+            "rise"
+          ],
+          "respuesta": "boost",
+          "respuestaCorta": "El verbo 'boost' (reforzar, estimular) es el que comúnmente se usa con 'the immune system' (el sistema inmunológico). 'Promote' es promover y 'rise' es elevarse.",
+          "solucionario": "La opción 'boost' (b) es la colocación correcta. 'Boost the immune system' es una frase común que significa 'reforzar el sistema inmunológico'.",
+          "seccion": "CLOZE"
+        },
+        {
+          "pregunta": "50",
+          "opciones": [
+            "added",
+            "delivered",
+            "attributed"
+          ],
+          "respuesta": "attributed",
+          "respuestaCorta": "La frase 'to be attributed to' (ser atribuido a) es la correcta. Significa que los beneficios solo pueden ser 'atribuidos a' (causados por) las cepas específicas.",
+          "solucionario": "La estructura pasiva 'can only be... to' requiere 'attributed' (c). 'To attribute something to' significa 'considerar algo como el resultado de'. Los beneficios se 'atribuyen a' las cepas.",
+          "seccion": "CLOZE"
+        },
+        {
+          "pregunta": "51",
+          "opciones": [
+            "Additionally",
+            "As well as",
+            "Indeed"
+          ],
+          "respuesta": "Additionally",
+          "respuestaCorta": "'Additionally' (Además) es un conector de adición, usado al inicio de una oración para añadir un nuevo punto (que el yogur también tiene zinc).",
+          "solucionario": "El texto está añadiendo otra pieza de información (la presencia de zinc) a la idea anterior (probióticos). 'Additionally' (a) es el conector adverbial (linker) apropiado para añadir un nuevo argumento.",
+          "seccion": "CLOZE"
+        },
+        {
+          "pregunta": "52",
+          "opciones": [
+            "at",
+            "on",
+            "in"
+          ],
+          "respuesta": "in",
+          "respuestaCorta": "Se usa la preposición 'in' (en) para referirse a algo contenido *dentro* de un volumen o contenedor ('in an 8-ounce cup of yogurt').",
+          "solucionario": "La preposición 'in' (c) se utiliza para indicar que algo está contenido dentro de un espacio, en este caso, los 2 miligramos están 'en' o 'dentro de' la taza de yogur.",
+          "seccion": "CLOZE"
+        },
+        {
+          "pregunta": "53",
+          "opciones": [
+            "because of",
+            "due to",
+            "since"
+          ],
+          "respuesta": "since",
+          "respuestaCorta": "'Since' (ya que) es una conjunción que introduce una cláusula de causa o razón ('...tiene sentido, ya que los probióticos son beneficiosos...'). 'Because of' y 'due to' requerirían un sustantivo.",
+          "solucionario": "El espacio (53) precede a una cláusula completa (Sujeto 'probiotics' + Verbo 'are'). 'Since' (c) es una conjunción que introduce una causa. 'Because of' (a) y 'due to' (b) son preposiciones y deberían ir seguidas de un sustantivo o frase nominal.",
+          "seccion": "CLOZE"
+        },
+        {
+          "pregunta": "54",
+          "opciones": [
+            "would",
+            "should",
+            "ought to"
+          ],
+          "respuesta": "would",
+          "respuestaCorta": "'Would' (sería) se usa para expresar una acción hipotética o una opinión menos directa ('...recomendarlo... sería prematuro'). 'Should' y 'ought to' expresan obligación.",
+          "solucionario": "El modal 'would' (a) se usa aquí para expresar una opinión o un resultado hipotético ('sería prematuro'). 'Should' (b) y 'ought to' (c) expresan consejo u obligación (debería), lo cual no tiene sentido en la frase.",
+          "seccion": "CLOZE"
+        },
+        {
+          "imagen":"img/ascenso/secundaria/2024/ingles/6.jpg",
+            "pregunta": "55",
+          "opciones": [
+            "grant",
+            "hand",
+            "provide"
+          ],
+          "respuesta": "provide",
+          "respuestaCorta": "El verbo 'provide' (proporcionar) es el que mejor encaja con 'energy' (energía). 'Los carbohidratos proporcionan energía'.",
+          "solucionario": "'Provide' (c) (proporcionar) es la colocación estándar con 'energy'. 'Grant' (a) (conceder) y 'hand' (b) (entregar) no se usan en este contexto.",
+          "seccion": "CLOZE"
+        },
+        {
+          "pregunta": "56",
+          "opciones": [
+            "had",
+            "has",
+            "have"
+          ],
+          "respuesta": "had",
+          "respuestaCorta": "La oración principal 'found that...' (descubrió que...) está en pasado simple. El verbo en la cláusula subordinada debe estar en un tiempo pasado, en este caso, 'had reduced' (habían reducido) - Pasado Perfecto.",
+          "solucionario": "Esta es una oración de 'reported speech'. El verbo principal 'found' está en pasado. Por lo tanto, el verbo en la cláusula reportada ('they... reduced') debe retroceder en el tiempo (backshift). Asumiendo que el hallazgo original fue 'they have reduced' (presente perfecto), retrocede a 'had reduced' (a) (pasado perfecto).",
+          "seccion": "CLOZE"
+        },
+        {
+          "pregunta": "57",
+          "opciones": [
+            "giving up",
+            "turning in",
+            "fighting off"
+          ],
+          "respuesta": "fighting off",
+          "respuestaCorta": "El phrasal verb 'fighting off' (combatir, luchar contra) es el adecuado para el contexto de 'cold symptoms' (síntomas de resfriado).",
+          "solucionario": "El phrasal verb 'to fight off' (c) significa 'combatir' o 'resistir' una enfermedad o síntoma. 'Giving up' (a) es 'rendirse'. 'Turning in' (b) es 'entregar' o 'irse a dormir'.",
+          "seccion": "CLOZE"
+        },
+        {
+          "pregunta": "58",
+          "opciones": [
+            "So",
+            "Though",
+            "Despite"
+          ],
+          "respuesta": "Though",
+          "respuestaCorta": "'Though' (Aunque) es una conjunción de contraste. Introduce la idea de que 'Aunque' la habilidad es teórica, hay buenas razones para comer yogur.",
+          "solucionario": "El espacio (58) introduce una cláusula de concesión o contraste. 'Though' (b) (Aunque) es una conjunción que precede a una cláusula (Sujeto 'the ability...' + verbo 'is...'). 'Despite' (c) es una preposición (requeriría un sustantivo). 'So' (a) es un conector de consecuencia.",
+          "seccion": "CLOZE"
+        },
+        {
+          "pregunta": "59",
+          "opciones": [
+            "dull",
+            "rough",
+            "smooth"
+          ],
+          "respuesta": "smooth",
+          "respuestaCorta": "El texto describe al yogur como algo que 'goes down easy' (pasa fácil), lo que contrasta con 'rough' (áspero) y 'dull' (sin brillo). 'Smooth' (suave) es la descripción correcta para el yogur.",
+          "solucionario": "El contexto 'goes down easy' y 'sore throat' (dolor de garganta) indica que se necesita un adjetivo que describa una textura suave. 'Smooth' (c) (suave) es la palabra correcta. 'Rough' (b) (áspero) es lo opuesto. 'Dull' (a) (aburrido, sin brillo) no describe la textura.",
+          "seccion": "CLOZE"
+        },
+        {
+          "pregunta": "60",
+          "opciones": [
+            "by",
+            "for",
+            "about"
+          ],
+          "respuesta": "for",
+          "respuestaCorta": "Se usa la preposición 'for' (por) para indicar la razón o el propósito de elegir algo ('choose yogurt for its soothing texture' - 'elige yogur por su textura suave').",
+          "solucionario": "La preposición 'for' (b) se usa para indicar la razón de una acción. En este caso, la razón para 'choose yogurt' (elegir yogur) es 'its soothing texture and nutritional attributes' (por su textura suave y atributos nutricionales).",
+          "seccion": "CLOZE"
+        }
+      ]
+    }
+  ]
+}
+  
