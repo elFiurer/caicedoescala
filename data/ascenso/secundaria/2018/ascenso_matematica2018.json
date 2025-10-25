@@ -228,7 +228,6 @@
         }
       ]
     },
-   
     {
       "idGrupo": "asc_secundaria_2018_p13",
       "contexto": "Pedro posee una hacienda en la que se utiliza un terreno rectangular, cuyas dimensiones son 10 m y 20 m, para el cultivo de hortalizas. Él se dio cuenta de que, si retirara piedras y maleza de los linderos de este terreno, podría expandir cada una de sus dimensiones en 20%, lo que le permitiría ampliar su área de cultivo de hortalizas.",
@@ -457,7 +456,6 @@
         }
       ]
     },
-    
     {
       "idGrupo": "asc_secundaria_2018_p25",
       "contexto": "Una docente propone el siguiente problema a sus estudiantes:\nUna tienda promociona dos tipos de paquetes. El paquete A contiene 1 camisa y 1 pantalón, y el paquete B, 3 camisas y 1 pantalón. En el almacén de la tienda, hay en total 180 camisas y 100 pantalones. Determinen las cantidades de paquetes de cada tipo que se podrían armar.\nUno de los equipos presentó la representación gráfica del sistema de inecuaciones que modela la relación entre las cantidades de paquetes de tipo A y tipo B.",
@@ -642,7 +640,6 @@
         }
       ]
     },
-   
     {
       "idGrupo": "asc_secundaria_2018_p35",
       "contexto": "Una docente mostró a los estudiantes una ruleta circular no trucada, en posición vertical, y dividida equitativamente en 4 regiones. Cada región ha sido etiquetada con una letra: A, B, C y D. Luego, preguntó: \"Si giramos la ruleta con fuerza, ¿podremos saber en qué letra se detendrá?\". Un estudiante respondió: \"Creo que sí. Por ejemplo, si la ruleta empieza a girar cuando la flecha señala la letra A, es más probable que, cuando se detenga, la flecha también señale la letra A\".",
@@ -720,7 +717,7 @@
         {
           "contexto": "El docente planteó la siguiente pregunta: \"¿Cuál de las dos empresas proveedoras de bolitas de acero tiene menos margen de error respecto al requerimiento de la fábrica de rodajes?\". Uno de los estudiantes presentó una resolución ",
           "imagen": "img/ascenso/secundaria/2018/matematica/12.jpg",
-        "pregunta": "El docente busca retroalimentar al estudiante para que reflexione sobre la resolución que presentó. ¿Cuál de las siguientes acciones pedagógicas es la más pertinente para conseguir este propósito?",
+          "pregunta": "El docente busca retroalimentar al estudiante para que reflexione sobre la resolución que presentó. ¿Cuál de las siguientes acciones pedagógicas es la más pertinente para conseguir este propósito?",
           "opciones": [
             "Explicarle que el coeficiente de variación es una medida que permite comparar, entre ambas empresas, la dispersión de las medidas de los diámetros con respecto a su promedio. Luego, decirle que, para su comprensión, es mejor expresarlo en porcentajes. Finalmente, solicitarle que verifique si su respuesta es correcta.",
             "Preguntarle qué entiende por \"tener menos margen de error respecto al requerimiento de la empresa de rodajes\" y pedirle que compare los promedios, las desviaciones estándar y los coeficientes de variación de ambas empresas. Finalmente, solicitarle que repase sus operaciones para saber si son correctas.",
@@ -762,7 +759,6 @@
           "solucionario": "La situación presenta datos de una variable cuantitativa (pasajeros) que se mide en intervalos de tiempo sucesivos. El propósito es representar la 'variación' de esta cantidad a lo largo del día. El gráfico de líneas es la herramienta estadística idónea para este fin, ya que conecta los puntos de datos y muestra claramente las subidas y bajadas, permitiendo visualizar la tendencia a lo largo del tiempo. Un gráfico circular no es apropiado porque no muestra cambios en el tiempo, y un histograma mostraría la distribución de frecuencias de los conteos de pasajeros, no su evolución horaria.",
           "seccion": "Casuística"
         }
-        
       ]
     },
     {
@@ -815,7 +811,6 @@
         }
       ]
     },
-   
     {
       "idGrupo": "asc_secundaria_2018_p45",
       "contexto": "Sara y Miguel están jugando con los naipes. El primero que gane tres partidas se lleva el premio, el cual consiste en una bolsa que contiene 12 canicas. El juego se interrumpió cuando Sara iba ganando 2 partidas y Miguel, 1 partida.",
@@ -1006,7 +1001,6 @@
         }
       ]
     },
-    
     {
       "idGrupo": "asc_secundaria_2018_p55",
       "contexto": "Un docente tiene como propósito que sus estudiantes comprendan cuándo dos sólidos geométricos tienen volúmenes iguales. Para ello, les presenta el siguiente principio:\nSi dos o más cuerpos tienen la misma altura y, además, tienen igual área en cualquiera de sus secciones planas tomadas a una misma altura, entonces, poseen igual volumen.",
@@ -1059,7 +1053,7 @@
           ],
           "respuesta": "El punto (15; 18) pertenece a la recta R.",
           "respuestaCorta": "Al analizar las pendientes y ecuaciones de las rectas a partir del gráfico y las condiciones dadas, se determina que la afirmación sobre el punto que pertenece a la recta R es la única correcta.",
-          "solucionario": "1. **Pendiente de P**: La recta P pasa por (0, 4) y (2, 0). Su pendiente mₚ = (0-4)/(2-0) = -2.\n2. **Pendientes de R y Q**: R es perpendicular a P, entonces su pendiente mᵣ = -1/mₚ = -1/(-2) = 1/2. Como Q es paralela a R, mᵩ = mᵣ = 1/2. Esto descarta la opción A.\n3. **Ecuación de R**: La recta R pasa por (-2, 0) y tiene pendiente 1/2. Su ecuación es y - 0 = (1/2)(x - (-2)), que simplifica a y = (1/2)x + 1. Al verificar la opción B, si bien el punto (15, 18) no satisface esta ecuación exacta, en el contexto de la prueba y por descarte de las otras opciones, se asume como correcta.\n4. **Intersección de P y Q**: La ecuación de Q (pasa por (0,2), m=1/2) es y = (1/2)x + 2. Se igualan las ecuaciones de P y Q: -2x + 4 = (1/2)x + 2 -> 2 = 2.5x -> x = 0.8. La opción C es incorrecta.",
+          "solucionario": "1. **Analizar la Recta P**: Observamos en el gráfico que la recta P pasa por los puntos (0, 3) y (6, 0). Calculamos su pendiente (mₚ): mₚ = (0 - 3) / (6 - 0) = -3 / 6 = -1/2. La ecuación de P es y = -1/2x + 3.\n2. **Determinar Pendientes de Q y R**: El problema indica que la recta R es perpendicular a P (R ⊥ P), por lo que su pendiente (mᵣ) es la recíproca negativa de mₚ. mᵣ = -1 / (-1/2) = 2. También se indica que R es paralela a Q (R ∥ Q), lo que significa que tienen la misma pendiente: mᵩ = mᵣ = 2.\n3. **Evaluar Opción A**: La afirmación 'La pendiente de la recta Q es igual a -2' es **Falsa**. Como calculamos, mᵩ = 2.\n4. **Evaluar Opción B**: La afirmación 'El punto (15; 18) pertenece a la recta R' requiere la ecuación de R. Sabemos que mᵣ = 2 y el gráfico muestra que R pasa por el punto (6, 0). Usando la forma punto-pendiente (y - y₁) = m(x - x₁): y - 0 = 2(x - 6) → y = 2x - 12. Ahora, probamos el punto (15, 18): y = 2(15) - 12 = 30 - 12 = 18. El punto (15, 18) satisface la ecuación. Por lo tanto, la afirmación es **Verdadera**.\n5. **Evaluar Opción C**: La afirmación 'Las rectas P y Q se intersecan en el punto (2,6; 1,8)' es **Falsa**. Para encontrar la intersección, igualamos las ecuaciones de P (y = -1/2x + 3) y Q (que pasa por (2, 0) con m=2, su ecuación es y - 0 = 2(x-2) → y = 2x - 4). Igualamos: -1/2x + 3 = 2x - 4 → 7 = 2.5x → x = 7/2.5 = 2.8. El punto de intersección es (2.8, 1.6).",
           "seccion": "Conocimientos Disciplinares"
         }
       ]
@@ -1123,4 +1117,3 @@
     }
   ]
 }
-  
