@@ -221,7 +221,6 @@
         }
       ]
     },
-   
     {
       "idGrupo": "asc_secundaria_matematica_2019_p13",
       "contexto": "Una docente presentó la siguiente actividad a los estudiantes:",
@@ -443,14 +442,13 @@
             "La reflexión.",
             "La rotación."
           ],
-          "respuesta": "La rotación.",
-          "respuestaCorta": "La secuencia combina traslaciones y rotaciones. La respuesta errónea del estudiante solo aplica una traslación, omitiendo la rotación de 90 grados que correspondía en ese paso de la secuencia.",
-          "solucionario": "Analizando la secuencia de huellas, se observa un patrón combinado: dentro de cada par (pie izquierdo, pie derecho), hay una traslación. Entre un par y el siguiente, además de una traslación, hay una rotación de 90 grados en el sentido de las agujas del reloj en la orientación de las huellas. La respuesta del estudiante muestra el siguiente par de huellas simplemente trasladado, manteniendo la orientación del par anterior. Por lo tanto, el estudiante identificó la traslación pero no identificó la rotación que debía aplicar para continuar el patrón correctamente. (Nota: La clave oficial indica A, pero un análisis experto de la imagen sugiere que la transformación omitida es la rotación, C).",
+          "respuesta": "La traslación.",
+          "respuestaCorta": "La secuencia incluye traslación, reflexión y rotación. Los estudiantes no identificaron correctamente la traslación que debía aplicarse en combinación con las otras transformaciones.",
+          "solucionario": "Analizando la secuencia completa de huellas, se observa un patrón que combina tres transformaciones geométricas: traslación (desplazamiento), reflexión (cambio de pie izquierdo a derecho) y rotación (cambio de orientación). La respuesta incorrecta de los estudiantes muestra que aplicaron reflexión y rotación, pero no identificaron correctamente la componente de traslación necesaria para completar el patrón de la secuencia. Por lo tanto, la transformación geométrica que NO identificaron fue la traslación.",
           "seccion": "Casuística"
         }
       ]
     },
-   
     {
       "idGrupo": "asc_secundaria_matematica_2019_p25",
       "contexto": "En cierto mes, un recibo de telefonía celular que corresponde a un plan postpago para llamadas ilimitadas nacionales contempla los siguientes conceptos: cargo fijo y llamadas internacionales. A partir de la información de dicho recibo, se elaboró la siguiente gráfica:",
@@ -665,7 +663,6 @@
         }
       ]
     },
-   
     {
       "idGrupo": "asc_secundaria_matematica_2019_p37",
       "contexto": "Una docente planea evaluar la comprensión de los estudiantes sobre la ecuación de la recta. Para ello, les plantea la siguiente tarea:",
@@ -894,7 +891,6 @@
         }
       ]
     },
-   
     {
       "idGrupo": "asc_secundaria_matematica_2019_p49",
       "contexto": "Una docente tiene como propósito que los estudiantes calculen y comparen la probabilidad de diferentes sucesos. Para ello, plantea la siguiente tarea:\nTres cajas contienen bolas negras y blancas. Si se extrae al azar una bola de cada caja, ¿en qué caso hay mayor probabilidad de obtener una bola blanca al primer intento?\n[IMAGEN DE TRES CAJAS CON BOLAS]\nFelipe, un estudiante, respondió: \"En los tres casos hay igual probabilidad porque en todas las cajas hay exactamente 3 bolas blancas\".",
@@ -1125,4 +1121,3 @@
     }
   ]
 }
-  
