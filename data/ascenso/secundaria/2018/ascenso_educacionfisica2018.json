@@ -228,7 +228,6 @@
         }
       ]
     },
-    
     {
       "idGrupo": "asc_secundaria_2018_p13",
       "contexto": null,
@@ -457,7 +456,6 @@
         }
       ]
     },
-  
     {
       "idGrupo": "asc_secundaria_2018_p25",
       "contexto": "En la unidad de juegos atléticos, un docente utiliza una prueba de esfuerzo que consiste en realizar unos minutos de trote suave con el propósito de tener una referencia de la condición física de los estudiantes.",
@@ -660,8 +658,6 @@
         }
       ]
     },
-    
- 
     {
       "idGrupo": "asc_secundaria_2018_p36",
       "contexto": "Un docente propone la siguiente actividad a los estudiantes: cada participante va a utilizar un par de zancos con los que se debe desplazar por un camino de colores; cada color presenta distintos niveles de dificultad: caminar en línea recta, en línea curva, y a través de pequeños obstáculos.",
@@ -741,9 +737,9 @@
             "En parejas, rodar el balón sobre el cuerpo del compañero a modo de masajes.",
             "Jugar al gato y el ratón con el balón por todo el campo de juego."
           ],
-          "respuesta": "En parejas, rodar el balón sobre el cuerpo del compañero a modo de masajes.",
-          "respuestaCorta": "Para la fase de cierre o vuelta a la calma, son adecuadas las actividades de baja intensidad que promueven la relajación muscular y la disminución de la frecuencia cardíaca, como los masajes suaves con el balón.",
-          "solucionario": "El objetivo de la fase de cierre es la recuperación, llevando al organismo de un estado de activación a uno de reposo. Las actividades deben ser de muy baja intensidad, relajantes y, si es posible, lúdicas. Rodar el balón sobre el cuerpo de un compañero a modo de masaje (opción B) cumple con estos requisitos. La opción C es una actividad de alta intensidad, inadecuada para esta fase. La opción A, aunque es de relajación, la opción B añade un componente de interacción social positivo al cierre de la sesión.",
+          "respuesta": "Colocar el balón en el piso y rodar suavemente sobre él avanzando y retrocediendo.",
+          "respuestaCorta": "Para la fase de cierre o vuelta a la calma, son adecuadas las actividades de baja intensidad que promueven la relajación muscular y la disminución de la frecuencia cardíaca, como rodar suavemente sobre el balón.",
+          "solucionario": "El objetivo de la fase de cierre es la recuperación, llevando al organismo de un estado de activación a uno de reposo. Las actividades deben ser de muy baja intensidad, relajantes y controladas individualmente. Rodar suavemente sobre el balón avanzando y retrocediendo (opción A) cumple con estos requisitos, permitiendo un estiramiento suave y relajación de la espalda. La opción C es una actividad de alta intensidad, inadecuada para esta fase.",
           "seccion": "Casuística"
         }
       ]
@@ -779,9 +775,9 @@
             "Carreras, paradas, cambios de dirección, agarre del balón, dribling, pases, pivoteo, doble ritmo, lanzamientos, pantallas.",
             "Carreras, paradas, cambios de dirección, agarre del balón, pivoteo, pases, dribling, doble ritmo, pantallas, lanzamientos."
           ],
-          "respuesta": "Carreras, paradas, cambios de dirección, agarre del balón, dribling, pases, pivoteo, doble ritmo, lanzamientos, pantallas.",
-          "respuestaCorta": "Una progresión pedagógica lógica comienza con los desplazamientos básicos sin balón, luego introduce el dominio del balón y sus fundamentos iniciales, para finalmente abordar acciones combinadas y más complejas.",
-          "solucionario": "La enseñanza de un deporte debe seguir una progresión lógica. Primero, el estudiante debe dominar su cuerpo en el espacio del juego (carreras, paradas, cambios de dirección). Luego, se introduce el implemento (agarre del balón) y las acciones básicas con él (dribling, pases). Posteriormente, se enseñan fundamentos que combinan desplazamiento y control del balón (pivoteo, doble ritmo). Finalmente, se abordan los fundamentos de finalización (lanzamientos) y los elementos tácticos básicos (pantallas). La opción B sigue esta secuencia de forma más coherente.",
+          "respuesta": "Agarre del balón, pases, dribling, carreras, paradas, cambios de dirección, pivoteo, lanzamientos, doble ritmo, pantallas.",
+          "respuestaCorta": "Una progresión pedagógica lógica en baloncesto comienza con el dominio básico del balón (agarre, pases, dribling), luego incorpora los desplazamientos y movimientos corporales, para finalmente integrar acciones técnico-tácticas complejas.",
+          "solucionario": "La enseñanza del baloncesto debe seguir una progresión que permita al estudiante dominar primero el implemento antes de combinarlo con desplazamientos complejos. La opción A es la más adecuada porque comienza con el agarre del balón y sus manipulaciones básicas (pases, dribling), fundamentos que pueden practicarse estáticamente. Luego incorpora los desplazamientos (carreras, paradas, cambios de dirección) y posteriormente los combina con el balón (pivoteo). Finalmente, aborda las acciones más complejas (lanzamientos, doble ritmo, pantallas) que integran todos los fundamentos previos.",
           "seccion": "Conocimientos Disciplinares"
         }
       ]
@@ -881,7 +877,6 @@
         }
       ]
     },
- 
     {
       "idGrupo": "asc_secundaria_2018_p49",
       "contexto": "El docente reúne a los estudiantes y, luego de entregarles a cada uno de ellos un aro y un bastón, les pide que se ubiquen en el lugar que quieran aprovechando todo el espacio posible y luego les plantea los siguientes retos: \"Hagan girar el aro sobre el piso y díganme, ¿cuántas vueltas pueden dar alrededor de este antes de que caiga y se detenga? Ahora vuélvanlo a girar y cuenten cuántas palmadas pueden dar antes de que caiga al piso. Ahora, tomen el bastón y apóyenlo sobre el piso equilibrándolo y giren lo más rápido posible para atraparlo antes de que caiga al piso\".",
@@ -1077,4 +1072,3 @@
     }
   ]
 }
-  
