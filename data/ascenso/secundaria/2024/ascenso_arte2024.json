@@ -1,0 +1,948 @@
+{
+    "completo": [
+        {
+            "idGrupo": "asc_secundaria_2024_p01",
+            "contexto": "Un equipo de docentes se encuentra planificando las experiencias de aprendizaje que desarrollarán sus estudiantes.\nUno de los docentes propone lo siguiente:\n\"Las acciones pedagógicas que propongamos deben enfocarse en que los estudiantes reconozcan la gran diversidad cultural peruana, la cual implica un proceso dinámico y permanente de interacción e intercambio que se da entre personas. Debemos promover que los estudiantes reconozcan el valor de todas las personas y culturas, que respeten las diferencias y se enriquezcan de ellas\".",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "Lo propuesto por el docente evidencia el enfoque intercultural del Currículo Nacional de Educación Básica, ¿por qué?",
+                    "opciones": [
+                        "Porque prioriza la diversidad cultural peruana sobre la diversidad cultural mundial.",
+                        "Porque promueve el respeto a la identidad cultural, la justicia y el diálogo intercultural.",
+                        "Porque se enfoca principalmente en el proceso dinámico y la interacción entre diversas culturas."
+                    ],
+                    "respuesta": "Porque promueve el respeto a la identidad cultural, la justicia y el diálogo intercultural.",
+                    "respuestaCorta": "El enfoque intercultural busca el reconocimiento y valoración de la diversidad cultural, promoviendo el respeto, la justicia y el diálogo entre culturas, tal como lo menciona el docente.",
+                    "solucionario": "La propuesta del docente se alinea directamente con el enfoque intercultural del CNEB, que se define por la valoración de la identidad cultural y la promoción de relaciones de equidad y diálogo entre diferentes culturas. Las otras opciones son incorrectas porque el enfoque no prioriza una cultura sobre otra (a) ni se limita solo a la interacción (c).",
+                    "seccion": "Casuística"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_secundaria_2024_p02",
+            "contexto": "Durante una experiencia de aprendizaje en la que los estudiantes reflexionarán sobre la influencia de la cultura local en las manifestaciones artísticas, la docente recoge los saberes previos de los estudiantes sobre las características de la marinera. La mayoría de estudiantes conocen la marinera norteña y solo algunos conocen la marinera de Lamas y la marinera puneña. Entonces, se produce el siguiente diálogo entre Martina, una de las estudiantes, y la docente:\nMartina dice: \"Profesora, hay algo que no entiendo; yo sé que en la marinera la mujer baila descalza, el varón vestido de chalán y la mujer con falda larga, y acompañados por una banda grande de músicos. ¿Esos otros bailes de los que hablan mis compañeros, la marinera de Lamas y la puneña, no son verdaderas marineras, verdad?\".\nLa docente dice: \"Gracias por la pregunta, Martina. A ver, hagamos una analogía con la ropa cotidiana. ¿Tú dirías, por ejemplo, que todas las faldas que se usan en diversas partes del Perú son iguales?\".\nMartina dice: \"No, dependerá de lo que se usa en cada lugar\".\nLa docente dice: \"¿A qué te refieres? Dame un ejemplo\".\nMartina dice: \"Por ejemplo, dependiendo del clima, se usan telas diferentes\".\nLa docente dice: \"¡Exacto! ¿Y se te ocurre alguna otra razón?\".\nMartina dice: \"Bueno, también depende de la ocasión; por ejemplo, si vamos a una boda, nos ponemos una falda elegante y si vamos a la playa nos ponemos una falda sencilla. También depende de lo que está de moda en cada lugar\".\nLa docente dice: \"Claro, y quizás en algunos lugares prefieren unos colores y en otros lados prefieren otros colores; o en algunos lugares tienen ciertos materiales y en otros lugares tienen otros materiales diferentes\".\nMartina dice: \"¡Ah, ya entiendo! Entonces, igual que en la ropa, la danza cambia un poco dependiendo del lugar donde se baila, ipor eso las marineras no son todas iguales!\".",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Qué proceso realiza la docente con su intervención?",
+                    "opciones": [
+                        "Brinda andamiaje.",
+                        "Genera conflicto cognitivo.",
+                        "Promueve la metacognición."
+                    ],
+                    "respuesta": "Brinda andamiaje.",
+                    "respuestaCorta": "La docente guía a Martina usando una analogía (la ropa) para ayudarla a construir su propio entendimiento de que las danzas (marineras) también varían.",
+                    "solucionario": "El andamiaje es el proceso por el cual el docente proporciona apoyo temporal al estudiante para que pueda resolver un problema o comprender un concepto que no podría por sí solo. En este caso, la docente usa preguntas guiadas y una analogía con la ropa para que Martina, por sí misma, llegue a la conclusión sobre la diversidad de las marineras.",
+                    "seccion": "Casuística"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_secundaria_2024_p03",
+            "contexto": "Los estudiantes forman un círculo. El docente escoge un estudiante al azar y le dice una letra del abecedario. El estudiante debe responder diciendo el nombre de una persona, la palabra \"vende\", el nombre de un producto comestible, la palabra \"en\", y el nombre de un país, utilizando palabras que empiecen con la letra indicada por el docente. Por ejemplo, para la letra \"a\" podrían decir \"Alicia vende arándanos en Albania\". Para la letra \"c\" podrían decir \"Carlos vende camotes en Colombia\". Los estudiantes deben responder rápidamente, pero con la mayor tranquilidad posible. Los estudiantes que no logran construir una oración o no la dicen con calma salen del círculo y pasan a ser observadores. Gana el último estudiante que queda en el juego.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "En el contexto de la improvisación teatral, ¿cuál de los siguientes es el beneficio que brinda el juego descrito?",
+                    "opciones": [
+                        "Favorece el desarrollo de la memoria a corto plazo.",
+                        "Favorece el desarrollo de la imaginación y creatividad.",
+                        "Favorece la capacidad de concentración y autocontrol."
+                    ],
+                    "respuesta": "Favorece la capacidad de concentración y autocontrol.",
+                    "respuestaCorta": "El juego exige a los estudiantes pensar rápido (creatividad) pero a la vez mantener la calma y responder sin precipitarse, lo cual entrena el autocontrol y la concentración.",
+                    "solucionario": "Si bien el juego implica imaginación (b), la regla explícita de 'responder rápidamente, pero con la mayor tranquilidad posible' y el hecho de que 'los estudiantes que no logran construir una oración o no la dicen con calma salen del círculo' pone el énfasis principal en la capacidad de mantener la concentración y el autocontrol bajo presión, habilidades claves en la improvisación teatral.",
+                    "seccion": "Casuística"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_secundaria_2024_p04",
+            "contexto": "En las artes visuales, se denomina \"perspectiva\" a un sistema de representación gráfica que reproduce la profundidad del espacio y la imagen tridimensional en una superficie plana. La perspectiva se vale de distintos conceptos y técnicas, entre ellos, los puntos de fuga. En una representación en dos dimensiones, el punto de fuga es aquel lugar en que convergen las líneas oblicuas de una imagen que, en tres dimensiones, serían paralelas. Entre los muchos tipos de perspectiva, los más habituales son los que proyectan uno, dos y tres puntos de fuga.\nA continuación, se presenta una fotografía de Martín Chambi.",
+            "imagen": "[IMAGEN_01]",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuántos puntos de fuga presenta?",
+                    "opciones": [
+                        "Un punto de fuga.",
+                        "Dos puntos de fuga.",
+                        "Tres puntos de fuga."
+                    ],
+                    "respuesta": "Un punto de fuga.",
+                    "respuestaCorta": "La fotografía muestra una perspectiva lineal con un solo punto de fuga, donde todas las líneas paralelas (bordes de las paredes, suelo) convergen hacia un único punto en el fondo del callejón.",
+                    "solucionario": "La imagen 'Callejón Loreto' de Martín Chambi es un ejemplo clásico de perspectiva frontal o de un punto de fuga. Las líneas de las paredes (tanto las superiores como las inferiores) y del camino convergen visiblemente hacia un único punto en el centro de la imagen, al fondo del callejón, creando la sensación de profundidad.",
+                    "seccion": "Casuística"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_secundaria_2024_p05",
+            "contexto": null,
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál de las siguientes alternativas forma parte del patrimonio cultural inmaterial del país?",
+                    "opciones": [
+                        "Las cabezas clavas de Chavín en Ancash.",
+                        "La fortaleza de Saqsaywaman en Cusco.",
+                        "La fiesta de la Virgen de la Candelaria en Puno."
+                    ],
+                    "respuesta": "La fiesta de la Virgen de la Candelaria en Puno.",
+                    "respuestaCorta": "El patrimonio inmaterial se refiere a prácticas, saberes y celebraciones. La fiesta de la Candelaria es una festividad, mientras que las cabezas clavas y Saqsaywaman son bienes materiales (arqueológicos).",
+                    "solucionario": "El patrimonio cultural inmaterial incluye tradiciones orales, artes del espectáculo, usos sociales, rituales y actos festivos. La fiesta de la Virgen de la Candelaria es un acto festivo y una expresión cultural viva. En cambio, las cabezas clavas y la fortaleza de Saqsaywaman son patrimonio cultural material, específicamente bienes arqueológicos.",
+                    "seccion": "Casuística"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_secundaria_2024_p06",
+            "contexto": null,
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál de las siguientes situaciones evidencia que el docente de Arte y Cultura está realizando una evaluación sumativa?",
+                    "opciones": [
+                        "Mientras los estudiantes realizan sus trabajos artísticos, el docente se acerca, observa los trabajos, hace preguntas y brinda recomendaciones a cada estudiante.",
+                        "Al finalizar el periodo lectivo, el docente informa a cada estudiante las calificaciones obtenidas en el área especificando el nivel de logro alcanzado en cada competencia.",
+                        "Al inicio del periodo lectivo, el docente recoge los saberes previos de los estudiantes para conocer el nivel en el que se encuentran y así planificar las experiencias de aprendizaje."
+                    ],
+                    "respuesta": "Al finalizar el periodo lectivo, el docente informa a cada estudiante las calificaciones obtenidas en el área especificando el nivel de logro alcanzado en cada competencia.",
+                    "respuestaCorta": "La evaluación sumativa se realiza al final de un periodo para certificar el aprendizaje mediante una calificación, a diferencia de la formativa (a) o la diagnóstica (c).",
+                    "solucionario": "La evaluación sumativa tiene como propósito principal determinar el grado de consecución de los objetivos de aprendizaje al final de un período (bimestre, trimestre, año). Su función es certificar el nivel de logro alcanzado, generalmente mediante una calificación. La opción (a) describe una evaluación formativa (retroalimentación durante el proceso) y la (c) describe una evaluación diagnóstica (recoger saberes previos).",
+                    "seccion": "Casuística"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_secundaria_2024_p07",
+            "contexto": "La docente conoce la importancia de que sus estudiantes apliquen estrategias metacognitivas durante el desarrollo de toda la sesión y no solo al final, y por eso está planificando integrar actividades que promuevan este proceso en diversos momentos de la clase.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál de las siguientes estrategias es más eficiente para lograr su objetivo?",
+                    "opciones": [
+                        "Promover el diálogo y la interacción informal entre los estudiantes durante las sesiones para promover el compañerismo, la colaboración y el logro de metas comunes.",
+                        "Definir momentos de reflexión grupal a lo largo de la sesión para que los estudiantes compartan las estrategias utilizadas en sus procesos de aprendizaje y los resultados que les permitieron obtener, e intercambiar ideas sobre ello.",
+                        "Fomentar que los estudiantes trabajen autónomamente en sus proyectos durante las sesiones para que cada uno pueda analizar sus procesos de aprendizaje y así promover que vayan autorregulando sus estrategias sin la ayuda de la docente."
+                    ],
+                    "respuesta": "Definir momentos de reflexión grupal a lo largo de la sesión para que los estudiantes compartan las estrategias utilizadas en sus procesos de aprendizaje y los resultados que les permitieron obtener, e intercambiar ideas sobre ello.",
+                    "respuestaCorta": "La metacognición implica reflexionar sobre el propio aprendizaje. Hacer pausas para compartir y analizar las estrategias usadas es una acción metacognitiva explícita.",
+                    "solucionario": "La metacognición es la capacidad de reflexionar sobre el propio proceso de pensamiento y aprendizaje. La estrategia (b) es la más eficiente porque promueve explícitamente esta reflexión al pedir a los estudiantes que identifiquen ('compartan las estrategias utilizadas') y evalúen ('los resultados que les permitieron obtener') su propio aprendizaje durante la sesión, y no solo al final.",
+                    "seccion": "Casuística"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_secundaria_2024_p08",
+            "contexto": null,
+            "imagen": "[IMAGEN_02]",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál de las siguientes NO es una pintura figurativa?",
+                    "opciones": [
+                        "a",
+                        "b",
+                        "c"
+                    ],
+                    "respuesta": "b",
+                    "respuestaCorta": "La pintura 'b' (Sin título, de Rodríguez Larrain) es arte abstracto, ya que no representa objetos reconocibles del mundo real, a diferencia de 'a' y 'c' que son figurativas.",
+                    "solucionario": "El arte figurativo representa formas u objetos reconocibles de la realidad. Las pinturas 'a' (El mito de los sueños) y 'c' (Bruja de Cachiche) son figurativas, aunque estilizadas (surrealista y costumbrista, respectivamente), pues podemos reconocer figuras humanas y objetos. La pintura 'b' (Sin título) es un ejemplo de arte abstracto, compuesto por formas geométricas y colores que no buscan representar una figura concreta.",
+                    "seccion": "Casuística"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_secundaria_2024_p09",
+            "contexto": "Lea la siguiente situación y responda las preguntas 9, 10, 11, 12, 13 y 14.\nLos estudiantes están desarrollando una experiencia de aprendizaje en la que apreciarán diversas manifestaciones artístico-culturales con el propósito de reflexionar sobre las distintas formas de relación que puede haber entre las culturas cuando estas se encuentran.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "Durante una de las sesiones, los estudiantes están observando ejemplos de arquitectura inca y arquitectura española. La docente les pide hacer un cuadro comparativo con las características más resaltantes de ambas arquitecturas, sus similitudes y diferencias. Luego, les presenta una imagen de la iglesia de Santo Domingo de Cusco, iglesia colonial construida sobre los cimientos de un templo inca, el Coricancha, y les pregunta: \"La iglesia que están viendo, ¿es inca o es española?\".\n¿Qué proceso está promoviendo principalmente la docente cuando muestra a los estudiantes la imagen de la iglesia de Santo Domingo?",
+                    "opciones": [
+                        "Metacognición.",
+                        "Conflicto cognitivo.",
+                        "Activación de saberes previos."
+                    ],
+                    "respuesta": "Conflicto cognitivo.",
+                    "respuestaCorta": "Al presentar una estructura que es una mezcla (inca y española) después de haber estudiado ambas por separado, la docente desafía las categorías que acaban de establecer.",
+                    "solucionario": "La docente primero pide a los estudiantes que comparen y diferencien la arquitectura inca y la española. Luego, les muestra un ejemplo que fusiona ambas (Santo Domingo sobre el Coricancha) y les hace una pregunta (\"¿es inca o es española?\") que no puede responderse fácilmente con las categorías que acaban de definir. Esto genera un conflicto cognitivo, un desequilibrio en sus estructuras mentales, que los motiva a buscar una nueva comprensión.",
+                    "seccion": "Casuística"
+                },
+                {
+                    "pregunta": "Los estudiantes comparten sus impresiones sobre la imagen de la iglesia de Santo Domingo. Entonces, uno de los estudiantes pregunta: \"¿Por qué en esta iglesia lo español está construido encima de lo inca? ¿Por qué los españoles no destruyeron completamente el Coricancha, o construyeron su iglesia en otro lado?\". El docente se propone aprovechar esta pregunta para iniciar una reflexión sobre los tipos de relaciones que pueden producirse entre las culturas.\n¿Cuál de los siguientes grupos de preguntas es más pertinente para continuar el diálogo?",
+                    "opciones": [
+                        "¿Cuál era la cultura dominante en el Perú durante la colonia? ¿Sabías que las culturas dominantes suelen aprovechar su posición para obtener beneficios por la fuerza? ¿Puede ser la iglesia de Santo Domingo una expresión de esa forma de actuar?",
+                        "¿Qué importancia tenía el Coricancha para los incas antes de la colonia? ¿Qué podría significar para los incas que los españoles construyan una iglesia encima de su templo más sagrado? ¿Qué mensaje dieron los españoles al construir una iglesia encima del Coricancha?",
+                        "¿Tenía la cultura española una posición de dominio sobre la cultura inca durante la colonia? ¿Era importante para los españoles que el pueblo fuera consciente de ese dominio? ¿De qué forma podía representar la iglesia de Santo Domingo esa relación entre ambas culturas?"
+                    ],
+                    "respuesta": "¿Qué importancia tenía el Coricancha para los incas antes de la colonia? ¿Qué podría significar para los incas que los españoles construyan una iglesia encima de su templo más sagrado? ¿Qué mensaje dieron los españoles al construir una iglesia encima del Coricancha?",
+                    "respuestaCorta": "Este grupo de preguntas guía a los estudiantes a inferir el significado simbólico del acto de construir sobre el templo más sagrado del otro, explorando la relación de poder.",
+                    "solucionario": "La opción (b) es la más pertinente porque utiliza la reflexión y la empatía (¿Qué podría significar para los incas?) para guiar a los estudiantes a descubrir por sí mismos el mensaje de dominación y poder que implicaba construir una iglesia española sobre el Coricancha, el templo más sagrado de los incas. Las opciones (a) y (c) son más directas y dan pistas sobre la respuesta (dominio, dominación), mientras que la (b) promueve un descubrimiento guiado.",
+                    "seccion": "Casuística"
+                },
+                {
+                    "pregunta": "La docente conversa con los estudiantes sobre el hecho de que las culturas pueden relacionarse entre sí de diversas formas, y que las manifestaciones artístico-culturales muchas veces reflejan esas relaciones. La docente desea ofrecer un ejemplo de una manifestación artística peruana donde los elementos españoles y andinos están presentes sin un énfasis en el conflicto cultural.\n¿Cuál de los siguientes es el ejemplo más pertinente?",
+                    "opciones": [
+                        "La chonguinada.",
+                        "La marinera puneña.",
+                        "La tradición Yawar Fiesta."
+                    ],
+                    "respuesta": "La marinera puneña.",
+                    "respuestaCorta": "La marinera puneña es un ejemplo de sincretismo que fusiona elementos andinos (en la vestimenta y la cadencia) y españoles (estructura de pareja, pañuelo) en un baile elegante, sin un énfasis en el conflicto.",
+                    "solucionario": "La marinera puneña es un claro ejemplo de mestizaje y sincretismo cultural. A diferencia de la Chonguinada (que puede ser una sátira) o el Yawar Fiesta (que representa un conflicto explícito), la marinera puneña integra de manera más armónica elementos de ambas culturas. Incorpora la elegancia de los bailes de salón españoles y el uso del pañuelo, pero se danza con una cadencia y vestimenta que tienen profundas raíces andinas, mostrando una fusión sin un énfasis en la dominación o el conflicto.",
+                    "seccion": "Casuística"
+                },
+                {
+                    "pregunta": "La asimilación cultural es un modelo social que propone una uniformidad cultural que consiste en obligar a las minorías étnicas a adoptar las costumbres, los valores, las normas y la identidad de la cultura dominante abandonando las propias. Si la docente desea presentar a los estudiantes un ejemplo de asimilación cultural, ¿cuál de las siguientes alternativas es un caso pertinente?",
+                    "opciones": [
+                        "Los líderes de una comunidad asháninca se presentan a una citación ante el Congreso de la República vestidos con trajes típicos de su localidad y hablando en su lengua materna.",
+                        "Durante la época de la conquista, los españoles impusieron el idioma castellano y la religión católica a los pueblos originarios del Perú.",
+                        "Una familia peruana que se vio obligada a migrar a Canadá hace muchos años se reúne con la comunidad latina y prepara platos típicos peruanos utilizando ingredientes locales."
+                    ],
+                    "respuesta": "Durante la época de la conquista, los españoles impusieron el idioma castellano y la religión católica a los pueblos originarios del Perú.",
+                    "respuestaCorta": "La imposición del idioma y la religión por parte de una cultura dominante (españoles) a una minorizada (pueblos originarios) es la definición exacta de asimilación cultural forzada.",
+                    "solucionario": "El caso (b) describe perfectamente la asimilación cultural: la cultura dominante (española) obliga a la minoría (pueblos originarios) a adoptar sus costumbres (idioma, religión), buscando que abandonen las propias. El caso (a) es un ejemplo de resistencia cultural, no de asimilación. El caso (c) es un ejemplo de preservación cultural o integración, donde la cultura minoritaria mantiene sus tradiciones en un nuevo contexto.",
+                    "seccion": "Casuística"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_secundaria_2024_p09",
+            "contexto": "Lea la siguiente situación y responda las preguntas 9, 10, 11, 12, 13 y 14.\nLos estudiantes están desarrollando una experiencia de aprendizaje en la que apreciarán diversas manifestaciones artístico-culturales con el propósito de reflexionar sobre las distintas formas de relación que puede haber entre las culturas cuando estas se encuentran.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "Como oposición a la asimilación cultural, la docente discute con los estudiantes el concepto de resistencia cultural. La resistencia cultural es un proceso por el cual los individuos o las organizaciones utilizan elementos de su cultura, como el idioma, la vestimenta, etc., para oponerse a un proceso de dominación cultural e impedir la homogenización de la cultura local.\n¿Cuál de los siguientes movimientos artísticos es un ejemplo de resistencia cultural?",
+                    "opciones": [
+                        "La cultura relacionada con la música chicha.",
+                        "El movimiento costumbrista en la pintura peruana.",
+                        "La llamada \"Generación del 50\" en la literatura peruana."
+                    ],
+                    "respuesta": "La cultura relacionada con la música chicha.",
+                    "respuestaCorta": "La música chicha es una resistencia cultural al crear una identidad propia para los migrantes andinos en la ciudad, oponiéndose a la cultura hegemónica limeña.",
+                    "solucionario": "La cultura chicha, surgida de la migración andina a Lima, es un claro ejemplo de resistencia cultural. Al fusionar el huayno, la cumbia y el rock psicodélico, los migrantes y sus descendientes crearon una nueva manifestación cultural que les dio identidad y voz. Esta cultura se opuso a los cánones de la cultura 'oficial' o dominante limeña, que tendía a excluirlos, impidiendo la homogenización y la asimilación completa de este grupo a la cultura criolla urbana.",
+                    "seccion": "Casuística"
+                },
+                {
+                    "pregunta": "Otro concepto importante que quiere discutir la docente es el de apropiación cultural. La apropiación cultural es considerada una forma de dominio cultural que consiste en la explotación (sea por beneficio económico o placer personal) de creaciones pertenecientes a una comunidad históricamente vulnerada. Según el Diccionario de Cambridge, la apropiación cultural es \"el acto de tomar o usar algo de una cultura que no es la propia, especialmente si no se demuestra que se entiende o se respeta esa cultura\".\nSi la docente desea presentar a los estudiantes un ejemplo de apropiación cultural, ¿cuál de los siguientes casos es pertinente?",
+                    "opciones": [
+                        "Los artistas Entes y Pésimo combinan la técnica del grafiti con elementos de la cultura peruana para crear murales que reflejan temas sociales de su entorno local.",
+                        "Una familia ayacuchana de artesanos crea tablas de Sarhua relatando temas actuales del ámbito internacional, por ejemplo, los conflictos en el medio oriente.",
+                        "Una marca europea de ropa de diseñador utiliza diseños shipibos tradicionales en las telas que utiliza para sus prendas."
+                    ],
+                    "respuesta": "Una marca europea de ropa de diseñador utiliza diseños shipibos tradicionales en las telas que utiliza para sus prendas.",
+                    "respuestaCorta": "Este caso describe a un grupo dominante (marca europea) que toma un elemento (diseños shipibos) de una cultura vulnerada para su beneficio económico, sin respeto o permiso.",
+                    "solucionario": "La opción (c) es un ejemplo claro de apropiación cultural según la definición dada: una entidad de una cultura dominante (marca europea) toma elementos creativos (diseños shipibos) de una comunidad históricamente vulnerada (pueblo shipibo) para explotación y beneficio económico, generalmente sin la comprensión, el permiso o el reconocimiento adecuados. Las opciones (a) y (b) son ejemplos de fusión cultural o evolución de la tradición por los propios miembros de la cultura.",
+                    "seccion": "Casuística"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_secundaria_2024_p15",
+            "contexto": "Lea la siguiente situación y responda las preguntas 15, 16 y 17.\nLa docente de Arte y Cultura ha planificado una experiencia de aprendizaje en la que desea promover el desarrollo del pensamiento crítico y el sentido de identidad cultural a través de la apreciación y discusión del trabajo de diversos pintores peruanos. En la primera sesión, mostrará a los estudiantes una pintura de Venancio Shinki titulada Lanzón.\nEn Lanzón, se conjugan elementos gráficos de la cultura visual prehispánica del Perú con trazos refinados que aluden a la herencia oriental del autor. En la obra, a la izquierda, se aprecia sobre un fondo rojo ocre una figura similar a la de un lanzón chavín, en la que resalta un rostro humano. En contraposición a esa figura, del lado derecho, se observa, flotando, una cabeza gigante invertida, aparentemente de un pez, sobre la cual hay una figura humana femenina que parece mirar a los ojos a la cabeza del lanzón. La atmósfera de la imagen es etérea, y la delicadeza con que han sido delineadas las figuras imprime en la obra una lejana fragilidad.",
+            "imagen": "[IMAGEN_03]",
+            "preguntas": [
+                {
+                    "pregunta": "¿Con qué movimiento artístico se relacionan las características de la pintura de Venancio Shinki titulada Lanzón?",
+                    "opciones": [
+                        "Cubismo.",
+                        "Surrealismo.",
+                        "Impresionismo."
+                    ],
+                    "respuesta": "Surrealismo.",
+                    "respuestaCorta": "La descripción de la obra (cabeza flotante, atmósfera etérea, elementos simbólicos) se alinea con las características del surrealismo, que explora el mundo de los sueños y el subconsciente.",
+                    "solucionario": "Las características descritas en el texto, como la \"cabeza gigante invertida, aparentemente de un pez\" que flota, la \"atmósfera de la imagen es etérea\" y la conjugación de elementos dispares (prehispánico, oriental, onírico), son propias del Surrealismo, un movimiento que busca expresar el subconsciente y el mundo de los sueños.",
+                    "seccion": "Casuística"
+                },
+                {
+                    "pregunta": "¿Cuál de los siguientes grupos de preguntas es más apropiado para iniciar la apreciación de la pintura?",
+                    "opciones": [
+                        "¿Habían oído hablar de Venancio Shinki? ¿Conocían algo sobre su vida y su obra? ¿Habían visto antes alguno de sus trabajos?",
+                        "¿Cuál creen que es el mensaje que el autor quiso expresar? ¿Qué influencias se puede reconocer en esta obra? ¿Cuál creen que es el valor de esta obra para los peruanos?",
+                        "¿Qué emociones o ideas vienen a su mente cuando ven esta obra? ¿Qué aspectos de la pintura llaman más su atención? ¿Cómo describirían esta obra a una persona que no la ha visto?"
+                    ],
+                    "respuesta": "¿Qué emociones o ideas vienen a su mente cuando ven esta obra? ¿Qué aspectos de la pintura llaman más su atención? ¿Cómo describirían esta obra a una persona que no la ha visto?",
+                    "respuestaCorta": "La apreciación artística inicia con la percepción y descripción (qué ves, qué sientes, qué llama tu atención) antes de pasar al análisis o la interpretación.",
+                    "solucionario": "El proceso de apreciación crítica de una obra de arte debe comenzar por la etapa de percepción y descripción. El grupo de preguntas (c) invita a los estudiantes a conectarse sensorial y emocionalmente con la obra (\"¿Qué emociones o ideas...?\", \"¿Qué aspectos llaman más su atención?\") y a describirla (\"¿Cómo describirían esta obra...?\"). Las opciones (a) y (b) se saltan este paso inicial y van directamente a la contextualización o interpretación.",
+                    "seccion": "Casuística"
+                },
+                {
+                    "pregunta": "Luego de realizar un análisis crítico de la obra Lanzón, los estudiantes han escrito breves reseñas con comentarios diversos sobre la obra.\n¿Cuál de los siguientes comentarios demuestra una aproximación contemporánea a la obra de Venancio Shinki?",
+                    "opciones": [
+                        "\"El color rojo del fondo hace destacar las figuras de los personajes, que son de tonos claros y grisáceos; ese contraste permite apreciar mejor la delicadeza de la técnica del pintor\".",
+                        "\"La figura del pez, que tiene un gran volumen, está equilibrada en el vacío y las dos líneas delgadas enmarcan la composición; en cambio, la figura del lanzón se ve fija, sólida\".",
+                        "\"El artista combina en su obra elementos de diversas culturas, logrando un equilibro que es, a su vez, expresión de su propia identidad y de su herencia cultural\"."
+                    ],
+                    "respuesta": "\"El artista combina en su obra elementos de diversas culturas, logrando un equilibro que es, a su vez, expresión de su propia identidad y de su herencia cultural\".",
+                    "respuestaCorta": "Este comentario interpreta la obra a través de conceptos contemporáneos como la identidad, la hibridación cultural y la herencia, yendo más allá del análisis formal.",
+                    "solucionario": "Las opciones (a) y (b) representan un análisis formal, centrado en los elementos visuales de la composición (color, contraste, volumen, equilibrio). La opción (c) representa una aproximación contemporánea porque interpreta la obra en función de conceptos clave como la identidad cultural, la interculturalidad y la herencia, que son temas centrales en la crítica y el arte contemporáneo, tal como se menciona en el contexto (herencia oriental y prehispánica del autor).",
+                    "seccion": "Casuística"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_secundaria_2024_p18",
+            "contexto": "97 empleadas domésticas, de la artista peruana Daniela Ortiz (Cusco, 1985), es un proyecto artístico que consiste en la exhibición de 97 fotografías familiares extraídas de las redes sociales. Estas fotografías familiares retratan situaciones cotidianas, como fiestas de cumpleaños y almuerzos en familia. En todas estas fotografías aparecen trabajadoras del hogar, pero siempre aparecen tapadas, recortadas, en último plano, fuera de foco o, inclusive, en las sombras. Por ejemplo, en una de las fotografías, se observa un niño pequeño en primer plano sujetado por una mujer, de la que solo se ven los brazos y parte del uniforme. En otra fotografía, se observa un grupo familiar posando para la foto y una trabajadora del hogar observando la escena desde el fondo de la habitación.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Qué problemática aborda principalmente este proyecto de Daniela Ortiz?",
+                    "opciones": [
+                        "La privacidad de las fotografías que se publican en las redes sociales y el mal uso que se les puede dar.",
+                        "La invisibilización de las trabajadoras del hogar y la marginación a la que están sometidas en el trabajo.",
+                        "La precariedad de las condiciones laborales de las trabajadoras del hogar en nuestro país."
+                    ],
+                    "respuesta": "La invisibilización de las trabajadoras del hogar y la marginación a la que están sometidas en el trabajo.",
+                    "respuestaCorta": "El proyecto evidencia cómo las trabajadoras del hogar, aunque presentes, son visualmente marginadas (tapadas, fuera de foco, al fondo), reflejando su invisibilización social.",
+                    "solucionario": "El núcleo del proyecto artístico de Daniela Ortiz es la forma en que las trabajadoras del hogar son representadas en las fotografías familiares. Al aparecer \"tapadas, recortadas, en último plano, fuera de foco o, inclusive, en las sombras\", la artista utiliza estas imágenes (apropiación) para denunciar la invisibilización y marginación social de estas trabajadoras, a pesar de ser parte integral de la vida familiar que retratan.",
+                    "seccion": "Casuística"
+                },
+                {
+                    "pregunta": "La docente presenta a los estudiantes una publicación con varias fotografías de la muestra 97 empleadas domésticas. Luego de hacerles notar el título de la serie de fotografías y el nombre de la autora, ¿cuál de los siguientes grupos de preguntas es más apropiado para que los estudiantes inicien la apreciación de este proyecto artístico?",
+                    "opciones": [
+                        "¿Qué tienen en común estas fotografías? ¿Cuáles son las condiciones materiales de los hogares en que se tomaron? ¿Cuáles son las condiciones laborales de las trabajadoras? ¿Qué reflexión podemos hacer sobre la desigualdad en nuestro país a partir de esta obra?",
+                        "¿Qué elementos resaltan en estas imágenes? ¿Quién tomó las fotografías que aparecen en la muestra? ¿Por qué figura el nombre de Daniela Ortiz si ella no fue quien tomó las fotografías? ¿Cuál es el rol de Daniela Ortiz en esta muestra artística?",
+                        "¿Qué les llama la atención en estas fotografías? ¿Qué personas aparecen retratadas? ¿Quiénes tomaron las fotografías? ¿Quiénes son los protagonistas? ¿Cómo son representadas las trabajadoras del hogar en las fotos?"
+                    ],
+                    "respuesta": "¿Qué les llama la atención en estas fotografías? ¿Qué personas aparecen retratadas? ¿Quiénes tomaron las fotografías? ¿Quiénes son los protagonistas? ¿Cómo son representadas las trabajadoras del hogar en las fotos?",
+                    "respuestaCorta": "Este grupo de preguntas guía a los estudiantes a través de la percepción y descripción, centrándose en quiénes y cómo son representados, lo cual es clave en esta obra.",
+                    "solucionario": "Nuevamente, la apreciación debe iniciarse con la descripción. La opción (c) es la más apropiada porque guía a los estudiantes paso a paso: primero una conexión personal (\"¿Qué les llama la atención?\"), luego una descripción fáctica (\"¿Qué personas aparecen?\"), seguida de preguntas clave para entender la obra conceptual (\"¿Quiénes son los protagonistas?\") y finalmente la pregunta central del proyecto (\"¿Cómo son representadas las trabajadoras del hogar?\").",
+                    "seccion": "Casuística"
+                },
+                {
+                    "pregunta": "Luego de que los estudiantes y la docente han discutido y reflexionado sobre el propósito del proyecto artístico, Jorge, un estudiante, interviene:\n\"Profesora, yo opino que esta muestra artística es un plagio, no es original. La autora simplemente ha tomado de la red social fotos que no son suyas, las ha impreso, ampliado y colocado todas juntas. No ha hecho ningún esfuerzo, solo ha copiado varias fotos\".\nDesde un enfoque contemporáneo del arte, ¿qué retroalimentación es más pertinente ante la intervención de Jorge?",
+                    "opciones": [
+                        "Efectivamente, las fotos no son originales, porque las tomaron otras personas y no la artista. Pero, ¿acaso no requiere esfuerzo seleccionar y combinar todo el conjunto de fotografías? Cuando hacemos un collage, por ejemplo, ¿no se requiere, acaso, tener talento para la composición para que quede perfecto?",
+                        "Las personas que tomaron estas fotos, ¿con qué propósito lo hicieron? ¿Y la artista? ¿Cuál fue su propósito al seleccionar específicamente estas fotos y colocarlas todas juntas? ¿El propósito es el mismo? Aunque las fotos son las mismas, ¿qué nuevo significado les está dando la autora?",
+                        "Efectivamente, las fotos han sido tomadas por otras personas, pero al copiarlas, ampliarlas e imprimirlas, ¿no está modificando la autora detalles significativos de la fotografía original, como su tamaño, el formato, el soporte físico e, inclusive, la iluminación? En ese sentido, ¿podríamos afirmar que la obra es diferente que la original?"
+                    ],
+                    "respuesta": "Las personas que tomaron estas fotos, ¿con qué propósito lo hicieron? ¿Y la artista? ¿Cuál fue su propósito al seleccionar específicamente estas fotos y colocarlas todas juntas? ¿El propósito es el mismo? Aunque las fotos son las mismas, ¿qué nuevo significado les está dando la autora?",
+                    "respuestaCorta": "Esta retroalimentación guía a Jorge a entender que en el arte contemporáneo (apropiación) el valor no está en la creación material, sino en la resignificación y el concepto.",
+                    "solucionario": "La intervención de Jorge se basa en una visión tradicional del arte (originalidad, esfuerzo técnico). La retroalimentación (b) es la más pertinente desde un enfoque contemporáneo porque utiliza la retroalimentación reflexiva (por descubrimiento) para guiar a Jorge a comprender el concepto de \"apropiación\" y \"resignificación\". El valor de la obra de Ortiz no radica en la técnica (a, c), sino en el concepto: tomar imágenes existentes y, al seleccionarlas y agruparlas, darles un significado completamente nuevo y crítico.",
+                    "seccion": "Casuística"
+                },
+                {
+                    "pregunta": "Después de analizar en clase varias fotos del proyecto 97 empleadas domésticas de Daniela Ortiz, la docente desea proponer a sus estudiantes una actividad en la que reflexionen sobre otros estereotipos, y formas de racismo y discriminación presentes en la cultura visual.\n¿Cuál de las siguientes actividades es más adecuada para que la docente logre su propósito?",
+                    "opciones": [
+                        "Que entrevisten a trabajadoras del hogar y les pregunten sobre las casas donde trabajan, sus condiciones laborales, si reciben un trato discriminatorio por parte de sus empleadores, y si les molesta que les saquen fotos y las publiquen en redes sociales sin haber dado su consentimiento.",
+                        "Que hagan una búsqueda en diversas redes sociales de fotografías en las que se observen personas fuera de plano, desenfocadas, en las sombras o tapadas por alguien más, y que analicen si esas personas pertenecen a grupos sociales discriminados.",
+                        "Que reflexionen sobre qué otros grupos o minorías sufren discriminación o son invisibilizadas en nuestra sociedad y que luego evalúen de qué manera los medios de comunicación representan a esas personas y den su opinión."
+                    ],
+                    "respuesta": "Que reflexionen sobre qué otros grupos o minorías sufren discriminación o son invisibilizadas en nuestra sociedad y que luego evalúen de qué manera los medios de comunicación representan a esas personas y den su opinión.",
+                    "respuestaCorta": "Esta actividad transfiere la habilidad aprendida (analizar la representación visual) a otros grupos y otros medios (cultura visual en general), cumpliendo el propósito de la docente.",
+                    "solucionario": "El propósito es reflexionar sobre *otros* estereotipos en la *cultura visual*. La opción (c) logra esto al pedir a los estudiantes que primero identifiquen *otros grupos* discriminados y luego analicen cómo la cultura visual (medios de comunicación) los representa. La opción (a) se aleja de la cultura visual y se centra en la investigación social. La opción (b) es una repetición de la misma actividad (buscar personas invisibilizadas en fotos) y no amplía la reflexión a *otros* estereotipos.",
+                    "seccion": "Casuística"
+                },
+                {
+                    "pregunta": "Luego de la experiencia, los estudiantes y la docente conversan sobre lo aprendido. En ese contexto, Lucía interviene:\n\"A mí me encantó esta experiencia y siento que he aprendido mucho. Al principio no entendía bien la lógica de la muestra artística, me sentía un poco desconcertada. Pero luego de analizar y reflexionar sobre el propósito de la autora, he comprendido mucho mejor la función que tiene el arte en la sociedad. Ahora, cuando miro fotos, veo más cosas que antes, porque me he vuelto consciente de ciertos problemas sociales que antes pasaba por alto\".\nLa intervención de Lucía evidencia un proceso metacognitivo. ¿Por qué?",
+                    "opciones": [
+                        "Porque se muestra motivada y satisfecha por los aprendizajes que logró durante el proceso de aprendizaje.",
+                        "Porque reflexiona sobre las ideas y emociones que experimentó durante su proceso de aprendizaje.",
+                        "Porque logra comprender el propósito de la obra y la función del arte en la sociedad."
+                    ],
+                    "respuesta": "Porque reflexiona sobre las ideas y emociones que experimentó durante su proceso de aprendizaje.",
+                    "respuestaCorta": "Lucía describe su propio proceso mental: cómo pasó de la confusión (\"no entendía\", \"desconcertada\") a la comprensión (\"he comprendido\", \"ahora veo más cosas\"), lo cual es metacognición.",
+                    "solucionario": "La metacognición es la capacidad de reflexionar sobre el propio proceso de pensamiento y aprendizaje. Lucía lo demuestra al identificar su estado inicial (\"Al principio no entendía... me sentía desconcertada\"), el proceso que siguió (\"Pero luego de analizar y reflexionar...\") y el resultado de ese proceso (\"he comprendido...\", \"Ahora... me he vuelto consciente...\"). Está analizando cómo aprendió y cómo su pensamiento cambió.",
+                    "seccion": "Casuística"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_secundaria_2024_p23",
+            "contexto": "Lea la siguiente situación y responda las preguntas 23 y 24.\nEn el Aula de Innovación Pedagógica, los estudiantes y la docente han realizado una visita virtual al Museo Marina Núñez del Prado, ubicado en Lima, Perú. En el recorrido virtual, pueden apreciarse tres esculturas realizadas en piedra por la artista boliviana en las que representa la figura del toro.",
+            "imagen": "[IMAGEN_04]",
+            "preguntas": [
+                {
+                    "pregunta": "A continuación, se presentan tres esculturas que representan la figura del toro.\n¿Qué proceso se evidencia en la secuencia de imágenes?",
+                    "opciones": [
+                        "Sincretismo.",
+                        "Abstracción.",
+                        "Conceptualismo."
+                    ],
+                    "respuesta": "Abstracción.",
+                    "respuestaCorta": "La secuencia muestra cómo la figura del toro se simplifica progresivamente, desde una forma reconocible hasta sus formas esenciales, lo cual define al proceso de abstracción.",
+                    "solucionario": "Las tres imágenes muestran una evolución desde una forma figurativa (un toro reconocible en la primera escultura) hacia formas cada vez más simplificadas y geométricas, donde se pierden los detalles realistas para conservar solo la esencia de la forma. Este proceso de simplificación de la realidad se denomina abstracción.",
+                    "seccion": "Casuística"
+                },
+                {
+                    "pregunta": "En el museo, en una pared cerca de las esculturas de los toros, se encuentra el siguiente texto:\nTurullay\nEn la producción de Núñez del Prado se aprecia una sugerente y continua evolución de algunos símbolos ancestrales en formas primordiales, entre los que destaca la figura del toro. En esta serie de esculturas, la autora capta la esencia del toro, el Turullay, como afectuosamente lo denominan ciertas canciones quechuas.\nDesde su poética descripción figurativa hasta la formidable culminación casi etérea, el mítico ser se fusiona con la materialidad pétrea del granito, especialmente escogido para esta pieza. La proporción de sus formas, su equilibrio, ritmo y tensión revelan la gran maestría técnica de esta escultora boliviana. Una obra maestra de la síntesis plástica. A esa sensibilidad aspiraba sin duda nuestra escultora.\n¿Cuál de los siguientes fragmentos del texto contiene una apreciación solo formal de la obra de Marina Núñez del Prado?",
+                    "opciones": [
+                        "\"En esta serie de esculturas, la autora capta la esencia del toro, el Turullay, como afectuosamente lo denominan ciertas canciones quechuas\".",
+                        "\"La proporción de sus formas, su equilibrio, ritmo y tensión revelan la gran maestría técnica de esta escultora boliviana\".",
+                        "\"En la producción de Núñez del Prado se aprecia una sugerente y continua evolución de algunos símbolos ancestrales\"."
+                    ],
+                    "respuesta": "\"La proporción de sus formas, su equilibrio, ritmo y tensión revelan la gran maestría técnica de esta escultora boliviana\".",
+                    "respuestaCorta": "El análisis formal se centra en los elementos de composición. Este fragmento describe la proporción, el equilibrio, el ritmo y la tensión, que son elementos formales.",
+                    "solucionario": "El análisis formal en las artes visuales se refiere a la apreciación de los elementos compositivos de la obra (línea, forma, color, textura, equilibrio, ritmo, proporción, etc.), independientemente de su significado simbólico o contexto. La opción (b) es la única que se centra exclusivamente en estos elementos formales (\"proporción\", \"equilibrio\", \"ritmo\", \"tensión\"). Las opciones (a) y (c) se refieren al contenido y al significado (\"esencia del toro\", \"símbolos ancestrales\").",
+                    "seccion": "Casuística"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_secundaria_2024_p25",
+            "contexto": "Lea la siguiente situación y responda las preguntas 25, 26, 27, 28, 29 y 30.\nLos estudiantes van a iniciar una experiencia de aprendizaje en la que investigarán y reflexionarán sobre la influencia de la cultura africana en la música peruana por medio de diversas actividades de apreciación y creación artística.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "Al iniciar la experiencia de aprendizaje, el docente pregunta a los estudiantes qué conocen sobre la música africana. Varios responden que la música africana se toca principalmente con tambores y otros instrumentos de percusión. Entonces, el docente reproduce para los estudiantes diversos ejemplos de música africana en los que no se usan tambores como, por ejemplo, el género zulú isicathamiya de Sudáfrica, y los estudiantes se muestran algo desconcertados.\nLuego de escuchar y analizar varios ejemplos, llegan a la conclusión de que la música africana es más diversa de lo que ellos pensaban originalmente.\n¿Qué proceso promueve principalmente el docente cuando reproduce música africana que no tiene tambores?",
+                    "opciones": [
+                        "Transferencia.",
+                        "Metacognición.",
+                        "Conflicto cognitivo."
+                    ],
+                    "respuesta": "Conflicto cognitivo.",
+                    "respuestaCorta": "Al presentar ejemplos que contradicen la idea previa de los estudiantes (música africana = tambores), el docente genera un desequilibrio en sus saberes (conflicto cognitivo).",
+                    "solucionario": "El conflicto cognitivo se produce cuando se enfrenta al estudiante con una información o situación que contradice sus saberes previos. Los estudiantes pensaban que toda la música africana usaba tambores; al escuchar ejemplos sin tambores, su esquema mental entra en conflicto, lo que los obliga a reestructurar su comprensión y concluir que \"es más diversa de lo que ellos pensaban\".",
+                    "seccion": "Casuística"
+                },
+                {
+                    "pregunta": "El docente reproduce más ejemplos de música africana, incluyendo ejemplos con tambores, y Pedro, uno de los estudiantes comenta: \"Los instrumentos de percusión son típicos de las culturas primitivas, que todavía no han inventado instrumentos más sofisticados\". Si el docente se propone retroalimentar a Pedro de manera que reflexione sobre su afirmación, ¿cuál de los siguientes grupos de preguntas es más pertinente?",
+                    "opciones": [
+                        "¿Qué entiendes por \"cultura primitiva\"? ¿Acaso podemos afirmar que algunas culturas son superiores a otras? ¿Qué procesos históricos y sociales están detrás de esa jerarquía? ¿Qué cosas podemos aprender de culturas diferentes a la nuestra? ¿Cómo debemos ver a otras culturas para poder aprender de ellas?",
+                        "¿Es correcto descalificar a una cultura porque usa instrumentos de percusión? ¿Sabías que los instrumentos de percusión se usan en mucha música moderna? ¿Sabías que las culturas ancestrales tienen saberes importantes? ¿Es positivo entonces pensar en otras culturas como \"primitivas\"?",
+                        "¿Qué necesitan las culturas menos desarrolladas para poder crecer? ¿Qué acciones pueden realizar las sociedades que tienen mayores recursos para ayudarlas? ¿Por qué es positivo que todas las culturas alcancen el mismo nivel de bienestar? ¿Cuál debería ser nuestra actitud hacia todas las culturas entonces?"
+                    ],
+                    "respuesta": "¿Qué entiendes por \"cultura primitiva\"? ¿Acaso podemos afirmar que algunas culturas son superiores a otras? ¿Qué procesos históricos y sociales están detrás de esa jerarquía? ¿Qué cosas podemos aprender de culturas diferentes a la nuestra? ¿Cómo debemos ver a otras culturas para poder aprender de ellas?",
+                    "respuestaCorta": "Esta opción utiliza preguntas reflexivas para que Pedro cuestione la base de su prejuicio (el término \"primitiva\" y la idea de superioridad cultural) en lugar de solo contradecirlo.",
+                    "solucionario": "La afirmación de Pedro se basa en un prejuicio etnocentrista (\"culturas primitivas\"). La retroalimentación más pertinente es la (a) porque, mediante preguntas reflexivas, invita a Pedro a cuestionar el propio concepto de \"primitivo\" (\"¿Qué entiendes por...?\", \"¿Acaso podemos afirmar que algunas culturas son superiores a otras?\") y la jerarquía cultural implícita en su comentario, fomentando una reflexión profunda sobre el respeto intercultural.",
+                    "seccion": "Casuística"
+                },
+                {
+                    "pregunta": "Entonces, Pedro dice lo siguiente: \"Tiene razón, profe, mi intención no fue decir que hay culturas mejores que otras. Lo que quise decir es que la música africana no es tan compleja como la música occidental. Por ejemplo, es mucho más simple que la música clásica, ¿o no?\". Varios estudiantes asienten dándole la razón a Pedro. Entonces, el docente busca entre sus materiales y encuentra un texto que le muestra a toda la clase para enriquecer la discusión:\n\"En occidente, la música clásica europea suele presentarse como paradigma de desarrollo y complejidad técnico-musical. La música clásica, sin embargo, se caracteriza por una menor sofisticación rítmica, sobre todo si es comparada con la música africana polirrítmica, que suele tener una gran variedad y riqueza. Rítmicamente, la música clásica europea tiende a ser homogénea y simétrica. Esta regularidad rítmica es necesaria para contribuir a la apreciación de la melodía, armonía, estructura, etc., que son los parámetros utilizados para expresar tensión y distensión en este tipo de música\".\n¿Cuál es la idea principal del párrafo presentado por el docente?",
+                    "opciones": [
+                        "En comparación con determinada música africana, la música clásica europea no tiene gran complejidad rítmica para contribuir a la apreciación de otros elementos musicales.",
+                        "La música clásica europea suele presentarse como paradigma de desarrollo y complejidad técnico-musical debido a sus melodías, armonía y estructura.",
+                        "Para expresar la tensión y distensión en la música, la melodía, la armonía y la estructura son más importantes que el ritmo."
+                    ],
+                    "respuesta": "En comparación con determinada música africana, la música clásica europea no tiene gran complejidad rítmica para contribuir a la apreciación de otros elementos musicales.",
+                    "respuestaCorta": "El texto contrasta la complejidad rítmica africana con la menor complejidad rítmica de la música clásica, explicando que esta última prioriza otros elementos (melodía, armonía).",
+                    "solucionario": "La idea principal del texto es desmitificar la supuesta simplicidad de la música africana al compararla con la música clásica. El texto argumenta que, si bien la música clásica es compleja en melodía y armonía, es rítmicamente menos sofisticada que la música africana polirrítmica. La opción (a) captura esta idea central: la simplicidad rítmica de la música clásica es una característica deliberada para realzar otros elementos, y no es comparable a la riqueza rítmica africana.",
+                    "seccion": "Casuística"
+                },
+                {
+                    "pregunta": "En el contexto descrito, ¿por qué es pertinente que el docente muestre el texto citado a los estudiantes?",
+                    "opciones": [
+                        "Porque señala defectos en la música occidental que favorecen una mejor valoración de la música africana.",
+                        "Porque favorece una visión desmitificadora de la música clásica europea desde una perspectiva neutral.",
+                        "Porque el paralelo entre los dos tipos de música permite apreciar el distinto uso de los elementos musicales."
+                    ],
+                    "respuesta": "Porque favorece una visión desmitificadora de la música clásica europea desde una perspectiva neutral.",
+                    "respuestaCorta": "El texto es pertinente porque rompe el mito (desmitifica) de la superioridad absoluta de la música clásica, presentando una perspectiva neutral que valora la complejidad de ambas tradiciones en sus propios términos.",
+                    "solucionario": "La pertinencia del texto radica en que aborda directamente el prejuicio de Pedro sobre la 'simplicidad'. Al presentar una fuente que cuestiona el paradigma de la música clásica europea como el único referente de complejidad, el docente 'desmitifica' esa visión etnocentrista. Lo hace desde una perspectiva neutral (opción B), ya que no ataca la música clásica, sino que explica que su complejidad reside en otros parámetros (armonía, estructura) mientras que la africana reside en el ritmo, validando ambas.",
+                    "seccion": "Casuística"
+                },
+                {
+                    "pregunta": "En otro momento de la experiencia de aprendizaje, el docente muestra a los estudiantes videos de música yoruba, proveniente de Nigeria. La música yoruba es frecuentemente utilizada en ceremonias de la religión yoruba. Durante dichas ceremonias, cada canción tocada es progresivamente más intensa que la anterior, conduciendo a un momento de éxtasis. La música yoruba suele utilizar el recurso de la \"llamada y respuesta\", donde un solista canta y un coro de voces le responde. Las letras de sus canciones suelen incluir enseñanzas y proverbios. El uso de instrumentos de percusión en la música yoruba es muy similar al de la música afroperuana.\nDespués de escuchar varias canciones yoruba, los estudiantes escuchan un ejemplo de música afroperuana, y el docente les solicita que identifiquen similitudes. Al margen de las semejanzas en el uso de la percusión, ¿cuál de los siguientes aspectos de la música yoruba se aprecia con mayor frecuencia en la música afroperuana?",
+                    "opciones": [
+                        "La llamada y respuesta entre un solista y un coro.",
+                        "Las letras que contienen enseñanzas y proverbios.",
+                        "La progresión de canciones cada vez más intensas."
+                    ],
+                    "respuesta": "La llamada y respuesta entre un solista y un coro.",
+                    "respuestaCorta": "La estructura de \"llamada y respuesta\", donde un solista es respondido por un coro, es una característica distintiva y fundamental de muchos géneros afroperuanos (ej. festejo).",
+                    "solucionario": "Una de las herencias africanas más evidentes en la música afroperuana es la estructura antifonal de \"llamada y respuesta\". En muchos géneros afroperuanos, como el festejo o el landó, es común que un solista principal cante una estrofa (llamada) y un coro le responda, a menudo con un estribillo fijo. Esta característica es una clara similitud con la música yoruba descrita.",
+                    "seccion": "Casuística"
+                },
+                {
+                    "pregunta": "Luego de analizar similitudes y diferencias entre la música yoruba y la música afroperuana, el docente propone a los estudiantes analizar el uso de los instrumentos de percusión en ambos tipos de música. Patricia, una de las estudiantes, comenta: \"Profesor, yo siento que en ambas músicas los instrumentos de percusión hacen algo parecido en los ritmos que usan, pero no llego a identificar exactamente qué es\". Entonces, el docente la invita a imitar junto con él lo que toca la percusión en la música yoruba y en la música afroperuana vocalizando diversos sonidos; por ejemplo, \"tucutucutú tatá, tucutucutú, tatá; tacatá tutú, tacatá tutú\". Entonces, Patricia y los demás estudiantes comienzan a imitar los sonidos de la percusión con la voz, experimentando así algunas similitudes entre ambos tipos de música.\n¿Qué proceso está realizando principalmente el docente durante la actividad descrita?",
+                    "opciones": [
+                        "Brinda andamiaje.",
+                        "Recoge saberes previos.",
+                        "Promueve la transferencia del aprendizaje."
+                    ],
+                    "respuesta": "Brinda andamiaje.",
+                    "respuestaCorta": "Patricia no puede identificar la similitud. El docente le da una herramienta (la vocalización) para ayudarla a percibir y experimentar el ritmo, guiándola hacia la respuesta.",
+                    "solucionario": "Patricia tiene una dificultad (\"no llego a identificar exactamente qué es\"). El docente, en lugar de darle la respuesta, le proporciona un andamio o soporte: la técnica de vocalizar los ritmos. Esta estrategia le permite a ella y a sus compañeros experimentar corporal y auditivamente los patrones rítmicos, facilitando que ellos mismos descubran la similitud. Es un apoyo temporal para que el estudiante logre el aprendizaje.",
+                    "seccion": "Casuística"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_secundaria_2024_p31",
+            "contexto": "Wikipedia dice sobre la música noise: \"La música noise en español, \"ruido\"-, también conocida como \"ruidismo\", es una categoría de música que se caracteriza por el uso expresivo del ruido dentro de un contexto musical. Este tipo de música tiende a cuestionar la distinción que se hace en las prácticas musicales convencionales entre el sonido musical y no musical.\"\nEl diccionario de la Real Academia Española (RAE) dice, en contraste, sobre el término \"música\": \"Arte de combinar los sonidos de la voz humana o de los instrumentos, o de unos y otros a la vez, de suerte que produzcan deleite, conmoviendo la sensibilidad, ya sea alegre, ya tristemente.\"\nUn docente lee la definición de música de la RAE y luego genera una lluvia de ideas con los estudiantes para identificar ejemplos que correspondan con dicha definición. Luego, el docente muestra a los estudiantes una pieza de música noise y discute con ellos sobre si esta pieza es música o no. Finalmente, el docente propone a los estudiantes complementar la definición de la RAE para incluir manifestaciones musicales como el noise.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál de las siguientes alternativas es el propósito principal de la actividad descrita?",
+                    "opciones": [
+                        "Motivar a los estudiantes a conocer un género musical innovador como es el noise.",
+                        "Mostrar a los estudiantes que la definición de \"música\" de la RAE es limitada o está desactualizada.",
+                        "Fomentar que los estudiantes amplíen su comprensión sobre lo que define a la música y las diversas manifestaciones que esta puede presentar."
+                    ],
+                    "respuesta": "Fomentar que los estudiantes amplíen su comprensión sobre lo que define a la música y las diversas manifestaciones que esta puede presentar.",
+                    "respuestaCorta": "La actividad usa la RAE y el 'noise' como herramientas para que los estudiantes reflexionen y expandan su propio concepto de lo que puede ser considerado música.",
+                    "solucionario": "El propósito principal de la actividad es pedagógico y conceptual. El docente utiliza el contraste entre la definición tradicional de la RAE (basada en el \"deleite\" y la \"sensibilidad\") y un género extremo como el 'noise' para provocar una discusión. El objetivo final no es criticar a la RAE (b) o promover el 'noise' (a), sino fomentar que los propios estudiantes cuestionen las definiciones existentes y construyan una comprensión más amplia e inclusiva del fenómeno musical.",
+                    "seccion": "Casuística"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_secundaria_2024_p32",
+            "contexto": null,
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál de los siguientes tipos de canto coral es más apropiado desarrollar con estudiantes que nunca antes han cantado en coro?",
+                    "opciones": [
+                        "Canto en canon.",
+                        "Canto al unísono.",
+                        "Canto polifónico."
+                    ],
+                    "respuesta": "Canto al unísono.",
+                    "respuestaCorta": "El canto al unísono, donde todos cantan la misma melodía, es el punto de partida fundamental para coros principiantes, ya que permite trabajar la afinación y el empaste vocal.",
+                    "solucionario": "Para estudiantes sin experiencia coral, el primer paso es aprender a cantar juntos, afinar y seguir una misma línea melódica. El canto al unísono (todos cantando la misma melodía al mismo tiempo) es la forma más apropiada para desarrollar estas habilidades básicas de empaste vocal y afinación grupal. El canon y la polifonía implican cantar melodías diferentes simultáneamente, lo cual requiere una habilidad e independencia vocal mucho mayor.",
+                    "seccion": "Casuística"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_secundaria_2024_p33",
+            "contexto": null,
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "Desde la perspectiva de la cultura visual, ¿cuál de los siguientes criterios es fundamental para juzgar una pintura?",
+                    "opciones": [
+                        "La proporción y la armonía entre los personajes y los espacios representados.",
+                        "El equilibrio y el contraste en el uso de los colores y las formas.",
+                        "La función social de la imagen y el propósito del artista."
+                    ],
+                    "respuesta": "La función social de la imagen y el propósito del artista.",
+                    "respuestaCorta": "La 'cultura visual' analiza las imágenes en su contexto social, político y cultural, centrándose en su función y propósito, más allá de sus cualidades formales.",
+                    "solucionario": "La perspectiva de la cultura visual se diferencia del análisis formal (a, b) en que no se limita a juzgar la estética o la composición de la imagen. La cultura visual estudia las imágenes (incluyendo pinturas) en su contexto de producción y consumo, preguntándose por su función social, los mensajes que transmite, a quién beneficia y cuál fue el propósito del artista al crearla en un determinado contexto social e histórico.",
+                    "seccion": "Casuística"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_secundaria_2024_p34",
+            "contexto": "Lea la siguiente situación y responda las preguntas 34 y 35.\nLos estudiantes están realizando actividades de calentamiento enfocadas en el canto. En una de ellas, la docente solicita a los estudiantes que, relajando sus cuerpos, expandan su abdomen al aspirar, contengan el aire por un segundo y, luego, que lo espiren lentamente mientras contraen el abdomen.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál de es el objetivo principal del ejercicio planteado por la docente?",
+                    "opciones": [
+                        "Ampliar la capacidad respiratoria de los estudiantes.",
+                        "Desarrollar la respiración diafragmática en los estudiantes.",
+                        "Promover la relajación de las cuerdas vocales en los estudiantes."
+                    ],
+                    "respuesta": "Desarrollar la respiración diafragmática en los estudiantes.",
+                    "respuestaCorta": "El ejercicio de 'expandir el abdomen al aspirar' es la instrucción clave para activar y tomar conciencia de la respiración diafragmática (o costo-diafragmática).",
+                    "solucionario": "La descripción de \"expandan su abdomen al aspirar\" y \"lo espiren lentamente mientras contraen el abdomen\" es la mecánica básica de la respiración diafragmática (o respiración baja). Este tipo de respiración es fundamental en el canto, ya que permite un mayor control sobre el flujo de aire y evita tensiones en la garganta y cuerdas vocales.",
+                    "seccion": "Casuística"
+                },
+                {
+                    "pregunta": "En el contexto del aprendizaje del canto, ¿cuál es el principal beneficio de la actividad propuesta por la docente?",
+                    "opciones": [
+                        "Mejora la habilidad para identificar la altura de las notas musicales.",
+                        "Mejora la habilidad para cantar con un timbre propio y personal.",
+                        "Mejora la habilidad para controlar la salida del aire al cantar."
+                    ],
+                    "respuesta": "Mejora la habilidad para controlar la salida del aire al cantar.",
+                    "respuestaCorta": "La respiración diafragmática permite administrar mejor el aire, lo que se traduce en un mayor control del 'fiato' (soplo) para sostener notas largas y regular la intensidad.",
+                    "solucionario": "El desarrollo de la respiración diafragmática (pregunta anterior) tiene como beneficio directo en el canto un mejor control del 'fiato' o columna de aire. Al 'espirar lentamente mientras contraen el abdomen', los estudiantes están practicando la dosificación y el control de la salida del aire, lo cual es esencial para sostener frases musicales, controlar la afinación y la intensidad del sonido.",
+                    "seccion": "Casuística"
+                },
+                {
+                    "pregunta": "La docente tiene el propósito de que sus estudiantes comprendan cómo la música puede transmitir ideas y contar historias. Entonces, solicita a los estudiantes que se echen en el piso con los ojos cerrados, reproduce una pieza musical y les indica que, de acuerdo a lo que les va transmitiendo la música, evoquen diversas imágenes, reales o imaginarias, como si fuera una película. Cuando la música termina, la docente indica abrir los ojos, sentarse en círculo, y pregunta a los estudiantes: ¿Qué imaginaron al escuchar la música? ¿Qué situaciones, recuerdos o imágenes evocaron? ¿Qué elementos de la música, como los instrumentos musicales, ritmos o melodías, los llevaron a pensar en esas situaciones?\n¿Qué capacidad de la competencia Aprecia de manera crítica manifestaciones artistico-culturales están desarrollando principalmente los estudiantes mediante la actividad descrita?",
+                    "opciones": [
+                        "Percibe manifestaciones artístico-culturales.",
+                        "Contextualiza las manifestaciones culturales.",
+                        "Reflexiona creativa y críticamente."
+                    ],
+                    "respuesta": "Percibe manifestaciones artístico-culturales.",
+                    "respuestaCorta": "La actividad se centra en que los estudiantes usen sus sentidos (oído) y su imaginación para evocar imágenes y sensaciones a partir de la música, lo cual es la base de la percepción.",
+                    "solucionario": "La capacidad 'Percibe manifestaciones artístico-culturales' implica el uso de los sentidos para identificar los elementos de los lenguajes del arte y las sensaciones que transmiten. En esta actividad, los estudiantes se centran en la escucha activa ('reproduce una pieza musical') para 'evocar diversas imágenes, reales o imaginarias'. Aunque las preguntas finales invitan a la reflexión (C), la actividad central descrita (escuchar con ojos cerrados e imaginar) es un ejercicio de percepción sensorial y emocional de la música.",
+                    "seccion": "Casuística"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_secundaria_2024_p37",
+            "contexto": "Los estudiantes han construido con su docente xilófonos con tubos de PVC. Ahora los estudiantes desean usarlos para aprender a tocar sus canciones favoritas. El docente desea aprovechar esta oportunidad para introducir a los estudiantes en la lectura de partituras y propone como primera meta que los estudiantes se familiaricen con las alturas de los sonidos en el pentagrama y toquen la nota correspondiente en el instrumento.",
+            "imagen": "[IMAGEN_05]",
+            "preguntas": [
+                {
+                    "pregunta": "¿Qué estrategia es más apropiada para dicho fin?",
+                    "opciones": [
+                        "Asignar un color para cada una de las notas musicales y solicitar a los estudiantes colocar stickers de los colores correspondientes en la barras de sus xilófonos de PVC. Luego, entregar a los estudiantes partituras y pedirles que coloreen cada una de las notas, de tal manera que haya correspondencia entre el color de la nota y el sticker de la barra que se debe tocar.",
+                        "Recortar la partitura y entregar a cada estudiante una porción breve de ella, explicándoles que para tocar la melodía completa deberán trabajar de manera colaborativa, pues cada uno tiene una porción de la melodía pero nadie la tiene completa. Cuidar que cada uno de los segmentos que reciban los estudiantes tenga un número reducido de notas, de tal forma que los estudiantes no tengan que aprender a identificar las alturas de todas las notas en el pentagrama.",
+                        "Entregar a los estudiantes una partitura en la que se ha escrito el nombre de la nota correspondiente debajo de cada nota que aparece en el pentagrama. Luego, solicitar a los estudiantes que memoricen la secuencia de notas en la partitura utilizando los nombres de las notas escritas en ella. Finalmente, solicitar a los estudiantes que toquen de memoria la secuencia de notas en sus instrumentos."
+                    ],
+                    "respuesta": "Asignar un color para cada una de las notas musicales y solicitar a los estudiantes colocar stickers de los colores correspondientes en la barras de sus xilófonos de PVC. Luego, entregar a los estudiantes partituras y pedirles que coloreen cada una de las notas, de tal manera que haya correspondencia entre el color de la nota y el sticker de la barra que se debe tocar.",
+                    "respuestaCorta": "El uso de colores (método Kodály o similar) crea una asociación visual directa entre la nota en el pentagrama y la barra del xilófono, facilitando la iniciación a la lectoescritura musical.",
+                    "solucionario": "La estrategia (a) es la más apropiada para la iniciación. Al asociar cada altura (nota) con un color, y replicar ese color en el pentagrama y en el instrumento (stickers), se crea un puente visual que facilita la correspondencia entre lo escrito y lo que se debe tocar. Esto es más efectivo para familiarizarse con las alturas que memorizar (c) o dividir la partitura (b), que no aborda directamente el aprendizaje de la ubicación de las notas.",
+                    "seccion": "Casuística"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_secundaria_2024_p38",
+            "contexto": "Pedro y el Lobo es una composición de Serguéi Prokofiev en la cual se cuenta la historia de Pedro (un niño que suele engañar a los vecinos anunciando falsamente la llegada del lobo) a través de un narrador y de la música de la composición. Lo especial de esta composición musical es que cada personaje del cuento es representado por una melodía particular, que siempre es ejecutada por un mismo instrumento o conjunto de instrumentos de la orquesta sinfónica. De esta forma, en esta composición se relaciona la narrativa del cuento con una narrativa musical.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿En cuál de los siguientes casos es más pertinente usar esta composición como ejemplo?",
+                    "opciones": [
+                        "Para que los estudiantes se familiaricen con los sonidos característicos de los instrumentos de una orquesta sinfónica.",
+                        "Para que los estudiantes exploren la adaptación de relatos literarios que han sido llevados al campo de la música.",
+                        "Para que los estudiantes conozcan a los grandes compositores rusos y sus principales características."
+                    ],
+                    "respuesta": "Para que los estudiantes se familiaricen con los sonidos característicos de los instrumentos de una orquesta sinfónica.",
+                    "respuestaCorta": "La obra asigna un instrumento (y su timbre) a cada personaje, siendo una herramienta pedagógica clásica para enseñar a reconocer los instrumentos de la orquesta.",
+                    "solucionario": "La característica principal de 'Pedro y el Lobo', como describe el texto, es que \"cada personaje del cuento es representado por... un mismo instrumento o conjunto de instrumentos\". Esta composición fue creada pedagógicamente con el fin de que los oyentes (especialmente niños) aprendan a identificar los diferentes timbres de los instrumentos de la orquesta sinfónica (el pájaro es la flauta, el pato es el oboe, el gato es el clarinete, etc.).",
+                    "seccion": "Casuística"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_secundaria_2024_p39",
+            "contexto": "Lea la siguiente situación y responda las preguntas 39, 40, 41, 42 y 43.\nLos estudiantes realizan la siguiente dinámica en grupos de diez:\nEl docente escribe en pedacitos de papel el nombre de diversos animales, dos papelitos por cada tipo de animal; dos perros, dos gatos, dos vacas, dos cerdos y dos caballos. Luego, cada estudiante escoge al azar un papel y lo lee en silencio sin mostrar a nadie el animal que le tocó. A la señal del docente, todos los estudiantes deben desplazarse por todo el espacio buscando a su pareja sin decir su nombre, solo haciendo los sonidos, gestos y movimientos del animal que les ha tocado en el papelito. La dinámica se acaba cuando todas las parejas se han agrupado.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Qué capacidad de la competencia Crea proyectos desde los lenguajes artísticos se desarrolla principalmente con la dinámica descrita?",
+                    "opciones": [
+                        "Explora y experimenta los lenguajes del arte.",
+                        "Aplica procesos creativos.",
+                        "Evalúa y socializa sus procesos y proyectos."
+                    ],
+                    "respuesta": "Explora y experimenta los lenguajes del arte.",
+                    "respuestaCorta": "Los estudiantes están explorando las posibilidades de sus cuerpos y sus voces (lenguajes del arte) para comunicar una idea (un animal) de forma no verbal.",
+                    "solucionario": "La dinámica pide a los estudiantes que utilicen \"sonidos, gestos y movimientos\" (lenguajes artísticos como el teatro, la expresión corporal y vocal) para representar a un animal y encontrar a su pareja. Esta acción es una exploración y experimentación directa de cómo usar estos lenguajes para comunicar una idea de manera creativa.",
+                    "seccion": "Casuística"
+                },
+                {
+                    "pregunta": "¿Cuál de los siguientes aspectos están desarrollando principalmente los estudiantes con la dinámica descrita?",
+                    "opciones": [
+                        "Discriminación auditiva.",
+                        "Orientación espacial.",
+                        "Expresión corporal."
+                    ],
+                    "respuesta": "Expresión corporal.",
+                    "respuestaCorta": "Aunque usan sonidos, la actividad se centra en usar \"gestos y movimientos\" y \"desplazarse por todo el espacio\" para representar un animal, lo cual es expresión corporal.",
+                    "solucionario": "El eje de la actividad es que los estudiantes usen sus cuerpos (\"gestos y movimientos\") y se desplacen (\"desplazarse por todo el espacio\") para imitar a un animal. Esta es la definición de expresión corporal. Si bien hay discriminación auditiva (al buscar el sonido de la pareja), la acción principal que realizan es la expresión a través del cuerpo y la voz.",
+                    "seccion": "Casuística"
+                },
+                {
+                    "pregunta": "El docente observa que los estudiantes logran ubicar a su pareja muy rápidamente y sin mucho esfuerzo, y por eso decide modificar la dinámica para darle mayor dificultad.\n¿Cuál de las siguientes alternativas es más pertinente?",
+                    "opciones": [
+                        "Elegir otros animales, distintos a los animales propuestos inicialmente; por ejemplo, dos gallinas, dos tortugas, dos canguros, dos palomas y dos cocodrilos.",
+                        "Solicitar a los estudiantes que busquen a su pareja sin imitar los sonidos que realiza el animal, sino solo imitando sus movimientos y gestos en silencio.",
+                        "En vez de escribir dos papeles por cada tipo de animal, escribir tres o cuatro para que los estudiantes tengan que buscar a su grupo y no solo a su pareja."
+                    ],
+                    "respuesta": "Solicitar a los estudiantes que busquen a su pareja sin imitar los sonidos que realiza el animal, sino solo imitando sus movimientos y gestos en silencio.",
+                    "respuestaCorta": "Al eliminar el sonido, que es un identificador muy rápido y claro, se obliga a los estudiantes a centrarse solo en la expresión corporal, aumentando la dificultad del ejercicio.",
+                    "solucionario": "La forma más fácil de encontrar a la pareja en la dinámica original es a través del sonido (ej. dos \"muu\" se encuentran rápido). Para aumentar la dificultad de manera pertinente al desarrollo de la expresión corporal, la mejor variante es eliminar el canal auditivo (b). Esto fuerza a los estudiantes a agudizar su observación visual y a ser más creativos y precisos con sus gestos y movimientos.",
+                    "seccion": "Casuística"
+                },
+                {
+                    "pregunta": "Luego, el docente propone realizar una nueva variación de la dinámica original. Esta vez, los estudiantes deben desplazarse con los ojos vendados. Entonces, luego de repartir los papelitos con los nombres de los animales, el docente entrega un pedazo de tela negra a cada estudiante para que cubra sus ojos. Cuando todos están listos, el docente les indica que se sienten y da la siguiente indicación: \"Esta vez, para encontrarse con su pareja, deben hacer los sonidos del animal mientras se desplazan, lentamente, gateando. Así no se chocarán fuerte entre ustedes y evitaremos accidentes\".\n¿Cuál de los siguientes aspectos desarrollan principalmente los estudiantes cuando realizan la dinámica con los ojos vendados?",
+                    "opciones": [
+                        "Conciencia corporal.",
+                        "Discriminación auditiva.",
+                        "Comunicación no verbal."
+                    ],
+                    "respuesta": "Discriminación auditiva.",
+                    "respuestaCorta": "Al tener los ojos vendados, el único sentido disponible para encontrar a la pareja es el oído, forzando a los estudiantes a discriminar los sonidos de los animales.",
+                    "solucionario": "En esta variación, se anula el sentido de la vista (\"ojos vendados\"). La única forma que tienen los estudiantes para encontrar a su pareja es mediante los \"sonidos del animal\". Por lo tanto, el aspecto que se desarrolla principalmente es la discriminación auditiva: la habilidad de enfocar, identificar y localizar un sonido específico (el de su pareja animal) en medio de otros sonidos (los demás animales).",
+                    "seccion": "Casuística"
+                },
+                {
+                    "pregunta": "¿Qué tipo de percepción predomina en los estudiantes cuando realizan la dinámica con los ojos vendados?",
+                    "opciones": [
+                        "La exterocepción.",
+                        "La propiocepción.",
+                        "La interocepción."
+                    ],
+                    "respuesta": "La exterocepción.",
+                    "respuestaCorta": "La exterocepción se refiere a percibir el mundo exterior. Al usar el oído para escuchar los sonidos de los otros, los estudiantes están usando un sentido exteroceptivo.",
+                    "solucionario": "La percepción se divide en: interocepción (sentir el interior del cuerpo, ej. hambre), propiocepción (sentir la posición del cuerpo en el espacio) y exterocepción (percibir el mundo exterior a través de los 5 sentidos). Al estar con los ojos vendados y buscando a su pareja mediante \"sonidos\", los estudiantes están usando predominantemente el sentido del oído, que es un receptor exteroceptivo.",
+                    "seccion": "Casuística"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_secundaria_2024_p44",
+            "contexto": "Un docente les muestra a sus estudiantes un pasaje de Ña Catita, de Manuel Ascencio Segura, y les pide que analicen los patrones de repetición de las rimas que se producen en los textos de diversos personajes. Luego les muestra la letra de una canción del dúo femenino de hip-hop peruano \"Las Damas\" y les pide que hagan el mismo análisis en las rimas de sus versos. A continuación, les pide que hagan una comparación en el uso de la rima entre ambos ejemplos. Luego de que los estudiantes llegan a la conclusión de que ambos ejemplos comparten muchas características, les revela que ambos están separados 150 años en el tiempo.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es el propósito principal de la actividad descrita?",
+                    "opciones": [
+                        "Mostrar la influencia que tiene el teatro costumbrista peruano en la producción del hip-hop en nuestro país.",
+                        "Fomentar que los estudiantes reflexionen sobre la vigencia de la rima como recurso poético a través del tiempo.",
+                        "Promover que los estudiantes aprecien la diferencia que hay en la calidad artística entre el texto producido por Ascencio Segura y el texto de \"Las Damas\"."
+                    ],
+                    "respuesta": "Fomentar que los estudiantes reflexionen sobre la vigencia de la rima como recurso poético a través del tiempo.",
+                    "respuestaCorta": "Al comparar dos obras tan distantes en el tiempo (Ña Catita y hip-hop) y encontrar similitudes en la rima, el docente busca que valoren la rima como un recurso universal y atemporal.",
+                    "solucionario": "El propósito de la actividad es establecer una conexión entre dos manifestaciones culturales muy lejanas en el tiempo (teatro costumbrista del siglo XIX y hip-hop contemporáneo) a través de un elemento común: la rima. Al encontrar \"muchas características\" compartidas, los estudiantes pueden reflexionar sobre cómo este recurso poético se mantiene vigente y funcional a pesar de los 150 años de diferencia.",
+                    "seccion": "Casuística"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_secundaria_2024_p45",
+            "contexto": "Un docente les pide a sus estudiantes que dividan una hoja de papel en dos columnas. Una de las columnas debe ser titulada \"Perú, lo que me gusta\", y la otra columna \"Perú, lo que debe mejorar\". Luego les pide que escriban en la hoja una serie de características que ellos consideran resaltantes del Perú como sociedad. Seguidamente propicia una lluvia de ideas y va escribiendo en la pizarra las coincidencias entre lo escrito por los estudiantes, quedando anotadas en la pizarra diez características en cada columna. Finalmente, reparte entre los estudiantes fragmentos de las obras teatrales El Sargento Canuto, de Manuel Ascensio Segura, y La de 4000, de Leonidas Yerovi, y les pide que identifiquen alguna de las características anotadas en la pizarra en los personajes o situaciones presentes en ambas obras.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es el propósito principal de esta actividad?",
+                    "opciones": [
+                        "Fomentar que los estudiantes reflexionen sobre los valores que definen al Perú.",
+                        "Establecer una conexión argumental entre las obras de Manuel Ascencio Segura y Leonidas Yerovi.",
+                        "Facilitar que los estudiantes identifiquen que las obras mencionadas eran críticas con la sociedad de su tiempo."
+                    ],
+                    "respuesta": "Facilitar que los estudiantes identifiquen que las obras mencionadas eran críticas con la sociedad de su tiempo.",
+                    "respuestaCorta": "Al pedirles que identifiquen en las obras características de \"lo que debe mejorar\" del Perú, el docente los guía a ver cómo estas obras ya criticaban la sociedad de su época.",
+                    "solucionario": "Ambas obras, 'El Sargento Canuto' y 'La de 4000', son ejemplos de teatro costumbrista que critican vicios y costumbres de la sociedad limeña de su época. La actividad está diseñada para que los estudiantes primero identifiquen problemas sociales actuales (\"lo que debe mejorar\") y luego reconozcan esos mismos problemas (o similares) en los personajes y situaciones de las obras, facilitando así la comprensión de que estas piezas teatrales eran críticas sociales.",
+                    "seccion": "Casuística"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_secundaria_2024_p46",
+            "contexto": "Lea el siguiente texto y responda la pregunta.\nLa película Manco Cápac (2021) cuenta la historia de Elisban, quien llega a la ciudad de Puno demasiado tarde para encontrar a su amigo Hermogenes, con quien debía trabajar. Sin hogar y sin dinero, sobrevive realizando pequeños trabajos ocasionales en una ciudad que agudiza su soledad a cada paso. Sin embargo, la inercia de continuar caminando puede llevarlo a un mejor destino.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál de los siguientes términos corresponde al texto citado?",
+                    "opciones": [
+                        "Guion.",
+                        "Sinopsis.",
+                        "Argumento."
+                    ],
+                    "respuesta": "Sinopsis.",
+                    "respuestaCorta": "El texto es un resumen breve de la trama principal de la película, diseñado para dar una idea general de la historia sin revelar el final. Eso es una sinopsis.",
+                    "solucionario": "Una sinopsis es un resumen corto que presenta la trama principal, los personajes clave y el conflicto de una obra (película, libro, etc.) sin detallar el desarrollo completo ni el desenlace. El texto proporcionado cumple con esta definición. Un argumento sería más detallado y un guion incluiría diálogos y acciones específicas.",
+                    "seccion": "Casuística"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_secundaria_2024_p47",
+            "contexto": null,
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál de las siguientes danzas representa aspectos relacionados con la actividad ganadera?",
+                    "opciones": [
+                        "Carnaval de Putina.",
+                        "Chunchos de Porcón.",
+                        "Herranza de Huañec."
+                    ],
+                    "respuesta": "Herranza de Huañec.",
+                    "respuestaCorta": "La 'Herranza' es una fiesta ritual andina que celebra la marcación (herranza) del ganado, siendo una danza directamente vinculada a la ganadería.",
+                    "solucionario": "La Herranza de Huañec (Yauyos, Lima) es una danza que se realiza como parte de la festividad de la marcación del ganado (principalmente vacuno). Sus movimientos y cantos están directamente relacionados con la celebración de la fertilidad de los animales y la prosperidad de la actividad ganadera.",
+                    "seccion": "Casuística"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_secundaria_2024_p48",
+            "contexto": "Lea el siguiente fragmento de escena teatral y responda las preguntas 48, 49 y 50.\nCAMPANITA yace sobre una cama diminuta, después de haber tomado un veneno que estaba destinado a PETER.\nPETER. Su luz se está apagando, jsi desaparece significa que ha muerto! Su voz es tan baja que apenas puedo oír lo que dice. Ella dice... ¡Ella dice que piensa que se pondrá bien si los niños vuelven a creer en las hadas!\n(Se levanta y estira los brazos hacia fuera del escenario, sin saber hacia quién.)\nPETER. ¿Creen en las hadas? ¡Digan rápido que sí creen! ¡Si creen en las hadas, aplaudan!",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "Desde el punto de vista dramatúrgico, ¿cuál es el conflicto principal de este fragmento?",
+                    "opciones": [
+                        "El público se sentirá muy incómodo e intimidado para aplaudir, lo que elevará la tensión dramática.",
+                        "Peter necesita desesperadamente ayuda de los niños entre el público, pero no puede verlos.",
+                        "Campanita está a punto de morir por haber ingerido un veneno y Peter quiere impedirlo."
+                    ],
+                    "respuesta": "Campanita está a punto de morir por haber ingerido un veneno y Peter quiere impedirlo.",
+                    "respuestaCorta": "El conflicto dramático es la lucha de fuerzas opuestas. Aquí, la fuerza es Peter intentando salvar a Campanita, y la oposición es la muerte inminente por el veneno.",
+                    "solucionario": "El conflicto dramático principal es el núcleo de la tensión en la escena. En este fragmento, el conflicto es la lucha de Peter contra la muerte de Campanita. La vida de Campanita (objetivo) está amenazada por el veneno (fuerza opuesta). La interacción con el público es el medio que Peter utiliza para resolver este conflicto de vida o muerte.",
+                    "seccion": "Casuística"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_secundaria_2024_p48",
+            "contexto": "Lea el siguiente fragmento de escena teatral y responda las preguntas 48, 49 y 50.\nCAMPANITA yace sobre una cama diminuta, después de haber tomado un veneno que estaba destinado a PETER.\nPETER. Su luz se está apagando, jsi desaparece significa que ha muerto! Su voz es tan baja que apenas puedo oír lo que dice. Ella dice... ¡Ella dice que piensa que se pondrá bien si los niños vuelven a creer en las hadas!\n(Se levanta y estira los brazos hacia fuera del escenario, sin saber hacia quién.)\nPETER. ¿Creen en las hadas? ¡Digan rápido que sí creen! ¡Si creen en las hadas, aplaudan!",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "Los estudiantes están realizando en clase adaptaciones a la obra Peter Pan. Javier, uno de los estudiantes, le entrega la siguiente versión de la escena anterior al docente:\nCAMPANITA yace sobre una cama diminuta, después de haber tomado un veneno que estaba destinado a PETER.\nPETER. Su luz se está apagando, isi desaparece significa que ha muerto! Su voz es tan baja que apenas puedo oír lo que dice. Ella dice... ¡Ella dice que piensa que se pondrá bien si los niños vuelven a creer en las hadas!\n(Se levanta y estira los brazos hacia fuera del escenario, sin saber hacia quién.)\nPETER. ¿Creen en las hadas? ¡Digan rápido que sí creen! ¡Si creen en las hadas, aplaudan!\nCAMPANITA. (Mirando al público con complicidad) Típico de Peter. ¡Otra vez está tratando de salvarme!\nPETER. Aplaudan! ¡Aplaudan más fuerte que se muere!\n¿Cuál de los siguientes recursos se aprecia en la modificación introducida por Javier?",
+                    "opciones": [
+                        "Elipsis.",
+                        "Aparte.",
+                        "Fuera de escena."
+                    ],
+                    "respuesta": "Aparte.",
+                    "respuestaCorta": "El comentario de Campanita 'Típico de Peter...' es un 'aparte', un recurso teatral donde un personaje habla al público sin que los otros personajes en escena lo escuchen.",
+                    "solucionario": "El recurso introducido por Javier es un \"aparte\". Un aparte teatral es un comentario o monólogo breve que un personaje dirige al público, asumiendo que los demás personajes en escena no pueden oírlo. En este caso, Campanita rompe la cuarta pared y habla \"(Mirando al público con complicidad)\", revelando sus pensamientos solo a la audiencia.",
+                    "seccion": "Casuística"
+                },
+                {
+                    "pregunta": "¿Qué término corresponde a la frase agregada por Javier \"(Mirando al público con complicidad)\"?",
+                    "opciones": [
+                        "Acotación.",
+                        "Transición.",
+                        "Descripción."
+                    ],
+                    "respuesta": "Acotación.",
+                    "respuestaCorta": "En un guion teatral, el texto entre paréntesis que indica acciones, gestos o intenciones (como 'Mirando al público...') se denomina acotación.",
+                    "solucionario": "En dramaturgia, una acotación es una nota (generalmente entre paréntesis y en cursiva) que el autor incluye en el guion para indicar acciones, movimientos, gestos, tonos de voz o entradas y salidas de los personajes. La frase \"(Mirando al público con complicidad)\" es una instrucción de acción para la actriz, por lo tanto, es una acotación.",
+                    "seccion": "Casuística"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_secundaria_2024_p51",
+            "contexto": "Lea la siguiente situación y responda las preguntas 51, 52, 53 y 54.\nLos estudiantes realizan una dinámica llamada \"La estatua misteriosa\". De pie, forman un círculo y se vendan los ojos con un pañuelo. Al centro del círculo, se colocan dos de sus compañeros, con los ojos descubiertos. Uno de ellos será la estatua misteriosa y deberá colocarse en la posición más creativa posible, sin moverse. El otro compañero debe describir la postura de la estatua, mientras los demás intentan imitarla siguiendo sus indicaciones. Por ejemplo, \"la estatua misteriosa tiene la pierna derecha algo flexionada, su cabeza mira hacia arriba, su mano izquierda se encuentra bajo su barbilla y con la derecha apunta hacia el suelo\". Cuando todos los estudiantes se han colocado en la posición descrita, la docente y el estudiante que describe la estatua quitan los pañuelos a los estudiantes y estos evalúan su postura comparándola con la de la estatua misteriosa.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál de los siguientes aspectos se desarrolla principalmente en la dinámica descrita?",
+                    "opciones": [
+                        "La imagen corporal.",
+                        "El esquema corporal.",
+                        "La expresión corporal."
+                    ],
+                    "respuesta": "El esquema corporal.",
+                    "respuestaCorta": "El esquema corporal es la conciencia de las partes del cuerpo y su posición. Al imitar una postura a ciegas, los estudiantes activan esta conciencia de 'dónde está cada parte'.",
+                    "solucionario": "El esquema corporal es la representación mental que tenemos de nuestro propio cuerpo, de sus partes, sus límites y su posición en el espacio. Al realizar la dinámica con los ojos vendados, los estudiantes deben procesar indicaciones verbales (\"pierna derecha flexionada\", \"mano izquierda bajo la barbilla\") y traducirlas a movimientos concretos de su cuerpo, desarrollando así la conciencia de su esquema corporal.",
+                    "seccion": "Casuística"
+                },
+                {
+                    "pregunta": "Cuando los estudiantes, con los ojos vendados, intentan \"imitar\" la posición de la estatua a partir de la descripción del compañero, ¿qué tipo de percepción corporal predomina?",
+                    "opciones": [
+                        "Propiocepción.",
+                        "Exterocepción.",
+                        "Interocepción."
+                    ],
+                    "respuesta": "Propiocepción.",
+                    "respuestaCorta": "La propiocepción es el 'sentido interno' que nos dice dónde están nuestras extremidades y en qué posición está nuestro cuerpo, es clave para moverse o adoptar posturas a ciegas.",
+                    "solucionario": "La propiocepción es la capacidad de percibir la posición relativa de las partes del cuerpo en el espacio, sin necesidad de usar la vista. Al estar con los ojos vendados, los estudiantes dependen de la exterocepción (oír las instrucciones) y luego predominantemente de la propiocepción para saber si su pierna está \"algo flexionada\" o si su mano está \"bajo la barbilla\".",
+                    "seccion": "Casuística"
+                },
+                {
+                    "pregunta": "¿Qué capacidad de la competencia Crea proyectos desde los lenguajes artísticos desarrollan principalmente los estudiantes con la dinámica descrita?",
+                    "opciones": [
+                        "Explora y experimenta los lenguajes del arte.",
+                        "Aplica procesos creativos.",
+                        "Evalúa y socializa sus procesos y proyectos."
+                    ],
+                    "respuesta": "Explora y experimenta los lenguajes del arte.",
+                    "respuestaCorta": "La dinámica es un ejercicio de exploración del lenguaje corporal, donde los estudiantes experimentan con posturas y la conciencia de su cuerpo como medio de representación.",
+                    "solucionario": "La actividad es un juego guiado centrado en la exploración de las posibilidades del cuerpo. Los estudiantes exploran y experimentan con el lenguaje corporal (posturas, posiciones) a partir de estímulos (indicaciones verbales). La capacidad de \"Evalúa y socializa\" (c) ocurre al final, al comparar, pero el desarrollo principal durante la imitación a ciegas es la exploración.",
+                    "seccion": "Casuística"
+                },
+                {
+                    "pregunta": "¿Cuál es el principal beneficio que aporta el juego descrito para los estudiantes?",
+                    "opciones": [
+                        "Promueve que desarrollen sus habilidades de creación e interpretación de personajes diversos.",
+                        "Favorece el desarrollo de su conciencia corporal para realizar movimientos más precisos y controlados.",
+                        "Proporciona un repertorio de posturas y movimientos que pueden emplear al improvisar una coreografía."
+                    ],
+                    "respuesta": "Favorece el desarrollo de su conciencia corporal para realizar movimientos más precisos y controlados.",
+                    "respuestaCorta": "Al trabajar el esquema corporal y la propiocepción (preguntas 51 y 52), el beneficio directo es una mayor conciencia del cuerpo, lo que permite mayor precisión y control.",
+                    "solucionario": "El juego se centra en el esquema corporal y la propiocepción. Al obligar a los estudiantes a concentrarse en la posición exacta de cada parte de su cuerpo sin usar la vista, se favorece directamente el desarrollo de la conciencia corporal. Esta conciencia es la base para poder, posteriormente, realizar movimientos más precisos, controlados e intencionados en la danza o el teatro.",
+                    "seccion": "Casuística"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_secundaria_2024_p55",
+            "contexto": "Lea la siguiente situación y responda las preguntas 55 y 56.\nAl finalizar una clase de danza en la que los estudiantes han estado muy activos, la docente pone una música tranquila, les pide a los estudiantes que se acuesten en el piso boca arriba y cierren los ojos, y con su voz los guía de la siguiente manera: \"Tomen aire y exhalen lentamente; ahora respiren nuevamente sintiendo cómo se infla su pecho. Ahora suelten los dedos de las manos, ahora suelten toda la mano, las muñecas, los brazos, los hombros, el cuello, la cabeza. Ahora suelten los músculos de la cara y relajen los párpados y la mandíbula; lentamente bajemos al tronco, ahora hasta el abdomen, la espalda, la cadera, los muslos, las rodillas, las piernas, los tobillos, los pies, y por último los dedos de los pies\".",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál de las siguientes técnicas está aplicando la docente en esta actividad?",
+                    "opciones": [
+                        "Técnicas de dominio del cuerpo y expresión corporal.",
+                        "Técnicas de desinhibición, apertura y comunicación.",
+                        "Técnicas de relajación, respiración y concentración."
+                    ],
+                    "respuesta": "Técnicas de relajación, respiración y concentración.",
+                    "respuestaCorta": "La docente guía explícitamente a los estudiantes a través de la respiración ('Tomen aire') y la relajación muscular progresiva ('suelten los dedos...'), exigiendo concentración.",
+                    "solucionario": "La actividad descrita combina tres elementos: respiración (\"Tomen aire y exhalen lentamente\"), relajación (un recorrido guiado para \"soltar\" progresivamente todos los músculos del cuerpo) y concentración (necesaria para seguir la guía y soltar cada parte del cuerpo). Es una técnica clásica de relajación guiada.",
+                    "seccion": "Casuística"
+                },
+                {
+                    "pregunta": "¿Cuál es el propósito principal de realizar esta actividad al finalizar la clase de danza?",
+                    "opciones": [
+                        "Reflexionar sobre las actividades realizadas y el esfuerzo que han supuesto para sus cuerpos y así desarrollar habilidades metacognitivas.",
+                        "Promover que los estudiantes reduzcan su estado de agitación y vuelvan al estado inicial de reposo antes de continuar con sus actividades.",
+                        "Propiciar la desinhibición, la soltura y el buen ánimo de los estudiantes a partir de movimientos corporales agradables para ellos."
+                    ],
+                    "respuesta": "Promover que los estudiantes reduzcan su estado de agitación y vuelvan al estado inicial de reposo antes de continuar con sus actividades.",
+                    "respuestaCorta": "Esta técnica de relajación se usa como 'vuelta a la calma' después de una actividad física intensa (clase de danza) para reducir la agitación y relajar el cuerpo.",
+                    "solucionario": "Después de una clase de danza \"en la que los estudiantes han estado muy activos\", es pedagógicamente necesario realizar una fase de \"vuelta a la calma\". El propósito principal de la técnica de relajación (pregunta 55) es ayudar a los estudiantes a reducir su agitación física y mental, permitiéndoles volver a un estado de reposo antes de cambiar de actividad o finalizar la jornada escolar.",
+                    "seccion": "Casuística"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_secundaria_2024_p57",
+            "contexto": "Una docente propone a los estudiantes una experiencia de aprendizaje en la que conocerán danzas cusqueñas. En este contexto, muestra a los estudiantes la fotografía de personas bailando la danza qhapaq chuncho, vestidas con las prendas que caracterizan a esta danza. La docente pregunta a los estudiantes si saben a qué danza corresponde la vestimenta que se muestra en la fotografía, y los estudiantes responden que no saben, que es la primera vez que la ven.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "Si la docente se propone que los estudiantes inicien la apreciación del vestuario de la danza, ¿qué grupo de preguntas es más pertinente?",
+                    "opciones": [
+                        "¿Cuáles son los colores que predominan en el vestuario de la danza? ¿Por qué creen que están presentes en el vestuario? ¿Qué emociones pueden provocar?",
+                        "¿Qué es lo que se representa en la danza? ¿Qué elementos del vestuario representan el mensaje de la danza? ¿Cuál es el valor de esta danza para el Perú?",
+                        "¿Qué elementos llaman más su atención? ¿Qué personajes pueden apreciar? ¿Cómo se compone el vestuario? ¿Qué colores destacan en las prendas?"
+                    ],
+                    "respuesta": "¿Qué elementos llaman más su atención? ¿Qué personajes pueden apreciar? ¿Cómo se compone el vestuario? ¿Qué colores destacan en las prendas?",
+                    "respuestaCorta": "Este grupo de preguntas sigue el proceso de apreciación: primero la percepción personal ('llaman la atención') y luego la descripción de los elementos observables ('personajes', 'composición', 'colores').",
+                    "solucionario": "El primer paso en la apreciación artística es la descripción. Dado que los estudiantes \"no saben\" nada de la danza, el docente debe empezar por preguntas descriptivas. La opción (c) es la más pertinente porque guía esta descripción: inicia con una conexión personal (\"¿Qué elementos llaman más su atención?\") y sigue con una descripción detallada de lo que ven (\"¿Qué personajes?\", \"¿Cómo se compone?\", \"¿Qué colores?\"). Las opciones (a) y (b) saltan directamente a la interpretación (\"¿Por qué creen...?\", \"¿Qué emociones...?\", \"¿Qué representa...?\").",
+                    "seccion": "Casuística"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_secundaria_2024_p58",
+            "contexto": "Un docente solicita a sus estudiantes que se desplacen libremente por todo el espacio siguiendo el ritmo de un fondo musical por algunos minutos. A lo largo de la actividad, el docente interrumpe la música y les brinda a los estudiantes un minuto para que se reúnan en grupos de ocho personas y creen una escultura con sus cuerpos representando una figura específica, por ejemplo, una nube o un árbol. Una vez terminado el tiempo para armar la figura, el docente dice \"icongelados!\", y toma fotos de las esculturas de cada uno de los grupos, que luego son analizadas y comentadas entre todos los estudiantes centrándose en el uso individual y grupal de los cuerpos, y el éxito en representar las figuras solicitadas.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es el propósito principal de esta actividad?",
+                    "opciones": [
+                        "Desarrollar la coordinación psicomotriz y la agilidad al tener que formar esculturas humanas en un espacio de tiempo muy limitado.",
+                        "Fomentar en los estudiantes la conciencia del uso de su cuerpo y de su relación con los cuerpos de los otros dentro de la escultura formada.",
+                        "Desarrollar las capacidades de apreciación artística de los estudiantes, en especial su capacidad para realizar análisis formales y críticos de piezas de danza."
+                    ],
+                    "respuesta": "Fomentar en los estudiantes la conciencia del uso de su cuerpo y de su relación con los cuerpos de los otros dentro de la escultura formada.",
+                    "respuestaCorta": "La actividad ('crear una escultura con sus cuerpos') y el análisis posterior ('uso individual y grupal de los cuerpos') se centran en la conciencia corporal y la interacción grupal.",
+                    "solucionario": "El propósito de crear \"esculturas con sus cuerpos\" en grupo es que los estudiantes exploren cómo su cuerpo puede componer, junto con otros, una imagen (un árbol, una nube). El análisis posterior, centrado en \"el uso individual y grupal de los cuerpos\", refuerza este propósito: tomar conciencia de su propio cuerpo y, fundamentalmente, de cómo este se relaciona con los cuerpos de sus compañeros para lograr un objetivo compositivo común.",
+                    "seccion": "Casuística"
+                }
+            ]
+        },
+        {
+            "idGrupo": "asc_secundaria_2024_p59",
+            "contexto": "Como parte del desarrollo de la competencia de apreciación, un docente entrega a su clase una separata con la siguiente información:\nTipos de movimiento\n1. Movimientos locomotores: movimientos que viajan de lugar en lugar, usualmente identificables por la trasferencia del peso de un pie al otro. Ejemplos: caminar, correr, saltar, galopar, deslizarse.\n2. Movimientos no locomotores: movimientos que están anclados en un punto por una parte del cuerpo, usando el espacio disponible en cualquier dirección sin perder el punto inicial de contacto corporal. Ejemplos: estirarse, doblarse, empujar, jalar, balancearse, sacudirse.\nCualidades del movimiento\n(la manera en la cual un movimiento es ejecutado)\n• sostenido: movimientos largos y fluidos\n• percutidos: movimientos cortados, separados\n• vibratorio: movimiento sacudido o convulsivo\n• suspendido: como si los miembros estuvieran suspendidos por una cuerda; una ilusión de baja gravedad\n• colapsado: como si el soporte de los miembros se hubiera perdido. Relajar completamente los músculos\n• pendulares: movimiento balanceado (una combinación de suspenso y colapso)",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "Si el docente desea que los estudiantes incorporen estos conceptos en la apreciación de la danza, ¿cuál de las siguientes es la actividad más adecuada para lograr su propósito?",
+                    "opciones": [
+                        "Reproducir videos de coreografías breves de danza moderna y que los estudiantes identifiquen y comparen los tipos y cualidades de los movimientos realizados por los bailarines que aparecen en ellos.",
+                        "Pedirles a algunos estudiantes que intenten realizar los tipos de movimientos y cualidades de movimientos que el profesor les indica, mientras el resto de la clase toma nota de los errores que puedan cometer.",
+                        "Dividir a la clase en cuatro grupos y encargar a cada grupo que escoja un tipo y una cualidad de movimiento y los explique al resto de la clase por medio de un dibujo en la pizarra y una demostración práctica."
+                    ],
+                    "respuesta": "Reproducir videos de coreografías breves de danza moderna y que los estudiantes identifiquen y comparen los tipos y cualidades de los movimientos realizados por los bailarines que aparecen en ellos.",
+                    "respuestaCorta": "El propósito es la 'apreciación'. La actividad (a) consiste en apreciar (ver videos) e incorporar los conceptos (identificar y comparar los tipos y cualidades).",
+                    "solucionario": "El propósito de la docente es que los estudiantes usen estos conceptos (locomotores, sostenido, percutido, etc.) para la *apreciación* de la danza (Competencia Aprecia). La actividad (a) es la única que se alinea con este propósito, ya que les pide aplicar el vocabulario técnico aprendido para analizar (\"identifiquen y comparen\") manifestaciones artísticas reales (videos de coreografías). Las opciones (b) y (c) se centran en la creación o ejecución (Competencia Crea).",
+                    "seccion": "Casuística"
+                },
+                {
+                    "pregunta": "Un docente solicita a sus estudiantes que escojan tres eventos que consideran importantes en sus vidas, y que luego diseñen una pequeña coreografía personal de tres minutos de duración en la que desarrollen movimientos que representen estos eventos y la emoción que les causaron.\n¿Cuál es el propósito principal de esta actividad?",
+                    "opciones": [
+                        "Que los estudiantes valoren la clase de danza por el hecho de permitirles reflexionar sobre hechos importantes de su vida.",
+                        "Que los estudiantes desarrollen su capacidad de apreciación artística tomando como punto de partida experiencias personales importantes para ellos.",
+                        "Que los estudiantes exploren la organización de movimientos con fines comunicativos por medio de una actividad que los involucra directamente por contener vivencias personales."
+                    ],
+                    "respuesta": "Que los estudiantes exploren la organización de movimientos con fines comunicativos por medio de una actividad que los involucra directamente por contener vivencias personales.",
+                    "respuestaCorta": "La actividad pide 'diseñar una coreografía' (organizar movimientos) para 'representar eventos y emociones' (con fines comunicativos), usando vivencias personales como motor creativo.",
+                    "solucionario": "El propósito se centra en la Competencia Crea. La actividad pide a los estudiantes que exploren cómo organizar el lenguaje de la danza (\"organicen movimientos\" en una \"coreografía\") para transmitir un mensaje (\"con fines comunicativos\", que en este caso es \"representar estos eventos y la emoción que les causaron\"). El uso de vivencias personales (\"eventos importantes en sus vidas\") es una estrategia para que esta exploración sea significativa y los involucre directamente.",
+                    "seccion": "Casuística"
+                }
+            ]
+        }
+    ]
+}

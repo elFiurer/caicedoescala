@@ -1156,5 +1156,31 @@
     "archivos": {
       "especifico": "data/ascenso/secundaria/2024/ascenso_ingles2024.json"
     }
+  },
+  {
+    "id": 101,
+    "proceso": "Ascenso",
+    "anio": 2024,
+    "nivel": "Primaria",
+    "especialidad": "Primaria",
+    "modalidad": "EBR",
+    "preguntas": 60,
+    "tiempo": 180,
+    "archivos": {
+      "especifico": "data/ascenso/primaria/2024/ascenso_primaria2024.json"
+    }
+  },
+  {
+    "id": 102,
+    "proceso": "Ascenso",
+    "anio": 2024,
+    "nivel": "Secundaria",
+    "especialidad": "Arte y Cultura",
+    "modalidad": "EBR",
+    "preguntas": 60,
+    "tiempo": 180,
+    "archivos": {
+      "especifico": "data/ascenso/secundaria/2024/ascenso_arte2024.json"
+    }
   }
 ]
