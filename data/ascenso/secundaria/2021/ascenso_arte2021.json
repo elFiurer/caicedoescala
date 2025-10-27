@@ -179,7 +179,6 @@
         }
       ]
     },
-   
     {
       "idGrupo": "asc_secundaria_2021_p13",
       "contexto": "Los estudiantes le comentan al docente que les gustaría aprender a tocar guitarra, pues muchos tienen el instrumento en casa y, además, el colegio cuenta con guitarras para los que no pueden traer el instrumento desde su casa. El docente adapta su programación y planifica una experiencia de aprendizaje en la que los estudiantes desarrollarán la competencia de expresión artística por medio del aprendizaje de este instrumento.",
@@ -366,7 +365,6 @@
         }
       ]
     },
-   
     {
       "idGrupo": "asc_secundaria_2021_p25",
       "contexto": "En el siglo XVI se introduce en el teatro el concepto de \"unidades aristotélicas\", que consiste en un grupo de normas para la escritura de obras dramáticas basadas en una interpretación de la Retórica de Aristóteles. Las tres unidades demandan lo siguiente:\n1. Unidad de acción: la obra debe tener una acción principal.\n2. Unidad de tiempo: la acción en la obra debe ocurrir en un periodo de tiempo no mayor a 24 horas.\n3. Unidad de espacio: la obra debe desarrollarse en una única ubicación física.",
@@ -441,7 +439,7 @@
             "Representa la fe de los pastores que visitan a Jesús al nacer, quienes realizan una adoración portando una campana en la mano, y ofreciendo sus zapateos y cantos al compás de un violín.",
             "Representa el enamoramiento entre los jóvenes durante las labores agrícolas en la época de carnavales, y el zapateo imita al zorzal macho cuando galantea a la hembra bailando a su alrededor."
           ],
-          "respuesta": "Representa el enamoramiento entre los jóvenes durante las labores agrícolas en la época de carnavales, y el zapateo imita al zorzal macho cuando galantea a la hembra bailando a su alrededor.",
+          "respuesta": "Representa el homenaje al Señor Cautivo, en el que los bailarines ofrecen sus zapateos, que, poco a poco, van aumentando en complejidad hasta acabar de rodillas ante la imagen.",
           "respuestaCorta": "Esta danza tiene un carácter festivo y de cortejo, donde el zapateo simboliza el galanteo del hombre a la mujer, imitando el comportamiento de un ave local, el zorzal.",
           "solucionario": "La danza de los Zapateadores de Chocán, originaria de Piura, está ligada al ciclo agrícola y a los carnavales. Su temática principal es el enamoramiento, y la coreografía, especialmente el zapateo masculino, es una representación simbólica del cortejo del zorzal macho hacia la hembra, mostrando agilidad y destreza.",
           "seccion": "Conocimientos Disciplinares"
@@ -539,7 +537,6 @@
         }
       ]
     },
-  
     {
       "idGrupo": "asc_secundaria_2021_p37",
       "contexto": "El bodegón, o naturaleza muerta, es un género pictórico en el que se representan objetos inanimados -sobre todo, frutos, flores y utensilios de la vida cotidiana- en un espacio determinado. (...) la docente les pide que, para la siguiente sesión, traigan algunos objetos que ellos sienten que los representan o que son importantes para ellos. El objetivo es que cada uno haga un bodegón \"personal\" que muestre sus principales características y represente su personalidad por medio de objetos de uso cotidiano significativos para ellos.",
@@ -733,7 +730,6 @@
         }
       ]
     },
-  
     {
       "idGrupo": "asc_secundaria_2021_p49",
       "contexto": "El Teatro de objetos es una práctica teatral en cuyo centro no se encuentra la figura humana (en forma de actor, títere u otra representación), sino que utiliza objetos cotidianos no necesariamente diseñados para la escena, dándole vida a algo que no la tiene. Se trata de un teatro con predominio de lo visual, más emparentado con las artes figurativas que con otras formas del teatro. El objeto se presenta y el público necesita tiempo para procesar su existencia escénica y su opción de cobrar vida. Una vez que esto ocurre, su sobriedad en la acción irá contando las posibilidades que tiene de mostrar la historia. El actor, cuando existe, se integra en el espacio, a veces a través de elementos escenográficos o del vestuario, y no interpreta un personaje.",
@@ -957,4 +953,3 @@
     }
   ]
 }
-  

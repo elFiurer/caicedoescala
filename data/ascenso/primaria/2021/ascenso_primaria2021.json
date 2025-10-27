@@ -193,7 +193,6 @@
         }
       ]
     },
- 
     {
       "idGrupo": "asc_primaria_2021_p08",
       "contexto": "Un equipo de estudiantes de quinto grado se está preparando para exponer ante la comunidad educativa acerca de por qué es importante valorar a los artesanos locales. En este contexto, se presenta la transcripción del texto oral de uno de los integrantes:\n\nPablo dice: \"Buenas tardes, hoy explicaré por qué es importante que valoremos a los artesanos locales... Este... Los artesanos son importantes porque ayudan a darle mucho a la cultura local. Debemos difundir sus cosas, ya que los artesanos necesitan nuestro apoyo para ser más conocidos. Gracias a sus obras, podemos conocer las cosas que pasaron en nuestra localidad y sentirnos orgullosos de la localidad... Este... Me acuerdo que en una feria estuvo mi vecino, que es artesano, y mi mamá y yo le compramos un perro calato tallado en madera reciclada... Desde esa vez, quiero tener un perrito calato de mascota... Este... pero mi mamá me dice que debo esperar a ser más grande\".",
@@ -354,7 +353,7 @@
         },
         {
           "pregunta": "Otro de los equipos está interesado en comprobar si las semillas de lentejas necesitan luz solar para germinar. Para ello, presenta la siguiente propuesta de indagación:\n¿Cuál de los siguientes ajustes es necesario que los estudiantes incluyan en su propuesta de indagación?",
-          "imagen":"img/ascenso/primaria/2021/primaria/3.jpg",
+          "imagen": "img/ascenso/primaria/2021/primaria/3.jpg",
           "opciones": [
             "Cultivar otro grupo de semillas diferente a las semillas de lentejas.",
             "Cultivar otro grupo de semillas de lentejas y colocarlas en un lugar oscuro.",
@@ -367,7 +366,6 @@
         }
       ]
     },
-  
     {
       "idGrupo": "asc_primaria_2021_p11",
       "contexto": "En el marco de una unidad didáctica sobre factores que influyen en el crecimiento de las plantas, los estudiantes, en equipos, se encuentran desarrollando diversas indagaciones.",
@@ -537,7 +535,7 @@
             "¿Cuál fue la razón por la que Arturo escondió el juguete de su hermana?",
             "¿Con qué intención Arturo cogió a escondidas el juguete de su hermana?"
           ],
-          "respuesta": "¿Con qué intención Arturo cogió a escondidas el juguete de su hermana?",
+          "respuesta": "¿Cuál fue la razón por la que Arturo escondió el juguete de su hermana?",
           "respuestaCorta": "Aunque el texto dice que tomó el juguete 'para jugar', la intención detrás de hacerlo 'a escondidas' (engaño, desconsideración) no está explícita y debe ser deducida.",
           "solucionario": "La información implícita es aquella que no está escrita textualmente pero que se puede inferir a partir de las pistas del texto. La opción 'a' es explícita (\"se sintió triste y empezó a llorar\"). La opción 'b' también es explícita, ya que el texto indica que Arturo teme un castigo (\"le prohíban ir a la casa de su mejor amigo\"). La opción 'c', sin embargo, requiere una deducción más profunda. Si bien el propósito era 'jugar', la 'intención' de hacerlo 'a escondidas' implica un conocimiento de que su acción era incorrecta y una voluntad de ocultamiento hacia su hermana, aspectos que se deben inferir del acto mismo de tomarlo en secreto.",
           "seccion": "Casuística"
@@ -575,7 +573,6 @@
         }
       ]
     },
-  
     {
       "idGrupo": "asc_primaria_2021_p20",
       "contexto": "Un docente ha planificado una actividad que consiste en que los estudiantes de sexto grado averigüen cómo ha sido el desarrollo de las telecomunicaciones en el Perú entre los siglos XX y XXI. A continuación, se presenta esta actividad:\n\nCoordinar con los estudiantes la realización de entrevistas a algunos adultos mayores de su familia sobre la forma en que se comunicaban cuando eran niños y estaban lejos de sus familias o amigos, qué les agradaba de esa forma de comunicarse y qué dificultades se presentaban.\nLuego de realizadas las entrevistas, pedir a los estudiantes que las compartan y comenten qué formas existen actualmente para comunicarse con personas que están lejos.\nFinalmente, reflexionar con los estudiantes a partir de las preguntas: ¿En qué se parece y diferencia la forma cómo se comunicaban estos adultos mayores cuando eran niños con la forma en que nos comunicamos en la actualidad?, ¿cómo te imaginas que será la comunicación en el futuro?",
@@ -804,7 +801,6 @@
         }
       ]
     },
-  
     {
       "idGrupo": "asc_primaria_2021_p32",
       "contexto": "Los estudiantes de segundo grado han llevado tapas de botellas de plástico a la IE para participar en una campaña de reciclaje. En este contexto, la docente aprovecha la situación para promover la comprensión de los estudiantes acerca del sistema de numeración decimal. Para ello, les plantea que, en equipos, reúnan sus tapas y, por cada diez tapas, ella les entregará un sticker. Durante el desarrollo de la actividad, se suscitó lo siguiente:\n\nUn equipo logra intercambiar sus tapas por tres stickers y le sobran dos tapas. Juan, uno de los integrantes de este equipo, señalando los tres stickers y las dos tapas, dice lo siguiente: \"Con las tapas y stickers hemos representado tres decenas y dos unidades. Entonces, tenemos el número 32\". En ese momento, Vanessa, integrante de otro equipo, lo escucha y comenta lo siguiente: \"No, está representado el número cinco. (Mientras cuenta va señalando los tres stickers y las dos tapas del equipo) Miren, uno, dos, tres, cuatro y cinco...\".",
@@ -1035,4 +1031,3 @@
     }
   ]
 }
-  

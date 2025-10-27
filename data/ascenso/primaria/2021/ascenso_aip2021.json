@@ -214,7 +214,6 @@
         }
       ]
     },
- 
     {
       "idGrupo": "asc_primaria_2021_p11",
       "contexto": "Como parte de las acciones de un proyecto, un equipo de estudiantes ha registrado, en una tabla dentro de una hoja de cálculo, la información correspondiente a los textos que se encuentran en la sala de recursos de la IE. Por ejemplo, en dicha tabla se ha registrado cada uno de los ejemplares de una misma obra de un autor; títulos de las obras de varios autores, revistas, fascículos coleccionables, archivadores con documentos de trabajo del equipo de docentes de la IE, entre otros. La tabla contiene los siguientes campos:\n\nTabla: Texto\nCampos: Código_Libro, ISBN, Título, Autor, Especialidad, Editorial, Año, Ciudad",
@@ -434,7 +433,6 @@
         }
       ]
     },
-  
     {
       "idGrupo": "asc_primaria_2021_p20",
       "contexto": "Un proveedor de internet comunica que la activación del dominio adquirido para el sitio web de la IE demorará algunas horas. En ese sentido, y con el propósito de que se continúe configurando dicho sitio web, el proveedor le proporciona al director de la IE la siguiente dirección URL: \"https://172.58.23.123/cpanel\".",
@@ -542,7 +540,7 @@
             "Construcción.",
             "Diseño."
           ],
-          "respuesta": "Diseño.",
+          "respuesta": "Programación.",
           "respuestaCorta": "La creación de un diagrama de flujo es una parte fundamental de la fase de diseño, ya que permite planificar y visualizar la lógica del programa antes de escribir el código.",
           "solucionario": "Las fases de un proyecto de robótica suelen ser Diseño, Construcción y Programación. El diagrama de flujo es una herramienta de planificación que se utiliza en la fase de Diseño para definir el algoritmo y la secuencia de pasos que el robot seguirá. Representa la solución lógica al problema antes de implementarla en la fase de Programación mediante la escritura de código.",
           "seccion": "Casuística"
@@ -642,7 +640,6 @@
         }
       ]
     },
- 
     {
       "idGrupo": "asc_primaria_2021_p29",
       "contexto": "Una de las formas de vulnerar la seguridad de las contraseñas es el ataque de fuerza bruta. Este ataque consiste en intentar descifrar una contraseña probando todas las combinaciones posibles, hasta encontrar la correcta. En ese sentido, es necesario realizar acciones para resguardar la seguridad de las contraseñas.",
@@ -883,7 +880,6 @@
         }
       ]
     },
-  
     {
       "idGrupo": "asc_primaria_2021_p41",
       "contexto": "Una DAIP reemplazará los cables directos de conexión de las computadoras del AIP a la red. Para este trabajo, utilizará la configuración del cableado con el estándar 568b. Adicionalmente, por medidas de seguridad, creará dos cables cruzados para utilizarlos en caso de alguna situación imprevista.",
@@ -1069,4 +1065,3 @@
     }
   ]
 }
-  

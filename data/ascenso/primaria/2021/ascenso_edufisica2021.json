@@ -363,7 +363,7 @@
             "Se expresa corporalmente.",
             "Crea y aplica estrategias y tácticas de juego."
           ],
-          "respuesta": "Se expresa corporalmente.",
+          "respuesta": "Comprende su cuerpo.",
           "respuestaCorta": "La actividad de crear figuras en el aire con una cinta es una forma de expresión a través del movimiento, utilizando el cuerpo y un implemento para comunicar estéticamente.",
           "solucionario": "Esta actividad se enmarca dentro de la competencia \"Se desenvuelve de manera autónoma a través de su motricidad\" y, más específicamente, en la capacidad \"Se expresa corporalmente\". Esta capacidad implica utilizar el lenguaje corporal para expresar ideas, emociones y sentimientos, así como para crear movimientos con intencionalidad estética, como en la gimnasia rítmica, de la cual este ejercicio es una iniciación.",
           "seccion": "Casuística"
@@ -437,7 +437,6 @@
         }
       ]
     },
-   
     {
       "idGrupo": "asc_primaria_edfisica_2021_p12",
       "contexto": "La docente propone la siguiente actividad: desde la posición de media sentadilla con los brazos extendidos al frente, los estudiantes deben saltar elevándose del piso y caer nuevamente en la posición de media sentadilla. Los estudiantes realizan la actividad en cuatro series de tres repeticiones, con una pausa de 20 segundos entre cada serie.",
@@ -924,6 +923,5 @@
         }
       ]
     }
-
   ]
 }
