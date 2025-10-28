@@ -318,7 +318,7 @@
         },
         {
           "pregunta": "La profesora de Matemática propone a los estudiantes representar la información que obtengan, cuando se aplique la encuesta, en tablas y gráficos en una hoja de cálculo. En ese contexto, Manuel, un estudiante, expresa que la pregunta \"¿Cómo considera que está actuando frente al calentamiento global?\" no se puede procesar automáticamente. La profesora recoge el problema identificado por Manuel y solicita a los estudiantes que propongan una alternativa de solución a dicho problema. ¿Cuál de los siguientes estudiantes manifiesta la alternativa más pertinente?",
-          "opción": [
+          "opciones": [
             "Mario dice: \"Debemos colocar en la encuesta categorías de respuesta para esa pregunta, de tal forma que puedan elegir entre bien, regular o mal\".",
             "Micaela dice: \"Se debe excluir la pregunta del procesamiento de datos y solo debemos considerarla como una referencia\".",
             "Luisa dice: \"Considero que debemos reemplazar la pregunta por otra que pueda responderse con sí o no\"."

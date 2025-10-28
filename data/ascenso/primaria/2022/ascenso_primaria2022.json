@@ -79,9 +79,9 @@
             "El desvío del propósito comunicativo de su texto oral.",
             "Los vacíos de información en el desarrollo de su texto oral."
           ],
-          "respuesta": "La redundancia de ideas a lo largo del texto oral.",
-          "respuestaCorta": "El estudiante presenta contradicciones en su discurso, primero quejándose de la falta de viento y luego afirmando que el viento ayudó mucho.",
-          "solucionario": "El estudiante menciona inicialmente que 'no me gustó que haya poco viento', pero luego afirma que 'El viento ayudó mucho para hacer volar a las cometas muy alto'. Esta contradicción evidencia un problema de cohesión en su discurso, que se manifiesta como una redundancia de ideas opuestas sin aclaración.",
+          "respuesta": "Los vacíos de información en el desarrollo de su texto oral.",
+          "respuestaCorta": "El estudiante presenta vacíos de información cuando dice cosas como 'Este...', '¡Ah! eso resultó chévere' sin explicar a qué se refiere exactamente, dejando información incompleta o poco clara en su relato.",
+          "solucionario": "La opción C es correcta porque el estudiante presenta vacíos de información en su texto oral. Esto se evidencia en frases como 'Este...', 'Entonces... ¡Ah! eso resultó chévere' (sin aclarar qué es 'eso'), y 'así de alto' (sin precisar la altura). Hay información implícita o poco desarrollada que dificulta la comprensión total del relato. No hay redundancia (opción A) ya que, aunque menciona el viento varias veces, no repite las mismas ideas de forma innecesaria. Tampoco hay desvío del propósito (opción B), pues mantiene el tema del concurso de cometas durante toda su intervención.",
           "seccion": "Casuística"
         }
       ]
@@ -179,7 +179,6 @@
         }
       ]
     },
-
     {
       "idGrupo": "asc_primaria_2023_p06",
       "contexto": "Los estudiantes de quinto grado están conversando sobre la obligatoriedad de utilizar uniformes escolares en la IE. En este contexto, la docente les ha propuesto que formen grupos para debatir en torno a la siguiente pregunta: ¿los estudiantes deben utilizar uniforme?",
@@ -387,8 +386,6 @@
         }
       ]
     },
-
-  
     {
       "idGrupo": "asc_primaria_2023_p15",
       "contexto": "La docente está desarrollando una unidad didáctica cuyo propósito es que los estudiantes de quinto grado describan las características de los seres vivos. En este contexto, les presenta el siguiente caso:\nCarol tiene dos gallinas ponedoras a las que da de comer alimentos variados a la misma hora del día. Ella ha observado que hay días en los que las gallinas comen más que otros días y se pregunta por qué ocurre eso.\nDurante el intercambio de ideas sobre el caso, la docente pregunta a los estudiantes: \"¿Cómo podemos responder a la pregunta de Carol?\".\nLaura, una de las estudiantes, responde lo siguiente:\n\"Yo creo que es por el color de la comida. Las gallinas comen más los alimentos de colores llamativos como verde o anaranjado\".",
@@ -596,8 +593,6 @@
         }
       ]
     },
-
-  
     {
       "idGrupo": "asc_primaria_2023_p24",
       "contexto": "En una IE, se viene desarrollando un proyecto denominado \"Conociendo el barrio\". En este contexto, los estudiantes de quinto grado han recorrido los alrededores de la IE y han identificado que uno de los principales problemas es el abandono de perros en las calles.",
@@ -698,7 +693,7 @@
         },
         {
           "pregunta": "Durante una sesión, los estudiantes comentan sobre su participación en las diversas actividades lideradas por los jueces del agua de su comunidad para la gestión de los canales de agua. ¿Cuál de los siguientes comentarios de los estudiantes evidencia el reconocimiento de una relación entre elementos sociales y naturales?",
-          "opciónes": [
+          "opciones": [
             "Francisca dice: \"Yo participé con mis familiares en la organización de la limpieza de la acequia. Esta labor fue dirigida por el juez de agua. Me sentí orgullosa de cómo participaron todos los miembros de la comunidad\".",
             "Juvenal dice: \"Yo acompañé a mi abuelo en varias actividades cuando él asumió ser juez de agua. Gracias a él, aprendí lo importante que es para nuestra comunidad practicar nuestras tradiciones. Estas tradiciones nos enseñan de solidaridad en nuestra comunidad\".",
             "Guadalupe dice: \"Yo visité, junto a mi mamá, al actual juez de agua debido a un conflicto entre los vecinos por el acceso al agua. Me quedé admirada de cómo el juez resolvió el conflicto. Lo más importante fue que repartió el agua según lo que necesitaba cada vecino\"."
@@ -805,8 +800,6 @@
         }
       ]
     },
-
-  
     {
       "idGrupo": "asc_primaria_2023_p33",
       "contexto": "Una docente presenta los resultados de una encuesta aplicada a los estudiantes de segundo grado en relación con su destreza para manejar bicicleta:",
@@ -1030,4 +1023,3 @@
     }
   ]
 }
-  
