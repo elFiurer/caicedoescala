@@ -1,0 +1,1100 @@
+{
+  "completo": [
+    {
+      "idGrupo": "asc_primaria_2024_p01",
+      "contexto": "Como parte de un taller para profesores sobre la aplicación de las tecnologías en el proceso educativo, la facilitadora realiza las siguientes preguntas a los participantes:\n\"¿Han escuchado acerca de la inteligencia artificial? ¿Qué herramientas tecnológicas conocen que, por ejemplo, sostengan una conversación con nosotros los usuarios, sigan las indicaciones que les brindamos, registren nuestras preguntas y nos ofrezcan respuestas detalladas? ¿Cuáles creen que serían las ventajas y desventajas de contar con estas herramientas en educación?\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué proceso de aprendizaje ha promovido principalmente la facilitadora en los participantes al realizar estas preguntas?",
+          "opciones": [
+            "La generación de conflicto cognitivo.",
+            "La transferencia de aprendizajes.",
+            "La activación de saberes previos."
+          ],
+          "respuesta": "La activación de saberes previos.",
+          "respuestaCorta": "Las preguntas de la facilitadora indagan sobre conocimientos y experiencias previas de los docentes (si \"han escuchado\", qué \"conocen\") sobre la inteligencia artificial.",
+          "solucionario": "La estrategia de la facilitadora se centra en conectar el nuevo tema (IA en educación) con lo que los participantes ya saben o han oído. Al preguntar \"¿Han escuchado...?\" y \"¿Qué herramientas... conocen?\", está evocando sus experiencias y conocimientos existentes, lo cual es la definición de activación de saberes previos, un paso fundamental para construir nuevo aprendizaje.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2024_p02",
+      "contexto": "El PIP de una IE realiza copias de seguridad de los archivos del servidor al término de cada semana.\nLa copia de seguridad que el PIP genera solo contiene los archivos que han sido creados o modificados durante dicha semana, y las almacena para una eventual necesidad de restauración de archivos.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes alternativas es el tipo de copia de seguridad que el PIP realiza semanalmente?",
+          "opciones": [
+            "Copia de seguridad completa.",
+            "Copia de seguridad diferencial.",
+            "Copia de seguridad incremental."
+          ],
+          "respuesta": "Copia de seguridad incremental.",
+          "respuestaCorta": "La copia de seguridad incremental respalda únicamente los archivos creados o modificados desde la *última copia de seguridad* (ya sea completa o incremental), coincidiendo con la descripción.",
+          "solucionario": "La descripción indica que la copia \"solo contiene los archivos que han sido creados o modificados durante dicha semana\". Esto se alinea con la definición de una copia de seguridad incremental, que guarda los cambios realizados desde el último respaldo. Una copia completa guardaría todo, y una diferencial guardaría todos los cambios desde la última *completa*.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2024_p03",
+      "contexto": "Como parte de un proyecto de emprendimiento, un equipo de estudiantes ha diseñado el logotipo de su marca. El equipo tiene como propósito guardar el diseño con fondo transparente.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿En cuál de los siguientes formatos de archivo deben guardar el logotipo elaborado?",
+          "opciones": [
+            "En BMP",
+            "En PNG",
+            "En JPG"
+          ],
+          "respuesta": "En PNG",
+          "respuestaCorta": "El formato PNG (Portable Network Graphics) es el estándar que permite guardar imágenes con canal alfa, es decir, con fondos transparentes.",
+          "solucionario": "A diferencia de JPG, que no admite transparencia (siempre tendrá un fondo, usualmente blanco) y BMP que es un formato sin compresión que tampoco maneja bien la transparencia, el formato PNG está diseñado específicamente para gráficos web y soporta un canal alfa, lo que permite guardar imágenes con fondos completamente transparentes.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2024_p04",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿En cuál de las siguientes actividades es más pertinente el almacenamiento de una imagen en formato vectorial?",
+          "opciones": [
+            "En la creación de un logotipo.",
+            "En el retoque de una fotografía.",
+            "En el escaneo de una caricatura."
+          ],
+          "respuesta": "En la creación de un logotipo.",
+          "respuestaCorta": "Los formatos vectoriales (como SVG o AI) son ideales para logotipos porque se basan en fórmulas matemáticas y pueden escalarse a cualquier tamaño (desde una tarjeta de visita hasta un cartel) sin perder calidad.",
+          "solucionario": "Las imágenes vectoriales se definen por puntos y líneas, no por píxeles. Esto las hace infinitamente escalables sin pixelarse. Un logotipo requiere esta escalabilidad para usarse en diferentes medios. El retoque fotográfico y el escaneo trabajan con mapas de bits (píxeles), por lo que un formato vectorial no es pertinente para esas tareas.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2024_p05",
+      "contexto": "Como parte de una capacitación sobre seguridad de la información, la PIP comenta lo siguiente:\n\"Uno de los ataques para acceder a las cuentas de correo electrónico de los usuarios consiste en utilizar una gran cantidad de posibles contraseñas almacenadas en un diccionario e identificar la contraseña correcta para acceder a la cuenta de correo electrónico que se desea vulnerar\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué tipo de ataque menciona la PIP?",
+          "opciones": [
+            "Fuerza bruta.",
+            "Phishing.",
+            "DDoS."
+          ],
+          "respuesta": "Fuerza bruta.",
+          "respuestaCorta": "El ataque descrito, que prueba sistemáticamente múltiples contraseñas (en este caso, usando un \"diccionario\"), es una definición clásica de un ataque de fuerza bruta.",
+          "solucionario": "Un ataque de fuerza bruta consiste en probar todas las combinaciones posibles de contraseñas hasta encontrar la correcta. Una variante de este es el \"ataque de diccionario\", como el descrito, que utiliza una lista predefinida de palabras y contraseñas comunes. El Phishing implica engaño (correos falsos) y el DDoS es un ataque de denegación de servicio, no de robo de credenciales.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2024_p06",
+      "contexto": "Un profesor del área de Ciencia y Tecnología ha usado una herramienta informática de libre acceso para crear un boletín informativo sobre los hallazgos del telescopio espacial Hubble. El profesor tiene como propósito incrustar este boletín en su blog personal. La herramienta que utilizó el profesor le proporciona las siguientes tres opciones:",
+      "imagen": "img/ascenso/primaria/2024/aip/1.jpg",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las opciones debe utilizar el profesor para incrustar el boletín en su blog?",
+          "opciones": [
+            "Opción 1.",
+            "Opción 2.",
+            "Opción 3."
+          ],
+          "respuesta": "Opción 2.",
+          "respuestaCorta": "La etiqueta HTML <iframe> (inline frame) se utiliza específicamente para \"incrustar\" o insertar contenido de otra fuente (como un boletín, un video o un mapa) dentro de una página web existente.",
+          "solucionario": "La Opción 1 es un hipervínculo (etiqueta <a>), que solo crearía un enlace de texto que dirige a otra página. La Opción 3 es solo la URL (texto simple). La Opción 2 usa la etiqueta <iframe>, que es la herramienta HTML estándar para incrustar un documento o recurso externo dentro del documento HTML actual, logrando que el boletín se vea *dentro* del blog.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2024_p07",
+      "contexto": "Una profesora tiene como propósito encontrar imágenes animadas en internet para incluirlas en las presentaciones multimedia que elabora para sus sesiones de aprendizaje.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "De las siguientes alternativas, ¿cuál es la extensión que debe usar la profesora para lograr su propósito?",
+          "opciones": [
+            ".GIF",
+            ".JPG",
+            ".PNG"
+          ],
+          "respuesta": ".GIF",
+          "respuestaCorta": "El formato GIF (Graphics Interchange Format) es el tipo de archivo de imagen más común y ampliamente soportado que permite animaciones simples (secuencias de fotogramas).",
+          "solucionario": "Mientras que JPG es ideal para fotografías (con pérdida) y PNG es excelente para gráficos con transparencia (sin pérdida), el formato GIF es el estándar histórico para crear y compartir imágenes animadas simples. Aunque existen formatos más nuevos como APNG (PNG animado) o WebP, GIF sigue siendo el más reconocido para este propósito.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2024_p08",
+      "contexto": "Una profesora ha diseñado un paisaje en un programa de edición de imágenes para publicarlo en sus redes sociales. El paisaje presenta varios colores, y algunos de esos colores se muestran en diversos tonos. Al imprimir el paisaje, los colores obtenidos en el papel presentan tonos diferentes respecto a cómo se observan en la pantalla de la computadora. Para solucionar este problema, la profesora debe seleccionar el modo de color apropiado en el programa de edición de imágenes para luego imprimir el paisaje.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué modo de color debe elegir la profesora para imprimir el paisaje?",
+          "opciones": [
+            "El modo RGB.",
+            "El modo CMYK.",
+            "El modo INDEXADO."
+          ],
+          "respuesta": "El modo CMYK.",
+          "respuestaCorta": "El modo CMYK (Cyan, Magenta, Yellow, Key/Black) es el modelo de color sustractivo usado en la impresión. El modo RGB (Red, Green, Blue) es aditivo y se usa para pantallas.",
+          "solucionario": "Las pantallas de computadora emiten luz y usan el modelo aditivo RGB. Las impresoras aplican tinta sobre papel (un proceso sustractivo) y usan el modelo CMYK. La discrepancia de color ocurre porque el diseño estaba en RGB (para pantalla) pero se imprimió en un dispositivo CMYK. Para asegurar la fidelidad del color en la impresión, el diseño debe convertirse a CMYK.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2024_p09_10",
+      "contexto": "Una profesora está elaborando tablas en una hoja de cálculo. Estas incluyen fórmulas y funciones. Durante la elaboración de las tablas, la profesora identifica algunas celdas que contienen caracteres que le indican que existe un error.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "La profesora identifica una celda en la que se visualizan los caracteres ##### en lugar del valor que realmente se debe mostrar.\n¿Cuál de las siguientes acciones debe realizar la profesora para corregir este error en la celda?",
+          "opciones": [
+            "Modificar el ancho de la columna a la que pertenece la celda.",
+            "Cambiar el contenido de una celda usada en la fórmula que contiene texto a número.",
+            "Verificar que los datos que usa la fórmula de la celda se encuentren en el rango especificado."
+          ],
+          "respuesta": "Modificar el ancho de la columna a la que pertenece la celda.",
+          "respuestaCorta": "El error \"#####\" en las hojas de cálculo indica que el valor numérico o la fecha en la celda es demasiado ancho para mostrarse en el ancho actual de la columna.",
+          "solucionario": "Este error no es un error de cálculo (como #¡VALOR! o #N/A), sino un error de visualización. El programa muestra \"#####\" para indicar que el contenido de la celda (generalmente un número largo o una fecha) no cabe en el espacio asignado. La solución es simplemente hacer la columna más ancha.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "La profesora identifica otra celda en la que se visualiza el código de error #¡VALOR!, en lugar del valor que realmente se debe mostrar.\n¿Cuál es la acción que debe realizar la profesora para identificar el error en la celda?",
+          "opciones": [
+            "Verificar que la fórmula o función no contenga una división entre cero.",
+            "Verificar que los parámetros de la fórmula o función usen el tipo de dato correcto.",
+            "Verificar que las funciones encuentren los valores referenciados en el rango especificado."
+          ],
+          "respuesta": "Verificar que los parámetros de la fórmula o función usen el tipo de dato correcto.",
+          "respuestaCorta": "El error #¡VALOR! aparece cuando la fórmula recibe un tipo de dato incorrecto, por ejemplo, intentar sumar un número con una celda que contiene texto.",
+          "solucionario": "El error #¡VALOR! indica un problema con los argumentos (parámetros) de la función. Ocurre comúnmente cuando se intenta realizar una operación matemática (como SUMA) sobre un rango que incluye texto en lugar de números. La división por cero genera el error #¡DIV/0! y los valores no encontrados generan #N/A o #¡REF!.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2024_p11",
+      "contexto": "La directora de una IE desea registrar los datos de los profesores en una hoja de cálculo. Una de las columnas de dicha hoja de cálculo contendrá el área curricular que enseñan los profesores. El propósito de la directora es que, en cada celda de dicha columna, solo se ingrese uno de los siguientes datos: Ciencia y Tecnología, Matemática, Comunicación o Educación Física, por lo cual solicita ayuda al PIP.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes herramientas de la hoja de cálculo debe sugerir el PIP a la directora para que logre su propósito?",
+          "opciones": [
+            "Validación de datos.",
+            "Filtrado de datos.",
+            "Relleno rápido."
+          ],
+          "respuesta": "Validación de datos.",
+          "respuestaCorta": "La herramienta \"Validación de datos\" permite restringir el tipo de datos o los valores que los usuarios pueden escribir en una celda, por ejemplo, creando una lista desplegable.",
+          "solucionario": "El propósito de la directora es *restringir* la entrada de datos a una lista específica (Ciencia y Tecnología, Matemática, etc.). La Validación de datos está diseñada para esto, usualmente creando una lista desplegable que solo permite seleccionar esas opciones, evitando errores de tipeo o valores no deseados. El filtrado solo oculta/muestra datos existentes y el relleno rápido autocompleta patrones.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2024_p12",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "En una hoja de cálculo, ¿cuál es la utilidad de la herramienta \"Proteger libro\"?",
+          "opciones": [
+            "Asignar una contraseña que se solicita al abrir el libro.",
+            "Solicitar una contraseña para que se modifiquen los datos de las hojas.",
+            "Evitar la modificación de la estructura del libro por usuarios no autorizados."
+          ],
+          "respuesta": "Evitar la modificación de la estructura del libro por usuarios no autorizados.",
+          "respuestaCorta": "\"Proteger libro\" se enfoca en la *estructura* del archivo, impidiendo que se agreguen, eliminen, oculten o cambien de nombre las hojas de cálculo, a diferencia de \"Proteger hoja\" que protege los *datos* dentro de las celdas.",
+          "solucionario": "Es importante diferenciar \"Proteger libro\" de \"Proteger hoja\". Proteger hoja (opción B) bloquea la edición de celdas. Proteger libro (la pregunta) bloquea cambios estructurales, como eliminar, mover, renombrar, agregar u ocultar hojas. La opción A (contraseña al abrir) se logra con la función \"Cifrar con contraseña\" en el menú Guardar.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+  
+    {
+      "idGrupo": "asc_primaria_2024_p13",
+      "contexto": "Como parte del desarrollo de una aplicación, una PIP crea una base de datos. En una de las tablas de la base de datos, la PIP asigna a cada columna los siguientes nombres: Número de DNI, apellidos y nombres, fecha de nacimiento, lugar de nacimiento.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de estas columnas cumple con las condiciones para ser configurada como clave principal o primaria de esta tabla?",
+          "opciones": [
+            "Número de DNI.",
+            "Apellidos y nombres.",
+            "Fecha de nacimiento."
+          ],
+          "respuesta": "Número de DNI.",
+          "respuestaCorta": "La clave principal (o primaria) debe ser un valor único e irrepetible para cada registro. El 'Número de DNI' cumple esta condición.",
+          "solucionario": "Una clave principal es un campo que identifica de forma única cada fila o registro en una tabla. Ni 'Apellidos y nombres' ni 'Fecha de nacimiento' garantizan unicidad (puede haber homónimos o personas que nacieron el mismo día). El 'Número de DNI' está diseñado para ser un identificador único para cada persona, siendo el candidato ideal para una clave principal.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2024_p14",
+      "contexto": "Una profesora envía un mensaje de correo electrónico a Paúl, un especialista de la UGEL, y, de forma inmediata, recibe el siguiente mensaje de correo electrónico:\n\"Me encuentro de vacaciones. Durante este periodo lo atenderá el Sr. José Torres. Escriba a jtorres@ugel.gob.pe\"\nLa profesora reitera el envío del mensaje de correo al especialista Paúl y, nuevamente, de forma inmediata recibe otro mensaje de correo electrónico con el mismo contenido.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Por qué la profesora recibió estos mensajes de correo electrónico?",
+          "opciones": [
+            "Porque el especialista tiene configurada las notificaciones de correo electrónico.",
+            "Porque el especialista tiene configurada la gestión de correos electrónicos dinámicos.",
+            "Porque el especialista tiene configurada la respuesta automática de correo electrónico."
+          ],
+          "respuesta": "Porque el especialista tiene configurada la respuesta automática de correo electrónico.",
+          "respuestaCorta": "El mensaje recibido es un clásico ejemplo de una respuesta automática de \"Fuera de la oficina\" o \"Vacaciones\", diseñada para informar a los remitentes sobre una ausencia.",
+          "solucionario": "Los servicios de correo electrónico permiten configurar respuestas automáticas que se envían instantáneamente a cualquier persona que escriba a esa dirección durante un período determinado. El contenido del mensaje (\"Me encuentro de vacaciones...\") confirma que esta función está activa. Las notificaciones (A) solo avisan al usuario de un correo nuevo y los correos dinámicos (B) se refieren a contenido interactivo dentro del correo, no a respuestas automáticas.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2024_p15",
+      "contexto": "Un profesor comenta lo siguiente:\n\"Al ingresar a la página web de la universidad donde realizo mis estudios, en la sección 'Información para el estudiante' se me solicita el ingreso del número de mi DNI y contraseña. En seguida, se muestra en pantalla mi información personal junto a mis calificaciones en los cursos que he finalizado. Del mismo modo, para cada estudiante que accede a la página con sus datos, se muestra en pantalla información sobre dicho estudiante con sus calificaciones finales correspondientes\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué tipo de página web está describiendo el profesor?",
+          "opciones": [
+            "Una página web estática.",
+            "Una página web dinámica.",
+            "Una página web responsiva."
+          ],
+          "respuesta": "Una página web dinámica.",
+          "respuestaCorta": "Una página web dinámica es aquella cuyo contenido se genera de forma personalizada para cada usuario, interactuando con una base de datos, como en este caso al mostrar calificaciones únicas.",
+          "solucionario": "La página descrita no es estática, ya que no muestra el mismo contenido a todos. Se conecta a una base de datos para recuperar y mostrar información específica (calificaciones) basada en la entrada del usuario (DNI y contraseña). Este comportamiento (contenido personalizado y generado en el servidor) es la definición de una página web dinámica. Una web responsiva (C) se refiere a su *diseño* (se adapta a diferentes tamaños de pantalla), no a su contenido.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2024_p16",
+      "contexto": "Un usuario digita en su navegador la siguiente dirección de un sitio web:\nwww.empresa.com\nLa página principal del sitio web muestra información y unos botones de navegación. El usuario hace clic en el botón \"capacitaciones\", y en la barra de direcciones del navegador se muestra lo siguiente:\nhttps://www.capacitaciones.empresa.com",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cómo se encuentra organizado el sitio web?",
+          "opciones": [
+            "Capacitaciones es un subdominio del sitio web.",
+            "Capacitaciones es una carpeta del sitio web.",
+            "Capacitaciones es el dominio del sitio web."
+          ],
+          "respuesta": "Capacitaciones es un subdominio del sitio web.",
+          "respuestaCorta": "La estructura 'capacitaciones.empresa.com' indica que 'capacitaciones' es un subdominio del dominio principal 'empresa.com'.",
+          "solucionario": "En una URL, el dominio principal es 'empresa.com'. Cualquier palabra añadida a la *izquierda* del dominio principal, separada por un punto (como 'capacitaciones' o 'www'), se considera un subdominio. Si fuera una carpeta (B), la URL se vería como 'www.empresa.com/capacitaciones'.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2024_p17_18",
+      "contexto": "Una directora tiene como propósito implementar el sitio web de su IE, por lo que requiere adquirir el servicio de dominio y el servicio de hosting.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes funciones corresponde al servicio de dominio?",
+          "opciones": [
+            "Permitir a los navegadores ubicar y acceder al sitio web de la IE.",
+            "Proveer seguridad a los datos almacenados en el sitio web de la IE.",
+            "Brindar espacio para el almacenamiento de los archivos del sitio web de la IE."
+          ],
+          "respuesta": "Permitir a los navegadores ubicar y acceder al sitio web de la IE.",
+          "respuestaCorta": "El dominio es el 'nombre' o 'dirección' del sitio web (ej: minedu.gob.pe) que los navegadores usan para encontrar el servidor correcto en internet a través del sistema DNS.",
+          "solucionario": "El servicio de dominio (DNS - Domain Name System) actúa como la agenda telefónica de internet. Traduce el nombre de dominio (fácil de recordar para los humanos) a una dirección IP (que usan las máquinas). Su función es, por tanto, permitir la *ubicación* y *acceso* al sitio. El almacenamiento (C) es función del hosting, y la seguridad (B) es un servicio adicional (como SSL).",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Además de la función principal, ¿cuál de las siguientes funciones corresponde a un servidor web o hosting?",
+          "opciones": [
+            "Asignar una tasa de transferencia mensual al sitio web.",
+            "Otorgar identidad al sitio web a través de un nombre propio.",
+            "Brindar la opción para proteger los datos del propietario en la base de datos WHOIS."
+          ],
+          "respuesta": "Asignar una tasa de transferencia mensual al sitio web.",
+          "respuestaCorta": "El hosting provee los recursos para que el sitio funcione, lo que incluye espacio en disco, potencia de CPU y una tasa de transferencia (ancho de banda) mensual, que limita cuántos datos pueden descargar los visitantes.",
+          "solucionario": "El hosting es el servicio que *aloja* los archivos (función principal, mencionada en la pregunta 17-C) y provee los recursos para servirlos. Estos recursos incluyen el ancho de banda o \"tasa de transferencia\" (A). Otorgar identidad (B) es función del dominio. La protección WHOIS (C) es un servicio asociado al *registro* del dominio, no al hosting.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2024_p19",
+      "contexto": "Una PIP está elaborando una página web mediante etiquetas HTML para presentar información sobre los pasos para la preparación de un plato típico. La PIP tiene el propósito de que estos pasos se muestren automáticamente numerados en la página web.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es la etiqueta HTML que debe usar la PIP para lograr su propósito?",
+          "opciones": [
+            "<ul>",
+            "<ol>",
+            "<dl>"
+          ],
+          "respuesta": "<ol>",
+          "respuestaCorta": "La etiqueta HTML <ol> significa \"Ordered List\" (Lista Ordenada) y se usa para crear listas cuyos elementos se numeran automáticamente.",
+          "solucionario": "En HTML, <ul> (Unordered List) crea listas con viñetas (puntos). <dl> (Definition List) se usa para listas de términos y definiciones. La etiqueta <ol> (Ordered List) es la correcta para crear listas que requieren una secuencia numérica, como los pasos de una receta.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2024_p20",
+      "contexto": "Una profesora del área de Ciencia y Tecnología tiene como propósito identificar los aprendizajes de los estudiantes respecto de las magnitudes físicas. Por ello, la profesora ha planificado realizar, con los estudiantes, una actividad empleando la gamificación.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿En cuál de las siguientes actividades la profesora emplea la gamificación?",
+          "opciones": [
+            "En la elaboración de una presentación con diapositivas. En cada diapositiva, la profesora colocará una pregunta con tres alternativas de respuesta. Luego, en una plenaria en el AIP, la profesora mostrará las diapositivas a los estudiantes para que estos, en consenso, seleccionen una de las alternativas y, al dar clic en esta, automáticamente, visualicen un emoticon que indique que la alternativa seleccionada es correcta o incorrecta.",
+            "En la elaboración de un conjunto de preguntas de opción múltiple y autocorrección en una plataforma de acceso libre. En una plenaria en el AIP, la profesora compartirá con los estudiantes las reglas de participación y el enlace a dicha plataforma. A medida que todos terminan de responder la pregunta activa, ella proyectará la tabla de posiciones según el puntaje obtenido y el tiempo utilizado por cada estudiante. Al final, la profesora mostrará quien fue el ganador y el premio obtenido.",
+            "En la elaboración de un documento de texto que contenga preguntas con tres alternativas de respuesta. La profesora guardará este documento en formato PDF editable en las computadoras del AIP. Luego, ella realizará la sesión de aprendizaje en el AIP. En la sesión de aprendizaje, cada estudiante dispondrá de dicho documento para marcar sus respuestas con ayuda de las herramientas del programa y guardarlo en la computadora en la que está trabajando. Así, la profesora podrá revisar las respuestas marcadas por cada estudiante."
+          ],
+          "respuesta": "En la elaboración de un conjunto de preguntas de opción múltiple y autocorrección en una plataforma de acceso libre. En una plenaria en el AIP, la profesora compartirá con los estudiantes las reglas de participación y el enlace a dicha plataforma. A medida que todos terminan de responder la pregunta activa, ella proyectará la tabla de posiciones según el puntaje obtenido y el tiempo utilizado por cada estudiante. Al final, la profesora mostrará quien fue el ganador y el premio obtenido.",
+          "respuestaCorta": "La opción B describe elementos clave de la gamificación: competencia (tabla de posiciones), puntajes, reglas, tiempo y recompensas (ganador y premio), aplicando mecánicas de juego a un contexto educativo.",
+          "solucionario": "La gamificación implica el uso de elementos y mecánicas de juego (puntos, niveles, tablas de clasificación, premios) en contextos no lúdicos para motivar la participación. La opción B es la única que integra estos elementos (reglas, plataforma, tabla de posiciones, puntaje, tiempo, ganador, premio). La opción A es un cuestionario interactivo simple, y la C es una ficha de trabajo digital, ninguna de las dos constituye gamificación.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2024_p21",
+      "contexto": "Una profesora observa en un video que, en una feria de ciencia, dos personas demuestran el uso de un accesorio denominado \"casco mágico\". Este accesorio tiene implementado algunos elementos en su parte frontal. Una de las personas usa el casco mientras que la otra usa un aplicativo instalado en una tableta. Con la cámara de la tableta, la persona enfoca una parte del casco de la persona que lo usa. En ese momento, en la pantalla de la tableta, además de la zona enfocada, se muestra en primer plano una simulación de cómo funciona el órgano del cuerpo que se está enfocando con la cámara.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué tecnología se presenta en el video observado por la profesora?",
+          "opciones": [
+            "Realidad aumentada.",
+            "Machine learning.",
+            "Realidad virtual."
+          ],
+          "respuesta": "Realidad aumentada.",
+          "respuestaCorta": "La descripción (usar una tableta para enfocar un objeto real y ver información digital superpuesta) es la definición de Realidad Aumentada.",
+          "solucionario": "La Realidad Aumentada (RA) superpone elementos digitales (la simulación del órgano) sobre el mundo real (visto a través de la cámara de la tableta). La Realidad Virtual (RV) sumerge al usuario en un entorno 100% digital, usualmente con visores que bloquean el mundo real. Machine learning es un tipo de inteligencia artificial, no una tecnología de visualización.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2024_p22",
+      "contexto": "Una IE cuenta con un AIP implementada con laptops y PC de escritorio. Sin embargo, la IE solo posee conexión a internet en las aulas que están ubicadas en un radio de 5 metros del AIP. El Gobierno Regional ha acordado mejorar las condiciones del AIP y encontrar una solución para proveer de internet a toda la institución a fin de que los profesores y los estudiantes puedan conectarse sin problemas con sus propios dispositivos, ya sean laptops, tablets o smartphones.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes acciones es la más adecuada para proveer de internet a toda la IE?",
+          "opciones": [
+            "Instalar un access point en cada aula y conectar los access point por medio de un cable de red al switch ubicado en el AIP.",
+            "Adquirir otra línea de internet para proveer de este servicio a toda la institución por medio de una conexión cableada en cada aula.",
+            "Realizar un cableado estructurado de datos implementando un switch en cada aula a través de un cable ethernet categoría 5e conectado desde el switch del AIP."
+          ],
+          "respuesta": "Instalar un access point en cada aula y conectar los access point por medio de un cable de red al switch ubicado en el AIP.",
+          "respuestaCorta": "Para dar cobertura Wi-Fi a toda la IE y permitir la conexión de dispositivos móviles (tablets, smartphones), la solución es instalar múltiples Access Points (puntos de acceso inalámbrico) en zonas estratégicas (aulas) conectados a la red principal.",
+          "solucionario": "El objetivo es dar internet a *toda* la institución y permitir la conexión de dispositivos *móviles* (laptops, tablets, smartphones), lo que implica una red Wi-Fi. La opción A logra esto instalando Access Points (emisores de Wi-Fi) en cada aula, cableándolos al switch central para que tengan acceso a la red. Las opciones B y C se centran en conexiones *cableadas*, lo cual no resolvería el problema de los smartphones y tablets.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2024_p23_24",
+      "contexto": "Previo al inicio del año escolar, el PIP instalará el sistema operativo, los controladores y los aplicativos en las computadoras del AIP. La mayoría de estas computadoras presentan las mismas características de hardware y son del mismo fabricante. Sin embargo, en el AIP, también hay otras computadoras que tienen características diferentes de hardware.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "El PIP inicia este proceso realizando la instalación del sistema operativo, los controladores y los aplicativos en una computadora del AIP. Asimismo, en el menor tiempo posible, el propósito del PIP es tener instalados los mismos componentes de software en las demás computadoras del AIP, tanto en las que tienen las mismas características de hardware que la primera computadora, como también, en las que tienen diferentes características.\n¿Cuál de las siguientes es la acción tecnológica que debe realizar el PIP para lograr su propósito?",
+          "opciones": [
+            "Formatear los discos duros de las otras computadoras.",
+            "Virtualizar las otras computadoras en la primera computadora.",
+            "Clonar el disco duro de la primera computadora al disco duro de las otras computadoras."
+          ],
+          "respuesta": "Clonar el disco duro de la primera computadora al disco duro de las otras computadoras.",
+          "respuestaCorta": "La clonación de disco es el proceso de crear una copia exacta (imagen) de un disco duro (con SO, controladores y apps) y replicarla en múltiples máquinas, siendo la forma más rápida de configurar muchas computadoras.",
+          "solucionario": "Para instalar el mismo software en muchas máquinas rápidamente, se utiliza la clonación o creación de imágenes de disco. Se prepara una máquina \"maestra\" y luego se copia su disco duro bit a bit a las demás. Formatear (A) solo borra los discos, y la virtualización (B) es para ejecutar sistemas operativos dentro de otros, no para instalarlos masivamente.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Ahora, el PIP centra su atención en las computadoras que presentan características diferentes de hardware respecto de la primera computadora. Para lograr que dichas computadoras queden operativas. ¿Cuál es la acción que debe realizar el PIP?",
+          "opciones": [
+            "Actualizar los controladores en las computadoras.",
+            "Realizar la copia de seguridad de los archivos de las computadoras.",
+            "Reinstalar los programas que no se ejecutan correctamente en las computadoras."
+          ],
+          "respuesta": "Actualizar los controladores en las computadoras.",
+          "respuestaCorta": "Al clonar una imagen de una PC (maestra) a otra con hardware diferente, el sistema operativo intentará usar los controladores de la maestra, lo cual fallará. Es necesario instalar los controladores (drivers) correctos para el hardware específico de las nuevas máquinas.",
+          "solucionario": "El problema de clonar entre hardware diferente (conocido como clonación en hardware heterogéneo) es que los controladores (drivers) del video, red, sonido, etc., de la máquina maestra no serán compatibles con el hardware de las máquinas destino. Para que el sistema operativo clonado funcione correctamente en la nueva máquina, la acción indispensable es instalar los controladores adecuados para ese hardware específico.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+  
+    {
+      "idGrupo": "asc_primaria_2024_p25",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es la característica de un sistema operativo multitarea o multitasking?",
+          "opciones": [
+            "Ejecutar más de un programa en simultáneo.",
+            "Gestionar varios procesadores en simultáneo.",
+            "Atender las peticiones de varios usuarios en simultáneo."
+          ],
+          "respuesta": "Ejecutar más de un programa en simultáneo.",
+          "respuestaCorta": "La multitarea (multitasking) se refiere a la capacidad del sistema operativo de ejecutar múltiples procesos o programas (como un navegador, un editor de texto y música) al mismo tiempo.",
+          "solucionario": "Un sistema operativo multitarea permite que varios programas residan en la memoria y se ejecuten concurrentemente, repartiendo el tiempo del procesador entre ellos. Gestionar varios procesadores es \"multiprocesamiento\" y atender a varios usuarios es \"multiusuario\".",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2024_p26_28",
+      "contexto": "A continuación, se presentan las características técnicas de la tarjeta madre para una computadora:\nSocket LGA1700, DDR4, HDMI\n• Soporta procesadores de 12da generación Core i9/17/i5/i3\n• 4 Ranuras DDR4, 3200/2933/2666/2400\n• 6 x SATA 6Gb/s / 4 x M.2 slots\n• Formato ATX",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes fuentes de alimentación es compatible con esta tarjeta madre?",
+          "opciones": [
+            "Fuente de alimentación de 12 pines, potencia 700 W",
+            "Fuente de alimentación de 10 pines, potencia 300 W",
+            "Fuente de alimentación de 24 pines, potencia 600 W"
+          ],
+          "respuesta": "Fuente de alimentación de 24 pines, potencia 600 W",
+          "respuestaCorta": "El formato ATX, especificado para la tarjeta madre, utiliza un conector de alimentación principal estándar de 24 pines.",
+          "solucionario": "Las tarjetas madre con formato ATX (como la descrita) utilizan un conector de alimentación principal de 24 pines (20+4). Las opciones de 12 y 10 pines no son compatibles con el estándar ATX para la alimentación principal de la placa.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Si se va a elegir un procesador para la tarjeta madre indicada, ¿cuál es la opción que proporcionaría mayor velocidad de procesamiento de datos a la computadora?",
+          "opciones": [
+            "Procesador Core i9-10900, 3.70 GHz, LGA1200",
+            "Procesador Core i7-12700, 3.60 GHz, LGA1700",
+            "Procesador Core i5-12600, 3.40 GHz, LGA1700"
+          ],
+          "respuesta": "Procesador Core i7-12700, 3.60 GHz, LGA1700",
+          "respuestaCorta": "El Core i9-10900 (LGA1200) es incompatible. Entre los compatibles (LGA1700), el Core i7-12700 es de gama superior y tiene mayor rendimiento que el Core i5-12600.",
+          "solucionario": "La tarjeta madre requiere un socket LGA1700 y soporta procesadores de 12va generación. La opción A (Core i9-10900) es incompatible por ser LGA1200 y de 10ma gen. Entre las opciones B (i7-12700) y C (i5-12600), ambas compatibles, el Core i7 es una gama superior al Core i5, ofreciendo más núcleos, hilos y mayor velocidad de procesamiento general, a pesar de que la frecuencia base sea similar.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "De acuerdo con las características de la tarjeta madre, ¿cuál de los siguientes módulos de memoria RAM brindaría mayor capacidad de almacenamiento a la computadora?",
+          "opciones": [
+            "Memoria de 16GB, DDR4, 2666 MHz",
+            "Memoria de 32GB, DDR5, 5200 MHz",
+            "Memoria de 32GB, DDR4, 3200MHz"
+          ],
+          "respuesta": "Memoria de 32GB, DDR4, 3200MHz",
+          "respuestaCorta": "La tarjeta madre soporta DDR4 hasta 3200 MHz. La opción C (32GB DDR4 3200MHz) ofrece la mayor capacidad (32GB) y es compatible. La opción B (DDR5) es incompatible.",
+          "solucionario": "La tarjeta madre especifica que soporta \"4 Ranuras DDR4, 3200/2933/2666/2400\". Esto elimina la opción B, que es DDR5. Entre la opción A (16GB) y la C (32GB), ambas DDR4 y con velocidades compatibles (2666 y 3200 MHz), la opción C ofrece la mayor capacidad de almacenamiento (32GB) y además utiliza la velocidad máxima soportada (3200MHz).",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2024_p29",
+      "contexto": "Un AIP de una IE cuenta con computadoras de escritorio que poseen: monitor, CPU, teclado, mouse y parlantes. Además, las tarjetas de video de estas computadoras son integradas.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué dispositivo es indispensable incorporar para que los profesores puedan desarrollar actividades con realidad aumentada?",
+          "opciones": [
+            "Tarjeta de video dedicada.",
+            "Lentes de realidad virtual.",
+            "Cámara web."
+          ],
+          "respuesta": "Cámara web.",
+          "respuestaCorta": "La Realidad Aumentada (RA) funciona superponiendo información digital sobre el mundo real. Para capturar ese mundo real, una cámara web es indispensable.",
+          "solucionario": "La característica principal de la Realidad Aumentada es que \"aumenta\" la realidad existente. Para que la computadora pueda ver y procesar la realidad (por ejemplo, un marcador, una imagen o el entorno), necesita un dispositivo de entrada de video, que es la cámara web. Los lentes de RV (B) son para Realidad Virtual, no Aumentada, y aunque una tarjeta dedicada (A) mejora el rendimiento, la RA básica puede funcionar con gráficos integrados, pero no puede funcionar sin una cámara.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2024_p30",
+      "contexto": "Un profesor le presenta al PIP la implementación de la realidad aumentada en una secuencia de funcionamiento de una aplicación que consiste en mostrar un conjunto de vestimentas de las diferentes regiones del Perú para que los estudiantes se las puedan probar virtualmente.\nA continuación, se presentan los pasos del algoritmo de funcionamiento de la aplicación propuesta por el profesor.\nInstrucciones:\n1. Abrir la aplicación.\n2. Cargar en la aplicación una fotografía del estudiante de cuerpo entero.\n3. Elegir la vestimenta a probarse.\n4. Simular cómo le quedaría la vestimenta.\n5. Exportar la imagen de la prueba final en formato PNG.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "El PIP observa un error en el algoritmo planteado por el profesor. ¿En qué instrucción se encuentra el error?",
+          "opciones": [
+            "En la instrucción 2",
+            "En la instrucción 3",
+            "En la instrucción 5"
+          ],
+          "respuesta": "En la instrucción 2",
+          "respuestaCorta": "El algoritmo describe un \"probador virtual\" estático usando una foto, no Realidad Aumentada. La RA requiere el uso de la cámara en *tiempo real* para capturar el movimiento del usuario.",
+          "solucionario": "La Realidad Aumentada (RA) implica una interacción en tiempo real con el entorno, generalmente capturado por una cámara. El paso 2 describe \"Cargar en la aplicación una fotografía\", lo cual no es RA. Sería simplemente superponer una imagen (la ropa) sobre otra imagen (la foto). Para ser RA, el paso 2 debería ser \"Activar la cámara y enfocar al estudiante\".",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2024_p31",
+      "contexto": "Un equipo de estudiantes desea realizar una investigación sobre la integración de la tecnología biométrica en los smartphones, pero aún no deciden qué aspecto específico de dicho tema van a investigar.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes estudiantes plantea una propuesta adecuada para realizar dicha investigación?",
+          "opciones": [
+            "Pedro dice: \"Yo creo que deberíamos investigar el acceso a las aplicaciones cifradas instaladas en el dispositivo por medio de un patrón de coordenadas\".",
+            "José dice: \"Propongo que investiguemos sobre la graduación automática del brillo de la pantalla del dispositivo de acuerdo con la luz del ambiente\".",
+            "Hayde dice: \"Sugiero que investiguemos sobre el desbloqueo de dispositivos a través del reconocimiento del iris\"."
+          ],
+          "respuesta": "Hayde dice: \"Sugiero que investiguemos sobre el desbloqueo de dispositivos a través del reconocimiento del iris\".",
+          "respuestaCorta": "La biometría es la medición de características físicas o de comportamiento únicas. El reconocimiento del iris (propuesta de Hayde) es una forma avanzada de tecnología biométrica.",
+          "solucionario": "El tema es \"tecnología biométrica\". La biometría se refiere a la identificación basada en características biológicas únicas. El reconocimiento del iris (Hayde) es un ejemplo claro de biometría. Un patrón de coordenadas (Pedro) es un método de seguridad basado en el conocimiento (algo que sabes), no biométrico. El ajuste de brillo (José) usa un sensor de luz ambiental, lo cual no es biometría.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2024_p32",
+      "contexto": "A continuación, se presentan las características técnicas de un procesador:\nProcesador Core i5-11600, 4.90 GHz, 12MB, LGA 1200",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Teniendo en cuenta estas características técnicas, ¿cuál de las siguientes afirmaciones respecto del procesador es correcta?",
+          "opciones": [
+            "El procesador es de 11ra generación.",
+            "El procesador requiere el socket 11600 en la placa madre.",
+            "El procesador tiene una memoria caché de 4.90 GHz de capacidad."
+          ],
+          "respuesta": "El procesador es de 11ra generación.",
+          "respuestaCorta": "En la nomenclatura de procesadores Intel Core (i3, i5, i7, i9), el número \"11\" en \"i5-11600\" indica que pertenece a la 11va generación.",
+          "solucionario": "El número '11600' después del 'i5' indica la generación y el modelo. El '11' inicial significa 11ra generación. El socket requerido es 'LGA 1200', no 11600 (B es incorrecta). Los 4.90 GHz son la frecuencia (velocidad de reloj), no la capacidad de la caché; la caché es de 12MB (C es incorrecta).",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2024_p33",
+      "contexto": "Uno de los tipos de memoria que usan las computadoras se caracteriza por almacenar los programas y datos de trabajo mientras recibe suministro eléctrico. Sin embargo, en el momento que se interrumpe dicho suministro, esta memoria pierde todos los programas y datos almacenados.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué tipo de memoria se ha descrito?",
+          "opciones": [
+            "La memoria FLASH.",
+            "La memoria RAM.",
+            "La memoria ROM."
+          ],
+          "respuesta": "La memoria RAM.",
+          "respuestaCorta": "La memoria RAM (Random Access Memory) es una memoria volátil, lo que significa que necesita energía para retener la información. Al apagar la computadora, la RAM se vacía.",
+          "solucionario": "La descripción corresponde a una memoria volátil. La RAM es la memoria principal de trabajo del computador y es volátil (pierde datos sin energía). Las memorias ROM (Read-Only Memory) y FLASH (usada en SSD y USB) son no volátiles, es decir, retienen la información incluso sin suministro eléctrico.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2024_p34",
+      "contexto": "El PIP de una IE propone al director generar espacios virtuales para la capacitación de los profesores, de tal forma que estos les permitan organizar las sesiones por módulos de aprendizaje, subir información, generar actividades y evaluaciones, y brindar retroalimentación oportuna a los profesores que ingresen a dicho entorno.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes plataformas es más adecuada para la implementación de dichos espacios virtuales?",
+          "opciones": [
+            "Content Management System (CMS).",
+            "Massive Open Online Course (MOOC).",
+            "Learning Management System (LMS)."
+          ],
+          "respuesta": "Learning Management System (LMS).",
+          "respuestaCorta": "Un LMS (Sistema de Gestión de Aprendizaje) es una plataforma diseñada específicamente para administrar, distribuir y controlar actividades de formación, tal como se describe (módulos, actividades, evaluaciones, retroalimentación).",
+          "solucionario": "La descripción (módulos, actividades, evaluaciones, retroalimentación) encaja perfectamente con las funciones de un Learning Management System (LMS), como Moodle, Canvas o Chamilo, diseñados para gestionar cursos. Un CMS (A) es para gestionar contenido web general (como blogs o webs corporativas) y un MOOC (B) es un *tipo* de curso (abierto y masivo), no la plataforma en sí misma (aunque usan LMS para funcionar).",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2024_p35",
+      "contexto": "El PIP de una IE imprime un documento en una impresora láser conectada a la red del AIP. De pronto, las últimas hojas del documento empiezan a salir con algunas zonas de impresión borrosas.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes acciones debe realizar el PIP para solucionar el problema?",
+          "opciones": [
+            "Reinstalar el controlador de la impresora.",
+            "Cambiar el cartucho de tóner de la impresora.",
+            "Establecer nuevos parámetros de configuración de red para la impresora."
+          ],
+          "respuesta": "Cambiar el cartucho de tóner de la impresora.",
+          "respuestaCorta": "En las impresoras láser, las impresiones borrosas o pálidas que aparecen gradualmente son el síntoma más común de que el cartucho de tóner se está agotando.",
+          "solucionario": "Las zonas borrosas en una impresora láser indican un problema físico con la transferencia de tóner. La causa más probable es que el tóner (la tinta en polvo) se está acabando. Los problemas de controladores (A) o de red (C) generalmente impedirían la impresión por completo o causarían errores de datos, pero no un deterioro físico de la calidad de impresión como manchas o borrones.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2024_p36",
+      "contexto": "Durante una reunión virtual, el facilitador visualiza a todos los participantes en su pantalla sin dificultad, pero, ellos manifiestan que el video del facilitador se observa entrecortado por momentos; mientras que el video de los demás participantes se visualiza con normalidad.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes alternativas describe la velocidad de carga y descarga de la conexión a internet de la computadora del facilitador durante la reunión virtual?",
+          "opciones": [
+            "Velocidad de carga y velocidad de descarga insuficientes.",
+            "Velocidad de carga suficiente y velocidad de descarga insuficiente.",
+            "Velocidad de carga insuficiente y velocidad de descarga suficiente."
+          ],
+          "respuesta": "Velocidad de carga insuficiente y velocidad de descarga suficiente.",
+          "respuestaCorta": "El facilitador puede ver a los demás (descarga suficiente), pero los demás no pueden verlo a él (carga insuficiente), ya que él está *cargando* (subiendo) su video a internet.",
+          "solucionario": "En una videollamada: la *velocidad de descarga* (bajada) se usa para *recibir* el video de los demás participantes. El facilitador los ve bien, por lo tanto, su descarga es suficiente. La *velocidad de carga* (subida) se usa para *enviar* el propio video a los demás. Los participantes ven el video del facilitador entrecortado, lo que indica que su velocidad de carga es insuficiente.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+   
+    {
+      "idGrupo": "asc_primaria_2024_p37",
+      "contexto": "Una profesora tiene como propósito buscar información en internet acerca de dos tipos de organizadores visuales: mapa mental y mapa conceptual. La profesora necesita que el contenido de las páginas que le presente el buscador muestre una comparación de las características de estos organizadores visuales.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "De acuerdo con el propósito de la profesora, ¿cuál de las siguientes alternativas es una forma de búsqueda avanzada pertinente?",
+          "opciones": [
+            "Site:mapas.com \"mapa mental vs mapa conceptual\"",
+            "Allintitle:mapa mental vs mapa conceptual",
+            "Mapa-mental-conceptual"
+          ],
+          "respuesta": "Allintitle:mapa mental vs mapa conceptual",
+          "respuestaCorta": "El operador 'Allintitle:' restringe la búsqueda a páginas que contengan todas las palabras clave (\"mapa mental vs mapa conceptual\") en el título, lo cual es un fuerte indicador de que el contenido es una comparación directa.",
+          "solucionario": "El propósito es encontrar una *comparación*. Usar \"vs\" (versus) es una buena estrategia. El operador `Allintitle:` fuerza al buscador a mostrar solo resultados donde la frase \"mapa mental vs mapa conceptual\" aparezca en el título de la página web. Esto es mucho más específico y pertinente para encontrar un artículo comparativo que una búsqueda normal. La opción A limita la búsqueda a un solo sitio web (site:mapas.com) y la C es solo una búsqueda simple con guiones.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2024_p38_39",
+      "contexto": "Un estudiante ha elaborado el pseudocódigo de un programa que le permite estimar su ahorro anual a través del ingreso de 12 posibles propinas mensuales. Luego de ingresar las 12 posibles propinas, el programa mostrará el monto del ahorro final recaudado.\nEl pseudocódigo es el siguiente:",
+      "imagen": "img/ascenso/primaria/2024/aip/2.jpg",
+      "preguntas": [
+        {
+          "pregunta": "¿Qué tipo de estructura presenta el pseudocódigo propuesto por el estudiante?",
+          "opciones": [
+            "Lineal.",
+            "Cíclica.",
+            "Condicional."
+          ],
+          "respuesta": "Cíclica.",
+          "respuestaCorta": "El pseudocódigo utiliza la estructura \"Mientras... Fin Mientras\" para repetir un bloque de instrucciones (pedir propina, sumar al monto) 12 veces, lo cual es una estructura cíclica o repetitiva.",
+          "solucionario": "La estructura \"Mientras Contador <= 12... Fin Mientras\" (líneas 5 a 10) es un bucle o ciclo. Define un conjunto de instrucciones que se repetirán mientras una condición (que el contador sea menor o igual a 12) sea verdadera. No es lineal (porque se repite) ni condicional (aunque usa una condición para el ciclo, su estructura principal no es un Si... Entonces).",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "Para realizar el análisis del funcionamiento del pseudocódigo, la profesora plantea la siguiente pregunta al estudiante:\n\"¿Qué sucedería si se elimina la línea 8 del pseudocódigo?\".\n¿Cuál de las siguientes alternativas responde a la pregunta planteada por la profesora?",
+          "opciones": [
+            "El pseudocódigo se ejecutaría hasta \"Leer Propina\".",
+            "El pseudocódigo dejaría de ejecutarse en su totalidad.",
+            "El pseudocódigo pediría ingresar la propina del mes indefinidamente."
+          ],
+          "respuesta": "El pseudocódigo pediría ingresar la propina del mes indefinidamente.",
+          "respuestaCorta": "La línea 8 (\"Contador Contador+1\") es la que incrementa el contador. Si se elimina, el 'Contador' siempre valdrá 1, la condición \"Mientras Contador <= 12\" siempre será verdadera y el bucle se ejecutará infinitamente.",
+          "solucionario": "La línea 8 es el incremento del contador que controla el bucle \"Mientras\". Sin esta línea, la variable \"Contador\" se inicializa en 1 (línea 2) y nunca cambia su valor. Por lo tanto, la condición \"Contador <= 12\" (línea 5) siempre será verdadera, creando un bucle infinito que solicitará la propina del mes 1 una y otra vez.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2024_p40",
+      "contexto": "Augusto desarrolla un curso virtual para profesores en la plataforma Moodle, el cual considera cuatro actividades que tienen los siguientes porcentajes de la calificación final:\nActividad 1 = 15%\nActividad 2 = 25%\nActividad 3 = 20%\nActividad 4 = 40%\nSi la nota máxima para todas las calificaciones es 20, ¿cuál de las siguientes fórmulas es adecuada para hallar la calificación final en el curso virtual propuesto por Augusto?",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿cuál de las siguientes fórmulas es adecuada para hallar la calificación final en el curso virtual propuesto por Augusto?",
+          "opciones": [
+            "=[[[Actividad1]]*O.15+[[Actividad2]]*O.25+[[Actividad3]]*O.2+[[Actividad4]]*O.4",
+            "=([[Actividad1]]*15+[[Actividad2]]*25+[[Actividad3]]*2O+[[[Actividad4]]*4O)/2O",
+            "=([[Activida~d~1]]+[[Activida~d2]]+[[Activida~d3]]+[[Activida~d4]])/4"
+          ],
+          "respuesta": "=[[[Actividad1]]*O.15+[[Actividad2]]*O.25+[[Actividad3]]*O.2+[[Actividad4]]*O.4",
+          "respuestaCorta": "La fórmula correcta para un promedio ponderado es sumar la multiplicación de cada nota por su peso decimal (ej: Nota * 0.15). La opción A es la única que aplica esta lógica.",
+          "solucionario": "Para calcular una calificación final ponderada, se multiplica la nota de cada actividad por su peso porcentual expresado en decimales y luego se suman los resultados. (Nota1 * 0.15) + (Nota2 * 0.25) + (Nota3 * 0.20) + (Nota4 * 0.40). La opción A representa esta operación (asumiendo `[[ActividadX]]` es la variable de la nota y `O.` es `0.`). La opción B es incorrecta (divide por 20) y la C es un promedio simple, que no respeta los pesos.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2024_p41",
+      "contexto": "El director de una IE enviará un documento como archivo adjunto en un correo electrónico a los directivos, los profesores y los padres de familia. Al momento de enviar dicho correo, el director colocará las direcciones de correo electrónico de los destinatarios considerando la siguiente distribución:\n• Para : correos electrónicos de los directivos\n• CC : correos electrónicos de los profesores\n• CCO : correos electrónicos de los padres de familia",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes alternativas explica lo que sucederá al enviar los correos electrónicos con esa distribución?",
+          "opciones": [
+            "Los padres de familia visualizarán las cuentas de correo electrónico de los directivos y los profesores, pero no podrán visualizar las cuentas de los otros padres de familia.",
+            "Los directivos, los profesores y los padres de familia visualizarán las cuentas de correo electrónico de todos los destinatarios que recibirán el correo.",
+            "Los directivos, los profesores y los padres de familia visualizarán solamente las cuentas de correo electrónico de los directivos que recibirán el correo."
+          ],
+          "respuesta": "Los padres de familia visualizarán las cuentas de correo electrónico de los directivos y los profesores, pero no podrán visualizar las cuentas de los otros padres de familia.",
+          "respuestaCorta": "Los destinatarios en CCO (Copia de Carbón Oculta) pueden ver a los destinatarios en 'Para' y 'CC', pero permanecen ocultos para todos los demás, incluidos otros destinatarios en CCO.",
+          "solucionario": "Funcionamiento de los campos de correo:\n- **Para (Directivos):** Todos ven a los directivos.\n- **CC (Profesores):** Todos (incluidos los de CCO) ven a los profesores.\n- **CCO (Padres de familia):** Los destinatarios en 'Para' y 'CC' NO pueden ver a los padres. Un padre de familia (CCO) SÍ puede ver a los de 'Para' (Directivos) y 'CC' (Profesores), pero NO puede ver las direcciones de los otros padres que también están en CCO. La opción A describe esto correctamente.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2024_p42",
+      "contexto": "Durante una sesión de aprendizaje del área de Matemática, una profesora plantea a los estudiantes un ejercicio que consiste en el desarrollo de un pseudocódigo que permita determinar si un número entero ingresado en la computadora es par o impar.\nA continuación, se presenta el pseudocódigo desarrollado por uno de los estudiantes:",
+      "imagen": "img/ascenso/primaria/2024/aip/3.jpg",
+      "preguntas": [
+        {
+          "pregunta": "¿Qué error se evidencia en el pseudocódigo desarrollado por el estudiante?",
+          "opciones": [
+            "Intercambiar las respuestas de la condición.",
+            "Incluir el operador MOD.",
+            "Omitir un bucle."
+          ],
+          "respuesta": "Intercambiar las respuestas de la condición.",
+          "respuestaCorta": "El pseudocódigo identifica correctamente la condición para un número par (N MOD 2 = 0), pero le asigna el texto \"es un número impar\". Las respuestas están invertidas.",
+          "solucionario": "La condición `Si (N MOD 2 = 0)` (línea 4) evalúa si el residuo de la división de N entre 2 es cero. Esta condición es *verdadera* si el número es PAR. Sin embargo, el código en la línea 5 asigna `Texto = es un número impar`. De igual forma, cuando la condición es falsa (el número es impar), la línea 7 asigna `Texto = es un número par`. El estudiante intercambió las asignaciones de texto.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2024_p43",
+      "contexto": "La fuente de alimentación es un componente importante de la computadora.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes alternativas describe la función principal que cumple este componente?",
+          "opciones": [
+            "Proteger la computadora de sobrecargas durante tormentas eléctricas.",
+            "Suministrar energía eléctrica a la computadora durante cortes de servicio eléctrico.",
+            "Proveer energía eléctrica adecuada a los componentes internos de la computadora durante su uso."
+          ],
+          "respuesta": "Proveer energía eléctrica adecuada a los componentes internos de la computadora durante su uso.",
+          "respuestaCorta": "La fuente de alimentación (PSU) convierte la corriente alterna (AC) de la pared en corriente continua (DC) de bajo voltaje (12V, 5V, 3.3V) que los componentes internos necesitan.",
+          "solucionario": "La función principal de la fuente de alimentación es tomar la corriente alterna (AC) del enchufe y transformarla en las corrientes continuas (DC) y voltajes precisos (ej. 12V, 5V) que requieren la placa madre, el procesador y otros componentes. La opción B describe a un UPS (Sistema de Alimentación Ininterrumpida) y la A a un supresor de picos o estabilizador.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2024_p44",
+      "contexto": "El PIP de una IE realiza la actualización de controladores a una computadora del AIP que está funcionando correctamente. Luego, al reiniciar dicha computadora, el PIP comprueba que la carga del sistema operativo y de los aplicativos es lenta. Lo mismo ocurre después de desinstalar y reinstalar nuevamente los controladores actualizados.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes acciones debe realizar el PIP para solucionar este problema?",
+          "opciones": [
+            "Restaurar el sistema operativo de la computadora hasta antes de la actualización.",
+            "Configurar los componentes del hardware desde el administrador de dispositivos del sistema operativo.",
+            "Optimizar la unidad del disco duro donde está instalado el sistema operativo de la computadora."
+          ],
+          "respuesta": "Restaurar el sistema operativo de la computadora hasta antes de la actualización.",
+          "respuestaCorta": "Si una actualización de controladores (drivers) causa inestabilidad o lentitud, la solución estándar es revertir el sistema a un estado anterior (Punto de Restauración) antes de que se aplicara dicha actualización.",
+          "solucionario": "El problema (lentitud) comenzó inmediatamente después de la actualización de controladores. Dado que reinstalarlos no solucionó el problema, indica que los nuevos controladores son la causa de la inestibilidad. La función \"Restaurar sistema\" de Windows está diseñada precisamente para estos casos, permitiendo revertir el sistema (incluidos los controladores) a un punto guardado anteriormente, antes de que ocurriera el problema.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2024_p45",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes dispositivos de almacenamiento presenta una mayor velocidad de transferencia de datos?",
+          "opciones": [
+            "HDD SATA 3",
+            "SSD SATA M.2",
+            "SSD M.2 NVMe"
+          ],
+          "respuesta": "SSD M.2 NVMe",
+          "respuestaCorta": "Los SSD M.2 NVMe utilizan el bus PCIe, que es significativamente más rápido que la interfaz SATA 3, usada tanto por los HDD como por los SSD SATA (incluso si tienen formato M.2).",
+          "solucionario": "El orden de velocidad es: HDD SATA 3 (el más lento, disco mecánico). Luego, SSD SATA M.2 (mucho más rápido, pero limitado por la interfaz SATA 3, aprox. 550 MB/s). El más rápido es el SSD M.2 NVMe, que usa el protocolo NVMe sobre el bus PCIe, alcanzando velocidades de miles de MB/s (ej. 3500 MB/s o más).",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2024_p46",
+      "contexto": "El PIP realiza el mantenimiento preventivo a los componentes internos de una computadora del AIP. Luego, la enciende y esta presenta, en la pantalla, el siguiente mensaje: \"Dispositivo de arranque no encontrado\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes componentes de la computadora debe revisar el PIP?",
+          "opciones": [
+            "El disco duro.",
+            "La tarjeta gráfica.",
+            "La memoria RAM."
+          ],
+          "respuesta": "El disco duro.",
+          "respuestaCorta": "El error \"Dispositivo de arranque no encontrado\" significa que la computadora no puede encontrar el sistema operativo. Esto usualmente ocurre porque el disco duro (donde se aloja el SO) está desconectado o dañado.",
+          "solucionario": "Durante el mantenimiento, es probable que el PIP haya movido o desconectado accidentalmente el cable de datos (SATA) o el cable de alimentación del disco duro. Este error indica que el BIOS/UEFI no detecta una unidad con un sistema operativo para iniciar. Problemas de RAM o tarjeta gráfica generarían otros errores (pitidos, falta de video).",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2024_p47",
+      "contexto": "A diferencia de las computadoras que contaban con el componente BIOS (Basic Input Output System), actualmente, las computadoras poseen el componente UEFI (Unified Extensible Firmware Interface).",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es la función principal del componente UEFI de las computadoras?",
+          "opciones": [
+            "Verificar la inicialización de los componentes del hardware conectados a la computadora cada vez que se enciende, para luego ceder el control de estos componentes al sistema operativo instalado.",
+            "Realizar cálculos matemáticos complejos, como la aritmética de punto flotante, gráficos, entre otros, para agilizar los procesos, como apoyo al procesador principal de la computadora.",
+            "Almacenar en una memoria auxiliar, más rápida, los datos que el procesador usa con frecuencia, lo que optimiza el rendimiento de la computadora."
+          ],
+          "respuesta": "Verificar la inicialización de los componentes del hardware conectados a la computadora cada vez que se enciende, para luego ceder el control de estos componentes al sistema operativo instalado.",
+          "respuestaCorta": "UEFI, al igual que su predecesor BIOS, es el firmware que se inicia al encender la PC para realizar la autoprueba de hardware (POST) e iniciar el cargador de arranque del sistema operativo.",
+          "solucionario": "La opción A describe la función del BIOS/UEFI: realizar el POST (Power-On Self-Test) para verificar que el hardware básico (RAM, CPU, disco) esté presente y funcional, y luego buscar y ejecutar el gestor de arranque del sistema operativo. La opción B describe una GPU (Unidad de Procesamiento Gráfico) o un coprocesador, y la C describe la memoria caché del procesador.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2024_p48",
+      "contexto": "El PIP identifica que por error se ha asignado una contraseña de administrador del sistema en la configuración del BIOS de una computadora. Dicha contraseña no la conoce el PIP y, por ello, la computadora se encuentra bloqueada y el sistema operativo no inicializa. El propósito del PIP es poner operativa la computadora para que sea utilizada por los estudiantes.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes acciones debe realizar el PIP para lograr su propósito?",
+          "opciones": [
+            "Iniciar el sistema operativo de la computadora en Modo a prueba de errores.",
+            "Restablecer la configuración básica desde la tarjeta madre de la computadora.",
+            "Restaurar el sistema operativo de la computadora a una configuración anterior."
+          ],
+          "respuesta": "Restablecer la configuración básica desde la tarjeta madre de la computadora.",
+          "respuestaCorta": "Para borrar una contraseña de BIOS olvidada, se debe realizar un reseteo físico de la configuración (CMOS) en la tarjeta madre, usualmente moviendo un jumper o quitando la pila.",
+          "solucionario": "La contraseña está almacenada en el BIOS/UEFI, no en el sistema operativo. Por lo tanto, las opciones A y C (Modo a prueba de errores, Restaurar sistema) no funcionarán, ya que ni siquiera se puede iniciar el SO. La única solución es restablecer físicamente la configuración del BIOS a sus valores de fábrica, lo que borra la contraseña. Esto se hace mediante el jumper \"Clear CMOS\" o retirando temporalmente la pila (batería) de la tarjeta madre.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+  
+    {
+      "idGrupo": "asc_primaria_2024_p49_50",
+      "contexto": "La PIP de una IE ha identificado que el router de la red en el AIP permite que las computadoras se conecten a la red asignándoles un número de IP automáticamente.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "El propósito de la PIP es desactivar en el router la asignación automática de números de IP, para que la asignación de estos números de IP a todas las computadoras que se conectan a la red de la IE, sea manual.\nDe acuerdo con el propósito de la PIP, ¿cuál es la opción cuyo valor debe cambiar en la configuración del router?",
+          "opciones": [
+            "SSID",
+            "DHCP",
+            "Canal wifi"
+          ],
+          "respuesta": "DHCP",
+          "respuestaCorta": "DHCP (Dynamic Host Configuration Protocol) es el servicio del router responsable de asignar direcciones IP automáticamente. Para hacerlo manualmente, se debe desactivar el DHCP.",
+          "solucionario": "El DHCP es el protocolo que automatiza la asignación de direcciones IP, máscaras de subred y puertas de enlace a los dispositivos de una red. Si la PIP desea asignar IPs manualmente (IPs estáticas), debe desactivar el servidor DHCP en el router. SSID es el nombre de la red Wi-Fi y Canal wifi es la frecuencia que utiliza.",
+          "seccion": "Casuística"
+        },
+        {
+          "pregunta": "La PIP utilizará una de las computadoras del AIP con el propósito de ingresar al panel de configuración del router y desactivar la asignación automática de números de IP.\n¿Cuál es la acción inicial que debe realizar la PIP para ingresar al panel de configuración del router?",
+          "opciones": [
+            "Utilizar uno de los navegadores instalados en la computadora.",
+            "Utilizar el panel de control del sistema operativo de la computadora.",
+            "Utilizar la interfaz de línea de comandos del sistema operativo de la computadora."
+          ],
+          "respuesta": "Utilizar uno de los navegadores instalados en la computadora.",
+          "respuestaCorta": "Para acceder al panel de configuración de un router, se debe abrir un navegador web e ingresar la dirección IP del router (la puerta de enlace, ej: 192.168.1.1) en la barra de direcciones.",
+          "solucionario": "La gran mayoría de routers modernos se configuran a través de una interfaz web. La acción inicial es abrir un navegador (Chrome, Firefox, etc.) y escribir la dirección IP de la puerta de enlace predeterminada (usualmente 192.168.1.1 o 192.168.0.1) para cargar la página de inicio de sesión del router.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2024_p51",
+      "contexto": "Una PIP reemplazará los cables directos de conexión de las computadoras del AIP a la red. Para este trabajo, utilizará la configuración del cableado con el estándar 568B. Adicionalmente, por medidas de seguridad, creará dos cables cruzados para utilizarlos en caso de alguna situación imprevista.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es la función de los cables cruzados?",
+          "opciones": [
+            "Conectar el servidor con el módem.",
+            "Conectar las computadoras al switch.",
+            "Conectar directamente dos computadoras."
+          ],
+          "respuesta": "Conectar directamente dos computadoras.",
+          "respuestaCorta": "Un cable cruzado (crossover) se usa para conectar dos dispositivos del mismo tipo (ej. PC a PC, o switch a switch) sin un dispositivo intermediario.",
+          "solucionario": "Un cable directo (como el 568B) se usa para conectar dispositivos diferentes (PC a switch, PC a router). Un cable cruzado (que tiene los pares de transmisión y recepción invertidos en un extremo, ej. 568A en uno y 568B en otro) se usa para conectar dispositivos iguales directamente, como dos computadoras entre sí, permitiendo que se comuniquen sin necesidad de un switch.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2024_p52",
+      "contexto": "Una profesora ha guardado información en un disco duro externo con interface de conexión USB 2.0. Este disco duro presenta una partición Ext4. Al llegar a la IE, la profesora conecta el disco duro externo a una computadora, sin embargo, en esta computadora no se visualiza esta unidad.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es la causa más probable de este problema?",
+          "opciones": [
+            "El disco duro externo se ha conectado a un puerto USB 3.0.",
+            "El disco duro externo tiene un sistema de archivos incompatible.",
+            "El disco duro externo alcanzó su máxima capacidad de almacenamiento."
+          ],
+          "respuesta": "El disco duro externo tiene un sistema de archivos incompatible.",
+          "respuestaCorta": "El sistema de archivos Ext4 es nativo de Linux. Los sistemas operativos Windows, por defecto, no pueden leer particiones Ext4, por lo que la unidad no se visualizará.",
+          "solucionario": "Windows utiliza predominantemente los sistemas de archivo NTFS o FAT32/exFAT. Ext4 es el sistema de archivos estándar en distribuciones de Linux. Si la computadora de la IE usa Windows, no podrá reconocer ni montar la partición Ext4 de forma nativa. La conexión a un puerto USB 3.0 (A) no es problema, ya que es retrocompatible con 2.0. La capacidad (C) no impide que la unidad sea reconocida.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2024_p53",
+      "contexto": "Actualmente, algunos dispositivos están siendo configurados con una dirección IP pública del protocolo IPv6 en lugar del protocolo IPv4.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes alternativas explica este cambio?",
+          "opciones": [
+            "El protocolo IPv6 mejora la velocidad de transferencia de datos al asignar direcciones IP en formato de 32 bits.",
+            "El protocolo IPv6 simplifica la asignación de direcciones IP al usar la notación decimal en lugar de la notación hexadecimal.",
+            "El protocolo IPv6 resuelve la necesidad de más direcciones IP ante el incremento de dispositivos que se conectan a internet."
+          ],
+          "respuesta": "El protocolo IPv6 resuelve la necesidad de más direcciones IP ante el incremento de dispositivos que se conectan a internet.",
+          "respuestaCorta": "IPv4 (32 bits) se agotó (aprox. 4 mil millones de direcciones). IPv6 (128 bits) se creó para resolver esta escasez, ofreciendo un número astronómico de nuevas direcciones IP.",
+          "solucionario": "La principal razón para la adopción de IPv6 es el agotamiento de las direcciones IPv4. IPv4 usa 32 bits, permitiendo 2^32 direcciones. IPv6 usa 128 bits (2^128 direcciones), un espacio de direccionamiento prácticamente ilimitado para el creciente número de dispositivos conectados (IoT, smartphones, etc.). Las opciones A y B son incorrectas: IPv6 usa 128 bits (no 32) y notación hexadecimal (no decimal).",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2024_p54",
+      "contexto": "Al inicio del año escolar, el PIP ha reinstalado el sistema operativo y los aplicativos en todas las computadoras del AIP. Ahora su propósito es configurarlas para que accedan a internet mediante el router de la red local. Para identificar la puerta de enlace predeterminada que se asignará a todas las computadoras, el PIP accede al panel de configuración del router. Este panel muestra la siguiente información:",
+      "imagen": "img/ascenso/primaria/2024/aip/4.jpg",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es la información del router que se debe usar para asignar a las computadoras como puerta de enlace predeterminada?",
+          "opciones": [
+            "La dirección IP.",
+            "La dirección MAC.",
+            "La máscara de subred."
+          ],
+          "respuesta": "La dirección IP.",
+          "respuestaCorta": "La 'Puerta de enlace predeterminada' (Gateway) es la dirección IP del dispositivo (el router) que sirve como punto de salida de la red local hacia internet.",
+          "solucionario": "En una red local, la puerta de enlace predeterminada es la dirección IP del router. En este caso, la información del panel indica que la Dirección IP del router es 192.168.1.1. Esta es la dirección que las computadoras deben usar para enviar tráfico destinado a fuera de su red local (como internet).",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2024_p55",
+      "contexto": "Desde hace unos días, el acceso inalámbrico a internet en el AIP se presenta inestable y lento. El PIP utiliza un software analizador wifi e identifica que el problema se debe a la presencia de redes inalámbricas de casas vecinas, que interfieren con la red del AIP.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Desde el panel de configuración del router, ¿cuál es la acción que debe realizar el PIP para solucionar este problema?",
+          "opciones": [
+            "Configurar el firewall.",
+            "Cambiar el canal de la red wifi.",
+            "Cambiar la contraseña de acceso a la red."
+          ],
+          "respuesta": "Cambiar el canal de la red wifi.",
+          "respuestaCorta": "Cuando muchas redes Wi-Fi (como las de los vecinos) operan en el mismo canal, se produce interferencia y congestión. La solución es cambiar el router del AIP a un canal menos congestionado (ej. 1, 6 u 11).",
+          "solucionario": "El problema identificado es la *interferencia* de redes vecinas. Las redes Wi-Fi operan en diferentes canales (frecuencias). Si muchas redes usan el mismo canal, compiten por el espectro y causan lentitud e inestabilidad. Un analizador Wi-Fi muestra qué canales están más saturados. La solución es configurar el router del AIP para que use un canal que esté más libre.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2024_p56",
+      "contexto": "En el AIP de una IE, el access point está configurado para que funcione como cliente wifi. El propósito de la PIP es configurar este dispositivo para que funcione como emisor de señal wifi.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es la configuración que debe realizar la PIP en el access point para lograr su propósito?",
+          "opciones": [
+            "Habilitar la función WPS del access point.",
+            "Cambiar el valor de la opción Modo del access point.",
+            "Seleccionar el valor apropiado de la opción Security del access point."
+          ],
+          "respuesta": "Cambiar el valor de la opción Modo del access point.",
+          "respuestaCorta": "Los 'Access Point' (AP) tienen diferentes modos de operación (ej. AP, Cliente, Repetidor). Para que emita señal Wi-Fi (su función estándar), debe estar configurado en modo \"Access Point\" o \"Punto de acceso\", no en modo \"Cliente\".",
+          "solucionario": "Los dispositivos de red multifunción como los AP pueden operar en distintos modos. El \"Modo Cliente\" (Client Mode) sirve para que el dispositivo reciba Wi-Fi y lo entregue por cable (lo opuesto a lo deseado). Para que funcione como \"emisor de señal wifi\", la PIP debe cambiar la opción \"Modo\" (Operating Mode) a \"Access Point\" (Punto de Acceso). WPS (A) es un método de conexión y Security (C) es para la contraseña.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2024_p57",
+      "contexto": "Para cumplir una de sus funciones, el servidor escuela de una IE posee dos tarjetas de red, conocidas también como NIC por sus siglas en inglés (Network Interface Card).",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Por qué el servidor escuela posee dos tarjetas de red?",
+          "opciones": [
+            "Porque debe conectarse a dos redes locales de la IE usando una NIC para cada una.",
+            "Porque debe conectarse a internet mediante una de las NIC, y con la otra NIC conectarse a la red local de la IE.",
+            "Porque debe conectarse a internet mediante una de las NIC, y la otra NIC quede como respaldo en caso ocurra alguna falla."
+          ],
+          "respuesta": "Porque debe conectarse a internet mediante una de las NIC, y con la otra NIC conectarse a la red local de la IE.",
+          "respuestaCorta": "Los Servidores Escuela (como los de la estrategia JEC/Aprende en Casa) usan una NIC para conectarse a la red WAN (internet, vía el router) y la otra NIC para conectarse a la red LAN (el switch del AIP) y servir contenido localmente.",
+          "solucionario": "La arquitectura de un servidor escuela está diseñada para actuar como un intermediario o 'gateway' y para servir contenido a la red interna (LAN). Una tarjeta de red (NIC) se conecta a la red externa (WAN, internet) para descargar actualizaciones o contenido. La segunda tarjeta de red (NIC) se conecta a la red local (LAN) para distribuir ese contenido a las computadoras del AIP, funcionando como servidor DHCP y DNS para la red interna.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2024_p58",
+      "contexto": "Un usuario ha detectado que su servicio de internet se presenta inestable y lento. Él tiene la sospecha de que usuarios no autorizados están accediendo a internet por medio de su servicio.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Para brindar un mayor nivel de seguridad frente a accesos no autorizados, ¿cuál de las siguientes alternativas se debe configurar en el router?",
+          "opciones": [
+            "Filtrado de direcciones IP.",
+            "Filtrado de dominios web.",
+            "Filtrado de direcciones MAC."
+          ],
+          "respuesta": "Filtrado de direcciones MAC.",
+          "respuestaCorta": "El filtrado de direcciones MAC permite crear una \"lista blanca\" en el router, de modo que solo los dispositivos cuya dirección MAC (identificador físico único) esté en la lista puedan conectarse a la red.",
+          "solucionario": "Para evitar que usuarios no autorizados accedan a la red (probablemente Wi-Fi), la medida de seguridad más efectiva (además de una contraseña WPA2/WPA3 fuerte) es el filtrado MAC. Cada dispositivo (laptop, celular) tiene una dirección MAC única. El filtrado MAC permite al router bloquear a todas las MAC excepto a las autorizadas (lista blanca), impidiendo que dispositivos extraños se conecten, aunque tengan la contraseña.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2024_p59",
+      "contexto": "Las frecuentes bajas de tensión eléctrica ocasionan que, en varias oportunidades, la computadora de un usuario se apague.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes dispositivos eléctricos brindará mayor protección a la computadora del usuario en el caso descrito?",
+          "opciones": [
+            "Estabilizador de corriente eléctrica.",
+            "Supresor de picos.",
+            "Dispositivo UPS."
+          ],
+          "respuesta": "Dispositivo UPS.",
+          "respuestaCorta": "Un UPS (Uninterruptible Power Supply) contiene una batería que provee energía temporal durante cortes o bajas de tensión, evitando que la PC se apague abruptamente.",
+          "solucionario": "El problema es que la PC \"se apaga\" debido a \"bajas de tensión\". Un estabilizador (A) y un supresor de picos (B) protegen contra *altos* voltajes o fluctuaciones, pero no pueden hacer nada si el voltaje baja demasiado o se corta. Un UPS (Sistema de Alimentación Ininterrumpida) sí puede, ya que activa su batería interna instantáneamente para mantener la computadora encendida por unos minutos, permitiendo un apagado seguro.",
+          "seccion": "Casuística"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_primaria_2024_p60",
+      "contexto": "Una PIP accede mediante un navegador al sitio web de su IE y advierte que, al costado del URL que ingresó en la barra de direcciones, se visualiza el mensaje \"No es seguro\". El propósito de la PIP es que en futuras visitas al sitio web de su IE, el mensaje a mostrarse, en lugar del que se muestra actualmente, sea \"Sitio seguro\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es la acción tecnológica que debe realizar la PIP para lograr su propósito?",
+          "opciones": [
+            "Habilitar la certificación SSL para el sitio web de la IE.",
+            "Configurar la autenticación del visitante cuando ingresa al sitio web.",
+            "Eliminar las cookies y archivos temporales de la computadora que usa."
+          ],
+          "respuesta": "Habilitar la certificación SSL para el sitio web de la IE.",
+          "respuestaCorta": "El mensaje \"No es seguro\" indica que el sitio usa HTTP. Para que muestre \"Sitio seguro\" (y un candado), el sitio debe usar HTTPS, lo cual requiere instalar un Certificado SSL (Secure Sockets Layer) en el servidor.",
+          "solucionario": "Los navegadores marcan como \"No es seguro\" a los sitios web que no cifran la conexión, es decir, que usan el protocolo `http://`. Para obtener la marca de \"Sitio seguro\" y usar el protocolo `https://`, el propietario del sitio web (la PIP, en este caso) debe adquirir e instalar un Certificado SSL en el hosting del sitio. Esto cifra la comunicación entre el navegador del visitante y el servidor.",
+          "seccion": "Casuística"
+        }
+      ]
+    }
+  ]
+}
+  

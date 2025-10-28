@@ -1182,5 +1182,57 @@
     "archivos": {
       "especifico": "data/ascenso/secundaria/2024/ascenso_arte2024.json"
     }
+  },
+  {
+    "id": 103,
+    "proceso": "Ascenso",
+    "anio": 2024,
+    "nivel": "Secundaria",
+    "especialidad": "Educación para el Trabajo (EPT)",
+    "modalidad": "EBR",
+    "preguntas": 60,
+    "tiempo": 180,
+    "archivos": {
+      "especifico": "data/ascenso/secundaria/2024/ascenso_ept2024.json"
+    }
+  },
+  {
+    "id": 104,
+    "proceso": "Ascenso",
+    "anio": 2024,
+    "nivel": "Primaria",
+    "especialidad": "Innovación Pedagógica (AIP)",
+    "modalidad": "EBR",
+    "preguntas": 60,
+    "tiempo": 180,
+    "archivos": {
+      "especifico": "data/ascenso/primaria/2024/ascenso_aip2024.json"
+    }
+  },
+  {
+    "id": 105,
+    "proceso": "Ascenso",
+    "anio": 2024,
+    "nivel": "Secundaria",
+    "especialidad": "Innovación Pedagógica (AIP)",
+    "modalidad": "EBR",
+    "preguntas": 60,
+    "tiempo": 180,
+    "archivos": {
+      "especifico": "data/ascenso/secundaria/2024/ascenso_aip2024.json"
+    }
+  },
+  {
+    "id": 106,
+    "proceso": "Ascenso",
+    "anio": 2024,
+    "nivel": "Primaria",
+    "especialidad": "Educación Física ",
+    "modalidad": "EBR",
+    "preguntas": 60,
+    "tiempo": 180,
+    "archivos": {
+      "especifico": "data/ascenso/primaria/2024/ascenso_edufisica2024.json"
+    }
   }
 ]
