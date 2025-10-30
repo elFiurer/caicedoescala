@@ -104,12 +104,12 @@ document.addEventListener('DOMContentLoaded', () => {
     const limpiarComillas = (texto) => {
         if (!texto) return '';
         return texto
-            .trim()
-            .replace(/["""''«»\\]/g, '')  // Elimina comillas y backslashes
-            .replace(/\.+$/g, '')          // Elimina puntos finales
+            .trim()                        // Elimina espacios al inicio y final
+            .replace(/["""''«»\\]/g, '')   // Elimina comillas y backslashes
+            .replace(/[.,;:!?]+$/g, '')    // Elimina puntos, comas, etc. al final
             .replace(/[\n\r]+/g, ' ')      // Convierte saltos de línea en espacios
-            .replace(/\s+/g, ' ')          // Normaliza espacios (SIN la barra extra)
-            .trim();
+            .replace(/\s+/g, ' ')          // Normaliza múltiples espacios en uno solo
+            .trim();                        // Elimina espacios finales otra vez
     };
     const sanitizarHTML = (texto) => {
         if (!texto) return '';
@@ -1606,7 +1606,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 photoURL: '' // Puedes poner una URL a una imagen por defecto si quieres
             };
         }
-
+        currentUser = effectiveUser;
         // A partir de aquí, toda la lógica se basa en si tenemos un "usuario efectivo" (real o falso).
         if (effectiveUser) {
             // --- ESTE BLOQUE AHORA SE EJECUTA PARA USUARIOS REALES Y PARA EL MODO DE PRUEBA ---
