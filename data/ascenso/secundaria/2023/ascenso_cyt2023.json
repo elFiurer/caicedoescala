@@ -193,11 +193,8 @@
         }
       ]
     },
-
-  
     {
       "idGrupo": "asc_secundaria_2023_p12",
-      
       "imagen": null,
       "preguntas": [
         {
@@ -240,8 +237,8 @@
       "preguntas": [
         {
           "contexto": "A continuación, se presenta una de las actividades realizadas con los estudiantes: ",
-          "imagen":"img/ascenso/secundaria/2023/cyt/6.jpg",
-          "pregunta":"Considerando que los gases se comportan de manera ideal, ¿cuál es el error que se evidencia en la respuesta del estudiante?",
+          "imagen": "img/ascenso/secundaria/2023/cyt/6.jpg",
+          "pregunta": "Considerando que los gases se comportan de manera ideal, ¿cuál es el error que se evidencia en la respuesta del estudiante?",
           "opciones": [
             "Creer que la presión ejercida por los gases en los globos es proporcional a su masa molar.",
             "Creer que las sustancias contenidas en los globos tienen diferente masa molar.",
@@ -297,9 +294,9 @@
             "Creer que los gases nobles abundan en la naturaleza.",
             "Creer que los gases nobles son inodoros."
           ],
-          "respuesta": "Creer que los gases nobles presentan color.",
-          "respuestaCorta": "El error de Felipe es afirmar que los gases nobles tienen color por sí mismos. En realidad, son incoloros y solo emiten luz coloreada al ser excitados por una corriente eléctrica.",
-          "solucionario": "Los gases nobles en su estado natural son incoloros. El color característico de las 'luces de neón' no es una propiedad inherente del gas, sino el resultado de la emisión de luz cuando los átomos del gas son excitados por una descarga eléctrica de alto voltaje. El error de Felipe es atribuirles color como una característica intrínseca.",
+          "respuesta": "Creer que los gases nobles abundan en la naturaleza.",
+          "respuestaCorta": "El error de Felipe es afirmar que algunos gases nobles abundan en la naturaleza, cuando en realidad son relativamente escasos (aunque no tanto como se creía originalmente).",
+          "solucionario": "Felipe comete un error al afirmar categóricamente que 'ahora se sabe que algunos de ellos abundan'. Si bien es cierto que algunos gases nobles como el argón tienen una presencia relativamente mayor en la atmósfera comparado con otros gases nobles, en términos generales estos gases siguen siendo considerablemente menos abundantes que otros elementos comunes. El término 'gases raros' originalmente se refería a su escasez, y aunque se han encontrado en mayor cantidad de lo que se pensaba inicialmente, no es correcto decir que 'abundan' en la naturaleza.",
           "seccion": "Casuística"
         },
         {
@@ -322,8 +319,8 @@
       "imagen": "img/ascenso/secundaria/2023/cyt/7.jpg",
       "preguntas": [
         {
-         "imagen":"img/ascenso/secundaria/2023/cyt/8.jpg",
-            "pregunta": "Pablo, uno de los integrantes del equipo, muestra a la docente el procedimiento que ha realizado para determinar las calorías en un solo grano de maní:  ¿Cuál es el error que se evidencia en el procedimiento realizado por el estudiante?",
+          "imagen": "img/ascenso/secundaria/2023/cyt/8.jpg",
+          "pregunta": "Pablo, uno de los integrantes del equipo, muestra a la docente el procedimiento que ha realizado para determinar las calorías en un solo grano de maní:  ¿Cuál es el error que se evidencia en el procedimiento realizado por el estudiante?",
           "opciones": [
             "Emplear la masa del grano de maní.",
             "Incluir la variación de la temperatura del agua.",
@@ -398,8 +395,6 @@
         }
       ]
     },
-
-    
     {
       "idGrupo": "asc_secundaria_2023_p25",
       "contexto": "Bety y Carmen viajan en un automóvil por una autopista recta y se mantienen en un mismo\ncarril. El automóvil tiene un instrumento que indica la rapidez con la que este se desplaza\nen cada instante. Al costado de la autopista, de manera paralela a esta, se encuentra una hilera de postes.\nLos postes están distanciados 10 m entre sí. Bety y Carmen deciden descansar y estacionan\nel automóvil justo a la altura de uno de los postes de la hilera. Luego de retomar el viaje,\nBety le empieza a escribir un mensaje de texto a su mamá para decirle en qué autopista\nse encuentra y que está viajando hacia el oeste. Para el momento en el que Bety envía el\nmensaje a su mamá, el automóvil ya avanzó 5 postes (tras pasar el primero).",
@@ -600,8 +595,6 @@
         }
       ]
     },
-
-   
     {
       "idGrupo": "asc_secundaria_2023_p37",
       "contexto": "Una docente se encuentra desarrollando una unidad didáctica sobre el cuidado de la salud.\nComo parte de una de las sesiones, la docente comenta que, de acuerdo con la Organización\nMundial de la Salud, el consumo máximo recomendado de sodio para los adultos es 2 g/día.\nLuego, presenta a los estudiantes la siguiente tabla:",
@@ -795,18 +788,14 @@
         }
       ]
     },
-
- 
     {
       "idGrupo": "asc_secundaria_2023_p48",
-      
-      
       "preguntas": [
         {
-          "contexto":"En una siguiente sesión de aprendizaje, la docente solicita a los estudiantes que representen\nla notación de Lewis para el compuesto cloruro de sodio. Francisco, uno de los estudiantes,\nescribe la siguiente respuesta:",
-            "pregunta": "\n¿Cuál es el error que se evidencia en la respuesta del estudiante?",
+          "contexto": "En una siguiente sesión de aprendizaje, la docente solicita a los estudiantes que representen\nla notación de Lewis para el compuesto cloruro de sodio. Francisco, uno de los estudiantes,\nescribe la siguiente respuesta:",
+          "pregunta": "\n¿Cuál es el error que se evidencia en la respuesta del estudiante?",
           "imagen": "img/ascenso/secundaria/2023/cyt/15.jpg",
-            "opciones": [
+          "opciones": [
             "Representar al sodio y al cloro como iones.",
             "Representar al sodio en el cloruro de sodio con 1 punto.",
             "Representar al cloro en el cloruro de sodio con 8 puntos."
@@ -880,8 +869,8 @@
         },
         {
           "contexto": "En otra de las sesiones de aprendizaje de la unidad, la docente realiza la siguiente actividad\ncon los estudiantes:",
-          "imagen":"img/ascenso/secundaria/2023/cyt/16.jpg",
-          "pregunta":"A continuación, se muestran las respuestas de tres estudiantes. ¿Cuál de los siguientes estudiantes responde correctamente la pregunta planteada por la docente?",
+          "imagen": "img/ascenso/secundaria/2023/cyt/16.jpg",
+          "pregunta": "A continuación, se muestran las respuestas de tres estudiantes. ¿Cuál de los siguientes estudiantes responde correctamente la pregunta planteada por la docente?",
           "opciones": [
             "Aron dice: \"El plomo no supera el estándar de calidad en el agua potable\".",
             "Braulio dice: \"El zinc no supera el estándar de calidad en el agua potable\".",
@@ -913,8 +902,8 @@
         },
         {
           "contexto": "Los estudiantes necesitan seleccionar el indicador de pH pertinente para realizar la titulación.\nA continuación, se presentan las siguientes opciones de indicadores con las que cuentan los\nestudiantes: ",
-          "imagen":"img/ascenso/secundaria/2023/cyt/17.jpg",
-          "pregunta":"\n¿Cuál de los indicadores de la tabla deben seleccionar los estudiantes?",
+          "imagen": "img/ascenso/secundaria/2023/cyt/17.jpg",
+          "pregunta": "\n¿Cuál de los indicadores de la tabla deben seleccionar los estudiantes?",
           "opciones": [
             "Azul de timol.",
             "Naranja de metilo.",
@@ -970,7 +959,7 @@
         },
         {
           "pregunta": "¿Cuál de los siguientes gráficos es una representación adecuada de los gases al interior del\nsistema cuando termina la reacción planteada por los estudiantes en su indagación?",
-          "imagen":"img/ascenso/secundaria/2023/cyt/18.jpg",
+          "imagen": "img/ascenso/secundaria/2023/cyt/18.jpg",
           "opciones": [
             "a",
             "b",
@@ -985,4 +974,3 @@
     }
   ]
 }
-  

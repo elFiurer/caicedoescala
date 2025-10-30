@@ -214,10 +214,8 @@
         }
       ]
     },
-    
     {
       "idGrupo": "asc_secundaria_2024_p13",
-      
       "imagen": null,
       "preguntas": [
         {
@@ -422,7 +420,6 @@
         }
       ]
     },
-  
     {
       "idGrupo": "asc_secundaria_2024_p25",
       "contexto": "Victor's third-grade students have written a text in which they give advice to a friend.\nNow,\nthe teacher is correcting the students' texts. Here is a comment he has written in one of the\nstudents' texts:\n\"This is a great text. You have included really useful pieces of advice to help your friend\nsolve a problem. However, you could have used more of the expressions to give advice\nwe studied in our previous sessions.\"",
@@ -637,7 +634,6 @@
         }
       ]
     },
-  
     {
       "idGrupo": "asc_secundaria_2024_p37",
       "contexto": null,
@@ -804,7 +800,6 @@
     },
     {
       "idGrupo": "asc_secundaria_2024_p46",
-      
       "imagen": "img/ascenso/secundaria/2024/ingles/5.jpg",
       "preguntas": [
         {
@@ -814,9 +809,9 @@
             "wanting",
             "looking"
           ],
-          "respuesta": "looking",
-          "respuestaCorta": "La expresión (phrasal verb) 'looking for' significa 'buscando'. En el contexto, 'you might be looking for anything' (podrías estar buscando cualquier cosa) para curarte.",
-          "solucionario": "El espacio (46) requiere un verbo que, junto con 'for', signifique 'buscar'. El phrasal verb 'to look for' (buscar) es el adecuado. 'Finding' (encontrar) no encaja. 'Wanting' (querer) no usa 'for' de esa manera.",
+          "respuesta": "wanting",
+          "respuestaCorta": "'Wanting' junto con 'for' en la frase 'you might be wanting for anything' indica 'estar necesitando' o 'carecer de algo', en el contexto de buscar una cura.",
+          "solucionario": "En el contexto del texto sobre remedios para el resfriado, el espacio (46) requiere un verbo que junto con 'for' exprese la idea de necesitar o buscar algo. 'Wanting for' significa 'carecer de' o 'necesitar'. 'Looking for' (buscar) sería otra opción, pero 'wanting' encaja mejor con el tono del texto que sugiere qué podrías estar necesitando. 'Finding' (encontrar) no se usa con 'for' de esta manera.",
           "seccion": "CLOZE"
         },
         {
@@ -845,10 +840,8 @@
         }
       ]
     },
-  
     {
       "idGrupo": "asc_secundaria_2024_p49",
-      
       "imagen": null,
       "preguntas": [
         {
@@ -924,8 +917,8 @@
           "seccion": "CLOZE"
         },
         {
-          "imagen":"img/ascenso/secundaria/2024/ingles/6.jpg",
-            "pregunta": "55",
+          "imagen": "img/ascenso/secundaria/2024/ingles/6.jpg",
+          "pregunta": "55",
           "opciones": [
             "grant",
             "hand",
@@ -1000,4 +993,3 @@
     }
   ]
 }
-  

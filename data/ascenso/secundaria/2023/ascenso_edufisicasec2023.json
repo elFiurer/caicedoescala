@@ -62,9 +62,9 @@
             "Poder animal.",
             "Los aeropuertos."
           ],
-          "respuesta": "Los chasquis.",
-          "respuestaCorta": "Es un juego cooperativo porque los miembros de un mismo equipo deben colaborar para lograr el objetivo común de ganar el relevo.",
-          "solucionario": "Aunque compiten contra otro equipo, la dinámica interna de 'Los chasquis' (un juego de relevos) es puramente cooperativa. El éxito depende de la coordinación y el esfuerzo conjunto de todos los integrantes del equipo, lo que lo define como un juego de colaboración-oposición, siendo la colaboración el elemento clave dentro del grupo.",
+          "respuesta": "Poder animal.",
+          "respuestaCorta": "Poder animal desarrolla la expresión corporal porque los estudiantes imitan movimientos de diferentes animales, usando su cuerpo para representar y expresar características distintivas.",
+          "solucionario": "La expresión corporal se refiere a la capacidad de comunicar emociones, ideas o conceptos a través del movimiento del cuerpo. En 'Poder animal', los estudiantes imitan los desplazamientos y comportamientos de distintos animales (mono, serpiente, águila), lo que implica explorar y expresar con todo su cuerpo diferentes formas de movimiento, desarrollando así su capacidad expresiva y creativa.",
           "seccion": "Conocimientos Disciplinares"
         },
         {
@@ -200,8 +200,6 @@
         }
       ]
     },
-
-    
     {
       "idGrupo": "asc_edfisica_2023_p13-14",
       "contexto": "Las acciones tácticas son las maniobras que realiza el deportista ante una situación de oposición durante un juego o prueba. Durante una acción táctica, el deportista opta entre diferentes alternativas de acción con el propósito de superar a su oponente.",
@@ -416,8 +414,6 @@
         }
       ]
     },
-
-
     {
       "idGrupo": "asc_edfisica_2023_p25-31",
       "contexto": "La docente y los estudiantes están trabajando con bandas elásticas circulares de 4 metros. Han realizado ejercicios de estiramiento venciendo la resistencia de las bandas.",
@@ -590,8 +586,6 @@
         }
       ]
     },
-
-  
     {
       "idGrupo": "asc_edfisica_2023_p37-38",
       "contexto": "Durante una sesión de aprendizaje, los estudiantes están aprendiendo el deporte del sóftbol.",
@@ -757,8 +751,6 @@
         }
       ]
     },
-
-  
     {
       "idGrupo": "asc_edfisica_2023_p49-51",
       "contexto": "En plenaria, la docente y los estudiantes continúan conversando sobre sus hábitos alimenticios y nutrición.",
@@ -933,4 +925,3 @@
     }
   ]
 }
-  

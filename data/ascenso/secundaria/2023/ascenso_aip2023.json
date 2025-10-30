@@ -778,17 +778,15 @@
                     "seccion": "Conocimientos de la Especialidad"
                 },
                 {
-                    "contexto": "A continuación, se muestra el código HTML de la página web elaborada por los estudiantes: ",
-                    "imagen":"img/ascenso/secundaria/2023/aip/2.jpg",
-                    "pregunta":"\nLuego de visualizar el resultado, los estudiantes tienen como propósito que el título \"La\ncontaminación ambiental\" presente mayor tamaño de letra que el que muestra actualmente.\n¿Cuál es el código HTML que deben usar los estudiantes para lograr su propósito?",
+                    "pregunta": "\nLuego de visualizar el resultado, los estudiantes tienen como propósito que el título \"La\ncontaminación ambiental\" presente mayor tamaño de letra que el que muestra actualmente.\n¿Cuál es el código HTML que deben usar los estudiantes para lograr su propósito?",
                     "opciones": [
                         "&lt;title&gt;La contaminación ambiental&lt;/title&gt;",
                         "&lt;h3&gt;La contaminación ambiental&lt;/h3&gt;",
                         "&lt;h1&gt;La contaminación ambiental&lt;/h1&gt;"
                     ],
-                    "respuesta": "<h1>La contaminación ambiental</h1>",
-                    "respuestaCorta": "En HTML, la etiqueta `<h1>` representa el encabezado de mayor nivel jerárquico y, por defecto, el de mayor tamaño. Para aumentar el tamaño de un `<h2>`, se debe usar `<h1>`.",
-                    "solucionario": "Las etiquetas de encabezado en HTML (`<h1>` a `<h6>`) definen una jerarquía. `<h1>` es el encabezado principal y más importante, y los navegadores lo muestran con el tamaño de fuente más grande por defecto. El código original usa `<h2>`. Para que el título sea más grande, se debe utilizar una etiqueta de un nivel jerárquico superior, en este caso, `<h1>`. La etiqueta `<title>` define el título en la pestaña del navegador, no en el cuerpo de la página.",
+                    "respuesta": "&lt;h1&gt;La contaminación ambiental&lt;/h1&gt;",
+                    "respuestaCorta": "La etiqueta <h1> es el encabezado de nivel 1 en HTML, que por defecto se muestra con el tamaño de letra más grande entre los encabezados.",
+                    "solucionario": "En HTML, las etiquetas de encabezado van de <h1> a <h6>, donde <h1> es el más grande y <h6> el más pequeño. Para aumentar el tamaño del título, los estudiantes deben usar <h1>. La etiqueta <title> no se visualiza en el cuerpo de la página, sino que aparece en la pestaña del navegador.",
                     "seccion": "Conocimientos de la Especialidad"
                 },
                 {
@@ -1056,10 +1054,9 @@
             "imagen": null,
             "preguntas": [
                 {
-                    
                     "contexto": "Uno de los pseudocódigos que presenta el PIP a los participantes es el siguiente:",
-                    "imagen":"img/ascenso/secundaria/2023/aip/3.jpg",
-                    "pregunta":"\nA continuación, se muestran las respuestas de tres profesores. ¿Cuál de ellos identifica la ubicación del error en el pseudocódigo presentado?",
+                    "imagen": "img/ascenso/secundaria/2023/aip/3.jpg",
+                    "pregunta": "\nA continuación, se muestran las respuestas de tres profesores. ¿Cuál de ellos identifica la ubicación del error en el pseudocódigo presentado?",
                     "opciones": [
                         "Ana dice: \"El error se encuentra en la línea 5\".",
                         "Benito dice: \"El error se encuentra en la línea 6\".",
@@ -1072,8 +1069,8 @@
                 },
                 {
                     "contexto": "Luego, el PIP presenta a los participantes el siguiente pseudocódigo:",
-                    "imagen":"img/ascenso/secundaria/2023/aip/4.jpg",
-                    "pregunta":"A continuación, se muestran las respuestas de tres profesores. ¿Cuál de ellos identifica la ubicación del error en el pseudocódigo presentado y lo corrige?",
+                    "imagen": "img/ascenso/secundaria/2023/aip/4.jpg",
+                    "pregunta": "A continuación, se muestran las respuestas de tres profesores. ¿Cuál de ellos identifica la ubicación del error en el pseudocódigo presentado y lo corrige?",
                     "opciones": [
                         "Andrés dice: \"El error se encuentra en la línea 6, a la variable m se le debe asignar el valor 12 en lugar del valor 1\".",
                         "Beatriz dice: \"El error se encuentra en la línea 7, la condición m<=12 debe ser cambiada por la condición m>=12\".",

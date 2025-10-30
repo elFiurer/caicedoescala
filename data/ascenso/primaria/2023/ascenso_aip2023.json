@@ -786,7 +786,7 @@
                         "&lt;h3&gt;La contaminación ambiental&lt;/h3&gt;",
                         "&lt;h1&gt;La contaminación ambiental&lt;/h1&gt;"
                     ],
-                    "respuesta": "<h1>La contaminación ambiental</h1>",
+                    "respuesta": "&lt;h1&gt;La contaminación ambiental&lt;/h1&gt;",
                     "respuestaCorta": "En HTML, las etiquetas de encabezado van de `<h1>` a `<h6>`. `<h1>` representa el nivel más alto de importancia y, por defecto, se visualiza con el tamaño de fuente más grande.",
                     "solucionario": "Las etiquetas de encabezado en HTML (`<h1>`, `<h2>`, etc.) definen una jerarquía de títulos. `<h1>` es el encabezado principal y más importante, y los navegadores lo muestran con el tamaño de letra más grande por defecto. El código actual usa `<h2>`. Para aumentar tanto el tamaño visual como la importancia semántica del título, se debe cambiar la etiqueta `<h2>` por la etiqueta `<h1>`.",
                     "seccion": "Conocimientos Disciplinares"
@@ -1057,8 +1057,8 @@
             "preguntas": [
                 {
                     "contexto": "Uno de los pseudocódigos que presenta el PIP a los participantes es el siguiente:",
-                    "imagen":"img/ascenso/primaria/2023/aip/3.jpg",
-                    "pregunta":"A continuación, se muestran las respuestas de tres profesores. ¿Cuál de ellos identifica la ubicación del error en el pseudocódigo presentado?",
+                    "imagen": "img/ascenso/primaria/2023/aip/3.jpg",
+                    "pregunta": "A continuación, se muestran las respuestas de tres profesores. ¿Cuál de ellos identifica la ubicación del error en el pseudocódigo presentado?",
                     "opciones": [
                         "Ana dice: \"El error se encuentra en la línea 5\".",
                         "Benito dice: \"El error se encuentra en la línea 6\".",
@@ -1071,8 +1071,8 @@
                 },
                 {
                     "contexto": "Luego, el PIP presenta a los participantes el siguiente pseudocódigo:",
-                    "imagen":"img/ascenso/primaria/2023/aip/4.jpg",
-                    "pregunta":"A continuación, se muestran las respuestas de tres profesores. ¿Cuál de ellos identifica la ubicación del error en el pseudocódigo presentado y lo corrige?",
+                    "imagen": "img/ascenso/primaria/2023/aip/4.jpg",
+                    "pregunta": "A continuación, se muestran las respuestas de tres profesores. ¿Cuál de ellos identifica la ubicación del error en el pseudocódigo presentado y lo corrige?",
                     "opciones": [
                         "Andrés dice: \"El error se encuentra en la línea 6, a la variable m se le debe asignar el valor 12 en lugar del valor 1\".",
                         "Beatriz dice: \"El error se encuentra en la línea 7, la condición m<=12 debe ser cambiada por la condición m>=12\".",

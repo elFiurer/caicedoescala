@@ -221,8 +221,6 @@
         }
       ]
     },
-
-    
     {
       "idGrupo": "asc_inicial_2024_p13",
       "contexto": "Jorge, de cinco años, está construyendo una granja con animales de juguete. Al ver a la docente, el niño le muestra un grupo de animales de tamaños similares, en el que hay 7 ovejas y 6 chanchos dispersos sobre la mesa. Entonces, la docente le pregunta si hay la misma cantidad de ovejas que de chanchos. Jorge cuenta una a una las ovejas y encuentra que hay 7; al contar los chanchos, cuenta un mismo chancho 2 veces. Al terminar de contar, Jorge responde: \"Hay la misma cantidad\".",
@@ -349,9 +347,9 @@
             "Pedir a los niños que sirvan ellos mismos dos cucharones de limonada en recipientes de diferente forma y tamaño, para que comprueben que estos tienen la misma cantidad de líquido.",
             "Hacer una demostración con vasos medidores para que los niños observen que en recipientes de diferente forma y tamaño puede haber la misma cantidad de líquido."
           ],
-          "respuesta": "Pedir a los niños que sirvan ellos mismos dos cucharones de limonada en recipientes de diferente forma y tamaño, para que comprueben que estos tienen la misma cantidad de líquido.",
-          "respuestaCorta": "Para favorecer la indagación, la docente debe promover que los propios niños realicen la experimentación directa para comprobar o refutar sus ideas, en este caso, sobre la conservación de la cantidad.",
-          "solucionario": "La opción B es la más pertinente porque involucra a los niños directamente en la experimentación para resolver el problema cognitivo que se ha presentado (la conservación de la cantidad de líquido). Al ser ellos mismos quienes vierten la misma cantidad en recipientes diferentes, pueden comprobar de manera activa y concreta que la percepción visual puede ser engañosa. La opción A es juego libre y la C es una demostración de la docente, ambas menos efectivas para que los niños construyan su propio conocimiento a partir de la acción.",
+          "respuesta": "Poner una tina con agua y diversos objetos, como embudos, botellas vacías y vasos de diferentes formas y tamaños, para que los niños jueguen trasvasando agua de un recipiente a otro.",
+          "respuestaCorta": "La iniciación en la indagación científica en educación inicial se favorece mejor con la exploración libre y el juego, donde los niños descubren por sí mismos las propiedades de los objetos mediante la manipulación directa.",
+          "solucionario": "La opción A es la más pertinente porque promueve la exploración libre y la experimentación autónoma, características fundamentales de la indagación científica en inicial. Al trasvasar agua libremente entre recipientes de diferentes formas, los niños construyen sus propias hipótesis y descubrimientos sobre el volumen y las cantidades a través del juego. La opción B es más directiva y busca demostrar un concepto específico. La C es una demostración que limita la participación activa del niño.",
           "seccion": "Casuística"
         }
       ]
@@ -444,8 +442,6 @@
         }
       ]
     },
-
-
     {
       "idGrupo": "asc_inicial_2024_p25",
       "contexto": "En el aula de cinco años es el momento del refrigerio. Fernanda y Luis se disponen a comer lo que trajeron. Entonces, se produce el siguiente diálogo:\nFernanda dice: \"Luis, el plátano que vas a comer está malogrado. ¡No lo comas!\".\nLuis dice: \"No, está bien..., mira Fernanda\" (Mientras Luis pela la fruta).\n(Luis se come la fruta)\nLuis dice: \"Estaba rico y dulce\".\nDocente dice: (La docente, que escuchó el diálogo, se acerca). \"¿Por qué le decías a Luis que no coma el plátano?\".\nFernanda dice: \"Porque su cáscara tenía manchas marrones\".\nLuis dice: \"Pero cuando lo pelé vi que estaba bien, por eso lo comí\".\nDocente dice: \"¿Y si averiguamos cómo podemos darnos cuenta si un plátano se puede comer o está malogrado?\".\nAmbos dicen: \"¡¡Sí!!\".\nDocente dice: \"Niños, que les parece si luego del refrigerio nos ponemos de acuerdo para averiguarlo\".",
@@ -667,8 +663,6 @@
         }
       ]
     },
-
-   
     {
       "idGrupo": "asc_inicial_2024_p37",
       "contexto": "La docente del aula de cinco años observa que, últimamente, en el momento del juego libre en los sectores, varios niños se quitan los materiales. Esto sucede a pesar de que en el aula hay suficientes materiales para que todos jueguen. Hoy, en asamblea, abordan esta situación. En el diálogo, la docente pregunta a los niños por qué ocurre ese hecho. Después de escucharlos, ella comprende que los niños quieren usar los mismos materiales. Ante esto, la docente les pide buscar soluciones. Al momento de plantear las propuestas de solución, un niño dice: \"El que quita los materiales, que salga del salón\"; otro niño propone: \"Mejor, que no coma su lonchera\".",
@@ -897,8 +891,6 @@
         }
       ]
     },
-
- 
     {
       "idGrupo": "asc_inicial_2024_p49",
       "contexto": "Ana, de cuatro años, por primera vez ha escrito su nombre en casa, y ha llevado al aula su escrito. Ana se acerca a la docente y le dice: \"Señorita, iya sé escribir mi nombre! ¡Mira, aquí dice 'Ana'!\", mientras señala el siguiente escrito:",
@@ -1101,4 +1093,3 @@
     }
   ]
 }
-  

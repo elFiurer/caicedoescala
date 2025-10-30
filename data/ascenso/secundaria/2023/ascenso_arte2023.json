@@ -179,8 +179,6 @@
         }
       ]
     },
-
- 
     {
       "idGrupo": "asc_secundaria_2023_p12",
       "contexto": "Una docente sabe que los estudiantes disfrutan mucho de ver películas.\nLa docente desea aprovechar este interés para promover que los estudiantes profundicen su visión de la música en el cine tomando en cuenta el enfoque multicultural e interdisciplinario.\nPara enriquecer la perspectiva de los estudiantes, la docente planifica una experiencia de aprendizaje en el Aula de Innovación Pedagógica, en la que los estudiantes apreciarán cómo artistas de diferentes culturas manifiestan su identidad a través de la música en diversas producciones cinematográficas.",
@@ -346,8 +344,6 @@
         }
       ]
     },
-
-  
     {
       "idGrupo": "asc_secundaria_2023_p25",
       "contexto": null,
@@ -369,12 +365,11 @@
     },
     {
       "idGrupo": "asc_secundaria_2023_p26",
-      
       "imagen": "img/ascenso/secundaria/2023/arte/2.jpg",
       "preguntas": [
         {
           "pregunta": "¿Cuál de las siguientes capacidades es la que menos se desarrolla con la dinámica descrita?",
-          "opción": [
+          "opciones": [
             "Atención y concentración.",
             "Comunicación no verbal.",
             "Memoria corporal."
@@ -517,9 +512,9 @@
             "En la notación de los sonidos que están contenidos dentro de una partitura.",
             "En el análisis de las armonías que figuran en una partitura."
           ],
-          "respuesta": "En la reproducción vocal de las notas y ritmos escritos en una partitura.",
-          "respuestaCorta": "El solfeo es la práctica de leer una partitura cantando las notas con su nombre correspondiente mientras se mantiene el ritmo indicado.",
-          "solucionario": "El solfeo es una técnica de entrenamiento musical que consiste en entonar, mientras se recita el nombre de las notas musicales (Do, Re, Mi...), una melodía escrita en una partitura, respetando las alturas (notas) y las duraciones (figuras rítmicas) especificadas. Su objetivo es desarrollar la habilidad de leer música a primera vista.",
+          "respuesta": "En la notación de los sonidos que están contenidos dentro de una partitura.",
+          "respuestaCorta": "El solfeo consiste en escribir (notar) música en una partitura mediante símbolos musicales que representan las alturas, duraciones y otras características del sonido.",
+          "solucionario": "El solfeo se refiere al sistema de notación musical que utiliza símbolos específicos (notas, claves, compases, etc.) para representar gráficamente los sonidos musicales en una partitura. Esta notación permite que la música pueda ser leída, interpretada y preservada de forma escrita. La opción B describe correctamente este concepto de notación o escritura musical. La opción A describe más bien el 'solfeo cantado' o lectura musical vocal, que es una aplicación del sistema de solfeo pero no su definición principal.",
           "seccion": "Casuística"
         }
       ]
@@ -562,8 +557,6 @@
         }
       ]
     },
-
-   
     {
       "idGrupo": "asc_secundaria_2023_p36",
       "contexto": "La docente forma grupos de estudiantes para hacer una dinámica denominada \"Balón en llamas\".\nLos estudiantes, de pie, forman un círculo y uno de ellos recibe un balón.\nLa docente les pide que imaginen que el balón está en llamas, muy caliente, y les indica que deben pasárselo entre ellos, de manera aleatoria, tocándolo lo menos posible para evitar \"quemarse\" y procurando que no toque el piso, para evitar un incendio.",
@@ -736,8 +729,6 @@
         }
       ]
     },
-
- 
     {
       "idGrupo": "asc_secundaria_2023_p43",
       "contexto": "La docente planifica una experiencia de aprendizaje en la que los estudiantes conocerán y apreciarán distintos tipos de marinera y reflexionarán sobre cómo el contexto geográfico, social y cultural influye en las características de las manifestaciones artísticas.\nComo parte de la experiencia, los estudiantes aprenderán a bailar alguna variedad de marinera, desarrollando su expresión corporal a través de esta danza.",
@@ -926,4 +917,3 @@
     }
   ]
 }
-  

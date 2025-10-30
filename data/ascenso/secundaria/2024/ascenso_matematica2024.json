@@ -228,8 +228,6 @@
         }
       ]
     },
-
-    
     {
       "idGrupo": "asc_secundaria_2024_p13",
       "contexto": "Un docente tiene como propósito que los estudiantes resuelvan problemas que involucran el uso de cantidades expresadas en notación científica. En este contexto, les presenta el siguiente problema:\nEn cierto estudio sobre insectos se menciona que, según algunas estimaciones, existen 200 millones de insectos por cada ser humano.\nSegún dicha estimación, ¿cuántos insectos habrá en un país que tiene 30 millones de habitantes?\nTres estudiantes expresaron sus resultados en notación científica. Ellos indicaron el producto de 6 por una potencia de 10; sin embargo, obtuvieron diferentes valores para el exponente de la potencia de 10.",
@@ -368,9 +366,9 @@
             "Que los estudiantes determinen la expresión simbólica de un patrón.",
             "Que los estudiantes determinen el término siguiente a partir de términos dados."
           ],
-          "respuesta": "Que los estudiantes determinen la expresión simbólica de un patrón.",
-          "respuestaCorta": "La secuencia de preguntas guía hacia la generalización y búsqueda de una expresión algebraica que represente el patrón para cualquier cantidad de losetas blancas.",
-          "solucionario": "La opción B es correcta. La actividad está diseñada para que los estudiantes progresen desde casos particulares (1, 2, 3 losetas blancas) hacia la identificación del patrón de crecimiento (losetas grises adicionales por cada blanca), y finalmente hacia la generalización mediante una expresión simbólica que permita calcular las losetas grises para cualquier número de losetas blancas (como n blancas). La pregunta sobre 50 losetas blancas refuerza la necesidad de una expresión general, no solo de cálculos caso por caso.",
+          "respuesta": "Que los estudiantes determinen un término lejano en una secuencia.",
+          "respuestaCorta": "Al pedir que determinen cuántos azulejos se necesitan para el día 100, el docente busca que los estudiantes encuentren un término lejano (no consecutivo) en la secuencia, lo que requiere generalización.",
+          "solucionario": "El propósito principal es determinar un término lejano (día 100) que no puede calcularse fácilmente de forma recursiva contando uno por uno. Esto obliga a los estudiantes a buscar una generalización o patrón. La opción B (expresión simbólica) podría ser una estrategia para lograrlo, pero no es el propósito principal. La C es solo encontrar el siguiente término, lo cual es más básico.",
           "seccion": "Casuística"
         }
       ]
@@ -451,7 +449,6 @@
         }
       ]
     },
-  
     {
       "idGrupo": "asc_secundaria_2024_p25",
       "contexto": "En un aula de cuarto grado, una docente presentó a los estudiantes una gráfica que representa la relación entre la masa, en gramos, de un cultivo de bacterias y el tiempo transcurrido en días. En dicha gráfica se observa que la masa se duplica durante cada día que transcurre.",
@@ -673,7 +670,6 @@
         }
       ]
     },
-   
     {
       "idGrupo": "asc_secundaria_2024_p37",
       "contexto": "Con el propósito de promover la comprensión de la dispersión de datos, un docente propone a los estudiantes la siguiente situación:\nEn un concurso de dibujo, tanto María como Pedro presentaron seis dibujos. Los puntajes que les asignaron a sus dibujos son los siguientes:\nMaría obtuvo 10, 20, 30, 40, 50 y 60 puntos.\nPedro obtuvo 10, 10, 10, 60, 60 y 60 puntos.\nLuego, el docente les solicita que determinen qué conjunto de puntajes presenta mayor variabilidad respecto de la media.",
@@ -902,8 +898,6 @@
         }
       ]
     },
-
-   
     {
       "idGrupo": "asc_secundaria_2024_p49",
       "contexto": "En el plano de una ciudad, se observa que un hotel se encuentra a tres cuadras al oeste de la plaza principal y que una agencia de turismo se encuentra a tres cuadras al sur de dicha plaza.",
@@ -1049,10 +1043,10 @@
             "180 cm²",
             "225 cm²"
           ],
-          "respuesta": "225 cm²",
-          "respuestaCorta": "Al unir vértices con puntos medios de lados opuestos no contiguos en un cuadrado de 30cm, el cuadrado interior tiene lado 15cm, área = 225 cm².",
-          "solucionario": "La opción C es correcta. Cuando se unen los vértices de un cuadrado con los puntos medios de lados no contiguos mediante dobleces, se forma un cuadrado interior cuyo lado es 15 cm (la mitad del lado del cuadrado grande). Por geometría, si el cuadrado original tiene lado 30 cm, el cuadrado formado por los dobleces tiene lado 15 cm, y su área es 15² = 225 cm². Esto se puede verificar mediante coordenadas o el teorema de Pitágoras aplicado a los triángulos formados en las esquinas.",
-          "seccion": "Conocimientos Disciplinares"
+          "respuesta": "180 cm²",
+          "respuestaCorta": "Al doblar las esquinas de un rectángulo de 30×20 cm hacia el centro, se forma un cuadrado cuyo lado puede calcularse usando el teorema de Pitágoras. El área resultante es 180 cm².",
+          "solucionario": "Cuando se doblan las cuatro esquinas de un rectángulo de 30 cm × 20 cm hacia su centro, se forma un cuadrado. La diagonal del rectángulo original mide √(30² + 20²) = √1300 = 10√13 cm. El lado del cuadrado formado se relaciona con las dimensiones del rectángulo. Mediante cálculos geométricos (considerando que los dobleces crean triángulos congruentes), se determina que el área del cuadrado es 180 cm².",
+          "seccion": "Casuística"
         }
       ]
     },
@@ -1134,4 +1128,3 @@
     }
   ]
 }
-  

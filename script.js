@@ -107,6 +107,7 @@ document.addEventListener('DOMContentLoaded', () => {
             .trim()
             .replace(/["""''«»\\]/g, '')  // Elimina comillas y backslashes
             .replace(/\.+$/g, '')          // Elimina puntos finales
+            .replace(/[\n\r]+/g, ' ')      // Convierte saltos de línea en espacios
             .replace(/\s+/g, ' ')          // Normaliza espacios (SIN la barra extra)
             .trim();
     };
