@@ -202,9 +202,9 @@
             "Calcular el 15% de la suma de los precios de venta de ambos artículos.",
             "Calcular el 85% del precio de venta de cada artículo y hallar la suma de estos valores. Luego, calcular la diferencia considerando este resultado y la suma de los precios de venta."
           ],
-          "respuesta": "Calcular el 15% de la suma de los precios de venta de ambos artículos.",
-          "respuestaCorta": "Dado que el descuento es el mismo para ambos artículos, se puede sumar el total de la compra y luego aplicar el descuento una sola vez.",
-          "solucionario": "El descuento del 15% se aplica al precio total de la compra. Por la propiedad distributiva de la multiplicación, calcular el 15% de 156 y el 15% de 84 y luego sumarlos es equivalente a sumar primero 156 + 84 y luego calcular el 15% del total. La opción B describe este procedimiento eficiente. La opción C calcula el precio final, no el descuento. La opción A es incorrecta porque suma los porcentajes.",
+          "respuesta": "Calcular el 85% del precio de venta de cada artículo y hallar la suma de estos valores. Luego, calcular la diferencia considerando este resultado y la suma de los precios de venta.",
+          "respuestaCorta": "Este procedimiento calcula primero lo que se pagaría después del descuento (el 85% de cada artículo), lo suma, y luego resta ese total del precio original para encontrar el descuento aplicado.",
+          "solucionario": "Si el descuento es del 15% sobre cada artículo, entonces se pagará el 85% del precio de cada uno. El procedimiento correcto de la opción C consiste en: 1) Calcular el 85% del precio de venta de cada artículo (lo que realmente se pagará), 2) Sumar estos valores para obtener el total a pagar, 3) Calcular la diferencia entre la suma de los precios originales y el total a pagar, obteniendo así el monto descontado. Este método es matemáticamente correcto. La opción B es más directa pero también correcta, mientras que la opción A es incorrecta porque suma porcentajes en lugar de aplicarlos correctamente.",
           "seccion": "Casuística"
         }
       ]
@@ -228,8 +228,6 @@
         }
       ]
     },
-
-  
     {
       "idGrupo": "asc_matematica_2023_p13",
       "contexto": "Un docente presenta el siguiente problema a los estudiantes:\n\nCamila es una emprendedora que se dedica al comercio de camisetas. Cada camiseta la compra a 15 soles y la vende a 25 soles. Además, por gastos administrativos (alquiler del local, servicios, etc.), paga un total de 3000 soles mensuales. Determina la expresión que indica la ganancia o pérdida mensual por la venta de x camisetas.",
@@ -451,8 +449,6 @@
         }
       ]
     },
-
-   
     {
       "idGrupo": "asc_matematica_2023_p25",
       "contexto": "Como parte de la resolución de un problema, los estudiantes, junto con el docente, plantean la siguiente inecuación:\n-2x - 8 < -4x",
@@ -674,8 +670,6 @@
         }
       ]
     },
-
-  
     {
       "idGrupo": "asc_matematica_2023_p37",
       "contexto": "Una docente propone las siguientes actividades a los estudiantes:\n\n• Observen a su alrededor objetos que tengan forma de cilindro o forma de esfera, y digan sus características.\n• Representen gráficamente, en una hoja, una esfera inscrita en un cilindro. Luego, respondan: \"Al comparar el radio de la esfera y el radio de las bases del cilindro, ¿estas medidas son iguales o una de ellas es mayor que la otra? ¿Por qué?\".\n• Expresen el volumen de la esfera y del cilindro en función del radio; luego, dividan ambos volúmenes y, finalmente, planteen conclusiones con respecto a estos volúmenes.",
@@ -897,8 +891,6 @@
         }
       ]
     },
-
-   
     {
       "idGrupo": "asc_matematica_2023_p49",
       "contexto": "Un docente tiene como propósito que los estudiantes desarrollen autonomía sobre su aprendizaje de las medidas de posición.",
@@ -1129,4 +1121,3 @@
     }
   ]
 }
-  
