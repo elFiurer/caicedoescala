@@ -1,8 +1,8 @@
 {
   "completo": [
     {
-      "idGrupo": "asc_primaria_2021_p01",
-      "contexto": "Como parte de un taller para docentes sobre realidad virtual, el DAIP realiza las siguientes preguntas a los participantes:\n\"¿Han jugado algún videojuego? ¿Conocen o han jugado algún videojuego en el que la simulación genere la sensación de interacción real con los escenarios de dicho videojuego? ¿Cómo se sintieron durante el juego?\".",
+      "idGrupo": "asc_secundaria_aip_2021_p01",
+      "contexto": "Como parte de un taller para docentes sobre realidad virtual, el DAIP realiza las siguientes preguntas a los participantes: \"¿Han jugado algún videojuego? ¿Conocen o han jugado algún videojuego en el que la simulación genere la sensación de interacción real con los escenarios de dicho videojuego? ¿Cómo se sintieron durante el juego?\".",
       "imagen": null,
       "preguntas": [
         {
@@ -13,14 +13,14 @@
             "La metacognición sobre las estrategias de aprendizaje."
           ],
           "respuesta": "La activación de saberes previos.",
-          "respuestaCorta": "Las preguntas del DAIP buscan que los docentes recuerden y conecten sus experiencias pasadas con videojuegos, lo cual es una estrategia directa para activar sus conocimientos previos sobre el tema.",
-          "solucionario": "Al interrogar a los docentes sobre sus experiencias previas con videojuegos y simulaciones, el DAIP está utilizando una estrategia pedagógica fundamental: la activación de saberes previos. Este proceso permite establecer un puente entre lo que los participantes ya conocen y el nuevo concepto de 'realidad virtual' que se va a introducir, facilitando así un aprendizaje más significativo y una mejor comprensión del nuevo tema.",
-          "seccion": "Casuística"
+          "respuestaCorta": "Las preguntas del DAIP buscan conectar la nueva información (realidad virtual) con experiencias pasadas y conocidas por los docentes (videojuegos).",
+          "solucionario": "La estrategia pedagógica utilizada es la activación de saberes previos. Al preguntar a los docentes sobre sus experiencias previas con videojuegos y simulaciones, el DAIP establece un puente cognitivo entre lo que ya conocen y el nuevo concepto de \"realidad virtual\". Esto facilita un aprendizaje significativo al anclar el nuevo conocimiento en experiencias existentes.",
+          "seccion": "Aula de Innovación Pedagógica"
         }
       ]
     },
     {
-      "idGrupo": "asc_primaria_2021_p02",
+      "idGrupo": "asc_secundaria_aip_2021_p02",
       "contexto": "Arturo es un estudiante muy respetuoso. Durante la elaboración de un documento en el AIP y mientras la docente brindaba indicaciones sobre la entrega del trabajo, él, accidentalmente, movió el cable de alimentación de su computadora y esta se apagó. Arturo no había guardado el documento en el que se encontraba trabajando, lo que hizo que se desesperara y, levantando la voz, con enojo le dijo a la docente: \"¡Profesora, he perdido todo mi trabajo! ¡Ahora ya no podré terminar a tiempo!\".",
       "imagen": null,
       "preguntas": [
@@ -32,9 +32,9 @@
             "Decirle que para todo problema siempre hay una solución, por ello, nunca debemos perder la paciencia; por el contrario, debemos regular nuestras emociones. Luego, recuperar rápidamente el archivo que el estudiante no logró guardar para que él continúe trabajando."
           ],
           "respuesta": "Comentarle que es necesario mantener la calma, sobre todo en situaciones como esta. Luego, analizar juntos lo sucedido, identificar las alternativas para enfrentar la situación y las acciones para regular sus emociones.",
-          "respuestaCorta": "La acción más formativa es guiar al estudiante a través del proceso de reconocer su emoción, analizar la situación y buscar soluciones, fomentando así su autonomía y autorregulación emocional.",
-          "solucionario": "La opción más pertinente se enfoca en el desarrollo de la competencia socioemocional del estudiante. En lugar de simplemente resolver el problema técnico por él o darle una solución directa, la docente lo acompaña en un proceso reflexivo. Le ayuda a calmarse, a analizar objetivamente lo que pasó y a pensar en posibles soluciones. Este enfoque no solo atiende la urgencia, sino que también le proporciona herramientas para gestionar futuras situaciones de frustración.",
-          "seccion": "Casuística"
+          "respuestaCorta": "La acción más pertinente es guiar al estudiante a través de un proceso formativo de análisis y regulación emocional, en lugar de solo solucionar el problema técnico.",
+          "solucionario": "La opción A es la más pertinente porque aborda la competencia socioemocional del estudiante. En lugar de solo calmarlo o resolver el problema (opciones B y C), la docente lo guía para (1) reconocer la necesidad de calma, (2) analizar la situación que desató la emoción, (3) buscar alternativas de solución al problema (técnico y emocional) y (4) reflexionar sobre acciones para regularse. Esto es formativo.",
+          "seccion": "Aula de Innovación Pedagógica"
         },
         {
           "pregunta": "El DAIP sabe que, en el programa en el que Arturo estaba trabajando, se ha configurado la opción de autorrecuperación. Esta configuración permite generar automáticamente un archivo temporal que contiene la información en la que se está trabajando, por lo que esta puede ser recuperada casi en su totalidad. ¿Cuál de las siguientes extensiones corresponde al archivo de autorrecuperación temporal generado por este programa?",
@@ -44,14 +44,14 @@
             "DOCM"
           ],
           "respuesta": "ASD",
-          "respuestaCorta": "La extensión .asd corresponde a los archivos de Autorrecuperación de Microsoft Word, que se crean automáticamente como respaldo.",
-          "solucionario": "Los procesadores de texto como Microsoft Word utilizan archivos de autorrecuperación para guardar copias de seguridad de los documentos en proceso. Estos archivos temporales se guardan con la extensión .asd (AutoSave Document). En caso de un cierre inesperado del programa, esta función permite restaurar el trabajo que no fue guardado manualmente. Las otras extensiones corresponden a formatos diferentes: RTF (Rich Text Format) y DOCM (documento de Word habilitado para macros).",
-          "seccion": "Casuística"
+          "respuestaCorta": "La extensión .asd (AutoSave Document) es la utilizada por procesadores de texto como Microsoft Word para los archivos temporales de autorrecuperación.",
+          "solucionario": "Los programas de Microsoft Office, como Word, utilizan la extensión .asd para guardar archivos de autorrecuperación. Estos archivos temporales se crean a intervalos definidos y permiten recuperar el trabajo en caso de un cierre inesperado. RTF (Rich Text Format) es un formato de documento, y DOCM es un documento de Word habilitado para macros.",
+          "seccion": "Aula de Innovación Pedagógica"
         }
       ]
     },
     {
-      "idGrupo": "asc_primaria_2021_p03",
+      "idGrupo": "asc_secundaria_aip_2021_p03",
       "contexto": null,
       "imagen": null,
       "preguntas": [
@@ -63,14 +63,14 @@
             "El uso de un foro para el intercambio de opiniones acerca del impacto de la publicidad en la adquisión de determinados productos."
           ],
           "respuesta": "El uso de un video tutorial para elaborar un mapa conceptual sobre las características de la célula.",
-          "respuestaCorta": "Seguir un tutorial es una actividad principalmente procedimental que implica seguir instrucciones, requiriendo menos análisis, evaluación o creación en comparación con las otras opciones.",
-          "solucionario": "El pensamiento crítico implica habilidades de orden superior como analizar, evaluar, argumentar y crear. Responder preguntas abiertas sobre personajes inspiradores (opción B) exige reflexión y justificación. Participar en un foro de opinión (opción C) requiere argumentar y evaluar diferentes puntos de vista. En contraste, seguir los pasos de un video tutorial (opción A) es una tarea más dirigida y reproductiva, que si bien ayuda a organizar información, no fomenta el pensamiento crítico al mismo nivel que las otras dos actividades.",
-          "seccion": "Casuística"
+          "respuestaCorta": "Seguir un video tutorial es una actividad de reproducción de pasos o información, que requiere menos análisis, evaluación o argumentación que las otras opciones.",
+          "solucionario": "El pensamiento crítico implica analizar, evaluar, sintetizar y argumentar. Las opciones B (responder preguntas abiertas) y C (debatir en un foro) exigen estas habilidades de orden superior. La opción A, en cambio, se centra en seguir instrucciones de un tutorial para plasmar información (características de la célula) en un formato específico (mapa conceptual). Es una tarea más procedimental y reproductiva que crítica.",
+          "seccion": "Aula de Innovación Pedagógica"
         }
       ]
     },
     {
-      "idGrupo": "asc_primaria_2021_p04",
+      "idGrupo": "asc_secundaria_aip_2021_p04",
       "contexto": "Antes de iniciar el año escolar, una DAIP brindará el mantenimiento a las laptops XO de la IE. Dichas laptops XO se encuentran inoperativas debido a fallas en el registro del sistema operativo; estas fallas no permiten que este sistema inicie su funcionamiento. Por esta razón, la DAIP reinstalará el sistema operativo en dichos dispositivos.",
       "imagen": null,
       "preguntas": [
@@ -82,14 +82,14 @@
             "Un servidor de archivos local con la imagen del sistema operativo."
           ],
           "respuesta": "Una memoria USB con la imagen del sistema operativo.",
-          "respuestaCorta": "Las laptops XO carecen de unidades de CD/DVD, por lo que el método estándar para la instalación o reinstalación del sistema operativo es a través de una memoria USB de arranque.",
-          "solucionario": "Las laptops del proyecto OLPC (One Laptop Per Child), conocidas como XO, fueron diseñadas como dispositivos de bajo costo y robustos, y por ello no incluyen unidades ópticas (lector de CD o DVD). El procedimiento establecido para reinstalar su sistema operativo (Sugar) es mediante una memoria USB que contenga la imagen de instalación, la cual se prepara previamente para que el equipo pueda arrancar desde ella.",
-          "seccion": "Casuística"
+          "respuestaCorta": "Las laptops XO, por su diseño compacto, carecen de unidades de CD/DVD, por lo que el método estándar de reinstalación es mediante una memoria USB booteable.",
+          "solucionario": "Las laptops XO (del proyecto One Laptop per Child) son dispositivos diseñados para ser portátiles y de bajo costo, por lo que no incluyen unidades ópticas (lectoras de CD/DVD). El procedimiento estándar para reinstalar o actualizar su sistema operativo (Sugar OS) es a través de una memoria USB preparada con la imagen del sistema.",
+          "seccion": "Aula de Innovación Pedagógica"
         }
       ]
     },
     {
-      "idGrupo": "asc_primaria_2021_p05",
+      "idGrupo": "asc_secundaria_aip_2021_p05",
       "contexto": null,
       "imagen": null,
       "preguntas": [
@@ -101,52 +101,52 @@
             "Instalar y configurar un sistema operativo."
           ],
           "respuesta": "Instalar y configurar un sistema operativo.",
-          "respuestaCorta": "La instalación de un sistema operativo es una tarea fundamental y compleja que requiere conocimientos técnicos más avanzados que la instalación de aplicaciones como navegadores o suites ofimáticas.",
-          "solucionario": "Instalar y configurar un sistema operativo es una tarea de mayor complejidad técnica. Involucra la gestión de particiones del disco, la instalación de controladores (drivers) para que todo el hardware funcione correctamente, la configuración de la red y la seguridad a nivel del sistema. Instalar un navegador o una suite ofimática son tareas de instalación de software de aplicación, que generalmente son procesos más sencillos y automatizados que se ejecutan sobre un sistema operativo ya funcional.",
-          "seccion": "Casuística"
+          "respuestaCorta": "La instalación de un sistema operativo es una tarea fundamental que implica gestionar particiones, controladores y configuraciones base del sistema, siendo más compleja que instalar aplicaciones.",
+          "solucionario": "Instalar un navegador web (A) o una suite ofimática (B) son tareas de instalación de software de aplicación, que generalmente siguen asistentes simples. En cambio, instalar y configurar un sistema operativo (C) es una tarea mucho más compleja y de bajo nivel. Requiere conocimientos sobre particionamiento de discos, compatibilidad de hardware, instalación de controladores (drivers) y configuración inicial del sistema.",
+          "seccion": "Aula de Innovación Pedagógica"
         }
       ]
     },
     {
-      "idGrupo": "asc_primaria_2021_p06",
+      "idGrupo": "asc_secundaria_aip_2021_p06",
       "contexto": "En una red local se desea reemplazar una de las computadoras por una computadora nueva. Esta nueva computadora debe conservar la configuración de red de la computadora anterior.",
       "imagen": null,
       "preguntas": [
         {
           "pregunta": "En la configuración de la nueva computadora, ¿cuál es el único dato que cambiaría de valor?",
-          "opciones": [
+          "oppciones": [
             "La dirección IP.",
             "La dirección física.",
             "El nombre del host."
           ],
           "respuesta": "La dirección física.",
-          "respuestaCorta": "La dirección física (MAC) es un identificador único de hardware asignado de fábrica a la tarjeta de red, por lo tanto, es inherente a la nueva computadora y no se puede transferir.",
-          "solucionario": "En una configuración de red, la dirección IP y el nombre del host son identificadores lógicos que se pueden asignar y cambiar. Para que la nueva computadora cumpla la misma función en la red, se le pueden asignar la misma dirección IP y nombre de host que tenía la anterior. Sin embargo, la dirección física o dirección MAC (Media Access Control) es un identificador único grabado en el hardware de la tarjeta de red por el fabricante. Al cambiar de computadora, se cambia de hardware y, por consiguiente, la dirección física será diferente e imposible de modificar.",
-          "seccion": "Casuística"
+          "respuestaCorta": "La dirección física (MAC Address) es un identificador único de hardware asignado de fábrica a la tarjeta de red, por lo que es inherente a la nueva computadora.",
+          "solucionario": "La dirección IP (A) y el nombre del host (C) son configuraciones lógicas (de software) que se pueden replicar en la nueva computadora. Sin embargo, la dirección física o dirección MAC (B) es un identificador único grabado en el hardware (la tarjeta de red) por el fabricante. Cada dispositivo de red tiene una dirección MAC única, por lo tanto, este valor cambiará necesariamente al cambiar la computadora.",
+          "seccion": "Aula de Innovación Pedagógica"
         }
       ]
     },
     {
-      "idGrupo": "asc_primaria_2021_p07",
-      "contexto": "Un usuario cuenta con una computadora con las siguientes especificaciones técnicas:\n\n| Característica | Especificación |\n| :--- | :--- |\n| Procesador | 2.4 GHz de 64 bits 10ma generación |\n| Memoria RAM | 8 GB |\n| Disco de almacenamiento | 512 GB |\n| Tarjeta de video | 2 GB |\n\nEl usuario ha instalado un sistema operativo de 32 bits en dicha computadora.",
-      "imagen": null,
+      "idGrupo": "asc_secundaria_aip_2021_p07",
+      "contexto": "Un usuario cuenta con una computadora con las siguientes especificaciones técnicas:",
+      "imagen": "img/ascenso/secundaria/2021/aip/1.jpg",
       "preguntas": [
         {
-          "pregunta": "¿Cuál de las siguientes especificaciones técnicas de la computadora NO se aprovecharía al máximo?",
+          "pregunta": "El usuario ha instalado un sistema operativo de 32 bits en dicha computadora. ¿Cuál de las siguientes especificaciones técnicas de la computadora NO se aprovecharía al máximo?",
           "opciones": [
             "La capacidad del disco de almacenamiento.",
             "La capacidad de la tarjeta de video.",
             "La capacidad de la memoria RAM."
           ],
           "respuesta": "La capacidad de la memoria RAM.",
-          "respuestaCorta": "Un sistema operativo de 32 bits solo puede direccionar y utilizar un máximo de 4 GB de memoria RAM, por lo que los 4 GB restantes de los 8 GB instalados no serían aprovechados.",
-          "solucionario": "La arquitectura de un sistema operativo determina la cantidad máxima de memoria RAM que puede gestionar. Los sistemas de 32 bits tienen un límite teórico de 4 GB (2^32 bytes) de memoria RAM direccionable. Al instalar un SO de 32 bits en una máquina con 8 GB de RAM, el sistema solo podrá reconocer y utilizar aproximadamente entre 3.2 y 4 GB, desperdiciando el resto de la capacidad instalada. Para aprovechar los 8 GB completos, sería necesario instalar un sistema operativo de 64 bits.",
-          "seccion": "Casuística"
+          "respuestaCorta": "Un sistema operativo de 32 bits solo puede direccionar (reconocer y usar) un máximo de 4 GB de memoria RAM, desperdiciando los 4 GB restantes de los 8 GB instalados.",
+          "solucionario": "La arquitectura de un sistema operativo de 32 bits (x86) tiene una limitación fundamental en el direccionamiento de memoria. Solo puede gestionar un máximo de 2^32 bytes, lo que equivale a 4 Gigabytes (GB). Dado que la computadora tiene 8 GB de RAM instalados, el sistema operativo de 32 bits solo podrá utilizar aproximadamente 3.5 GB a 4 GB, desaprovechando el resto. Para usar los 8 GB completos, se requiere un sistema operativo de 64 bits.",
+          "seccion": "Aula de Innovación Pedagógica"
         }
       ]
     },
     {
-      "idGrupo": "asc_primaria_2021_p08",
+      "idGrupo": "asc_secundaria_aip_2021_p08",
       "contexto": "Teodoro, un estudiante, está elaborando una monografía acerca de las expresiones culturales de la población shipibo konibo. Él ha organizado el contenido del documento de acuerdo al siguiente índice:\n1. Aspectos culturales-Época\n1.1. Precolombina\n1.2. Colonial\n1.3. Republicana",
       "imagen": null,
       "preguntas": [
@@ -158,9 +158,9 @@
             "Disminuir sangría."
           ],
           "respuesta": "Disminuir sangría.",
-          "respuestaCorta": "En una lista multinivel, disminuir la sangría promueve un subelemento (como el 1.4) al nivel superior inmediato (en este caso, el nivel 2).",
-          "solucionario": "Los procesadores de texto gestionan las listas multinivel mediante la sangría. Los puntos 1.1, 1.2 y 1.3 están en un segundo nivel de la lista (con mayor sangría). Al presionar 'enter' después de 1.3, el programa asume que se continuará en el mismo nivel, ofreciendo 1.4. Para pasar al primer nivel y obtener la numeración '2.', es necesario disminuir el nivel de sangría de esa línea, lo que la promueve al nivel principal de la lista.",
-          "seccion": "Casuística"
+          "respuestaCorta": "Al \"Disminuir sangría\" (o presionar Shift+Tab), el procesador de texto promueve el ítem del Nivel 2 (1.4.) al Nivel 1 (2.), continuando la lista principal.",
+          "solucionario": "En los procesadores de texto, las listas multinivel se gestionan con la sangría. \"1.3. Republicana\" es Nivel 2. Al presionar Enter, se crea \"1.4.\", que sigue siendo Nivel 2. Para cambiar al siguiente ítem de Nivel 1 (es decir, \"2.\"), Teodoro debe promover este ítem. La acción para promover un ítem de un subnivel a un nivel superior es \"Disminuir sangría\" (tecla Shift+Tab).",
+          "seccion": "Aula de Innovación Pedagógica"
         },
         {
           "pregunta": "Teodoro ha agregado marcadores en los títulos y los subtítulos de las diferentes páginas en el cuerpo del documento. ¿Cuál es la función de los marcadores insertados por Teodoro en el cuerpo del documento?",
@@ -170,15 +170,15 @@
             "Permiten crear una tabla de contenido con los títulos y subtítulos para insertarla en el documento."
           ],
           "respuesta": "Permiten crear hipervínculos desde el índice hacia los títulos y subtítulos del documento.",
-          "respuestaCorta": "Los marcadores funcionan como anclas o destinos dentro de un documento, a los cuales se puede apuntar mediante hipervínculos para una navegación rápida y directa.",
-          "solucionario": "La función principal de un 'marcador' (bookmark) en un procesador de texto es identificar una ubicación específica dentro de un documento para poder referenciarla fácilmente. Una de sus aplicaciones más comunes es la creación de hipervínculos internos. Al colocar un marcador en un título del documento, se puede crear un hipervínculo en el índice que, al hacerle clic, lleve al lector directamente a esa sección marcada, facilitando la navegación.",
-          "seccion": "Casuística"
+          "respuestaCorta": "Los marcadores (bookmarks) actúan como \"anclas\" o destinos específicos dentro de un documento, permitiendo crear hipervínculos que salten directamente a esas ubicaciones.",
+          "solucionario": "La función principal de un \"marcador\" (bookmark) en un procesador de texto es designar una ubicación específica para que pueda ser referenciada. Esto permite crear hipervínculos (desde un índice, un texto, etc.) que dirigen al usuario directamente a ese marcador. Aunque los estilos de título se usan para las Tablas de Contenido (C), los marcadores son el mecanismo principal para los hipervínculos internos (B).",
+          "seccion": "Aula de Innovación Pedagógica"
         }
       ]
     },
     {
-      "idGrupo": "asc_primaria_2021_p09",
-      "contexto": "Como parte de un proyecto sobre la alimentación saludable, los estudiantes de una IE han recogido información sobre las preferencias en el consumo de diferentes frutas y vegetales por parte de los pobladores de su localidad. Luego, los estudiantes desean sistematizar dicha información utilizando una herramienta de un programa ofimático. Esta herramienta debe cumplir con los siguientes requerimientos:\n\n- Dividir la información ingresada al programa en criterios o categorías que se destacan en el proyecto.\n- Representar la información ingresada al programa en gráficos generados automáticamente.\n- Los gráficos generados automáticamente por el programa deben contar con botones que permitan seleccionar filtros para cambiar la información que se presenta en estos gráficos.",
+      "idGrupo": "asc_secundaria_aip_2021_p09",
+      "contexto": "Como parte de un proyecto sobre la alimentación saludable, los estudiantes de una IE han recogido información sobre las preferencias en el consumo de diferentes frutas y vegetales por parte de los pobladores de su localidad. Luego, los estudiantes desean sistematizar dicha información utilizando una herramienta de un programa ofimático. Esta herramienta debe cumplir con los siguientes requerimientos:\n• Dividir la información ingresada al programa en criterios o categorías que se destacan en el proyecto.\n• Representar la información ingresada al programa en gráficos generados automáticamente.\n• Los gráficos generados automáticamente por el programa deben contar con botones que permitan seleccionar filtros para cambiar la información que se presenta en estos gráficos.",
       "imagen": null,
       "preguntas": [
         {
@@ -189,35 +189,35 @@
             "Tabla dinámica."
           ],
           "respuesta": "Dashboard.",
-          "respuestaCorta": "Un dashboard es una interfaz visual que integra y muestra datos de forma gráfica e interactiva, cumpliendo con los requisitos de categorización, gráficos automáticos y filtros interactivos.",
-          "solucionario": "Un dashboard (o panel de control) es la herramienta que mejor se ajusta a todos los requerimientos. Está diseñado para presentar información de manera visual y resumida. Permite organizar los datos en categorías, generar gráficos que se actualizan automáticamente y, fundamentalmente, incorporar elementos interactivos como filtros o segmentadores de datos (botones) que permiten al usuario explorar la información dinámicamente. Si bien una tabla dinámica es un componente clave para construir un dashboard en Excel, el 'dashboard' es el producto final que engloba todas las funcionalidades descritas.",
-          "seccion": "Casuística"
+          "respuestaCorta": "Un Dashboard (o panel de control) es la herramienta diseñada para visualizar y resumir información, integrando gráficos interactivos con filtros (botones) para analizar categorías.",
+          "solucionario": "De acuerdo con la clave de respuestas, la respuesta es \"Dashboard\". Un Dashboard es un panel de visualización que integra múltiples elementos (gráficos, tablas, filtros) para presentar datos de forma resumida e interactiva. Cumple los requisitos al (1) dividir la información en categorías, (2) representar la información en gráficos y (3) incluir botones de filtro (slicers o segmentadores) que permiten cambiar dinámicamente la información.",
+          "seccion": "Aula de Innovación Pedagógica"
         }
       ]
     },
     {
-      "idGrupo": "asc_primaria_2021_p10",
-      "contexto": "Una docente ha automatizado la conversión de dólares a soles en una tabla contenida en una hoja de cálculo. En la tabla, se muestran los siguientes datos:\n- En la celda B2, correspondiente al tipo de cambio del día, en soles, se ha ingresado el valor 3,5\n- En la celda B3, correspondiente al monto en dólares, se ha ingresado el valor 1000\n- En la celda B4 aparece el cálculo automático en soles que, en este caso, es 3500. Este cálculo se ha realizado mediante la fórmula \"=B2*B3\"",
+      "idGrupo": "asc_secundaria_aip_2021_p10",
+      "contexto": "Una docente ha automatizado la conversión de dólares a soles en una tabla contenida en una hoja de cálculo. En la tabla, se muestran los siguientes datos:\n• En la celda B2, correspondiente al tipo de cambio del día, en soles, se ha ingresado el valor 3,5\n• En la celda B3, correspondiente al monto en dólares, se ha ingresado el valor 1000\n• En la celda B4 aparece el cálculo automático en soles que, en este caso, es 3500. Este cálculo se ha realizado mediante la fórmula \"=B2*B3\"\nAhora, la docente tiene como propósito ingresar un monto total en soles, para saber a cuántos dólares equivale este monto, sin modificar la fórmula ni el tipo de cambio previamente ingresados.",
       "imagen": null,
       "preguntas": [
         {
-          "pregunta": "Ahora, la docente tiene como propósito ingresar un monto total en soles, para saber a cuántos dólares equivale este monto, sin modificar la fórmula ni el tipo de cambio previamente ingresados. ¿Cuál de las siguientes herramientas de la hoja de cálculo permitiría a la docente lograr su propósito?",
+          "pregunta": "¿Cuál de las siguientes herramientas de la hoja de cálculo permitiría a la docente lograr su propósito?",
           "opciones": [
             "Administrador de escenarios.",
             "Buscar objetivo.",
             "Tabla de datos."
           ],
           "respuesta": "Buscar objetivo.",
-          "respuestaCorta": "La herramienta 'Buscar objetivo' está diseñada para realizar un cálculo inverso: encontrar el valor de una celda de entrada que se necesita para obtener un resultado deseado en una celda de fórmula.",
-          "solucionario": "La herramienta 'Buscar objetivo' (Goal Seek) es ideal para esta situación. La docente conoce el resultado que desea obtener en la celda B4 (el nuevo monto en soles) y necesita saber cuál debe ser el valor de la celda de entrada B3 (monto en dólares) para alcanzar ese resultado. 'Buscar objetivo' ajusta automáticamente el valor de la celda de entrada (B3) hasta que la fórmula en la celda de resultado (B4) devuelva el valor deseado, sin necesidad de alterar la fórmula original.",
-          "seccion": "Casuística"
+          "respuestaCorta": "La herramienta \"Buscar objetivo\" está diseñada para encontrar un valor de entrada (dólares en B3) que se necesita para alcanzar un valor de salida deseado (nuevo monto en soles en B4).",
+          "solucionario": "La función \"Buscar objetivo\" (Goal Seek) es la herramienta precisa para esta tarea. Permite definir un valor deseado para una celda que contiene una fórmula (la \"celda objetivo\", B4) y encontrar el valor que debe tener una celda de entrada (la \"celda cambiante\", B3, el monto en dólares) para alcanzar ese objetivo. Realiza un cálculo inverso.",
+          "seccion": "Aula de Innovación Pedagógica"
         }
       ]
     },
- 
+    
     {
-      "idGrupo": "asc_primaria_2021_p11",
-      "contexto": "Como parte de las acciones de un proyecto, un equipo de estudiantes ha registrado, en una tabla dentro de una hoja de cálculo, la información correspondiente a los textos que se encuentran en la sala de recursos de la IE. Por ejemplo, en dicha tabla se ha registrado cada uno de los ejemplares de una misma obra de un autor; títulos de las obras de varios autores, revistas, fascículos coleccionables, archivadores con documentos de trabajo del equipo de docentes de la IE, entre otros. La tabla contiene los siguientes campos:\n\nTabla: Texto\nCampos: Código_Libro, ISBN, Título, Autor, Especialidad, Editorial, Año, Ciudad",
+      "idGrupo": "asc_secundaria_aip_2021_p11",
+      "contexto": "Como parte de las acciones de un proyecto, un equipo de estudiantes ha registrado, en una tabla dentro de una hoja de cálculo, la información correspondiente a los textos que se encuentran en la sala de recursos de la IE. Por ejemplo, en dicha tabla se ha registrado cada uno de los ejemplares de una misma obra de un autor; títulos de las obras de varios autores, revistas, fascículos coleccionables, archivadores con documentos de trabajo del equipo de docentes de la IE, entre otros.\nLa tabla contiene los siguientes campos:\nTabla: Texto\nCampos: Código_Libro, ISBN, Título, Autor, Especialidad, Editorial, Año, Ciudad",
       "imagen": null,
       "preguntas": [
         {
@@ -228,9 +228,9 @@
             "Ctrl+B"
           ],
           "respuesta": "Ctrl+B",
-          "respuestaCorta": "En las versiones en español de la mayoría de los programas de hoja de cálculo, el atajo de teclado para abrir el cuadro de diálogo 'Buscar' es Ctrl+B.",
-          "solucionario": "La combinación de teclas para la función 'Buscar' varía según el idioma del software. Mientras que en inglés es 'Ctrl+F' (Find), en la configuración en español es 'Ctrl+B' (Buscar). Este comando abre una ventana que permite al usuario ingresar texto o números para localizarlos rápidamente dentro de la hoja de cálculo.",
-          "seccion": "Casuística"
+          "respuestaCorta": "En las versiones de software en español, el atajo de teclado \"Ctrl+B\" activa la función de \"Buscar\".",
+          "solucionario": "La combinación de teclas \"Ctrl+B\" es el atajo estándar en la mayoría de los programas de hoja de cálculo (como Microsoft Excel) configurados en idioma español para abrir el cuadro de diálogo \"Buscar y reemplazar\". \"Ctrl+R\" se usa para rellenar hacia la derecha y \"Ctrl+E\" para relleno rápido o seleccionar.",
+          "seccion": "Aula de Innovación Pedagógica"
         },
         {
           "pregunta": "Para optimizar la funcionalidad de búsqueda de información en la hoja de cálculo, los estudiantes desean implementar un formulario con cuadro de texto. En este cuadro de texto, el usuario ingresará la información a buscar, seleccionando la búsqueda por título, por autor, por especialidad o por año. Además, este formulario contará con un botón de comando que al hacer clic mostrará los resultados de la búsqueda. ¿Cuál de las siguientes opciones permite desarrollar dicha funcionalidad?",
@@ -240,9 +240,9 @@
             "Una tabla dinámica."
           ],
           "respuesta": "Una macro.",
-          "respuestaCorta": "Las macros permiten programar funcionalidades personalizadas, como la creación de formularios de usuario (UserForms) con campos de texto y botones para automatizar tareas complejas como una búsqueda avanzada.",
-          "solucionario": "La creación de un formulario personalizado con campos de entrada, opciones y botones de comando que ejecutan una acción específica va más allá de las funciones estándar de una hoja de cálculo. Esta funcionalidad se logra mediante la programación de una 'macro', usualmente utilizando el lenguaje VBA (Visual Basic for Applications). Una macro puede diseñar la interfaz del formulario y contener el código que ejecuta la búsqueda en la base de datos según los criterios ingresados por el usuario.",
-          "seccion": "Casuística"
+          "respuestaCorta": "La creación de un formulario personalizado con cuadros de texto y botones de comando que ejecutan acciones (como una búsqueda) se realiza mediante macros (generalmente con VBA).",
+          "solucionario": "La funcionalidad descrita (un formulario personalizado con cuadros de texto, botones y lógica de búsqueda) excede las capacidades estándar de las tablas dinámicas o dashboards. Esto requiere programación, que en el entorno ofimático se implementa a través de macros, usualmente escritas en Visual Basic for Applications (VBA). Las macros permiten crear UserForms y asignarles lógica a los botones.",
+          "seccion": "Aula de Innovación Pedagógica"
         },
         {
           "pregunta": "Con la ayuda de un procesador de texto, los estudiantes tienen como propósito elaborar fichas bibliográficas a partir de la información registrada en la tabla. Cada ficha bibliográfica se mostrará en una página diferente. ¿Cuál de las siguientes opciones permite que los estudiantes logren su propósito?",
@@ -252,9 +252,9 @@
             "Referencia cruzada."
           ],
           "respuesta": "Combinar correspondencia.",
-          "respuestaCorta": "La herramienta 'Combinar correspondencia' está diseñada específicamente para crear un lote de documentos personalizados (como fichas) a partir de una plantilla y una fuente de datos (la hoja de cálculo).",
-          "solucionario": "La función 'Combinar correspondencia' (Mail Merge) es la herramienta ideal para este propósito. Permite conectar un documento principal en un procesador de texto (que servirá de plantilla para la ficha bibliográfica) con una fuente de datos externa (la hoja de cálculo con la información de los libros). Al ejecutar la combinación, el programa genera automáticamente un documento nuevo con una página por cada registro (libro) de la tabla, insertando los datos correspondientes en la plantilla.",
-          "seccion": "Casuística"
+          "respuestaCorta": "La herramienta \"Combinar correspondencia\" está diseñada para tomar una fuente de datos (la hoja de cálculo) y fusionarla con una plantilla (la ficha en el procesador de texto) para crear múltiples documentos.",
+          "solucionario": "La función \"Combinar correspondencia\" (Mail Merge) permite conectar un documento de procesador de texto (que actúa como plantilla para la ficha) con una fuente de datos externa (la hoja de cálculo con la información de los textos). Al ejecutar la combinación, se genera un nuevo documento donde cada registro (fila) de la tabla de datos crea una nueva página (ficha bibliográfica) basada en la plantilla.",
+          "seccion": "Aula de Innovación Pedagógica"
         },
         {
           "pregunta": "En el caso de que el equipo de estudiantes migre su tabla de la hoja de cálculo a una tabla de un gestor de base de datos, ¿cuál de los siguientes campos sería utilizado como campo único dentro de la tabla?",
@@ -264,14 +264,14 @@
             "Código_Libro."
           ],
           "respuesta": "Código_Libro.",
-          "respuestaCorta": "Dado que la tabla registra cada ejemplar, `Código_Libro` sería el identificador único para cada copia física, mientras que el ISBN podría repetirse si hay varios ejemplares del mismo libro.",
-          "solucionario": "En una base de datos, un campo único (o clave primaria) debe tener un valor distinto para cada registro. El campo 'Autor' se repetirá para obras del mismo autor. El 'ISBN' identifica una edición de un libro, pero el problema especifica que se registran 'cada uno de los ejemplares de una misma obra', por lo que el ISBN también se repetiría. El campo 'Código_Libro' se infiere que es un código de inventario único asignado a cada libro físico, lo que lo convierte en el candidato perfecto para ser el campo único.",
-          "seccion": "Casuística"
+          "respuestaCorta": "El campo \"Código_Libro\" es el único que garantiza un identificador único para cada ejemplar físico, ya que el ISBN se repetiría si hay varios ejemplares del mismo libro.",
+          "solucionario": "Un campo único (o clave primaria) en una base de datos debe identificar de forma inequívoca cada registro. El \"Autor\" se repetirá. El \"ISBN\" identifica un título de libro específico, pero el contexto aclara que se registran \"cada uno de los ejemplares de una misma obra\", por lo que el ISBN se repetiría para cada ejemplar. El \"Código_Libro\" es el campo destinado a ser el identificador único de cada ítem físico en la sala de recursos.",
+          "seccion": "Aula de Innovación Pedagógica"
         }
       ]
     },
     {
-      "idGrupo": "asc_primaria_2021_p12",
+      "idGrupo": "asc_secundaria_aip_2021_p12",
       "contexto": null,
       "imagen": null,
       "preguntas": [
@@ -283,52 +283,52 @@
             "ENTERO"
           ],
           "respuesta": "REDONDEAR.MAS",
-          "respuestaCorta": "La función `REDONDEAR.MAS` (ROUNDUP en inglés) está diseñada para redondear un número hacia arriba, alejándolo de cero, al entero superior más próximo.",
-          "solucionario": "La función `REDONDEAR.MAS` siempre redondea un número hacia su entero superior. Por ejemplo, `REDONDEAR.MAS(3.14, 0)` daría como resultado 4. En cambio, la función `REDONDEAR` redondea al entero más cercano (3.14 se redondearía a 3) y la función `ENTERO` trunca la parte decimal, redondeando hacia abajo (3.14 se convertiría en 3).",
-          "seccion": "Casuística"
+          "respuestaCorta": "La función REDONDEAR.MAS (ROUNDUP en inglés) siempre redondea un número hacia arriba, alejándolo de cero.",
+          "solucionario": "La función REDONDEAR.MAS(número, num_decimales) redondea un número hacia arriba. Si se usa con 0 decimales, siempre redondeará al siguiente entero superior (ej. REDONDEAR.MAS(4.22, 0) da 5). La función REDONDEAR sigue la regla matemática estándar (4.22 da 4) y la función ENTERO trunca los decimales (4.22 da 4).",
+          "seccion": "Aula de Innovación Pedagógica"
         }
       ]
     },
     {
-      "idGrupo": "asc_primaria_2021_p13",
-      "contexto": null,
+      "idGrupo": "asc_secundaria_aip_2021_p13",
+      "contexto": "Una estudiante tiene como propósito contar la cantidad de celdas que contienen algún caracter, en una determinada columna de los registros de una base de datos contenida en una hoja de cálculo.",
       "imagen": null,
       "preguntas": [
         {
-          "pregunta": "Una estudiante tiene como propósito contar la cantidad de celdas que contienen algún caracter, en una determinada columna de los registros de una base de datos contenida en una hoja de cálculo. ¿Cuál de las siguientes funciones debe utilizar la estudiante para lograr su propósito?",
+          "pregunta": "¿Cuál de las siguientes funciones debe utilizar la estudiante para lograr su propósito?",
           "opciones": [
             "BDCONTARA",
             "BDCONTAR",
             "CONTAR"
           ],
           "respuesta": "BDCONTARA",
-          "respuestaCorta": "La función `BDCONTARA` (DCOUNTA en inglés) cuenta las celdas no vacías en un campo de una base de datos, incluyendo tanto números como texto.",
-          "solucionario": "Para contar celdas con cualquier tipo de carácter (texto o números) dentro de un rango que funciona como base de datos, la función correcta es `BDCONTARA`. La función `BDCONTAR` solo cuenta las celdas que contienen números, y la función `CONTAR` hace lo mismo pero en un rango simple, no en una estructura de base de datos con criterios.",
-          "seccion": "Casuística"
+          "respuestaCorta": "BDCONTARA (DCOUNTA) cuenta todas las celdas no vacías (texto o números) en un rango de base de datos, mientras que BDCONTAR solo cuenta números.",
+          "solucionario": "Las funciones de Base de Datos (BD) operan en rangos estructurados. La diferencia clave es que BDCONTAR (DCOUNT) solo cuenta las celdas que contienen números. En cambio, BDCONTARA (DCOUNTA) cuenta todas las celdas que no están vacías, es decir, que contienen \"algún caracter\" (sea texto, número o símbolo).",
+          "seccion": "Aula de Innovación Pedagógica"
         }
       ]
     },
     {
-      "idGrupo": "asc_primaria_2021_p14",
-      "contexto": "Un equipo de estudiantes ha elaborado diversos productos en base a ingredientes naturales para comercializarlos en una feria de emprendimiento. Una estrategia de comercialización de estos productos consiste en aplicar los siguientes descuentos con base en el valor de la compra:\n- Si el valor de la compra es menor a S/ 30.00 no habrá descuento\n- Si el valor de la compra es igual o mayor a S/ 30.00 el descuento será del 20%",
+      "idGrupo": "asc_secundaria_aip_2021_p14",
+      "contexto": "Un equipo de estudiantes ha elaborado diversos productos en base a ingredientes naturales para comercializarlos en una feria de emprendimiento. Una estrategia de comercialización de estos productos consiste en aplicar los siguientes descuentos con base en el valor de la compra:\n• Si el valor de la compra es menor a S/ 30.00 no habrá descuento\n• Si el valor de la compra es igual o mayor a S/ 30.00 el descuento será del 20%\nLos estudiantes tienen como propósito identificar el valor final de la compra aplicando funciones en una hoja de cálculo.",
       "imagen": null,
       "preguntas": [
         {
-          "pregunta": "Los estudiantes tienen como propósito identificar el valor final de la compra aplicando funciones en una hoja de cálculo. De acuerdo con el propósito de los estudiantes, ¿cuál de las siguientes funciones deben utilizar?",
+          "pregunta": "De acuerdo con el propósito de los estudiantes, ¿cuál de las siguientes funciones deben utilizar?",
           "opciones": [
             "SI",
             "SI.CONJUNTO",
             "PRECIO.DESCUENTO"
           ],
           "respuesta": "SI",
-          "respuestaCorta": "La función `SI` (IF en inglés) es la adecuada para evaluar una única condición (si la compra es mayor o igual a S/ 30) y devolver uno de dos resultados posibles (aplicar el descuento o no).",
-          "solucionario": "La situación plantea una decisión lógica con una sola condición y dos posibles resultados. La función `SI` se ajusta perfectamente a esta estructura: `SI(prueba_lógica, [valor_si_verdadero], [valor_si_falso])`. La prueba lógica sería verificar si el monto de la compra es >= 30. Si es verdadero, se calcula el precio con el 20% de descuento; si es falso, se mantiene el precio original.",
-          "seccion": "Casuística"
+          "respuestaCorta": "La función SI (IF) es la ideal para evaluar una única condición lógica (compra >= 30) y devolver un resultado si es verdadero y otro si es falso.",
+          "solucionario": "El problema plantea una decisión binaria simple: se cumple o no se cumple una condición (ser mayor o igual a 30). La función SI (IF) está diseñada exactamente para esto: `SI(prueba_lógica, valor_si_verdadero, valor_si_falso)`. SI.CONJUNTO se usa para múltiples condiciones, y PRECIO.DESCUENTO es una función financiera específica.",
+          "seccion": "Aula de Innovación Pedagógica"
         }
       ]
     },
     {
-      "idGrupo": "asc_primaria_2021_p15",
+      "idGrupo": "asc_secundaria_aip_2021_p15",
       "contexto": "Una docente está inscribiendo a sus estudiantes vía online en un concurso de Ciencias. Al culminar la inscripción, el sitio web genera automáticamente una constancia en HTML. En ese sentido, la docente tiene como propósito guardar una copia de la constancia generada por el sitio web en formato PDF para conservar todas las características de dicha constancia, como por ejemplo: la URL, el encabezado, el pie de página, entre otras.",
       "imagen": null,
       "preguntas": [
@@ -336,18 +336,18 @@
           "pregunta": "De acuerdo con el propósito, ¿cuál de las siguientes acciones es más pertinente que realice la docente?",
           "opciones": [
             "Ingresar a la ventana de imprimir del navegador web donde se encuentra visualizando la constancia y elegir la opción \"Guardar en PDF\".",
-            "Copiar el texto de la constancia, pegarlo en un documento de texto, elegir la opción \"Guardar como\" y seleccionar como tipo de archivo \"PDF\".",
+            "Copiar el texto de la constancia, pegarlo en un documento de texto, elegir la opción \"Guardar como\"y seleccionar como tipo de archivo \"PDF\".",
             "Realizar una captura de la ventana del navegador que se encuentra en uso, abrir un documento de texto y elegir la opción \"Pegar\", luego exportarlo en PDF."
           ],
           "respuesta": "Ingresar a la ventana de imprimir del navegador web donde se encuentra visualizando la constancia y elegir la opción \"Guardar en PDF\".",
-          "respuestaCorta": "La opción de 'Guardar como PDF' del menú de impresión del navegador es el método más fiel para capturar una página web completa, preservando su diseño, formato y metadatos como encabezados y pies de página.",
-          "solucionario": "La forma más precisa y profesional de guardar una página web como un documento PDF es utilizando la función de impresión del propio navegador. Al seleccionar 'Guardar en PDF' como destino de la impresora, el navegador renderiza la página HTML completa y la convierte en un archivo PDF que mantiene la estructura, el diseño y los elementos originales. Copiar y pegar texto perdería el formato, y una captura de pantalla es solo una imagen, no un documento vectorial y con texto seleccionable.",
-          "seccion": "Casuística"
+          "respuestaCorta": "La función de impresión del navegador (Ctrl+P) con destino \"Guardar en PDF\" es el método que preserva fielmente el formato HTML, incluyendo encabezados y pies de página.",
+          "solucionario": "La opción A es la más pertinente. Al usar la función de \"Imprimir\" del navegador, se utiliza el motor de renderizado del propio navegador para convertir la página HTML a PDF, conservando el diseño, la URL, y otros elementos del encabezado y pie de página. La opción B (copiar y pegar) perdería todo el formato gráfico y estructural. La opción C (captura de pantalla) generaría una imagen estática dentro de un PDF, no un documento de texto seleccionable.",
+          "seccion": "Aula de Innovación Pedagógica"
         }
       ]
     },
     {
-      "idGrupo": "asc_primaria_2021_p16",
+      "idGrupo": "asc_secundaria_aip_2021_p16",
       "contexto": "Los estudiantes de una IE se acaban de inscribir en una feria sobre emprendimiento. En ese sentido, los organizadores de la feria les han enviado información contenida en un archivo comprimido de extensión RAR. Los estudiantes, luego de descargar el archivo, no pueden acceder a su contenido porque la computadora que están utilizando solo tiene instalado un programa que permite visualizar archivos ZIP.",
       "imagen": null,
       "preguntas": [
@@ -359,14 +359,14 @@
             "Instalar un programa de visualización de archivos con extensión RAR, abrir el programa y luego el archivo desde este."
           ],
           "respuesta": "Cambiar la extensión RAR por la extensión ZIP del archivo y abrirlo en el explorador del sistema operativo.",
-          "respuestaCorta": "Cambiar la extensión de un archivo no altera su formato interno. Un archivo comprimido en formato RAR no puede ser leído por un descompresor de ZIP, sin importar cómo se llame el archivo.",
-          "solucionario": "Los formatos de archivo RAR y ZIP utilizan algoritmos de compresión diferentes. La extensión del archivo (.rar o .zip) solo informa al sistema operativo sobre su formato, pero no lo define. Modificar la extensión de .rar a .zip es como cambiar la etiqueta de una caja sin cambiar su contenido; el programa que solo sabe abrir cajas ZIP no podrá entender el contenido de la caja RAR. Las soluciones correctas implican instalar software compatible con el formato RAR.",
-          "seccion": "Casuística"
+          "respuestaCorta": "Cambiar la extensión de un archivo (de .rar a .zip) no cambia su formato interno. El programa que solo lee ZIP no podrá entender la estructura de compresión RAR.",
+          "solucionario": "RAR y ZIP son algoritmos de compresión distintos. Cambiar la extensión de un archivo (A) es solo cambiarle el nombre; no convierte el formato interno del archivo. Un programa que espera la estructura de un archivo ZIP fallará al intentar leer la estructura de un archivo RAR. Las opciones B y C son soluciones correctas, ya que implican instalar software (como 7-Zip o WinRAR) capaz de entender y descomprimir el formato RAR.",
+          "seccion": "Aula de Innovación Pedagógica"
         }
       ]
     },
     {
-      "idGrupo": "asc_primaria_2021_p17",
+      "idGrupo": "asc_secundaria_aip_2021_p17",
       "contexto": "En una IE se está diseñando un entorno virtual de aprendizaje para que, a partir del presente año y en adelante, los docentes puedan dar reforzamiento de lo aprendido a los estudiantes que se van inscribiendo en la IE y, en el futuro, también se pueda utilizar este entorno para la capacitación de los docentes antiguos y nuevos.",
       "imagen": null,
       "preguntas": [
@@ -378,14 +378,14 @@
             "La escalabilidad."
           ],
           "respuesta": "La escalabilidad.",
-          "respuestaCorta": "La escalabilidad es crucial porque el sistema debe ser capaz de crecer y manejar un número creciente de usuarios (estudiantes y docentes) y contenido sin perder rendimiento.",
-          "solucionario": "El escenario describe un sistema que necesita soportar un crecimiento a futuro, tanto en número de estudiantes como en la adición de un nuevo grupo de usuarios (docentes para capacitación). Esta capacidad de un sistema para manejar una carga de trabajo creciente se denomina 'escalabilidad'. Si bien la usabilidad (facilidad de uso) y la ubicuidad (acceso desde cualquier lugar) son importantes, la escalabilidad es la característica principal que asegura la viabilidad del entorno a largo plazo.",
-          "seccion": "Casuística"
+          "respuestaCorta": "La escalabilidad es la capacidad del sistema para crecer y manejar un aumento de usuarios (nuevos estudiantes y docentes cada año) y datos sin degradar su rendimiento.",
+          "solucionario": "El contexto describe un sistema que debe funcionar ahora (\"presente año\") y seguir funcionando eficientemente a medida que se añaden más usuarios (\"en adelante\", \"en el futuro\", \"docentes antiguos y nuevos\"). La característica técnica que define la capacidad de un sistema para crecer y gestionar una demanda creciente es la escalabilidad. Ubicuidad (acceso desde cualquier lugar) y Usabilidad (facilidad de uso) son importantes, pero la escalabilidad es crucial para el crecimiento descrito.",
+          "seccion": "Aula de Innovación Pedagógica"
         }
       ]
     },
     {
-      "idGrupo": "asc_primaria_2021_p18",
+      "idGrupo": "asc_secundaria_aip_2021_p18",
       "contexto": "Algunos sitios web presentan como característica el visualizarse en diferentes dispositivos sin alterar su apariencia.",
       "imagen": null,
       "preguntas": [
@@ -397,29 +397,37 @@
             "Minimalismo."
           ],
           "respuesta": "Adaptabilidad.",
-          "respuestaCorta": "La adaptabilidad, o diseño responsivo, es la capacidad de un sitio web para ajustar su diseño y contenido de forma fluida a diferentes tamaños de pantalla, como las de computadoras, tabletas y smartphones.",
-          "solucionario": "La característica descrita es la adaptabilidad, también conocida como 'diseño web responsivo' (responsive web design). Consiste en diseñar y desarrollar un sitio web de tal manera que su estructura y elementos se reorganicen automáticamente para ofrecer una experiencia de visualización óptima en una amplia gama de dispositivos. Esto asegura que la navegación y la legibilidad sean adecuadas sin importar el tamaño de la pantalla del usuario.",
-          "seccion": "Casuística"
+          "respuestaCorta": "La adaptabilidad, o diseño web responsivo, es la característica que permite a un sitio web ajustar su diseño para verse correctamente en diferentes tamaños de pantalla.",
+          "solucionario": "La adaptabilidad (o diseño responsivo) es la propiedad de un sitio web para reajustar sus elementos (menús, columnas, imágenes) en función del tamaño de la pantalla del dispositivo (computadora, tablet, smartphone) que lo está visualizando. Esto asegura que la apariencia y la experiencia de usuario sean óptimas en todos los dispositivos.",
+          "seccion": "Aula de Innovación Pedagógica"
         }
       ]
     },
     {
-      "idGrupo": "asc_primaria_2021_p19",
-      "contexto": "Un equipo conformado por directivos, docentes y personal administrativo de una IE se encuentra trabajando en un proyecto para implementar el sitio web de la IE. Para la implementación de este sitio web, el equipo ha identificado las siguientes acciones a seguir:\n- Adquirir un dominio y un hosting.\n- Vincular el dominio con una plataforma que cuente, principalmente, con las siguientes herramientas online: correo electrónico, aulas virtuales, repositorio de recursos y aplicaciones ofimáticas.\n- Generar, desde la plataforma, cuentas de correo electrónico para los directivos, los docentes, el personal administrativo y los estudiantes de la IE.",
+      "idGrupo": "asc_secundaria_aip_2021_p19",
+      "contexto": "Un equipo conformado por directivos, docentes y personal administrativo de una IE se encuentra trabajando en un proyecto para implementar el sitio web de la IE. Para la implementación de este sitio web, el equipo ha identificado las siguientes acciones a seguir:\n• Adquirir un dominio y un hosting.\n• Vincular el dominio con una plataforma que cuente, principalmente, con las siguientes herramientas online: correo electrónico, aulas virtuales, repositorio de recursos y aplicaciones ofimáticas.\n• Generar, desde la plataforma, cuentas de correo electrónico para los directivos, los docentes, el personal administrativo y los estudiantes de la IE.",
       "imagen": null,
       "preguntas": [
         {
-          "pregunta": "A continuación, se presenta la pregunta de Raúl, uno de los integrantes del equipo de trabajo.\n\"Hay muchas opciones para realizar todas estas acciones de implementación del sitio web de nuestra IE, pero ¿cuál de ellas requerirá el mínimo de recursos económicos?\".\n¿Cuál de los siguientes docentes responde correctamente a la pregunta de Raúl?",
+          "pregunta": "A continuación, se presenta la pregunta de Raúl, uno de los integrantes del equipo de trabajo. \"Hay muchas opciones para realizar todas estas acciones de implementación del sitio web de nuestra IE, pero ¿cuál de ellas requerirá el mínimo de recursos económicos?\". ¿Cuál de los siguientes docentes responde correctamente a la pregunta de Raúl?",
           "opciones": [
             "Ana dice: \"Utilizar un hosting gratuito de sitios web y comprar un dominio.org\".",
             "Camilo dice: \"Comprar un servicio de hosting con 2 GB de almacenamiento de datos y comprar un dominio.edu.pe\".",
             "Bruno dice: \"Comprar un plan de proveedor reseller que permita alojar el sitio web, y solicitarle a dicho proveedor un subdominio gratuito con el nombre de la IE\"."
           ],
           "respuesta": "Camilo dice: \"Comprar un servicio de hosting con 2 GB de almacenamiento de datos y comprar un dominio.edu.pe\".",
-          "respuestaCorta": "Para una institución educativa que requiere herramientas integradas como aulas virtuales y correo institucional, la opción más viable y profesional, aunque implique un costo inicial, es adquirir un hosting básico y el dominio oficial .edu.pe.",
-          "solucionario": "La pregunta busca la solución más adecuada y económica para una institución educativa. El hosting gratuito suele ser muy limitado, inseguro y no apto para las herramientas requeridas (aulas virtuales, correos masivos). Un subdominio no otorga una identidad propia. La opción de Camilo, aunque implica un pago, es la más correcta y eficiente a largo plazo: un dominio `.edu.pe` otorga la identidad oficial de institución educativa en Perú y puede vincularse a suites educativas (como Google Workspace for Education o Microsoft 365) que ofrecen las herramientas necesarias de forma gratuita o a bajo costo para escuelas, siendo la inversión más inteligente.",
-          "seccion": "Casuística"
-        },
+          "respuestaCorta": "Según la clave oficial, esta es la opción correcta, asumiendo que el dominio .edu.pe tiene un costo preferencial o es gratuito para IE, y que un hosting gratuito (opción A) no soportaría las herramientas de plataforma requeridas.",
+          "solucionario": "Analizando las opciones: La opción A (hosting gratuito) es la más económica, pero los hostings gratuitos son muy limitados y es improbable que soporten la vinculación de plataformas de aulas virtuales y correos masivos requeridos. La opción C (plan reseller) es para revendedores y es más costosa. La opción B, aunque implica comprar un hosting, se combina con un dominio .edu.pe, que es el dominio institucional correcto para una IE en Perú y que la Red Científica Peruana puede asignar gratuitamente a IE públicas, siendo la combinación más viable y económica para cumplir todos los requisitos.",
+          "seccion": "Aula de Innovación Pedagógica"
+        }
+      ]
+    },
+   
+    {
+      "idGrupo": "asc_secundaria_aip_2021_p19",
+      "contexto": "Un equipo conformado por directivos, docentes y personal administrativo de una IE se encuentra trabajando en un proyecto para implementar el sitio web de la IE. Para la implementación de este sitio web, el equipo ha identificado las siguientes acciones a seguir:\n• Adquirir un dominio y un hosting.\n• Vincular el dominio con una plataforma que cuente, principalmente, con las siguientes herramientas online: correo electrónico, aulas virtuales, repositorio de recursos y aplicaciones ofimáticas.\n• Generar, desde la plataforma, cuentas de correo electrónico para los directivos, los docentes, el personal administrativo y los estudiantes de la IE.",
+      "imagen": null,
+      "preguntas": [
         {
           "pregunta": "El equipo de trabajo se encuentra definiendo los perfiles técnicos mínimos indispensables para implementar todas las acciones identificadas como parte del proyecto. ¿Cuál de los siguientes grupos de conocimientos técnicos es indispensable para la implementación de todas estas acciones?",
           "opciones": [
@@ -428,13 +436,644 @@
             "Conocimientos de diseño gráfico, diseño web y administración de sitios web."
           ],
           "respuesta": "Conocimientos de diseño gráfico, diseño web y administración de sitios web.",
-          "respuestaCorta": "La implementación de un sitio web requiere habilidades para crear su aspecto visual (diseño gráfico), estructurarlo y hacerlo funcional (diseño web), y gestionar el servidor, dominio y correos (administración de sitios web).",
-          "solucionario": "El proyecto completo abarca tres fases clave: 1) Diseño Gráfico: para crear la identidad visual (logo, colores, etc.). 2) Diseño Web: para construir la estructura, la navegación y la interactividad del sitio (usando tecnologías como HTML, CSS, JavaScript o un CMS). 3) Administración de Sitios Web: para configurar el hosting, apuntar el dominio, crear las cuentas de correo y mantener el sitio operativo y seguro. Las otras opciones incluyen conocimientos demasiado específicos (Assembler, SQL) o irrelevantes (soporte de hardware) para las tareas descritas.",
-          "seccion": "Casuística"
+          "respuestaCorta": "Implementar un sitio web (diseño gráfico y diseño web) y gestionar sus servicios (plataforma, correos, aulas) requiere administración de sitios web.",
+          "solucionario": "Para implementar un sitio web (Acción 1) y vincularlo a una plataforma (Acción 2) se requieren conocimientos de diseño web y administración de sitios web (gestión de hosting, dominio, DNS). Para la parte visual del sitio y las aulas, el diseño gráfico es fundamental. El lenguaje assembler (A) es de muy bajo nivel y no se usa para esto. El lenguaje SQL (B) es para bases de datos, y aunque útil, no es indispensable para las acciones descritas como lo es la triada de diseño y administración.",
+          "seccion": "Aula de Innovación Pedagógica"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_aip_2021_p20",
+      "contexto": "Un proveedor de internet comunica que la activación del dominio adquirido para el sitio web de la IE demorará algunas horas. En ese sentido, y con el propósito de que se continúe configurando dicho sitio web, el proveedor le proporciona al director de la IE la siguiente dirección URL: \"https://172.58.23.123/cpanel\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿A qué dispositivo representa la dirección 172.58.23.123?",
+          "opciones": [
+            "A la puerta de enlace del hosting que contiene el sitio web de la IE.",
+            "Al servidor DNS que traduce el dominio en dirección IP.",
+            "Al hosting que contiene el sitio web de la IE."
+          ],
+          "respuesta": "Al hosting que contiene el sitio web de la IE.",
+          "respuestaCorta": "La dirección IP (172.58.23.123) es la dirección numérica del servidor de hosting donde están alojados los archivos del sitio web.",
+          "solucionario": "Mientras el dominio (el nombre, ej: mi-colegio.edu.pe) se propaga, no se puede acceder al sitio por su nombre. El proveedor da la dirección IP (172.58.23.123) que identifica directamente al servidor de hosting donde reside el sitio. El /cpanel es el panel de control de dicho hosting. DNS (B) es el traductor, no el destino. La puerta de enlace (A) es un router, no el servidor.",
+          "seccion": "Aula de Innovación Pedagógica"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_aip_2021_p21",
+      "contexto": "Un equipo de estudiantes se encuentra elaborando un blog para promover el turismo a tres lugares representativos de su localidad. En este contexto, los estudiantes tienen como propósito incluir en el blog la ubicación de cada uno de estos lugares en su respectivo mapa. Los usuarios que visiten el blog deben poder desplazarse dentro de estos mapas y visualizar con facilidad, sin salir de la ventana del blog, la ubicación de cada uno de los lugares representativos de la localidad. En ese sentido, el equipo ha visitado una plataforma de mapas y ha identificado los mapas con la ubicación de cada uno de los lugares representativos.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "De acuerdo con el propósito del equipo de estudiantes, ¿cuál de las siguientes acciones se debe realizar a continuación?",
+          "opciones": [
+            "Obtener imágenes de cada uno de los mapas e insertarlas en el blog.",
+            "Obtener las direcciones web de cada uno de los mapas e insertarlas en el blog.",
+            "Obtener los códigos embedidos de cada uno de los mapas e insertarlos en el blog."
+          ],
+          "respuesta": "Obtener los códigos embedidos de cada uno de los mapas e insertarlos en el blog.",
+          "respuestaCorta": "Para que un mapa sea interactivo (\"desplazarse dentro\") dentro del blog, se debe usar un código \"embedido\" (incrustado), generalmente un <iframe>.",
+          "solucionario": "El requisito clave es que los usuarios puedan \"desplazarse dentro de estos mapas\" sin salir del blog. Una imagen (A) es estática. Una dirección web (B) o hipervínculo sacaría al usuario del blog. El código \"embedido\" (código para incrustar, usualmente usando la etiqueta HTML <iframe>) permite que el mapa interactivo de la plataforma (como Google Maps) funcione dentro de la página del blog.",
+          "seccion": "Aula de Innovación Pedagógica"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_aip_2021_p22",
+      "contexto": "Como parte de un proyecto sobre platos típicos de la provincia, un equipo de estudiantes ha desarrollado un sitio web. El equipo tiene como propósito colocar, en una de las secciones de este sitio web, la revista cultural de la provincia. Esta revista se distribuye en formato impreso y de forma gratuita. El equipo escaneará todas las páginas para agregarlas al sitio web, de tal forma que los usuarios puedan visualizar la revista y cambiar de página como si se tratase de una revista física.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué complemento deben instalar los estudiantes en el sitio web?",
+          "opciones": [
+            "Flipping book.",
+            "Slider accordion.",
+            "Carrusel de imágenes."
+          ],
+          "respuesta": "Flipping book.",
+          "respuestaCorta": "Un \"Flipping book\" (o flipbook) es el complemento específico que simula el efecto de pasar las páginas de una revista física.",
+          "solucionario": "El requisito es simular la experiencia de \"cambiar de página como si se tratase de una revista física\". Un carrusel (C) o un acordeón (B) muestran imágenes o contenido, pero no simulan el efecto de \"hojear\" una revista. Un complemento de \"Flipping book\" está diseñado específicamente para tomar un conjunto de imágenes (páginas escaneadas) o un PDF y presentarlo con una animación que imita el paso de las páginas.",
+          "seccion": "Aula de Innovación Pedagógica"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_aip_2021_p23",
+      "contexto": "Un AIP de una IE cuenta con computadoras de escritorio que poseen: monitor, CPU, teclado, mouse y parlantes. Además, las tarjetas de video de estas computadoras son integradas. ¿Qué dispositivo es indispensable incorporar para que los docentes puedan desarrollar actividades con realidad aumentada?",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué dispositivo es indispensable incorporar para que los docentes puedan desarrollar actividades con realidad aumentada?",
+          "opciones": [
+            "Tarjeta de video dedicada.",
+            "Lentes de realidad virtual.",
+            "Cámara web."
+          ],
+          "respuesta": "Cámara web.",
+          "respuestaCorta": "La Realidad Aumentada (RA) superpone elementos virtuales sobre el mundo real. Para capturar ese mundo real en una computadora de escritorio, es indispensable una cámara web.",
+          "solucionario": "La Realidad Aumentada (RA) funciona capturando el entorno real (a través de una cámara) y añadiendo información o gráficos digitales sobre esa imagen. En un smartphone, se usa la cámara integrada. En una computadora de escritorio, el dispositivo indispensable para capturar el mundo real (ej. un marcador, un libro, el usuario) es la cámara web. Los lentes (B) son para Realidad Virtual. La tarjeta dedicada (A) es recomendable, pero no indispensable para que funcione.",
+          "seccion": "Aula de Innovación Pedagógica"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_aip_2021_p24",
+      "contexto": "Un docente le presenta al DAIP la implementación de la realidad aumentada en una secuencia de funcionamiento de una aplicación que consiste en mostrar un conjunto de vestimentas de las diferentes regiones del Perú para que los estudiantes se las puedan probar virtualmente. A continuación, se presentan los pasos del algoritmo de funcionamiento de la aplicación propuesta por el docente.\nInstrucciones:\n1. Abrir la aplicación.\n2. Cargar en la aplicación una fotografía del estudiante de cuerpo entero.\n3. Elegir la vestimenta a probarse.\n4. Simular cómo le quedaría la vestimenta.\n5. Exportar la imagen de la prueba final en formato PNG.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "El DAIP observa un error en el algoritmo planteado por el docente. ¿En qué instrucción se encuentra el error?",
+          "opciones": [
+            "En la instrucción 2",
+            "En la instrucción 3",
+            "En la instrucción 5"
+          ],
+          "respuesta": "En la instrucción 2",
+          "respuestaCorta": "El error está en la instrucción 2, porque la Realidad Aumentada (RA) opera en tiempo real sobre la imagen capturada por la cámara, no sobre una fotografía estática cargada.",
+          "solucionario": "La Realidad Aumentada (RA) es una tecnología interactiva que opera en tiempo real. La aplicación debería usar la cámara web o del dispositivo móvil para capturar al estudiante en vivo (en tiempo real) y superponer la vestimenta virtual sobre su imagen. El paso 2 describe el uso de una fotografía estática, lo cual no corresponde al concepto de Realidad Aumentada, sino más bien a un editor de fotos o un simulador estático.",
+          "seccion": "Aula de Innovación Pedagógica"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_aip_2021_p25",
+      "contexto": "Durante un taller de robótica para los docentes en el AIP, los participantes, en equipos de trabajo, realizarán un reto que consiste en construir un robot con las siguientes características y lógica de funcionamiento:",
+      "imagen": "img/ascenso/secundaria/2021/aip/2.jpg",
+      "preguntas": [
+        {
+          "pregunta": "En equipos, los docentes realizan diversas acciones para cumplir dicho reto. Un equipo de trabajo desarrolló un diagrama de flujo acerca del funcionamiento del robot. ¿A cuál de las siguientes fases de la robótica educativa corresponde la acción realizada por el equipo de docentes?",
+          "opciones": [
+            "Programación.",
+            "Construcción.",
+            "Diseño."
+          ],
+          "respuesta": "Programación.",
+          "respuestaCorta": "Según la clave, hacer un diagrama de flujo se considera parte de la fase de Programación, ya que es el paso previo lógico para escribir el código.",
+          "solucionario": "En las fases de la robótica educativa (Diseñar, Construir, Programar), la creación de un diagrama de flujo es la representación gráfica del algoritmo, es decir, la lógica de las instrucciones que el robot seguirá. Esta acción es un paso fundamental y previo dentro de la fase de Programación, donde se traduce la lógica del diagrama a un lenguaje que el robot entienda.",
+          "seccion": "Aula de Innovación Pedagógica"
+        },
+        {
+          "pregunta": "Se tiene como propósito utilizar la menor cantidad de procedimientos en el desarrollo del algoritmo para el desplazamiento del robot, según lo señalado en la lógica de funcionamiento. ¿Cuál de las siguientes propuestas permite lograr este propósito?",
+          "opciones": [
+            "Desarrollar un algoritmo con un \"ciclo repetir\" de 2 repeticiones y 4 sentencias.",
+            "Desarrollar un algoritmo con un \"ciclo repetir\" de 4 repeticiones y 2 sentencias.",
+            "Desarrollar un algoritmo lineal sin ciclos ni condicionales."
+          ],
+          "respuesta": "Desarrollar un algoritmo con un \"ciclo repetir\" de 4 repeticiones y 2 sentencias.",
+          "respuestaCorta": "El robot repite la misma secuencia 4 veces (para formar el cuadrado): 1. Avanzar hasta tocar, 2. Girar 90°. Por lo tanto, un ciclo de 4 repeticiones con 2 sentencias es lo óptimo.",
+          "solucionario": "La lógica de funcionamiento describe un cuadrado. La secuencia básica que se repite es: [Sentencia 1: Avanzar hasta que el sensor toque la pared] y [Sentencia 2: Girar 90 grados a la derecha]. Esta secuencia se repite exactamente 4 veces para completar los 4 lados del cuadrado. Por lo tanto, el algoritmo más eficiente es un \"ciclo repetir\" de 4 repeticiones que contenga esas 2 sentencias.",
+          "seccion": "Aula de Innovación Pedagógica"
+        },
+        {
+          "pregunta": "El sensor de impacto tiene tres estados representados por los siguientes valores:\n• Estado \"suelto\", cuyo valor es 0\n• Estado \"presionado\", cuyo valor es 1\n• Estado \"presionado siempre\", cuyo valor es 2\n¿Cuál es el suceso que corresponde al estado \"presionado siempre\"?",
+          "opciones": [
+            "El sensor toca la pared y el robot gira.",
+            "El sensor toca la pared y el robot se detiene.",
+            "El sensor toca la pared y el robot retrocede de inmediato."
+          ],
+          "respuesta": "El sensor toca la pared y el robot se detiene.",
+          "respuestaCorta": "En el contexto de la lógica del robot, el estado 2 (\"presionado siempre\") indicaría que el robot ha chocado y debe permanecer detenido, en lugar de rebotar o girar.",
+          "solucionario": "El estado \"suelto\" (0) es el estado normal. El estado \"presionado\" (1) es el evento momentáneo del toque. El estado \"presionado siempre\" (2) describe una condición en la que el sensor se mantiene presionado sin soltarse. En la lógica del robot, esto se interpreta como que ha chocado y debe detener su avance, cumpliendo la condición de \"detenerse al tocar la otra pared\".",
+          "seccion": "Aula de Innovación Pedagógica"
+        },
+        {
+          "pregunta": "En el caso de que el sensor de impacto tenga un desperfecto, ¿cuál de los siguientes sensores puede reemplazarlo?",
+          "opciones": [
+            "Sensor de temperatura.",
+            "Sensor ultrasónico.",
+            "Sensor de color."
+          ],
+          "respuesta": "Sensor ultrasónico.",
+          "respuestaCorta": "El sensor ultrasónico cumple la misma función (detectar obstáculos), pero midiendo la distancia en lugar de requerir un impacto físico.",
+          "solucionario": "La función del sensor de impacto es detectar un obstáculo (la pared). Si este falla, se necesita otro sensor que también detecte obstáculos. El sensor ultrasónico cumple esta función al emitir ondas de sonido y medir el tiempo que tardan en rebotar, permitiendo al robot \"saber\" que hay una pared enfrente a una distancia determinada (ej. 5 cm) y detenerse antes de chocar. Los sensores de temperatura (A) y color (C) no sirven para este propósito.",
+          "seccion": "Aula de Innovación Pedagógica"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_aip_2021_p26",
+      "contexto": "Como parte de un proyecto interinstitucional, el director de una IE coordinará diversas acciones con los directores de cinco Instituciones Educativas de diferentes regiones del país. En ese sentido, el director organizará una reunión virtual teniendo en cuenta las siguientes características:\n• Que la reunión sea en tiempo real.\n• Que él pueda administrar la configuración de la reunión.\n• Que la comunicación entre todos los participantes sea audiovisual.\n• Que todos los participantes puedan compartir la pantalla de su computadora.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes servicios le permitirá al director organizar la reunión virtual con todas las características mencionadas?",
+          "opciones": [
+            "Videoconferencia.",
+            "Chat grupal.",
+            "VoIP."
+          ],
+          "respuesta": "Videoconferencia.",
+          "respuestaCorta": "Un servicio de Videoconferencia (como Zoom, Meet o Teams) es el único que integra todas las características: tiempo real, administración, audiovisual y compartir pantalla.",
+          "solucionario": "Todas las características descritas definen un servicio de Videoconferencia. Un chat grupal (B) es principalmente texto. VoIP (Voice over IP) (C) se refiere solo a la transmisión de voz (audio), pero no necesariamente incluye video, administración de reunión ni la función de compartir pantalla.",
+          "seccion": "Aula de Innovación Pedagógica"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_aip_2021_p27",
+      "contexto": "Durante una reunión virtual, el facilitador visualiza a todos los participantes en su pantalla sin dificultad, pero, ellos manifiestan que el video del facilitador se observa entrecortado por momentos; mientras que el video de los demás participantes se visualiza con normalidad.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes alternativas describe la velocidad de carga y descarga de la conexión a internet de la computadora del facilitador durante la reunión virtual?",
+          "opciones": [
+            "Velocidad de carga y velocidad de descarga insuficientes.",
+            "Velocidad de carga suficiente y velocidad de descarga insuficiente.",
+            "Velocidad de carga insuficiente y velocidad de descarga suficiente."
+          ],
+          "respuesta": "Velocidad de carga insuficiente y velocidad de descarga suficiente.",
+          "respuestaCorta": "El facilitador puede ver (descargar) bien, pero su video se envía (carga) mal. Por lo tanto, su velocidad de carga es insuficiente y su descarga es suficiente.",
+          "solucionario": "En una videoconferencia, la velocidad de descarga (bajada) permite recibir el video de los demás. El facilitador \"visualiza a todos sin dificultad\", por lo que su descarga es suficiente. La velocidad de carga (subida) permite enviar el propio video a los demás. Los participantes ven el video del facilitador \"entrecortado\", lo que indica que su velocidad de carga es insuficiente para transmitir su video correctamente.",
+          "seccion": "Aula de Innovación Pedagógica"
+        }
+      ]
+    },
+    
+    {
+      "idGrupo": "asc_secundaria_aip_2021_p28",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes herramientas del servidor escuela permite monitorear las actividades que los estudiantes desarrollan al utilizar las computadoras del AIP?",
+          "opciones": [
+            "Visor de eventos.",
+            "Firewall.",
+            "Italc."
+          ],
+          "respuesta": "Italc.",
+          "respuestaCorta": "Italc (Intelligent Teaching and Learning with Computers) es un software de gestión de aula diseñado para monitorear y controlar las computadoras de los estudiantes.",
+          "solucionario": "Italc es un software libre de gestión de aulas de computadoras. Su función principal es permitir al docente (o al DAIP) ver las pantallas de los estudiantes, tomar control remoto, enviar mensajes y, en general, monitorear las actividades que realizan en la red del AIP. El Visor de eventos (A) registra sucesos del sistema operativo y el Firewall (B) gestiona la seguridad de la red.",
+          "seccion": "Aula de Innovación Pedagógica"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_aip_2021_p29",
+      "contexto": "Una de las formas de vulnerar la seguridad de las contraseñas es el ataque de fuerza bruta. Este ataque consiste en intentar descifrar una contraseña probando todas las combinaciones posibles, hasta encontrar la correcta. En ese sentido, es necesario realizar acciones para resguardar la seguridad de las contraseñas.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes acciones proporciona mayor seguridad a las contraseñas frente a este ataque?",
+          "opciones": [
+            "Usar contraseñas que combinen dos palabras, una en español y, la otra, en inglés.",
+            "Usar contraseñas que combinen dos palabras que contienen símbolos y números.",
+            "Usar contraseñas que cambien el orden de los números de la fecha de nacimiento."
+          ],
+          "respuesta": "Usar contraseñas que combinen dos palabras que contienen símbolos y números.",
+          "respuestaCorta": "Añadir símbolos y números incrementa exponencialmente la cantidad de combinaciones posibles, haciendo que un ataque de fuerza bruta sea mucho más difícil y lento.",
+          "solucionario": "La fortaleza de una contraseña contra un ataque de fuerza bruta depende de su longitud y de la variedad de caracteres que utiliza (complejidad). La opción C es débil porque usa un patrón predecible (fecha de nacimiento). La opción A es mejor, pero la opción B es la más fuerte, ya que al combinar palabras (longitud) con símbolos y números (complejidad), se aumenta al máximo el universo de combinaciones posibles que el ataque tendría que probar.",
+          "seccion": "Aula de Innovación Pedagógica"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_aip_2021_p30",
+      "contexto": "Una docente tiene como propósito identificar un conjunto de páginas web de dominios educativos sobre bioseguridad.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "De acuerdo con el propósito de la docente, ¿cuál de las siguientes alternativas es una forma de búsqueda avanzada?",
+          "opciones": [
+            "intitle: bioseguridad",
+            "bioseguridad site:.edu",
+            "\"bioseguridad\" + \"educación\""
+          ],
+          "respuesta": "bioseguridad site:.edu",
+          "respuestaCorta": "El operador \"site:.edu\" es una forma de búsqueda avanzada que restringe los resultados a sitios web que terminen con el dominio de nivel superior .edu.",
+          "solucionario": "El operador de búsqueda avanzada `site:` permite filtrar los resultados para que solo muestren páginas dentro de un dominio específico. Al usar `bioseguridad site:.edu`, la docente le pide al motor de búsqueda que encuentre la palabra \"bioseguridad\" únicamente en páginas web cuyo dominio sea \".edu\", cumpliendo así su propósito de hallar dominios educativos.",
+          "seccion": "Aula de Innovación Pedagógica"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_aip_2021_p31",
+      "contexto": "En un sitio web sobre robótica educativa, una DAIP ha encontrado el siguiente enlace: \"https://roboticaeducativa.org\".",
+      "imagen": "img/ascenso/secundaria/2021/aip/3.jpg",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes razones explica por qué NO se puede acceder al sitio web desde el enlace?",
+          "opciones": [
+            "Porque el enlace al sitio web inicia con el protocolo de navegación a internet \"https\".",
+            "Porque la vigencia del registro del dominio \"roboticaeducativa.org\" en internet ha expirado.",
+            "Porque el código del enlace al sitio web contiene un espacio en blanco que el navegador reemplazó por \"%20\"."
+          ],
+          "respuesta": "Porque el código del enlace al sitio web contiene un espacio en blanco que el navegador reemplazó por \"%20\".",
+          "respuestaCorta": "La aparición de \"%20\" en la URL indica que el enlace original tenía un espacio (\"robotica educativa.org\"), lo cual invalida el nombre de dominio.",
+          "solucionario": "Los nombres de dominio (URLs) no pueden contener espacios en blanco. El código \"%20\" es la codificación URL para un carácter de espacio. El hecho de que aparezca en la barra de direcciones significa que el enlace original estaba mal escrito (probablemente como \"robotica educativa.org\" en lugar de \"roboticaeducativa.org\"). El navegador intenta acceder a un dominio que no existe (\"robotica educativa.org\"), y por eso falla.",
+          "seccion": "Aula de Innovación Pedagógica"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_aip_2021_p32",
+      "contexto": "El director de una IE enviará un documento como archivo adjunto en un correo electrónico a los directivos, los docentes y los padres de familia. Al momento de enviar dicho correo, el director colocará las direcciones de correo electrónico de los destinatarios considerando la siguiente distribución:\n• Para: correos electrónicos de los directivos\n• CC: correos electrónicos de los docentes\n• CCO: correos electrónicos de los padres de familia",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes alternativas explica lo que sucederá al enviar los correos electrónicos con esa distribución?",
+          "opciones": [
+            "Los padres de familia visualizarán las cuentas de correo electrónico de los directivos y los docentes pero no podrán visualizar las cuentas de los otros padres de familia.",
+            "Los directivos, los docentes y los padres de familia visualizarán las cuentas de correo electrónico de todos los destinatarios que recibirán el correo.",
+            "Los directivos, los docentes y los padres de familia visualizarán solamente las cuentas de correo electrónico de los directivos que recibirán el correo."
+          ],
+          "respuesta": "Los padres de familia visualizarán las cuentas de correo electrónico de los directivos y los docentes pero no podrán visualizar las cuentas de los otros padres de familia.",
+          "respuestaCorta": "Los destinatarios en CCO (Copia de Carbón Oculta) pueden ver a los destinatarios en \"Para\" y \"CC\", pero no pueden ver a otros destinatarios que también estén en CCO.",
+          "solucionario": "En el correo electrónico: Todos los destinatarios pueden ver las direcciones en \"Para\" y \"CC\". Los destinatarios en \"Para\" y \"CC\" también pueden verse entre sí. Sin embargo, las direcciones en \"CCO\" (Copia de Carbón Oculta o Blind Carbon Copy) están ocultas para todos los demás destinatarios (incluidos otros en CCO). Por lo tanto, los padres (en CCO) verán a los directivos (Para) y docentes (CC), pero no se verán entre ellos.",
+          "seccion": "Aula de Innovación Pedagógica"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_aip_2021_p33",
+      "contexto": "Un directivo ha grabado un audio para orientar a los docentes sobre la aplicación de la norma técnica referida al inicio del año escolar. Este audio será compartido a través del sitio web institucional para que los docentes puedan acceder a este, ya sea desde el mismo sitio web o descargándolo.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes recursos TIC ha elaborado el directivo?",
+          "opciones": [
+            "Slidecast.",
+            "Vodcast.",
+            "Podcast."
+          ],
+          "respuesta": "Podcast.",
+          "respuestaCorta": "Un archivo de audio grabado y distribuido digitalmente para ser escuchado o descargado es la definición de un podcast.",
+          "solucionario": "Un \"Podcast\" (C) es un archivo de audio digital que se puede escuchar en línea o descargar. Un \"Vodcast\" (B) es un archivo de video (Video-on-demand-cast). Un \"Slidecast\" (A) es una presentación de diapositivas sincronizada con audio. Dado que el directivo solo grabó \"un audio\", el recurso elaborado es un podcast.",
+          "seccion": "Aula de Innovación Pedagógica"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_aip_2021_p34",
+      "contexto": "Un DAIP se encuentra realizando un taller para docentes sobre el uso de screencast en el proceso de enseñanza y aprendizaje.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes materiales pueden elaborar los docentes mediante el uso de screencast?",
+          "opciones": [
+            "Un video que muestra el proceso paso a paso del manejo de un programa en una computadora.",
+            "Una presentación multimedia sobre tipos de sistemas operativos, convertida en video.",
+            "Un video que muestra el proceso de cambio de una pantalla en una laptop XO."
+          ],
+          "respuesta": "Un video que muestra el proceso paso a paso del manejo de un programa en una computadora.",
+          "respuestaCorta": "Un \"screencast\" es una grabación digital de la pantalla de una computadora, comúnmente usada para crear tutoriales sobre el manejo de software.",
+          "solucionario": "El término \"screencast\" se refiere específicamente a la grabación de lo que ocurre en la pantalla de una computadora. Por lo tanto, su uso ideal es para crear video-tutoriales que muestren el \"proceso paso a paso del manejo de un programa\" (A). La opción C implica grabar un objeto físico (una laptop) con una cámara externa, y la opción B es solo una conversión de formato, no una grabación de pantalla.",
+          "seccion": "Aula de Innovación Pedagógica"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_aip_2021_p35",
+      "contexto": "Un docente le consulta al DAIP acerca de los permisos que se pueden otorgar a los usuarios con los que se comparten archivos en repositorios online. El DAIP le comenta al docente lo siguiente: \"Un usuario puede realizar modificaciones en la información de un documento compartido. Sin embargo, estas modificaciones están sujetas a la aprobación del propietario del documento\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes permisos se describe en el comentario del DAIP?",
+          "opciones": [
+            "De edición.",
+            "De lectura.",
+            "De revisión."
+          ],
+          "respuesta": "De revisión.",
+          "respuestaCorta": "El permiso de \"revisión\" (o \"comentarista\") permite sugerir cambios, pero estos deben ser aprobados (aceptados o rechazados) por el propietario.",
+          "solucionario": "El permiso de \"edición\" (A) permite modificar el documento directamente sin aprobación. El permiso de \"lectura\" (B) solo permite ver el documento. El permiso descrito, donde se pueden \"realizar modificaciones\" (sugerencias) que están \"sujetas a la aprobación del propietario\", corresponde exactamente al permiso de \"revisión\" o \"comentarista\" (disponible en plataformas como Google Drive o Microsoft 365).",
+          "seccion": "Aula de Innovación Pedagógica"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_aip_2021_p36",
+      "contexto": "En una IE se ha implementado un aula virtual online y se ha generado una cuenta de usuario para cada uno de los docentes. Por seguridad, se ha pedido a los docentes que registren un método seguro de recuperación de contraseña de acceso a su cuenta.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "De las siguientes alternativas presentadas para la recuperación de la contraseña en el aula virtual online de la IE, ¿cuál es la menos segura?",
+          "opciones": [
+            "Registrar su dispositivo móvil como método de recuperación.",
+            "Vincular su cuenta a un correo electrónico de recuperación.",
+            "Establecer una pregunta secreta de recuperación."
+          ],
+          "respuesta": "Establecer una pregunta secreta de recuperación.",
+          "respuestaCorta": "Las preguntas secretas son el método menos seguro porque sus respuestas a menudo se pueden adivinar o encontrar fácilmente mediante ingeniería social (ej. \"¿Nombre de tu mascota?\").",
+          "solucionario": "Las preguntas secretas (C) son el método menos seguro porque dependen de información estática que a menudo es pública o fácil de adivinar (ej. \"¿Ciudad natal?\", \"¿Apellido de tu madre?\"). Los métodos de recuperación basados en dispositivos móviles (A) (SMS o app de autenticación) o un correo electrónico secundario (B) son más seguros porque requieren acceso a un segundo factor (el teléfono) o a otra cuenta protegida.",
+          "seccion": "Aula de Innovación Pedagógica"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_aip_2021_p37",
+      "contexto": "Un AIP cuenta con una computadora servidor escuela y varias computadoras para el uso de los estudiantes. Como parte de un trabajo en equipo, los estudiantes quieren buscar información en internet usando las computadoras del AIP, pero no pueden acceder a algunos sitios web. El DAIP nota que en la computadora que funciona como servidor escuela sí se puede acceder a estos sitios web.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes alternativas describe lo que sucede con las computadoras que usan los estudiantes?",
+          "opciones": [
+            "El acceso de las computadoras a la red ha sido bloqueado a través del filtrado de MAC.",
+            "La configuración de los DNS de las computadoras presentan direcciones IP incorrectas.",
+            "El filtro de contenido ha restringido la navegación en las computadoras."
+          ],
+          "respuesta": "El filtro de contenido ha restringido la navegación en las computadoras.",
+          "respuestaCorta": "Si el servidor (administrador) puede acceder y los clientes (estudiantes) no, es un indicativo de que hay un filtro de contenido aplicado a los equipos de los estudiantes.",
+          "solucionario": "El escenario describe un control centralizado. El servidor escuela (que administra la red) tiene acceso completo, mientras que las computadoras cliente (estudiantes) tienen un acceso limitado a \"algunos sitios web\". Esto es el funcionamiento típico de un \"filtro de contenido\" (C), que se configura en el servidor para restringir qué sitios pueden visitar los estudiantes. El filtrado MAC (A) o un DNS incorrecto (B) usualmente bloquearían todo el acceso a internet, no solo a \"algunos sitios\".",
+          "seccion": "Aula de Innovación Pedagógica"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_aip_2021_p38",
+      "contexto": "Un equipo de estudiantes se encuentra desarrollando un sitio web para su proyecto de emprendimiento. El sitio web deberá visualizarse en el navegador de los siguientes dispositivos: computadora, tablet y smartphone.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes combinaciones de lenguajes de programación es la más pertinente para que el sitio web sea visualizado correctamente en los dispositivos?",
+          "opciones": [
+            "Visual Basic y C++",
+            "HTML y CSS",
+            "Python y SQL"
+          ],
+          "respuesta": "HTML y CSS",
+          "respuestaCorta": "HTML es el lenguaje para estructurar el contenido de todas las páginas web, y CSS es el lenguaje para diseñar su apariencia y hacerla adaptable (responsive) a diferentes dispositivos.",
+          "solucionario": "HTML (HyperText Markup Language) es el lenguaje estándar para crear la estructura y el contenido de un sitio web. CSS (Cascading Style Sheets) es el lenguaje que se usa para darle estilo, diseño y, crucialmente, para implementar el \"diseño responsivo\" (adaptabilidad) que permite que el sitio se vea bien en computadoras, tablets y smartphones. Las otras opciones son lenguajes de backend (Python, SQL) o de aplicaciones de escritorio (VB, C++).",
+          "seccion": "Aula de Innovación Pedagógica"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_aip_2021_p39",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes es una característica del uso del modo oculto o incógnito en un navegador?",
+          "opciones": [
+            "Permite desactivar el bloqueo de páginas restringidas al navegar en internet.",
+            "Permite ocultar la dirección IP de la computadora que se está utilizando al navegar en internet.",
+            "Permite navegar en internet sin guardar en el historial del navegador las direcciones de los sitios web visitados."
+          ],
+          "respuesta": "Permite navegar en internet sin guardar en el historial del navegador las direcciones de los sitios web visitados.",
+          "respuestaCorta": "El modo incógnito solo evita que el navegador local guarde el historial de navegación, las cookies y los datos de formularios.",
+          "solucionario": "La función principal del modo incógnito u oculto es la privacidad local. Evita que la sesión de navegación se registre en el historial del navegador, y borra las cookies y datos de sitio al cerrar la ventana (C). No oculta la dirección IP (B) al proveedor de internet o a los sitios web visitados, ni evade filtros o bloqueos de red (A).",
+          "seccion": "Aula de Innovación Pedagógica"
+        }
+      ]
+    },
+  
+    {
+      "idGrupo": "asc_secundaria_aip_2021_p40",
+      "contexto": "Un docente ha elaborado un blog en su sitio web propio. Cuando los visitantes acceden a dicho blog publicado en la web, observan que al lado izquierdo de la URL, en el navegador, aparece la frase: \"No es seguro\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes es una consecuencia para los visitantes que ingresan a un blog con la frase \"No es seguro\" en su URL?",
+          "opciones": [
+            "Que no se registre su identidad al momento de colocar comentarios en el blog.",
+            "Que estén accediendo a un blog cuya información aún no ha sido validada por un experto.",
+            "Que el blog sea un medio para acceder a su información a través de un ataque informático."
+          ],
+          "respuesta": "Que el blog sea un medio para acceder a su información a través de un ataque informático.",
+          "respuestaCorta": "La advertencia \"No es seguro\" indica que el sitio no usa HTTPS, por lo que la información enviada (como en comentarios o formularios) no está encriptada y puede ser interceptada.",
+          "solucionario": "La advertencia \"No es seguro\" significa que el sitio web no tiene un certificado SSL (Secure Sockets Layer) y utiliza el protocolo HTTP en lugar de HTTPS. Esto implica que cualquier dato que el visitante envíe al sitio (como nombres, contraseñas o comentarios) viaja sin encriptar, siendo vulnerable a ser interceptado por atacantes (ataques \"Man-in-the-Middle\").",
+          "seccion": "Aula de Innovación Pedagógica"
+        },
+        {
+          "pregunta": "Para eliminar la frase: \"No es seguro\" de la URL del blog, ¿cuál de los siguientes cambios es necesario realizar en su configuración?",
+          "opciones": [
+            "Implementar un certificado SSL al hosting que aloja el sitio web del blog.",
+            "Comprar un servicio de posicionamiento de la URL del sitio web del blog.",
+            "Configurar la opción de usuarios del hosting que aloja el sitio web del blog."
+          ],
+          "respuesta": "Implementar un certificado SSL al hosting que aloja el sitio web del blog.",
+          "respuestaCorta": "Para que un navegador muestre el \"candado de seguridad\" y elimine la advertencia, se debe instalar un certificado SSL/TLS en el hosting para habilitar el protocolo HTTPS.",
+          "solucionario": "La advertencia \"No es seguro\" se elimina al migrar el sitio de HTTP a HTTPS. Esto se logra implementando un certificado SSL (Secure Sockets Layer) o su sucesor TLS en el servidor de hosting. Este certificado encripta la comunicación entre el navegador del visitante y el servidor.",
+          "seccion": "Aula de Innovación Pedagógica"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_aip_2021_p41",
+      "contexto": "Una DAIP reemplazará los cables directos de conexión de las computadoras del AIP a la red. Para este trabajo, utilizará la configuración del cableado con el estándar 568b. Adicionalmente, por medidas de seguridad, creará dos cables cruzados para utilizarlos en caso de alguna situación imprevista.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es la función de los cables cruzados?",
+          "opciones": [
+            "Conectar el servidor con el módem.",
+            "Conectar las computadoras al switch.",
+            "Conectar directamente dos computadoras."
+          ],
+          "respuesta": "Conectar directamente dos computadoras.",
+          "respuestaCorta": "Un cable cruzado (crossover) se usa para conectar dos dispositivos del mismo tipo (ej. PC a PC o switch a switch) sin un dispositivo intermediario.",
+          "solucionario": "Los cables directos (como el 568B en ambos extremos) se usan para conectar dispositivos diferentes (PC a switch, PC a router). Los cables cruzados (crossover), que tienen la norma 568A en un extremo y 568B en el otro, invierten los pares de transmisión y recepción. Su función es conectar dos dispositivos iguales directamente, como dos computadoras (PC a PC), sin necesidad de un switch.",
+          "seccion": "Aula de Innovación Pedagógica"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_aip_2021_p42",
+      "contexto": "El AIP de una IE está implementada con una computadora que tiene instalado el sistema operativo servidor escuela, y computadoras que tienen instalado el sistema operativo cliente, las cuales son usadas por los estudiantes. Cierto día, la computadora que tiene instalado el sistema operativo servidor escuela sufre un desperfecto de hardware, por lo que la DAIP plantea realizar el siguiente procedimiento:\nDentro del sistema operativo de una de las computadoras usadas por los estudiantes, ejecutar un programa para crear una computadora con el sistema operativo servidor escuela y configurarla.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cómo se denomina el procedimiento planteado por la DAIP?",
+          "opciones": [
+            "Virtualización.",
+            "Clonación.",
+            "Formateo."
+          ],
+          "respuesta": "Virtualización.",
+          "respuestaCorta": "El procedimiento de ejecutar un sistema operativo (servidor escuela) dentro de otro sistema operativo (cliente) usando un programa se llama virtualización.",
+          "solucionario": "La virtualización es el proceso de crear una versión virtual (basada en software) de un recurso tecnológico, como un servidor o un sistema operativo. El DAIP está usando un software (como VirtualBox o VMWare) en la computadora cliente para ejecutar una \"computadora virtual\" que contenga el sistema operativo del servidor. Clonación (B) es copiar un disco, y Formateo (C) es borrarlo.",
+          "seccion": "Aula de Innovación Pedagógica"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_aip_2021_p43",
+      "contexto": "Una docente ha elaborado un software educativo y lo ha compartido para que los usuarios puedan utilizarlo con algunas condiciones, como por ejemplo: reconocimiento de autoría, uso sin fin comercial, entre otros.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué tipo de licencia podría tener el software elaborado por la docente?",
+          "opciones": [
+            "Copyleft.",
+            "Copyright.",
+            "Creative Commons."
+          ],
+          "respuesta": "Creative Commons.",
+          "respuestaCorta": "Las licencias Creative Commons (CC) están diseñadas para permitir a los creadores establecer condiciones específicas como \"reconocimiento de autoría\" (BY) y \"uso sin fin comercial\" (NC).",
+          "solucionario": "Las licencias Creative Commons son el estándar para licenciar obras creativas (incluyendo software) permitiendo su uso bajo ciertas condiciones. Las condiciones mencionadas (\"reconocimiento de autoría\" y \"uso sin fin comercial\") son dos de los pilares de las licencias CC (BY-NC). Copyright (B) es la reserva total de derechos, y Copyleft (A) es una forma de licenciamiento de software libre que exige que las obras derivadas mantengan la misma licencia.",
+          "seccion": "Aula de Innovación Pedagógica"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_aip_2021_p44",
+      "contexto": "Un equipo de estudiantes ha diseñado un prototipo de una vivienda en 3D en la \"computadora A\" del AIP, y ha impreso un exemplar del prototipo en calidad fotográfica. Luego de presentar su prototipo, el docente les solicita imprimir un exemplar adicional con la misma calidad de impresión. Los estudiantes se dirigen al AIP pero, esta vez, utilizan la \"computadora B\" y la misma impresora para realizar la impresión.\nLos estudiantes copiaron el archivo al disco de almacenamiento de la \"computadora B\". Luego, durante el proceso de impresión del exemplar en la \"computadora B\", los estudiantes notan que este proceso demora casi el doble del tiempo que en la \"computadora A\".\nA continuación, se presentan las especificaciones técnicas de las computadoras utilizadas por los estudiantes:",
+      "imagen": "img/ascenso/secundaria/2021/aip/4.jpg",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes especificaciones técnicas de las computadoras interviene directamente en el problema mencionado por los estudiantes?",
+          "opciones": [
+            "El tipo de disco de las computadoras.",
+            "El sistema operativo de las computadoras.",
+            "La capacidad de memoria RAM de las computadoras."
+          ],
+          "respuesta": "El sistema operativo de las computadoras.",
+          "respuestaCorta": "El sistema operativo de 32 bits (Computadora B) limita la cantidad de RAM que el sistema puede usar (a ~4GB), a pesar de tener 12GB instalados, afectando el rendimiento de tareas pesadas como la impresión 3D.",
+          "solucionario": "La Computadora A tiene 8GB de RAM y un SO de 64 bits (que puede usar los 8GB). La Computadora B tiene 12GB de RAM, pero un SO de 32 bits. Un SO de 32 bits solo puede direccionar (usar) un máximo de 4GB de RAM, sin importar que tenga 12GB instalados. El proceso de impresión 3D (que requiere procesar un archivo 3D de alta calidad) es intensivo en memoria RAM. Al estar limitada a 4GB, la Computadora B es más lenta que la Computadora A (que usa 8GB), causando la demora.",
+          "seccion": "Aula de Innovación Pedagógica"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_aip_2021_p45",
+      "contexto": "Media hora después de descargar un archivo de internet, un estudiante lo imprime en la impresora de red del AIP y, de forma simultánea, desea usar la misma computadora para enviar un documento a su compañero. Sin embargo, al intentar enviar el correo electrónico desde el navegador, no puede conectarse a internet.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes es una de las causas del problema presentado?",
+          "opciones": [
+            "La tarjeta de red de la computadora se ha dañado.",
+            "El firewall de la computadora ha bloqueado la salida a la red.",
+            "El dispositivo configurado como puerta de enlace en la computadora se encuentra inoperativo."
+          ],
+          "respuesta": "El dispositivo configurado como puerta de enlace en la computadora se encuentra inoperativo.",
+          "respuestaCorta": "La puerta de enlace (gateway) es el dispositivo (usualmente el router) que permite la conexión de la red local (AIP) a internet. Si está inoperativo, la red local (impresora) funciona, pero la conexión a internet (correo) falla.",
+          "solucionario": "El estudiante puede imprimir en la impresora de red, lo que significa que la tarjeta de red (A) funciona y la red local (LAN) está operativa. Sin embargo, no puede enviar un correo, lo que significa que no tiene acceso a internet (WAN). El dispositivo que gestiona la comunicación entre la LAN y la WAN es la puerta de enlace (gateway). Si la puerta de enlace (router) está inoperativa, se pierde la conexión a internet, pero los dispositivos de la red local pueden seguir comunicándose entre sí.",
+          "seccion": "Aula de Innovación Pedagógica"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_aip_2021_p46",
+      "contexto": "Como parte del mantenimiento de un AIP, una DAIP se encuentra actualizando el sistema operativo de una computadora. Esta computadora tiene un sistema operativo de 32 bits y la DAIP cambiará dicho sistema operativo a una versión de 64 bits. Al culminar este proceso, la DAIP nota que la impresora que estaba conectada a la computadora no es reconocida en el nuevo sistema operativo.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es el componente que debe actualizar la DAIP para que la impresora sea reconocida?",
+          "opciones": [
+            "El controlador.",
+            "El visor de eventos.",
+            "El editor de registro."
+          ],
+          "respuesta": "El controlador.",
+          "respuestaCorta": "El controlador (driver) es el software específico que permite al sistema operativo comunicarse con el hardware (la impresora). Se necesita el controlador de 64 bits.",
+          "solucionario": "El controlador o \"driver\" es un software que actúa como traductor entre el sistema operativo y un dispositivo de hardware. El controlador de 32 bits usado anteriormente no es compatible con el nuevo sistema operativo de 64 bits. La DAIP debe descargar e instalar el controlador específico de la impresora para la versión de 64 bits del sistema operativo.",
+          "seccion": "Aula de Innovación Pedagógica"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_aip_2021_p47",
+      "contexto": "Como parte de un proyecto, un equipo de estudiantes tiene como propósito insertar fotografías de su propia autoría en un blog. En ese sentido, la DAIP les comenta lo siguiente: \"Algunas fotografías que se inserten en el blog pueden brindar información, como, por ejemplo, el modelo de la cámara fotográfica digital o la ubicación geográfica del lugar donde se tomaron las fotografías\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿A cuál de las siguientes características de los archivos corresponde principalmente el comentario realizado por la DAIP?",
+          "opciones": [
+            "Formato de un archivo.",
+            "Extensión de un archivo.",
+            "Metadatos de un archivo."
+          ],
+          "respuesta": "Metadatos de un archivo.",
+          "respuestaCorta": "Los metadatos (datos sobre datos) de un archivo de imagen (como EXIF) almacenan información como el modelo de la cámara, la fecha y la ubicación GPS.",
+          "solucionario": "Los metadatos son datos descriptivos incrustados dentro de un archivo que proporcionan información sobre él. En el caso de las fotografías (archivos JPEG), los metadatos EXIF (Exchangeable image file format) guardan automáticamente detalles como el modelo de la cámara, la apertura del lente, la fecha y hora, y, si la cámara tiene GPS, la ubicación geográfica.",
+          "seccion": "Aula de Innovación Pedagógica"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_aip_2021_p48",
+      "contexto": "Una estudiante ha elaborado un video de 16 GB de tamaño y quiere guardar este archivo en una memoria USB de 32 GB de capacidad. Antes de intentar guardar el archivo, la estudiante se ha asegurado que la memoria USB esté vacía. Sin embargo, al intentar guardar el archivo en la memoria USB, le aparece el siguiente mensaje: \"El archivo es demasiado grande para el sistema de archivos de la unidad de destino\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Por qué el archivo NO puede almacenarse en la memoria USB?",
+          "opciones": [
+            "Porque la memoria USB contiene softwares de encriptación y recuperación preinstalados.",
+            "Porque la memoria USB presenta errores en el sector de arranque.",
+            "Porque la memoria USB posee formato FAT 32."
+          ],
+          "respuesta": "Porque la memoria USB posee formato FAT 32.",
+          "respuestaCorta": "El sistema de archivos FAT32, común en USBs, tiene una limitación de tamaño máximo por archivo de 4 GB. No puede guardar un solo archivo de 16 GB.",
+          "solucionario": "Aunque la memoria USB (32 GB) tiene capacidad total suficiente para el archivo (16 GB), el problema es el sistema de archivos. FAT32 es un sistema de archivos antiguo que no puede manejar archivos individuales de más de 4 GB. Para guardar el video de 16 GB, la estudiante necesitaría reformatear la memoria USB a un sistema de archivos más moderno, como exFAT o NTFS.",
+          "seccion": "Aula de Innovación Pedagógica"
+        }
+      ]
+    },
+    {
+      "idGrupo": "asc_secundaria_aip_2021_p49",
+      "contexto": "Una docente ha trabajado y guardado archivos en una memoria USB. Al día siguiente, desea abrir estos archivos. Al conectar el USB a la computadora, esta reconoce la memoria USB pero no muestra su contenido y tampoco permite guardar archivos. Además, desde el administrador de discos se aprecia que la memoria USB tiene formato RAW.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Ante esta situación la docente le manifiesta al DAIP lo siguiente: \"Mi memoria USB tiene un virus que ha eliminado mis archivos. ¿Podría ayudarme a recuperarlos?\". ¿Qué error se evidencia en el comentario de la docente?",
+          "opciones": [
+            "Creer que las memorias USB pueden ser afectadas por virus.",
+            "Creer que los archivos de la memoria USB han sido eliminados.",
+            "Creer que los archivos de la memoria USB aún pueden ser recuperados."
+          ],
+          "respuesta": "Creer que los archivos de la memoria USB han sido eliminados.",
+          "respuestaCorta": "El formato RAW indica que el sistema de archivos está dañado o es ilegible para Windows. Los archivos no han sido eliminados, solo es inaccesible su estructura de directorios.",
+          "solucionario": "El error de la docente es asumir que los archivos fueron eliminados. El formato RAW significa que el sistema operativo no puede reconocer el sistema de archivos (ej. FAT32 o NTFS) de la unidad. Esto es un error en la tabla de particiones o en el sistema de archivos, pero los datos (archivos) usualmente siguen físicamente en la unidad, aunque inaccesibles. Por lo tanto, no están eliminados (B) y, de hecho, a menudo pueden ser recuperados (C no es un error).",
+          "seccion": "Aula de Innovación Pedagógica"
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes comandos permitiría utilizar esta memoria USB para almacenar archivos?",
+          "opciones": [
+            "FORMAT",
+            "CHKDSK",
+            "FIXMBR"
+          ],
+          "respuesta": "FORMAT",
+          "respuestaCorta": "El comando FORMAT borra la unidad (incluyendo el sistema de archivos RAW) y crea un nuevo sistema de archivos funcional (como FAT32 o NTFS), dejándola lista para almacenar archivos.",
+          "solucionario": "Para que la memoria USB pueda volver a almacenar archivos, necesita un sistema de archivos válido. El estado RAW indica que el sistema de archivos actual está corrupto o es desconocido. El comando FORMAT (formatear) elimina toda la información de la unidad y crea una nueva estructura de sistema de archivos (ej. `FORMAT E: /FS:NTFS`), resolviendo el problema y permitiendo su uso. CHKDSK (B) intenta reparar un sistema de archivos existente (pero no puede con RAW) y FIXMBR (C) repara el sector de arranque maestro.",
+          "seccion": "Aula de Innovación Pedagógica"
         }
       ]
     }
-    
   ]
 }
   

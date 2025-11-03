@@ -1234,5 +1234,19 @@
     "archivos": {
       "especifico": "data/ascenso/primaria/2024/ascenso_edufisica2024.json"
     }
+  },
+  {
+    "id": 107,
+    "proceso": "Ascenso",
+    "anio": 2021,
+    "nivel": "Secundaria",
+    "especialidad": "Innovación Pedagógica (AIP)",
+    "modalidad": "EBR",
+    "preguntas": 60,
+    "tiempo": 180,
+    "archivos": {
+      "especifico": "data/ascenso/secundaria/2021/ascenso_aip2021.json"
+    }
   }
+
 ]
