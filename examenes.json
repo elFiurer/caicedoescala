@@ -1247,6 +1247,65 @@
     "archivos": {
       "especifico": "data/ascenso/secundaria/2021/ascenso_aip2021.json"
     }
+  },
+  {
+    "id": 108,
+    "proceso": "Cargo Directivo",
+    "anio": 2022,
+    "descripcion": "Simulacro actualizado basado en el temario 2022.",
+    "nivel": "General",
+    "especialidad": "Acceso a Cargos Directivos",
+    "modalidad": "EBR",
+    "preguntas": 60,
+    "tiempo": 170,
+    "tipo": "con-bloques",
+    "bloques": [
+      "Examen Completo",
+      "Comprensión lectora",
+      "Conocimientos de Gestión Educativa y Gestión Pública"
+    ],
+    "archivos": {
+      "especifico": "data/cargos directivos/2022/cdirectivo_2022.json"
+    }
+  },
+{
+    "id": 109,
+    "proceso": "Cargo Directivo",
+    "anio": 2022,
+    "descripcion": "Simulacro actualizado basado en el temario 2022 - FORMA 2.",
+    "nivel": "General",
+    "especialidad": "Acceso a Cargos Directivos",
+    "modalidad": "EBR - FORMA 2",
+    "preguntas": 60,
+    "tiempo": 170,
+    "tipo": "con-bloques",
+    "bloques": [
+      "Examen Completo",
+      "Comprensión lectora",
+      "Conocimientos de Gestión Educativa y Gestión Pública"
+    ],
+    "archivos": {
+      "especifico": "data/cargos directivos/2022/cdirectivo_2022f2.json"
+    }
+  },
+  {
+    "id": 110,
+    "proceso": "Cargo Directivo",
+    "anio": 2022,
+    "descripcion": "Simulacro actualizado basado en el temario 2022 - FORMA 2.",
+    "nivel": "General",
+    "especialidad": "Acceso a Cargos Directivos",
+    "modalidad": "EBR - FORMA 3",
+    "preguntas": 60,
+    "tiempo": 170,
+    "tipo": "con-bloques",
+    "bloques": [
+      "Examen Completo",
+      "Comprensión lectora",
+      "Conocimientos de Gestión Educativa y Gestión Pública"
+    ],
+    "archivos": {
+      "especifico": "data/cargos directivos/2022/cdirectivo_2022f3cyt.json"
+    }
   }
-
 ]
