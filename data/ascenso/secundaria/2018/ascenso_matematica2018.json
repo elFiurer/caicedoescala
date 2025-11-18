@@ -103,9 +103,9 @@
         {
           "pregunta": "¿Cuál de las siguientes acciones pedagógicas es pertinente para promover el logro de dicho propósito?",
           "opciones": [
-            "Entregar una ficha de trabajo que presente la expresión $\\forall x\\in Z,|x|=\\begin{cases}x,si~x>0\\\\ -x,si~x<0\\\\ 0,si~x=0\\end{cases}$ y que contenga ejercicios resueltos, en los que se ha hallado el valor absoluto de números enteros positivos, negativos y del cero. Luego, proponer que se guíen de estos ejercicios para resolver otros.",
+            "Entregar una ficha de trabajo que presente la expresión |x| = x si x ≥ 0, |x| = -x si x < 0, y que contenga ejercicios resueltos, en los que se ha hallado el valor absoluto de números enteros positivos, negativos y del cero. Luego, proponer que se guíen de estos ejercicios para resolver otros.",
             "Proporcionar una recta numérica para que ubiquen en ella un número entero positivo y otro negativo. Luego, preguntar por la distancia que existe desde cada uno de esos números hasta cero. Después, pedir que traten de expresar una definición de valor absoluto considerando dichas distancias.",
-            "Pegar en la pizarra un cartel con el siguiente enunciado: \"El valor absoluto de un número entero cualquiera es el número natural que resulta de prescindir del signo y de las barras que lo encierran\". Luego, proponer que hallen $|+9|y|-9|$ y preguntar por el resultado que se obtuvo en cada caso. Después, absolver dudas si las hubiera."
+            "Pegar en la pizarra un cartel con el siguiente enunciado: \"El valor absoluto de un número entero cualquiera es el número natural que resulta de prescindir del signo y de las barras que lo encierran\". Luego, proponer que hallen |+9| y |-9| y preguntar por el resultado que se obtuvo en cada caso. Después, absolver dudas si las hubiera."
           ],
           "respuesta": "Proporcionar una recta numérica para que ubiquen en ella un número entero positivo y otro negativo. Luego, preguntar por la distancia que existe desde cada uno de esos números hasta cero. Después, pedir que traten de expresar una definición de valor absoluto considerando dichas distancias.",
           "respuestaCorta": "Para una comprensión significativa, es mejor construir el concepto de valor absoluto a partir de su interpretación geométrica como la distancia de un número al cero en la recta numérica.",
@@ -116,7 +116,7 @@
     },
     {
       "idGrupo": "asc_secundaria_2018_p07",
-      "contexto": "Un docente tiene como propósito que sus estudiantes resuelvan problemas que implican operaciones con números enteros. Para ello, como una de las actividades propuestas, plantea la siguiente pregunta: \"¿Qué entienden por la multiplicación de dos números?\". Una estudiante responde lo siguiente: \"La multiplicación es una operación que consiste en repetir varias veces un número\". Luego el docente le pregunta: \"¿Cómo entiendes la multiplicación de $-3x-4?$ ¿Cuántas veces se repetiría el número -3 en la multiplicación?\".",
+      "contexto": "Un docente tiene como propósito que sus estudiantes resuelvan problemas que implican operaciones con números enteros. Para ello, como una de las actividades propuestas, plantea la siguiente pregunta: \"¿Qué entienden por la multiplicación de dos números?\". Una estudiante responde lo siguiente: \"La multiplicación es una operación que consiste en repetir varias veces un número\". Luego el docente le pregunta: \"¿Cómo entiendes la multiplicación de (-3) × (-4)? ¿Cuántas veces se repetiría el número -3 en la multiplicación?\".",
       "imagen": null,
       "preguntas": [
         {
@@ -128,7 +128,7 @@
           ],
           "respuesta": "Porque cuestiona el significado de la multiplicación que asume la estudiante.",
           "respuestaCorta": "El docente genera conflicto cognitivo al presentar un caso (multiplicar por un negativo) donde la definición de la estudiante (suma repetida) ya no es aplicable.",
-          "solucionario": "El conflicto cognitivo se produce cuando una persona se enfrenta a una situación que contradice sus esquemas mentales existentes. La estudiante concibe la multiplicación como una suma repetida, idea que funciona para números naturales. El docente, al preguntarle por $-3 \\times -4$, la enfrenta a un problema que no puede ser resuelto con su definición (no se puede 'repetir' un número '-4 veces'). Esto cuestiona directamente su concepción previa y la obliga a buscar una nueva comprensión que abarque la multiplicación de números enteros.",
+          "solucionario": "El conflicto cognitivo se produce cuando una persona se enfrenta a una situación que contradice sus esquemas mentales existentes. La estudiante concibe la multiplicación como una suma repetida, idea que funciona para números naturales. El docente, al preguntarle por (-3) × (-4), la enfrenta a un problema que no puede ser resuelto con su definición (no se puede 'repetir' un número '-4 veces'). Esto cuestiona directamente su concepción previa y la obliga a buscar una nueva comprensión que abarque la multiplicación de números enteros.",
           "seccion": "Casuística"
         }
       ]
@@ -337,7 +337,7 @@
           ],
           "respuesta": "Preguntar: \"¿Qué representa 'n' en el término n-ésimo encontrado? Si reemplazamos 'n' por la posición de un término, ¿el valor que se obtiene coincide con dicho término? ¿Qué relación habrá entre 'n' y la posición de cada término?\". Luego, preguntarle si se debe realizar alguna modificación en el término n-ésimo.",
           "respuestaCorta": "La mejor retroalimentación es guiar a la estudiante a que compruebe su propia fórmula y descubra por sí misma que no funciona, centrándose en la inconsistencia de su uso de la variable 'n'.",
-          "solucionario": "El error de la estudiante está en la construcción de su fórmula; su variable no corresponde directamente a la posición 'n' (usa n=0 para el primer término, n=1 para el segundo, etc.). La opción C es la más efectiva porque no le da la respuesta, sino que la invita a probar su propia generalización. Al sustituir n=1 (primera posición) en su fórmula $t_{n}=4n+3$, obtendrá 7, no 3. Esta contradicción la obligará a reexaminar la relación entre la variable que usó y la posición real de cada término, facilitando que ella misma corrija su error.",
+          "solucionario": "El error de la estudiante está en la construcción de su fórmula; su variable no corresponde directamente a la posición 'n' (usa n=0 para el primer término, n=1 para el segundo, etc.). La opción C es la más efectiva porque no le da la respuesta, sino que la invita a probar su propia generalización. Al sustituir n=1 (primera posición) en su fórmula t(n) = 4n + 3, obtendrá 7, no 3. Esta contradicción la obligará a reexaminar la relación entre la variable que usó y la posición real de cada término, facilitando que ella misma corrija su error.",
           "seccion": "Casuística"
         }
       ]
