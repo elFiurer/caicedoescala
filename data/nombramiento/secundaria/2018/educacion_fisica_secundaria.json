@@ -50,6 +50,7 @@
       "preguntas": [
         {
           "pregunta": "¿Cuál de las siguientes formaciones es la menos recomendada en las sesiones de Educación Física?",
+          "imagen": "img/nombramiento/secundaria/2018/edufisica/1.jpg",
           "opciones": [
             "En fila.",
             "En semicírculo.",
@@ -95,11 +96,11 @@
     },
     {
       "idGrupo": "cp_educacionfisica_2018_p57",
-      "contexto": "Durante una sesión, los estudiantes evalúan su resistencia cardiovascular por medio del Test de Ruffier. Este test consiste en la siguiente secuencia de acciones: primero tomar el pulso en reposo, luego realizar 30 flexiones de piernas, luego tomar el pulso por segunda vez, después descansar por un minuto, y volver a tomar el pulso.\nLuego de obtener sus mediciones, los estudiantes procesan sus resultados y cada uno obtiene un valor que luego contrasta en la siguiente tabla:\nVALORES DE RESISTENCIA CARDIOVASCULAR\nÍNDICE / FORMA FÍSICA\nMenor de 1 / Excelente\nDe 1 a 5 / Muy bueno\nDe 5 a 10 / Normal\nDe 10 a 15 / Bajo\nMayor de 15 / Muy bajo\nUna de las estudiantes, Liliana, tiene sobrepeso y ha completado la prueba con mucha dificultad. Luego de calcular sus resultados, se sorprende al descubrir que se ubica en el nivel \"mayor de 15\", y por eso se acerca al docente para pedirle orientación.",
-      "imagen": null,
+      "contexto": "Durante una sesión, los estudiantes evalúan su resistencia cardiovascular por medio del Test de Ruffier. Este test consiste en la siguiente secuencia de acciones: primero tomar el pulso en reposo, luego realizar 30 flexiones de piernas, luego tomar el pulso por segunda vez, después descansar por un minuto, y volver a tomar el pulso.\nLuego de obtener sus mediciones, los estudiantes procesan sus resultados y cada uno obtiene un valor que luego contrasta en la siguiente tabla:",
+      "imagen": "img/nombramiento/secundaria/2018/edufisica/2.jpg",
       "preguntas": [
         {
-          "pregunta": "Luego de verificar que el resultado de Liliana es correcto, ¿qué debería recomendarle el docente?",
+          "pregunta": "Una de las estudiantes, Liliana, tiene sobrepeso y ha completado la prueba con mucha dificultad. Luego de calcular sus resultados, se sorprende al descubrir que se ubica en el nivel \"mayor de 15\", y por eso se acerca al docente para pedirle orientación. Luego de verificar que el resultado de Liliana es correcto, ¿qué debería recomendarle el docente?",
           "opciones": [
             "Que se ejercite durante la sesión con la misma intensidad que sus demás compañeros para lograr bajar de peso.",
             "Que de momento no se ejercite más y que acuda al médico lo antes posible para hacerse un chequeo.",
@@ -134,7 +135,7 @@
     {
       "idGrupo": "cp_educacionfisica_2018_p59",
       "contexto": null,
-      "imagen": "img/educacionfisica_2018_q59.png",
+      "imagen": "img/nombramiento/secundaria/2018/edufisica/3.jpg",
       "preguntas": [
         {
           "pregunta": "¿Qué técnica de medición del pulso se observa en la siguiente imagen?",
@@ -219,7 +220,6 @@
         }
       ]
     },
-
     {
       "idGrupo": "cp_educacionfisica_2018_p62",
       "contexto": "En una sesión en la que se realizarán acciones de gimnasia rítmica, la docente se propone desarrollar capacidades motrices, como la coordinación, además de potenciar la creatividad de los estudiantes. Para lograr su propósito, la docente propone a los estudiantes crear una pequeña secuencia de acciones con la cuerda siguiendo el ritmo de una pieza musical, y que deben incluir en ella elementos corporales de la gimnasia rítmica.",
@@ -337,7 +337,7 @@
     {
       "idGrupo": "cp_educacionfisica_2018_p70",
       "contexto": "Al realizar la evaluación diagnóstica de los estudiantes, la docente aplica una prueba de flexibilidad cuya ejecución se describe a continuación:\nDe pie y sobre una banqueta en la que se ha adherido una regleta, el estudiante debe flexionar el tronco hacia adelante y descender las manos en paralelo con los dedos extendidos, manteniendo las piernas totalmente extendidas sin flexionar las rodillas. El descenso deberá realizarse lentamente y sin hacer rebotes, y, al llegar al punto más bajo posible, la docente toma la medida de su flexibilidad.",
-      "imagen": "img/educacionfisica_2018_q70.png",
+      "imagen": "img/nombramiento/secundaria/2018/edufisica/4.jpg",
       "preguntas": [
         {
           "pregunta": "¿Cuál de los siguientes grupos musculares se está extendiendo durante el ejercicio?",
@@ -420,9 +420,9 @@
             "Orgánico-motrices.",
             "Sociomotrices."
           ],
-          "respuesta": "PREGUNTA ANULADA",
-          "respuestaCorta": "PREGUNTA ANULADA (FUL)",
-          "solucionario": "Esta pregunta fue anulada (FUL) en el examen oficial. La razón probable es la ambigüedad sobre qué capacidad es 'predominante'. La tarea requiere cooperación y comunicación para coordinar el movimiento (capacidades sociomotrices), pero también implica el uso de la fuerza (capacidad orgánico-motriz) y la coordinación (capacidad perceptivo-motriz). Al ser varias capacidades importantes, no hay una única respuesta predominante clara.",
+          "respuesta": "Sociomotrices.",
+          "respuestaCorta": "Los estudiantes desarrollan predominantemente capacidades sociomotrices al coordinar y cooperar para sostener la sábana.",
+          "solucionario": "Las capacidades sociomotrices son aquellas que se desarrollan en situaciones de interacción con otros, requiriendo comunicación, cooperación y coordinación grupal. En esta actividad, los estudiantes que sostienen la sábana deben trabajar de manera coordinada y cooperativa para mantener la sábana tensa y estable mientras otros realizan actividades sobre ella. Esta tarea requiere principalmente comunicación y colaboración entre los participantes, lo cual es característico de las capacidades sociomotrices. Aunque también hay componentes orgánico-motrices (fuerza) y expresivo-motrices, el aspecto predominante es la interacción social y la cooperación.",
           "seccion": "Conocimientos Pedagógicos de la Especialidad"
         },
         {
@@ -439,7 +439,6 @@
         }
       ]
     },
-    
     {
       "idGrupo": "cp_educacionfisica_2018_p73",
       "contexto": "El docente organiza a los estudiantes en grupos de tres integrantes, les entrega una sábana a cada grupo y da la consigna de la actividad lúdica que van a realizar: \"Un estudiante debe pararse sobre la sábana, como a la mitad, mientras que cada uno de sus compañeros coge un extremo de la sábana. El estudiante que se encuentra encima de la sábana debe intentar mantenerse parado durante el mayor tiempo posible mientras sus compañeros jalan la sábana y lo deslizan suavemente de manera libre por todo el campo. Los que mueven la sábana deben coordinar bien los movimientos y moverse con suavidad para que su compañero no se haga daño\".",
@@ -512,7 +511,7 @@
     {
       "idGrupo": "cp_educacionfisica_2018_p81",
       "contexto": null,
-      "imagen": "img/educacionfisica_2018_q81.png",
+      "imagen": "img/nombramiento/secundaria/2018/edufisica/5.jpg",
       "preguntas": [
         {
           "pregunta": "¿Cuál de las siguientes imágenes presenta la forma adecuada de fortalecer los músculos abdominales?",
@@ -666,4 +665,3 @@
     }
   ]
 }
-  

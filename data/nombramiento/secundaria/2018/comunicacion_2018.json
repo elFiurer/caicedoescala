@@ -68,7 +68,9 @@
       "imagen": null,
       "preguntas": [
         {
-          "pregunta": "En este contexto, una estudiante le ha presentado a la docente la primera versión de su anécdota:\n\nEl paseo a la granja\nMe gustó la granja era bien grande y a la señora de la comida se le quemó la carne. Nadie quiso comer. Pero el profesor nos trajo pan con pollo y comimos rico.\n\nLa docente nota que la estudiante ha empleado el conector 'pero'. ¿Qué función principal cumple dicho conector en el texto?",
+          "contexto": "En este contexto, una estudiante le ha presentado a la docente la primera versión de su anécdota:",
+          "imagen": "img/nombramiento/secundaria/2018/comunicacion/1.jpg",
+          "pregunta": "\n\nLa docente nota que la estudiante ha empleado el conector 'pero'. ¿Qué función principal cumple dicho conector en el texto?",
           "opciones": [
             "Presentar una información que contrasta con la idea de la oración anterior.",
             "Establecer una conclusión que se desprende lógicamente del escrito.",
@@ -80,7 +82,9 @@
           "seccion": "Conocimientos Curriculares y Pedagógicos de la Especialidad"
         },
         {
-          "pregunta": "Otro estudiante presentó a la docente la primera versión de su texto:\n\nNuestro dia de paseo\nCon mis compañeros fuimos de paseo el viernes pasamos por un corral donde dormía las gallinas ese dia vimos como corrían de un lado a otro nosotros le tiramos maiz y se lo comían una se escapó y nos demoramos en atraparlas pero me gustaría ir otro dia esperamos que sea pronto\n\n¿Cuál de los siguientes problemas de escritura debe priorizar la docente en su retroalimentación?",
+          "contexto": "Otro estudiante presentó a la docente la primera versión de su texto: ",
+          "imagen": "img/nombramiento/secundaria/2018/comunicacion/2.jpg",
+          "pregunta": "¿Cuál de los siguientes problemas de escritura debe priorizar la docente en su retroalimentación?",
           "opciones": [
             "La falta de signos de puntuación.",
             "La falta de concordancia en varias oraciones.",
@@ -92,7 +96,9 @@
           "seccion": "Conocimientos Curriculares y Pedagógicos de la Especialidad"
         },
         {
-          "pregunta": "Una estudiante presentó a la docente la segunda versión de su escrito:\n\nEl charco de la granja\nLlegamos a la granja con mis amigos del colegio a las 10 de la mañana. Fuimos a ver las vacas. Caminamos cerca de un charco que no era muy grande. Muchos nos mojamos los pies porque el pasto y el charco eran verdes.\nAl final, todos tuvimos que regresar en el bus con los zapatos y el buzo mojados: nadie había traído ropa para cambiarse. Todo fue muy chistoso.\n\nLa docente recomienda a la estudiante utilizar un conector para hacer explícita la relación lógica entre las oraciones: \"Caminamos cerca de un charco que no era muy grande. Muchos nos mojamos los pies porque el pasto y el charco eran verdes\". ¿Qué conector es adecuado utilizar para ello?",
+          "contexto": "Una estudiante presentó a la docente la segunda versión de su escrito: ",
+          "imagen": "img/nombramiento/secundaria/2018/comunicacion/3.jpg",
+          "pregunta": "La docente recomienda a la estudiante utilizar un conector para hacer explícita la relación lógica entre las oraciones: \"Caminamos cerca de un charco que no era muy grande. Muchos nos mojamos los pies porque el pasto y el charco eran verdes\". ¿Qué conector es adecuado utilizar para ello?",
           "opciones": [
             "En ese sentido,",
             "Sin embargo,",
@@ -104,7 +110,9 @@
           "seccion": "Conocimientos Curriculares y Pedagógicos de la Especialidad"
         },
         {
-          "pregunta": "Este es un fragmento extraído del texto anterior:\n\nAl final, todos tuvimos que regresar en el bus con los zapatos y el buzo mojados: nadie había traído ropa para cambiarse.\n\n¿Qué función principal cumplen los dos puntos en este fragmento?",
+          "contexto": "Este es un fragmento extraído del texto anterior: ",
+          "imagen": "img/nombramiento/secundaria/2018/comunicacion/4.jpg",
+          "pregunta": "¿Qué función principal cumplen los dos puntos en este fragmento?",
           "opciones": [
             "Presentar una consecuencia que se desprende de la idea anterior.",
             "Presentar una causa del hecho mencionado en la idea anterior.",
@@ -240,7 +248,9 @@
           "seccion": "Conocimientos Curriculares y Pedagógicos de la Especialidad"
         },
         {
-          "pregunta": "Uno de los estudiantes presentó al docente la primera versión de su texto:\n\nUno de los problemas que más me preocupa es el siguiente: la educación vial por qué debemos respetar la educación vial y las normas de tránsito. Yo me acuerdo que una vez un chofer se pasó la luz roja y casi atropella a una señora. La señora estaba muy nerviosa por todo. Varios nos acercamos a tranquilizarla. Dijo que se llamaba Paula, que tenía cuatro hijos, pero que ninguno estaba en su casa y que había ido a la bodega a comprar comida para su gato. Caminamos un poco y la señora dijo que la acompañáramos a su casa que estaba cerca. Yo me ofrecí a hacerlo. Al final me dio las gracias.\n\n¿Cuál de los siguientes problemas de coherencia presenta el texto del estudiante?",
+          "contexto": "Uno de los estudiantes presentó al docente la primera versión de su texto:",
+          "imagen": "img/nombramiento/secundaria/2018/comunicacion/5.jpg",
+          "pregunta": "¿Cuál de los siguientes problemas de coherencia presenta el texto del estudiante?",
           "opciones": [
             "Vacíos de información.",
             "Desvío del propósito comunicativo.",
@@ -316,7 +326,9 @@
       "imagen": null,
       "preguntas": [
         {
-          "pregunta": "En este contexto, uno de los estudiantes ha culminado la primera versión de su escrito y se lo ha presentado a la docente:\n\nHola, amigos:\nEl año pasado, tampoco se limpiaba el salón. Siempre estaba sucio. Varias veces vi a muchos compañeros que dejaban las carpetas con envolturas de galletas y envases de jugos. Cuando la profesora preguntaba, nadie sabía nada. Eso era así casi todos los días. La señora de limpieza vino un día y se molestó con nosotros y nos hizo limpiar el aula. Eso no me parecía justo porque varios no ensuciábamos, pero nunca se supo quién lo hacía. Y eso.\n\nLa docente busca retroalimentar al estudiante para que este reflexione sobre cómo mejorar su escrito. ¿Cuál de las siguientes acciones pedagógicas es más adecuada para lograr su propósito?",
+          "contexto": "En este contexto, uno de los estudiantes ha culminado la primera versión de su escrito y se lo ha presentado a la docente:",
+          "imagen": "img/nombramiento/secundaria/2018/comunicacion/6.jpg",
+          "pregunta": "\n\nLa docente busca retroalimentar al estudiante para que este reflexione sobre cómo mejorar su escrito. ¿Cuál de las siguientes acciones pedagógicas es más adecuada para lograr su propósito?",
           "opciones": [
             "Preguntarle cuál es la idea que quiso comunicar. Luego, sobre la base de su respuesta, decirle qué argumentos debe incorporar en su carta.",
             "Proponerle releer con él su escrito. Luego, indicarle que la finalidad de esta actividad es elaborar textos que, utilizando argumentos, convenzan al lector.",
@@ -328,7 +340,9 @@
           "seccion": "Conocimientos Curriculares y Pedagógicos de la Especialidad"
         },
         {
-          "pregunta": "Otro de los estudiantes le ha pedido a la docente que revise el siguiente borrador de su texto:\n\nQué tal, profe de la mañana:\nMi nombre, es Dani. Estudio en el cole igual q sus alumnos. Me parece muy, muy mal que el salón esté con basura cuando llegamos. O sea, a nadie le gusta estudiar así, ¿no? Siquiera, pueden arreglar las carpetas, pues. Tampoco pedimos q todo esté limpiesito. Solo queremos q piensen en los del otro turno. Nosotros, queremos un lugar limpio tb.\nGracias,\nDani\n\nLa docente nota que el texto presenta varios aspectos que se pueden mejorar. ¿Cuál de estos aspectos debe priorizar en una primera revisión del escrito?",
+          "contexto": "Otro de los estudiantes le ha pedido a la docente que revise el siguiente borrador de su texto:",
+          "imagen": "img/nombramiento/secundaria/2018/comunicacion/7.jpg",
+          "pregunta": "¿La docente nota que el texto presenta varios aspectos que se pueden mejorar. ¿Cuál de estos aspectos debe priorizar en una primera revisión del escrito?",
           "opciones": [
             "El uso de marcas coloquiales en un escrito formal.",
             "La utilización de comas entre sujeto y verbo.",
@@ -344,7 +358,7 @@
     {
       "idGrupo": "cp_comunicacion_2018_p73",
       "contexto": "Lea la siguiente situación y responda las preguntas 73, 74 y 75.\n\nLos estudiantes de tercer grado van a visitar el mariposario de Tambopata, y están interesados en consultar información sobre este lugar. En este contexto, la docente les ha presentado el siguiente texto:",
-      "imagen": "img/comunicacion_2018_q73.png",
+      "imagen": "img/nombramiento/secundaria/2018/comunicacion/8.jpg",
       "preguntas": [
         {
           "pregunta": "La docente busca que los estudiantes deduzcan información implícita en el texto. ¿Cuál de las siguientes preguntas es más adecuada para lograr su propósito?",
@@ -422,7 +436,9 @@
           "seccion": "Conocimientos Curriculares y Pedagógicos de la Especialidad"
         },
         {
-          "pregunta": "Luego de recabar la información necesaria, los estudiantes deciden escribirle una carta al director de la IE para solicitarle utilizar el patio en el que presentarán su proyecto. A continuación, se presenta la primera versión de la carta:\n\nEstimado director Roberto:\nSomos los estudiantes de cuarto grado y en este día le estamos escribiendo. Para pedit que de uno de los patios a mis compañeros y a mí. La segunda semana de agosto ya que haremos la presentación de Nuestro Proyecto. Así, el objetivo es buscat ser más concientes. Sobre la mejor forma de desechar la basura de nuestro barrio. Para cuidar mejor el ambiente ya que cada vez más sentimos los efectos de la contaminación.\n\nEl docente nota que hay varios aspectos del escrito que se pueden mejorar. ¿Cuál de los siguientes problemas de escritura se presenta de forma recurrente en el texto?",
+          "contexto": "Luego de recabar la información necesaria, los estudiantes deciden escribirle una carta al director de la IE para solicitarle utilizar el patio en el que presentarán su proyecto. A continuación, se presenta la primera versión de la carta:",
+          "imagen": "img/nombramiento/secundaria/2018/comunicacion/9.jpg",
+          "pregunta": "El docente nota que hay varios aspectos del escrito que se pueden mejorar. ¿Cuál de los siguientes problemas de escritura se presenta de forma recurrente en el texto?",
           "opciones": [
             "El empleo de palabras inadecuadas para una carta formal.",
             "La ausencia de comas antes de conectores de causa.",
@@ -458,7 +474,9 @@
           "seccion": "Conocimientos Curriculares y Pedagógicos de la Especialidad"
         },
         {
-          "pregunta": "Los estudiantes van a elaborar un folleto para invitar a la comunidad educativa a la presentación del proyecto. En este marco, un grupo de estudiantes ha elaborado un borrador del texto de invitación que se incluirá en dicho folleto:\n\nA toda la comunidad educativa:\n(1) Los estudiantes de cuarto grado quisiéramos presentarles un proyecto que tiene como objetivo crear conciencia sobre el tratamiento de la basura en la comunidad. (2) Queremos invitarlos a la institución educativa el martes 15 de agosto desde las I a. m. (3) El ingreso es totalmente gratuito, evidentemente. (4) Es muy importante para nosotros, que el mensaje que queremos dar llegue a la mayor cantidad de personas posible. (5) Los esperamos, a todos en la fecha indicada.\nSaludos cordiales,\nCuarto grado de la IE José Olaya 8987\n\n¿Cuál es la expresión más adecuada para conectar las oraciones (1) y (2)?",
+          "contexto": "Los estudiantes van a elaborar un folleto para invitar a la comunidad educativa a la presentación del proyecto. En este marco, un grupo de estudiantes ha elaborado un borrador del texto de invitación que se incluirá en dicho folleto:",
+          "imagen": "img/nombramiento/secundaria/2018/comunicacion/10.jpg",
+          "pregunta": "¿Cuál es la expresión más adecuada para conectar las oraciones (1) y (2)?",
           "opciones": [
             "A pesar de esto,",
             "Con este objetivo,",
@@ -520,7 +538,9 @@
       "imagen": null,
       "preguntas": [
         {
-          "pregunta": "En este contexto, una de las estudiantes le ha pedido a la docente que la ayude a revisar la primera versión de su texto. A continuación, se presenta dicha versión:\n\nBuenos dias señores del plan lector:\nMi nombre es Alicia soy del Primero de secundaria. En esta oportunidad me gustaria recomendarles el cuento \"El Gigante egoista\" para el año siguiente. El año que viene pasare a Segundo. Espero que sea tan genial como este. Hice muchisimos amigos. Aunque me da pena que se vayan algunos a otro colegio. Pero se que la amistad se va a mantener porque mis amigos y yo nos divertimos un monton.\nHasta luego y muchisimas gracias por dejar que los niños hagan su recomendacion al plan lector.\n\n¿Cuál de los siguientes problemas de escritura debe priorizar la docente en su revisión?",
+          "contexto": "En este contexto, una de las estudiantes le ha pedido a la docente que la ayude a revisar la primera versión de su texto. A continuación, se presenta dicha versión:",
+          "imagen": "img/nombramiento/secundaria/2018/comunicacion/11.jpg",
+          "pregunta": "¿Cuál de los siguientes problemas de escritura debe priorizar la docente en su revisión?",
           "opciones": [
             "La inadecuación del registro a la situación comunicativa.",
             "La falta de comas en el primer párrafo.",
@@ -544,7 +564,9 @@
           "seccion": "Conocimientos Curriculares y Pedagógicos de la Especialidad"
         },
         {
-          "pregunta": "Otro de los estudiantes le presentó a la docente el siguiente borrador de su texto:\n\nBuenas tardes señores del plan lector:\nBueno, a mí una lectura que me gustó mucho fue \"Sol en la escuela\" del autor Jorge Eslava. La niña llamada Sol se hace amiga de Valentina. Valentina es ciega. Sol y Valentina eran amigas, están juntas siempre. Son buenas amigas. Me gustó el libro porque Sol protege a Valentina. Yo la recomiendo porque me gustó mucho. Sobre todo, me gustó que Valentina, que era ciega, sea muy bondadosa. Ayudaba a los demás. Me gustó mucho la amistad que tenían Sol y Valentina. Yo la recomiendo.\nGracias\n\n¿Cuál de los siguientes problemas de coherencia presenta el texto del estudiante?",
+          "contexto": "Otro de los estudiantes le presentó a la docente el siguiente borrador de su texto:",
+          "imagen": "img/nombramiento/secundaria/2018/comunicacion/12.jpg",
+          "pregunta": "¿Cuál de los siguientes problemas de coherencia presenta el texto del estudiante?",
           "opciones": [
             "Vacíos de información.",
             "Presencia de ideas contradictorias.",
