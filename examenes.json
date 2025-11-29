@@ -84,6 +84,34 @@
     }
   },
   {
+    "id": 11,
+    "proceso": "Nombramiento",
+    "anio": 2018,
+    "nivel": "Inicial",
+    "especialidad": "Inicial",
+    "modalidad": "EBR",
+    "preguntas": 90,
+    "tiempo": 225,
+    "archivos": {
+      "generico": "data/nombramiento/generico/generico_ebr_2018.json",
+      "especifico": "data/nombramiento/inicial/2018/inicial_2018.json"
+    }
+  },
+  {
+    "id": 12,
+    "proceso": "Nombramiento",
+    "anio": 2018,
+    "nivel": "Primaria",
+    "especialidad": "Primaria",
+    "modalidad": "EBR",
+    "preguntas": 90,
+    "tiempo": 225,
+    "archivos": {
+      "generico": "data/nombramiento/generico/generico_ebr_2018.json",
+      "especifico": "data/nombramiento/primaria/2018/primaria_2018.json"
+    }
+  },
+  {
     "id": 20,
     "proceso": "Ascenso",
     "anio": 2018,

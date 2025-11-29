@@ -71,8 +71,8 @@
     },
     {
       "idGrupo": "cp_ciencia_2018_p55_57",
-      "contexto": "Durante una sesión de aprendizaje sobre los cambios físicos que experimenta la materia, una docente presenta a los estudiantes las siguientes figuras:\n\nFigura 1: Partículas muy juntas y ordenadas\nFigura 2: Partículas con cierta separación\nFigura 3: Partículas muy separadas",
-      "imagen": "img/ciencia_2018_q55.png",
+      "contexto": "Durante una sesión de aprendizaje sobre los cambios físicos que experimenta la materia, una docente presenta a los estudiantes las siguientes figuras:",
+      "imagen": "img/nombramiento/secundaria/2018/cyt/1.jpg",
       "preguntas": [
         {
           "pregunta": "¿Cuál de las figuras representa una sustancia que adopta el volumen del recipiente que la contiene?",
@@ -115,7 +115,7 @@
     {
       "idGrupo": "cp_ciencia_2018_p58_60",
       "contexto": "Durante el trabajo de una sesión de aprendizaje sobre los tipos de respiración (aeróbica y anaeróbica), una docente presenta a los estudiantes los siguientes gráficos sobre la cantidad de glucosa y lactato (forma en la que se encuentra el ácido láctico en el cuerpo humano) en la sangre de una persona antes de iniciar (cuando todavía está en reposo) y al terminar una carrera de 100 m planos a su máxima velocidad.",
-      "imagen": "img/ciencia_2018_q58.png",
+      "imagen": "img/nombramiento/secundaria/2018/cyt/2.jpg",
       "preguntas": [
         {
           "pregunta": "¿A cuál de las siguientes preguntas se busca responder con los resultados que se presentan en los gráficos?",
@@ -158,7 +158,7 @@
     {
       "idGrupo": "cp_ciencia_2018_p61_63",
       "contexto": "Los grupos sanguíneos del sistema ABO son AB, A, B y O tal como se muestra en la figura. Es importante conocer el grupo al que pertenecemos, ya que recibir una transfusión sanguínea de un grupo distinto al nuestro puede desencadenar una serie de complicaciones en nuestro organismo. Por ejemplo, si una persona del grupo O– recibiera una transfusión sanguínea de tipo AB+, produciría anticuerpos contra los antígenos de la sangre recibida.\n\nPor otra parte, el sistema Rh comprende varios antígenos, el más importante es el D. Hay dos diferentes alelos para el factor Rh, Rh presente (Rh+) y Rh ausente (Rh–), que se refieren a la presencia o ausencia del antígeno D en la sangre, respectivamente. Mucho más común es la presencia del antígeno D (aproximadamente el 85% de la población lo presenta). La información genética del sistema Rh se hereda de manera independiente del sistema ABO.",
-      "imagen": "img/ciencia_2018_q61.png",
+      "imagen": "img/nombramiento/secundaria/2018/cyt/3.jpg",
       "preguntas": [
         {
           "pregunta": "¿Cuál de las siguientes alternativas describe una relación correcta entre un antígeno y un anticuerpo?",
@@ -200,8 +200,8 @@
     },
     {
       "idGrupo": "cp_ciencia_2018_p64",
-      "contexto": "Un docente se encuentra trabajando una sesión de aprendizaje sobre los procesos de división celular. El docente pide a los estudiantes completar una tabla de diferencias entre mitosis y meiosis. A continuación, se presentan las respuestas de una de las estudiantes:\n\nMitosis: somáticas, 2, Su material genético es igual al de la célula de origen, 46\nMeiosis: sexuales, 4, Su material genético es igual al de la célula de origen, 23",
-      "imagen": null,
+      "contexto": "Un docente se encuentra trabajando una sesión de aprendizaje sobre los procesos de división celular. El docente pide a los estudiantes completar una tabla de diferencias entre mitosis y meiosis. A continuación, se presentan las respuestas de una de las estudiantes:",
+      "imagen": "img/nombramiento/secundaria/2018/cyt/4.jpg",
       "preguntas": [
         {
           "pregunta": "¿Cuál de las siguientes alternativas es el error que se evidencia en las respuestas de la estudiante?",
@@ -220,7 +220,7 @@
     {
       "idGrupo": "cp_ciencia_2018_p65_69",
       "contexto": "En la siguiente tabla, se muestran los resultados de cuatro ensayos realizados por un investigador que consistieron en agregar una solución de almidón a otra de amilasa salival, contenidas en tubos de ensayo y a diferentes temperaturas, y observar la coloración de estas nuevas soluciones en presencia de lugol cada 30 segundos.",
-      "imagen": "img/ciencia_2018_q65.png",
+      "imagen": "img/nombramiento/secundaria/2018/cyt/5.jpg",
       "preguntas": [
         {
           "pregunta": "A partir de los datos presentados, ¿cuál de las siguientes preguntas se busca responder en la indagación?",
@@ -291,6 +291,7 @@
       "preguntas": [
         {
           "pregunta": "¿Cuál de los siguientes gráficos representa la actividad enzimática en función de la temperatura?",
+          "imagen": "img/nombramiento/secundaria/2018/cyt/6.jpg",
           "opciones": [
             "Gráfico A: línea recta ascendente",
             "Gráfico B: curva que aumenta y luego se estabiliza",
@@ -306,7 +307,7 @@
     {
       "idGrupo": "cp_ciencia_2018_p71_72",
       "contexto": "El alcohol etílico es una sustancia que puede generar dependencia en las personas que lo consumen. Inhibe la producción de glóbulos blancos, genera el deterioro del hígado (principal órgano donde es metabolizado) y de las mucosas del sistema digestivo, incrementa la actividad cardíaca y causa deshidratación, ya que altera la producción de la hormona antidiurética (HAD), encargada de favorecer la reabsorción de agua en los riñones, entre otras consecuencias.\n\nA continuación, se muestra un gráfico sobre la evolución de la tasa de alcoholemia en la sangre de Luis. Luis ingirió la bebida alcohólica (12,5% de alcohol etílico en volumen) en ayunas, en un periodo de 20 minutos que empezó a las 8:00 a.m. y permaneció en ayunas las 4 horas que duró el estudio. Además, se aseguró que Luis no consumiera alcohol las 48 horas previas al estudio.",
-      "imagen": "img/ciencia_2018_q71.png",
+      "imagen": "img/nombramiento/secundaria/2018/cyt/7.jpg",
       "preguntas": [
         {
           "pregunta": "¿Cuál de las siguientes afirmaciones es correcta a partir del gráfico?",
@@ -315,9 +316,9 @@
             "La cantidad total de alcohol en la sangre de Luis, luego de dos horas, es mucho mayor a 40 mg.",
             "El nivel máximo de alcohol que se puede encontrar en la sangre de las personas es de 60 mg/dL."
           ],
-          "respuesta": "Luego de una hora de haber iniciado el estudio, Luis tiene permitido conducir.",
-          "respuestaCorta": "A",
-          "solucionario": "Después de una hora, el nivel de alcohol en sangre ha bajado por debajo del límite permitido para conducir (50 mg/dL).",
+          "respuesta": "La cantidad total de alcohol en la sangre de Luis, luego de dos horas, es mucho mayor a 40 mg.",
+          "respuestaCorta": "B",
+          "solucionario": "Al observar el gráfico de la evolución de la tasa de alcoholemia, se evidencia que transcurridas dos horas, la cantidad de alcohol en la sangre permanece por encima de los 40 mg, lo que valida esta afirmación frente a las otras opciones.",
           "seccion": "Conocimientos Pedagógicos de la Especialidad"
         },
         {
@@ -336,7 +337,7 @@
     },
     {
       "idGrupo": "cp_ciencia_2018_p73_74",
-      "contexto": "Un estudiante realiza el siguiente comentario: \"Los adultos tienen cirrosis porque han sido alcohólicos desde su juventud\".\n\nEl alcohol etílico (CH₃CH₂OH) de las bebidas alcohólicas es oxidado en el hígado y produce acetaldehído (CH₃CHO), de acuerdo a la siguiente ecuación de la reacción:\nCH₃CH₂OH + NAD⁺ → CH₃CHO + NADH + H⁺",
+      "contexto": "Un estudiante realiza el siguiente comentario: \"Los adultos tienen cirrosis porque han sido alcohólicos desde su juventud\".",
       "imagen": null,
       "preguntas": [
         {
@@ -352,7 +353,9 @@
           "seccion": "Conocimientos Pedagógicos de la Especialidad"
         },
         {
+          "contexto": "\n\nEl alcohol etílico (CH₃CH₂OH) de las bebidas alcohólicas es oxidado en el hígado y produce acetaldehído (CH₃CHO), de acuerdo a la siguiente ecuación de la reacción:\nCH₃CH₂OH + NAD⁺ → CH₃CHO + NADH + H⁺",
           "pregunta": "Un agente oxidante cambia de número de oxidación por ganancia de electrones. ¿Cuál de las siguientes alternativas corresponde al agente oxidante de la reacción?",
+          "imagen": "img/nombramiento/secundaria/2018/cyt/8.jpg",
           "opciones": [
             "H⁺",
             "NAD⁺",
@@ -365,11 +368,10 @@
         }
       ]
     },
-    
-  {
+    {
       "idGrupo": "cp_ciencia_2018_p75_77",
       "contexto": "Un docente propone a los estudiantes realizar en grupos la siguiente experiencia sobre el efecto invernadero:\n\n1. Conseguir dos botellas de plástico de 2L transparentes e iguales. Hacer un pequeño orificio en la tapa de una de las botellas. Luego, atravesar un termómetro por el orificio y ajustarlo con cinta adhesiva.\n2. Colocar una lámpara con una potencia de al menos 100 watts frente a la botella.\n3. Registrar la temperatura en la botella (temperatura del ambiente). Encender la lámpara y registrar la temperatura cada dos minutos durante treinta minutos.\n4. Introducir tres cubos de hielo seco (CO₂ sólido) en la otra botella abierta y esperar a que empiece a sublimar. Cuando haya sublimado todo el hielo, colocar la tapa con el termómetro de la otra botella. Cuando la temperatura del CO₂ se equilibre con la temperatura del ambiente, repetir el procedimiento descrito en 3.",
-      "imagen": "img/ciencia_2018_q75.png",
+      "imagen": "img/nombramiento/secundaria/2018/cyt/9.jpg",
       "preguntas": [
         {
           "pregunta": "¿Cuál de las siguientes hipótesis se busca validar con esta experiencia?",
@@ -384,7 +386,9 @@
           "seccion": "Conocimientos Pedagógicos de la Especialidad"
         },
         {
-          "pregunta": "El docente pide a los estudiantes que propongan una tabla para registrar los datos de la experiencia. ¿Cuál de los siguientes esquemas de tablas propuestas por los estudiantes es adecuado para registrar los datos?",
+          "contexto": "El docente pide a los estudiantes que propongan una tabla para registrar los datos de la experiencia. ",
+          "pregunta": "¿Cuál de los siguientes esquemas de tablas propuestas por los estudiantes es adecuado para registrar los datos?",
+          "imagen": "img/nombramiento/secundaria/2018/cyt/10.jpg",
           "opciones": [
             "Grupo 1: Material | Botella con aire - Temperatura (°C) | Botella con CO₂ - Tiempo (minutos)",
             "Grupo 2: Gas | Temperatura (°C) | Tiempo (minutos) con filas para Aire y CO₂",
@@ -412,7 +416,7 @@
     {
       "idGrupo": "cp_ciencia_2018_p78_79",
       "contexto": "Una docente trabaja con los estudiantes el movimiento de los cuerpos. Para ello, presenta el caso de una persona que desea cruzar una piscina nadando desde la posición 1 hasta la posición 2.",
-      "imagen": "img/ciencia_2018_q78.png",
+      "imagen": "img/nombramiento/secundaria/2018/cyt/11.jpg",
       "preguntas": [
         {
           "pregunta": "Tras realizar el nado de ida y vuelta, ¿cuál es la magnitud del vector desplazamiento de la persona?",
@@ -427,7 +431,9 @@
           "seccion": "Conocimientos Pedagógicos de la Especialidad"
         },
         {
-          "pregunta": "La docente expresa que, ahora, consideren que la persona ya no nada en una piscina, sino en un río. El agua del río se mueve en sentido -X a +X (de izquierda a derecha) con una rapidez de 1,0 m/s. ¿Cuál de las siguientes representaciones corresponde a la suma de velocidades tal que la persona cruza el río nadando desde la posición 1 hasta la posición 2?",
+          "contexto": "La docente expresa que, ahora, consideren que la persona ya no nada en una piscina, sino en un río. El agua del río se mueve en sentido -X a +X (de izquierda a derecha) con una rapidez de 1,0 m/s. ",
+          "pregunta": "¿Cuál de las siguientes representaciones corresponde a la suma de velocidades tal que la persona cruza el río nadando desde la posición 1 hasta la posición 2?",
+          "imagen": "img/nombramiento/secundaria/2018/cyt/12.jpg",
           "opciones": [
             "Vnadador vertical hacia arriba, Vrío horizontal hacia la derecha, Vresultante diagonal",
             "Vnadador diagonal, Vrío horizontal, Vresultante vertical",
@@ -458,13 +464,15 @@
           "seccion": "Conocimientos Pedagógicos de la Especialidad"
         },
         {
-          "pregunta": "Carlos, uno de los estudiantes, mueve una de las cajas hacia la izquierda, ¿cuál de las siguientes representaciones corresponde al diagrama de cuerpo libre de la caja cuando la está moviendo, teniendo en cuenta que se desprecia la fuerza de fricción?",
+          "contexto": "Carlos, uno de los estudiantes, mueve una de las cajas hacia la izquierda. ",
+          "imagen": "img/nombramiento/secundaria/2018/cyt/13.jpg",
+          "pregunta": "¿¿cuál de las siguientes representaciones corresponde al diagrama de cuerpo libre de la caja cuando la está moviendo, teniendo en cuenta que se desprecia la fuerza de fricción?",
           "opciones": [
-            "Flecha hacia abajo (peso), flecha hacia arriba (normal), flecha hacia la izquierda (fuerza aplicada)",
-            "Flecha hacia abajo (peso), flecha hacia arriba (normal), flecha hacia la derecha (fuerza aplicada)",
-            "Flecha hacia abajo (peso), flecha hacia arriba (normal), flecha hacia la izquierda (fuerza aplicada), flecha hacia la derecha (fuerza de fricción)"
+            "a",
+            "b",
+            "c"
           ],
-          "respuesta": "Flecha hacia abajo (peso), flecha hacia arriba (normal), flecha hacia la izquierda (fuerza aplicada)",
+          "respuesta": "a",
           "respuestaCorta": "A",
           "solucionario": "El diagrama muestra el peso hacia abajo, la normal hacia arriba y la fuerza aplicada hacia la izquierda (dirección del movimiento).",
           "seccion": "Conocimientos Pedagógicos de la Especialidad"
@@ -485,11 +493,11 @@
     },
     {
       "idGrupo": "cp_ciencia_2018_p83_84",
-      "contexto": "Una docente trabaja con los estudiantes las relaciones cuantitativas que pueden extraerse a partir de ecuaciones que representan reacciones químicas. Para ello, muestra la siguiente representación de la evolución de una reacción entre dos sustancias, X e Y, en el tiempo.\n\nLa docente solicita a los estudiantes escribir la ecuación balanceada para la reacción. Una estudiante propone la siguiente ecuación: 2X + 2Y → 1XY₂ + 1X",
-      "imagen": "img/ciencia_2018_q83.png",
+      "contexto": "Una docente trabaja con los estudiantes las relaciones cuantitativas que pueden extraerse a partir de ecuaciones que representan reacciones químicas. Para ello, muestra la siguiente representación de la evolución de una reacción entre dos sustancias, X e Y, en el tiempo.",
+      "imagen": "img/nombramiento/secundaria/2018/cyt/14.jpg",
       "preguntas": [
         {
-          "pregunta": "¿Cuál de los siguientes es un error que se evidencia en la respuesta de la estudiante?",
+          "pregunta": "La docente solicita a los estudiantes escribir la ecuación balanceada para la reacción. Una estudiante propone la siguiente ecuación: 2X + 2Y → 1XY₂ + 1X ¿Cuál de los siguientes es un error que se evidencia en la respuesta de la estudiante?",
           "opciones": [
             "No balancea adecuadamente la ecuación.",
             "Confunde el reactivo en exceso con un producto de la reacción.",
@@ -548,7 +556,7 @@
     {
       "idGrupo": "cp_ciencia_2018_p87",
       "contexto": "Una docente tiene como propósito que los estudiantes evalúen la conductividad de soluciones. Para ello, les presenta el siguiente gráfico que corresponde a los resultados de un experimento sobre la conductividad de una solución de sulfato de magnesio (MgSO₄) en agua destilada.",
-      "imagen": "img/ciencia_2018_q87.png",
+      "imagen": "img/nombramiento/secundaria/2018/cyt/15.jpg",
       "preguntas": [
         {
           "pregunta": "¿Cuál de los siguientes problemas se pretende indagar con el experimento planteado?",
@@ -567,7 +575,7 @@
     {
       "idGrupo": "cp_ciencia_2018_p88_89",
       "contexto": "Como parte del desarrollo de una sesión de aprendizaje sobre las células, un docente ha planteado que los estudiantes, en grupos, realicen la siguiente actividad:\n\nObservación de la mucosa bucal al microscopio óptico\n1. Raspar suavemente con un palito de madera o mondadientes la mucosa bucal de un integrante del grupo.\n2. Depositar la muestra extraída en el centro de un portaobjetos y agregar una gota de agua.\n3. Hacer un frotis de la muestra con ayuda del cubreobjetos.\n4. Calentar el portaobjetos sosteniéndolo con una pinza de madera.\n5. Añadir unas gotas de azul de metileno sobre la muestra; luego de unos minutos, enjuagarla con agua destilada cuidadosamente. Secar el sobrante de agua.\n6. Observar la muestra preparada al microscopio óptico con un ocular de 10x y objetivos de 4x, 10x, 40x y 100x. Dibujar lo observado.\n\nA continuación, se muestra lo dibujado por un estudiante: Células de la mucosa bucal (Citoplasma, Núcleo, Membrana celular) 400x",
-      "imagen": "img/ciencia_2018_q88.png",
+      "imagen": "img/nombramiento/secundaria/2018/cyt/16.jpg",
       "preguntas": [
         {
           "pregunta": "El estudiante, en su dibujo, ha colocado correctamente \"400x\". ¿Cuál de las siguientes alternativas describe qué significa \"400x\"?",
@@ -598,7 +606,7 @@
     {
       "idGrupo": "cp_ciencia_2018_p90",
       "contexto": "Un grupo de investigadores realizó un estudio sobre los factores que influyen en la actividad fotosintética de un tipo de planta. A continuación, se presenta uno de los gráficos obtenidos a partir de este estudio.",
-      "imagen": "img/ciencia_2018_q90.png",
+      "imagen": "img/nombramiento/secundaria/2018/cyt/17.jpg",
       "preguntas": [
         {
           "pregunta": "¿Cuál de las siguientes afirmaciones se puede inferir del gráfico?",
@@ -616,4 +624,3 @@
     }
   ]
 }
-    
