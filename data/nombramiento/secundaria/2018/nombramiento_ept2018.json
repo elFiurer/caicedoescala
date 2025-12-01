@@ -1,0 +1,753 @@
+{
+  "Conocimientos Pedagogicos": [
+    {
+      "idGrupo": "cp_ept_2018_p51",
+      "contexto": "Los estudiantes realizan, en parejas, la simulación del proceso de venta de celulares, utilizando la técnica de ventas SPIN.\nEsta simulación se da en el contexto de una tienda de venta de celulares en la que uno de los estudiantes representa a un vendedor y el otro a un cliente que quiere renovar su equipo celular.\nEl vendedor inicia la simulación preguntando lo siguiente: \"¿Cuál es la profesión u oficio que ejerce? ¿De qué marca es el celular que tiene actualmente? ¿Por cuánto tiempo lo está usando? ¿Cuáles son las funciones que más utiliza en su actual celular?\". El cliente responde a cada una de las preguntas planteadas.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿A cuál de los siguientes aspectos de la técnica SPIN corresponden las preguntas formuladas por el estudiante que simula ser vendedor?",
+          "opciones": [
+            "A necesidad de beneficio (N).",
+            "A implicancias (I).",
+            "A situación (S)."
+          ],
+          "respuesta": "A situación (S).",
+          "respuestaCorta": "Las preguntas buscan recolectar datos sobre el contexto actual del cliente, lo cual corresponde a la fase de Situación.",
+          "solucionario": "En la técnica SPIN, las preguntas de Situación (S) tienen como objetivo recopilar información básica y hechos sobre la situación actual del cliente (profesión, marca actual, tiempo de uso, etc.) antes de explorar problemas.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ept_2018_p52",
+      "contexto": "Uno de los estudiantes, durante la exposición de la técnica de venta AIDA, presentó un cartel que dice: \"Cuando uno vende un producto (bien) de manera directa y no es posible mostrar su funcionamiento en el momento, hay que mostrar sus bondades con gráficos, folletos, números, audiovisuales, planos, mapas, testimonios, etc.\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿A cuál de los siguientes aspectos de la técnica AIDA corresponde lo anunciado en el cartel?",
+          "opciones": [
+            "A atención (A).",
+            "A deseo (D).",
+            "A interés (I)."
+          ],
+          "respuesta": "A deseo (D).",
+          "respuestaCorta": "Mostrar las bondades y testimonios del producto busca generar el deseo de adquirirlo.",
+          "solucionario": "En la técnica AIDA, la etapa de Deseo (D) consiste en convencer al cliente de que el producto satisface sus necesidades. Al no estar el producto físico, el uso de gráficos, testimonios y demostraciones de bondades sirve para despertar ese deseo de posesión.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ept_2018_p53",
+      "contexto": "Una docente está realizando una sesión y tiene como propósito que los estudiantes planteen ideas creativas para su propuesta de valor utilizando la técnica SCAMPER. Durante el monitoreo, se da cuenta de que uno de los equipos de trabajo está comentando el éxito de la venta de su pan artesanal en la zona y de cómo aplicar la técnica SCAMPER para crear un nuevo producto.\nLuis, uno de los integrantes de este equipo, comenta: \"Según los resultados de la encuesta que aplicamos, nuestro segmento de clientes consume gran cantidad de aceitunas de botija\". Al escuchar la afirmación anterior, Jorge, otro integrante, dice: \"propongo hacer pan artesanal de aceituna\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿A cuál de los siguientes aspectos de la técnica SCAMPER se refiere lo propuesto por Jorge?",
+          "opciones": [
+            "A sustituir (S).",
+            "A permutar (P).",
+            "A combinar (C)."
+          ],
+          "respuesta": "A combinar (C).",
+          "respuestaCorta": "Jorge propone unir el pan artesanal con las aceitunas, lo que corresponde a la acción de Combinar.",
+          "solucionario": "La propuesta integra dos elementos existentes (el pan artesanal que ya venden y las aceitunas que consumen los clientes) para crear un nuevo producto, lo cual es la definición de la acción Combinar (C) en la técnica SCAMPER.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ept_2018_p54",
+      "contexto": "Un docente tiene como propósito desarrollar la siguiente capacidad: \"Realiza procesos de estudio de mercado para la producción de bienes sencillos\" y desea plantear indicadores de evaluación para su propósito.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes indicadores se alinea con la capacidad que tiene como propósito desarrollar el docente?",
+          "opciones": [
+            "Reconoce los recursos del mercado que tienen un valor agregado.",
+            "Identifica las preferencias del mercado local realizando un focus group.",
+            "Utiliza la técnica SCAMPER para crear un bien que atienda las necesidades del mercado."
+          ],
+          "respuesta": "Identifica las preferencias del mercado local realizando un focus group.",
+          "respuestaCorta": "El focus group es una técnica de investigación de mercado directa, alineada con la capacidad de realizar estudios de mercado.",
+          "solucionario": "La capacidad implica ejecutar procesos de estudio de mercado. La opción que describe una acción directa de investigación y recolección de información sobre preferencias (estudio de mercado) es la identificación de preferencias mediante un focus group.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ept_2018_p55",
+      "contexto": "En una actividad de aprendizaje, un equipo de estudiantes está aplicando las 4P del marketing a su propuesta de valor.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes acciones propuestas por los estudiantes se relaciona con Plaza?",
+          "opciones": [
+            "José: \"Tenemos que discutir el valor de intercambio de nuestro producto\".",
+            "Javier: \"Tenemos que satisfacer una necesidad del consumidor y nuestra propuesta de valor es buena para llegar a esa meta\".",
+            "Verónica: \"Tenemos que listar todas las actividades que vamos a realizar para decidir la forma como comercializaremos nuestro producto\"."
+          ],
+          "respuesta": "Verónica: \"Tenemos que listar todas las actividades que vamos a realizar para decidir la forma como comercializaremos nuestro producto\".",
+          "respuestaCorta": "La Plaza se refiere a los canales de distribución y comercialización.",
+          "solucionario": "En el marketing mix (4P), la Plaza (o Distribución) se refiere a cómo el producto llega al cliente. La propuesta de Verónica sobre decidir la forma de comercializar el producto aborda directamente este aspecto.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ept_2018_p56",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Según las normas ISO, con respecto al significado, los colores y la forma de las señales de seguridad, ¿cuál de los siguientes enunciados es correcto?",
+          "opciones": [
+            "Las señales de prohibición se representan con símbolos con fondo de color rojo, con pictogramas necesariamente de color blanco y pueden ser de forma rectangular.",
+            "Las señales de advertencia se representan con símbolos con fondo de color amarillo, con pictogramas de color blanco y son de forma triangular.",
+            "Las señales de obligación se representan con símbolos con fondo de color azul, con pictogramas de color blanco y son de forma circular."
+          ],
+          "respuesta": "Las señales de obligación se representan con símbolos con fondo de color azul, con pictogramas de color blanco y son de forma circular.",
+          "respuestaCorta": "Esta descripción cumple exactamente con la normativa ISO para señales de obligación.",
+          "solucionario": "Según la normativa internacional de seguridad, las señales de obligación se caracterizan por tener forma circular, fondo azul y el pictograma (símbolo) en color blanco.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ept_2018_p57",
+      "contexto": "A continuación, se muestran dos señales de seguridad.",
+      "imagen": "img/nombramiento/secundaria/2018/ept/1.jpg",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes enunciados corresponde al significado de las señales mostradas?",
+          "opciones": [
+            "No se desplace por esta área sin hablar en voz alta.",
+            "No ingrese a esta área porque hay ruidos peligrosos.",
+            "No transite solo por esta área y solicite ayuda si tiene discapacidad auditiva."
+          ],
+          "respuesta": "No ingrese a esta área porque hay ruidos peligrosos.",
+          "respuestaCorta": "Combina una señal de advertencia (ruido) con una de prohibición (no ingresar/caminar).",
+          "solucionario": "Las imágenes muestran una señal de advertencia triangular (riesgo de ruido/protección auditiva necesaria) y una señal de prohibición circular (prohibido el paso de peatones). El conjunto indica que no se debe ingresar al área debido al peligro por ruido.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ept_2018_p58",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes características corresponde a la teoría para resolver problemas inventivos con TRIZ?",
+          "opciones": [
+            "Se aborda un problema desde varias perspectivas, haciendo preguntas en torno a él.",
+            "Se presentan problemas como contradicciones técnicas con el propósito de resolverlos utilizando algunos de sus principios.",
+            "Se identifican las características del producto con la finalidad de modificar y perfeccionar algunas de ellas."
+          ],
+          "respuesta": "Se presentan problemas como contradicciones técnicas con el propósito de resolverlos utilizando algunos de sus principios.",
+          "respuestaCorta": "La base de TRIZ es la resolución de contradicciones técnicas mediante principios inventivos.",
+          "solucionario": "La metodología TRIZ (Teoría de Resolución de Problemas Inventivos) se fundamenta en identificar y resolver contradicciones técnicas (donde mejorar un parámetro empeora otro) utilizando una matriz de principios inventivos estandarizados.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ept_2018_p59",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes estrategias metodológicas es pertinente para que los estudiantes elaboren un presupuesto?",
+          "opciones": [
+            "Lluvia de ideas.",
+            "Mapas conceptuales.",
+            "Aprendizaje basado en problemas."
+          ],
+          "respuesta": "Aprendizaje basado en problemas.",
+          "respuestaCorta": "El ABP permite aplicar conocimientos prácticos como el presupuesto ante una situación o reto real.",
+          "solucionario": "El Aprendizaje Basado en Problemas (ABP) es la estrategia más pertinente porque sitúa al estudiante ante una necesidad o caso práctico que requiere la elaboración de un presupuesto como herramienta de solución, promoviendo un aprendizaje situado y procedimental.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ept_2018_p60",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes afirmaciones expresa una de las características del modelo de negocio LEAN CANVAS?",
+          "opciones": [
+            "Su foco está en los clientes y en la relación con ellos.",
+            "Sus aspectos o módulos tienen mayor dependencia entre sí.",
+            "Su prioridad está en la aportación de valor de los productos."
+          ],
+          "respuesta": "Su prioridad está en la aportación de valor de los productos.",
+          "respuestaCorta": "Lean Canvas se centra en encontrar la solución correcta (valor) para el problema del cliente.",
+          "solucionario": "A diferencia del Canvas tradicional que mira el negocio completo, el Lean Canvas está diseñado para startups y pone su prioridad en el producto/solución y su propuesta de valor única frente a un problema específico del cliente.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ept_2018_p61",
+      "contexto": "Un equipo de estudiantes está trabajando el módulo \"Fuente de ingresos\" del modelo de negocio CANVAS para el producto que desean elaborar. Al monitorear el trabajo de los estudiantes, uno de ellos le comenta al docente lo siguiente: \"Nuestra fuente de ingresos se obtendrá del alquiler de nuestras máquinas y de los préstamos que recaudaremos de nuestros familiares y amigos\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes alternativas expresa el error del estudiante con respecto a la fuente de ingresos?",
+          "opciones": [
+            "Manifestar que cuentan con la fuente de ingresos de sus familiares y amigos.",
+            "Considerar que la fuente de ingresos no proviene de la venta del producto.",
+            "Creer que el alquiler de máquinas es una fuente de ingresos."
+          ],
+          "respuesta": "Considerar que la fuente de ingresos no proviene de la venta del producto.",
+          "respuestaCorta": "Los préstamos son financiamiento, no ingresos recurrentes por la propuesta de valor.",
+          "solucionario": "El error radica en confundir financiación (préstamos de familiares) con fuentes de ingresos. En el modelo Canvas, la fuente de ingresos debe provenir de la captura de valor que el cliente paga por el producto o servicio (venta, alquiler, suscripción, etc.), no de deuda.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ept_2018_p62",
+      "contexto": "Los estudiantes están trabajando el módulo \"Socio clave\" del modelo de negocio CANVAS para el producto que desean elaborar. Al exponer sus avances, uno de los equipos afirmó lo siguiente: \"Por unanimidad, hemos elegido como socio clave al que aporta más, pues va a financiar el diseño del prototipo y todo el proyecto\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes alternativas expresa el principal error del equipo?",
+          "opciones": [
+            "Creer que el financista es el socio clave.",
+            "Asumir que el socio clave se encarga del diseño del prototipo.",
+            "Considerar que el socio clave es el que debe liderar el proyecto."
+          ],
+          "respuesta": "Creer que el financista es el socio clave.",
+          "respuestaCorta": "Un socio clave es un aliado estratégico en la operación, no meramente un inversor o financista.",
+          "solucionario": "En el modelo Canvas, los socios clave son alianzas estratégicas (proveedores, socios no competidores) que ayudan a optimizar el modelo de negocio, reducir riesgos o adquirir recursos. Un financista puro es una fuente de recursos, no necesariamente un 'socio clave' operativo.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ept_2018_p63",
+      "contexto": "Considerando el análisis FODA de una empresa que vende bocaditos para eventos diversos, ¿cuál de las siguientes alternativas corresponde a una fortaleza?",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes alternativas corresponde a una fortaleza?",
+          "opciones": [
+            "Contar con una demanda permanente de bocaditos para eventos.",
+            "Tener equipamiento funcionando a tiempo completo en el proceso de producción.",
+            "Hacer que la cámara de comercio de la localidad brinde seminarios y talleres especializados."
+          ],
+          "respuesta": "Tener equipamiento funcionando a tiempo completo en el proceso de producción.",
+          "respuestaCorta": "Es un factor interno positivo que la empresa controla.",
+          "solucionario": "Las fortalezas son factores internos positivos. Tener equipamiento operativo y eficiente es un recurso interno y controlado por la empresa, lo que constituye una fortaleza. La demanda y la cámara de comercio son factores externos (Oportunidades).",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+   
+    {
+      "idGrupo": "cp_ept_2018_p64",
+      "contexto": "Considerando el análisis FODA de una empresa de servicios, ¿cuál de las siguientes alternativas corresponde a una amenaza?",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes alternativas corresponde a una amenaza?",
+          "opciones": [
+            "Contar con empresas similares en la localidad que tienen mayor experiencia en el rubro.",
+            "Tener poco personal para atender la alta demanda del servicio en su localidad.",
+            "Poseer recursos limitados para realizar publicidad masiva en su localidad."
+          ],
+          "respuesta": "Contar con empresas similares en la localidad que tienen mayor experiencia en el rubro.",
+          "respuestaCorta": "La competencia experimentada es un factor externo negativo (Amenaza).",
+          "solucionario": "En el análisis FODA, las amenazas son factores externos que pueden perjudicar a la empresa. La existencia de competidores con mayor experiencia es una variable del entorno (externa) que representa un riesgo para el negocio.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ept_2018_p65",
+      "contexto": "Considerando el análisis de la matriz FODA de una empresa de confección de polos deportivos, ¿cuál de las siguientes alternativas corresponde a la estrategia DO?",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes alternativas corresponde a la estrategia DO?",
+          "opciones": [
+            "Desarrollar capacitaciones gratuitas para los operarios con dificultades en el manejo de máquinas para la confección de polos deportivos.",
+            "Confeccionar polos deportivos por la alta demanda de estos ante la existencia de equipamiento y maquinaria necesarios en la empresa.",
+            "Realizar el bordado de sus polos en otras empresas de la localidad por insuficiencia de máquinas de bordado en la empresa y la demanda permanente de los polos deportivos."
+          ],
+          "respuesta": "Realizar el bordado de sus polos en otras empresas de la localidad por insuficiencia de máquinas de bordado en la empresa y la demanda permanente de los polos deportivos.",
+          "respuestaCorta": "La estrategia DO busca superar una Debilidad (falta de máquinas) aprovechando una Oportunidad (demanda alta).",
+          "solucionario": "La estrategia DO (Debilidades-Oportunidades) consiste en minimizar las debilidades internas aprovechando las oportunidades externas. En este caso, se supera la falta interna de máquinas de bordado (Debilidad) tercerizando el servicio para no perder la demanda permanente del mercado (Oportunidad).",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ept_2018_p66",
+      "contexto": "Considerando el análisis de la matriz FODA de una empresa de juguetes para niños, ¿cuál de las siguientes alternativas corresponde a la estrategia FO?",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes alternativas corresponde a la estrategia FO?",
+          "opciones": [
+            "Aprovechar el éxito de la estrategia de venta de sus juguetes para hacer convenios con empresas transnacionales que operan en su entorno.",
+            "Potenciar la promoción de sus juguetes porque han ingresado al mercado nuevos competidores con juguetes a precios más bajos.",
+            "Fijar un precio de venta más bajo porque la demanda de los juguetes está disminuyendo de forma constante."
+          ],
+          "respuesta": "Aprovechar el éxito de la estrategia de venta de sus juguetes para hacer convenios con empresas transnacionales que operan en su entorno.",
+          "respuestaCorta": "La estrategia FO usa una Fortaleza (éxito en ventas) para maximizar una Oportunidad (convenios con transnacionales).",
+          "solucionario": "La estrategia FO (Fortalezas-Oportunidades) utiliza las fortalezas internas para aprovechar las oportunidades externas. Usar el éxito comprobado de ventas (Fortaleza) para lograr alianzas con empresas transnacionales (Oportunidad del entorno) encaja en esta definición.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ept_2018_p67",
+      "contexto": "Una docente tiene como propósito que los estudiantes comprendan qué es y cuáles son las características de la calidad. A continuación, se describe una de las actividades que propone.\nSolicita a los estudiantes que formen equipos de 5 integrantes cada uno y les indica realizar lo siguiente:\n• Cada equipo debe escoger un objeto con el que cuente: un lapicero, un texto, unas zapatillas, una prenda de vestir, una carpeta, una silla, etc. Luego, los miembros del equipo observan cada detalle o característica del objeto seleccionado y entre ellos comparten sus observaciones.\nLuego, les pregunta: \"¿Qué idea tienen sobre el significado de calidad de un producto? ¿Cómo creen que debería ser ese producto para ser considerado de calidad? ¿Qué garantiza la calidad de un producto?\".\n• Finalmente, les pide que escriban sus ideas en papelógrafos y los peguen en la pizarra.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes alternativas se corresponde con la actividad propuesta por la docente?",
+          "opciones": [
+            "La evaluación de los conocimientos relacionados con la calidad.",
+            "La exploración de los saberes previos de los estudiantes en relación con la calidad.",
+            "La generación del conflicto cognitivo de los estudiantes en relación con la calidad."
+          ],
+          "respuesta": "La exploración de los saberes previos de los estudiantes en relación con la calidad.",
+          "respuestaCorta": "La docente busca recoger las concepciones e ideas que los estudiantes ya traen sobre el tema antes de la instrucción formal.",
+          "solucionario": "Al pedir a los estudiantes que expresen sus ideas sobre el significado de calidad basándose en la observación de objetos cotidianos, antes de brindarles la definición teórica, la docente está activando y recogiendo sus saberes previos.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ept_2018_p68",
+      "contexto": "Una docente tiene como propósito que los estudiantes formulen la propuesta de valor de su proyecto. Para ello, propone espacios de diálogo en equipos de trabajo de modo que puedan determinar dicha propuesta de valor.\nAl monitorear la actividad, un estudiante comenta a la docente lo siguiente: \"Mi primo vive al sur del país y en su localidad hace mucho frío durante todo el año. Por ello, inició un negocio de venta de café caliente en su barrio y tiene mucha demanda. Propongo vender café caliente en la losa deportiva de mi barrio\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes grupos de preguntas permite la reflexión del estudiante acerca de su propuesta de valor?",
+          "opciones": [
+            "¿Qué es una propuesta de valor? ¿Qué características tiene? ¿Cuáles son sus elementos? ¿Cuál es la propuesta de valor de tu primo? ¿Cuál es la importancia de la propuesta de valor para tener éxito en un negocio?",
+            "¿Qué tipo de café caliente ofrece tu primo? ¿Por qué consideras que la venta de café caliente es un buen negocio? ¿Cuál es tu propósito con la venta de café caliente? ¿Qué otros productos relacionados a la venta de café caliente podrías ofrecer?",
+            "¿Qué diferencias hay entre el segmento de clientes del negocio de tu primo y el de tu propuesta? ¿La venta de café caliente que propones resuelve un problema similar al que está solucionando tu primo? ¿Por qué? ¿Tu propuesta de negocio es sostenible?"
+          ],
+          "respuesta": "¿Qué diferencias hay entre el segmento de clientes del negocio de tu primo y el de tu propuesta? ¿La venta de café caliente que propones resuelve un problema similar al que está solucionando tu primo? ¿Por qué? ¿Tu propuesta de negocio es sostenible?",
+          "respuestaCorta": "Estas preguntas cuestionan la adaptabilidad del negocio al nuevo contexto y cliente, claves para la propuesta de valor.",
+          "solucionario": "La opción correcta orienta al estudiante a contrastar el contexto y el segmento de clientes (frío del sur vs. losa deportiva local) para verificar si la solución (café caliente) realmente aporta valor en el nuevo escenario, promoviendo una reflexión profunda sobre la viabilidad de su propuesta.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ept_2018_p69",
+      "contexto": "Una docente tiene como propósito que los estudiantes elaboren un diagrama PERT. A continuación, se muestra parte de una tabla de actividades y parte del diagrama PERT realizado por un estudiante:",
+      "imagen": "img/nombramiento/secundaria/2018/ept/2.jpg",
+      "preguntas": [
+        {
+          "pregunta": "Considerando la tabla de actividades y la parte del diagrama que se muestra, ¿cuál es el error del estudiante que se evidencia en el diagrama anterior?",
+          "opciones": [
+            "Considerar que las actividades \"G\" y \"H\" son concurrentes en \"I\".",
+            "Considerar que la actividad \"I\" precede a las actividades \"G\" y \"H\".",
+            "Considerar que las actividades \"G\" y \"H\" se realizan al mismo tiempo."
+          ],
+          "respuesta": "Considerar que la actividad \"I\" precede a las actividades \"G\" y \"H\".",
+          "respuestaCorta": "Según la tabla, 'I' depende de 'G' y 'H', por lo que dibujarla antes (precediéndolas) es un error de secuencia.",
+          "solucionario": "La tabla indica claramente que la actividad 'I' tiene como predecesores a 'G' y 'H'. Por tanto, 'I' debe ocurrir después. Si el diagrama muestra que 'I' precede (va antes que) 'G' y 'H', contradice la lógica de dependencias establecida en la tabla.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ept_2018_p70",
+      "contexto": "Un equipo de estudiantes está elaborando un Diagrama de análisis de proceso (DAP) para el bien que van a elaborar. A continuación, se presenta parte del diagrama elaborado por el equipo de estudiantes.",
+      "imagen": "img/nombramiento/secundaria/2018/ept/3.jpg",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes alternativas expresa el error del equipo de estudiantes?",
+          "opciones": [
+            "Confunde demora con traslado.",
+            "Confunde operación con inspección.",
+            "Confunde almacenamiento con demora."
+          ],
+          "respuesta": "Confunde operación con inspección.",
+          "respuestaCorta": "En el DAP estándar, el cuadrado representa inspección. Si marcaron operaciones o inspecciones cruzadas con el círculo (operación), hay confusión.",
+          "solucionario": "Aunque la representación textual es limitada, la opción correcta (B) indica que hubo una confusión entre los símbolos o columnas de Operación (Círculo) e Inspección (Cuadrado). Por ejemplo, marcar una verificación solo como operación o viceversa.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ept_2018_p71",
+      "contexto": "Un equipo de estudiantes está vendiendo en su comunidad un producto elaborado por ellos mismos. Como parte del análisis de sus ventas, el equipo ha decidido aplicar una encuesta para conocer qué percepción tienen sus clientes sobre la calidad de su producto.\nA continuación, se muestra lo manifestado por uno de los miembros del equipo:\nLuisa: \"Elijamos una encuesta que nos permita aplicar el cuestionario con mayor rapidez, con menor costo en su aplicación y que, además, permita tomar nota de las respuestas de los clientes\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿A cuál de los siguientes tipos de encuesta se refiere Luisa?",
+          "opciones": [
+            "A encuesta cara a cara.",
+            "A encuesta vía telefónica.",
+            "A encuesta por correo electrónico."
+          ],
+          "respuesta": "A encuesta vía telefónica.",
+          "respuestaCorta": "La encuesta telefónica es rápida, de bajo costo relativo y permite al encuestador registrar respuestas inmediatamente.",
+          "solucionario": "La encuesta telefónica cumple con los criterios de Luisa: es más rápida y barata que la presencial (cara a cara) y, a diferencia del correo electrónico, permite una interacción directa donde el encuestador puede tomar nota inmediata de las respuestas y matices del cliente.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ept_2018_p72",
+      "contexto": "Un equipo de estudiantes ha decidido realizar modificaciones en su exprimidora mecánica de jugo de naranja con el propósito de que pueda exprimir naranjas de diversos tamaños a la vez.\nA continuación, se presenta parte del diario de estos estudiantes que muestra los procedimientos que han realizado.",
+      "imagen": "img/nombramiento/secundaria/2018/ept/4.jpg",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes técnicas creativas se corresponde con el conjunto de pasos descritos por los estudiantes?",
+          "opciones": [
+            "TRIZ",
+            "SCAMPER",
+            "Lista de atributos"
+          ],
+          "respuesta": "Lista de atributos",
+          "respuestaCorta": "El proceso de listar componentes, analizar sus propiedades y modificarlas describe la técnica de Lista de Atributos.",
+          "solucionario": "La técnica de Lista de Atributos consiste específicamente en identificar los atributos o componentes de un producto, analizarlos y buscar formas de modificar uno o más de ellos para mejorar el producto. Los pasos 1 al 5 descritos por los estudiantes siguen exactamente este procedimiento.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ept_2018_p73",
+      "contexto": "Una empresa ha identificado fallas en el proceso de producción que están generando defectos en el producto final. Se desea realizar el análisis mediante un gráfico de Pareto y se ha iniciado con la elaboración de la siguiente tabla:",
+      "imagen": "img/nombramiento/secundaria/2018/ept/5.jpg",
+      "preguntas": [
+        {
+          "pregunta": "Considerando la información registrada en la tabla, ¿cuál de las siguientes afirmaciones es correcta?",
+          "opciones": [
+            "El 10% de unidades del producto tienen la falla 3.",
+            "El 77% del total de las fallas registradas corresponden a las fallas 1 y 2.",
+            "El 94% de las fallas en el proceso de producción corresponden a la falla 4."
+          ],
+          "respuesta": "El 77% del total de las fallas registradas corresponden a las fallas 1 y 2.",
+          "respuestaCorta": "El porcentaje acumulado en la fila 2 es 77%, lo que suma las fallas 1 y 2.",
+          "solucionario": "La columna de porcentaje acumulado muestra la suma de los porcentajes de las fallas anteriores. Para la falla 2, el acumulado es 55% (falla 1) + 22% (falla 2) = 77%. Esto valida que el 77% de las fallas totales se deben a estos dos primeros tipos de error.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ept_2018_p74",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes alternativas es una característica del círculo de calidad?",
+          "opciones": [
+            "La participación voluntaria.",
+            "La falta de alguien que lo lidere.",
+            "La solución de conflictos entre los trabajadores."
+          ],
+          "respuesta": "La participación voluntaria.",
+          "respuestaCorta": "Los círculos de calidad son grupos de empleados que se reúnen voluntariamente.",
+          "solucionario": "Una característica fundamental de los círculos de calidad es que están formados por un grupo de empleados que se reúnen de manera voluntaria y regular para identificar y resolver problemas relacionados con su trabajo.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ept_2018_p75",
+      "contexto": "Una docente les ha propuesto a los estudiantes la siguiente situación:\nUna tienda de ropa, a pesar de tener precios muy competitivos, ha vendido muy pocas prendas de la estación por el inesperado cambio del clima.\nA partir de la situación presentada, la docente les pide que planteen una estrategia basada en las 4P del marketing para lograr el propósito de vender la mayor cantidad de dichas prendas.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes estrategias de marketing es la más apropiada para el logro del propósito planteado?",
+          "opciones": [
+            "Estrategias para el precio.",
+            "Estrategias para el producto.",
+            "Estrategias para la promoción."
+          ],
+          "respuesta": "Estrategias para la promoción.",
+          "respuestaCorta": "Las promociones de ventas (ofertas, liquidaciones) son ideales para mover stock estancado rápidamente.",
+          "solucionario": "Ante un stock estancado por cambio de temporada (factor externo), la estrategia más efectiva en el corto plazo para 'vender la mayor cantidad' es la Promoción (específicamente la Promoción de Ventas, como ofertas, 2x1 o liquidaciones), que incentiva la compra rápida.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ept_2018_p76",
+      "contexto": "Lea la siguiente situación y responda las preguntas 76 y 77.\nUn docente tiene como propósito que los estudiantes identifiquen acciones de primeros auxilios. Para ello les propone el siguiente caso:\n\"Un operario que cuenta con su equipo de protección está haciendo el mantenimiento de una maquinaria utilizando solventes químicos. Por el exceso de calor que sentía por el clima en la zona, decide quitarse la mascarilla de respiración. La consecuencia de lo anterior fue que el trabajador sintió algunos malestares como náuseas, dolor de cabeza y mareos\".\nLuego, les pregunta: \"¿Cuál es la acción inmediata de primeros auxilios que se le debe brindar a este operario?\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los estudiantes respondió correctamente?",
+          "opciones": [
+            "Álvaro: \"Inducirlo al vómito\".",
+            "Betania: \"Llevarlo a un lugar ventilado\".",
+            "Corina: \"Darle un pañuelo humedecido con vinagre\"."
+          ],
+          "respuesta": "Betania: \"Llevarlo a un lugar ventilado\".",
+          "respuestaCorta": "La intoxicación por inhalación requiere aire fresco inmediato para oxigenar al paciente.",
+          "solucionario": "En casos de intoxicación por inhalación de solventes químicos, la primera medida de primeros auxilios es retirar a la persona de la fuente de exposición y trasladarla inmediatamente a un lugar con aire fresco y ventilado.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+   
+    {
+      "idGrupo": "cp_ept_2018_p77",
+      "contexto": "Un operario que cuenta con su equipo de protección está haciendo el mantenimiento de una maquinaria utilizando solventes químicos. Por el exceso de calor que sentía por el clima en la zona, decide quitarse la mascarilla de respiración. La consecuencia de lo anterior fue que el trabajador sintió algunos malestares como náuseas, dolor de cabeza y mareos.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "El docente aprovechará el caso presentado para que los estudiantes reflexionen sobre la conducta del operario. ¿Cuál de las siguientes acciones pedagógicas es más pertinente para su propósito?",
+          "opciones": [
+            "Entregar a los estudiantes algunos casos de accidentes ocurridos en el trabajo para que los lean en equipos e indicarles que respondan a las preguntas: \"¿Qué tipo de accidente ocurrió? y ¿qué factores del trabajo lo ocasionaron?\". Luego, pedir que comparen si el caso del operario se asemeja a alguno de los casos entregados.",
+            "Pedir a los estudiantes que brinden razones por las que la conducta del operario no fue la correcta. A continuación, preguntarles: \"¿Qué desenlace pudo tener para su salud y qué órganos internos pudieron ser afectados?\". Luego, pedir que elaboren un diagrama de causa - efecto para organizar las causas y las consecuencias analizadas.",
+            "Preguntar: \"¿Qué señal de seguridad incumplió el operario? ¿De qué forma su conducta pudo perjudicar a la producción? ¿Qué sanción le pondrían a los trabajadores que no respetan las normas de seguridad?\". Luego, pedir que elaboren una infografía de las normas de seguridad."
+          ],
+          "respuesta": "Pedir a los estudiantes que brinden razones por las que la conducta del operario no fue la correcta. A continuación, preguntarles: \"¿Qué desenlace pudo tener para su salud y qué órganos internos pudieron ser afectados?\". Luego, pedir que elaboren un diagrama de causa - efecto para organizar las causas y las consecuencias analizadas.",
+          "respuestaCorta": "Esta opción promueve el análisis de las razones y consecuencias personales (salud), fomentando la reflexión profunda sobre el autocuidado.",
+          "solucionario": "Para generar reflexión sobre la conducta (acto inseguro), es necesario que el estudiante analice las causas (por qué lo hizo/por qué estuvo mal) y las consecuencias directas en la salud humana (impacto real), consolidando este análisis en un organizador visual (Ishikawa/Causa-Efecto). La opción A se centra en comparar casos externos y la C en normas y sanciones punitivas.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ept_2018_p78_p79",
+      "contexto": "Los estudiantes están desarrollando una actividad que consiste en elaborar el diagrama de flujo del proceso Pago de productos. A continuación, se presenta parte del diagrama que está elaborando un equipo de estudiantes:",
+      "imagen": "img/nombramiento/secundaria/2018/ept/6.jpg",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es el principal error que se evidencia en el gráfico elaborado por este equipo de estudiantes?",
+          "opciones": [
+            "Se incluye al cliente en la actividad 2.",
+            "En la actividad 4, debió preguntar \"¿qué le pareció la atención?\".",
+            "No incluyeron una actividad de decisión entre las actividades 2 y 3."
+          ],
+          "respuesta": "Se incluye al cliente en la actividad 2.",
+          "respuestaCorta": "En un diagrama de flujo de proceso de una entidad, no se suelen mezclar acciones del cliente en el mismo carril de flujo.",
+          "solucionario": "En la diagramación de procesos estándar, se modela el flujo de trabajo de la organización. Incluir una acción externa (\"Cliente paga\") dentro del flujo de actividades del personal/sistema sin usar carriles separados (swimlanes) es un error técnico de representación, ya que mezcla actores.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        },
+        {
+          "pregunta": "La docente pregunta al equipo de estudiantes acerca de la secuencia de actividades que han establecido en su diagrama de flujo. Uno de ellos comenta lo siguiente: \"Yo no estuve de acuerdo con que se considere la 'emisión de recibo de pago' en la actividad 3 ni con el símbolo usado; propuse que la actividad 3 sea 'almacenar una copia del recibo de pago' y que se use el símbolo de archivo\". ¿Cuál de las siguientes acciones pedagógicas es más pertinente para que el estudiante reflexione sobre su error?",
+          "opciones": [
+            "Presentar en la pizarra el símbolo documento y su significado, y hacer lo mismo con el símbolo archivo. Luego, justificar el uso del símbolo documento en la actividad 3 del diagrama y decirle por qué no debe usarse el símbolo archivo para dicha actividad.",
+            "Preguntar: \"¿Qué símbolos se usan en los diagramas de flujo? ¿Qué forma tiene cada uno de ellos?\". Luego, pedir que identifique los símbolos que se han usado en el diagrama realizado y solicitar cuáles son las razones por las que cree que el símbolo archivo debe ir en el paso 3.",
+            "Preguntar: \"Si su propuesta considera que, luego de la actividad 2, se almacenen los recibos de pago, ¿en qué momento se emite el recibo de pago? ¿Qué diferencias existen entre los símbolos documento y archivo?\". Luego, pedir que indique la pertinencia del uso de uno de estos símbolos en el diagrama Pago de productos."
+          ],
+          "respuesta": "Preguntar: \"Si su propuesta considera que, luego de la actividad 2, se almacenen los recibos de pago, ¿en qué momento se emite el recibo de pago? ¿Qué diferencias existen entre los símbolos documento y archivo?\". Luego, pedir que indique la pertinencia del uso de uno de estos símbolos en el diagrama Pago de productos.",
+          "respuestaCorta": "Esta acción cuestiona la lógica secuencial (¿cuándo se emite si ya se archivó?) y la semántica de los símbolos para inducir la corrección.",
+          "solucionario": "La retroalimentación reflexiva debe guiar al estudiante a descubrir el error por sí mismo. Al preguntar por la secuencia lógica (si archivas primero, no has emitido el documento) y la función de los símbolos, el docente permite que el estudiante se dé cuenta de la incoherencia de su propuesta sin dársela resuelta (como en la A) ni solo pedir justificación (como en la B).",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ept_2018_p80",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes tareas propuestas por el docente es de menor demanda cognitiva?",
+          "opciones": [
+            "Pedir que propongan estrategias de venta efectivas.",
+            "Pedir que elaboren productos nuevos a partir de las necesidades de los clientes.",
+            "Pedir que presenten en una tabla los resultados de una encuesta aplicada en su localidad."
+          ],
+          "respuesta": "Pedir que presenten en una tabla los resultados de una encuesta aplicada en su localidad.",
+          "respuestaCorta": "Organizar datos en una tabla es una tarea de procesamiento básico, inferior a proponer o crear.",
+          "solucionario": "La presentación de datos en una tabla es una actividad de organización y representación de información, que implica habilidades de orden inferior (recordar, entender, aplicar). En cambio, proponer estrategias o elaborar nuevos productos requiere análisis, evaluación y creación, que son de alta demanda cognitiva.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ept_2018_p81",
+      "contexto": "Un equipo de estudiantes le comenta al docente que sus productos son de calidad y atienden a las necesidades de sus clientes, pero la venta ha disminuido semana tras semana. El docente ha planificado varias tareas con el propósito de ayudarles a solucionar la situación.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes tareas planteadas es de mayor demanda cognitiva?",
+          "opciones": [
+            "Elaborar un listado de los principales errores identificados en el proceso de ventas.",
+            "Formular un plan de acción a partir de las debilidades identificadas en el área de ventas.",
+            "Buscar información en internet acerca de las técnicas de ventas con la participación de todos los integrantes del equipo."
+          ],
+          "respuesta": "Formular un plan de acción a partir de las debilidades identificadas en el área de ventas.",
+          "respuestaCorta": "Formular un plan implica diagnóstico, síntesis y creación de soluciones.",
+          "solucionario": "Buscar información es recuperación de datos; listar errores es análisis básico. Formular un plan de acción requiere integrar el diagnóstico (debilidades) para crear una propuesta de solución estructurada y proyectada al futuro, lo cual exige el nivel cognitivo más alto (Crear/Evaluar).",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ept_2018_p82",
+      "contexto": "Un equipo de estudiantes está discutiendo acerca de qué personería jurídica es más conveniente para constituir su empresa. Ricardo, un miembro del equipo, dice: \"Si aspiramos a tener una gran empresa, nosotros cinco podemos constituir una Sociedad Anónima Abierta (SAA) porque algunas de las grandes empresas tienen este tipo de personería jurídica. Además, tiene prestigio y permite acceder a créditos financieros con facilidad\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es el principal error que se evidencia en la afirmación del estudiante?",
+          "opciones": [
+            "Creer que los otros tipos de personería jurídica tienen menos prestigio.",
+            "Elegir un tipo de sociedad inadecuado para el número de socios que conforman la empresa.",
+            "Considerar que con una Sociedad Anónima Abierta se puede obtener un crédito con facilidad."
+          ],
+          "respuesta": "Elegir un tipo de sociedad inadecuado para el número de socios que conforman la empresa.",
+          "respuestaCorta": "Una SAA requiere un número elevado de accionistas (más de 750) o cotizar en bolsa, imposible para 5 socios.",
+          "solucionario": "Según la Ley General de Sociedades en Perú, una Sociedad Anónima Abierta (S.A.A.) requiere tener más de 750 accionistas o haber hecho oferta pública de acciones. Un grupo de 5 estudiantes no cumple con los requisitos legales estructurales para este tipo de sociedad.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ept_2018_p83",
+      "contexto": "Un equipo de estudiantes está dialogando acerca de los pasos a seguir para registrar o constituir una empresa con personería jurídica en el Perú. Uno de ellos menciona: \"El proceso inicia con la búsqueda y reserva de nombre, la elaboración del acto constitutivo (minuta), y el abono de capital y bienes\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes alternativas expresa la correcta secuencia de pasos para culminar con el proceso mencionado?",
+          "opciones": [
+            "Elaboración de escritura pública - inscripción en Registros Públicos - inscripción al RUC para persona jurídica.",
+            "Inscripción en Registros Públicos - inscripción al RUC para persona jurídica - elaboración de escritura pública.",
+            "Inscripción al RUC para persona jurídica - inscripción en Registros Públicos- elaboración de escritura pública."
+          ],
+          "respuesta": "Elaboración de escritura pública - inscripción en Registros Públicos - inscripción al RUC para persona jurídica.",
+          "respuestaCorta": "Secuencia legal correcta: Notaría (Escritura) -> SUNARP (Registros) -> SUNAT (RUC).",
+          "solucionario": "Después de la minuta y el aporte de capital, el siguiente paso legal obligatorio es elevar la minuta a Escritura Pública ante notario. Luego, esta se inscribe en la SUNARP (Registros Públicos) para obtener la personería jurídica y, finalmente, se tramita el RUC ante la SUNAT.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ept_2018_p84",
+      "contexto": "Los estudiantes están haciendo uso de una hoja de cálculo para procesar la información de una encuesta que aplicaron a 100 personas. Ellos desean elegir un gráfico que les permita comparar rápidamente las preferencias que tienen los varones y las mujeres de los tres prototipos que mostraron. A continuación se presenta una tabla con la información recolectada.",
+      "imagen": "img/nombramiento/secundaria/2018/ept/7.jpg",
+      "preguntas": [
+        {
+          "pregunta": "Según el propósito de los estudiantes, ¿cuál de los siguientes tipos de gráficos estadísticos es más pertinente para representar la información?",
+          "opciones": [
+            "a",
+            "b",
+            "c"
+          ],
+          "respuesta": "a",
+          "respuestaCorta": "El gráfico de barras agrupadas es el estándar para comparar series de datos (Hombres/Mujeres) a través de categorías (Prototipos).",
+          "solucionario": "El propósito es comparar dos series de datos (género) dentro de categorías (prototipos). El gráfico de barras agrupadas (opción A) permite una comparación visual directa de las alturas de las barras para hombres y mujeres en cada prototipo. Los gráficos circulares (B) son para partes de un todo y los lineales (C) para tendencias en el tiempo.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ept_2018_p85_p86",
+      "contexto": "María y Lupe son compañeras de aula. Ambas han demostrado habilidades de liderazgo. María es muy participativa y este año ha obtenido el primer lugar en el Concurso Nacional Crea y Emprende a nivel de la región. Lupe cree que, por este reconocimiento, perderá su liderazgo, por lo que ha comenzado a demostrar una actitud distinta hacia María. Así, por ejemplo, cuando María opina sobre algún tema, Lupe no toma en cuenta su opinión o se opone a sus ideas.\nMaría siente cólera y frustración ante lo que está sucediendo. Sin embargo, ella piensa que reprocharle dicha actitud solo empeoraría la situación porque se ha dado cuenta de que Lupe teme perder su liderazgo. Por ello, le ha pedido de manera amable conversar para encontrar una solución.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes competencias socioemocionales manifiesta María?",
+          "opciones": [
+            "Adaptabilidad.",
+            "Trabajo en equipo.",
+            "Autorregulación de emociones."
+          ],
+          "respuesta": "Autorregulación de emociones.",
+          "respuestaCorta": "María gestiona su ira y frustración racionalmente para buscar una solución constructiva.",
+          "solucionario": "María identifica sus emociones negativas (cólera, frustración) pero decide no actuar impulsada por ellas (reprochar), sino que analiza la causa (miedo de Lupe) y elige una conducta asertiva (conversar). Este proceso es la definición de autorregulación emocional.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        },
+        {
+          "pregunta": "¿Cuál de las siguientes acciones pedagógicas es la más pertinente para que Lupe reflexione sobre su actitud?",
+          "opciones": [
+            "Decirle que es importante respetar el aporte de todos y que se puede aprender de las ideas de los demás. Luego, pedirle que acepte las sugerencias de María.",
+            "Solicitarle que explique las razones por las que asumió dicha actitud. Luego, pedirle que exprese cómo se sentiría ella si recibiera un trato similar, qué haría en el lugar de María y cómo podría solucionar el problema.",
+            "Preguntarle: \"¿Cuáles son las normas de convivencia del aula? ¿Es correcto no tomar en cuenta las opiniones de los otros?\". Luego, pedirle que se comprometa a tratar bien a María."
+          ],
+          "respuesta": "Solicitarle que explique las razones por las que asumió dicha actitud. Luego, pedirle que exprese cómo se sentiría ella si recibiera un trato similar, qué haría en el lugar de María y cómo podría solucionar el problema.",
+          "respuestaCorta": "Esta opción fomenta la empatía y la toma de perspectiva, claves para la reflexión genuina y el cambio de actitud.",
+          "solucionario": "Para lograr un cambio de actitud profundo, la acción pedagógica debe basarse en la reflexión y la empatía (ponerse en el lugar del otro). La opción B guía a Lupe a analizar sus motivos y a empatizar con los sentimientos de María, lo cual es más efectivo que la instrucción directa (A) o la apelación a normas (C).",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ept_2018_p87",
+      "contexto": "En una reunión de trabajo colegiado, los docentes de EPT están revisando sus propuestas para promover en los estudiantes el fortalecimiento de la competencia socioemocional de la perseverancia.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes acciones pedagógicas es pertinente para lograr el propósito mencionado?",
+          "opciones": [
+            "Plantear situaciones de aprendizaje que se caractericen por el acompañamiento constante del docente y en las que se propongan experiencias diferentes dentro y fuera del aula.",
+            "Plantear situaciones de aprendizaje que se caractericen por el acompañamiento constante del docente y en las que se propongan actividades colaborativas con estudiantes del aula y de otras aulas.",
+            "Plantear situaciones de aprendizaje que se caractericen por el acompañamiento constante del docente y en las que se propongan retos cada vez de mayor complejidad hasta culminar con éxito su proyecto."
+          ],
+          "respuesta": "Plantear situaciones de aprendizaje que se caractericen por el acompañamiento constante del docente y en las que se propongan retos cada vez de mayor complejidad hasta culminar con éxito su proyecto.",
+          "respuestaCorta": "La perseverancia se desarrolla enfrentando y superando retos progresivos con apoyo.",
+          "solucionario": "La perseverancia es la capacidad de mantener el esfuerzo para alcanzar metas a pesar de las dificultades. La estrategia de plantear retos de complejidad creciente ofrece el escenario ideal para ejercitar esta competencia, donde el acompañamiento docente sirve de soporte para que el estudiante no desista.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ept_2018_p88",
+      "contexto": "Un equipo de docentes tiene como propósito integrar un video en sus sesiones de aprendizaje. Ellos proponen que se debe tener en cuenta las siguientes acciones pedagógicas:\n- Establecer los aprendizajes a lograr con la visualización del video.\n- Establecer estrategias e instrumentos de evaluación.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes grupos de acciones pedagógicas es más pertinente para complementar lo propuesto por los docentes?",
+          "opciones": [
+            "- Seleccionar partes del video que respondan a los aprendizajes a lograr.\n- Elaborar una guía que facilite la comprensión del video.",
+            "- Probar el video con anticipación y verificar el tiempo de duración, el sonido y la imagen.\n- Comprobar que los contenidos del video sean entretenidos y novedosos.",
+            "- Verificar que los estudiantes presten atención al video.\n- Presentar enlaces de páginas web que ayuden a entender el video."
+          ],
+          "respuesta": "- Seleccionar partes del video que respondan a los aprendizajes a lograr.\n- Elaborar una guía que facilite la comprensión del video.",
+          "respuestaCorta": "Estas acciones aseguran la mediación pedagógica necesaria para que el video sea un recurso de aprendizaje efectivo.",
+          "solucionario": "Para que un video sea didáctico, no basta con proyectarlo. El docente debe realizar una curaduría del contenido (seleccionar partes pertinentes) y mediar el aprendizaje mediante herramientas de soporte (guías de observación/comprensión) que orienten la atención del estudiante hacia los objetivos planteados.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ept_2018_p89",
+      "contexto": "Una docente propone a los estudiantes un problema de funcionamiento que presenta un prototipo. Luego, con la participación de ellos, establece la meta de trabajo: solucionar el problema usando diversas técnicas creativas y estrategias de solución. Durante la resolución del problema, cada estudiante revisa su avance con la orientación de la docente. Identifica alguna dificultad para que pueda explorar diversas técnicas creativas y estrategias distintas de las que ha ido utilizando la docente. Al final, cada estudiante evalúa si ha llegado a la meta propuesta mediante la valoración de sus fortalezas y debilidades.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Considerando todas las acciones descritas, ¿por qué se puede afirmar que la docente ha promovido un proceso metacognitivo en los estudiantes?",
+          "opciones": [
+            "Porque ha guiado paso a paso el proceso de resolución del problema y ha generado que los estudiantes desarrollen su confianza al resolverlos.",
+            "Porque ha permitido que los estudiantes tomen conciencia de lo que quieren lograr, regulen su propia actividad y analicen sus propias formas de aprender.",
+            "Porque ha permitido que la meta de trabajo se establezca de manera conjunta entre ella y los estudiantes, lo que generó un mayor compromiso en su cumplimiento por parte de estos."
+          ],
+          "respuesta": "Porque ha permitido que los estudiantes tomen conciencia de lo que quieren lograr, regulen su propia actividad y analicen sus propias formas de aprender.",
+          "respuestaCorta": "La descripción coincide con las dimensiones de la metacognición: planificación, monitoreo/regulación y evaluación.",
+          "solucionario": "La metacognición implica el conocimiento y control sobre el propio aprendizaje. Las acciones descritas (establecer meta, revisar avance, identificar dificultades, evaluar resultado y fortalezas/debilidades) corresponden a los procesos de planificación, supervisión y evaluación del propio pensamiento.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ept_2018_p90",
+      "contexto": "Un equipo de estudiantes comenta que, a pesar de que sus productos no tienen fallas, la venta de estos ha disminuido semana tras semana, por lo que el docente, al monitorear estos resultados, plantea al equipo realizar la siguiente tarea:\n• Analizar las fortalezas y debilidades de las estrategias de venta utilizadas hasta el momento y proponer en equipos de trabajo alternativas de solución en un presentador de diapositivas.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Por qué esta tarea es de alta demanda cognitiva?",
+          "opciones": [
+            "Porque la tarea planteada exige evaluar la situación para resolverla.",
+            "Porque la tarea planteada exige realizar varias acciones que hay que trabajar en equipo.",
+            "Porque la tarea exige la incorporación de un presentador de diapositivas para dar a conocer la solución."
+          ],
+          "respuesta": "Porque la tarea planteada exige evaluar la situación para resolverla.",
+          "respuestaCorta": "Evaluar y proponer soluciones requiere procesos mentales complejos (análisis, síntesis, juicio crítico).",
+          "solucionario": "La alta demanda cognitiva se define por el tipo de operaciones mentales requeridas. 'Analizar fortalezas y debilidades' (Evaluación) y 'proponer alternativas' (Creación) son habilidades de pensamiento de orden superior en la taxonomía de Bloom, mucho más exigentes que el uso de herramientas (C) o la forma de trabajo (B).",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    }
+  ]
+}
+  

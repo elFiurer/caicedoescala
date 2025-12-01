@@ -112,6 +112,48 @@
     }
   },
   {
+    "id": 13,
+    "proceso": "Nombramiento",
+    "anio": 2018,
+    "nivel": "Primaria",
+    "especialidad": "Educación Física ",
+    "modalidad": "EBR",
+    "preguntas": 90,
+    "tiempo": 225,
+    "archivos": {
+      "generico": "data/nombramiento/generico/generico_ebr_2018.json",
+      "especifico": "data/nombramiento/primaria/2018/edufisicaprim_2018.json"
+    }
+  },
+  {
+    "id": 14,
+    "proceso": "Nombramiento",
+    "anio": 2018,
+    "nivel": "Secundaria",
+    "especialidad": "Inglés",
+    "modalidad": "EBR",
+    "preguntas": 90,
+    "tiempo": 225,
+    "archivos": {
+      "generico": "data/nombramiento/generico/generico_ebr_2018.json",
+      "especifico": "data/nombramiento/secundaria/2018/ingles_2018.json"
+    }
+  },
+  {
+    "id": 15,
+    "proceso": "Nombramiento",
+    "anio": 2018,
+    "nivel": "Secundaria",
+    "especialidad": "Educación para el Trabajo (EPT)",
+    "modalidad": "EBR",
+    "preguntas": 90,
+    "tiempo": 225,
+    "archivos": {
+      "generico": "data/nombramiento/generico/generico_ebr_2018.json",
+      "especifico": "data/nombramiento/secundaria/2018/nombramiento_ept2018.json"
+    }
+  },
+  {
     "id": 20,
     "proceso": "Ascenso",
     "anio": 2018,
