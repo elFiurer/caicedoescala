@@ -1,0 +1,710 @@
+{
+  "Conocimientos Pedagógicos": [
+    {
+      "idGrupo": "cp_primaria_2019_p51_52",
+      "contexto": "Lea la siguiente situación y responda las preguntas 51 y 52.\n\nLos estudiantes de segundo grado se encuentran leyendo textos poéticos en diversos formatos. En este contexto, el docente les ha propuesto la lectura del siguiente caligrama.",
+      "imagen": "img/nombramiento/primaria/2019/primaria/1.jpg",
+      "preguntas": [
+        {
+          "pregunta": "Algunos estudiantes le comentan al docente que no saben cómo empezar a leer el texto. Por ello, él busca ayudarlos con la lectura de este caligrama. ¿Cuál de las siguientes acciones pedagógicas es más adecuada para lograr este propósito?",
+          "opciones": [
+            "Presentarles un listado con las principales características de un caligrama. Luego, pedirles que encuentren algunas de estas características en el texto presentado para que puedan leerlo sin dificultad.",
+            "Indicarles que lean el caligrama desde donde creen que se debería empezar. Luego, leer en voz alta desde \"Y yo...\" siguiendo la forma de la manzana para que comparen este tipo de lectura con la de ellos.",
+            "Mencionarles que este es un texto diferente a los que han leído antes. Luego, proponer que transcriban el caligrama de otra forma empezando por la expresión \"Y yo...\" para que les sea más sencillo leerlo."
+          ],
+          "respuesta": "Indicarles que lean el caligrama desde donde creen que se debería empezar. Luego, leer en voz alta desde \"Y yo...\" siguiendo la forma de la manzana para que comparen este tipo de lectura con la de ellos.",
+          "respuestaCorta": "B",
+          "solucionario": "Esta acción promueve el acercamiento autónomo al texto (hipótesis de lectura) y utiliza el modelado docente para mostrar la direccionalidad específica del caligrama, sin desnaturalizar el formato del texto.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        },
+        {
+          "pregunta": "El docente pidió a los estudiantes que comenten algún aspecto del caligrama que les haya llamado la atención. A continuación, se presentan los comentarios de tres estudiantes.\n\nAlicia: \"Esta parte está mal (señalando '¡Tengo toda la manzana!'). ¿Por qué está escrita de cabeza?\".\nBeatriz: \"Me gusta que el camino del gusanito esté formado por letras. El gusanito tiene que pasar por ahí para comerse la manzana, ¿no?\".\nCristian: \"Creo que esta hoja (señalando el dibujo que está encima de la palabra 'gusano') es para saber que se trata de una manzana, ¿verdad?\".\n\n¿Cuál de los comentarios de los estudiantes evidencia un conflicto cognitivo sobre el sistema de escritura?",
+          "opciones": [
+            "El de Alicia.",
+            "El de Beatriz.",
+            "El de Cristian."
+          ],
+          "respuesta": "El de Alicia.",
+          "respuestaCorta": "A",
+          "solucionario": "Alicia muestra un conflicto cognitivo porque la disposición gráfica del texto (invertido o \"de cabeza\") contradice sus saberes previos sobre la linealidad y direccionalidad estándar de la escritura.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_primaria_2019_p53_54",
+      "contexto": "Lea la siguiente situación y responda las preguntas 53 y 54.\n\nLos estudiantes de cuarto grado han descubierto que, en el huerto de la IE, hay caracoles y se lo han comentado a la docente. En este contexto, ella les propone investigar acerca de los caracoles para elaborar dípticos que ofrezcan información a la comunidad educativa sobre cómo viven estos moluscos.\n\nComo parte de la investigación, los estudiantes realizaron algunas observaciones iniciales en el huerto para plantear hipótesis sobre cómo viven los caracoles. Luego, como parte de la búsqueda de información para sus dípticos, un grupo de estudiantes encontró el siguiente texto y lo compartió con la clase.\n\nEl caracol de tierra es un molusco que carece de huesos y esqueleto interno. Posee una concha o caparazón en forma de espiral que carga sobre la espalda. Esta es dura y protege su cuerpo blando. Además, el caracol puede contraer todo su cuerpo en el interior de su concha.\n\nEl caracol tiene cuatro cuernos llamados \"tentáculos\". Los dos largos, encima de la cabeza, terminan en los ojos. Estos le permiten distinguir cambios de luz; por ejemplo, el día o la noche. Los dos pequeños, debajo de la cabeza, le sirven para tocar, sentir y olfatear. Si se toca los cuernos del caracol, este los guarda para protegerlos.\n\nLa boca del caracol es muy pequeña. A pesar de esto, puede comer una gran cantidad de plantas, frutas y algas. Tiene una lengua áspera como una lija, llamada \"rádula\". Esta lengua tiene pequeños dientes que desgarran y aplastan la comida para digerirla correctamente. Con la rádula, el caracol lija los alimentos que come.\n\nEl caracol se desplaza reptando y contrayendo su cuerpo. No sabe caminar hacia atrás. Al avanzar, deja un rastro de baba que le permite deslizarse mejor sobre el suelo o sobre las hojas. Los caracoles terrestres son increíblemente lentos. La velocidad depende de la especie, pero, por lo general, oscila entre los 1,3 y 2 centímetros por segundo.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "La docente busca que los estudiantes comprendan el sentido del texto. Para ello, les ha propuesto algunas preguntas. ¿Cuál de las siguientes preguntas es más adecuada para que los estudiantes obtengan información explícita?",
+          "opciones": [
+            "¿Con qué partes de su cuerpo se alimenta el caracol?",
+            "¿Por qué el caracol se contrae al interior de su concha?",
+            "¿Qué le permite al caracol deslizarse mejor sobre las hojas?"
+          ],
+          "respuesta": "¿Qué le permite al caracol deslizarse mejor sobre las hojas?",
+          "respuestaCorta": "C",
+          "solucionario": "La información requerida para responder esta pregunta se encuentra literalmente en el texto (\"deja un rastro de baba que le permite deslizarse mejor\"), lo que corresponde al nivel explícito.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        },
+        {
+          "pregunta": "La docente y los estudiantes se encuentran comentando el texto leído. En este contexto, uno de los estudiantes afirmó lo siguiente:\n\n\"Entonces, los caracoles son capaces de morder cualquier cosa. Seguro pueden hacerle hueco a una puerta. ¡Qué increíble! No sabía que tenían dientes tan fuertes\".\n\nLa docente nota que el comentario del estudiante se basa en el tercer párrafo. Por ello, busca ayudarlo a interpretar adecuadamente el contenido del texto. ¿Cuál de las siguientes acciones pedagógicas es más adecuada para lograr su propósito?",
+          "opciones": [
+            "Proponerle releer el tercer párrafo del texto para que busque la información acerca de que los caracoles muerden cualquier objeto. Sobre esta base, preguntarle si cree que es posible afirmar que los caracoles pueden agujerear una puerta con sus dientes.",
+            "Pedirle que señale en el texto los tipos de alimentos que los caracoles pueden comer con sus dientes. Después, mencionarle que, entre dichos alimentos, no se encuentran las puertas, y que no se puede afirmar que muerden cualquier cosa.",
+            "Subrayar las ideas del tercer párrafo en donde se menciona cómo se alimenta el caracol. A partir de esto, leerle la información referida a los dientes del caracol y explicarle que, en realidad, lo que hacen es desgarrar las hojas y las frutas."
+          ],
+          "respuesta": "Proponerle releer el tercer párrafo del texto para que busque la información acerca de que los caracoles muerden cualquier objeto. Sobre esta base, preguntarle si cree que es posible afirmar que los caracoles pueden agujerear una puerta con sus dientes.",
+          "respuestaCorta": "A",
+          "solucionario": "Esta opción favorece la autorregulación y el aprendizaje activo. Al pedirle que relea y verifique si su afirmación se sustenta en el texto, el estudiante puede darse cuenta por sí mismo de su error de interpretación.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_primaria_2019_p55_56",
+      "contexto": "Lea la siguiente situación y responda las preguntas 55 y 56.\n\nLos estudiantes de tercer grado, acompañados por la docente, van a escribir anécdotas sobre el festival de danzas folclóricas de la IE. Estas anécdotas serán publicadas en el panel del aula.\n\nChristopher, uno de los estudiantes, terminó su primera versión y se la presentó a la docente para que lo ayude a revisarla. A continuación, se presenta dicha versión.",
+      "imagen": "img/nombramiento/primaria/2019/primaria/2.jpg",
+      "preguntas": [
+        {
+          "pregunta": "El texto de Christopher presenta varios logros de escritura. ¿Cuál de los siguientes logros se evidencia, principalmente, en su texto?",
+          "opciones": [
+            "La presencia de una secuencia cronológica para narrar los hechos del texto.",
+            "El empleo de conectores de secuencia para ordenar las acciones en el texto.",
+            "La utilización del punto aparte para separar las secuencias narrativas del texto."
+          ],
+          "respuesta": "La presencia de una secuencia cronológica para narrar los hechos del texto.",
+          "respuestaCorta": "A",
+          "solucionario": "El estudiante narra los eventos siguiendo un orden temporal lógico (inicio, desarrollo del incidente y desenlace), lo cual es el logro principal a pesar de los errores de normativa.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        },
+        {
+          "contexto": "La docente ha terminado de revisar los textos y se los ha devuelto a los estudiantes para que escriban una nueva versión. A continuación, se presentan las anotaciones que la docente incluyó en el texto de Christopher.",
+          "imagen": "img/nombramiento/primaria/2019/primaria/3.jpg",
+          "pregunta": "El propósito de la docente era ofrecerle a Christopher una retroalimentación que lo ayude a mejorar su texto. ¿Por qué la retroalimentación que ha realizado NO es adecuada para el logro de su propósito?",
+          "opciones": [
+            "Porque debió incluir un mensaje de motivación que señale al estudiante que reescriba una nueva versión del texto, pero sin errores ortográficos.",
+            "Porque debió subrayar las palabras que tienen errores, de modo que el estudiante las revise para que dé propuestas de mejora en una nueva versión.",
+            "Porque debió priorizar la corrección de errores relacionados con la segmentación de palabras, teniendo en cuenta el grado en que se encuentra el estudiante."
+          ],
+          "respuesta": "Porque debió subrayar las palabras que tienen errores, de modo que el estudiante las revise para que dé propuestas de mejora en una nueva versión.",
+          "respuestaCorta": "B",
+          "solucionario": "La retroalimentación realizada por la docente fue directiva y de corrección total, anulando la reflexión del estudiante. Lo adecuado hubiera sido identificar los errores (por ejemplo, subrayando) para que el estudiante pudiera reflexionar y corregirlos él mismo.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_primaria_2019_p57_58",
+      "contexto": "Lea la siguiente situación y responda las preguntas 57 y 58.\n\nDespués de visitar una reserva natural, los estudiantes de quinto grado están interesados en conocer más sobre las situaciones de peligro a las que están expuestas algunas especies de la fauna amazónica. En este contexto, los estudiantes han seleccionado fuentes de información para leerlas de manera conjunta. A continuación, se presenta una de estas fuentes.\n\nHola, soy la tortuga taricaya. Mi nombre científico es Podocnemis unifilis. Vivo en las lagunas y ríos amazónicos del Perú, Colombia, Ecuador y Venezuela.\nSi estás cerca de un río selvático, puedes verme formando grupos y tomando sol sobre los troncos de los árboles que flotan en el agua. Pero la mayor parte del día la paso nadando. ¡Es lo que más me gusta hacer! Otra forma de ubicarme es que te fijes en dónde se posan las mariposas. Es común que las bellas mariposas de la Amazonía se acerquen a mi cabeza y, delicadamente, beban las lágrimas que producen mis ojos. En esas lágrimas, encuentran abundantes sales de sodio, que las ayudan a alimentarse.\nAlgunas veces me acerco a la orilla, pero solo para poner huevos. Eso ocurre entre los meses de julio y setiembre, cuando baja el nivel de los ríos. En una sola noche, puedo llegar a poner treinta huevos. Pasadas unas semanas, los cascarones de los huevos se quiebran y de ahí salen muchas taricayas bebés. ¡Son tan lindas e inquietas! Así como a mí, a las taricayas bebés les encanta el agua. Por eso, lo primero que hacen después de romper el cascarón es correr hacia al agua para darse un chapuzón.\nFinalmente, quiero decirte algo muy importante. Según los científicos, las taricayas estamos en la categoría \"vulnerable\". Lamentablemente, existen probabilidades de pasar a la categoría \"especie en peligro de extinción\". Para que esto sea así, solo tendríamos que sobrevivir unas pocas taricayas en todo el mundo. Esto es muy triste. Por ello, quiero pedirte un favor: recuerda que el hogar de las taricayas son los ríos y lagunas amazónicas, no los estanques o peceras de las ciudades. No somos mascotas. ¡Ayúdame a que muchas personas lo sepan! No permitamos que los animales silvestres sean sacados de sus hogares naturales y vendidos como mascotas.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "La docente busca ayudar a los estudiantes en la comprensión del sentido del texto. Para ello, les ha propuesto algunas preguntas. ¿Cuál de las siguientes preguntas se centra en que los estudiantes obtengan información explícita?",
+          "opciones": [
+            "¿Cuál es el hogar natural de las taricayas?",
+            "¿Para qué creen que fue escrito este texto sobre las taricayas?",
+            "¿Cuál es la actividad comercial que afecta el modo de vida de las taricayas?"
+          ],
+          "respuesta": "¿Cuál es el hogar natural de las taricayas?",
+          "respuestaCorta": "A",
+          "solucionario": "Esta pregunta indaga por un dato que está literalmente en el texto (\"Vivo en las lagunas y ríos amazónicos...\"), correspondiendo al nivel literal o explícito.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        },
+        {
+          "pregunta": "La docente nota que a varios estudiantes les resulta difícil interpretar el sentido global del texto. Por esta razón, busca ayudarlos. ¿Cuál de las siguientes acciones pedagógicas es más adecuada para ello?",
+          "opciones": [
+            "Releer cada párrafo del texto con los estudiantes, verificando que comprendan la información explícita e implícita que ofrecen. Después, volver a leer el texto en su totalidad y explicarles cuál es su sentido global.",
+            "Solicitar que lean únicamente el último párrafo del texto, asumiendo que la voz que se dirige al lector no es de una taricaya, sino de una persona. Después, pedir que expliquen si el sentido del texto cambia o es el mismo, y por qué.",
+            "Elaborar un cuestionario con algunas preguntas orientadas a evaluar la interpretación del texto. Después, ayudar a los estudiantes a hallar las respuestas correctas para que todos cuenten con una interpretación similar sobre la lectura."
+          ],
+          "respuesta": "Solicitar que lean únicamente el último párrafo del texto, asumiendo que la voz que se dirige al lector no es de una taricaya, sino de una persona. Después, pedir que expliquen si el sentido del texto cambia o es el mismo, y por qué.",
+          "respuestaCorta": "B",
+          "solucionario": "El formato narrativo en primera persona puede distraer del propósito informativo/persuasivo. Al pedirles que analicen el último párrafo (el llamado a la acción) como si fuera una persona, se facilita la identificación del propósito comunicativo real (protección de la especie) y el sentido global.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_primaria_2019_p59",
+      "contexto": "Lea la siguiente situación y responda las preguntas 59 y 60.\n\nEn el marco de una campaña de la IE para promover el cuidado de la capa de ozono, los estudiantes de sexto grado están practicando con el docente las exposiciones que realizarán frente a sus compañeros de otros grados.\n\n59. A continuación, se presenta la transcripción de un fragmento de la exposición de una de las estudiantes.\n\nFabiana: \"Amigos, muy buenos días... Eh... yo voy a hablar sobre lo importante que es cuidar la capa de ozono. Este... Entonces... para empezar, hay que decir que la capa de ozono nos protege de los rayos ultravioletas... O sea, esos rayos chocan con la capa... O sea, la capa impide que los rayos UVC lleguen a nosotros y nos hagan daño. Eh... la capa de ozono es importante por eso... Entonces, debemos cuidarla, por ejemplo, dejando de usar aerosoles...\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "El docente espera a que Fabiana concluya su exposición para resaltar los aspectos mejor logrados respecto de la coherencia de su texto oral. ¿Cuál de las siguientes acciones es adecuada para lograr su propósito?",
+          "opciones": [
+            "Señalarle que los conectores que ha utilizado, como 'o sea' y 'entonces', ayudan a anticipar algunas explicaciones en su texto oral.",
+            "Indicarle que el vocabulario que ha empleado en su texto oral permite que pueda adecuarse a diferentes tipos de audiencia.",
+            "Mencionarle que la estrecha relación temática entre las ideas que ha presentado favorece la comprensión del mensaje de su texto oral."
+          ],
+          "respuesta": "Mencionarle que la estrecha relación temática entre las ideas que ha presentado favorece la comprensión del mensaje de su texto oral.",
+          "respuestaCorta": "C",
+          "solucionario": "La coherencia se refiere a la unidad temática y lógica del texto. Fabiana mantiene el tema central (importancia de la capa de ozono) a lo largo de su intervención, sin desviarse, lo cual es un logro de coherencia.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_primaria_2019_p60",
+      "contexto": "Una estudiante está practicando con el docente la exposición que realizará frente a sus compañeros del tercer grado. A continuación, se presenta la primera parte de su texto oral.\n\nMicaela: \"Buenos días. Eh..., el día de hoy, hemos venido a su salón para exponer las graves consecuencias de no salvaguardar la capa de ozono. Eh..., como saben, las causas de esta problemática radican en el incremento de la emisión de gases de efecto invernadero...\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "En este momento de la exposición, el docente pide a la estudiante que haga una pausa, pues busca ayudarla a reflexionar sobre la adecuación de su texto oral a la audiencia a la que se dirigirá. ¿Cuál de las siguientes acciones pedagógicas es más adecuada para lograr su propósito?",
+          "opciones": [
+            "Pedirle que mencione a quiénes estará dirigida su exposición. Luego, preguntarle por las expresiones de su presentación que cree que podría modificar para asegurarse de que la audiencia comprenda el mensaje que quiere comunicar.",
+            "Sugerirle que revise algunos videos en los que se muestran alternativas para el cuidado de la capa de ozono. Luego, solicitarle que escoja uno de estos videos para que adapte el contenido en función de la audiencia a la que se va a dirigir.",
+            "Recordarle que se dirigirá a niños pequeños y que es necesario emplear un vocabulario que ellos conozcan. Luego, indicarle que ha registrado en papel algunas palabras de su exposición que debe cambiar en una próxima intervención."
+          ],
+          "respuesta": "Pedirle que mencione a quiénes estará dirigida su exposición. Luego, preguntarle por las expresiones de su presentación que cree que podría modificar para asegurarse de que la audiencia comprenda el mensaje que quiere comunicar.",
+          "respuestaCorta": "A",
+          "solucionario": "Esta acción promueve la reflexión metacognitiva sobre la adecuación del registro y vocabulario (conceptos complejos como \"salvaguardar\" o \"emisión de gases\") a una audiencia de tercer grado, permitiendo que la estudiante proponga los cambios.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_primaria_2019_p61",
+      "contexto": "Los estudiantes de quinto grado desarrollan una unidad didáctica que tiene como propósito explicar los cambios de estado que experimenta la materia. Como parte de la evaluación de esta unidad, la docente presenta a los estudiantes la siguiente actividad.",
+      "imagen": "img/nombramiento/primaria/2019/primaria/4.jpg",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes estudiantes responde correctamente a las preguntas planteadas por la docente?",
+          "opciones": [
+            "Carlos: \"Se derretirán al mismo tiempo porque ambos bloques tienen igual cantidad de hielo\".",
+            "Marta: \"El bloque 1 se derretirá primero porque tiene caras más grandes y así recibe más calor\".",
+            "Jessica: \"El bloque 2 se derretirá primero porque al estar dividido tiene más caras por donde llega el calor\"."
+          ],
+          "respuesta": "Jessica: \"El bloque 2 se derretirá primero porque al estar dividido tiene más caras por donde llega el calor\".",
+          "respuestaCorta": "C",
+          "solucionario": "Jessica comprende que al dividir el bloque, aumenta la superficie de contacto (área superficial) expuesta al ambiente, lo que acelera la transferencia de calor y, por tanto, el derretimiento.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_primaria_2019_p62",
+      "contexto": "Los estudiantes de quinto grado están desarrollando una actividad sobre la clasificación de animales. En este contexto, un equipo de estudiantes presentó a la docente la siguiente tabla de clasificación.",
+      "imagen": "img/nombramiento/primaria/2019/primaria/5.jpg",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes criterios empleó el equipo de estudiantes para realizar dicha clasificación?",
+          "opciones": [
+            "Tipo de célula.",
+            "Tipo de reproducción.",
+            "Presencia de columna vertebral."
+          ],
+          "respuesta": "Presencia de columna vertebral.",
+          "respuestaCorta": "C",
+          "solucionario": "El Grupo 1 contiene animales vertebrados (reptiles, anfibios, mamíferos) y el Grupo 2 contiene animales invertebrados (insectos, crustáceos, moluscos). El criterio diferenciador es la columna vertebral.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_primaria_2019_p63",
+      "contexto": "Lea la siguiente situación y responda la pregunta 63.\n\nUna docente de quinto grado propuso una unidad didáctica sobre el uso responsable de la energía eléctrica. Para ello, realizó, junto con los estudiantes, diferentes actividades.\n\nLos estudiantes, organizados en equipos y con orientación de la docente, exploraron un circuito eléctrico compuesto por una pila, un foco y un cable. En este contexto, Juana, una de las estudiantes, planteó la siguiente pregunta: \"¿Cómo podríamos hacer para que el foco del circuito brille más?\". La docente escribió la pregunta de Juana en la pizarra y mediante una lluvia de ideas promovió la participación de los estudiantes para recoger sus respuestas a dicha pregunta. Luego, las sistematizaron y, junto con ellos, elaboraron el siguiente organizador visual.",
+      "imagen": "img/nombramiento/primaria/2019/primaria/6.jpg",
+      "preguntas": [
+        {
+          "pregunta": "Teniendo en cuenta la secuencia planteada, ¿cuál fue el principal propósito de la docente al elaborar conjuntamente con los estudiantes este organizador visual?",
+          "opciones": [
+            "Que los estudiantes identifiquen los componentes de un circuito eléctrico.",
+            "Que los estudiantes establezcan criterios para diferenciar los tipos de circuito eléctrico.",
+            "Que los estudiantes identifiquen factores que influyen en el funcionamiento de un circuito eléctrico."
+          ],
+          "respuesta": "Que los estudiantes identifiquen factores que influyen en el funcionamiento de un circuito eléctrico.",
+          "respuestaCorta": "C",
+          "solucionario": "El organizador visual desglosa las posibles variables o factores (cantidad de pilas, tipo de foco, longitud de cable) que podrían afectar la variable dependiente (el brillo del foco), lo cual es un paso clave en el diseño de una indagación.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+   
+    {
+      "idGrupo": "cp_primaria_2019_p64",
+      "contexto": "Luego de algunas sesiones de aprendizaje, un equipo de estudiantes realizó una indagación en la que comparó el funcionamiento de dos circuitos eléctricos. A continuación, se presenta la conclusión de la indagación de los estudiantes.",
+      "imagen": "img/nombramiento/primaria/2019/primaria/7.jpg",
+      "preguntas": [
+        {
+          "pregunta": "La docente busca retroalimentar al equipo de estudiantes para que reflexione sobre su conclusión. ¿Cuál de las siguientes preguntas favorece dicho propósito?",
+          "opciones": [
+            "¿De qué otra manera pueden colocar los elementos del circuito 2?",
+            "¿Qué pasaría si instalan un interruptor en el circuito 2?",
+            "¿Qué les parece si quitan una pila del circuito 2?"
+          ],
+          "respuesta": "¿De qué otra manera pueden colocar los elementos del circuito 2?",
+          "respuestaCorta": "A",
+          "solucionario": "La conclusión de los estudiantes es errónea (creen que el problema es la cantidad de pilas). La causa real es la polaridad (pilas opuestas en el Circuito 2). La pregunta A invita a la manipulación y reconfiguración, lo que permitirá descubrir que dos pilas sí funcionan si se alinean correctamente (polo positivo con negativo).",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_primaria_2019_p65_66",
+      "contexto": "Lea la siguiente situación y responda las preguntas 65 y 66.\n\nDos estudiantes de sexto grado dialogan sobre la posibilidad de teñir flores. A continuación, se presenta una parte de dicho diálogo.\n\nPablo: \"Marta, ¿sabes que algunos comerciantes cambian el color de los pétalos de las flores colocando sus tallos en agua coloreada? Yo quisiera teñir flores con los colores que me gustan, pero he visto que a veces demoran hasta un día en teñirse\".\nMarta: \"¡Qué interesante! ¿Y si ponemos en un recipiente con agua coloreada flores blancas de tallo grueso y otras de tallo delgado? Luego, durante una hora, observamos cuál de las flores se colorea más\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "En la propuesta de indagación de Marta, ¿cuál es la variable dependiente?",
+          "opciones": [
+            "La intensidad de la coloración de los pétalos.",
+            "La cantidad de agua coloreada en la que colocan los tallos.",
+            "El tiempo durante el cual observarán los cambios en la coloración de las flores."
+          ],
+          "respuesta": "La intensidad de la coloración de los pétalos.",
+          "respuestaCorta": "A",
+          "solucionario": "La variable dependiente es el efecto o resultado que se mide. En este caso, lo que se observará (\"cuál de las flores se colorea más\") es la intensidad de la coloración.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        },
+        {
+          "pregunta": "¿Qué proceso de la nutrición de las plantas está involucrado directamente en la indagación que propone Marta?",
+          "opciones": [
+            "Transpiración",
+            "Fotosíntesis",
+            "Transporte"
+          ],
+          "respuesta": "Transporte",
+          "respuestaCorta": "C",
+          "solucionario": "El teñido de las flores ocurre porque el agua coloreada asciende desde el tallo hacia los pétalos a través de los tejidos conductores (xilema). Este es el proceso de transporte de savia bruta.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_primaria_2019_p67_68",
+      "contexto": "Lea la siguiente situación y responda las preguntas 67 y 68.\n\nLos estudiantes de cuarto grado se encuentran indagando en equipos sobre el crecimiento de las plantas. En este contexto, un primer equipo de estudiantes realizó la siguiente indagación.\n\n1. Sembraron dos variedades de semillas de frejol: canario y negro, en dos recipientes iguales utilizando la misma cantidad y tipo de tierra.\n2. Colocaron ambos recipientes en una ventana donde pudieran recibir suficiente luz.\n3. Regaron cada recipiente con la misma cantidad de agua dos veces por semana, los mismos días.\n4. Registraron la altura alcanzada por las plantas cada 7 días.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es la variable independiente en la indagación de los estudiantes?",
+          "opciones": [
+            "La altura alcanzada por las plantas.",
+            "La variedad de semilla.",
+            "La cantidad de agua."
+          ],
+          "respuesta": "La variedad de semilla.",
+          "respuestaCorta": "B",
+          "solucionario": "La variable independiente es la que se manipula o cambia intencionalmente. El equipo usa dos tipos distintos de semillas (canario y negro) manteniendo constantes las demás condiciones (luz, agua, tierra).",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        },
+        {
+          "pregunta": "Un segundo equipo de estudiantes propone realizar la siguiente indagación.\n\n\"Nosotros queremos probar si es que la luz hace que las plantas crezcan más o no. Para comprobarlo, sembraremos solo semillas de frejol canario. Utilizaremos la misma cantidad y tipo de tierra para sembrar estas semillas. Luego, colocaremos uno de los recipientes en una ventana donde pueda recibir mucha luz y lo regaremos una vez todos los días. El otro recipiente lo colocaremos en un lugar donde reciba poca luz y lo regaremos una vez al día, dejando un día. Finalmente, observaremos y anotaremos la altura alcanzada por las plantas cada 7 días\".\n\nEl docente ha identificado algunos aspectos a mejorar en la formulación del plan de indagación de este equipo. ¿Cuál de las siguientes preguntas es adecuada para brindar retroalimentación a los estudiantes?",
+          "opciones": [
+            "¿Por qué han decidido usar solo una variedad de frejol canario? ¿Cuántas variedades ha utilizado el primer equipo?",
+            "¿Cómo van a regar la planta que colocarán en la ventana? ¿Será suficiente regarla una vez todos los días?",
+            "¿Qué es lo que quieren comprobar? ¿Qué es lo único que debería ser diferente para cada semilla?"
+          ],
+          "respuesta": "¿Qué es lo que quieren comprobar? ¿Qué es lo único que debería ser diferente para cada semilla?",
+          "respuestaCorta": "C",
+          "solucionario": "El error del segundo equipo es que manipula dos variables a la vez: la cantidad de luz (su objetivo) y la frecuencia de riego. Para una indagación válida, deben mantener constante el riego y variar solo la luz.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_primaria_2019_p69_70",
+      "contexto": "Lea la siguiente situación y responda las preguntas 69 y 70.\n\nUna docente ha diseñado sesiones de aprendizaje orientadas a que los estudiantes relacionen las estructuras de las plantas con la función que cumplen en cada proceso involucrado en la nutrición (fotosíntesis, respiración, transporte y transpiración), en el contexto de un proyecto sobre los impactos de la deforestación en los ecosistemas. Para evaluar el desempeño de los estudiantes en estas sesiones, la docente ha planteado la siguiente rúbrica.",
+      "imagen": "img/nombramiento/primaria/2019/primaria/8.jpg",
+      "preguntas": [
+        {
+          "pregunta": "Teniendo en cuenta el propósito de la docente, ¿Cuál de las siguientes descripciones es pertinente para el nivel de logro \"Destacado\" en la rúbrica de evaluación?",
+          "opciones": [
+            "Relaciona los procesos involucrados en la nutrición de las plantas (fotosíntesis, respiración, transporte y transpiración) sin errores conceptuales.",
+            "Relaciona las estructuras de plantas y animales con la función que cumplen en los procesos involucrados en la nutrición sin errores conceptuales.",
+            "Relaciona las estructuras de las plantas con la función que cumplen en los procesos involucrados en la nutrición, la relación y la reproducción sin errores conceptuales."
+          ],
+          "respuesta": "Relaciona los procesos involucrados en la nutrición de las plantas (fotosíntesis, respiración, transporte y transpiración) sin errores conceptuales.",
+          "respuestaCorta": "A",
+          "solucionario": "El nivel 'Satisfactorio' implica relacionar estructuras con funciones en cada proceso por separado. El nivel 'Destacado' implica una integración sistémica, es decir, comprender cómo se relacionan los procesos entre sí para lograr la nutrición integral.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        },
+        {
+          "contexto": "Durante el desarrollo de las sesiones de aprendizaje, la docente solicitó a los estudiantes que representen cómo las plantas realizan la función de nutrición. A continuación, se muestra la representación elaborada por Mónica. ",
+          "imagen": "img/nombramiento/primaria/2019/primaria/9.jpg",
+          "pregunta": "De acuerdo con la rúbrica de evaluación propuesta por la docente, ¿en qué nivel de logro de aprendizaje se encuentra Mónica?",
+          "opciones": [
+            "En inicio.",
+            "En proceso.",
+            "Satisfactorio."
+          ],
+          "respuesta": "En proceso.",
+          "respuestaCorta": "B",
+          "solucionario": "Aunque Mónica identifica varias estructuras y flujos (transporte, entrada de CO2, salida de O2), su representación carece de la distinción clara de todos los procesos (por ejemplo, la respiración celular -entrada de O2 y salida de CO2- no está explícita o diferenciada de la fotosíntesis). Según la rúbrica, relacionar 'algunas estructuras' o presentar imprecisiones corresponde a 'En proceso'.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_primaria_2019_p71",
+      "contexto": "Una docente tiene como propósito de aprendizaje que los estudiantes de primer grado reconozcan el patrón de la siguiente secuencia.",
+      "imagen": "img/nombramiento/primaria/2019/primaria/10.jpg",
+      "preguntas": [
+        {
+          "pregunta": "¿Qué grupo de preguntas es pertinente para favorecer el logro del propósito de aprendizaje?",
+          "opciones": [
+            "¿Qué figuras están presentes en la secuencia? ¿Cuál es la primera figura? Y ¿cuál es la segunda figura en la secuencia?",
+            "¿Cuántos corazones observas en la secuencia? ¿Cuántos círculos observas? ¿Cuántas figuras observas en total en la secuencia?",
+            "¿Con qué figura empieza la secuencia? ¿Cada cuántos círculos se repite la figura del corazón? ¿Qué figura seguirá en la secuencia?"
+          ],
+          "respuesta": "¿Con qué figura empieza la secuencia? ¿Cada cuántos círculos se repite la figura del corazón? ¿Qué figura seguirá en la secuencia?",
+          "respuestaCorta": "C",
+          "solucionario": "Este conjunto de preguntas focaliza la atención en el núcleo de repetición (patrón) y la regularidad de la secuencia, que es el objetivo de aprendizaje, en lugar de solo contar o identificar elementos aislados.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_primaria_2019_p72",
+      "contexto": "Como parte de una sesión de aprendizaje, una docente planteó a los estudiantes de quinto grado la siguiente actividad.",
+      "imagen": "img/nombramiento/primaria/2019/primaria/11.jpg",
+      "preguntas": [
+        {
+          "pregunta": "Mientras los estudiantes realizan la actividad, la docente se acerca a un grupo y escucha el siguiente diálogo.\nRosa: \"Es muy fácil, hay que dividir el rectángulo en cuatro partes iguales y sombrear solo tres de esas partes\".\nElisa: \"No, Rosa. La unidad debe ser un poco más grande porque este rectángulo es como tres rectángulos pequeños, y la unidad como cuatro\".\nJuan: \"Creo que Elisa tiene razón, la unidad debería ser más grande. Pero, la unidad tendría que ser cuatro veces más grande que este rectángulo\". ¿Quién de los tres estudiantes evidencia una adecuada comprensión de la situación propuesta?",
+          "opciones": [
+            "Rosa",
+            "Elisa",
+            "Juan"
+          ],
+          "respuesta": "Elisa",
+          "respuestaCorta": "B",
+          "solucionario": "Elisa comprende la relación parte-todo inversa: si el rectángulo dado es 3/4, significa que está compuesto por 3 partes, y para completar la unidad (4/4) se necesita agregar una parte igual más. Juan erra en la magnitud y Rosa confunde la operación.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_primaria_2019_p73",
+      "contexto": "Un docente tiene como propósito que sus estudiantes resuelvan situaciones problemáticas referidas a estructuras multiplicativas. En este contexto, el docente plantea a los estudiantes el siguiente problema.\n\nTengo 12 polos distintos. Si los combino con todos mis pantalones, obtengo 84 formas distintas de vestirme. ¿Cuántos pantalones tengo?\n\nAl hacer el seguimiento a la labor de los estudiantes, el docente nota que la mayoría de ellos no comprende la situación propuesta, por lo que decide implementar una estrategia que los ayude a comprenderla.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes acciones pedagógicas es pertinente para este propósito?",
+          "opciones": [
+            "Pedir a los estudiantes que planteen ejemplos sobre el reparto equitativo y presentarles una división para explicarles cómo funciona el algoritmo. Luego, pedirles que resuelvan por sí mismos algunos ejercicios, para que así tengan los conocimientos previos necesarios para resolver el problema propuesto.",
+            "Proponer a los estudiantes que resuelvan un problema más sencillo y de estructura diferente, pero con los mismos números. Por ejemplo: \"Un profesor compra 12 lápices por niño. En total ha comprado 84 lápices. ¿Cuántos niños hay en su clase?\". Luego, guiarlos para que identifiquen que el problema inicial donde mostraron dificultad puede resolverse con la misma operación.",
+            "Resolver con los estudiantes una situación de la misma estructura, pero de menor dificultad. Por ejemplo: \"Tengo 3 polos y 2 pantalones. ¿De cuántas maneras puedo vestirme?\". Luego, reformularla, así: \"Tengo 3 polos y algunos pantalones. Si los combino, puedo vestirme de 6 maneras distintas, ¿cuántos pantalones tengo?\" y analizar con ellos qué implica tener la incógnita en distinta posición."
+          ],
+          "respuesta": "Resolver con los estudiantes una situación de la misma estructura, pero de menor dificultad. Por ejemplo: \"Tengo 3 polos y 2 pantalones. ¿De cuántas maneras puedo vestirme?\". Luego, reformularla, así: \"Tengo 3 polos y algunos pantalones. Si los combino, puedo vestirme de 6 maneras distintas, ¿cuántos pantalones tengo?\" y analizar con ellos qué implica tener la incógnita en distinta posición.",
+          "respuestaCorta": "C",
+          "solucionario": "Esta estrategia utiliza la simplificación numérica para facilitar la comprensión de la estructura del problema (producto cartesiano/combinatoria) y el andamiaje progresivo para abordar la incógnita del factor faltante.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_primaria_2019_p74",
+      "contexto": "Una docente de segundo grado propone a los estudiantes resolver una operación de sustracción. A continuación, se presenta la respuesta de uno de los estudiantes.",
+      "imagen": "img/nombramiento/primaria/2019/primaria/12.jpg",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes acciones pedagógicas es más pertinente para ayudar al estudiante a reflexionar sobre su error?",
+          "opciones": [
+            "Preguntar al estudiante: \"¿Cuál de los dos números es el minuendo? Y ¿cuál de ellos es el sustraendo?\". Luego, pedirle que sume el resultado que ha obtenido con el sustraendo, indicándole que, si su procedimiento hubiese sido correcto, el resultado sería 32, pero como no es así, entonces, deberá corregir su procedimiento buscando un número que sumado a 9 dé como resultado 32.",
+            "Entregar al estudiante un tablero de valor posicional y pedirle que escriba el número 32, colocando el 3 en las decenas y el 2 en las unidades. Luego, pedirle que escriba el número 9 debajo del 2 y explicarle que el 2 debe pedir 'prestado 1' a su 'vecino' el 3, para que se convierta en 12, y pueda restarse con el 9. Después, pedirle que reste y represente el resultado usando el material Base diez.",
+            "Proporcionar al estudiante 3 paquetes de 10 semillas cada uno y 2 semillas sueltas, y preguntarle: \"¿Cuántas semillas hay en total? ¿Cómo quitarías 9 semillas del total? ¿Será necesario abrir algún paquete de 10 semillas? ¿Cuántos paquetes de 10 semillas quedan luego de quitar 9 semillas? Y ¿cuántas semillas sueltas?\". Después, solicitarle que explique cómo proceder para dar solución a la operación planteada."
+          ],
+          "respuesta": "Proporcionar al estudiante 3 paquetes de 10 semillas cada uno y 2 semillas sueltas, y preguntarle: \"¿Cuántas semillas hay en total? ¿Cómo quitarías 9 semillas del total? ¿Será necesario abrir algún paquete de 10 semillas? ¿Cuántos paquetes de 10 semillas quedan luego de quitar 9 semillas? Y ¿cuántas semillas sueltas?\". Después, solicitarle que explique cómo proceder para dar solución a la operación planteada.",
+          "respuestaCorta": "C",
+          "solucionario": "El estudiante probablemente restó el menor del mayor en las unidades (9-2=7). La opción C utiliza material concreto para modelar el canje (desagrupar una decena) de manera constructiva, permitiendo que el estudiante comprenda la lógica de la sustracción con canje.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_primaria_2019_p75",
+      "contexto": "Un docente tiene como propósito de aprendizaje que los estudiantes de quinto grado describan desplazamientos en relación con un sistema de referencia, haciendo uso de un croquis. Para ello, presenta el siguiente croquis en el cual cada lado de una figura cuadrada representa una cuadra.",
+      "imagen": "img/nombramiento/primaria/2019/primaria/13.jpg",
+      "preguntas": [
+        {
+          "pregunta": "¿Qué grupo de preguntas es pertinente para favorecer el logro del propósito de aprendizaje?",
+          "opciones": [
+            "Si partimos desde la casa, ¿podemos recorrer 7 cuadras para llegar a la escuela, pasando por la farmacia? Si no podemos, ¿cuántas cuadras serán necesarias para ir de la casa a la escuela?",
+            "Si partimos desde la casa, ¿qué ruta podemos seguir para llegar a la escuela, pasando por la farmacia? Y ¿qué ruta de retorno, desde la escuela hacia la casa?",
+            "Si partimos desde la casa, avanzamos solo hacia el norte y luego hacia el este, ¿a cuál de los lugares se llegará? ¿Cuántas cuadras se recorrerán entre estas dos ubicaciones?"
+          ],
+          "respuesta": "Si partimos desde la casa, ¿qué ruta podemos seguir para llegar a la escuela, pasando por la farmacia? Y ¿qué ruta de retorno, desde la escuela hacia la casa?",
+          "respuestaCorta": "B",
+          "solucionario": "Esta pregunta demanda explícitamente la descripción de una ruta y desplazamientos (dirección y sentido) utilizando el croquis, alineándose directamente con el desempeño de describir desplazamientos.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_primaria_2019_p76",
+      "contexto": "Un docente tiene como propósito que los estudiantes de sexto grado comprendan las relaciones entre el área y el perímetro de figuras planas. Para ello, propone la siguiente actividad.\n\nPara un almuerzo al que asistirán 26 personas, se cuenta con 12 mesas de forma cuadrada en las que pueden sentarse 4 personas, una a cada lado. Pero, en esta ocasión, se ha decidido que las mesas estén juntas, una al lado de otra.\n\nEn este contexto, los estudiantes, organizados en grupos, representan gráficamente sus propuestas a la situación planteada. A continuación, se presenta el diálogo que se suscitó en un grupo.",
+      "imagen": "img/nombramiento/primaria/2019/primaria/14.jpg",
+      "preguntas": [
+        {
+          "pregunta": "El docente busca ayudar a Marco a reflexionar sobre el error que presenta su propuesta de organización de las mesas. ¿Cuál de las siguientes acciones pedagógicas es pertinente para brindar una adecuada retroalimentación a Marco?",
+          "opciones": [
+            "Solicitarle que cuente los sitios disponibles en su representación de la organización de las mesas. Luego, preguntarle: \"¿Es posible que se puedan sentar 26 personas? ¿Por qué? Al cambiar la disposición de las mesas, ¿se modificó la medida de la superficie ocupada o del contorno?\". Después, pedirle que indique cuál de estas medidas corresponde al área y cuál al perímetro, y que responda si siempre se cumple que a igual área habrá igual perímetro.",
+            "Solicitarle que cuente la cantidad de mesas y de sitios disponibles en la organización que ha representado. Luego, comentarle que no siempre que se mantiene la cantidad de mesas se mantienen los sitios disponibles. Después, preguntarle: \"Si movemos 1 de las 2 mesas que están juntas en la fila inferior para que haya 8 en la fila del medio, ¿cuántos sitios habrá disponibles ahora? ¿Era correcta tu organización?\".",
+            "Solicitarle que, a partir de su representación de la organización de las mesas, indique cuál es el área y cuál el perímetro de esta figura. Luego, preguntarle: \"¿El área estará representada por los 12 cuadrados? Y ¿el perímetro por las 26 unidades o sitios disponibles?, ¿estás seguro?\". Después, pedirle que piense en otra estrategia para resolver el problema y proponga una nueva organización."
+          ],
+          "respuesta": "Solicitarle que cuente los sitios disponibles en su representación de la organización de las mesas. Luego, preguntarle: \"¿Es posible que se puedan sentar 26 personas? ¿Por qué? Al cambiar la disposición de las mesas, ¿se modificó la medida de la superficie ocupada o del contorno?\". Después, pedirle que indique cuál de estas medidas corresponde al área y cuál al perímetro, y que responda si siempre se cumple que a igual área habrá igual perímetro.",
+          "respuestaCorta": "A",
+          "solucionario": "Marco asume erróneamente que la conservación del área (12 mesas) implica la conservación del perímetro (sitios). La opción A guía al estudiante para que verifique empíricamente (contando) y luego conceptualice la diferencia entre superficie (área) y contorno (perímetro), atacando directamente el conflicto cognitivo.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+   
+    {
+      "idGrupo": "cp_primaria_2019_p77",
+      "contexto": "Un docente de quinto grado presenta a los estudiantes la siguiente información acerca del porcentaje de la población mayor o igual a 6 años de edad que usa internet.",
+      "imagen": "img/nombramiento/primaria/2019/primaria/15.jpg",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes gráficos es adecuado para representar la información anterior?",
+          "opciones": [
+            "El gráfico A (Gráfico circular).",
+            "El gráfico B (Gráfico lineal).",
+            "El gráfico C (Gráfico de barras)."
+          ],
+          "respuesta": "El gráfico C (Gráfico de barras).",
+          "respuestaCorta": "C",
+          "solucionario": "El gráfico de barras es el más adecuado porque permite comparar cantidades (porcentajes) entre categorías cualitativas o rangos de edad independientes. El gráfico circular no es adecuado porque los porcentajes no representan partes de un único todo (la suma supera el 100% o son tasas de penetración por grupo), y el lineal se usa para tendencias continuas, generalmente temporales.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_primaria_2019_p78",
+      "contexto": "Una docente plantea la siguiente actividad a los estudiantes de sexto grado.\n¿Cuál es la probabilidad de que, al girar la ruleta, se obtenga la letra C?.\nUn estudiante responde: \"La probabilidad de obtener la letra C es 1/3, porque hay 3 posibles opciones\".\nLa docente ha identificado que la respuesta del estudiante es incorrecta.",
+      "imagen": "img/nombramiento/primaria/2019/primaria/16.jpg",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes acciones pedagógicas brinda una retroalimentación adecuada al estudiante?",
+          "opciones": [
+            "Entregarle dos ruletas: una igual a la mostrada y otra en la que el sector C tenga la menor área. Luego, pedirle que gire cada ruleta 50 veces y que registre la cantidad de veces que se obtiene C respecto del total de giros en cada ruleta. Finalmente, preguntarle: \"¿En cuál de las ruletas se obtuvo más veces el sector C? ¿En cuál se obtuvo menos? ¿Crees que el tamaño de su sector influyó en el resultado? ¿Por qué?\".",
+            "Preguntarle: \"¿Cuántos sectores observas en la ruleta? ¿Todos los sectores tienen el mismo tamaño? ¿Cuál es el sector más grande?\". Luego, presentarle el porcentaje que representa a cada sector para evidenciar que el sector C es mayor y, orientarlo a que concluya que la probabilidad de obtener C no puede ser 1/3. Finalmente, indicarle que encuentre la probabilidad de obtener el sector C considerando su porcentaje.",
+            "Solicitarle que construya una ruleta con una cartulina de forma circular, un lápiz y un clip. La cartulina debe estar dividida en tres sectores de igual tamaño, etiquetados con las letras A, B y C. Luego, colocar la cartulina sobre la mesa y la punta del lápiz en el centro de esta, presionando el clip de modo que este pueda girar. Finalmente, pedirle que gire el clip varias veces, anote los resultados obtenidos y los comparta con un compañero."
+          ],
+          "respuesta": "Entregarle dos ruletas: una igual a la mostrada y otra en la que el sector C tenga la menor área. Luego, pedirle que gire cada ruleta 50 veces y que registre la cantidad de veces que se obtiene C respecto del total de giros en cada ruleta. Finalmente, preguntarle: \"¿En cuál de las ruletas se obtuvo más veces el sector C? ¿En cuál se obtuvo menos? ¿Crees que el tamaño de su sector influyó en el resultado? ¿Por qué?\".",
+          "respuestaCorta": "A",
+          "solucionario": "Esta acción genera un conflicto cognitivo a través de la experimentación empírica (enfoque frecuencial de la probabilidad). Al comparar resultados de ruletas con áreas distintas, el estudiante descubrirá por sí mismo que el tamaño del sector (área) influye en la probabilidad, corrigiendo su idea errónea de equiprobabilidad basada solo en el número de opciones.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_primaria_2019_p79_80",
+      "contexto": "Lea la siguiente situación y responda las preguntas 79 y 80.\n\nLos estudiantes de cuarto grado asistieron a una feria de productos regionales del Perú. Luego, en el aula, varios estudiantes comentaron que les parecía extraño que, algunos comerciantes, al pesar sus productos, no usaran el kilogramo, sino que decían usar la arroba. En este contexto, Juan, uno de los estudiantes, comentó lo siguiente: \"¡Yo sí conozco la arroba! Mi familia tiene una chacra y allí siempre la usamos. Por ejemplo, la semana pasada, mis papás vendieron al comedor municipal un costalillo de papas que pesaba dos arrobas\".",
+      "imagen": "img/nombramiento/primaria/2019/primaria/17.jpg",
+      "preguntas": [
+        {
+          "pregunta": "La docente decide aprovechar esta situación para que los estudiantes relacionen diferentes unidades de medida. Así, primero grafica una balanza en equilibrio donde representa la situación descrita por Juan.\nSi el propósito de la docente es que los estudiantes establezcan relaciones de equivalencia entre la arroba y el kilogramo, ¿cuál de las siguientes acciones es pertinente para ello?",
+          "opciones": [
+            "Indicarles que comparen la cantidad de arrobas que pesa el costalillo de papas con la cantidad de kilogramos que pesa el mismo. Luego, preguntarles cuánto pesarían 2 costalillos de papa tanto en arrobas como en kilogramos.",
+            "Solicitarles que describan las imágenes presentadas, prestando atención al peso del costalillo de papas en cada caso. Luego, preguntarles si es posible afirmar que el costalillo de papas pesa en total 2 arrobas y 23 kilogramos.",
+            "Pedirles que mencionen cuántas arrobas pesa el costalillo de papas y cuántos kilogramos pesa el mismo. Luego, preguntarles por qué creen que el número de kilogramos es mayor que el número de arrobas."
+          ],
+          "respuesta": "Indicarles que comparen la cantidad de arrobas que pesa el costalillo de papas con la cantidad de kilogramos que pesa el mismo. Luego, preguntarles cuánto pesarían 2 costalillos de papa tanto en arrobas como en kilogramos.",
+          "respuestaCorta": "A",
+          "solucionario": "Esta acción permite establecer la equivalencia directa (2 arrobas = 23 kg) al comparar el mismo objeto medido en dos unidades distintas, y luego refuerza la comprensión de dicha equivalencia mediante la proporcionalidad (el doble de peso).",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        },
+        {
+            "contexto":"En otro momento de la sesión, la docente y los estudiantes determinan que 1 arroba equivale a 11 kilogramos y medio kilogramo. Entonces, la docente les pide que establezcan a cuántos kilogramos equivalen 3 arrobas de maíz.\nEsta es la respuesta de Iván:",
+            "imagen": "img/nombramiento/primaria/2019/primaria/18.jpg",
+          "pregunta": "\"\nLa docente se propone brindar andamiaje a Iván de modo que exprese el peso de 3 arrobas utilizando la cantidad entera máxima de kilogramos. ¿Cuál de las siguientes acciones es más pertinente para ello?",
+          "opciones": [
+            "Señalarle que \"medio\" es lo mismo que \"mitad\" y, por lo tanto, 2 medios kilogramos son 2 mitades y por esto conforman 1 kilogramo. Luego, con ayuda de una balanza, mostrarle que 3 medios kilogramos equivalen a 1 kilogramo y medio kilogramo. Finalmente, corregir con él su respuesta.",
+            "Preguntarle: \"¿Estás seguro que 3 arrobas equivalen a 33 kilogramos y 3 medios kilogramos? ¿No habrá otra manera de expresar esta equivalencia?\". Luego, explicarle que tres arrobas equivalen a 34 kilogramos y medio. Finalmente, pedirle que reformule su respuesta sobre la base de lo explicado.",
+            "Pedirle que, con apoyo de una balanza, busque el equilibrio entre pesas de medio kilogramo y 1 pesa de 1 kilogramo. Luego, preguntarle: \"¿Cuánto pesan 2 pesas de medio kilogramo juntas? ¿Qué ocurre si agregamos a cada lado 1 pesa de medio kilogramo? Entonces, ¿a cuánto equivale en kilogramos 3 medios kilogramos?\". Finalmente, preguntarle de qué otra forma expresaría su respuesta."
+          ],
+          "respuesta": "Pedirle que, con apoyo de una balanza, busque el equilibrio entre pesas de medio kilogramo y 1 pesa de 1 kilogramo. Luego, preguntarle: \"¿Cuánto pesan 2 pesas de medio kilogramo juntas? ¿Qué ocurre si agregamos a cada lado 1 pesa de medio kilogramo? Entonces, ¿a cuánto equivale en kilogramos 3 medios kilogramos?\". Finalmente, preguntarle de qué otra forma expresaría su respuesta.",
+          "respuestaCorta": "C",
+          "solucionario": "Esta acción utiliza material concreto (balanza) para que el estudiante construya la equivalencia de fracciones (2 medios = 1 entero) por sí mismo, facilitando el andamiaje hacia la conversión de unidades fraccionarias a enteras sin darle la respuesta directa.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_primaria_2019_p81",
+      "contexto": "Los estudiantes de tercer grado se están preparando para la exposición de su proyecto. Cuando José y Ricardo, dos estudiantes, se disponen a escribir en un papelógrafo, surge el siguiente diálogo.\n\nJosé: \"¿Te parece si yo escribo? Tengo buen pulso y mi letra es bonita\".\nRicardo: \"Tu letra es chiquita. Nadie va a entender cuando expongamos nuestro trabajo. Mejor lo hago yo, que escribo más grande\".\nJosé: \"¡Eso no es cierto! Todos entienden cuando yo escribo. En cambio, tu letra es toda chueca\".\nRicardo: \"¡Envidioso! Dices eso porque escribo mejor que tú. ¡Dame el papelógrafo!\".\n\nAnte esta situación, la docente se acerca a los estudiantes e inicia un diálogo con ellos.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes acciones es más adecuada para ayudar a José y Ricardo a resolver su conflicto?",
+          "opciones": [
+            "Pedir a cada estudiante que explique qué dificultades tienen para trabajar en equipo. Luego, explicarles la importancia de la cooperación en los trabajos en equipo. Finalmente, indicarles que, para que trabajen en armonía, cada uno escribirá una parte del texto en el papelógrafo.",
+            "Preguntar a cada estudiante quién inició el conflicto y cómo podrían haber actuado para evitarlo. Luego, pedirles que asuman como acuerdo no volver a faltarse el respeto. Finalmente, recomendarles que realicen un sorteo para determinar los roles de cada uno en el trabajo y así concluir con el conflicto.",
+            "Solicitar a cada estudiante que explique cómo y por qué se inició el conflicto. Luego, pedirles que compartan cómo se sintieron durante la discusión con su compañero. Finalmente, pedirles que expresen cómo les gustaría que quede su trabajo y que propongan una distribución de tareas con la que ambos estén de acuerdo."
+          ],
+          "respuesta": "Solicitar a cada estudiante que explique cómo y por qué se inició el conflicto. Luego, pedirles que compartan cómo se sintieron durante la discusión con su compañero. Finalmente, pedirles que expresen cómo les gustaría que quede su trabajo y que propongan una distribución de tareas con la que ambos estén de acuerdo.",
+          "respuestaCorta": "C",
+          "solucionario": "Esta estrategia sigue los pasos de la resolución constructiva de conflictos: expresar hechos, expresar sentimientos y proponer soluciones de mutuo acuerdo (negociación), fomentando la autonomía y la empatía.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_primaria_2019_p82",
+      "contexto": "Los estudiantes de segundo grado han organizado los acontecimientos más importantes de sus vidas en una línea de tiempo. Durante la presentación de Suni, una estudiante, se desarrolló el siguiente diálogo.\n\nSuni: \"Esta foto es de mi primer cumpleaños. ¡Era una wawa!\".\nCarla: \"¿Qué es 'wawa'? ¡Qué palabra tan rara!\".\nSuni: \"En la región en que nací, a los niños les dicen 'wawas\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Si el docente desea aprovechar la situación para promover el diálogo intercultural, ¿cuál de las siguientes intervenciones es más pertinente?",
+          "opciones": [
+            "\"¡Qué interesante lo que comenta Suni! Yo soy del norte y allá a los niños les dicen 'churres'. Y a mí, por ejemplo, me decían 'churrito' de niño. ¿Alguno de ustedes tiene familia en otras regiones? ¿Conocen otra forma de llamar a los niños?\".",
+            "\"¿Acaso no han escuchado la palabra 'wawa'? Es una palabra que viene del quechua. Pueden preguntar a sus familiares mayores si han escuchado esa palabra. Ahora, ¿qué les parece si le pedimos a Suni que continúe con su exposición?\".",
+            "\"No incomoden a Suni. Cada familia tiene sus costumbres. ¿Acaso les gustaría que otros se burlen o los molesten por el nombre de cariño con el que los llaman? ¿Recuerdan que una de las normas de convivencia es el respeto?\"."
+          ],
+          "respuesta": "\"¡Qué interesante lo que comenta Suni! Yo soy del norte y allá a los niños les dicen 'churres'. Y a mí, por ejemplo, me decían 'churrito' de niño. ¿Alguno de ustedes tiene familia en otras regiones? ¿Conocen otra forma de llamar a los niños?\".",
+          "respuestaCorta": "A",
+          "solucionario": "Esta intervención valida el aporte cultural de Suni, modela la valoración de la diversidad lingüística aportando su propia experiencia y abre el espacio para que otros estudiantes compartan sus saberes, fomentando un intercambio horizontal y respetuoso (diálogo intercultural).",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_primaria_2019_p83",
+      "contexto": "Los estudiantes de tercer grado van a desarrollar el proyecto \"El amigo de la semana\" para conocerse mejor. Ellos acuerdan realizar un sorteo para elegir al primer estudiante que será el amigo de la semana. Luego de que Rubén saliera elegido, Rosa, una de las estudiantes, visiblemente molesta, comenta lo siguiente:\n\n\"¡Yo debo ser la primera! Tengo muchos más amigos que Rubén. A él nadie lo quiere. Además, es aburrido y no tiene nada interesante que contar\".\n\nAnte este comentario, la docente le pide a Rosa que recuerde que es necesario tratarse con respeto y que, además, habían decidido designar al amigo de la semana por sorteo. Luego, durante el recreo, antes de conversar con Rubén acerca de cómo se sintió, la docente decide dialogar con Rosa sobre lo sucedido.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes acciones de la docente es adecuada para promover que la estudiante aprenda a autorregular sus emociones?",
+          "opciones": [
+            "Preguntarle: \"¿Por qué es tan importante ser la primera?, ¿crees que no tendrás la oportunidad de ser la amiga de la semana?\". Luego, solicitarle que proponga otra forma de escoger los turnos para el amigo de la semana. Finalmente, pedirle que prometa respetar los turnos sin molestarse.",
+            "Explicarle que la falta de autocontrol puede alejar a sus amigos. Luego, señalarle que debe aprender a controlar sus emociones porque no es correcto que se moleste por algo simple. Finalmente, preguntarle: \"¿Qué acciones puedes realizar para cambiar tus reacciones?, ¿no crees que deberías pedirle disculpas a Rubén?\".",
+            "Ayudarla a identificar lo que siente después de lo sucedido y explicarle que, a veces, podemos sentirnos así. Luego, preguntarle: \"¿Qué hizo que reaccionaras de esa manera en el aula?, ¿qué crees que sintió Rubén con lo que le dijiste?\". Finalmente, pedirle que proponga posibles maneras de expresar su molestia sin herir los sentimientos de otros."
+          ],
+          "respuesta": "Ayudarla a identificar lo que siente después de lo sucedido y explicarle que, a veces, podemos sentirnos así. Luego, preguntarle: \"¿Qué hizo que reaccionaras de esa manera en el aula?, ¿qué crees que sintió Rubén con lo que le dijiste?\". Finalmente, pedirle que proponga posibles maneras de expresar su molestia sin herir los sentimientos de otros.",
+          "respuestaCorta": "C",
+          "solucionario": "Esta acción trabaja la inteligencia emocional: primero valida y ayuda a identificar la emoción (autoconciencia), luego promueve la empatía (toma de perspectiva de Rubén) y finalmente busca estrategias de gestión emocional (autorregulación) sin juicios punitivos.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_primaria_2019_p84",
+      "contexto": "Un docente presenta a los estudiantes de quinto grado la siguiente situación hipotética.\n\nFernando regala uno de sus juguetes a su amigo, quien se alegró mucho por el regalo. Luego de felicitarlo por su acción, la docente pregunta a Fernando por qué lo hizo. Él responde: \"Porque mi papá ahora me tendrá que comprar un juguete nuevo\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "El docente busca que los estudiantes reflexionen éticamente sobre la situación presentada, ¿cuál de los siguientes conjuntos de preguntas es más pertinente para cumplir su propósito?",
+          "opciones": [
+            "\"Si consideramos las intenciones de Fernando para regalar su juguete, ¿dirían que fueron egoístas? ¿Por qué? ¿Aconsejarían a Fernando para que actúe de forma generosa en otra situación? ¿Qué le dirían?\".",
+            "\"Antes de saber la intención que tuvo Fernando, ¿qué pensaron sobre su acción? ¿Por qué? ¿Cambiaron sus opiniones acerca de la acción que realizó Fernando luego de conocer sus intenciones? ¿Por qué?\".",
+            "\"Cuando el amigo de Fernando recibió el regalo, ¿cómo creen que se sintió? ¿Por qué? ¿Cómo creen que actuaría si se enterara de las razones de Fernando para regalarle el juguete? Y ustedes, ¿cómo actuarían?\"."
+          ],
+          "respuesta": "\"Antes de saber la intención que tuvo Fernando, ¿qué pensaron sobre su acción? ¿Por qué? ¿Cambiaron sus opiniones acerca de la acción que realizó Fernando luego de conocer sus intenciones? ¿Por qué?\".",
+          "respuestaCorta": "B",
+          "solucionario": "Esta secuencia de preguntas distingue entre el acto moral y la intención (ética deontológica vs consecuencialista). Promueve el juicio crítico al contrastar la apariencia de la acción (buena) con la motivación subyacente (interesada), que es el núcleo de la reflexión ética.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_primaria_2019_p85",
+      "contexto": "Los estudiantes de quinto grado están investigando acerca de la diversidad de las regiones del Perú. Durante una de las actividades, un estudiante dice lo siguiente:\n\n\"El otro día un señor en la televisión dijo que el clima de las regiones influye en el comportamiento de las personas. Como ejemplo, el señor mencionó que en las regiones donde hace mucho calor las personas son más flojas y no les gusta trabajar\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "La docente considera necesario promover la reflexión sobre el estereotipo expresado en el ejemplo citado por el estudiante. ¿Cuál de las siguientes acciones es más adecuada para este propósito?",
+          "opciones": [
+            "Compartir con los estudiantes ejemplos de personas que destacan por su dedicación al trabajo y que viven en regiones con diferentes climas. Luego, preguntarles: \"¿Qué creen que ha influido en estas personas para que sean muy trabajadoras? Entonces, ¿qué tanto influye el clima en que una persona sea trabajadora o no?\".",
+            "Preguntar a los estudiantes: \"¿Cómo creen que se siente trabajar cuándo hace mucho calor? ¿Las personas tendrán ganas de trabajar?\". Luego, explicarles que deben considerar que el calor genera mayor desgaste físico y que, por lo tanto, hay que comprender las necesidades de las personas que habitan en zonas con climas cálidos.",
+            "Explicar a los estudiantes que no es recomendable formarse una imagen de un grupo de personas a partir de una sola característica. Luego, preguntarles: \"¿Acaso no se puede reconocer aspectos positivos en las personas que habitan regiones donde la temperatura es muy alta? ¿Por qué enfocarse solamente en los aspectos negativos?\"."
+          ],
+          "respuesta": "Compartir con los estudiantes ejemplos de personas que destacan por su dedicación al trabajo y que viven en regiones con diferentes climas. Luego, preguntarles: \"¿Qué creen que ha influido en estas personas para que sean muy trabajadoras? Entonces, ¿qué tanto influye el clima en que una persona sea trabajadora o no?\".",
+          "respuestaCorta": "A",
+          "solucionario": "Esta acción cuestiona el estereotipo (determinismo geográfico) mediante contraejemplos concretos (evidencia). Al analizar casos reales que contradicen el prejuicio, los estudiantes deconstruyen la generalización falsa mediante el pensamiento crítico.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_primaria_2019_p86",
+      "contexto": "Los estudiantes de quinto grado han realizado una visita a una casona del periodo virreinal para recoger información acerca de la vida cotidiana de esa época. Luego, a partir de la información recogida en la visita, los estudiantes señalan en un plano los distintos ambientes de la casona visitada.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Para continuar con la interpretación crítica de la casona visitada como fuente que contribuye a explicar la vida cotidiana en el virreinato, ¿cuál de las siguientes acciones es la más pertinente?",
+          "opciones": [
+            "Pedir a los estudiantes que describan qué actividades se realizaban en cada ambiente de la casona visitada. Luego, solicitarles que indiquen qué grupos sociales creen que realizaron estas actividades. Por último, pedirles que expliquen qué función cumplió la casona en el periodo virreinal.",
+            "Pedir a los estudiantes que describan la distribución de los ambientes de la casona visitada. Luego, solicitarles que comparen las características de los ambientes de una vivienda actual con los de la casona. Por último, pedirles que señalen qué ambientes de la casona ya no existen en las viviendas actuales.",
+            "Pedir a los estudiantes que describan las principales características arquitectónicas de la casona visitada. Luego, solicitarles que determinen a qué estilo arquitectónico corresponden esas características. Por último, pedirles que indiquen qué otros edificios del mismo estilo arquitectónico existen en la localidad."
+          ],
+          "respuesta": "Pedir a los estudiantes que describan qué actividades se realizaban en cada ambiente de la casona visitada. Luego, solicitarles que indiquen qué grupos sociales creen que realizaron estas actividades. Por último, pedirles que expliquen qué función cumplió la casona en el periodo virreinal.",
+          "respuestaCorta": "A",
+          "solucionario": "La interpretación crítica de fuentes históricas materiales implica ir más allá de la descripción física. La opción A conecta el espacio físico (casona) con los actores sociales y las dinámicas de poder/jerarquía de la época, permitiendo comprender la sociedad virreinal.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_primaria_2019_p87",
+      "contexto": "Tomando en cuenta que se acercan las elecciones generales, una institución educativa ha propuesto desarrollar un proyecto relacionado con la participación ciudadana en los procesos electorales. En este contexto, los estudiantes de sexto grado han investigado sobre los procesos electorales en la segunda mitad del siglo XX en el Perú. Después de haber analizado diversas fuentes, un estudiante ha elaborado el siguiente texto.\n\n\"La primera vez que las mujeres participaron en una elección presidencial fue en 1956. Antes de esa fecha, solo votaban los varones. Aún en estas elecciones, las personas casadas votaban desde los 18 años, mientras que las personas solteras votaban a partir de los 21 años. Además, para votar en esa época era necesario saber leer y escribir. Sin embargo, desde 1979, y hasta la actualidad, todas las mujeres y varones votan desde los 18 años sin importar su estado civil o si saben leer y escribir.\"",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes aprendizajes se evidencia en el texto elaborado por el estudiante?",
+          "opciones": [
+            "El reconocimiento de la simultaneidad entre diferentes procesos históricos.",
+            "El reconocimiento de cambios y permanencias de un proceso histórico.",
+            "El reconocimiento de la multicausalidad de un proceso histórico."
+          ],
+          "respuesta": "El reconocimiento de cambios y permanencias de un proceso histórico.",
+          "respuestaCorta": "B",
+          "solucionario": "El estudiante contrasta condiciones pasadas (1956: voto restringido por género, alfabetismo, estado civil) con las actuales (1979-presente: voto universal), identificando qué ha cambiado (restricciones eliminadas) y qué permanece (el acto de votar, la edad de 18 para algunos).",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_primaria_2019_p88_89",
+      "contexto": "Lea la siguiente situación y responda las preguntas 88 y 89.\n\nLos estudiantes de sexto grado van a iniciar el desarrollo de un proyecto de investigación acerca de cómo se genera la contaminación en los océanos. En este contexto, los estudiantes han buscado noticias referidas a esta situación y, en equipos, han seleccionado una noticia de su interés. Uno de los equipos está analizando la siguiente noticia.\n\nExtraen 80 bolsas de plástico del estómago de una ballena\nEl pasado 28 de mayo, se encontró una ballena con dificultades para nadar en un canal del sur de Tailandia. Un equipo de veterinarios rescató a la ballena e intentó salvar al animal malnutrido. La ballena vomitó varias bolsas de plástico y murió el 1 de junio. Durante la necropsia, retiraron de su estómago más de 7,7 kg de plástico, incluidas más de 80 bolsas y otros restos. La ballena murió de hambre, ya que los residuos de plástico le impidieron alimentarse.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Durante el análisis de la noticia, los miembros de este equipo identifican que la problemática es la contaminación del mar por plástico. A continuación, se presentan los comentarios de algunos de los integrantes.\n\nJuan: \"Así como esta ballena murió por comer plástico, yo pienso que otros animales también podrían morir por lo mismo, lo cual afectaría al ecosistema marino\".\nHaydé: \"Me parece que la gente no se preocupa lo suficiente por realizar acciones en favor del cuidado del ambiente y la protección de animales como las ballenas\".\nAntonio: \"Yo creo que son las personas las que contaminan el mar dejando sus botellas de plástico en las playas o lanzándolas al mar\".\n\n¿En cuál de los comentarios se evidencia el reconocimiento de una consecuencia de la problemática ambiental identificada?",
+          "opciones": [
+            "En el de Juan.",
+            "En el de Haydé.",
+            "En el de Antonio."
+          ],
+          "respuesta": "En el de Juan.",
+          "respuestaCorta": "A",
+          "solucionario": "Juan identifica el efecto o consecuencia de la contaminación (muerte de animales, afectación del ecosistema). Antonio identifica la causa (acciones humanas) y Haydé expresa una opinión o juicio de valor sobre la actitud ciudadana.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        },
+        {
+          "pregunta": "Después de la problematización de la noticia presentada, tres estudiantes realizan los siguientes comentarios.\n\nAurelia: \"Me parece terrible que la ballena haya muerto por el plástico que contamina el mar. Esto daña a muchos animales que viven en el mar y las personas pueden enfermarse al comer peces contaminados\".\nBruno: \"Yo creo que me gustaría ser ingeniero ambiental y aprender cómo es que se puede deshacer el plástico. O, mejor, ser el inventor de algún producto que pueda reemplazar el plástico\".\nCarla: \"Escuché que el plástico se queda en el mar por mucho tiempo y que no es fácil que desaparezca. Y, como se usa mucho plástico todos los días, cada vez va a haber más plástico en el mar\".\n\n¿En cuál de los comentarios de los estudiantes se evidencia la perspectiva del bien común?",
+          "opciones": [
+            "En el de Aurelia.",
+            "En el de Bruno.",
+            "En el de Carla."
+          ],
+          "respuesta": "En el de Aurelia.",
+          "respuestaCorta": "A",
+          "solucionario": "La perspectiva del bien común implica reconocer que los problemas ambientales nos afectan a todos como colectividad. Aurelia conecta el daño ambiental (muerte de ballenas) con la salud pública humana (\"personas pueden enfermarse\"), mostrando una visión integradora del bienestar común.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_primaria_2019_p90",
+      "contexto": "Los estudiantes de sexto grado han investigado en diversas fuentes acerca del cambio climático en el Perú. Luego, en plenaria, presentan sus hallazgos. Un estudiante comenta lo siguiente:\n\n\"Yo encontré información que decía que es muy importante promover el uso de energía solar para así reducir la emisión de Gases de Efecto Invernadero\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿A qué concepto corresponde lo expresado por el estudiante?",
+          "opciones": [
+            "Al de mitigación al cambio climático.",
+            "Al de adaptación al cambio climático.",
+            "Al de resiliencia ante el cambio climático."
+          ],
+          "respuesta": "Al de mitigación al cambio climático.",
+          "respuestaCorta": "A",
+          "solucionario": "La mitigación se refiere a las acciones dirigidas a reducir las causas del cambio climático, específicamente la reducción de emisiones de gases de efecto invernadero (como cambiar a energía solar). La adaptación se refiere a ajustarse a los efectos, y la resiliencia a la capacidad de recuperación.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    }
+  ]
+}
+  

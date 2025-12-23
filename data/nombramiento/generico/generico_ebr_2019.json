@@ -1,0 +1,816 @@
+{
+    "Comprensión Lectora": [
+        {
+            "idGrupo": "cl_primaria_2019_t1",
+            "contexto": "Tenía un hermano pequeño, y a nadie más tenía. Hacía mucho tiempo, desde la muerte de sus padres, habitaban los dos solos esa playa desierta, rodeada de montañas. Pescaban, cazaban, recogían frutos y eran felices.\nEn verdad, tan pequeño era el otro, apenas como la palma de su mano, que el hermano grande encontraba normal ocuparse de todo. Pero siempre atento a su pequeño hermano, delicado y único en su minúsculo tamaño.\nNada hacía sin llevarlo consigo. Si era día de pesca, se iban los dos mar adentro, el hermano grande metido en el agua hasta los muslos, el pequeño encaramado en su oreja, ambos inclinados sobre la transparencia del agua, esperando el momento en que el pez se acercaría y, ¡zas!, caería preso en la celada de sus manos. Si se trataba de cazar, salían al bosque, el pequeño acomodado a sus anchas en la alforja de cuero de su hermano, quien daba largos pasos por entre los arbustos, en busca de algún animal salvaje que les garantizara el almuerzo, o de frutas maduras y jugosas que calmaran la sed.\nNada faltaba a los dos hermanos.\nPero en las noches, sentados frente al fuego, la casa entera parecía llenarse de vacío. Casi sin advertirlo, comenzaban a hablar de un mundo más allá de las montañas, preguntándose cómo sería, si estaría habitado, e imaginando la vida de aquellos habitantes. De una suposición a otra, la charla se ampliaba hasta el amanecer con nuevas historias que se ligaban entre sí.\nDurante el día, los dos hermanos solo pensaban en la llegada de la noche, momento en que habrían de sentarse junto al fuego a imaginar ese mundo que ignoraban. Y la noche se fue haciendo mejor que el día, la imaginación más seductora que la realidad. Hasta que una vez, ya cerca del amanecer, el pequeño, con firmeza, le propuso a su hermano salir de casa para viajar hacia ese mundo que desconocían. Y el grande se sorprendió de no haber pensado en algo tan evidente.\nNo tardaron mucho en los preparativos. Reunieron algunas provisiones, tomaron pieles para enfrentar el frío, cerraron bien la puerta de su casa y se pusieron en camino.\nMontado encima de la cabeza del hermano, asegurando con vigor las redes de su cabello, el pequeño se sentía valiente, como si también él fuera alto y poderoso. Pisando tierras cada vez más desconocidas, el grande se sentía estremecer por dentro, como si también él fuera pequeño. Pero los dos cantaban, estaban juntos, y aquella era su más linda aventura.\nDespués de algunos días, el suelo dejó de ser plano, y comenzó la cuesta de la montaña. Subieron por caminos antes abiertos por los animales. Desde la cabeza del hermano, el pequeño, con determinación, señalaba los rumbos más fáciles. El grande se aferraba a las piedras, rodeaba zanjones y bordeaba precipicios. Acampaban por la noche entre las rocas, envueltos en pieles. Y al amanecer proseguían su lenta ascensión.\nTanto subieron un día que, de repente, no hubo ya modo de subir más. Habían llegado a la cima de la montaña. Y desde arriba, extasiados, contemplaron por fin el otro lado del mundo.\nQué bonito era. En la distancia, todo era tan diminuto, limpio y bien dispuesto. Las colinas descendían, suaves, hasta los valles sembrados de huertos. Los campos, salpicados de aldeas y casitas, parecían moverse a lo lejos.\nAlegres, los dos hermanos comenzaron a descender. Bajaron y bajaron, por caminos ahora más fáciles, trazados por otros pies. Curiosamente, por más que avanzaban, las casas y las personas no crecían tanto como habían esperado. Ellos estaban cada vez más cerca y los otros seguían siendo pequeños.\nCasi estaban llegando a la primera aldea, cuando oyeron un grito y después otro, y vieron que todas aquellas personitas corrían a encerrarse en sus casas, cerrando luego tras de sí puertas y ventanas.\nSin entender lo que sucedía, el hermano grande depositó en el suelo al pequeño. Y este, viéndose por primera vez en un mundo de su tamaño, infló el pecho y resueltamente se acercó a la casa más próxima, llamó a la puerta, y esperó que algún aldeano lo atendiera.\nA través de la hendija que se abrió con cautela, dos ojos, exactamente a la altura de los suyos, espiaron. Silencio al otro lado de la puerta. Pero un segundo después, también la ventana se abrió levemente, dando espacio a la vivaz curiosidad de otro par de ojos. Y en cada casa se abrieron temblorosas otras hendijas, asomó tras ellas el destello de otras miradas. Al principio recelosas, casi encogidas entre los hombros, después más osadas, surgieron cabezas de hombres, de mujeres y de niños. Cabezas pequeñas, todas minúsculas como la de su hermano, pensó el mayor, mientras trataba afanoso de comprender. No había nadie allí que fuera grande, nadie de su propio tamaño. Y sin duda, sucedía lo mismo en las aldeas vecinas, en todas aquellas casas que él había creído pequeñas solo a causa de la distancia.\nEn ese momento, el mundo, descubrió con súbito sobresalto al comprender por fin la realidad, estaba hecho a la medida de su hermano. Entonces, vio que este, tras hablar con los habitantes de la casa, volvía hacia él tendiéndole la mano. El hermano, que siempre le pareciera tan frágil, lo llamaba con dulce firmeza. Y él se inclinó hasta tocar su manecita, y se dejó guiar hasta las gentes de la aldea, que miraban asombradas, por primera vez, al único gigante de este mundo.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "Según el texto, ¿dónde permanecía el hermano pequeño cuando iba a pescar con su hermano?",
+                    "opciones": [
+                        "En la oreja de su hermano.",
+                        "En la alforja de su hermano.",
+                        "Encima de la cabeza de su hermano."
+                    ],
+                    "respuesta": "En la oreja de su hermano.",
+                    "respuestaCorta": "El texto menciona explícitamente que el pequeño iba encaramado en la oreja del hermano al pescar.",
+                    "solucionario": "En el tercer párrafo del texto se detalla: 'Si era día de pesca, se iban los dos mar adentro... el pequeño encaramado en su oreja'.",
+                    "seccion": "Comprensión Lectora"
+                },
+                {
+                    "pregunta": "De acuerdo con el desarrollo de la historia, ¿cuál de los siguientes hechos ocurrió primero?",
+                    "opciones": [
+                        "El hermano grande comprendió que las personas de la aldea eran como su hermano.",
+                        "El hermano pequeño buscó conversar con alguno de los habitantes de la aldea.",
+                        "Ambos hermanos oyeron gritos que provenían de la aldea a la que llegaron."
+                    ],
+                    "respuesta": "Ambos hermanos oyeron gritos que provenían de la aldea a la que llegaron.",
+                    "respuestaCorta": "En la secuencia narrativa, primero oyen los gritos, luego el hermano baja al pequeño y este intenta conversar.",
+                    "solucionario": "Según el texto, la secuencia es: 1) Oyeron un grito y vieron correr a las personas. 2) El hermano grande depositó al pequeño en el suelo. 3) El pequeño se acercó a la casa y llamó (buscó conversar). 4) El hermano grande comprendió la realidad. Por tanto, oír los gritos ocurrió primero.",
+                    "seccion": "Comprensión Lectora"
+                },
+                {
+                    "pregunta": "¿Cuál de las siguientes ideas se puede deducir a partir de la lectura del texto?",
+                    "opciones": [
+                        "El hermano pequeño solía acompañar a su hermano en la búsqueda de alimentos.",
+                        "El hermano grande sentía un gran temor por atravesar las montañas caminando.",
+                        "Los hermanos se encontraban tristes por vivir solos en una playa desierta."
+                    ],
+                    "respuesta": "El hermano pequeño solía acompañar a su hermano en la búsqueda de alimentos.",
+                    "respuestaCorta": "El texto indica que 'Nada hacía sin llevarlo consigo', tanto para pescar como para cazar.",
+                    "solucionario": "El texto afirma: 'Nada hacía sin llevarlo consigo. Si era día de pesca... Si se trataba de cazar...'. De esto se deduce que el hermano pequeño lo acompañaba habitualmente en las actividades de subsistencia (búsqueda de alimentos).",
+                    "seccion": "Comprensión Lectora"
+                },
+                {
+                    "pregunta": "En el texto, ¿cuál es el principal rasgo de personalidad del hermano pequeño?",
+                    "opciones": [
+                        "Es suspicaz.",
+                        "Es decidido.",
+                        "Es indiscreto."
+                    ],
+                    "respuesta": "Es decidido.",
+                    "respuestaCorta": "Se describe al pequeño actuando con 'firmeza', 'determinación' y 'resueltamente'.",
+                    "solucionario": "A lo largo del texto, el hermano pequeño muestra decisión: propuso el viaje 'con firmeza', señalaba el rumbo 'con determinación' y se acercó a la puerta 'resueltamente'. Esto denota que es decidido.",
+                    "seccion": "Comprensión Lectora"
+                },
+                {
+                    "pregunta": "¿De qué trata principalmente el texto?",
+                    "opciones": [
+                        "De un descubrimiento que cambia la perspectiva de dos hermanos sobre sí mismos.",
+                        "De las actividades cotidianas que realizaban dos hermanos huérfanos en una playa.",
+                        "De los problemas que dos hermanos enfrentan en su viaje a una aldea desconocida."
+                    ],
+                    "respuesta": "De las actividades cotidianas que realizaban dos hermanos huérfanos en una playa.",
+                    "respuestaCorta": "Según la clave de respuestas oficial, el enfoque principal recae en la descripción de su vida y vínculo.",
+                    "solucionario": "La respuesta correcta según el solucionario es la B. Gran parte del inicio del texto se dedica a describir detalladamente cómo vivían, cazaban, pescaban y convivían los dos hermanos en la playa desierta antes de emprender el viaje.",
+                    "seccion": "Comprensión Lectora"
+                }
+            ]
+        },
+        {
+            "idGrupo": "cl_primaria_2019_t2",
+            "contexto": "Desde 2017, el gobierno francés prohíbe que los escolares menores de 15 años acudan a las escuelas públicas portando teléfonos móviles con pantallas táctiles (también llamados smartphones o teléfonos inteligentes). Algunos docentes celebraron entusiastas la noticia. Otros docentes sostenemos que, detrás de este tipo de medidas, triunfa la absurda idea de contraponer educación y desarrollo tecnológico.\nAnte esto, uno se pregunta por las razones que motivan a que las mismas instituciones, que antes reclamaban recursos para poner computadoras en las aulas, ahora pretendan nada menos que evitar que los estudiantes las lleven en sus bolsillos.\nLa respuesta es sencilla. En lugar de llevar a cabo un verdadero proceso de transformación digital, la mayoría de escuelas pretenden seguir haciendo lo mismo que han hecho siempre: introducir un poco de tecnología aquí y allá, usar una pizarra digital que funcione igual que la pizarra de tiza, pero sin el polvo, o leer un libro digitalizado, idéntico al de papel, pero con video.\nAsí pues, se nos presenta una visión triste y restringida del uso de la tecnología digital, que afecta el desarrollo de varias generaciones de estudiantes para, por ejemplo, reconocer noticias falsas o identificar fuentes de información confiables. No se tiene en cuenta que un adecuado proceso de alfabetización digital puede contribuir, en gran medida, a que los estudiantes se comporten responsablemente en el contexto en el que les toca vivir.\n¿De verdad se puede pensar que excluir la tecnología de la educación o introducirla de manera anecdótica y superficial puede ser una buena idea? En un mundo en el que utilizamos los smartphones para casi todo, ¿por qué entusiasma la idea de eliminar su presencia de las escuelas?\nAhora bien, no se trata tan solo de pedir a los estudiantes que lleven sus smartphones a las aulas para que, en lugar de usarlos en casa, lo hagan en clases. De ser así, nos encontraríamos con sesiones imposibles de gestionar y con distracciones constantes, que es lo que preocupa a aquellos docentes que están de acuerdo con quitarlos de la escuela. El reto de la educación actual consiste en integrar la tecnología en el aprendizaje, ofreciendo a los estudiantes alternativas para usarla, y evitando que la consideren, únicamente, como una herramienta de entretenimiento.\nPara que ello ocurra, la educación debe evolucionar. Por diversas razones, seguimos educándonos con los mismos métodos del siglo XX con los que se educaron nuestros padres y nuestros abuelos. Aún existen instituciones que buscan desarrollar aprendizajes basándose en un solo libro de texto cuyo contenido es necesario memorizar y repetir en un examen. Esto trae como consecuencia que se produzca la dependencia por una sola fuente. En muchos casos, los estudiantes se forman con la idea de que una información es indiscutible si está impresa en un libro o aparece en una pantalla.\nEn la educación básica, cada día más, los mecanismos de verificación de fuentes resultan fundamentales, considerando que vivimos en una sociedad caracterizada por la hiperabundancia y la saturación de información proveniente de internet. Hasta ahora, la escuela no ha sido capaz de dotar a los estudiantes de las habilidades y herramientas adecuadas para lidiar con la gran cantidad de contenidos a los que tienen acceso.\nDesde nuestro quehacer, los docentes podemos ayudar a que los estudiantes comprendan que el conocimiento no está encerrado en un solo libro o una sola fuente, a que se manejen entre cantidades ilimitadas de información, y que sean capaces de cualificarla, de reflexionar críticamente sobre ella, descartarla cuando es mala y compartirla cuando es buena. Bajo esta perspectiva, podríamos plantear retos o problemas significativos que los estudiantes tengan que resolver con las fuentes que estén a su disposición. Nuestro rol consiste, entonces, en guiarlos para que sepan bucear dentro de ese mar de información.\nEn este sentido, es necesario promover que los estudiantes tengan un papel mucho más activo y protagónico en la verificación y búsqueda de fuentes de información, de modo que utilicen diversos métodos que les permitan revisar la validez de las fuentes de forma colaborativa.\nAsí, en lugar de asumir el papel de referente universal, los docentes debemos actuar como moderadores de las actividades. Aunque es una tarea compleja, es importante reorientar las dinámicas de las aulas, a fin de que la tecnología digital tenga un espacio en el proceso de aprender y que los estudiantes también participen, en dicho proceso, reflexivamente.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál de las siguientes afirmaciones NO se puede concluir del texto?",
+                    "opciones": [
+                        "El uso actual que se le suele dar a los libros electrónicos y a las pizarras digitales es una muestra de que la escuela promueve la alfabetización digital.",
+                        "El uso de un solo libro de texto puede ser un obstáculo para fomentar que los estudiantes aprendan a contrastar la información de diversas fuentes.",
+                        "El uso limitado que algunos docentes le dan a la tecnología digital se debe a que la consideran una distracción para los estudiantes."
+                    ],
+                    "respuesta": "El uso actual que se le suele dar a los libros electrónicos y a las pizarras digitales es una muestra de que la escuela promueve la alfabetización digital.",
+                    "respuestaCorta": "El texto critica el uso actual como una visión 'triste y restringida', negando que sea una verdadera alfabetización digital.",
+                    "solucionario": "El autor sostiene que el uso actual (pizarra digital como pizarra de tiza, libro digital idéntico al papel) NO constituye un verdadero proceso de transformación digital, sino una visión restringida. Por lo tanto, afirmar que este uso demuestra la promoción de la alfabetización digital es contrario a lo que plantea el texto.",
+                    "seccion": "Comprensión Lectora"
+                },
+                {
+                    "pregunta": "En el texto, el autor menciona un hecho que, según él, muestra que la idea de contraponer educación y tecnología ha triunfado. ¿Cuál es ese hecho?",
+                    "opciones": [
+                        "La aplicación de prácticas pedagógicas del siglo XX en las escuelas francesas.",
+                        "La prohibición por parte del gobierno francés del uso de smartphones en las escuelas.",
+                        "La costumbre de los estudiantes franceses de utilizar la tecnología solo para entretenerse."
+                    ],
+                    "respuesta": "La prohibición por parte del gobierno francés del uso de smartphones en las escuelas.",
+                    "respuestaCorta": "El autor vincula directamente la prohibición gubernamental con el triunfo de la idea de contraponer educación y tecnología.",
+                    "solucionario": "Al inicio del texto, el autor menciona la prohibición del gobierno francés y señala inmediatamente: 'Otros docentes sostenemos que, detrás de este tipo de medidas, triunfa la absurda idea de contraponer educación y desarrollo tecnológico'.",
+                    "seccion": "Comprensión Lectora"
+                },
+                {
+                    "pregunta": "¿Cuál es el propósito principal del texto?",
+                    "opciones": [
+                        "Enumerar los beneficios pedagógicos que conlleva utilizar apropiadamente la tecnología digital en las escuelas.",
+                        "Describir algunas propuestas pedagógicas que fomentan la reflexión crítica sobre el uso de tecnologías digitales.",
+                        "Resaltar la necesidad de incluir los avances del desarrollo tecnológico digital en la práctica pedagógica."
+                    ],
+                    "respuesta": "Resaltar la necesidad de incluir los avances del desarrollo tecnológico digital en la práctica pedagógica.",
+                    "respuestaCorta": "El texto argumenta a favor de integrar la tecnología y alfabetización digital en la educación.",
+                    "solucionario": "Todo el texto es una argumentación en contra de prohibir la tecnología y a favor de integrarla ('El reto de la educación actual consiste en integrar la tecnología en el aprendizaje') y de promover la alfabetización digital.",
+                    "seccion": "Comprensión Lectora"
+                },
+                {
+                    "pregunta": "En el tercer párrafo del texto, el autor afirma lo siguiente: '[...] la mayoría de escuelas pretenden seguir haciendo lo mismo que han hecho siempre [...]'. ¿A qué se refiere?",
+                    "opciones": [
+                        "A que estas escuelas procuran evitar que los estudiantes asistan a clases con sus smartphones.",
+                        "A que estas escuelas introducen las tecnologías digitales en las aulas de forma superficial y anecdótica.",
+                        "A que estas escuelas están comprometidas con el desarrollo digital de varias generaciones de estudiantes."
+                    ],
+                    "respuesta": "A que estas escuelas introducen las tecnologías digitales en las aulas de forma superficial y anecdótica.",
+                    "respuestaCorta": "El texto explica que 'hacer lo mismo' significa usar tecnología nueva para viejas prácticas (pizarra digital como tiza).",
+                    "solucionario": "Inmediatamente después de la frase citada, el autor explica: 'introducir un poco de tecnología aquí y allá, usar una pizarra digital que funcione igual que la pizarra de tiza...'. Esto describe una introducción superficial de la tecnología.",
+                    "seccion": "Comprensión Lectora"
+                },
+                {
+                    "pregunta": "En una entrevista, un docente realizó el siguiente comentario:\n\"Hace poco, recuerdo haber propuesto a mis estudiantes llevar a cabo una actividad que consistía en crear perfiles de personajes históricos en la red social que más utilicen. La actividad los motivó a investigar en la web sobre la vida de esos personajes. Para ello, tenían que buscar y contrastar diversas fuentes de información acerca de sus datos biográficos. Además, tuvieron que realizar una selección de imágenes, determinar 'los contactos' de dichos personajes y explicar qué relación existió entre ellos en función de la época en que vivieron\".\nLa actividad descrita en el comentario anterior está basada en una idea que también se desprende del texto. ¿Cuál es esta idea?",
+                    "opciones": [
+                        "Cada día más, la educación básica es fundamental para enseñar a los estudiantes los mecanismos de búsqueda de información en internet.",
+                        "Un adecuado proceso de alfabetización digital puede contribuir a que los estudiantes se desenvuelvan con responsabilidad en el contexto que les toca vivir.",
+                        "El reto de la educación actual consiste en integrar las tecnologías digitales en las actividades de aprendizaje, aprovechando lo que los estudiantes ya conocen sobre ellas."
+                    ],
+                    "respuesta": "El reto de la educación actual consiste en integrar las tecnologías digitales en las actividades de aprendizaje, aprovechando lo que los estudiantes ya conocen sobre ellas.",
+                    "respuestaCorta": "La actividad usa una red social (conocida por los alumnos) para un fin educativo (historia), integrando la tecnología.",
+                    "solucionario": "El texto plantea que el reto es integrar la tecnología ofreciendo alternativas de uso y evitando que sea solo entretenimiento. El ejemplo muestra cómo aprovechar algo que los estudiantes conocen (redes sociales) para un aprendizaje significativo (historia), integrando así la tecnología.",
+                    "seccion": "Comprensión Lectora"
+                }
+            ]
+        },
+        {
+            "idGrupo": "cl_primaria_2019_t3",
+            "contexto": "En 1944, José María Arguedas escribió un artículo en el que proponía un método para promover el desarrollo de la lectura y la escritura en la población quechuahablante del Perú. Si los indígenas no conseguían hablar ni leer en castellano, esto se debía a que no se les enseñaba, primero, a leer en su propia lengua. No existían materiales educativos ni se contaba con un alfabeto más o menos estándar para fomentar la lectura en esta lengua. Así, para Arguedas, la alfabetización en quechua haría que los indígenas aprendan a leer y escribir exitosamente, y esto afirmaría su identidad cultural. Se trataba, además, de una cuestión estratégica. Según él, la población quechuahablante podría sentirse motivada a leer y escribir en castellano, lo que le abriría las puertas hacia la modernidad que se producía en los centros urbanos del país.\nEse mismo año, Arguedas sería invitado por los representantes del sector educativo estatal a dialogar junto con José Antonio Encinas y Luis E. Valcárcel para la gestación del proyecto educativo indigenista. Las ideas pedagógicas y lingüísticas que Arguedas compartió en ese diálogo se concretaron, desde 1945, en una serie de medidas realmente ambiciosas. Aparte de la alfabetización en quechua, otro frente de este proyecto educativo fue el mejoramiento salarial de los docentes en la sociedad rural. Asimismo, se decidió ampliar la gratuidad y obligatoriedad de la enseñanza a los tres primeros años de la secundaria. Se dispuso, también, que las haciendas donde vivieran treinta o más niños en edad escolar estuvieran obligadas a abrir una escuela sostenida por el propietario.\nAdemás, se implementaron los núcleos educativos comunales. Estos consistían en la creación de una escuela central, alrededor de la cual se agrupaban quince o veinte escuelas. La primera debía controlar la marcha de estas a través de inspecciones periódicas. Los docentes debían ser quechuahablantes, especialmente los de la escuela central. En 1947, funcionaban 320 escuelas dentro de este sistema en un par de regiones, y superarían las 1500 en once regiones en la década de 1950.\nDe otro lado, el despliegue presupuestal para el sector educativo, que en 1936 era de 15,7 millones de soles, fue de 101,7 millones en 1946, y llegaría a la suma de 195,1 millones en 1949. Esta inyección económica contribuyó a que, entre 1940 y 1966, el total de escuelas primarias pasara de 4882 a 19 587, y que la cantidad de maestros pasara de 8911 en 1937 a 62 416 en 1966.\nEstas medidas sembraron la esperanza de que la reivindicación de la población indígena, finalmente, se lograría. Sin embargo, el censo nacional de 1961 mostraría las limitaciones de estas reformas educativas. Si bien el avance con respecto al censo de 1940 no era despreciable, la cuestión era que, una vez más, la brecha en cuanto a los aprendizajes entre la costa y la sierra no se reducía: mientras que en la costa el promedio de analfabetismo en castellano era de 27%, en la sierra era de 56%.\n¿Qué ocasionaba que esta nueva reforma educativa no tuviera los resultados esperados? Para empezar, el desinterés de la propia sociedad campesina por el acceso de las mujeres a la escuela. Existía la percepción de que la educación alejaba a la mujer de sus \"actividades tradicionales\". El censo mostró que dos de cada tres analfabetos mayores de 15 años eran mujeres.\nOtro hecho que influyó en los resultados del censo era la persistente migración de la sierra a los centros urbanos costeños de los sectores jóvenes más educados. Si bien la educación intentaba expandirse por todo el territorio nacional, Lima y otras ciudades de la costa eran los espacios en los que se focalizaba el trabajo y la posibilidad de bienestar socioeconómico.\nUn tercer obstáculo fue la dificultad de aplicar la estrategia de alfabetización en quechua. Por un lado, la formación de alfabetizadores y maestros quechuahablantes, y la elaboración de textos y materiales educativos en quechua resultaban complicadas y muy costosas. Por otro lado, los padres de familia campesinos consideraban que dicha estrategia solo hacía más lento el aprendizaje del castellano. Cuando sus hijos, al cabo de dos o tres años de escolaridad eran incapaces de expresarse en castellano, se desilusionaban y los retiraban de la escuela.\nA pesar de que existieron estos obstáculos, el censo no desató la frustración ni el descrédito del proyecto indigenista: se había cobrado ya la convicción de que la educación era un proceso a largo plazo. Los resultados del censo, más bien, ayudaron a comprender que la mejora de las condiciones de vida de los indígenas en el Perú necesitaba no solo de innovaciones en las estrategias educativas, sino, sobre todo, de profundas reformas socioeconómicas. Esta toma de conciencia fue quizá uno de los aportes más relevantes de lo que implicó el proyecto educativo indigenista.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "De acuerdo con el primer párrafo del texto, ¿por qué, para Arguedas, era una cuestión estratégica que la población quechuahablante fuera alfabetizada en su lengua materna?",
+                    "opciones": [
+                        "Porque aprendería a leer exitosamente en quechua y, de este modo, afirmaría su identidad cultural.",
+                        "Porque contaría con un alfabeto estándar que serviría para fomentar sus habilidades de lectura y escritura.",
+                        "Porque se sentiría motivada a leer y a escribir en castellano, y esto le abriría las puertas hacia la modernidad."
+                    ],
+                    "respuesta": "Porque se sentiría motivada a leer y a escribir en castellano, y esto le abriría las puertas hacia la modernidad.",
+                    "respuestaCorta": "El texto menciona explícitamente que la estrategia buscaba motivar el aprendizaje del castellano para acceder a la modernidad.",
+                    "solucionario": "El texto dice textualmente: 'Se trataba, además, de una cuestión estratégica. [cite_start]Según él, la población quechuahablante podría sentirse motivada a leer y escribir en castellano, lo que le abriría las puertas hacia la modernidad...'. [cite: 1602]",
+                    "seccion": "Comprensión Lectora"
+                },
+                {
+                    "pregunta": "Según el texto, ¿en qué año la partida presupuestal para el sector educativo alcanzó los 101,7 millones de soles?",
+                    "opciones": [
+                        "En 1936.",
+                        "En 1946.",
+                        "En 1949."
+                    ],
+                    "respuesta": "En 1946.",
+                    "respuestaCorta": "El dato numérico y el año se encuentran explícitos en el texto.",
+                    "solucionario": "En el cuarto párrafo se indica: '...fue de 101,7 millones en 1946'. [cite: 1580]",
+                    "seccion": "Comprensión Lectora"
+                },
+                {
+                    "pregunta": "¿Cuál es el propósito principal del texto?",
+                    "opciones": [
+                        "Criticar las distintas medidas educativas y presupuestales aplicadas en el marco del proyecto educativo indigenista.",
+                        "Dar a conocer en qué consistió el proyecto educativo indigenista y cuáles fueron los resultados de su aplicación.",
+                        "Exponer las ideas fundamentales que sustentaron el proyecto educativo indigenista en los aspectos pedagógico y lingüístico."
+                    ],
+                    "respuesta": "Dar a conocer en qué consistió el proyecto educativo indigenista y cuáles fueron los resultados de su aplicación.",
+                    "respuestaCorta": "El texto es expositivo: describe las medidas, el presupuesto y evalúa los resultados (censo).",
+                    "solucionario": "El texto aborda la gestación del proyecto, sus medidas concretas (núcleos comunales, presupuesto), y finalmente analiza sus resultados y limitaciones basándose en el censo de 1961. Por tanto, su propósito es dar a conocer el proyecto y sus resultados. [cite: 1613]",
+                    "seccion": "Comprensión Lectora"
+                },
+                {
+                    "pregunta": "¿Cuál de las siguientes afirmaciones NO se puede concluir del texto?",
+                    "opciones": [
+                        "En la década de 1940, hubo un importante despliegue presupuestal que contribuyó al logro de algunas de las metas del proyecto educativo indigenista.",
+                        "Según Arguedas, la población quechuahablante debería, primero, ser alfabetizada en su lengua materna si se busca que aprenda a leer y escribir en castellano.",
+                        "El censo de 1961 dejó en claro que las reformas al modelo educativo causaron un aumento en el promedio de analfabetismo de la población rural y urbana de la sierra."
+                    ],
+                    "respuesta": "El censo de 1961 dejó en claro que las reformas al modelo educativo causaron un aumento en el promedio de analfabetismo de la población rural y urbana de la sierra.",
+                    "respuestaCorta": "El texto indica que hubo un avance (aunque la brecha persistía), no un aumento del analfabetismo.",
+                    "solucionario": "El texto señala que 'el avance con respecto al censo de 1940 no era despreciable', lo que contradice la idea de que hubo un aumento en el analfabetismo. [cite_start]Lo que resalta es que la brecha no se redujo, no que la situación empeoró en términos absolutos. [cite: 1619]",
+                    "seccion": "Comprensión Lectora"
+                },
+                {
+                    "pregunta": "¿Cuál de las siguientes alternativas expresa la idea principal del último párrafo del texto?",
+                    "opciones": [
+                        "Los resultados del proyecto indigenista mostraron que la reivindicación de la población indígena requería de reformas socioeconómicas, además de las educativas.",
+                        "El censo de 1961 no desacreditó las ideas del proyecto indigenista, ya que se tenía la convicción de que la educación era un proceso a largo plazo.",
+                        "Existieron diversas dificultades que impidieron la aplicación de las reformas educativas del proyecto indigenista propuesto por Arguedas."
+                    ],
+                    "respuesta": "Los resultados del proyecto indigenista mostraron que la reivindicación de la población indígena requería de reformas socioeconómicas, además de las educativas.",
+                    "respuestaCorta": "El último párrafo concluye explícitamente que se necesitaba no solo educación, sino profundas reformas socioeconómicas.",
+                    "solucionario": "El párrafo final afirma: 'Los resultados del censo, más bien, ayudaron a comprender que la mejora de las condiciones de vida de los indígenas... necesitaba no solo de innovaciones en las estrategias educativas, sino, sobre todo, de profundas reformas socioeconómicas'. [cite: 1622]",
+                    "seccion": "Comprensión Lectora"
+                }
+            ]
+        },
+        {
+            "idGrupo": "cl_primaria_2019_t4",
+            "contexto": "Vivimos en un mundo donde nos encontramos unos frente a otros cruzando las brechas de la geografía, el lenguaje y la nacionalidad. Todos dependemos de personas que jamás hemos visto y que, a su vez, dependen de nosotros. Si las personas que se encuentran distantes no se unen para cooperar como jamás lo han hecho, no es posible resolver los problemas económicos, ambientales, religiosos y políticos. Tomemos como ejemplos el calentamiento global, los regímenes de comercio internacional, los peligros de las armas nucleares, los flujos migratorios de mano de obra y la elaboración de normas laborales dignas. Son problemas que solo pueden afrontarse de verdad si existe un diálogo multinacional.\nNuestras decisiones más básicas como consumidores o productores afectan el estándar de vida de otras personas que habitan otros países debido a la forma en que funciona la economía global. Por lo tanto, es irresponsable la indiferencia que mostramos sobre cómo nuestros actos inciden en la vida de otras personas. En este contexto, es fundamental la educación, pues ella debería proporcionarnos los elementos necesarios para desenvolvernos de manera eficaz en ese diálogo multinacional como \"ciudadanos del mundo\".\nSi en las escuelas y en las universidades no se ofrece una buena base para la cooperación internacional, lo más probable es que nuestras interacciones humanas se vean mediadas por normas tan variables como las del mercado, que conciben las vidas humanas principalmente como instrumentos para obtener ganancias. Por lo tanto, todas las instituciones educativas tienen una tarea importante y urgente: desarrollar en los estudiantes la capacidad de concebirse como integrantes de una nación heterogénea (como lo son todas las naciones modernas) y de un mundo incluso más heterogéneo, así como ayudar a los estudiantes a comprender, al menos en parte, la historia y las características de los diversos grupos que habitan el planeta.\nEste aspecto de la educación requiere más que una simple manifestación de principios como mostrar respeto por el otro o ser consciente del carácter diverso del mundo. Es necesario que se desplieguen una gran cantidad de conocimientos fácticos: se trata de conocimientos sobre los varios subgrupos étnicos, religiosos, nacionales, que conforman la propia nación, y sobre los logros, las luchas y los aportes de esos subgrupos, pero también acerca de sus tradiciones y costumbres. Por eso, es necesario procurar que, desde edades muy tempranas, los estudiantes aprendan a relacionarse con el mundo a través de una curiosidad respetuosa, que les permita entender tanto las diferencias que impiden la comprensión mutua entre naciones y grupos distintos como las necesidades y los intereses compartidos que inciden en esa misma comprensión para la resolución de problemas en común. El verdadero pensamiento crítico solo puede adquirir vigor si las escuelas nos proveen, desde niños, de esos conocimientos fácticos para formar ciudadanos que piensen cooperativamente, más allá de sus intereses y fronteras nacionales.\nQuizás es difícil imaginar que, en efecto, una escuela busque desarrollar dichos conocimientos; sobre todo, en un contexto en el que se prioriza \"producir\" futuros adultos que compitan entre sí en un mundo globalizado. Pero ¿no es acaso esperanzador pensar que sí es posible tener ese tipo de escuela?\nEn 1901, en una época en la que no existían las innumerables posibilidades de acceder a la información, el escritor Rabindranath Tagore inauguró una escuela primaria en la India en la que se enseñaba a los niños y a las niñas en qué consistían las distintas tradiciones étnicas y religiosas de su país y de otras naciones. En esta escuela, se celebraban festivales de amistad entre los hindúes, los cristianos y los musulmanes, y con frecuencia se organizaban distintos festejos religiosos en los que actuaban todos los estudiantes para aprender las costumbres de los demás. Se buscaba que la educación de los niños y las niñas se fundara inicialmente en las tradiciones locales, con un dominio sólido del idioma y las costumbres bengalíes, para luego expandir sus horizontes hacia el reconocimiento de tradiciones que no les eran propias.\nEjemplos como estos demuestran que se puede aprovechar la curiosidad natural de los niños y las niñas para contarles historias que sean acordes a su edad sobre las diversas tradiciones del mundo, pidiéndoles que describan sus prácticas y creencias, y fomentando el respeto por dichas tradiciones. En este sentido, los programas curriculares de educación básica podrían planificarse enfatizando el desarrollo de las competencias necesarias para que, desde las primeras etapas, los niños puedan valorar la diversidad del mundo, sus historias y culturas.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "Según el texto, ¿a qué se debe que nuestras acciones como consumidores o productores afecten el estándar de vida de otros?",
+                    "opciones": [
+                        "A la forma en que opera la economía global.",
+                        "A la falta de cooperación y diálogo multinacional.",
+                        "A las brechas de la geografía, el lenguaje y la nacionalidad."
+                    ],
+                    "respuesta": "A la forma en que opera la economía global.",
+                    "respuestaCorta": "El texto establece una relación directa: 'debido a la forma en que funciona la economía global'.",
+                    "solucionario": "En el segundo párrafo se afirma: 'Nuestras decisiones más básicas como consumidores o productores afectan el estándar de vida de otras personas... debido a la forma en que funciona la economía global'.",
+                    "seccion": "Comprensión Lectora"
+                },
+                {
+                    "pregunta": "¿Cuál de las siguientes afirmaciones es inconsistente con la postura de la autora del texto?",
+                    "opciones": [
+                        "El desarrollo del pensamiento crítico puede permitir que los ciudadanos actúen cooperativamente para la resolución de problemas en común.",
+                        "El reconocimiento del carácter heterogéneo de las naciones es insuficiente para que las personas se desenvuelvan eficazmente en el mundo.",
+                        "Las instituciones educativas deben centrarse en formar estudiantes capaces de competir entre sí en función de las demandas económicas."
+                    ],
+                    "respuesta": "Las instituciones educativas deben centrarse en formar estudiantes capaces de competir entre sí en función de las demandas económicas.",
+                    "respuestaCorta": "La autora critica la priorización de 'producir' adultos que compitan, abogando en cambio por el pensamiento cooperativo.",
+                    "solucionario": "El texto cuestiona el contexto en el que se prioriza 'producir futuros adultos que compitan entre sí'. La autora defiende una educación para la cooperación internacional y el entendimiento mutuo, no para la competencia económica, por lo que esta afirmación es inconsistente con su postura.",
+                    "seccion": "Comprensión Lectora"
+                },
+                {
+                    "pregunta": "¿Cuál es la finalidad principal de la autora al mencionar la escuela que se implementó en la India?",
+                    "opciones": [
+                        "Mostrar un caso en el que fue posible formar estudiantes promoviendo la idea de reconocer y respetar tradiciones que no les eran propias.",
+                        "Subrayar los resultados positivos de un tipo de enseñanza que se centró en reconocer y celebrar las costumbres y tradiciones de varios pueblos.",
+                        "Dejar en claro que una formación integral y sólida debe fomentar la convivencia entre personas que tienen distintas tradiciones religiosas."
+                    ],
+                    "respuesta": "Mostrar un caso en el que fue posible formar estudiantes promoviendo la idea de reconocer y respetar tradiciones que no les eran propias.",
+                    "respuestaCorta": "Se usa el ejemplo de Tagore para demostrar que es factible ('es posible tener ese tipo de escuela') educar en el respeto a otras tradiciones.",
+                    "solucionario": "La autora introduce el ejemplo con la pregunta '¿no es acaso esperanzador pensar que sí es posible tener ese tipo de escuela?', y luego describe cómo en esa escuela se enseñaban tradiciones propias y ajenas, demostrando la viabilidad de su propuesta.",
+                    "seccion": "Comprensión Lectora"
+                },
+                {
+                    "pregunta": "En el texto, la autora menciona que es necesario desarrollar diversos conocimientos fácticos en la escuela para que los estudiantes se conciban como integrantes de un mundo heterogéneo. ¿Cuál es uno de esos conocimientos?",
+                    "opciones": [
+                        "Conocimientos sobre los regímenes del comercio internacional.",
+                        "Conocimientos sobre los desafíos ambientales que afronta el mundo.",
+                        "Conocimientos sobre los diversos grupos étnicos que conforman las naciones."
+                    ],
+                    "respuesta": "Conocimientos sobre los diversos grupos étnicos que conforman las naciones.",
+                    "respuestaCorta": "El texto lista explícitamente conocimientos sobre 'subgrupos étnicos, religiosos, nacionales'.",
+                    "solucionario": "En el cuarto párrafo, la autora especifica: 'se trata de conocimientos sobre los varios subgrupos étnicos, religiosos, nacionales, que conforman la propia nación...'.",
+                    "seccion": "Comprensión Lectora"
+                },
+                {
+                    "pregunta": "¿Cuál de las siguientes alternativas expresa la idea principal del texto?",
+                    "opciones": [
+                        "La educación es fundamental para afrontar los problemas de alcance mundial, pues permite a las personas concebirse como integrantes de una nación y un mundo diversos.",
+                        "Los niños y las niñas muestran una curiosidad natural que debe ser aprovechada para fomentar el diálogo y el respeto por las distintas tradiciones del mundo.",
+                        "Las interacciones humanas están mediadas por normas como las del mercado, que consideran a las personas como instrumentos para generar ganancias."
+                    ],
+                    "respuesta": "La educación es fundamental para afrontar los problemas de alcance mundial, pues permite a las personas concebirse como integrantes de una nación y un mundo diversos.",
+                    "respuestaCorta": "Esta opción engloba la tesis central: la necesidad de una educación para la ciudadanía global y la cooperación.",
+                    "solucionario": "El texto argumenta que para resolver problemas globales se requiere cooperación, y que la educación es fundamental para crear 'ciudadanos del mundo' que comprendan la heterogeneidad y cooperen más allá de fronteras.",
+                    "seccion": "Comprensión Lectora"
+                }
+            ]
+        },
+        {
+            "idGrupo": "cl_primaria_2019_t5",
+            "contexto": "El litio es un metal alcalino blanco y muy liviano, empleado para almacenar energía. Si bien puede contribuir a la reducción del uso de combustibles perjudiciales para el ambiente, también es posible que ponga en riesgo a todo el ecosistema de las zonas de donde se extrae. Así lo ha hecho notar Borja Heredia, director de la Unidad de Aves de la Convención de las Especies Migratorias (CEM) de las Naciones Unidas, quien explica que la gran biodiversidad del altiplano peligra por la extracción de litio. Los flamencos son las aves más afectadas, debido a que, en épocas de calor, emigran hacia las lagunas y pantanos ubicados a 4000 metros de altura en el denominado \"triángulo de litio\", ubicado entre Argentina, Bolivia y Chile.\nDesde el descubrimiento de las minas de litio, los gobiernos de dichos países se enfrentan a una intrincada situación aún sin visos de solución en el corto plazo. Según acuerdos internacionales, la conservación de los hábitats de especies naturales, como el hábitat de los flamencos, debe ser una prioridad. No obstante, e incluso tomando en cuenta que la minería de litio es muy agresiva por los recursos hídricos que consume, no pueden perderse de vista los beneficios que genera, por ejemplo, en la producción de vidrio y cerámica, así como en la industria automotriz y de los fármacos. Así, urge que los países involucrados asuman el compromiso de proteger los hábitats naturales; sobre todo, si tenemos en cuenta que las salmueras (repositorios de agua con alta concentración de sal) de donde se obtiene el litio están rodeadas de acuíferos de agua dulce que constituyen un sistema hidrogeológico único en el mundo. En el proceso de extracción, se generan vacíos en la tierra que se llenan con el agua de los acuíferos aledaños que dan vida a las zonas que habitan los flamencos. El resultado es que la minería del litio lleva consigo consecuencias muy graves: por una parte, la gran cantidad de agua dulce que consume y, por otra, la gran concentración salina de la salmuera ya sin litio (10 veces mayor que la del agua de mar), que queda como residuo.\nHeredia no cuestiona que el litio, en la actualidad, sea fundamental para abordar la transición energética y frenar el cambio climático. Lo que solicita es que se investigue y se encuentren métodos para emplear menos agua dulce, y que la sobrante sea recuperable al final del proceso. El experto afirma que se necesitan investigaciones exhaustivas del sistema de acuíferos del altiplano. Hasta el momento, se extrapolan los resultados de una zona de extracción a las demás, algo inútil desde el punto de vista de Heredia, quien asevera que cada zona es única, y requiere estudios detallados y específicos. Además, se necesitan modelos matemáticos para predecir a largo plazo la longevidad de los yacimientos. El litio es un material no renovable, por lo que, si se extrae indiscriminadamente, en veinte años, se puede terminar con las reservas.\nAsimismo, Heredia destacó la necesidad de mejorar los mecanismos legales para reducir el impacto ambiental. Con esto, puede superarse la falta de rigor con la que los gobiernos enfrentan este problema y el hecho de que sean las propias empresas extractoras de litio las que financian los estudios de impacto ambiental. Lo cierto es que, \"aunque nadie se cuestione sobre la necesidad de abandonar los combustibles fósiles para frenar el cambio climático, la transición energética tampoco debe entenderse como un cheque en blanco para extraer el litio a costa de la biodiversidad de la zona\", afirma Heredia. De lo contrario, se corre el riesgo de esquilmar las reservas de litio y de arrasar con un ecosistema único en el mundo.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿A qué se refiere la autora del texto cuando afirma que los países del \"triángulo de litio\" se enfrentan a una intrincada situación?",
+                    "opciones": [
+                        "A que carecen de investigaciones sobre el litio que les permitan saber cómo abordar una adecuada transición energética.",
+                        "A que deben trabajar en la protección del hábitat de los flamencos y, a la vez, promover una extracción responsable de litio.",
+                        "A que necesitan un marco legal para evitar que las empresas extractoras de litio financien los estudios sobre impacto ambiental."
+                    ],
+                    "respuesta": "A que deben trabajar en la protección del hábitat de los flamencos y, a la vez, promover una extracción responsable de litio.",
+                    "respuestaCorta": "La situación 'intrincada' descrita es el conflicto entre la conservación (prioridad internacional) y los beneficios económicos de la extracción.",
+                    "solucionario": "El texto plantea el dilema entre la obligación de conservar los hábitats (acuerdos internacionales) y los beneficios económicos e industriales del litio. Equilibrar estos dos aspectos contrapuestos es lo que hace la situación intrincada.",
+                    "seccion": "Comprensión Lectora"
+                },
+                {
+                    "pregunta": "¿Cuál es la idea principal del primer párrafo del texto?",
+                    "opciones": [
+                        "El litio es un metal alcalino blanco, muy liviano, usado para almacenar energía.",
+                        "La extracción de litio en el altiplano hace peligrar la gran biodiversidad de esa zona.",
+                        "Los flamencos son las aves más afectadas en el altiplano a causa de la extracción de litio."
+                    ],
+                    "respuesta": "La extracción de litio en el altiplano hace peligrar la gran biodiversidad de esa zona.",
+                    "respuestaCorta": "El párrafo introduce el litio pero se centra rápidamente en la advertencia de Borja Heredia sobre el riesgo al ecosistema.",
+                    "solucionario": "Aunque el párrafo define el litio, su punto central es la advertencia de que su extracción pone en riesgo el ecosistema del altiplano y su biodiversidad, idea que se desarrolla con el ejemplo de los flamencos.",
+                    "seccion": "Comprensión Lectora"
+                },
+                {
+                    "pregunta": "Lea el siguiente fragmento del texto:\nLo cierto es que, \"aunque nadie se cuestione sobre la necesidad de abandonar los combustibles fósiles para frenar el cambio climático, la transición energética tampoco debe entenderse como un cheque en blanco para extraer el litio a costa de la biodiversidad de la zona\", afirma Heredia. De lo contrario, se corre el riesgo de esquilmar las reservas de litio y de arrasar con un ecosistema único en el mundo.\n¿Cuál de las siguientes palabras tiene el mismo sentido que \"esquilmar\" en este fragmento?",
+                    "opciones": [
+                        "Acabar",
+                        "Destruir",
+                        "Malgastar"
+                    ],
+                    "respuesta": "Acabar",
+                    "respuestaCorta": "En el contexto de reservas minerales no renovables, 'esquilmar' se refiere a agotar o acabar con el recurso.",
+                    "solucionario": "El texto dice 'se corre el riesgo de esquilmar las reservas de litio... y de arrasar con un ecosistema'. Dado que el litio se menciona antes como material no renovable que puede terminarse en 20 años, 'esquilmar' significa aquí agotar o acabar con las reservas.",
+                    "seccion": "Comprensión Lectora"
+                },
+                {
+                    "pregunta": "Una docente leyó el texto y comentó lo siguiente:\n\"Me parece que, hoy en día, no existe información imparcial sobre las graves consecuencias ambientales de la extracción de litio en el altiplano. Las investigaciones que se pueden consultar al respecto están sesgadas\".\n¿Cuál de las siguientes ideas del texto apoya el comentario de la docente?",
+                    "opciones": [
+                        "Borja Heredia solicita que se encuentren métodos para reducir la utilización de agua dulce en la extracción de litio.",
+                        "Las empresas dedicadas a la extracción de litio son aquellas que también financian los estudios de impacto ambiental.",
+                        "Es inútil extrapolar los resultados de la investigación de una zona de extracción de litio a otra, pues cada zona es única."
+                    ],
+                    "respuesta": "Las empresas dedicadas a la extracción de litio son aquellas que también financian los estudios de impacto ambiental.",
+                    "respuestaCorta": "El conflicto de interés mencionado (empresas financiando sus propios estudios) apoya la idea de falta de imparcialidad.",
+                    "solucionario": "El texto menciona explícitamente: 'el hecho de que sean las propias empresas extractoras de litio las que financian los estudios de impacto ambiental'. Esto sugiere un conflicto de intereses que apoya la idea de que la información podría estar sesgada y no ser imparcial.",
+                    "seccion": "Comprensión Lectora"
+                },
+                {
+                    "pregunta": "¿Cuál es el propósito principal del texto?",
+                    "opciones": [
+                        "Cuestionar a los gobiernos por su desinterés para proteger a las especies del altiplano.",
+                        "Explicar el procedimiento que se sigue para la extracción de litio en el altiplano.",
+                        "Dar a conocer los riesgos ecológicos que implica extraer litio en el altiplano."
+                    ],
+                    "respuesta": "Dar a conocer los riesgos ecológicos que implica extraer litio en el altiplano.",
+                    "respuestaCorta": "Todo el texto gira en torno a las consecuencias negativas (riesgos) de la extracción para el agua, flamencos y ecosistema.",
+                    "solucionario": "El texto se enfoca en exponer cómo la extracción de litio afecta al ecosistema, los acuíferos y la biodiversidad (flamencos), advirtiendo sobre las consecuencias ambientales negativas. Su fin es informar sobre estos riesgos.",
+                    "seccion": "Comprensión Lectora"
+                }
+            ]
+        }
+    ],
+    "Razonamiento Lógico": [
+        {
+            "idGrupo": "rl_primaria_2019_q26",
+            "contexto": "Cada año, los integrantes de un club de amigos llamado \"Bimbú\" eligen a su presidente siguiendo la regla que se presenta a continuación:\n\"El presidente debe ser alto y, además, gordo o calvo. Pero no debe tener estas dos últimas características a la vez\".",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál de las siguientes afirmaciones es correcta?",
+                    "opciones": [
+                        "Un bimbuense alto, gordo y calvo puede ser elegido presidente.",
+                        "Un bimbuense alto, delgado y calvo puede ser elegido presidente.",
+                        "Un bimbuense alto, delgado y melenudo puede ser elegido presidente."
+                    ],
+                    "respuesta": "Un bimbuense alto, delgado y calvo puede ser elegido presidente.",
+                    "respuestaCorta": "Cumple con ser alto y calvo, sin ser gordo (cumple la exclusión 'o gordo o calvo, pero no ambos').",
+                    "solucionario": "La regla exige: 1. Ser alto (obligatorio). 2. Ser gordo O calvo (disyunción exclusiva: uno u otro, no ambos). La opción 'alto, delgado y calvo' cumple: es alto, es calvo y no es gordo. La primera opción falla porque tiene las dos (gordo y calvo). La tercera falla porque no es ni gordo ni calvo.",
+                    "seccion": "Razonamiento Lógico"
+                }
+            ]
+        },
+        {
+            "idGrupo": "rl_primaria_2019_q27",
+            "contexto": "Ariana, Belén, Celeste, Dayana y Elisa van en sus respectivas bicicletas en una fila, una detrás de la otra, pero no necesariamente en ese orden. Además, se sabe lo siguiente:\n• Ariana va en algún lugar detrás de Belén, e inmediatamente delante de Celeste.\n• Elisa no va en primer lugar.\n• Dayana va en algún lugar delante de Celeste, pero inmediatamente detrás de Elisa.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál de las siguientes alternativas es verdadera?",
+                    "opciones": [
+                        "Belén va inmediatamente detrás de Elisa.",
+                        "Elisa va inmediatamente detrás de Celeste.",
+                        "Dayana va inmediatamente delante de Ariana."
+                    ],
+                    "respuesta": "Dayana va inmediatamente delante de Ariana.",
+                    "respuestaCorta": "El orden deducido es: Belén - Elisa - Dayana - Ariana - Celeste.",
+                    "solucionario": "1. 'Ariana... inmediatamente delante de Celeste': [A, C].\n2. 'Dayana... inmediatamente detrás de Elisa': [E, D].\n3. 'Dayana... delante de Celeste': [E, D] ... [C].\n4. Combinando con [A, C], el bloque podría ser [E, D, A, C] o [A, C] separado. Pero dice 'Ariana va detrás de Belén'.\n5. Si Elisa no va primero, y Belén está delante de Ariana, el orden lógico que cumple todo es: Belén (1), Elisa (2), Dayana (3), Ariana (4), Celeste (5). Dayana va inmediatamente delante de Ariana.",
+                    "seccion": "Razonamiento Lógico"
+                }
+            ]
+        },
+        {
+            "idGrupo": "rl_primaria_2019_q28",
+            "contexto": "Una encuesta sobre preferencias por el rock o la salsa fue aplicada a 200 estudiantes. Al contabilizar las respuestas, se encontró que 130 estudiantes indicaron que les gusta el rock y 80 estudiantes mencionaron que les gusta la salsa. Además, hubo 50 estudiantes que mencionaron que les gusta tanto el rock como la salsa.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿A cuántos estudiantes NO les gusta ninguno de los dos géneros musicales mencionados?",
+                    "opciones": [
+                        "40",
+                        "60",
+                        "150"
+                    ],
+                    "respuesta": "40",
+                    "respuestaCorta": "Total Unión = (Solo Rock) + (Solo Salsa) + (Ambos). 80 + 30 + 50 = 160. No gustan = 200 - 160 = 40.",
+                    "solucionario": "Total = 200. Rock (R) = 130. Salsa (S) = 80. R intersección S = 50.\nSolo Rock = 130 - 50 = 80.\nSolo Salsa = 80 - 50 = 30.\nUnión (Gustan de al menos uno) = 80 (solo R) + 30 (solo S) + 50 (ambos) = 160.\nNo les gusta ninguno = Total - Unión = 200 - 160 = 40.",
+                    "seccion": "Razonamiento Lógico"
+                }
+            ]
+        },
+        {
+            "idGrupo": "rl_primaria_2019_q29",
+            "contexto": "Jesús, Elías y Carlos llegan a una juguería, y cada uno pide un jugo diferente entre las siguientes opciones: fresa, papaya o surtido. Si se sabe que Carlos pidió jugo de papaya y Elías no pidió jugo de fresa.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál de los siguientes enunciados es correcto?",
+                    "opciones": [
+                        "Elías no pidió jugo surtido.",
+                        "Jesús no pidió jugo surtido.",
+                        "Jesús no pidió jugo de fresa."
+                    ],
+                    "respuesta": "Jesús no pidió jugo surtido.",
+                    "respuestaCorta": "Carlos: Papaya. Elías: No Fresa (entonces Surtido). Jesús: Fresa.",
+                    "solucionario": "1. Carlos = Papaya.\n2. Quedan Fresa y Surtido.\n3. Elías no pidió Fresa, por lo tanto, Elías = Surtido.\n4. Por descarte, Jesús = Fresa.\nAnalizando opciones: 'Jesús no pidió jugo surtido' es correcto (pidió fresa).",
+                    "seccion": "Razonamiento Lógico"
+                }
+            ]
+        },
+        {
+            "idGrupo": "rl_primaria_2019_q30",
+            "contexto": "Hugo, Abel y Luis respondieron tres preguntas con \"verdadero\" o \"falso\". Sus respuestas a las preguntas 1, 2 y 3 (en ese orden) se muestran a continuación:\n• Luis: verdadero, verdadero, falso.\n• Abel: falso, verdadero, verdadero.\n• Hugo: falso, falso, verdadero.\nSi se sabe que uno de ellos respondió correctamente todas las preguntas, otro se equivocó en todas y el restante solo se equivocó en una.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Quién de ellos respondió correctamente todas las preguntas?",
+                    "opciones": [
+                        "Luis",
+                        "Abel",
+                        "Hugo"
+                    ],
+                    "respuesta": "Hugo",
+                    "respuestaCorta": "Probando las opciones: Si Hugo (FFV) dice la verdad, Luis (VVF) falla todas (3 errores) y Abel (FVV) falla una (1 error). Cumple todas las condiciones.",
+                    "solucionario": "Analizamos la veracidad asumiendo quién respondió correctamente todo (quien dice la verdad en sus 3 respuestas).\n1. Si Hugo respondió todo bien, la clave correcta es F-F-V.\n2. Comparamos con Luis (V-V-F): P1(F vs V), P2(F vs V), P3(V vs F). Luis falla en las 3. Cumple la condición 'otro se equivocó en todas'.\n3. Comparamos con Abel (F-V-V): P1(F vs F - ok), P2(F vs V - mal), P3(V vs V - ok). Abel falla en 1. Cumple la condición 'el restante solo se equivocó en una'.\nPor lo tanto, Hugo es quien respondió correctamente todas.",
+                    "seccion": "Razonamiento Lógico"
+                }
+            ]
+        },
+        {
+            "idGrupo": "rl_primaria_2019_q31",
+            "contexto": "Roberto sufrió una intoxicación y se atendió en una clínica. El seguro médico que tenía asumió el 60% de todos los gastos que realizó. Si Roberto tuvo que pagar solo S/ 120.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál fue el costo total de la atención de Roberto en la clínica?",
+                    "opciones": [
+                        "S/ 180",
+                        "S/ 200",
+                        "S/ 300"
+                    ],
+                    "respuesta": "S/ 300",
+                    "respuestaCorta": "Si el seguro cubre 60%, Roberto paga el 40%. 40% = 120. Total = 120 / 0.40 = 300.",
+                    "solucionario": "El seguro paga el 60%, por lo que Roberto paga el 100% - 60% = 40%.\nSi el 40% del costo total (X) es 120 soles:\n0.40 * X = 120\nX = 120 / 0.40\nX = 300.",
+                    "seccion": "Razonamiento Lógico"
+                }
+            ]
+        },
+        {
+            "idGrupo": "rl_primaria_2019_q32",
+            "contexto": "Un grupo de turistas están planificando un recorrido por la ciudad a la que han llegado. Los lugares que pueden visitar son cinco: el museo, el mirador, el templo, la laguna y el mercado (en cualquier orden). Luego de ponerse de acuerdo, concluyeron lo siguiente:\n• Visitar el mirador después de ir al templo\n• Visitar el museo en el penúltimo lugar\n• Visitar el mercado después del mirador\n• Visitar la laguna antes que el mercado y después que el mirador",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "A partir de la información anterior, ¿cuál de las siguientes afirmaciones es correcta?",
+                    "opciones": [
+                        "Se visitará la laguna antes que el museo.",
+                        "El templo se visitará después que la laguna.",
+                        "El mercado se visitará antes que el museo."
+                    ],
+                    "respuesta": "Se visitará la laguna antes que el museo.",
+                    "respuestaCorta": "Orden: Templo -> Mirador -> Laguna -> Museo -> Mercado.",
+                    "solucionario": "Posiciones 1, 2, 3, 4, 5.\n1. Museo es penúltimo (4).\n2. Templo antes que Mirador (T < Mi).\n3. Mercado después de Mirador (Mi < Me).\n4. Laguna antes de Mercado y después de Mirador (Mi < L < Me).\nCombinando: T < Mi < L < Me.\nTenemos 4 lugares ordenados: T, Mi, L, Me. Y sabemos que Museo es 4.\nSi colocamos T(1), Mi(2), L(3), Museo(4), Me(5), se cumplen todas las condiciones.\nLa laguna (3) se visita antes que el museo (4).",
+                    "seccion": "Razonamiento Lógico"
+                }
+            ]
+        },
+        {
+            "idGrupo": "rl_primaria_2019_q33",
+            "contexto": "Cuatro parejas de hermanos, Antonio y Beatriz, Celia y Daniel, Edith y Fabio, y Gloria y Hans, se sientan alrededor de una mesa circular con ocho asientos distribuidos simétricamente. Si se sabe lo siguiente:\n• Los hermanos que conforman una pareja se sientan uno frente al otro.\n• Beatriz, Edith y Gloria no se sientan juntas.\n• Celia está sentada entre Antonio y Gloria.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Quién se sienta entre Daniel y Fabio?",
+                    "opciones": [
+                        "Hans",
+                        "Edith",
+                        "Beatriz"
+                    ],
+                    "respuesta": "Beatriz",
+                    "respuestaCorta": "Ordenando circularmente: Antonio(1), Celia(2), Gloria(3), Fabio(4), Beatriz(5), Daniel(6), Hans(7), Edith(8). Entre Daniel(6) y Fabio(4) está Beatriz(5).",
+                    "solucionario": "1. 'Celia entre Antonio y Gloria': Secuencia A-C-G. Asignamos asientos 1, 2, 3.\n2. Parejas al frente: Frente a A(1) está Beatriz(5). Frente a C(2) está Daniel(6). Frente a G(3) está Hans(7).\n3. Quedan asientos 4 y 8 para la pareja Edith-Fabio.\n4. Condición: 'Beatriz, Edith y Gloria no se sientan juntas'. En el arco G(3)... B(5), el asiento intermedio es el 4. Si Edith se sienta en el 4, estaría junto a Gloria y Beatriz. Por tanto, Edith NO va en el 4. Edith va en el 8.\n5. Entonces Fabio va en el 4.\n6. Configuración circular: A(1)-C(2)-G(3)-F(4)-B(5)-D(6)-H(7)-E(8).\n7. Pregunta: ¿Quién está entre Daniel (6) y Fabio (4)? El asiento intermedio es el 5, ocupado por Beatriz.",
+                    "seccion": "Razonamiento Lógico"
+                }
+            ]
+        },
+        {
+            "idGrupo": "rl_primaria_2019_q34",
+            "contexto": "Si se sabe lo siguiente:\n• Todos los conductores respetan las leyes de tránsito.\n• Toda persona que respeta las leyes de tránsito es una persona paciente.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál de las siguientes alternativas se puede inferir correctamente?",
+                    "opciones": [
+                        "Todo aquel que respeta las leyes de tránsito es un conductor.",
+                        "Todas las personas pacientes respetan las leyes de tránsito.",
+                        "Todo conductor es una persona paciente."
+                    ],
+                    "respuesta": "Todo conductor es una persona paciente.",
+                    "respuestaCorta": "Silogismo: A (Conductor) -> B (Respeta leyes). B -> C (Paciente). Por tanto, A -> C.",
+                    "solucionario": "Premisa 1: Conductor -> Respeta leyes.\nPremisa 2: Respeta leyes -> Paciente.\nConclusión lógica (transitividad): Conductor -> Paciente ('Todo conductor es una persona paciente').",
+                    "seccion": "Razonamiento Lógico"
+                }
+            ]
+        },
+        {
+            "idGrupo": "rl_primaria_2019_q35",
+            "contexto": "Un estudiante asiste a una exposición en la que se presenta una maqueta de la Ciudad del Vaticano. El estudiante desea saber qué relación guarda la maqueta con las medidas reales; entonces, pregunta por la altura de la basílica de San Pedro en la maqueta y le informan que tiene 70 cm. Si la altura real de la basílica es 140 m, ¿qué relación guardan las medidas de la maqueta con las medidas reales?",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Qué relación guardan las medidas de la maqueta con las medidas reales?",
+                    "opciones": [
+                        "Las medidas de la maqueta corresponden a la mitad de las medidas reales.",
+                        "Las medidas de la maqueta son 200 veces menores que las medidas reales.",
+                        "Las medidas de la maqueta son 2000 veces menores que las medidas reales."
+                    ],
+                    "respuesta": "Las medidas de la maqueta son 200 veces menores que las medidas reales.",
+                    "respuestaCorta": "140 m = 14000 cm. Relación: 14000 / 70 = 200.",
+                    "solucionario": "Convertimos la altura real a centímetros para comparar: 140 m = 14,000 cm.\nDividimos la altura real entre la altura de la maqueta: 14,000 / 70 = 200.\nLa maqueta es 200 veces más pequeña.",
+                    "seccion": "Razonamiento Lógico"
+                }
+            ]
+        },
+        {
+            "idGrupo": "rl_primaria_2019_q36",
+            "contexto": "En el restaurante \"Mi Perú\" cada cliente puede escoger o cebiche o rocoto relleno como plato de entrada. Cierto día, se registró una concurrencia de 14 mujeres más que varones. En esa oportunidad, se sirvieron 45 cebiches, 27 de los cuales fueron consumidos por varones. Además, se sabe que 31 mujeres pidieron rocoto relleno.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuántos comensales asistieron ese día al restaurante?",
+                    "opciones": [
+                        "84",
+                        "72",
+                        "49"
+                    ],
+                    "respuesta": "84",
+                    "respuestaCorta": "Cebiche Total: 45 (27 Varones, 18 Mujeres). Rocoto Mujeres: 31. Total Mujeres: 18+31=49. Varones = 49-14=35. Total = 49+35=84.",
+                    "solucionario": "1. Cebiche Total = 45. Cebiche Varones = 27. Entonces Cebiche Mujeres = 45 - 27 = 18.\n2. Rocoto Mujeres = 31.\n3. Total Mujeres = Cebiche Mujeres + Rocoto Mujeres = 18 + 31 = 49.\n4. Dato: Hay 14 mujeres más que varones. M = V + 14 -> 49 = V + 14 -> V = 35.\n5. Total Comensales = M + V = 49 + 35 = 84.",
+                    "seccion": "Razonamiento Lógico"
+                }
+            ]
+        },
+        {
+            "idGrupo": "rl_primaria_2019_q37",
+            "contexto": "Rita se propone formar un triángulo de 20 cm de lado empleando piezas triangulares de cartulina de 5 cm de lado. Para ello, se debe tener en cuenta lo siguiente:\n• Las piezas no pueden estar una sobre otra.\n• Las piezas no deben dejar espacios vacíos sin cubrir.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuántas piezas triangulares de cartulina necesitará para formar dicho triángulo?",
+                    "opciones": [
+                        "4",
+                        "10",
+                        "16"
+                    ],
+                    "respuesta": "16",
+                    "respuestaCorta": "Relación de lados = 20/5 = 4. La relación de áreas es el cuadrado de la relación de lados: 4^2 = 16.",
+                    "solucionario": "La cantidad de triángulos pequeños que caben en uno grande (semejante) es el cuadrado de la razón de sus lados.\nK = Lado Grande / Lado Pequeño = 20 / 5 = 4.\nNúmero de piezas = K^2 = 4^2 = 16.",
+                    "seccion": "Razonamiento Lógico"
+                }
+            ]
+        },
+        {
+            "idGrupo": "rl_primaria_2019_q38",
+            "contexto": "Pedro tiene un terreno de forma rectangular. Al inicio, él sembró zanahorias en la mitad del terreno y, además, tomates en 10 m². Semanas después, sembró ajíes en la mitad de la parte del terreno que aún faltaba sembrar y frejoles en los 6 m² restantes. Si de ese modo todo el terreno quedó sembrado.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuántos metros cuadrados utilizó Pedro para sembrar zanahorias?",
+                    "opciones": [
+                        "22 m²",
+                        "32 m²",
+                        "44 m²"
+                    ],
+                    "respuesta": "22 m²",
+                    "respuestaCorta": "Restante final (frejoles) = 6m². Eso era la mitad del resto previo. Resto previo = 12m². Tomates 10m². Mitad terreno = 12+10=22m². Zanahorias = 22m².",
+                    "solucionario": "Vamos de atrás hacia adelante:\n1. Frejoles = 6 m². Esto es la mitad de lo que faltaba. Entonces la parte de ajíes también es 6 m². El bloque 'ajíes + frejoles' = 12 m².\n2. Este bloque (12 m²) es lo que quedó después de sembrar tomates (10 m²) en la segunda mitad del terreno? No, dice 'sembró zanahorias en la mitad... y ADEMÁS tomates en 10m²'.\nInterpretación: (Mitad + 10) ya sembrado. Queda: (Mitad - 10).\nDe ese resto (Mitad - 10), sembró ajíes en la mitad y frejoles en el resto (6 m²).\nSi el resto final es 6, el bloque anterior era 12.\nEntonces (Mitad - 10) = 12.\nMitad = 22.\nZanahorias ocupan la 'mitad del terreno'. Por tanto, Zanahorias = 22 m².",
+                    "seccion": "Razonamiento Lógico"
+                }
+            ]
+        },
+        {
+            "idGrupo": "rl_primaria_2019_q39",
+            "contexto": "El trueque es una práctica común de intercambio de bienes entre dos comunidades. Se conoce que cinco gallinas se intercambian por dos cuyes y un conejo, y que tres gallinas se intercambian por un cuy y un conejo.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál de las siguientes alternativas corresponde a la cantidad de conejos que se intercambian por seis gallinas?",
+                    "opciones": [
+                        "3",
+                        "4",
+                        "6"
+                    ],
+                    "respuesta": "6",
+                    "respuestaCorta": "Resolviendo el sistema: 2G = 1 Cuy. Sustituyendo, resulta 1 Gallina = 1 Conejo. Por tanto, 6 Gallinas = 6 Conejos.",
+                    "solucionario": "Planteamos las ecuaciones:\n1) 5G = 2Cuy + 1Con\n2) 3G = 1Cuy + 1Con\nRestamos la ecuación 2 de la 1: 2G = 1Cuy.\nSustituimos el valor de 1Cuy (que vale 2G) en la ecuación 2:\n3G = (2G) + 1Con\nRestamos 2G a ambos lados: 1G = 1Con.\nEsto significa que una gallina tiene el mismo valor de intercambio que un conejo.\nPor lo tanto, por 6 gallinas se obtendrán 6 conejos.",
+                    "seccion": "Razonamiento Lógico"
+                }
+            ]
+        },
+        {
+            "idGrupo": "rl_primaria_2019_q40",
+            "contexto": "A partir de la proposición \"Todos los peruanos son patriotas\".",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál de los siguientes enunciados se puede inferir correctamente?",
+                    "opciones": [
+                        "Si Andrés es patriota entonces es peruano.",
+                        "Si Andrés no es patriota entonces no es peruano.",
+                        "Si Andrés no es peruano entonces no es patriota."
+                    ],
+                    "respuesta": "Si Andrés no es patriota entonces no es peruano.",
+                    "respuestaCorta": "Es la contrapositiva lógica: P -> Q equivale a No Q -> No P.",
+                    "solucionario": "La proposición es: Peruano -> Patriota.\nLa inferencia válida (contrapositiva) es: No Patriota -> No Peruano.\nLa opción 'Si Andrés no es patriota entonces no es peruano' corresponde a esta estructura.",
+                    "seccion": "Razonamiento Lógico"
+                }
+            ]
+        },
+        {
+            "idGrupo": "rl_primaria_2019_q41",
+            "contexto": "El municipio ha dictaminado que el nombre de los parques del distrito deberá estar compuesto por dos palabras. La primera palabra puede elegirse entre las opciones \"Parque\", \"Bosque\", \"Jardín\" y \"Huerto\"; mientras que la segunda palabra puede elegirse entre las opciones \"Jubiloso\", \"Hermoso\", \"Bello\" y \"Paraíso\". Si, además, las dos palabras que conforman el nombre deben empezar con una letra diferente.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuántos nombres distintos se puede dar a los parques de este distrito?",
+                    "opciones": [
+                        "7",
+                        "12",
+                        "16"
+                    ],
+                    "respuesta": "12",
+                    "respuestaCorta": "P1 (P, B, J, H). P2 (J, H, B, P). Pares prohibidos (misma inicial): Parque-Paraíso, Bosque-Bello, Jardín-Jubiloso, Huerto-Hermoso. Total 4x4=16 menos 4 = 12.",
+                    "solucionario": "Lista 1 (Iniciales): P, B, J, H.\nLista 2 (Iniciales): J, H, B, P.\nCombinaciones totales posibles: 4 x 4 = 16.\nRestricción: Letras iniciales diferentes.\nCombinaciones inválidas (misma letra):\n- Parque (P) - Paraíso (P)\n- Bosque (B) - Bello (B)\n- Jardín (J) - Jubiloso (J)\n- Huerto (H) - Hermoso (H)\nTotal inválidas = 4.\nTotal válidas = 16 - 4 = 12.",
+                    "seccion": "Razonamiento Lógico"
+                }
+            ]
+        },
+        {
+            "idGrupo": "rl_primaria_2019_q42",
+            "contexto": "Se han contabilizado las siguientes tardanzas de cuatro estudiantes:\nManuel: 4 tardanzas\nNoelia: 5 tardanzas\nElmer: 3 tardanzas\nSara: 2 tardanzas",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Quiénes tuvieron por lo menos cuatro tardanzas?",
+                    "opciones": [
+                        "Manuel y Noelia.",
+                        "Solo Manuel.",
+                        "Elmer y Sara."
+                    ],
+                    "respuesta": "Manuel y Noelia.",
+                    "respuestaCorta": "\"Por lo menos 4\" significa 4 o más. Manuel (4) y Noelia (5) cumplen.",
+                    "solucionario": "La condición es '>= 4'.\nManuel = 4 (Sí).\nNoelia = 5 (Sí).\nElmer = 3 (No).\nSara = 2 (No).\nRespuesta: Manuel y Noelia.",
+                    "seccion": "Razonamiento Lógico"
+                }
+            ]
+        },
+        {
+            "idGrupo": "rl_primaria_2019_q43",
+            "contexto": "En un mercado de productos alimenticios ocurre lo siguiente:\n• 45 kilogramos de azúcar cuestan igual que 30 kilogramos de arroz.\n• 12 kilogramos de arroz cuestan igual que 9 kilogramos de café.\n• 25 kilogramos de café cuestan 300 soles.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "Según estos datos, ¿cuál es el precio de un kilogramo de azúcar?",
+                    "opciones": [
+                        "S/ 6,00",
+                        "S/ 12,00",
+                        "S/ 13,50"
+                    ],
+                    "respuesta": "S/ 6,00",
+                    "respuestaCorta": "Café: 300/25 = 12 soles/kg. Arroz: 12kg*Arroz = 9*12 -> Arroz = 9 soles. Azúcar: 45*Azúcar = 30*9 -> 45Az = 270 -> Az = 6.",
+                    "solucionario": "1. Precio Café = 300 / 25 = 12 soles/kg.\n2. 12 kg Arroz = 9 kg Café -> 12 * P_arroz = 9 * 12 -> P_arroz = 9 soles/kg.\n3. 45 kg Azúcar = 30 kg Arroz -> 45 * P_azúcar = 30 * 9 -> 45 * P_azúcar = 270 -> P_azúcar = 270 / 45 = 6 soles/kg.",
+                    "seccion": "Razonamiento Lógico"
+                }
+            ]
+        },
+        {
+            "idGrupo": "rl_primaria_2019_q44",
+            "contexto": "En el quiosco de un campo deportivo venden dos tipos de bebidas: jugos (fresa, papaya, especial y surtido) y refrescos (chicha, maracuyá y limonada), que se pueden pedir en dos presentaciones: heladas o sin helar.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "Si se quiere comprar una bebida, ¿cuántos pedidos distintos se pueden realizar?",
+                    "opciones": [
+                        "24",
+                        "14",
+                        "7"
+                    ],
+                    "respuesta": "14",
+                    "respuestaCorta": "Total sabores = 4 jugos + 3 refrescos = 7. Presentaciones = 2. Total combinaciones = 7 * 2 = 14.",
+                    "solucionario": "Variedades de jugos: 4.\nVariedades de refrescos: 3.\nTotal de sabores base: 4 + 3 = 7.\nPresentaciones: 2 (Helada, Sin helar).\nPrincipio multiplicativo: 7 * 2 = 14 pedidos distintos.",
+                    "seccion": "Razonamiento Lógico"
+                }
+            ]
+        },
+        {
+            "idGrupo": "rl_primaria_2019_q45",
+            "contexto": "Para una fiesta de cumpleaños a la que asistirán 36 niños, María preparará dos tipos de postre: gelatina y flan. Ella tiene 3 sobres de gelatina que rinden 6 vasos cada uno y, para que todos los niños puedan comer uno de los postres, María debe comprar la cantidad suficiente de sobres de flan. Si cada sobre de flan rinde 4 vasos.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuántos sobres de flan debe comprar como mínimo?",
+                    "opciones": [
+                        "3 sobres.",
+                        "4 sobres.",
+                        "5 sobres."
+                    ],
+                    "respuesta": "5 sobres.",
+                    "respuestaCorta": "Gelatina: 3*6=18. Faltan 36-18=18 postres. Flan rinde 4. 18/4 = 4.5. Debe comprar 5 sobres.",
+                    "solucionario": "Total niños = 36.\nProducción Gelatina = 3 sobres * 6 vasos/sobre = 18 vasos.\nFaltante para cubrir a todos = 36 - 18 = 18 vasos (de flan).\nRendimiento sobre flan = 4 vasos.\nSobres necesarios = 18 / 4 = 4.5.\nComo no venden medios sobres, debe comprar 5 sobres (rinde 20 vasos, sobran 2).",
+                    "seccion": "Razonamiento Lógico"
+                }
+            ]
+        },
+        {
+            "idGrupo": "rl_primaria_2019_q46",
+            "contexto": "Carlos dibuja flechas, una a continuación de la otra: una horizontal a la derecha, una vertical hacia abajo, una horizontal a la derecha, una vertical hacia arriba, una horizontal a la derecha, una vertical hacia abajo, una horizontal a la derecha, una vertical hacia arriba, y así continúa siguiendo el patrón. Asimismo, en cada flecha escribe un número que indica la cantidad de flechas que va dibujando hasta ese momento, es decir, 1, 2, 3, 4, y así sucesivamente. Si ya ha dibujado 30 flechas.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "Cuando dibuje las tres flechas siguientes, ¿en qué posiciones se encontrarán?",
+                    "opciones": [
+                        "Horizontal a la derecha - vertical hacia abajo - horizontal a la derecha.",
+                        "Horizontal a la derecha - vertical hacia arriba - horizontal a la derecha.",
+                        "Vertical hacia abajo - horizontal a la derecha - vertical hacia arriba."
+                    ],
+                    "respuesta": "Horizontal a la derecha - vertical hacia arriba - horizontal a la derecha.",
+                    "respuestaCorta": "Patrón de 4: Der, Abajo, Der, Arriba. Flecha 30 (Residuo 2) es Abajo. Siguen 31(Der), 32(Arriba), 33(Der).",
+                    "solucionario": "La secuencia de direcciones se repite cada 4 flechas: Derecha, Abajo, Derecha, Arriba.\nPara saber qué toca, usamos el residuo de dividir la posición entre 4:\n- Flecha 30: 30 / 4 = 7 residuo 2. Corresponde a la 2da del patrón: 'Abajo'.\nLas siguientes tres son:\n- Flecha 31 (Residuo 3): Derecha.\n- Flecha 32 (Residuo 0): Arriba (fin del ciclo).\n- Flecha 33 (Residuo 1): Derecha (inicio nuevo ciclo).\nEl orden es: Derecha - Arriba - Derecha.",
+                    "seccion": "Razonamiento Lógico"
+                }
+            ]
+        },
+        {
+            "idGrupo": "rl_primaria_2019_q47",
+            "contexto": "En una agencia de empleos hay varios especialistas. Cada uno de ellos está certificado en un oficio diferente. Además de desempeñarse en el oficio en el que están certificados, también pueden desempeñarse en otros oficios. A continuación, se presentan los oficios en los que se desempeñan los especialistas:\nCamila: Albañilería y vigilancia.\nFidel: Albañilería, atención al cliente y logística.\nDarío: Atención al cliente.\nRaúl: Albañilería, cerrajería y vigilancia.\nZoe: Atención al cliente y logística.\nA partir de la información presentada, ¿quién es el especialista certificado en albañilería?",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Quién es el especialista certificado en albañilería?",
+                    "opciones": [
+                        "Camila",
+                        "Fidel",
+                        "Raúl"
+                    ],
+                    "respuesta": "Fidel",
+                    "respuestaCorta": "Descarte: Darío(At.Cliente), Zoe(Logística), Raúl(Cerrajería). A Fidel (Alb, At, Log) solo le queda certificarse en Albañilería.",
+                    "solucionario": "Analizamos los oficios para asignar el certificado único:\n1. Darío solo sabe 'Atención al cliente', así que debe estar certificado en eso.\n2. Zoe sabe 'Atención al cliente' y 'Logística'. Como Darío ya tiene el de At. Cliente, Zoe debe tener el de Logística.\n3. Raúl sabe Albañilería, Cerrajería y Vigilancia. Es el único que menciona 'Cerrajería', por lo que obligatoriamente su certificado es de Cerrajería.\n4. Fidel sabe Albañilería, At. Cliente y Logística. At. Cliente es de Darío, Logística es de Zoe. Solo le queda libre Albañilería.\n5. Camila sabe Albañilería y Vigilancia. Como Fidel tiene Albañilería, ella tendrá Vigilancia.\nConclusión: El especialista certificado en albañilería es Fidel.",
+                    "seccion": "Razonamiento Lógico"
+                }
+            ]
+        },
+        {
+            "idGrupo": "rl_primaria_2019_q48",
+            "contexto": "Andrés, Bruno, César y Daniel son cuatro hermanos de 6, 8, 10 y 12 años de edad (no necesariamente en ese orden) cuyos juegos de mesa preferidos son ajedrez, damas, dominó y jenga (no necesariamente en ese orden). Si se sabe lo siguiente:\n• El que prefiere jugar ajedrez tiene el doble de la edad de quien prefiere jugar damas.\n• Bruno es el hermano mayor.\n• El juego preferido de César es jenga.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Qué información adicional se necesitaría conocer para determinar la edad de cada hermano y cuál es su juego preferido?",
+                    "opciones": [
+                        "Daniel no es el hermano menor.",
+                        "El juego preferido de Daniel es dominó.",
+                        "Andrés es cuatro años menor que César."
+                    ],
+                    "respuesta": "Andrés es cuatro años menor que César.",
+                    "respuestaCorta": "Esta opción permite deducir que César tiene 10 años y Andrés 6, completando todas las edades y juegos.",
+                    "solucionario": "Sabemos: Bruno(12, Ajedrez), alguien de 6(Damas), César(Jenga, edad 8 o 10).\nAnalizamos la opción 'Andrés es cuatro años menor que César':\n- Si César tiene 8, Andrés tendría 4 (imposible, edades son 6,8,10,12).\n- Si César tiene 10, Andrés tiene 6.\nEsto encaja perfectamente: Andrés tiene 6 y juega Damas. César tiene 10 y juega Jenga. Por descarte, Daniel tiene 8 y juega Dominó.\nEsta información es suficiente y necesaria para determinar todas las edades y juegos.",
+                    "seccion": "Razonamiento Lógico"
+                }
+            ]
+        },
+        {
+            "idGrupo": "rl_primaria_2019_q49",
+            "contexto": "Mario tiene un jardín cuya superficie es de forma cuadrada y cada lado mide 2 m. En cierto momento, decide ampliar su jardín de tal manera que la superficie siga siendo de forma cuadrada pero cada lado mida 4 m.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿En qué porcentaje se habrá incrementado la nueva superficie del jardín respecto de la anterior?",
+                    "opciones": [
+                        "En 75%",
+                        "En 100%",
+                        "En 300%"
+                    ],
+                    "respuesta": "En 300%",
+                    "respuestaCorta": "Area1 = 4. Area2 = 16. Incremento = 12. 12 es el 300% de 4.",
+                    "solucionario": "Área inicial = 2^2 = 4 m².\nÁrea final = 4^2 = 16 m².\nIncremento = 16 - 4 = 12 m².\nPorcentaje de incremento = (Incremento / Inicial) * 100 = (12 / 4) * 100 = 3 * 100 = 300%.",
+                    "seccion": "Razonamiento Lógico"
+                }
+            ]
+        },
+        {
+            "idGrupo": "rl_primaria_2019_q50",
+            "contexto": "Jimena llevó 200 huevos al mercado para venderlos, pero el 10% de estos estaban malogrados y los restantes estaban en buen estado. Si solo pudo vender el 80% de los huevos que estaban en buen estado.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuántos huevos de los que llevó Jimena al mercado no se vendieron?",
+                    "opciones": [
+                        "36",
+                        "56",
+                        "60"
+                    ],
+                    "respuesta": "56",
+                    "respuestaCorta": "Malos: 20. Buenos: 180. Vendidos: 144. No vendidos = Total (200) - Vendidos (144) = 56.",
+                    "solucionario": "Total = 200.\nMalogrados = 10% de 200 = 20.\nBuenos = 200 - 20 = 180.\nVendidos = 80% de los buenos = 0.80 * 180 = 144.\nNo vendidos = Total llevados - Vendidos = 200 - 144 = 56. (También se puede calcular como: Malogrados (20) + Buenos no vendidos (20% de 180 = 36) = 20 + 36 = 56).",
+                    "seccion": "Razonamiento Lógico"
+                }
+            ]
+        }
+    ]
+}

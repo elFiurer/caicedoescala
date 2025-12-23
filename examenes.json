@@ -1377,5 +1377,19 @@
     "archivos": {
       "especifico": "data/cargos directivos/2022/cdirectivo_2022f3cyt.json"
     }
+  },
+  {
+    "id": 111,
+    "proceso": "Nombramiento",
+    "anio": 2019,
+    "nivel": "Primaria",
+    "especialidad": "Primaria",
+    "modalidad": "EBR",
+    "preguntas": 90,
+    "tiempo": 225,
+    "archivos": {
+      "generico": "data/nombramiento/generico/generico_ebr_2019.json",
+      "especifico": "data/nombramiento/primaria/2019/nomprimaria_2019.json"
+    }
   }
 ]
