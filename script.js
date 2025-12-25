@@ -403,16 +403,14 @@ document.addEventListener('DOMContentLoaded', () => {
         }).catch((error) => console.error("Error al cerrar sesión:", error));
     };
 
-    // 👇 REEMPLAZA TU FUNCIÓN setupUI COMPLETA CON ESTA VERSIÓN MEJORADA 👇
-    // ▼▼▼ REEMPLAZA TU FUNCIÓN setupUI COMPLETA CON ESTA VERSIÓN ▼▼▼
     // ======================================================================
-    // == CÓDIGO FINAL Y VERIFICADO PARA REEMPLAZAR LA FUNCIÓN setupUI =====
+    // == VERSIÓN LIMPIA Y CORREGIDA DE setupUI (SIN DUPLICADOS)        =====
     // ======================================================================
     const setupUI = (user) => {
         const mainNav = document.querySelector('.main-nav');
         if (!mainNav) return;
 
-        // --- Limpiamos el estado anterior para evitar duplicados ---
+        // 1. Limpiamos elementos antiguos para evitar duplicados visuales
         const oldLoginBtn = document.getElementById('login-btn');
         if (oldLoginBtn) oldLoginBtn.remove();
 
@@ -428,7 +426,29 @@ document.addEventListener('DOMContentLoaded', () => {
             if (oldDashboardLink) oldDashboardLink.remove();
         }
 
-        // --- Configuramos la UI según si el usuario existe o no ---
+        // 2. Configuramos el botón principal (CTA)
+        const ctaBtn = document.getElementById('cta-btn');
+        // Clonamos el botón para eliminar cualquier evento 'click' antiguo (como el que abría el modal)
+        if (ctaBtn) {
+            const ctaBtnLimpio = ctaBtn.cloneNode(true);
+            ctaBtn.parentNode.replaceChild(ctaBtnLimpio, ctaBtn);
+            
+            if (user) {
+                // Si hay usuario: Botón lleva a exámenes
+                ctaBtnLimpio.innerText = "Ir a mis exámenes";
+                ctaBtnLimpio.addEventListener('click', () => {
+                    window.location.href = 'examenes.html';
+                });
+            } else {
+                // Si NO hay usuario: Botón REDIRIGE a la web principal (SEGURIDAD)
+                ctaBtnLimpio.innerText = "Inicia Sesión para Practicar"; 
+                ctaBtnLimpio.addEventListener('click', () => {
+                    window.location.href = 'https://elprofecaicedo.com';
+                });
+            }
+        }
+
+        // 3. Configuramos la barra de navegación (Perfil / Logout)
         if (user) {
             // --- SI HAY USUARIO ---
             const nombrePrincipal = user.displayName || user.email;
@@ -437,58 +457,27 @@ document.addEventListener('DOMContentLoaded', () => {
             const userProfile = document.createElement('div');
             userProfile.classList.add('user-profile');
             userProfile.innerHTML = `
-            <img src="${user.photoURL || 'default-avatar.png'}" alt="${nombrePrincipal}" class="profile-pic">
-            <span class="profile-name">${nombreCorto}</span>
-        `;
+                <img src="${user.photoURL || 'default-avatar.png'}" alt="${nombrePrincipal}" class="profile-pic">
+                <span class="profile-name">${nombreCorto}</span>
+            `;
             mainNav.appendChild(userProfile);
 
             if (navLinksMenu) {
-                // --- INICIO: CÓDIGO AÑADIDO CUIDADOSAMENTE ---
-                // Creamos y añadimos el botón para volver al Dashboard
+                // Botón volver al Dashboard
                 const dashboardLi = document.createElement('li');
                 dashboardLi.classList.add('dashboard-link-li');
                 dashboardLi.innerHTML = `<a href="https://elprofecaicedo.com/dashboard.html" class="dashboard-button">Volver al Inicio</a>`;
                 navLinksMenu.prepend(dashboardLi);
-                // --- FIN: CÓDIGO AÑADIDO ---
 
-                // Crea y añade el botón de Cerrar Sesión (lógica original)
+                // Botón Cerrar Sesión
                 const logoutLi = document.createElement('li');
                 logoutLi.classList.add('logout-link');
                 logoutLi.innerHTML = `<button class="btn-logout" id="logout-btn">Cerrar Sesión</button>`;
                 navLinksMenu.appendChild(logoutLi);
                 document.getElementById('logout-btn').addEventListener('click', logout);
             }
-
-        } else {
-            // --- SI NO HAY USUARIO ---
-            // (Esta parte es de tu código original, no se toca)
-            const ctaBtn = document.getElementById('cta-btn');
-            if (ctaBtn) {
-                ctaBtn.innerText = "Empieza a Practicar Gratis";
-                ctaBtn.addEventListener('click', () => {
-                    openModal();
-                });
-            }
-        }
-
-        // Lógica del botón CTA que ya tenías (se mantiene igual)
-        const ctaBtn = document.getElementById('cta-btn');
-        if (ctaBtn) {
-            const ctaBtnLimpio = ctaBtn.cloneNode(true);
-            ctaBtn.parentNode.replaceChild(ctaBtnLimpio, ctaBtn);
-
-            if (user) {
-                ctaBtnLimpio.innerText = "Ir a mis exámenes";
-                ctaBtnLimpio.addEventListener('click', () => {
-                    window.location.href = 'examenes.html';
-                });
-            } else {
-                ctaBtnLimpio.innerText = "Empieza a Practicar Gratis";
-                ctaBtnLimpio.addEventListener('click', () => {
-                    openModal();
-                });
-            }
-        }
+        } 
+        // Nota: Si no hay usuario, no hacemos nada más en la nav, ya está limpia.
     };
 
     // --- FUNCIÓN PARA ABRIR EL MODAL (Asegúrate de que esté disponible) ---
@@ -530,30 +519,15 @@ document.addEventListener('DOMContentLoaded', () => {
 
         if (googleLoginBtn) {
             googleLoginBtn.addEventListener('click', () => {
-                console.log("🖱️ Clic en 'Continuar con Google' detectado.");
-                try {
-                    console.log("🚀 Intentando llamar a Firebase...");
-                    auth.signInWithPopup(googleProvider)
-                        .then((result) => {
-                            console.log("✅ ÉXITO: Usuario autenticado:", result.user.displayName);
-                            closeModal();
-                        })
-                        .catch((error) => {
-                            console.error("❌ ERROR de Firebase al intentar abrir el pop-up:", error);
-                            alert("ERROR: No se pudo iniciar sesión. Revisa la consola (F12) para ver los detalles. Puede ser un pop-up bloqueado o un problema de configuración de Firebase.");
-                        });
-                } catch (e) {
-                    console.error("❌ ERROR CATASTRÓFICO: El objeto 'auth' de Firebase no funciona.", e);
-                    alert("Error grave en el script. Revisa la consola (F12).");
-                }
+                console.warn("🔒 Intento de registro local bloqueado.");
+                // Si alguien logra hacer clic aquí, lo mandamos al login oficial
+                window.location.href = 'https://elprofecaicedo.com';
             });
         }
 
         if (facebookLoginBtn) {
             facebookLoginBtn.addEventListener('click', () => {
-                console.log("🖱️ Clic en 'Continuar con Facebook' detectado.");
-                closeModal();
-                auth.signInWithPopup(facebookProvider).catch(err => console.error(err));
+                window.location.href = 'https://elprofecaicedo.com';
             });
         }
     }
@@ -1570,11 +1544,13 @@ document.addEventListener('DOMContentLoaded', () => {
                     if (!auth.currentUser) {
                         event.preventDefault(); // Detenemos la navegación
 
-                        // LLAMAMOS AL AVISO SIMPLE, y al aceptar, ABRIMOS EL MODAL DE LOGIN
                         showAuthAlert(
                             'Acceso Restringido',
-                            'Debes iniciar sesión para acceder a esta sección.',
-                            () => { openModal(); } // Esta es la acción personalizada
+                            'Debes iniciar sesión en el portal principal para acceder aquí.',
+                            () => {
+                                // AL ACEPTAR, LO MANDAMOS FUERA
+                                window.location.href = 'https://elprofecaicedo.com';
+                            }
                         );
                     }
                 });
