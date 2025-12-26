@@ -1,0 +1,645 @@
+{
+    "Conocimientos Pedagógicos": [
+        {
+            "idGrupo": "cp_ciencia_2019_p51_52",
+            "contexto": "Un equipo de estudiantes, con la orientación de la docente, ha propuesto el siguiente plan de indagación:\n\n1. Conseguir tres cucharas de la misma forma y tamaño, pero de diferente material (metal, madera y plástico); mantequilla; un recipiente resistente al calor; agua caliente; y un termómetro\n2. Verter 500 mL de agua caliente (40 °C aprox.) en el recipiente\n3. Colocar mantequilla en cada cuchara y luego poner en contacto el mango de cada una con el agua caliente del recipiente al mismo tiempo, como se muestra en la siguiente imagen:\n\n4. Medir el tiempo que demora en derretirse totalmente la mantequilla en cada cuchara y registrar lo observado durante el proceso",
+            "imagen": "img/ciencia_2019_p51.png",
+            "preguntas": [
+                {
+                    "pregunta": "La docente ha identificado logros y un aspecto que los estudiantes aún deben corregir en su plan de indagación. ¿Cuál de las siguientes preguntas es pertinente que la docente plantee para que los estudiantes mejoren ese aspecto?",
+                    "opciones": [
+                        "¿Con qué propósito van a utilizar cucharas de diferente material?",
+                        "¿Qué otra variable es importante que controlen en su indagación?",
+                        "¿Por qué han decidido emplear un solo recipiente para las tres cucharas?"
+                    ],
+                    "respuesta": "¿Qué otra variable es importante que controlen en su indagación?",
+                    "respuestaCorta": "Identificación de variables de control faltantes (cantidad de mantequilla).",
+                    "solucionario": "En una indagación experimental comparativa, es crucial controlar todas las variables intervinientes excepto la independiente. El plan menciona colocar mantequilla, pero no especifica que la cantidad debe ser idéntica en todas las cucharas, lo cual es fundamental para comparar los tiempos de fusión objetivamente. La pregunta B orienta a los estudiantes a notar esta omisión.",
+                    "seccion": "Conocimientos Pedagógicos de la Especialidad"
+                },
+                {
+                    "pregunta": "¿Cuál de las siguientes hipótesis es coherente con el plan de indagación propuesto por los estudiantes?",
+                    "opciones": [
+                        "Si se coloca más mantequilla en las cucharas, esta demorará más en derretirse porque necesitará absorber más calor.",
+                        "Si se incrementa la temperatura del agua, la mantequilla en las cucharas se derretirá en menos tiempo porque recibirá más calor.",
+                        "La mantequilla en la cuchara de metal se derretirá en menos tiempo que en las otras cucharas porque el metal transmite mejor el calor."
+                    ],
+                    "respuesta": "La mantequilla en la cuchara de metal se derretirá en menos tiempo que en las otras cucharas porque el metal transmite mejor el calor.",
+                    "respuestaCorta": "Hipótesis que relaciona la variable independiente (material) con la dependiente (tiempo de fusión).",
+                    "solucionario": "La hipótesis debe establecer una relación de causalidad tentativa entre la variable independiente (tipo de material de la cuchara) y la variable dependiente (tiempo en derretirse la mantequilla). La opción C es la única que vincula directamente el material (metal) con el resultado esperado basándose en la conductividad térmica.",
+                    "seccion": "Conocimientos Pedagógicos de la Especialidad"
+                }
+            ]
+        },
+        {
+            "idGrupo": "cp_ciencia_2019_p53",
+            "contexto": null,
+            "imagen": "img/ciencia_2019_p53.png",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál de los siguientes gráficos representa correctamente los cambios de temperatura que experimenta el agua en estado sólido desde -5 °C hasta que alcanza la temperatura del ambiente (20 °C), a 1 atm de presión?",
+                    "opciones": [
+                        "Gráfico a",
+                        "Gráfico b",
+                        "Gráfico c"
+                    ],
+                    "respuesta": "Gráfico c",
+                    "respuestaCorta": "Curva de calentamiento del agua con cambio de fase.",
+                    "solucionario": "El proceso físico implica calentar hielo de -5 °C a 0 °C (aumento de temperatura), luego una fusión a 0 °C (temperatura constante o meseta mientras cambia de fase de sólido a líquido) y finalmente el calentamiento del agua líquida de 0 °C a 20 °C (aumento de temperatura). El gráfico C es el único que muestra la meseta característica del cambio de estado.",
+                    "seccion": "Conocimientos Pedagógicos de la Especialidad"
+                }
+            ]
+        },
+        {
+            "idGrupo": "cp_ciencia_2019_p54_57",
+            "contexto": "Un equipo de estudiantes está interesado en indagar sobre uno de los factores que influyen en la velocidad de las reacciones químicas. Para ello, con orientación del docente, han diseñado el siguiente plan de indagación:\n\n1. Conseguir agua destilada, tres pastillas de antiácido de 2 g cada una, tres vasos de precipitados, cronómetro, cuchilla, termómetro, mortero y pilón\n2. Preparar las siguientes muestras:\n• Muestra a: pastilla dividida en 4 partes\n• Muestra b: pastilla triturada\n• Muestra c: pastilla entera\n3. Verter la misma cantidad de agua a temperatura ambiente en los tres vasos de precipitados y etiquetarlos\n4. Colocar cada muestra preparada en un vaso distinto\n5. Observar y registrar el momento en el que termina la reacción en la tabla de datos.\n\nLa reacción que se lleva a cabo se representa mediante la siguiente ecuación:\n$$C_{6}H_{8}O_{7(ac)} + NaHCO_{3(ac)} \\rightarrow CO_{2(g)} + H_{2}O_{(l)} + NaC_{6}H_{7}O_{7(ac)}$$",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál de las siguientes es la variable independiente del plan de indagación propuesto por los estudiantes?",
+                    "opciones": [
+                        "La cantidad de agua.",
+                        "La masa final de la pastilla de antiácido.",
+                        "El área superficial de la pastilla de antiácido."
+                    ],
+                    "respuesta": "El área superficial de la pastilla de antiácido.",
+                    "respuestaCorta": "Identificación de la variable manipulada.",
+                    "solucionario": "La variable independiente es aquella que el investigador manipula intencionalmente para observar su efecto. En este caso, los estudiantes modifican el estado de la pastilla (entera, dividida, triturada), lo cual altera el área superficial de contacto disponible para la reacción.",
+                    "seccion": "Conocimientos Pedagógicos de la Especialidad"
+                },
+                {
+                    "pregunta": "¿Cuál de las siguientes es una variable control del plan de indagación propuesto por los estudiantes?",
+                    "opciones": [
+                        "El tiempo de reacción.",
+                        "La masa inicial de la pastilla de antiácido.",
+                        "El área superficial de la pastilla de antiácido."
+                    ],
+                    "respuesta": "La masa inicial de la pastilla de antiácido.",
+                    "respuestaCorta": "Identificación de variables constantes.",
+                    "solucionario": "Las variables de control son aquellas que se mantienen constantes para asegurar que los cambios en la variable dependiente se deban solo a la independiente. El plan especifica usar \"tres pastillas de 2 g cada una\", manteniendo constante la masa inicial.",
+                    "seccion": "Conocimientos Pedagógicos de la Especialidad"
+                },
+                {
+                    "pregunta": "Los estudiantes han identificado que una limitación de su indagación es la determinación del momento en el que termina la reacción. ¿Cuál de las siguientes propuestas permitirá medir con mayor precisión el fin de la reacción?",
+                    "opciones": [
+                        "Realizar la reacción en botellas pequeñas y colocar globos en los picos de las botellas inmediatamente después de agregar la pastilla de antiácido.",
+                        "Colocar lunas de reloj sobre los vasos de precipitados inmediatamente después de agregar la pastilla de antiácido.",
+                        "Escuchar la efervescencia del gas producido inmediatamente después de agregar la pastilla de antiácido."
+                    ],
+                    "respuesta": "Realizar la reacción en botellas pequeñas y colocar globos en los picos de las botellas inmediatamente después de agregar la pastilla de antiácido.",
+                    "respuestaCorta": "Mejora del método de medición de la variable dependiente.",
+                    "solucionario": "La reacción produce gas ($CO_2$). Determinar el fin de la reacción visualmente (burbujeo) o auditivamente es subjetivo e impreciso. Usar un globo permite visualizar el volumen de gas generado; cuando el globo deja de inflarse, la reacción ha terminado, ofreciendo un criterio visual más objetivo y preciso.",
+                    "seccion": "Conocimientos Pedagógicos de la Especialidad"
+                },
+                {
+                    "pregunta": "El docente ha identificado aspectos que los estudiantes aún deben mejorar en su plan de indagación. ¿Qué grupo de preguntas es pertinente que plantee el docente para retroalimentar a los estudiantes sobre estos aspectos?",
+                    "opciones": [
+                        "¿En qué rango de tiempo se llevará a cabo cada reacción? ¿En cuál de los ensayos ocurrirá más rápido la reacción?",
+                        "¿Qué sucederá si emplean otro tipo de antiácido? ¿Cómo cambiará la velocidad de la reacción si disminuyen la temperatura?",
+                        "¿Cuáles son las posibles fuentes de error de su indagación y cómo pueden reducirlas? ¿Cómo pueden evaluar la confiabilidad de sus resultados?"
+                    ],
+                    "respuesta": "¿Cuáles son las posibles fuentes de error de su indagación y cómo pueden reducirlas? ¿Cómo pueden evaluar la confiabilidad de sus resultados?",
+                    "respuestaCorta": "Retroalimentación sobre rigor científico y confiabilidad.",
+                    "solucionario": "Para mejorar la calidad científica de la indagación, es fundamental reflexionar sobre la validez y confiabilidad. Las preguntas de la opción C orientan a los estudiantes a pensar en errores experimentales (como la pérdida de gas o imprecisión en el tiempo) y en la necesidad de repeticiones para asegurar la confiabilidad, aspectos críticos en el diseño experimental.",
+                    "seccion": "Conocimientos Pedagógicos de la Especialidad"
+                }
+            ]
+        },
+        {
+            "idGrupo": "cp_ciencia_2019_p58",
+            "contexto": null,
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "Las reacciones ácido-base suelen ser reacciones exotérmicas. ¿Por qué se libera energía en estas reacciones cuando se llevan a cabo a presión constante?",
+                    "opciones": [
+                        "Porque se rompen enlaces en las sustancias que reaccionan.",
+                        "Porque las sustancias que se producen tienen una alta energía cinética.",
+                        "Porque la energía que se requiere para romper enlaces en los reactivos es menor que la que se libera en la formación de los productos."
+                    ],
+                    "respuesta": "Porque la energía que se requiere para romper enlaces en los reactivos es menor que la que se libera en la formación de los productos.",
+                    "respuestaCorta": "Fundamento energético de reacciones exotérmicas.",
+                    "solucionario": "En una reacción química, romper enlaces requiere energía (endotérmico) y formar nuevos enlaces libera energía (exotérmico). Una reacción neta es exotérmica si la energía liberada al formar los enlaces de los productos es mayor que la energía invertida para romper los enlaces de los reactivos.",
+                    "seccion": "Conocimientos Pedagógicos de la Especialidad"
+                }
+            ]
+        },
+        {
+            "idGrupo": "cp_ciencia_2019_p59",
+            "contexto": "Durante una sesión de aprendizaje sobre cómo actúan los catalizadores en los procesos biológicos, un equipo de estudiantes plantea la siguiente pregunta de indagación:\n¿Cómo influye la cantidad de catalizador en la velocidad de una reacción química?",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál de los siguientes aprendizajes evidencia el equipo de estudiantes?",
+                    "opciones": [
+                        "Proponen un problema que pueden indagar.",
+                        "Establecen relaciones causales entre dos variables.",
+                        "Identifican las variables dependiente e independiente que van a indagar."
+                    ],
+                    "respuesta": "Establecen relaciones causales entre dos variables.",
+                    "respuestaCorta": "Formulación de preguntas que relacionan variables.",
+                    "solucionario": "La pregunta planteada estructura explícitamente una relación de causa-efecto (\"Cómo influye X en Y\"), vinculando una variable independiente (cantidad de catalizador) con una dependiente (velocidad de reacción). Esto evidencia la capacidad de establecer relaciones causales.",
+                    "seccion": "Conocimientos Pedagógicos de la Especialidad"
+                }
+            ]
+        },
+        {
+            "idGrupo": "cp_ciencia_2019_p60_61",
+            "contexto": "El año 2019 ha sido declarado como el \"Año Internacional de la Tabla Periódica de los Elementos Químicos\" por las Naciones Unidas. La tabla periódica es una herramienta muy útil para la identificación de tendencias en las propiedades fisicoquímicas de los elementos. En cada recuadro de esta tabla, se encuentra información del símbolo del elemento, su nombre, su número atómico y su masa. Por ejemplo, para el litio, se cuenta con la siguiente información:\n\n3\nLi\nLitio\n6,941",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "A partir de esta información, ¿cuál de las siguientes afirmaciones sobre el litio es correcta?",
+                    "opciones": [
+                        "Un átomo de litio tiene una masa de 6,941 g.",
+                        "Tres átomos de litio suman una masa de 6,941 g.",
+                        "Un mol de átomos de litio tiene una masa de 6,941 g."
+                    ],
+                    "respuesta": "Un mol de átomos de litio tiene una masa de 6,941 g.",
+                    "respuestaCorta": "Concepto de masa molar.",
+                    "solucionario": "El valor de la masa atómica que aparece en la tabla periódica (6,941) representa la masa atómica promedio en unidades de masa atómica (u) para un átomo, o numéricamente igual, la masa en gramos de un mol de átomos (masa molar). Por tanto, 1 mol de Li pesa 6,941 g.",
+                    "seccion": "Conocimientos Pedagógicos de la Especialidad"
+                },
+                {
+                    "pregunta": "La masa que se muestra en la tabla periódica para el litio corresponde al promedio de las masas de los isótopos de este elemento, considerando la abundancia natural de cada isótopo. El litio tiene dos isótopos naturales, Li-6 y Li-7. El más pesado es el más abundante (92,41%). ¿En cuál de las siguientes alternativas se emplea correctamente el concepto de abundancia isotópica para el caso del litio?",
+                    "opciones": [
+                        "En 100 g de litio, hay 92,41 g de Li-7.",
+                        "En 10 000 átomos de litio, hay 9241 átomos de Li-7.",
+                        "En un mol de átomos de litio, hay 0,5 moles de Li-6 y 0,5 moles de Li-7."
+                    ],
+                    "respuesta": "En 10 000 átomos de litio, hay 9241 átomos de Li-7.",
+                    "respuestaCorta": "Definición de abundancia isotópica.",
+                    "solucionario": "La abundancia isotópica se refiere al porcentaje en número de átomos de un isótopo particular en una muestra natural del elemento. Si la abundancia es 92,41%, significa que de cada 100 átomos, 92,41 son de Li-7 (o proporcionalmente, de 10,000 átomos, 9241 son Li-7).",
+                    "seccion": "Conocimientos Pedagógicos de la Especialidad"
+                }
+            ]
+        },
+        {
+            "idGrupo": "cp_ciencia_2019_p62",
+            "contexto": null,
+            "imagen": "img/ciencia_2019_p62.png",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál de los siguientes modelos representa mejor al átomo de litio de acuerdo con la actual teoría atómica?",
+                    "opciones": [
+                        "Modelo a",
+                        "Modelo b",
+                        "Modelo c"
+                    ],
+                    "respuesta": "Modelo c",
+                    "respuestaCorta": "Modelo atómico mecánico-cuántico.",
+                    "solucionario": "La teoría atómica actual (mecánica cuántica) describe a los electrones no en órbitas fijas definidas, sino en zonas de probabilidad llamadas orbitales o nubes electrónicas. La imagen C representa esta densidad de probabilidad electrónica (\"nube\"), a diferencia de A y B que muestran órbitas planetarias definidas.",
+                    "seccion": "Conocimientos Pedagógicos de la Especialidad"
+                }
+            ]
+        },
+        {
+            "idGrupo": "cp_ciencia_2019_p63",
+            "contexto": "Luego de trabajar con los estudiantes en la comprensión de la estructura del átomo y su relación con las propiedades periódicas de los elementos, una docente propone la siguiente actividad de evaluación:\n\nConsideren una sustancia que, en su forma elemental, a temperatura ambiente y presión atmosférica normal, es un gas de color amarillo formado por moléculas diatómicas. Con base en esta información, sustenten cuáles son las propiedades fisicoquímicas de los átomos que componen dicha sustancia.\n\nUna estudiante presenta la siguiente respuesta a la docente:\n\"Yo creo que debe tratarse de un no-metal porque es un gas. Los metales, en cambio, son sólidos a temperatura ambiente. Además, debe ser un gas noble que tiene átomos amarillos y gaseosos, porque todos los elementos de este grupo se encuentran en estado gaseoso.\"",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál de los siguientes aprendizajes se evidencia en la respuesta de la estudiante?",
+                    "opciones": [
+                        "Identifica algunas propiedades macroscópicas de metales y no metales.",
+                        "Describe las principales propiedades fisicoquímicas de los gases nobles.",
+                        "Diferencia propiedades del nivel macroscópico de las del nivel atómico o molecular."
+                    ],
+                    "respuesta": "Identifica algunas propiedades macroscópicas de metales y no metales.",
+                    "respuestaCorta": "Identificación de propiedades macroscópicas generales.",
+                    "solucionario": "La estudiante logra asociar correctamente el estado físico (gas) con los no metales y el estado sólido con los metales, lo cual es una identificación correcta de propiedades macroscópicas generales. Sin embargo, muestra errores conceptuales al atribuir color a los átomos individuales y clasificarlo erróneamente como gas noble (que son monoatómicos, no diatómicos), por lo que no evidencia los otros aprendizajes.",
+                    "seccion": "Conocimientos Pedagógicos de la Especialidad"
+                }
+            ]
+        },
+        {
+            "idGrupo": "cp_ciencia_2019_p64",
+            "contexto": "Durante el inicio de una sesión de aprendizaje sobre las propiedades magnéticas de los materiales, una docente ha notado que varios estudiantes creen que todos los metales son atraídos por imanes comunes. Por ello, decidió realizar la siguiente actividad con los estudiantes:\n\nLes presentó diferentes objetos de metal (hierro, acero, plata, zinc y cobre), y les preguntó: \"¿Todos estos objetos serán atraídos por el imán?\". Luego, pidió a los estudiantes usar un imán para atraer estos objetos.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál fue el propósito principal de la docente al realizar esta actividad con los estudiantes?",
+                    "opciones": [
+                        "La generación de conflicto cognitivo en los estudiantes.",
+                        "Que los estudiantes formulen preguntas de indagación.",
+                        "La activación de los saberes previos de los estudiantes."
+                    ],
+                    "respuesta": "La generación de conflicto cognitivo en los estudiantes.",
+                    "respuestaCorta": "Generación de disonancia o desequilibrio cognitivo.",
+                    "solucionario": "Los estudiantes tienen la creencia errónea de que 'todos los metales son atraídos por imanes'. Al exponerlos a evidencia empírica que contradice esta creencia (objetos de plata, zinc y cobre que no son atraídos), la docente provoca un desequilibrio en sus esquemas mentales, generando así un conflicto cognitivo que los motiva a reestructurar su conocimiento.",
+                    "seccion": "Conocimientos Pedagógicos de la Especialidad"
+                }
+            ]
+        },
+        {
+            "idGrupo": "cp_ciencia_2019_p65_67",
+            "contexto": "Como parte de una unidad didáctica que tiene como propósito de aprendizaje que los estudiantes expliquen los procesos mediante los cuales el agua circula de manera superficial y subterránea en el planeta, una docente ha elaborado la siguiente rúbrica para evaluar las representaciones de sus estudiantes:\n\nEn inicio: Describe cómo cambia el lugar en que se almacena el agua en función del estado en el que se encuentra.\n\nEn proceso: Explica los procesos mediante los cuales el agua circula de manera superficial o subterránea, sin establecer una conexión entre ambos.\n\nSatisfactorio: Explica los procesos mediante los cuales el agua circula de manera superficial y subterránea y los relaciona en un sistema.\n\nDestacado: (Por definir)",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "La docente aún no ha definido el nivel de logro \"Destacado\" en la rúbrica de evaluación. ¿Cuál de las siguientes descripciones es pertinente para definir dicho nivel de logro?",
+                    "opciones": [
+                        "Explica cómo los factores bióticos participan en el ciclo del agua.",
+                        "Explica los posibles efectos de un desequilibrio en el ciclo del agua.",
+                        "Explica los procesos del ciclo del agua y los cambios de estado que experimenta."
+                    ],
+                    "respuesta": "Explica los posibles efectos de un desequilibrio en el ciclo del agua.",
+                    "respuestaCorta": "Progresión de la competencia hacia evaluación de impactos.",
+                    "solucionario": "El nivel destacado implica un paso más allá de la comprensión del sistema (nivel satisfactorio). Evaluar los efectos de un desequilibrio demuestra una comprensión profunda y la capacidad de aplicar el conocimiento a situaciones complejas o problemas ambientales.",
+                    "seccion": "Conocimientos Pedagógicos de la Especialidad"
+                },
+                {
+                    "pregunta": "A continuación, se muestra una representación realizada por una estudiante. De acuerdo con la rúbrica de evaluación propuesta por la docente, ¿en qué nivel de logro de aprendizaje se encuentra esta estudiante?",
+                    "opciones": [
+                        "En inicio.",
+                        "En proceso.",
+                        "Satisfactorio."
+                    ],
+                    "respuesta": "En inicio.",
+                    "respuestaCorta": "Evaluación según rúbrica (descripción de estados y lugares).",
+                    "solucionario": "La representación describe estados (vapor, líquido) y lugares (nubes, cerros, lago), pero no integra claramente los procesos de circulación subterránea ni la conexión sistémica completa requerida para niveles superiores.",
+                    "seccion": "Conocimientos Pedagógicos de la Especialidad"
+                },
+                {
+                    "pregunta": "A continuación, se muestra la representación realizada por otro estudiante. De acuerdo con la rúbrica de evaluación propuesta por la docente, ¿en qué nivel de logro de aprendizaje se encuentra este estudiante?",
+                    "opciones": [
+                        "En inicio.",
+                        "En proceso.",
+                        "Satisfactorio."
+                    ],
+                    "respuesta": "En proceso.",
+                    "respuestaCorta": "Evaluación según rúbrica (circulación superficial y subterránea sin integración sistémica total).",
+                    "solucionario": "El dibujo muestra elementos de circulación superficial y menciona el agua subterránea, pero la representación es fragmentada y no articula completamente la relación sistémica entre ambos flujos como exige el nivel satisfactorio.",
+                    "seccion": "Conocimientos Pedagógicos de la Especialidad"
+                }
+            ]
+        },
+        {
+            "idGrupo": "cp_ciencia_2019_p68_70",
+            "contexto": "El nitrógeno y el carbono son dos de los principales elementos de la biósfera. La mayor parte del carbono (98,96%) tiene 6 protones y 6 neutrones en su núcleo; por ello, este carbono se denomina C-12. Sin embargo, el carbono también tiene 2 isótopos naturales con importantes aplicaciones científicas: el C-13 y el C-14. Por su parte, el nitrógeno, principal componente de la atmósfera terrestre, tiene 7 protones y 2 isótopos naturales: el N-14 y el N-15, siendo el primero el más abundante (99,63%).",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Qué información es suficiente para distinguir un ion o átomo neutro de carbono de otro de nitrógeno?",
+                    "opciones": [
+                        "El número de electrones.",
+                        "El número de protones.",
+                        "El número de masa."
+                    ],
+                    "respuesta": "El número de protones.",
+                    "respuestaCorta": "Identidad del elemento químico.",
+                    "solucionario": "El número de protones (número atómico) es la propiedad fundamental que define la identidad de un elemento. El carbono siempre tiene 6 protones y el nitrógeno 7, independientemente de si son iones o isótopos.",
+                    "seccion": "Conocimientos Pedagógicos de la Especialidad"
+                },
+                {
+                    "pregunta": "Si comparamos la cantidad de átomos en un mol de C-12, un mol de C-14 y un mol de N-14, ¿cuál de las siguientes afirmaciones es correcta?",
+                    "opciones": [
+                        "Un mol de átomos de C-14 contiene más átomos que un mol de átomos de C-12.",
+                        "Un mol de átomos de N-14 contiene más átomos que un mol de átomos de C-14.",
+                        "Un mol de átomos de C-12 contiene la misma cantidad de átomos que un mol de átomos de N-14."
+                    ],
+                    "respuesta": "Un mol de átomos de C-12 contiene la misma cantidad de átomos que un mol de átomos de N-14.",
+                    "respuestaCorta": "Concepto de mol (Número de Avogadro).",
+                    "solucionario": "Un mol de cualquier sustancia siempre contiene la misma cantidad de partículas elementales (Número de Avogadro: $6.022 \\times 10^{23}$), independientemente de la masa o el tipo de elemento.",
+                    "seccion": "Conocimientos Pedagógicos de la Especialidad"
+                },
+                {
+                    "pregunta": "En la atmósfera terrestre ocurren reacciones nucleares en las que el N-14 se convierte en C-14. El C-14 es un isótopo radiactivo. Es decir, su núcleo es inestable, por lo que se convierte nuevamente en N-14. ¿De cuál de los siguientes factores depende que el C-14 sea radiactivo?",
+                    "opciones": [
+                        "De la cantidad de electrones.",
+                        "De la proporción entre electrones y protones.",
+                        "De la proporción entre neutrones y protones."
+                    ],
+                    "respuesta": "De la proporción entre neutrones y protones.",
+                    "respuestaCorta": "Estabilidad nuclear.",
+                    "solucionario": "La estabilidad de un núcleo atómico depende de la relación (proporción) entre neutrones y protones. Cuando esta proporción se aleja de la zona de estabilidad, el núcleo se vuelve inestable y radiactivo.",
+                    "seccion": "Conocimientos Pedagógicos de la Especialidad"
+                }
+            ]
+        },
+        {
+            "idGrupo": "cp_ciencia_2019_p71_73",
+            "contexto": "Una docente propone a sus estudiantes diversas actividades como parte de una unidad didáctica sobre cómo se realiza la nutrición en el ser humano. A continuación, se presentan dos de las actividades propuestas por la docente a lo largo de diferentes sesiones de aprendizaje de la unidad:\n\nActividad 1\n• Durante las sesiones de aprendizaje sobre el proceso de digestión, solicitar a los estudiantes que completen la siguiente tabla de metacognición.\n\nActividad 2\n• Entregar a los estudiantes una silueta del cuerpo humano.\n• Luego, solicitarles que describan el recorrido de una gota de sangre que sale del corazón y pasa por el dedo gordo del pie.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "A continuación, se muestra la tabla completada por José, uno de los estudiantes, como producto de la actividad 1:\n\n¿Qué aprendí?\nAprendí que la digestión de los alimentos dentro de nuestro cuerpo consiste en que los alimentos lleguen al estómago y en el intestino delgado caigan sustancias de las glándulas (hígado y páncreas) para ayudar a transformarlos en desechos.\n\n¿Cómo aprendí?\nHice preguntas, revisé información en libros, trabajé en grupo, dibujé y tomé notas en mi cuaderno.\n\n¿Qué me falta aprender?\nAún no comprendo bien cómo se forma la orina a partir de los alimentos que como.\n\nDe acuerdo con la tabla presentada por José, ¿cuál de los siguientes propósitos de aprendizaje debe priorizar la docente?",
+                    "opciones": [
+                        "Que explique la función del sistema digestivo.",
+                        "Que explique cómo se forma la orina en el sistema urinario.",
+                        "Que explique la relación entre el sistema digestivo y el sistema urinario."
+                    ],
+                    "respuesta": "Que explique la función del sistema digestivo.",
+                    "respuestaCorta": "Atención a errores conceptuales críticos.",
+                    "solucionario": "En la columna '¿Qué aprendí?', José afirma que la digestión sirve para transformar los alimentos en 'desechos'. Esto evidencia un error conceptual fundamental, ya que omite la función principal del sistema digestivo: la absorción de nutrientes. La docente debe priorizar la corrección de este concepto erróneo antes de avanzar a otros temas como el sistema urinario[cite: 894].",
+                    "seccion": "Conocimientos Pedagógicos de la Especialidad"
+                },
+                {
+                    "pregunta": "Como producto inicial de la actividad 2, Miriam, otra de las estudiantes, realizó la siguiente representación:\n\"La sangre circula todo el tiempo. Comienza en el corazón que la bombea hasta el dedo del pie y después por todo el cuerpo. Luego, regresa al corazón. La sangre tarda pocos segundos en pasar por todo el cuerpo.\"\n\n¿Cuál de los siguientes aprendizajes evidencia Miriam en su representación inicial?",
+                    "opciones": [
+                        "Identifica la función del sistema circulatorio.",
+                        "Identifica la función de uno de los órganos del sistema circulatorio.",
+                        "Identifica el recorrido de la gota de sangre desde su salida hasta su retorno al corazón."
+                    ],
+                    "respuesta": "Identifica la función de uno de los órganos del sistema circulatorio.",
+                    "respuestaCorta": "Identificación correcta de función de órganos.",
+                    "solucionario": "En su texto, Miriam señala explícitamente que el corazón 'bombea' la sangre. Esto demuestra que identifica correctamente la función específica de este órgano dentro del sistema. [cite_start]Por el contrario, su descripción del recorrido ('del dedo del pie y después por todo el cuerpo') es imprecisa respecto a la circulación sistémica y el retorno venoso, por lo que no evidencia plenamente el aprendizaje del recorrido[cite: 911].",
+                    "seccion": "Conocimientos Pedagógicos de la Especialidad"
+                },
+                {
+                    "pregunta": "Durante el desarrollo de la unidad didáctica, la docente vuelve a solicitar a los estudiantes que realicen la actividad 2. Esta vez, les pide que incluyan lo que han aprendido sobre la relación entre los sistemas circulatorio y respiratorio. A continuación, se muestra la nueva representación realizada por Miriam como producto de esta actividad:\n\n\"La sangre sale con oxigeno del corazón por las arterias hacia las células del dedo del pie. Luego, regresa al corazón por las venas con dióxido de carbono.\"\n\n¿Cuál de los siguientes aprendizajes se evidencia en la nueva representación realizada por Miriam?",
+                    "opciones": [
+                        "Identifica algunas funciones de venas y arterias.",
+                        "Relaciona la estructura de venas y arterias con su función.",
+                        "Explica el proceso de intercambio gaseoso en el cuerpo humano."
+                    ],
+                    "respuesta": "Identifica algunas funciones de venas y arterias.",
+                    "respuestaCorta": "Análisis de progresión en el aprendizaje.",
+                    "solucionario": "En esta segunda representación, la estudiante distingue específicamente que las arterias transportan sangre oxigenada (sale del corazón) y las venas transportan dióxido de carbono (regresa), identificando así sus funciones básicas de transporte diferenciado.",
+                    "seccion": "Conocimientos Pedagógicos de la Especialidad"
+                }
+            ]
+        },
+        {
+            "idGrupo": "cp_ciencia_2019_p74",
+            "contexto": null,
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿En qué parte del organismo se producen las células sanguíneas?",
+                    "opciones": [
+                        "En el corazón.",
+                        "En la médula ósea.",
+                        "En los nódulos linfáticos."
+                    ],
+                    "respuesta": "En la médula ósea.",
+                    "respuestaCorta": "Hematopoyesis.",
+                    "solucionario": "La hematopoyesis (formación de células sanguíneas: glóbulos rojos, blancos y plaquetas) ocurre principalmente en la médula ósea roja de los huesos.",
+                    "seccion": "Conocimientos Pedagógicos de la Especialidad"
+                }
+            ]
+        },
+        {
+            "idGrupo": "cp_ciencia_2019_p75",
+            "contexto": "Un equipo de estudiantes elaboró el siguiente reporte luego de realizar una indagación:\n\nEquipo: Las indagadoras\nREPORTE DE INDAGACIÓN\n¿Qué queremos indagar?\n¿Qué sucede con el ritmo cardiaco y el ritmo respiratorio de una persona al caminar?\n\n¿Qué sabemos?\n• Cuando hacemos ejercicio necesitamos energía.\n• Para obtener energía nuestras células necesitan oxígeno y glucosa, que son transportados por el sistema circulatorio.\n• Cuando el oxígeno reacciona con la glucosa en las células se libera energía.\n\n¿Cómo lo hicimos?\nUna de nosotras caminó y medimos su ritmo cardiaco y su ritmo respiratorio.\n\nConclusiones\nEl ritmo cardiaco y el ritmo respiratorio aumentan después de caminar. Este aumento es debido al incremento de las necesidades de energía de los músculos.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "En este reporte, el docente nota logros y algunos errores en la descripción de la indagación. Por ello, luego de reconocer los logros evidenciados por las estudiantes, va a retroalimentar al equipo sobre sus errores a través de comentarios escritos. ¿Cuál de los siguientes comentarios corresponde a la retroalimentación más adecuada para que el equipo de estudiantes realice sus propias correcciones?",
+                    "opciones": [
+                        "\"Solo les faltó describir con mayor detalle su indagación. ¿Qué información adicional deben incluir en su reporte? ¡La próxima vez lo harán mucho mejor!\".",
+                        "\"Es importante que evalúen si la descripción sobre cómo realizaron la indagación es suficiente para elaborar conclusiones: ¿qué condiciones tuvieron en cuenta para realizar la caminata y hacer las mediciones? ¿Cuáles fueron sus resultados?\".",
+                        "\"Deben describir mejor en qué consistió el ejercicio: ¿hicieron mediciones antes y después de la caminata? ¿Durante cuánto tiempo realizaron el ejercicio? ¿Por cuánto tiempo midieron el ritmo cardiaco y respiratorio? ¿Consideraron un tiempo de descanso entre una prueba y otra? ¿Realizaron repeticiones?\"."
+                    ],
+                    "respuesta": "\"Es importante que evalúen si la descripción sobre cómo realizaron la indagación es suficiente para elaborar conclusiones: ¿qué condiciones tuvieron en cuenta para realizar la caminata y hacer las mediciones? ¿Cuáles fueron sus resultados?\".",
+                    "respuestaCorta": "Retroalimentación sobre la coherencia entre evidencias (resultados) y conclusiones.",
+                    "solucionario": "El reporte salta de la metodología a las conclusiones sin presentar los datos obtenidos ('¿Cuáles fueron sus resultados?'). La retroalimentación B es la más pertinente porque señala la ausencia de la evidencia necesaria (los resultados) para sustentar cualquier conclusión, un aspecto esencial en la indagación científica.",
+                    "seccion": "Conocimientos Pedagógicos de la Especialidad"
+                }
+            ]
+        },
+        {
+            "idGrupo": "cp_ciencia_2019_p76",
+            "contexto": "Lea la siguiente situación y responda las preguntas 76 y 77.\n\nDurante una sesión de aprendizaje sobre cómo se transportan las sustancias en las células, una docente propone a los estudiantes que diseñen un plan de indagación. La docente monitorea el trabajo en equipo.\n\nUn equipo de estudiantes le presenta la siguiente propuesta inicial:\nNosotros queremos observar qué sucede con las células de la cebolla cuando se las coloca en soluciones de diferente concentración de sal de cocina. Para ello, prepararemos dos soluciones de agua con sal en dos vasos, una más salada que la otra. Luego, por unos minutos, pondremos un fragmento de la epidermis de la cebolla en cada vaso. Al final, sacaremos los fragmentos de epidermis de cada vaso y los colocaremos en diferentes portaobjetos, les añadiremos una gota de tinte a cada uno y observaremos en el microscopio qué ocurrió con las células.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál de las siguientes preguntas es pertinente que la docente realice para retroalimentar al equipo de estudiantes sobre su propuesta?",
+                    "opciones": [
+                        "¿Qué volumen de solución van a emplear para cada muestra?",
+                        "¿Qué creen que sucedería si en lugar de sal usáramos azúcar?",
+                        "¿Qué criterios han empleado para elegir las concentraciones de sal?"
+                    ],
+                    "respuesta": "¿Qué criterios han empleado para elegir las concentraciones de sal?",
+                    "respuestaCorta": "Reflexión sobre la precisión de la variable independiente.",
+                    "solucionario": "La propuesta de \"una solución más salada que la otra\" es subjetiva e imprecisa científicamente. La docente debe guiar a los estudiantes para que definan concentraciones objetivas y cuantificables (criterios de concentración) para que la indagación sea válida.",
+                    "seccion": "Conocimientos Pedagógicos de la Especialidad"
+                }
+            ]
+        },
+        {
+            "idGrupo": "cp_ciencia_2019_p77",
+            "contexto": "Luego de que los estudiantes han realizado las modificaciones pertinentes en su propuesta de indagación, la llevan a cabo y dibujan sus observaciones. A continuación, se presentan dos dibujos realizados por los estudiantes:\n\n[Dibujo de Célula en Solución 1: Turgente]\n[Dibujo de Célula en Solución 2: Plasmolizada/contraída]",
+            "imagen": "img/ciencia_2019_p77.png",
+            "preguntas": [
+                {
+                    "pregunta": "De acuerdo con los dibujos, ¿qué clase de tonicidad presenta la solución 2?",
+                    "opciones": [
+                        "Isotónica",
+                        "Hipotónica",
+                        "Hipertónica"
+                    ],
+                    "respuesta": "Hipertónica",
+                    "respuestaCorta": "Identificación de fenómenos osmóticos (plasmólisis).",
+                    "solucionario": "En el dibujo de la Solución 2, se observa que la membrana celular se ha separado de la pared celular y el citoplasma se ha contraído (plasmólisis). Esto ocurre cuando una célula vegetal se coloca en un medio hipertónico, provocando que el agua salga de la célula hacia el exterior por ósmosis.",
+                    "seccion": "Conocimientos Pedagógicos de la Especialidad"
+                }
+            ]
+        },
+        {
+            "idGrupo": "cp_ciencia_2019_p78",
+            "contexto": "Un equipo de estudiantes presenta el siguiente plan de indagación al docente:\n1. Colocar 100 mL de agua destilada en cuatro vasos transparentes\n2. Agregar y disolver 1 g, 2 g y 3 g de sal de cocina en cada vaso (el cuarto no contiene sal)\n3. Cortar papas en trozos pequeños de formas y tamaños similares\n4. Utilizar una balanza para registrar la masa de cada trozo de papa\n5. Colocar tres trozos de papa en cada vaso, procurando que la masa total de estos trozos sea igual\n6. Rotular los vasos con la masa de los trozos de papa y la cantidad de sal que contienen\n7. Observar y registrar durante una hora (cada veinte minutos) lo que sucede con los trozos de papa\n8. Retirar los trozos de papa de cada vaso y registrar su masa",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la variable dependiente en el plan de indagación presentado por los estudiantes?",
+                    "opciones": [
+                        "El tiempo de observación.",
+                        "La masa final de las papas.",
+                        "La concentración inicial de sal."
+                    ],
+                    "respuesta": "La masa final de las papas.",
+                    "respuestaCorta": "Identificación de variables en indagación.",
+                    "solucionario": "La variable dependiente es el efecto o resultado que se mide en respuesta a los cambios en la variable independiente. En este caso, los estudiantes miden la masa final de las papas (paso 8) para ver cómo ha cambiado debido a la concentración de sal.",
+                    "seccion": "Conocimientos Pedagógicos de la Especialidad"
+                }
+            ]
+        },
+        {
+            "idGrupo": "cp_ciencia_2019_p79",
+            "contexto": "Como parte de su plan de indagación, un equipo de estudiantes requiere preparar una solución de agua azucarada de 10 mL con una concentración de 1 mg de azúcar por cada mililitro de agua. En la IE disponen de una balanza digital cuya pantalla marca la cifra 0,00 g cuando no se ha colocado ningún objeto sobre la balanza.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál de los siguientes procedimientos es el más adecuado para preparar esta solución?",
+                    "opciones": [
+                        "Pesar 10 mg de azúcar y disolverlos en 10 mL de agua.",
+                        "Pesar 10 g de azúcar y disolverlos en 1 L de agua. Tomar 10 mL de esta solución.",
+                        "Pesar 100 mg de azúcar y disolverlos en 100 mL de agua. Tomar 10 mL de esta solución."
+                    ],
+                    "respuesta": "Pesar 100 mg de azúcar y disolverlos en 100 mL de agua. Tomar 10 mL de esta solución.",
+                    "respuestaCorta": "Técnicas de laboratorio y precisión instrumental.",
+                    "solucionario": "La balanza tiene una precisión probable de 0,01 g (10 mg). Pesar 10 mg (0,01 g) implica un error relativo muy alto (opción A). Preparar 1 Litro (opción B) desperdicia muchos reactivos. La opción C propone pesar 100 mg (0,10 g), cantidad que la balanza puede registrar con mayor fiabilidad, y al disolverlo en 100 mL se obtiene la concentración deseada (1 mg/mL), tomando luego la alícuota necesaria.",
+                    "seccion": "Conocimientos Pedagógicos de la Especialidad"
+                }
+            ]
+        },
+        {
+            "idGrupo": "cp_ciencia_2019_p80",
+            "contexto": "Durante una unidad didáctica sobre las características de los seres vivos, un docente presentó el siguiente caso a sus estudiantes:\nLa señora Victoria ha mandado a su hijo Raúl a comprar harina, azúcar y levadura en barra para preparar picarones. Al recibir los productos, la vendedora le comenta a Raúl: \"¡Cuidado con la levadura! ¡No se te vaya a morir!\".\nLuego, realiza las siguientes preguntas a los estudiantes: \"¿Qué es la levadura? ¿Qué características tiene? ¿Para qué sirve?\".",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "Según la situación presentada, ¿cuál fue el propósito principal de la actividad realizada por el docente?",
+                    "opciones": [
+                        "Activar los saberes previos de los estudiantes.",
+                        "Generar conflicto cognitivo en los estudiantes.",
+                        "Promover que los estudiantes formulen hipótesis."
+                    ],
+                    "respuesta": "Activar los saberes previos de los estudiantes.",
+                    "respuestaCorta": "Procesos pedagógicos (saberes previos).",
+                    "solucionario": "El docente utiliza una situación cotidiana y preguntas abiertas directas sobre el objeto de estudio (levadura) para recuperar lo que los estudiantes ya conocen o creen saber antes de introducir nuevos conocimientos, lo cual constituye la activación de saberes previos.",
+                    "seccion": "Conocimientos Pedagógicos de la Especialidad"
+                }
+            ]
+        },
+        {
+            "idGrupo": "cp_ciencia_2019_p81_82",
+            "contexto": "Un equipo de estudiantes ha presentado el siguiente plan de indagación al docente:\n1. Conseguir los siguientes materiales: tres tipos de pan (de trigo, integral y de camote), nueve bolsas de plástico que se puedan cerrar herméticamente y lupas\n2. Cortar los panes en tres partes iguales, de manera que todas tengan la misma masa y dimensiones\n3. Humedecer con cinco gotas de agua cada trozo de pan y dejarlos a la intemperie, en el mismo lugar, por una hora\n4. Colocar cada uno de los trozos de pan en las bolsas de plástico, sacar el aire del interior de las bolsas y cerrarlas herméticamente\n5. Dejar las bolsas en el mismo lugar durante una semana\n6. Registrar la cantidad de colonias de moho que se han formado en cada trozo de pan\n\nEl docente quiere asegurarse de que los estudiantes han identificado las diferentes variables de su indagación.",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál de las siguientes preguntas es pertinente que plantee el docente para que los estudiantes identifiquen la variable independiente de su indagación?",
+                    "opciones": [
+                        "¿Por qué la cantidad de colonias de moho en cada pan varía?",
+                        "¿Cómo se puede identificar la cantidad de colonias de moho que se formó en cada pan?",
+                        "¿Cuál es la utilidad de registrar la cantidad de colonias de moho que se formó en los panes?"
+                    ],
+                    "respuesta": "¿Por qué la cantidad de colonias de moho en cada pan varía?",
+                    "respuestaCorta": "Identificación de variable independiente.",
+                    "solucionario": "La variable independiente es la causa del cambio. Al preguntar \"¿Por qué varía la cantidad de moho?\", se dirige la atención del estudiante hacia el factor que es diferente en cada grupo: el tipo de pan (trigo, integral, camote).",
+                    "seccion": "Conocimientos Pedagógicos de la Especialidad"
+                },
+                {
+                    "pregunta": "¿Cuál de las siguientes preguntas es pertinente que plantee el docente para que los estudiantes identifiquen la importancia de controlar algunas variables en su indagación?",
+                    "opciones": [
+                        "¿Cuál es el objetivo de humedecer los trozos de pan con agua? ¿Qué podría suceder si no lo hacen?",
+                        "¿Por qué emplean tres trozos de pan del mismo tipo en cada caso? ¿Esto afecta sus resultados?",
+                        "¿Qué condiciones son iguales para todos los trozos de pan? ¿Por qué deben ser iguales?"
+                    ],
+                    "respuesta": "¿Qué condiciones son iguales para todos los trozos de pan? ¿Por qué deben ser iguales?",
+                    "respuestaCorta": "Control de variables intervinientes.",
+                    "solucionario": "Las variables de control (luz, temperatura, humedad, tipo de bolsa) deben mantenerse constantes para asegurar la validez de la indagación. La pregunta C invita explícitamente a reflexionar sobre la necesidad de esta uniformidad (\"ceteris paribus\").",
+                    "seccion": "Conocimientos Pedagógicos de la Especialidad"
+                }
+            ]
+        },
+        {
+            "idGrupo": "cp_ciencia_2019_p83_86",
+            "contexto": "Como parte de una unidad didáctica que tiene como propósito de aprendizaje que los estudiantes expliquen la sucesión de los días y las noches, así como la sucesión y simultaneidad de estaciones distintas en la Tierra, un docente ha elaborado una rúbrica para evaluar las representaciones de sus estudiantes. [Se presenta la rúbrica con niveles: En inicio, En proceso, Satisfactorio. El nivel Destacado está vacío].",
+            "imagen": null,
+            "preguntas": [
+                {
+                    "pregunta": "El docente aún no ha definido el nivel de logro \"Destacado\" en la rúbrica de evaluación. ¿Cuál de las siguientes descripciones es pertinente para definir dicho nivel de logro?",
+                    "opciones": [
+                        "Realiza cálculos para identificar husos horarios empleando información de la diferencia horaria entre países de diferentes hemisferios, sin errores conceptuales.",
+                        "Explica los husos horarios y por qué en algunas regiones de la Tierra los días y las noches, así como las estaciones, varían en su duración y en sus fenómenos meteorológicos, sin errores conceptuales.",
+                        "Construye modelos tridimensionales para representar la sucesión de los días y las noches, y de las estaciones en función de la ubicación de la Tierra en su órbita alrededor del Sol y la inclinación del eje terrestre, sin errores conceptuales."
+                    ],
+                    "respuesta": "Explica los husos horarios y por qué en algunas regiones de la Tierra los días y las noches, así como las estaciones, varían en su duración y en sus fenómenos meteorológicos, sin errores conceptuales.",
+                    "respuestaCorta": "Progresión de la competencia (complejidad y fenómenos derivados).",
+                    "solucionario": "El nivel destacado implica un dominio mayor que el satisfactorio. Mientras el satisfactorio pide explicar la sucesión (mecanismo básico), el destacado integra fenómenos más complejos derivados de esos movimientos, como la variación en la duración del día/noche según la latitud y los husos horarios, mostrando una comprensión sistémica y profunda.",
+                    "seccion": "Conocimientos Pedagógicos de la Especialidad"
+                },
+                {
+                    "pregunta": "A continuación, se muestra la representación realizada por una estudiante. [Imagen: Órbita terrestre con estaciones etiquetadas correctamente según inclinación, eje inclinado]. De acuerdo con la rúbrica de evaluación propuesta por el docente, ¿en qué nivel de logro de aprendizaje se encuentra esta estudiante?",
+                    "opciones": [
+                        "En inicio.",
+                        "En proceso.",
+                        "Satisfactorio."
+                    ],
+                    "respuesta": "Satisfactorio.",
+                    "respuestaCorta": "Evaluación de representación correcta.",
+                    "solucionario": "La estudiante representa correctamente la posición de la Tierra en relación al Sol para cada estación, considerando la inclinación del eje terrestre (ej. el hemisferio inclinado hacia el sol tiene verano). Cumple con los criterios del nivel Satisfactorio.",
+                    "seccion": "Conocimientos Pedagógicos de la Especialidad"
+                },
+                {
+                    "pregunta": "A continuación, se muestra la representación realizada por un segundo estudiante. [Imagen: Órbita con eje terrestre cuya orientación cambia erráticamente respecto al espacio en cada posición]. De acuerdo con la rúbrica de evaluación propuesta por el docente, ¿en qué nivel de logro de aprendizaje se encuentra este estudiante?",
+                    "opciones": [
+                        "En inicio.",
+                        "En proceso.",
+                        "Satisfactorio."
+                    ],
+                    "respuesta": "En proceso.",
+                    "respuestaCorta": "Evaluación con error conceptual (orientación del eje).",
+                    "solucionario": "El estudiante intenta explicar las estaciones basándose en la traslación, pero comete un error conceptual grave: cambia la dirección de inclinación del eje terrestre en cada posición orbital (precesión errónea a corto plazo), en lugar de mantener el paralelismo del eje. Esto corresponde al nivel En Proceso (con errores conceptuales).",
+                    "seccion": "Conocimientos Pedagógicos de la Especialidad"
+                },
+                {
+                    "pregunta": "A continuación, se muestra la representación realizada por un tercer estudiante. [Imagen: Confusa, mezcla fases lunares con estaciones, sombras incorrectas]. De acuerdo con la rúbrica de evaluación propuesta por el docente, ¿en qué nivel de logro de aprendizaje se encuentra este estudiante?",
+                    "opciones": [
+                        "En inicio.",
+                        "En proceso.",
+                        "Satisfactorio."
+                    ],
+                    "respuesta": "En inicio.",
+                    "respuestaCorta": "Evaluación con múltiples errores conceptuales básicos.",
+                    "solucionario": "El dibujo presenta errores fundamentales, como confundir la causa de las estaciones con la presencia de la Luna o fases lunares, y una representación inadecuada de la iluminación solar (día/noche). No logra explicar la sucesión de estaciones basándose en la traslación y el eje, situándose en el nivel En Inicio.",
+                    "seccion": "Conocimientos Pedagógicos de la Especialidad"
+                }
+            ]
+        },
+        {
+            "idGrupo": "cp_ciencia_2019_p87",
+            "contexto": "Un equipo de estudiantes presenta la siguiente respuesta a la pregunta planteada por el docente:\n\"La altura desde donde soltamos la bolita afecta la rapidez con la que se mueve el péndulo\".\nEl docente propuso a los integrantes del equipo que representaran en un dibujo cómo someter a prueba su hipótesis.",
+            "imagen": "img/ciencia_2019_p87.png",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál de las siguientes propuestas permite someter a prueba la hipótesis del equipo?",
+                    "opciones": [
+                        "Propuesta a",
+                        "Propuesta b",
+                        "Propuesta c"
+                    ],
+                    "respuesta": "Propuesta a",
+                    "respuestaCorta": "Control de variables (ceteris paribus).",
+                    "solucionario": "Para probar si la altura de lanzamiento influye en la rapidez (hipótesis), se debe variar únicamente la altura de lanzamiento (variable independiente) mientras se mantienen constantes las otras variables como la longitud de la cuerda y la masa del objeto (variables de control). La propuesta A es la única que cumple esta condición (mismo largo 15cm, misma masa 20g, diferente altura).",
+                    "seccion": "Conocimientos Pedagógicos de la Especialidad"
+                }
+            ]
+        },
+        {
+            "idGrupo": "cp_ciencia_2019_p88_90",
+            "contexto": "Lea la siguiente situación y responda las preguntas 88, 89 y 90.\nUna docente ha notado que muchos de sus estudiantes muestran interés en formar parte del equipo de vóley del colegio y decide aprovechar esta situación para trabajar una unidad didáctica sobre la identificación de las fuerzas que actúan en el movimiento de los cuerpos.",
+            "imagen": "img/ciencia_2019_p88.png",
+            "preguntas": [
+                {
+                    "pregunta": "Durante el desarrollo de la unidad, la docente plantea la siguiente actividad... pide que representen las fuerzas... A continuación, se muestra la representación realizada por Iván: [Imagen muestra \"Fuerza del impulso\" acompañando a la bola en el aire]",
+                    "opciones": [
+                        "Identifica que la voleibolista se encuentra en caída libre mientras sube y mientras baja.",
+                        "Identifica cómo actúa la fuerza de gravedad durante el movimiento de la voleibolista.",
+                        "Identifica todas las fuerzas que actúan durante el movimiento de la voleibolista."
+                    ],
+                    "respuesta": "Identifica cómo actúa la fuerza de gravedad durante el movimiento de la voleibolista.",
+                    "respuestaCorta": "Identificación de fuerzas (acierto en gravedad).",
+                    "solucionario": "Aunque Iván comete el error común de incluir una \"fuerza del impulso\" (impetus) que acompaña al objeto, sí identifica correctamente que la fuerza de gravedad actúa verticalmente hacia abajo en todas las fases del movimiento (subida y bajada).",
+                    "seccion": "Conocimientos Pedagógicos de la Especialidad"
+                },
+                {
+                    "pregunta": "Otra de las actividades planteadas por la docente consistió en mostrar a los estudiantes una pelota de vóley que se encuentra en reposo sobre una superficie plana horizontal y solicitarles que describan las fuerzas que actúan en la pelota. ¿Cuál de las siguientes intervenciones es correcta?",
+                    "opciones": [
+                        "Luis: \"Como la pelota está quieta, además de la fuerza normal y el peso, actúa una fuerza de fricción estática sobre ella\".",
+                        "Carla: \"La fuerza normal y el peso son las únicas fuerzas que actúan en la pelota, y como estas fuerzas siempre se oponen, sus módulos son iguales\".",
+                        "Ana: \"En la pelota actúan la fuerza normal y el peso y, aunque en este caso se oponen, no son un par de fuerzas de acción y reacción\"."
+                    ],
+                    "respuesta": "Ana: \"En la pelota actúan la fuerza normal y el peso y, aunque en este caso se oponen, no son un par de fuerzas de acción y reacción\".",
+                    "respuestaCorta": "Comprensión de la Tercera Ley de Newton.",
+                    "solucionario": "Ana identifica correctamente las fuerzas (Normal y Peso) y aclara un error conceptual muy frecuente: pensar que Normal y Peso son un par acción-reacción. No lo son porque actúan sobre el mismo cuerpo. La afirmación de Ana es conceptualmente impecable.",
+                    "seccion": "Conocimientos Pedagógicos de la Especialidad"
+                },
+                {
+                    "pregunta": "La docente también plantea la siguiente situación a los estudiantes: Si se dejan caer al mismo tiempo y desde la misma altura una pelota de vóley y una esfera metálica del mismo tamaño que la pelota, pero del triple de masa, despreciando la fuerza de resistencia del aire, ¿cuál de las dos llega primero al piso? ¿Cuál de los siguientes estudiantes responde correctamente?",
+                    "opciones": [
+                        "Carol: \"La esfera metálica llega al piso en menor tiempo porque tiene mayor masa\".",
+                        "Pedro: \"La pelota de vóley llega al piso en menor tiempo porque tiene menor masa\".",
+                        "Paul: \"Llegan al piso al mismo tiempo porque están afectadas solo por la fuerza de la gravedad\"."
+                    ],
+                    "respuesta": "Paul: \"Llegan al piso al mismo tiempo porque están afectadas solo por la fuerza de la gravedad\".",
+                    "respuestaCorta": "Caída libre (independencia de la masa).",
+                    "solucionario": "En ausencia de resistencia del aire (caída libre), la aceleración de la gravedad ($g$) es constante para todos los cuerpos independientemente de su masa. Por tanto, ambos objetos tardan el mismo tiempo en caer.",
+                    "seccion": "Conocimientos Pedagógicos de la Especialidad"
+                }
+            ]
+        }
+    ]
+}

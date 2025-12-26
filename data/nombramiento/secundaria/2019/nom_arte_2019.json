@@ -1,0 +1,676 @@
+{
+  "Conocimientos Pedagógicos": [
+    {
+      "idGrupo": "cp_arte_2019_q51",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Los colores secundarios se obtienen al mezclar dos colores primarios en porciones iguales. ¿Cuál de los siguientes es un color secundario?",
+          "opciones": [
+            "Celeste.",
+            "Marrón.",
+            "Violeta."
+          ],
+          "respuesta": "Violeta.",
+          "respuestaCorta": "Color secundario.",
+          "solucionario": "El violeta es un color secundario que se obtiene de la mezcla del rojo y el azul.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_arte_2019_q52",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Los colores complementarios se encuentran en una posición opuesta dentro del círculo cromático. Se obtienen, por ejemplo, mediante la contraposición de un color primario con un color secundario formado por los otros dos primarios. ¿Cuál de los siguientes pares de colores son complementarios?",
+          "opciones": [
+            "Azul y anaranjado.",
+            "Negro y blanco.",
+            "Rojo y violeta."
+          ],
+          "respuesta": "Azul y anaranjado.",
+          "respuestaCorta": "Pares complementarios.",
+          "solucionario": "El azul es un color primario y su complementario es el anaranjado (formado por rojo y amarillo).",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_arte_2019_q53",
+      "contexto": "Los estudiantes de la clase de Arte y Cultura están participando en un proyecto en el que van a realizar una serie de retratos fotográficos utilizando un teléfono celular. El docente quiere proponer una actividad para que los estudiantes conozcan y comprendan los efectos que se pueden lograr en una fotografía por medio de la iluminación.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes actividades es la más pertinente para su propósito?",
+          "opciones": [
+            "Analizar con los estudiantes una diversidad de fotos extraídas de internet en las cuales se hayan usado múltiples técnicas de iluminación en situaciones diversas.",
+            "Proponerles explorar el uso de la luz haciendo retratos en una habitación oscura usando una única fuente de iluminación y ubicándola en diversas posiciones y ángulos.",
+            "Explicar a los estudiantes la clasificación de los tipos de iluminación en función a la posición de la fuente de luz y solicitarles que escriban un resumen incluyendo imágenes como ejemplo de cada caso."
+          ],
+          "respuesta": "Proponerles explorar el uso de la luz haciendo retratos en una habitación oscura usando una única fuente de iluminación y ubicándola en diversas posiciones y ángulos.",
+          "respuestaCorta": "Exploración práctica de la luz.",
+          "solucionario": "La exploración práctica (learning by doing) en una habitación oscura permite a los estudiantes experimentar directamente cómo la posición de la luz afecta el retrato, facilitando una comprensión profunda y experiencial de los efectos de la iluminación.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_arte_2019_q54",
+      "contexto": null,
+      "imagen": "img/arte_2019_q54.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes fotografías presenta una iluminación a contraluz?",
+          "opciones": [
+            "Fotografía A",
+            "Fotografía B",
+            "Fotografía C"
+          ],
+          "respuesta": "Fotografía B",
+          "respuestaCorta": "Identificación de contraluz.",
+          "solucionario": "El contraluz se produce cuando la fuente de luz está detrás del sujeto y frente a la cámara, creando una silueta o un borde iluminado, lo cual corresponde a la imagen B.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_arte_2019_q55",
+      "contexto": null,
+      "imagen": "img/arte_2019_q55.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes fotografías presenta una iluminación cenital?",
+          "opciones": [
+            "Fotografía A",
+            "Fotografía B",
+            "Fotografía C"
+          ],
+          "respuesta": "Fotografía A",
+          "respuestaCorta": "Identificación de luz cenital.",
+          "solucionario": "La iluminación cenital proviene directamente desde arriba (como el sol al mediodía), proyectando sombras verticales hacia abajo, lo cual se observa en la imagen A.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_arte_2019_q56_57",
+      "contexto": "Lea la siguiente descripción y responda las preguntas 56 y 57.\nEl proyecto de la artista Elizabeth Lino Cornejo, La última Reyna, consiste en una serie de acciones realizadas en la ciudad de Cerro de Pasco donde se encuentra la mina a tajo abierto más alta del mundo (y una de las más grandes) y que hace que la ciudad sea una de las más contaminadas del planeta. Por medio de videos, fotos y otros documentos que publica en una página web, la artista nos cuenta la historia de esta reina de belleza ficticia en ese paraje del Perú.\nEn la fotografía mostrada, se aprecia a la artista vestida como reina de belleza saludando a una audiencia ficticia en medio de un montículo de tierra en la laguna relavera de Quiulacocha. En la versión original (a colores) de esta fotografía, se aprecia a la artista ubicada sobre una base de barro de color amarillento que transmite la sensación de putrefacción y muerte. Los colores rojo, amarillo y anaranjado del agua contaminada con minerales tóxicos contrastan fuertemente con el cielo azul de la sierra peruana y sus nubes.",
+      "imagen": "img/arte_2019_q56_57.png",
+      "preguntas": [
+        {
+          "pregunta": "A partir de lo descrito, se puede inferir que el propósito del proyecto La última Reyna de Elizabeth Lino Cornejo es:",
+          "opciones": [
+            "Llamar la atención, por medio de la ironía, sobre cómo la contaminación ambiental se ha convertido en algo cotidiano e, inclusive, característico de Cerro de Pasco.",
+            "Llamar la atención sobre la belleza de la mujer de Cerro de Pasco, que es más grande que la contaminación ambiental de la región o que cualquier otra adversidad.",
+            "Resaltar la belleza paisajística de Cerro de Pasco que se conserva a pesar de la contaminación causada por la minería y así incentivar el turismo en la zona."
+          ],
+          "respuesta": "Llamar la atención, por medio de la ironía, sobre cómo la contaminación ambiental se ha convertido en algo cotidiano e, inclusive, característico de Cerro de Pasco.",
+          "respuestaCorta": "Propósito crítico e irónico.",
+          "solucionario": "El uso de una figura de reina de belleza en un entorno tóxico y contaminado utiliza la ironía para contrastar la idealización estética con la cruda realidad ambiental, buscando denunciar y visibilizar la situación de Cerro de Pasco.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes términos es más adecuado para describir este proyecto de Elizabeth Lino Cornejo?",
+          "opciones": [
+            "Paisajismo.",
+            "Activismo artístico.",
+            "Performance participativa."
+          ],
+          "respuesta": "Activismo artístico.",
+          "respuestaCorta": "Clasificación de la obra.",
+          "solucionario": "El proyecto busca generar conciencia social y política sobre la contaminación a través del arte, lo que encaja en la definición de activismo artístico o artivismo.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_arte_2019_q58_60",
+      "contexto": "Lea la siguiente situación y responda las preguntas 58, 59 y 60.\nPor medio de su trabajo, el artista colombiano Nadín Ospina (1960) ha logrado generar una serie de reflexiones sobre las identidades culturales y la globalización. El artista retoma elementos cotidianos de la cultura occidental actual y los funde con manifestaciones artísticas precolombinas creando piezas llenas de humor y de carácter reflexivo frente a la identidad. A continuación, se presenta una de sus esculturas en piedra en la que se muestra a Mickey Mouse, personaje de Disney, como si fuera un descubrimiento arqueológico.\nLos estudiantes y el docente de Arte y Cultura asisten a una exposición en la que se muestran diversas obras, entre ellas, esta pieza de Nadín Ospina.",
+      "imagen": "img/arte_2019_q58_60.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Qué término es adecuado para describir esta pieza de Nadín Ospina?",
+          "opciones": [
+            "Copy art.",
+            "Arte urbano.",
+            "Apropiación."
+          ],
+          "respuesta": "Apropiación.",
+          "respuestaCorta": "Técnica artística.",
+          "solucionario": "El artista toma un ícono existente de la cultura popular (Mickey Mouse) y lo recontextualiza con estética precolombina; esta acción de tomar prestadas imágenes u objetos existentes se conoce como apropiación.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        },
+        {
+          "pregunta": "¿Qué grupo de preguntas es más apropiado para que el docente inicie el análisis de esta obra con los estudiantes durante la visita a la exposición?",
+          "opciones": [
+            "¿Qué mensaje nos ha intentado transmitir el autor con su obra? ¿Por qué utiliza técnicas tradicionales para representar personajes contemporáneos? ¿Es un tipo de crítica a la sociedad de consumo?",
+            "¿Qué elementos precolombinos se pueden apreciar en esta obra? ¿Cómo se combinan estos con elementos de la cultura contemporánea? ¿Qué tiene que ver esta obra con la globalización?",
+            "¿Qué destaca más en esta obra? ¿Quién es el personaje retratado? ¿A qué época pertenece? ¿Qué les recuerda la técnica utilizada? ¿A qué otras obras que conocen se parece?"
+          ],
+          "respuesta": "¿Qué destaca más en esta obra? ¿Quién es el personaje retratado? ¿A qué época pertenece? ¿Qué les recuerda la técnica utilizada? ¿A qué otras obras que conocen se parece?",
+          "respuestaCorta": "Preguntas de inicio de análisis.",
+          "solucionario": "Para iniciar el análisis, es pedagógicamente adecuado comenzar con la observación descriptiva y el reconocimiento de elementos familiares y técnicos antes de pasar a la interpretación profunda o el significado, que es lo que proponen las preguntas de la opción seleccionada.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        },
+        {
+          "pregunta": "En la exposición, al lado de la pieza, se ubica un texto que describe la obra. A continuación se presentan algunas frases extraídas de ese texto. ¿Cuál de las frases evidencia una reflexión contemporánea sobre la pieza de Nadín Ospina?",
+          "opciones": [
+            "\"El artista pone en tensión dos culturas distintas, la tradicional y la globalizada, mostrando una compleja forma hibrida\".",
+            "\"Haciendo uso de la técnica de escultura en piedra, el artista logra proporciones armoniosas entre las distintas partes de la obra\".",
+            "\"En la exposición, el artista hace uso de la iluminación sobre su obra para resaltar los contornos y potenciar su carácter expresivo\"."
+          ],
+          "respuesta": "\"El artista pone en tensión dos culturas distintas, la tradicional y la globalizada, mostrando una compleja forma hibrida\".",
+          "respuestaCorta": "Reflexión contemporánea.",
+          "solucionario": "Esta frase aborda conceptos temáticos y conceptuales relevantes al arte contemporáneo como la globalización, la hibridación cultural y la tensión tradición-modernidad, a diferencia de las otras opciones que son meramente técnicas o formales.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_arte_2019_q61_62",
+      "contexto": "Lea la siguiente descripción y responda las preguntas 61 y 62.\nDurante el siglo XIX, el pintor costumbrista Pancho Fierro (1807-1879), representó en sus acuarelas la realidad limeña de aquel entonces. A continuación, se muestra una de sus acuarelas, que representa una danza afroperuana:",
+      "imagen": "img/arte_2019_q61_62.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Qué danza está representada en la acuarela?",
+          "opciones": [
+            "Hatajo de negritos.",
+            "Son de los diablos.",
+            "Zapateo criollo."
+          ],
+          "respuesta": "Son de los diablos.",
+          "respuestaCorta": "Identificación de danza.",
+          "solucionario": "La acuarela muestra personajes caracterizados con máscaras de diablos y acompañamiento musical, característico de la danza afroperuana 'Son de los diablos' tradicionalmente bailada en Corpus Christi y Carnavales.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        },
+        {
+          "pregunta": "Después de mostrarles la acuarela de Pancho Fierro a los estudiantes, el docente de Arte y Cultura les enseña otra imagen de la misma danza, pero ejecutada en la época actual, para que las comparen y así conozcan la evolución de la danza en el tiempo. ¿Cuál de los siguientes grupos de preguntas es el más adecuado para iniciar el análisis de las imágenes con los estudiantes?",
+          "opciones": [
+            "¿Qué les llama más la atención de la imagen actual de la danza? ¿Qué semejanzas y diferencias encuentran en el vestuario de ambas imágenes? ¿Y entre las máscaras utilizadas antiguamente y las actuales? ¿Qué instrumentos musicales observan en cada imagen?",
+            "¿Qué género de danza se visualiza en las imágenes? ¿Cómo es la postura corporal de los bailarines en cada imagen? ¿Cuál es el contexto histórico de la primera imagen? ¿Cuál es el contexto histórico de la segunda imagen? ¿Qué valor cultural tiene esta danza?",
+            "¿Habían escuchado hablar de esta danza? ¿Han visto bailar esta danza antes? ¿Por qué el vestuario actual es diferente? ¿Los personajes siguen llevando máscara en la actualidad? ¿Conocen el mensaje de la danza?"
+          ],
+          "respuesta": "¿Qué les llama más la atención de la imagen actual de la danza? ¿Qué semejanzas y diferencias encuentran en el vestuario de ambas imágenes? ¿Y entre las máscaras utilizadas antiguamente y las actuales? ¿Qué instrumentos musicales observan en cada imagen?",
+          "respuestaCorta": "Análisis comparativo inicial.",
+          "solucionario": "Estas preguntas fomentan la observación directa y la comparación visual (vestuario, máscaras, instrumentos) entre las dos épocas, lo cual es el paso fundamental para entender la evolución antes de pasar a interpretaciones históricas o de valor más complejas.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_arte_2019_q63",
+      "contexto": "Como parte del calentamiento previo al ensayo de danza, la docente de Arte y Cultura solicita a los estudiantes que, de pie, formen un círculo entre todos; luego les indica que muevan la cabeza en círculos hacia la derecha y luego hacia la izquierda; después, les indica que giren sus extremidades superiores como si fueran aspas de molino, primero hacia adelante y luego hacia atrás; por último, les indica que dibujen en el aire círculos con las manos, primero hacia la derecha, luego hacia la izquierda, evitando mover el antebrazo y el brazo.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué movimientos están realizando los estudiantes?",
+          "opciones": [
+            "Extensiones.",
+            "Pronaciones.",
+            "Circunducciones."
+          ],
+          "respuesta": "Circunducciones.",
+          "respuestaCorta": "Identificación de movimiento articular.",
+          "solucionario": "La circunducción es el movimiento circular de un miembro o parte del mismo alrededor de un eje, combinando flexión, extensión, abducción y aducción, que es exactamente lo descrito (círculos con cabeza, brazos como aspas, manos).",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+  
+    {
+      "idGrupo": "cp_arte_2019_q64_65",
+      "contexto": "Lea la siguiente descripción y responda las preguntas 64 y 65.\n\"Esta bailarina y coreógrafa es considerada por muchos como la madre de la danza moderna. Ella enfatiza la fluidez de los movimientos libres, en donde el final de un movimiento siempre lleva al principio del siguiente, y no hay interrupción en el flujo de la danza. Los movimientos se inician desde el plexo solar de una manera natural, en armonía con la respiración y la música. Propone explorar movimientos humanos como caminar, correr, saltar, brincar, arrodillarse, recostarse, dar saltitos, saltar por encima de algo en su forma más pura y orgánica, lo que ayuda al bailarín a descubrir y expresar los ritmos de la naturaleza, la musicalidad de la música clásica, y las líneas y formas del arte griego, lo que permite irradiar una gracia natural en la danza y representar la naturalidad en escena\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿A quién hace referencia el texto mostrado?",
+          "opciones": [
+            "A Isadora Duncan.",
+            "A Martha Graham.",
+            "A Doris Humphrey."
+          ],
+          "respuesta": "A Isadora Duncan.",
+          "respuestaCorta": "Identificación de bailarina.",
+          "solucionario": "La descripción corresponde a Isadora Duncan, pionera de la danza moderna, conocida por inspirarse en el arte griego, la naturaleza y por situar el origen del movimiento en el plexo solar.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        },
+        {
+          "pregunta": "Los estudiantes están creando una coreografía de danza y la docente nota que varios realizan movimientos mecánicos y rígidos; por eso, se propone incorporar algunos ejercicios basados en el estilo de danza descrito anteriormente. ¿Cuál de las siguientes actividades es la más pertinente?",
+          "opciones": [
+            "Indicar a los estudiantes que se sienten en el piso y, reposando sobre los isquiones, contraigan los músculos abdominales, levanten las extremidades y suspendan el cuerpo como si estuvieran flotando en el aire; luego, pedirles que relajen el cuerpo y que repitan el ejercicio.",
+            "Proponer a los estudiantes que caminen por todo el espacio muy lentamente realizando movimientos suaves con todo el cuerpo y llevando las extremidades hacia distintas direcciones con el menor esfuerzo posible, como si se movieran en cámara lenta.",
+            "Solicitar a los estudiantes que evoquen el recuerdo de la imagen y el sonido del mar, y que se desplacen libremente por todo el espacio mientras imitan el movimiento de las olas utilizando diferentes partes de su cuerpo."
+          ],
+          "respuesta": "Solicitar a los estudiantes que evoquen el recuerdo de la imagen y el sonido del mar, y que se desplacen libremente por todo el espacio mientras imitan el movimiento de las olas utilizando diferentes partes de su cuerpo.",
+          "respuestaCorta": "Actividad estilo Duncan.",
+          "solucionario": "Esta actividad se alinea con la propuesta de Isadora Duncan de buscar la fluidez, la organicidad y la conexión con los ritmos de la naturaleza (como las olas del mar) para superar la rigidez mecánica.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_arte_2019_q66",
+      "contexto": "Los estudiantes están practicando una coreografía de danza y el docente observa que, a pesar de esforzarse, uno de los estudiantes aún no logra tener fluidez en los movimientos que realiza con las piernas. El docente decide brindarle retroalimentación utilizando la \"técnica del sándwich\", la cual consiste en primero darle un mensaje positivo, luego mencionarle el aspecto que debe mejorar y finalmente darle otro mensaje positivo o ejemplo. ¿Cuál de los siguientes comentarios es la retroalimentación más adecuada teniendo en cuenta la \"técnica del sandwich\"?",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes comentarios es la retroalimentación más adecuada teniendo en cuenta la \"técnica del sandwich\"?",
+          "opciones": [
+            "\"Me gusta mucho como bailas, tienes talento para el arte y te felicito por ello, pero no te esfuerzas lo suficiente porque aún hay mucha rigidez cuando realizas movimientos con tus piernas; por eso, mira mi ejemplo, te demostraré algunos movimientos que tienen más fluidez, ojalá que con ello aprendas y mejores\".",
+            "\"He observado que te esfuerzas mucho y felicito tu entusiasmo y dedicación; también he observado que tus piernas aún tienen rigidez en algunos movimientos, pero si, por ejemplo, relajas los músculos de las piernas flexionando ligeramente las rodillas, tus movimientos tendrán más fluidez; inténtalo y lo conseguirás\".",
+            "\"¿Te has dado cuenta de cuánto has progresado bailando? Estoy asombrado por todo lo que has logrado, casi lo haces perfectamente si no fuera porque los movimientos de tus piernas no tienen suficiente fluidez, lo que le resta calidad a la coreografía; pero no te preocupes, mira el ejemplo de tus compañeros, ellos sí tienen mucha fluidez en sus piernas\"."
+          ],
+          "respuesta": "\"He observado que te esfuerzas mucho y felicito tu entusiasmo y dedicación; también he observado que tus piernas aún tienen rigidez en algunos movimientos, pero si, por ejemplo, relajas los músculos de las piernas flexionando ligeramente las rodillas, tus movimientos tendrán más fluidez; inténtalo y lo conseguirás\".",
+          "respuestaCorta": "Técnica del sándwich.",
+          "solucionario": "Esta opción cumple estrictamente la estructura: Elogio al esfuerzo (Positivo) -> Observación de rigidez y sugerencia técnica (Mejora) -> Ánimo final \"lo conseguirás\" (Positivo).",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_arte_2019_q67_70",
+      "contexto": "Lea la siguiente situación y resuelva las preguntas 67, 68, 69 y 70.\nUn docente de Arte y Cultura conversa con sus estudiantes sobre una problemática que se vive alrededor de la IE: los continuos robos y asaltos que sufren los vecinos. Después de investigar, analizar la situación y dialogar con los estudiantes sobre cómo enfrentar esa problemática social por medio del arte, acuerdan realizar un proyecto en el que crearán una coreografía grupal al ritmo de hip hop. La presentación artística se llamará ¡Basta ya, no a la violencia!, y con ella sensibilizarán a la comunidad educativa sobre la delincuencia y harán un llamado a la convivencia pacífica.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Durante la situación, una de las estudiantes pregunta al docente: \"Profesor, o sea, vamos a hacer una coreografía. Pero, ¿qué es una coreografía?\". El docente aprovecha la oportunidad para trasladar la pregunta a la clase y promover la participación en el aula. Tres estudiantes responden:\nFlor: \"Una coreografía es cuando los movimientos de los bailarines se escriben en un papel, porque 'grafía' significa escritura; por ejemplo, cuando dibujamos en una columna círculos para representar a los hombres y en otra columna ponemos aspas para representar a las mujeres. Así los bailarines saben en dónde ponerse en el escenario\".\nChristian: \"La coreografía es una composición de movimientos, como cuando una o varias personas hacen un conjunto o varias figuras en el espacio con diferentes pasos y gestos que se relacionan entre sí y que se realizan secuencialmente uno tras otro al ritmo de una música\".\nRosa María: \"Profesor, la coreografía es el desplazamiento de los bailarines en el escenario, o sea la forma en la que se trasladan, si es en círculos o haciendo caminos rectos o caminos ondulantes... o sea, es la forma en la que recorren el espacio o el escenario\".\n¿Cuál de los comentarios es el que más se aproxima al concepto de coreografía?",
+          "opciones": [
+            "El de Flor.",
+            "El de Christian.",
+            "El de Rosa María."
+          ],
+          "respuesta": "El de Christian.",
+          "respuestaCorta": "Concepto de coreografía.",
+          "solucionario": "Christian define correctamente la coreografía como el arte de componer movimientos y figuras en el espacio y tiempo (ritmo), más allá de la simple notación (Flor) o el mero desplazamiento (Rosa María).",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        },
+        {
+          "pregunta": "Luego de definir lo que van a realizar como proyecto, ¿cuál de las siguientes acciones es la más adecuada para continuar con su ejecución?",
+          "opciones": [
+            "Designar roles y nombrar a los estudiantes que los ejecutarán.",
+            "Hacer un listado de los materiales que se necesitarán para realizar el proyecto.",
+            "Elaborar una lista de las actividades a realizar en el proyecto y los tiempos que requieren."
+          ],
+          "respuesta": "Elaborar una lista de las actividades a realizar en el proyecto y los tiempos que requieren.",
+          "respuestaCorta": "Planificación del proyecto.",
+          "solucionario": "Tras definir el proyecto, el paso lógico inmediato de gestión es la planificación y cronograma (lista de actividades y tiempos) antes de asignar roles específicos o buscar materiales.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        },
+        {
+          "pregunta": "Previamente a la creación de la coreografía, ¿cuál de las siguientes estrategias es la más pertinente para explorar los saberes previos de los estudiantes sobre la danza urbana?",
+          "opciones": [
+            "Poner canciones de música urbana, solicitar a todos los estudiantes que caminen por el espacio y que dancen libremente para poder observar sus conocimientos y habilidades en este tipo de danza.",
+            "Hacer una demostración rápida delante de los estudiantes para que aprecien los movimientos básicos de la danza urbana y luego pedirles que hagan una secuencia de movimientos sencilla basada en lo observado.",
+            "Preguntar a los estudiantes si antes han ejecutado coreografías de danza urbana y cómo les fue al realizarlas, para así conocer si saben bailar este tipo de danza."
+          ],
+          "respuesta": "Poner canciones de música urbana, solicitar a todos los estudiantes que caminen por el espacio y que dancen libremente para poder observar sus conocimientos y habilidades en este tipo de danza.",
+          "respuestaCorta": "Exploración activa de saberes.",
+          "solucionario": "La exploración práctica y libre permite al docente diagnosticar los saberes previos corporales y rítmicos reales de los estudiantes, a diferencia de una pregunta declarativa o una imitación dirigida.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        },
+        {
+          "pregunta": "Después de seleccionar la música del agrado de los estudiantes, empezarán a crear la coreografía. ¿Cuál de las siguientes alternativas es la más adecuada para que el docente facilite a los estudiantes el proceso de creación de la coreografía?",
+          "opciones": [
+            "Mostrar diversos videos de concursos de coreografías de hip hop para que los estudiantes observen las típicas secuencias de movimientos utilizadas en este género musical, para que luego escojan las que más les gusten, las integren y las reproduzcan hasta que a todos les salga a la perfección.",
+            "Dividir a los estudiantes en grupos, pedirles que formen círculos y que voluntariamente vayan saliendo al centro del círculo para improvisar libremente movimientos al ritmo de la música; luego pedirles que seleccionen los movimientos que más les gustaron para luego ir ensamblándolos en secuencias.",
+            "Demostrar frente a los estudiantes diversas secuencias cortas de movimientos y pedirles que las imiten lo mejor que puedan; repetir las secuencias varias veces hasta que todos las hayan aprendido y luego pedirles que junten todas las secuencias en una sola de manera coherente y que la practiquen hasta dominarla."
+          ],
+          "respuesta": "Dividir a los estudiantes en grupos, pedirles que formen círculos y que voluntariamente vayan saliendo al centro del círculo para improvisar libremente movimientos al ritmo de la música; luego pedirles que seleccionen los movimientos que más les gustaron para luego ir ensamblándolos en secuencias.",
+          "respuestaCorta": "Creación colaborativa.",
+          "solucionario": "Esta estrategia fomenta la creatividad, la participación activa y el trabajo colaborativo (cypher), características centrales de la cultura hip hop y del enfoque pedagógico constructivista.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_arte_2019_q71",
+      "contexto": "Observe la siguiente imagen de un pentagrama:",
+      "imagen": "img/arte_2019_q71.png",
+      "preguntas": [
+        {
+          "pregunta": "Lo mostrado en este pentagrama es:",
+          "opciones": [
+            "Una escala.",
+            "Una melodía.",
+            "Un contrapunto."
+          ],
+          "respuesta": "Una melodía.",
+          "respuestaCorta": "Lectura musical.",
+          "solucionario": "El pentagrama muestra una sucesión de notas con alturas y duraciones variadas organizadas en compases, lo que constituye una línea melódica, no una simple escala (sucesión ordenada) ni contrapunto (varias voces).",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_arte_2019_q72",
+      "contexto": "Los estudiantes han aprendido a tocar el tambor usando partituras de notación rítmica. El docente ya les ha enseñado a leer las figuras redondas, blancas y negras. ¿Qué combinación de figuras es más adecuado enseñarles a leer a continuación?",
+      "imagen": "img/arte_2019_q72.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Qué combinación de figuras es más adecuado enseñarles a leer a continuación?",
+          "opciones": [
+            "Opción A",
+            "Opción B",
+            "Opción C"
+          ],
+          "respuesta": "Opción B",
+          "respuestaCorta": "Progresión rítmica.",
+          "solucionario": "Siguiendo la progresión lógica de división de valores rítmicos (redonda, blanca, negra), el siguiente paso pedagógico suele ser la introducción de las corcheas (o sus respectivos silencios), representadas en la opción correcta.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_arte_2019_q73",
+      "contexto": "Un docente de Arte y Cultura desarrolla una unidad en la cual sus estudiantes están apreciando una diversidad de canciones de música criolla. Tres estudiantes expresan sus opiniones sobre el vals \"Callejón de un solo caño\":\nHéctor: \"La música de la canción es alegre, pero la letra toca también temas tristes, como la pobreza y la gente que vive con un solo caño para varias familias\".\nLuciana: \"La voz es más aguda en la parte del coro, y eso le da más alegría al contarnos del taconear en la jarana\".\nMicaela: \"La canción tiene ritmo de vals criollo: si uno se pone a contar los tiempos, puede sentir claramente la división en tres pulsos y la rapidez del ritmo\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué estudiante está haciendo un análisis exclusivamente formal de la canción?",
+          "opciones": [
+            "Héctor.",
+            "Luciana.",
+            "Micaela."
+          ],
+          "respuesta": "Micaela.",
+          "respuestaCorta": "Análisis formal.",
+          "solucionario": "Micaela se centra únicamente en la estructura musical (ritmo, métrica, pulsos), sin referirse al contenido lírico ni a la interpretación emocional, constituyendo un análisis formal.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_arte_2019_q74",
+      "contexto": "El docente lleva a la clase una guitarra acústica y una guitarra eléctrica a fin de que los estudiantes puedan compararlas y comprender las funciones que cumplen las distintas partes de los instrumentos. El docente señala a los estudiantes las diferencias entre las partes de ambos instrumentos, toca unos acordes en ellos y pregunta a los estudiantes: \"¿Por qué creen que la guitarra acústica suena más fuerte que la eléctrica cuando no está conectada al amplificador?\". Tres estudiantes responden:\nDaniela: \"Porque el cuerpo de la guitarra acústica es hueco y vibra un montón, y eso hace que funcione parecido a un parlante\".\nMiriam: \"Porque el puente de la guitarra acústica es de madera y vibra más que el puente de la eléctrica, que es de metal\".\nMicky: \"Porque las cuerdas de la guitarra acústica son más gruesas y vibran con más fuerza, y eso hace que el cuerpo de la guitarra suene también más fuerte\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué estudiante ha brindado una explicación correcta?",
+          "opciones": [
+            "Daniela.",
+            "Miriam.",
+            "Micky."
+          ],
+          "respuesta": "Daniela.",
+          "respuestaCorta": "Acústica de instrumentos.",
+          "solucionario": "Daniela identifica correctamente que la caja de resonancia hueca de la guitarra acústica amplifica las vibraciones de las cuerdas, a diferencia del cuerpo sólido de la eléctrica.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_arte_2019_q75",
+      "contexto": "Un grupo de estudiantes propone al docente de Arte y Cultura que les enseñe a usar un software que puedan utilizar en el aula de Innovación Pedagógica o en un teléfono celular para crear canciones con instrumentos musicales virtuales y grabando su propia voz. El docente ve en ello una buena oportunidad para desarrollar la competencia de creación artística en los estudiantes, así que decide buscar lo requerido.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes programas es adecuado para atender el pedido de los estudiantes?",
+          "opciones": [
+            "Software de notación musical.",
+            "Entorno de programación musical.",
+            "Estación de trabajo de audio digital."
+          ],
+          "respuesta": "Estación de trabajo de audio digital.",
+          "respuestaCorta": "Software de producción musical.",
+          "solucionario": "Las Estaciones de Trabajo de Audio Digital (DAW) están diseñadas específicamente para grabar audio, usar instrumentos virtuales y secuenciar música, que es exactamente lo que los estudiantes solicitan.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_arte_2019_q76",
+      "contexto": "Lea la siguiente situación y responda las preguntas 76, 77, 78, 79 y 80.\nComo parte de un festival de cine en una IE, se ha proyectado la película europea Los Coristas. Entusiasmados por la película, los estudiantes le solicitan al docente de Arte y Cultura que les enseñe a cantar en coro. El docente ve en esto una buena oportunidad para planificar un proyecto en el cual la clase experimentará y explorará el lenguaje de la música.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Al iniciar el proyecto, el docente desea activar y recoger los saberes previos de los estudiantes sobre técnicas de canto. ¿Cuál de las siguientes actividades es más apropiada para dicho fin?",
+          "opciones": [
+            "Solicitar a un voluntario cantar una canción frente a la clase y preguntar a los estudiantes: \"¿Qué podría hacer su compañero para cantar mejor?\", e ir recogiendo las sugerencias de la clase en una lista en la pizarra.",
+            "Preguntar a los estudiantes si les gusta cantar, si lo suelen hacer, y cuáles son sus artistas favoritos; luego, preguntarles qué aspectos creen que es necesario tomar en cuenta para poder cantar bien, mientras se toma nota de las ideas en la pizarra.",
+            "Preguntar a los estudiantes si han oído antes sobre el uso del diafragma en el canto y cuál es su importancia. Hacer preguntas similares sobre la importancia del control de la respiración y el uso de los resonadores vocales, e ir tomando nota de las ideas principales."
+          ],
+          "respuesta": "Preguntar a los estudiantes si les gusta cantar, si lo suelen hacer, y cuáles son sus artistas favoritos; luego, preguntarles qué aspectos creen que es necesario tomar en cuenta para poder cantar bien, mientras se toma nota de las ideas en la pizarra.",
+          "respuestaCorta": "Recojo de saberes previos.",
+          "solucionario": "Esta estrategia conecta con los intereses personales de los estudiantes (artistas favoritos) y permite que expresen sus nociones intuitivas sobre la técnica vocal en un ambiente seguro, sin la presión de evaluar a un compañero ni la rigidez de preguntas técnicas cerradas.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+   
+    {
+      "idGrupo": "cp_arte_2019_q77_80",
+      "contexto": "Lea la siguiente situación y responda las preguntas 76, 77, 78, 79 y 80.\nComo parte de un festival de cine en una IE, se ha proyectado la película europea Los Coristas. Entusiasmados por la película, los estudiantes le solicitan al docente de Arte y Cultura que les enseñe a cantar en coro. El docente ve en esto una buena oportunidad para planificar un proyecto en el cual la clase experimentará y explorará el lenguaje de la música.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Luego de recoger los saberes previos, el docente observa que no todos los estudiantes están motivados para cantar frente a sus compañeros: a algunos les da un poco de vergüenza y otros dicen que no les provoca. ¿Cuál de las siguientes estrategias es más adecuada para que los estudiantes se motiven a cantar?",
+          "opciones": [
+            "Contar a los estudiantes experiencias de cantantes famosos que tuvieron inicios muy adversos y que lograron enfrentar todo tipo de dificultades para revertir su suerte y alcanzar el éxito. Explicar a los estudiantes que ese podría ser el caso de cualquiera de ellos, si se esfuerzan por superar la vergüenza y ponen toda su atención y ganas de aprender.",
+            "Explicar a los estudiantes los objetivos del proyecto y los beneficios que conseguirán al desarrollarlo. Discutir con ellos el carácter universal de la música y la importancia que tiene para desarrollar la identidad de cada persona y de toda su comunidad. Anotar las conclusiones de la clase en la pizarra y entre todos escribir una frase motivadora que recitarán todos juntos al iniciar cada sesión de canto.",
+            "Pedir a los estudiantes que apunten los títulos de sus canciones favoritas en trozos de papel. Luego, dividir a la clase en equipos y jugar \"charadas\": en cada turno, un miembro de uno de los equipos sacará un papel al azar y deberá representar el título de la canción a sus compañeros solo con gestos. Para ganar el punto, luego de adivinar el título, los miembros del equipo deberán cantar una parte de la canción."
+          ],
+          "respuesta": "Pedir a los estudiantes que apunten los títulos de sus canciones favoritas en trozos de papel. Luego, dividir a la clase en equipos y jugar \"charadas\": en cada turno, un miembro de uno de los equipos sacará un papel al azar y deberá representar el título de la canción a sus compañeros solo con gestos. Para ganar el punto, luego de adivinar el título, los miembros del equipo deberán cantar una parte de la canción.",
+          "respuestaCorta": "Estrategia lúdica de desinhibición.",
+          "solucionario": "El juego y la dinámica grupal (charadas) reducen la ansiedad y la vergüenza escénica de manera natural, fomentando la participación desinhibida a través de una actividad lúdica y colaborativa.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        },
+        {
+          "pregunta": "El docente desarrolla con la clase una serie de ejercicios de calentamiento vocal. Durante los ejercicios, uno de los estudiantes le dice al docente: \"Profesor, no me salen bien las notas más agudas. Siento que sí puedo llegar a la nota, pero al poco rato me duele la garganta\". ¿Cuál de las siguientes alternativas es más pertinente para ayudar al estudiante a superar su dificultad?",
+          "opciones": [
+            "Explicar cómo bajar una octava a todas las notas que no pueda cantar.",
+            "Indicarle que aspire mayor cantidad de aire justo antes de cantar cada nota aguda.",
+            "Enseñarle cómo relajar el cuerpo y a usar el diafragma para dar soporte a las notas."
+          ],
+          "respuesta": "Enseñarle cómo relajar el cuerpo y a usar el diafragma para dar soporte a las notas.",
+          "respuestaCorta": "Técnica vocal (diafragma).",
+          "solucionario": "El dolor de garganta al cantar agudos suele indicar tensión y falta de apoyo respiratorio. La solución pedagógica correcta es enseñar la técnica de relajación y apoyo diafragmático para evitar daños vocales.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        },
+        {
+          "pregunta": "Luego de realizar el calentamiento vocal, el docente necesita conocer de manera general cuál es el rango de notas que pueden cantar los estudiantes para agruparlos según su registro vocal. Sin embargo, algunos estudiantes aún se sienten inseguros para cantar. En la situación descrita, ¿Cuál de los siguientes métodos es más apropiado para encontrar el rango vocal aproximado de los estudiantes?",
+          "opciones": [
+            "Tocar una nota en un piano o guitarra y pedir individualmente a cada estudiante que la cante cuando se sienta listo, y luego descender progresivamente por semitonos solicitando a cada estudiante que reproduzca las notas que el docente toca en el piano o guitarra, hasta llegar a la nota más grave que cada estudiante pueda cantar sin forzar excesivamente su voz. Repetir el mismo procedimiento con cada estudiante para las notas agudas.",
+            "Enseñar a los estudiantes una canción sencilla, dividirlos en grupos y pedirle a cada grupo que la cante mientras el docente les da notas de referencia con un xilófono o una flauta. Luego, ir cambiando el tono de la canción progresivamente para identificar qué estudiantes pueden cantar las notas más agudas o las más graves, mientras se elabora una lista de los estudiantes con registros de voz similares.",
+            "Mostrar a los estudiantes un diagrama con la clasificación de los registros vocales (soprano, mezzosoprano, contralto, tenor, barítono y bajo) indicando los rasgos que corresponden a cada voz. Luego, entregar a los estudiantes agrupados en parejas un instrumento musical como una flauta o un xilófono para que ellos mismos encuentren sus propios registros usando la información del diagrama."
+          ],
+          "respuesta": "Enseñar a los estudiantes una canción sencilla, dividirlos en grupos y pedirle a cada grupo que la cante mientras el docente les da notas de referencia con un xilófono o una flauta. Luego, ir cambiando el tono de la canción progresivamente para identificar qué estudiantes pueden cantar las notas más agudas o las más graves, mientras se elabora una lista de los estudiantes con registros de voz similares.",
+          "respuestaCorta": "Identificación de rango vocal grupal.",
+          "solucionario": "Este método es menos invasivo y estresante para estudiantes inseguros que la prueba individual. Cantar en grupo una canción conocida y transportarla (cambiar de tono) permite al docente observar los límites vocales de forma natural y segura.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        },
+        {
+          "pregunta": "El docente ha propuesto varias canciones a los estudiantes y, luego de discutirlo, han seleccionado algunas y las han aprendido. El docente nota que los estudiantes disfrutan en particular al cantar una de las canciones seleccionadas, y ve en ello una oportunidad para realizar con la clase una actividad de análisis que permita que los estudiantes exploren la relación entre el contenido de las letras y algunas de las características musicales de la canción en cuestión. ¿Cuál de las siguientes actividades es más apropiada para hacer el análisis de la canción?",
+          "opciones": [
+            "Hacer un plenario en el que los estudiantes analicen el contenido de la letra de la canción, identificando secciones con contenidos contrastantes. Analizar luego las diferencias entre la extensión de los versos en las estrofas y la de los coros. Identificar luego el mensaje central de la canción y los principales elementos con los que se expresa en la letra.",
+            "Solicitar a los estudiantes que canten la melodía de la canción sin pronunciar la letra, y que comparen las emociones que evocan las distintas partes de la melodía. Luego dividir la canción en secciones y pedir a los estudiantes que enumeren características musicales de cada sección. Finalmente preguntarles cuál creen que es la relación entre las emociones provocadas por la música de las distintas partes de la canción y el contenido de la letra.",
+            "Pedir a los estudiantes que identifiquen las diversas secciones dentro de la canción y su función, así como la estructura de los versos y los tipos de rima que son usados. Preguntar cuáles son los rasgos musicales característicos de la canción, como el género musical, los instrumentos musicales utilizados, la presencia o no de solos instrumentales, etc., y luego pedirles a los estudiantes que relacionen los rasgos identificados con la información recogida sobre los versos."
+          ],
+          "respuesta": "Solicitar a los estudiantes que canten la melodía de la canción sin pronunciar la letra, y que comparen las emociones que evocan las distintas partes de la melodía. Luego dividir la canción en secciones y pedir a los estudiantes que enumeren características musicales de cada sección. Finalmente preguntarles cuál creen que es la relación entre las emociones provocadas por la música de las distintas partes de la canción y el contenido de la letra.",
+          "respuestaCorta": "Análisis música-letra.",
+          "solucionario": "Esta actividad vincula directamente la experiencia emocional de la música (melodía) con el contenido lírico, fomentando un análisis profundo de cómo los elementos musicales refuerzan el significado del texto.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_arte_2019_q81",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes situaciones durante una obra de teatro representa una \"ruptura de la cuarta pared\"?",
+          "opciones": [
+            "Un personaje le dice a otro durante una escena: \"¿Has visto la cantidad de gente que ha venido a vernos actuar el día de hoy?\".",
+            "Los personajes de una escena señalan hacia la audiencia y dicen en coro: \"Allá, en el horizonte, podemos ver los retos que nos depara el futuro\".",
+            "Sobre el escenario, dos personajes se enfrentan en una pelea; de repente, en el fondo de la sala aparece un tercer personaje que les grita que se detengan mientras corre hacia el escenario."
+          ],
+          "respuesta": "Un personaje le dice a otro durante una escena: \"¿Has visto la cantidad de gente que ha venido a vernos actuar el día de hoy?\".",
+          "respuestaCorta": "Ruptura de la cuarta pared.",
+          "solucionario": "La ruptura de la cuarta pared ocurre cuando los personajes reconocen su condición de actores o la presencia del público, rompiendo la ilusión de realidad escénica, como en la opción donde comentan sobre la asistencia del público.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_arte_2019_q82",
+      "contexto": "El Diccionario Akal de Teatro (1988) dice lo siguiente sobre el término 'decorado verbal': \"Dícese de la descripción que realiza uno de los personajes de la obra teatral sobre el decorado y la ambientación de una escena. El recurso del decorado verbal puede servir para suplir, en parte o en todo, la escenografía, así como para ayudar a la labor de dirección\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes parlamentos evidencia la presencia de decorado verbal?",
+          "opciones": [
+            "\"En ese momento me encontraba pasmado, rodeado de individuos que me miraban con asombro, como si fuera yo un ente extraño fuera de lugar. Era muy tarde, hacía mucho frío y un olor hediondo saturaba el ambiente\".",
+            "\"Las estrellas que verás desde la superficie lunar no son las mismas que vemos en la tierra. Su brillo será mayor, pero helado, y su vista, antes de ser motivo de alegría, parecerá un anticipo de la muerte\".",
+            "\"Me sorprende la diversidad de cuadros que cuelgan en las paredes de esta habitación. Mis ojos saltan de un Szyszlo a un Chávez o a un Llona. Sus colores vivos y formas sinuosas estimulan mis retinas, y me pregunto cuánto se ha invertido para reunir esta colección formidable\"."
+          ],
+          "respuesta": "\"Me sorprende la diversidad de cuadros que cuelgan en las paredes de esta habitación. Mis ojos saltan de un Szyszlo a un Chávez o a un Llona. Sus colores vivos y formas sinuosas estimulan mis retinas, y me pregunto cuánto se ha invertido para reunir esta colección formidable\".",
+          "respuestaCorta": "Identificación de decorado verbal.",
+          "solucionario": "El personaje describe explícitamente elementos visuales del entorno físico (cuadros, paredes) que probablemente no están materialmente en escena, supliendo la escenografía mediante la palabra.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_arte_2019_q83",
+      "contexto": "El filósofo alemán Georg Wilhelm Friedrich Hegel escribió lo siguiente sobre la tragedia: \"Lo trágico consiste en que, en un conflicto, ambas partes de la oposición tengan razón, pero que no puedan alcanzar el verdadero contenido de su finalidad sino negando e hiriendo a la otra fuerza, que también tiene los mismos derechos, y de este modo se hacen culpables en su moralidad y por esta moralidad misma\".\nEl docente de Arte y Cultura lee y analiza el pasaje citado con los estudiantes y luego les solicita que creen la sinopsis de una obra de teatro o película que se ajuste a lo descrito en el texto. Un estudiante escribe la siguiente sinopsis: \"Víctor ha amado en secreto a Sofía por décadas, a pesar de que ella estaba casada. Después de su repentino divorcio, Víctor tendrá una oportunidad de acercarse a Sofía, pero deberá competir con Yonhy, quien desde hace mucho tiempo aspira a conquistarla para estafarla y beneficiarse con sus propiedades\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué modificación es necesario hacer en la sinopsis para que se ajuste a lo descrito en el texto citado?",
+          "opciones": [
+            "Los personajes en conflicto no se encuentran en igualdad de condiciones; es necesario que las motivaciones de Yonhy sean legítimas.",
+            "La trama no contiene un conflicto: es necesario hacer que Sofía y Víctor tengan intereses opuestos para poder introducir un elemento trágico.",
+            "La sinopsis no incluye información sobre las motivaciones de Sofía, lo que es necesario para juzgar la moralidad de sus aspiraciones y su oposición con los otros personajes."
+          ],
+          "respuesta": "Los personajes en conflicto no se encuentran en igualdad de condiciones; es necesario que las motivaciones de Yonhy sean legítimas.",
+          "respuestaCorta": "Concepto de tragedia hegeliana.",
+          "solucionario": "Según Hegel, la tragedia requiere que ambas fuerzas en conflicto tengan \"razón\" o legitimidad moral. En la sinopsis, Yonhy quiere estafar (ilegítimo), por lo que no hay conflicto trágico hegeliano a menos que su motivación se vuelva legítima.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_arte_2019_q84",
+      "contexto": "Un docente de Arte y Cultura propone a sus estudiantes la siguiente dinámica: les solicita que se coloquen en dos filas, frente a frente, formando parejas. Cada estudiante debe observar atentamente a su pareja: uno de ellos será el espejo y el otro hará ante él una serie de movimientos o acciones cotidianas y, después de un momento, cambiarán de roles. Los participantes deben representar con su pareja espejo una serie de personajes diferentes intentando moverse siempre de manera coordinada: un policía, una doctora, un profesor, un boxeador, un futbolista, una modelo, una vendedora, etc.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es el propósito principal de esta actividad?",
+          "opciones": [
+            "Que los estudiantes se ayuden entre sí a perfeccionar sus movimientos de manera que puedan realizar una representación más fidedigna de los personajes.",
+            "Que los estudiantes desarrollen su conciencia corporal, su capacidad de observación y atención, y la confianza en sí mismos y en los demás.",
+            "Que los estudiantes aprendan a reconocer y comunicar sus emociones de manera que se fortalezcan las relaciones afectivas en el grupo."
+          ],
+          "respuesta": "Que los estudiantes desarrollen su conciencia corporal, su capacidad de observación y atención, y la confianza en sí mismos y en los demás.",
+          "respuestaCorta": "Propósito del juego del espejo.",
+          "solucionario": "La dinámica del espejo es un ejercicio clásico teatral para fomentar la observación detallada del otro, la conciencia del propio cuerpo al imitar y la conexión/confianza con la pareja.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_arte_2019_q85",
+      "contexto": "Una docente conversa con sus estudiantes sobre la posibilidad de usar materiales reciclados para confeccionar el vestuario de la obra teatral que están preparando. En ese contexto, les muestra la foto de una niña usando un vestido confeccionado con hojas de papel periódico.\nÚrsula, una de las estudiantes de la clase, comenta: \"El vestido se ve muy bonito, pero para hacerlo tan bien seguramente se necesita de un profesional en la confección de vestuario, y en la clase nunca vamos a poder hacer algo así\". La docente considera que la opinión de la estudiante puede resultar desmotivadora para algunos de sus compañeros y por eso decide intervenir.",
+      "imagen": "img/arte_2019_q85.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes alternativas es la intervención más pertinente?",
+          "opciones": [
+            "\"Tienes razón, Úrsula, pero qué es más importante: ¿qué el vestido quede perfecto o que sea hecho con el corazón?\".",
+            "\"Úrsula, ¿será tan complicado hacer un vestido como este? A ver, pensemos, ¿qué tendríamos que hacer para lograr elaborar un vestido así de bonito?\".",
+            "\"Úrsula, tu opinión es muy valiosa, pero debes tener más cuidado con hacer comentarios negativos. ¿No crees que tu comentario podría desanimar a algunos de tus compañeros?\"."
+          ],
+          "respuesta": "\"Úrsula, ¿será tan complicado hacer un vestido como este? A ver, pensemos, ¿qué tendríamos que hacer para lograr elaborar un vestido así de bonito?\".",
+          "respuestaCorta": "Intervención pedagógica (andamiaje).",
+          "solucionario": "Esta intervención valida el desafío pero invita a descomponer el problema (pensamiento procedimental), fomentando la autoeficacia y el análisis constructivo en lugar de simplemente reprender o apelar a lo emocional.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_arte_2019_q86",
+      "contexto": "El Diccionario de teorías narrativas: Cine, Televisión, Transmedia (2017), de Lorenzo Vilches Manterola, dice lo siguiente sobre el término 'anacronía': \"Ruptura o inversión de la lógica temporal entre dos (o más) eventos de una historia. [...] En el contexto de la economía narrativa, la anacronía está constituida por dos modalidades temporales: la analepsis (también llamada flashback) y la prolepsis (también llamada flashforward)\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes alternativas es una anacronía en una puesta teatral?",
+          "opciones": [
+            "En la primera escena, se muestra la ceremonia de declaración de independencia del Perú. En la escena siguiente se muestran las primeras coordinaciones para la lucha por la independencia del Perú. En la última escena se muestra a Antonio José de Sucre reflexionando sobre el futuro del Perú luego de la batalla de Ayacucho.",
+            "En la primera escena, se muestra a Edwin discutiendo acaloradamente en la banca de una plaza con Yesenia, su enamorada. La siguiente escena muestra a Yesenia y a Edwin rompiendo su relación y a Yesenia marchándose de la plaza. La última escena muestra a Edwin sentado solo en la banca.",
+            "En la primera escena, se muestra a Mauricio buscando desesperadamente a su perro en una chacra durante la noche. En la segunda escena, se observa a Mauricio encontrarse con la Muerte en la oscuridad. En la última escena, la Muerte ayuda a Mauricio a encontrar a su perro en la chacra."
+          ],
+          "respuesta": "En la primera escena, se muestra la ceremonia de declaración de independencia del Perú. En la escena siguiente se muestran las primeras coordinaciones para la lucha por la independencia del Perú. En la última escena se muestra a Antonio José de Sucre reflexionando sobre el futuro del Perú luego de la batalla de Ayacucho.",
+          "respuestaCorta": "Identificación de anacronía.",
+          "solucionario": "La secuencia presenta un salto temporal hacia atrás (analepsis): inicia en 1821 (Independencia) y salta a las coordinaciones previas (antes de 1821), rompiendo el orden cronológico lineal.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_arte_2019_q87",
+      "contexto": "El dramaturgo brasilero Augusto Boal fue el creador del Teatro del oprimido, que desarrolla una serie de juegos o dinámicas que pueden ser útiles para desarrollar competencias de pensamiento crítico en quienes las practican. Una de estas dinámicas es el Teatro imagen. En el Teatro imagen todos los presentes participan en una actividad teatral guiados por un facilitador. El facilitador propone palabras o situaciones y uno de los participantes, actuando como un escultor y sin usar palabras, moldea a una o más personas que actúan como estatuas para construir una representación de lo propuesto por el facilitador. Luego, otro de los participantes podrá hacer las correcciones que crea convenientes a la escultura creada, y este proceso se repetirá hasta que todos los presentes estén satisfechos con el resultado.\nUna virtud importante del Teatro imagen es fomentar que los participantes comprendan que no todos entienden o representan una misma palabra o situación de una misma forma, pues cada cual parte de su propia subjetividad.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes actividades es la aplicación más pertinente del Teatro imagen en una sesión del área de Arte y Cultura?",
+          "opciones": [
+            "Los estudiantes forman grupos de cuatro personas. Cada grupo recibe una tarjeta distinta con una palabra escrita que deberá ser representada por todos los integrantes del grupo usando solo sus cuerpos. El docente toma fotografías de cada una de las representaciones y luego las muestra a la clase, invitando a los estudiantes a adivinar la palabra que estaba escrita en la tarjeta. El docente recoge las discrepancias que hubiera en la clase y facilita que los estudiantes las discutan. Finalmente, el docente promueve una reflexión sobre por qué motivos no todos interpretan de la misma forma la misma palabra.",
+            "El docente escoge a un grupo de estudiantes y les indica que, usando solo sus cuerpos, representen el significado de una palabra. El docente hace las correcciones necesarias a la escultura creada por los estudiantes y escribe algunos adjetivos en la pizarra; luego pregunta a la clase cuál de los adjetivos describe mejor la escultura creada por los estudiantes. Los estudiantes dan diversas respuestas y el docente les dice que la apreciación de la escultura está sujeta a la subjetividad de cada persona, haciendo un paralelo con la expresión \"todo depende del cristal con que se mira\".",
+            "El docente pregunta a los estudiantes si han escuchado hablar sobre el Teatro imagen. Luego de apuntar las respuestas de los estudiantes en la pizarra, el docente realiza una explicación sobre lo que es el Teatro imagen recogiendo la información aportada por los estudiantes. Luego, el docente muestra a los estudiantes imágenes de personas representando diversas palabras y les pregunta de cuántas formas diferentes es posible interpretar cada una de las palabras y por qué creen que es posible tanta diversidad de interpretaciones. Finalmente, el docente anota las conclusiones de los estudiantes en la pizarra."
+          ],
+          "respuesta": "Los estudiantes forman grupos de cuatro personas. Cada grupo recibe una tarjeta distinta con una palabra escrita que deberá ser representada por todos los integrantes del grupo usando solo sus cuerpos. El docente toma fotografías de cada una de las representaciones y luego las muestra a la clase, invitando a los estudiantes a adivinar la palabra que estaba escrita en la tarjeta. El docente recoge las discrepancias que hubiera en la clase y facilita que los estudiantes las discutan. Finalmente, el docente promueve una reflexión sobre por qué motivos no todos interpretan de la misma forma la misma palabra.",
+          "respuestaCorta": "Aplicación de Teatro Imagen.",
+          "solucionario": "Esta opción aplica correctamente la metodología: representación corporal de conceptos y posterior debate sobre las múltiples interpretaciones subjetivas, alineándose con el objetivo de Boal de explorar la subjetividad y el pensamiento crítico a través de la imagen corporal.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_arte_2019_q88_90",
+      "contexto": "Lea la siguiente situación y responda las preguntas 88, 89 y 90.\nEl Diccionario del Teatro de Patrice Pavis (1987) dice lo siguiente sobre las obras teatrales que se ocupan de hechos históricos: \"[La verdad histórica y la verdad dramática) (...) no tienen nada en común, y su confusión por parte de los dramaturgos engendra los malentendidos del realismo de la representación teatral. El 'buen' autor dramático posee la facultad de tomarse libertades con la historia. Algunas inexactitudes en la caracterización, la cronología - no tendrán consecuencia, siempre y cuando los procesos globales, los movimientos sociales y la determinación de las motivaciones de los grupos sean correctos. En particular, es importante, al menos en un análisis sociológico fundado, situar el conflicto en la confluencia de los movimientos históricos más profundos. (...) Si existe un compromiso entre verdad histórica y verdad dramática, ha de manifestarse a nivel de la motivación de la acción del héroe. Las motivaciones privadas (temperamentales, pasionales) jamás deben permitir que se olviden las motivaciones objetivas e históricas de la acción. El héroe conoce un destino a la vez único y ejemplar\".\nCon motivo del Bicentenario, los estudiantes de la clase de Arte y Cultura escribirán guiones de obras de teatro relacionadas con episodios de la historia del Perú.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Antes de iniciar la escritura, el docente lee con los estudiantes el texto citado del Diccionario del Teatro. Mario, uno de los estudiantes, levanta la mano y dice: \"Pero profesor, eso no puede ser. La historia es la historia, y los que hacen los guiones no tienen derecho a presentar las cosas como no son. ¿Cómo es posible que el señor Pavis del que usted nos habla diga eso?\". Después de agradecer a Mario por su intervención, ¿qué retroalimentación es más pertinente para ayudarlo a comprender el razonamiento del autor citado?",
+          "opciones": [
+            "\"Para Patrice Pavis, qué será más importante: ¿La exactitud histórica o la solidez del guion? Según lo que hemos leído en su texto, ¿permite Pavis cualquier variación o indica que hay algunas libertades que no es posible tomar? ¿Qué diferencia hay entre las cosas que permite cambiar y las que no?\".",
+            "\"¿Has considerado los intereses de Patrice Pavis y el contexto en el que escribió lo que hemos leído? ¿Consideras que es importante para todos los artistas la exactitud y la rigurosidad en materias académicas? ¿Crees que un artista debe tener libertad para poder expresar sus ideas sin ataduras o debe siempre pegarse a la historia?\".",
+            "\"¿Sabías que Patrice Pavis es un estudioso del teatro muy conocido y que ha sido profesor en varias universidades europeas de prestigio? Además de su diccionario, ha escrito muchos libros que analizan diversos aspectos del teatro y que son utilizados por estudiantes y profesionales de todo el mundo. Por eso, es conveniente que reflexiones sobre tu posición\"."
+          ],
+          "respuesta": "\"Para Patrice Pavis, qué será más importante: ¿La exactitud histórica o la solidez del guion? Según lo que hemos leído en su texto, ¿permite Pavis cualquier variación o indica que hay algunas libertades que no es posible tomar? ¿Qué diferencia hay entre las cosas que permite cambiar y las que no?\".",
+          "respuestaCorta": "Retroalimentación reflexiva.",
+          "solucionario": "Esta retroalimentación guía al estudiante a re-examinar el texto para encontrar la respuesta por sí mismo (el autor permite libertades cronológicas pero no en las motivaciones sociales profundas), promoviendo la comprensión lectora crítica en lugar de imponer autoridad.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        },
+        {
+          "pregunta": "Un grupo de estudiantes escribe la siguiente sinopsis para el guion de una obra relacionada con la Guerra del Pacífico: \"Pocas horas antes de la batalla de Arica, el coronel Francisco Bolognesi conversa con sus oficiales sobre la fama personal que recaerá sobre ellos si consiguen sobrevivir a la batalla y cómo esto afectará la vida de sus seres queridos\". ¿Cuál de las siguientes alternativas es una recomendación pertinente para que el guion de los estudiantes se ajuste a la definición del Diccionario del Teatro de Pavis?",
+          "opciones": [
+            "La sinopsis debe incluir los procesos globales que provocaron la Guerra del Pacífico.",
+            "La sinopsis debe también mencionar las motivaciones históricas de los protagonistas.",
+            "La sinopsis es excesivamente realista y no evidencia que se haya tomado libertades con la historia."
+          ],
+          "respuesta": "La sinopsis debe también mencionar las motivaciones históricas de los protagonistas.",
+          "respuestaCorta": "Ajuste a motivaciones históricas.",
+          "solucionario": "Pavis enfatiza que las motivaciones privadas (fama, familia) no deben opacar las motivaciones objetivas e históricas. La sinopsis actual solo se enfoca en lo personal, por lo que debe incluir la motivación histórica (deber patrio, contexto de la guerra) para ajustarse a la teoría.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        },
+        {
+          "pregunta": "Un grupo de estudiantes escribe la siguiente sinopsis para el guion de una obra relacionada con la vida del político peruano Rafael Belaúnde Diez Canseco: \"Rafael Belaúnde fue empleado del Congreso de la República desde 1906 hasta 1924, año en que es apresado y enviado a la isla San Lorenzo por oponerse a la política reeleccionista de Augusto B. Leguía. Su hijo, Fernando Belaúnde, futuro presidente del Perú, tenía entonces 12 años. Rafael Belaúnde viviría exiliado fuera de Perú hasta 1933, año en que fue diplomático del gobierno de Óscar R. Benavides, pero renuncia en 1939 debido a la interferencia de Benavides en el proceso electoral que llevó al candidato preferido por el gobierno, Manuel Prado Ugarteche, a la presidencia\". El docente considera que hay elementos que se pueden cambiar en la sinopsis para lograr un mayor efecto dramático. Tomando en consideración el texto de Patrice Pavis, ¿cuál de las siguientes alternativas es la recomendación más pertinente?",
+          "opciones": [
+            "Hacer que el candidato que gane las elecciones de 1939 sea Augusto B. Leguía y no Manuel Prado Ugarteche; de esa forma, el protagonista se enfrentaría a un mismo enemigo en dos oportunidades.",
+            "Hacer que la renuncia del protagonista al puesto diplomático no sea por motivos políticos sino por motivos familiares para evitar que se pueda interpretar que Rafael Belaúnde fue desleal con Benavides.",
+            "Hacer que el nacimiento de Fernando Belaúnde ocurra el mismo año en que Rafael Belaúnde es encarcelado, así su encarcelamiento implicaría no solo perder su libertad sino también tener que separarse de su hijo recién nacido."
+          ],
+          "respuesta": "Hacer que el nacimiento de Fernando Belaúnde ocurra el mismo año en que Rafael Belaúnde es encarcelado, así su encarcelamiento implicaría no solo perder su libertad sino también tener que separarse de su hijo recién nacido.",
+          "respuestaCorta": "Libertad dramática cronológica.",
+          "solucionario": "Pavis permite inexactitudes cronológicas si sirven al drama y mantienen la verdad de las motivaciones. Modificar la fecha de nacimiento del hijo aumenta el conflicto dramático sin alterar el sentido histórico profundo de la oposición política de Rafael Belaúnde.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    }
+  ]
+}
+  

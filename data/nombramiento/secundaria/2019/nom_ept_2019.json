@@ -1,0 +1,739 @@
+{
+  "Conocimientos Pedagógicos": [
+    {
+      "idGrupo": "cp_ept_2019_p51",
+      "contexto": "En una reunión de trabajo colegiado, un docente propone a su equipo lo siguiente: \"Para la evaluación de proceso, debemos promover el uso de un instrumento que permita a los estudiantes documentar las evidencias de sus logros y sus progresos. Con esto, los estudiantes podrán reflexionar acerca de sus aprendizajes y desarrollar un pensamiento crítico. Asimismo, serán capaces de explicar cómo superaron sus dificultades\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes instrumentos se alinea con la propuesta del docente?",
+          "opciones": [
+            "El portafolio.",
+            "La lista de cotejo.",
+            "El registro anecdótico."
+          ],
+          "respuesta": "El portafolio.",
+          "respuestaCorta": "El portafolio permite documentar logros, reflexionar y explicar cómo se superaron dificultades.",
+          "solucionario": "La propuesta del docente describe características clave del portafolio: es una colección sistemática de evidencias que permite al estudiante monitorear su propio progreso (reflexión), evidenciar logros y dificultades, y desarrollar pensamiento crítico sobre su proceso de aprendizaje. La lista de cotejo y el registro anecdótico son instrumentos más orientados a la observación puntual del docente o verificación de indicadores específicos, no necesariamente a la reflexión profunda y documentación de procesos del estudiante.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ept_2019_p52",
+      "contexto": "Un docente, luego de culminar una sesión acerca de los tipos de personería, ha planificado la sesión de aprendizaje \"Identificamos los impuestos que tributan las empresas y/o negocios en el Perú\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes acciones pedagógicas es más pertinente para activar los saberes previos de los estudiantes?",
+          "opciones": [
+            "Pedir que ingresen a la página web de la SUNAT, que busquen información relacionada con los regímenes tributarios. Luego, que respondan al siguiente cuestionario: \"¿Cuántos tipos de empresas existen?, ¿cuál es la personería que les corresponde?, ¿cuánto les toca pagar de impuestos según el régimen elegido?\".",
+            "Mostrar las imágenes y características de las micro, pequeña y mediana empresa de la localidad. Luego, preguntar: \"¿Qué personería tendrán las empresas que se presentan en las imágenes?, ¿estas empresas pagarán impuestos?, ¿todas ellas pagarán el mismo monto de impuestos?, ¿por qué?\".",
+            "Presentar un video en el que se observen ejemplos de empresas que pertenecen a los diferentes regímenes tributarios del Perú. Luego, a partir de este video, preguntar: \"¿Cuáles son los tipos de personería?, ¿qué características tienen?, ¿cuántos regímenes tributarios existen en el Perú?\"."
+          ],
+          "respuesta": "Mostrar las imágenes y características de las micro, pequeña y mediana empresa de la localidad. Luego, preguntar: \"¿Qué personería tendrán las empresas que se presentan en las imágenes?, ¿estas empresas pagarán impuestos?, ¿todas ellas pagarán el mismo monto de impuestos?, ¿por qué?\".",
+          "respuestaCorta": "Partir de la realidad local y preguntas abiertas activa mejor los saberes previos.",
+          "solucionario": "Para activar saberes previos, es pedagógicamente más efectivo partir de situaciones cercanas a la realidad de los estudiantes (empresas de la localidad) y plantear preguntas abiertas que permitan recuperar lo que ellos ya conocen o intuyen, en lugar de enviarlos a investigar información nueva (página web de SUNAT) o presentarles la información ya estructurada (video explicativo) antes de indagar en sus conocimientos.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ept_2019_p53",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Con relación a un proyecto emprendedor que consiste en elaborar cuadros artesanales con material reciclado, ¿cuál de las siguientes tareas propuestas por una docente es de menor demanda cognitiva?",
+          "opciones": [
+            "Elaborar el diagrama de flujo.",
+            "Organizar el cronograma de las actividades.",
+            "Reconocer los símbolos utilizados en el diagrama de operaciones del proceso."
+          ],
+          "respuesta": "Reconocer los símbolos utilizados en el diagrama de operaciones del proceso.",
+          "respuestaCorta": "Reconocer es una tarea de nivel cognitivo bajo (identificación/memoria).",
+          "solucionario": "Reconocer símbolos es una tarea que implica identificar y recordar información (nivel bajo de demanda cognitiva). En cambio, elaborar un diagrama de flujo u organizar un cronograma implica analizar, secuenciar y planificar procesos, lo cual requiere habilidades de pensamiento de orden superior.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ept_2019_p54",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Si se quiere brindar a los padres de familia orientaciones acerca de los logros de aprendizaje de sus hijos en el marco de una evaluación formativa, ¿cuál de las siguientes propuestas es pertinente?",
+          "opciones": [
+            "Informar que se les asignará a sus hijos actividades extracurriculares para que sustituyan la nota más baja del bimestre.",
+            "Informar que, periódicamente, se publicará el orden de mérito de las calificaciones de sus hijos para promover la competitividad entre ellos.",
+            "Informar los progresos de sus hijos y proporcionar recomendaciones para que superen sus dificultades y alcancen el nivel esperado."
+          ],
+          "respuesta": "Informar los progresos de sus hijos y proporcionar recomendaciones para que superen sus dificultades y alcancen el nivel esperado.",
+          "respuestaCorta": "La evaluación formativa se centra en el progreso y la mejora continua.",
+          "solucionario": "La evaluación formativa busca la mejora continua del aprendizaje. Informar sobre progresos y dar recomendaciones específicas ayuda a los padres a apoyar a sus hijos para alcanzar las metas. Las otras opciones se centran en la calificación punitiva o en la competencia (orden de mérito), enfoques que no corresponden a la evaluación formativa.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ept_2019_p55",
+      "contexto": "Una docente, durante el desarrollo de una sesión, organiza a los estudiantes por equipos. Luego, les entrega diferentes historias de emprendedores peruanos que han tenido éxito.\nA continuación, se detallan las acciones que ella desarrolló como parte de las actividades de la sesión.\n• Indicó a los estudiantes que lean las historias de los emprendedores; para ello, les dio algunas pautas para la lectura.\n• Formuló preguntas que facilitaban la comparación y el análisis de las historias; mientras tanto, les pidió que dialoguen en sus equipos y discutan sobre las actitudes socioemocionales relacionadas con el emprendimiento.\n• Propuso que reflexionen acerca de las actitudes que los estudiantes habían encontrado y les formuló preguntas para facilitar esta reflexión.\nFinalmente, pidió que cada equipo elabore una infografía para exponerla frente a sus compañeros. Luego, con su orientación, los estudiantes elaboraron conclusiones sobre las actitudes socioemocionales asociadas con el emprendimiento.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes procesos pedagógicos guarda mayor correspondencia con las acciones realizadas por la docente?",
+          "opciones": [
+            "La gestión y acompañamiento.",
+            "El propósito y organización.",
+            "La problematización."
+          ],
+          "respuesta": "La gestión y acompañamiento.",
+          "respuestaCorta": "La docente guía, monitorea y orienta activamente el aprendizaje durante toda la secuencia.",
+          "solucionario": "Las acciones descritas (dar pautas, formular preguntas para facilitar el análisis, pedir diálogo, proponer reflexión, orientar la elaboración de conclusiones) corresponden al proceso de Gestión y Acompañamiento del desarrollo de las competencias. La docente está facilitando activamente el proceso de aprendizaje, monitoreando el trabajo grupal y retroalimentando para que los estudiantes construyan el conocimiento.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ept_2019_p56",
+      "contexto": "En el marco del Currículo Nacional de Educación Básica, un equipo de docentes está analizando el desempeño \"Selecciona en equipo necesidades o problemas de un grupo de usuarios de su entorno para mejorarlo o resolverlo a partir de su campo de interés...\" de la competencia \"Gestiona proyectos de emprendimiento económico o social\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes capacidades corresponde a dicho desempeño?",
+          "opciones": [
+            "Trabaja cooperativamente para lograr objetivos y metas.",
+            "Aplica habilidades técnicas.",
+            "Crea propuestas de valor."
+          ],
+          "respuesta": "Crea propuestas de valor.",
+          "respuestaCorta": "Identificar necesidades y problemas para resolverlos es la base de la propuesta de valor.",
+          "solucionario": "El desempeño descrito se refiere a la identificación de problemas o necesidades de usuarios para generar soluciones (mejorarlo o resolverlo). Esto es la esencia de la capacidad 'Crea propuestas de valor', que implica diseñar alternativas de solución creativas e innovadoras que respondan a necesidades detectadas.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ept_2019_p57",
+      "contexto": "Un equipo de estudiantes está debatiendo acerca de qué organizador visual utilizar para dar a conocer algunos componentes de su modelo de negocio: lo que espera ganar, cómo se organizó, costos iniciales de operación, metas de venta y el impacto en el entorno, entre otros.\nAlgunos miembros del equipo proponen lo siguiente:\nAdrián: \"Propongo hacer una infografía\".\nBerenice: \"Yo propongo un mapa conceptual, creo que es mejor\".\nCésar: \"A mí me parece que el gráfico de Ishikawa es el más apropiado\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los estudiantes ha propuesto un organizador visual pertinente para dar a conocer estos componentes de su modelo de negocio?",
+          "opciones": [
+            "Adrián",
+            "Berenice",
+            "César"
+          ],
+          "respuesta": "Adrián",
+          "respuestaCorta": "La infografía permite combinar datos diversos (gráficos, textos, números) de forma visualmente atractiva y resumida.",
+          "solucionario": "Para comunicar componentes de un modelo de negocio que incluyen datos cualitativos y cuantitativos (ganancias, costos, impacto, organización) de manera visual y comunicativa, la infografía (propuesta por Adrián) es la herramienta más pertinente, ya que integra imágenes, gráficos y textos breves. El mapa conceptual es para jerarquizar conceptos y el Ishikawa para causas-efectos.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ept_2019_p58",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes tareas es de mayor demanda cognitiva?",
+          "opciones": [
+            "Calcular el total de los costos fijos de un proyecto.",
+            "Analizar el punto de equilibrio de un proyecto.",
+            "Identificar los costos variables de un proyecto."
+          ],
+          "respuesta": "Analizar el punto de equilibrio de un proyecto.",
+          "respuestaCorta": "Analizar implica interpretar relaciones y tomar decisiones, superior a calcular o identificar.",
+          "solucionario": "Identificar costos es recuperación de información. Calcular costos fijos es aplicación de un algoritmo simple. Analizar el punto de equilibrio implica examinar la relación entre costos, precios y volumen de ventas para determinar la viabilidad, lo cual requiere un nivel de pensamiento más complejo (análisis e interpretación) que el simple cálculo o identificación.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ept_2019_p59",
+      "contexto": "Un docente, al percatarse de la dificultad que tiene un estudiante para elaborar su Diagrama de Operaciones del Proceso (DOP), le formula las siguientes preguntas: ¿qué producto estás elaborando? ¿Qué actividades vas a realizar? ¿Cuáles son los símbolos del DOP que representan estas actividades? ¿Cuál es la secuencia de actividades que te permitirá elaborar tu producto?, entre otras.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es el propósito del docente al realizar dichas preguntas?",
+          "opciones": [
+            "Explorar los saberes previos del estudiante.",
+            "Generar conflicto cognitivo en el estudiante.",
+            "Desarrollar procesos de andamiaje para el estudiante."
+          ],
+          "respuesta": "Desarrollar procesos de andamiaje para el estudiante.",
+          "respuestaCorta": "Las preguntas guían al estudiante paso a paso para que construya el conocimiento por sí mismo.",
+          "solucionario": "El docente está interviniendo ante una dificultad (zona de desarrollo próximo) proporcionando ayudas ajustadas (preguntas guía paso a paso) para que el estudiante pueda lograr la tarea que no puede hacer solo. Esta estrategia de apoyo temporal y guiado se denomina andamiaje.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ept_2019_p60",
+      "contexto": "Un equipo de estudiantes está dialogando acerca del diseño de la publicidad para su proyecto de emprendimiento. Al monitorear a este equipo, la docente interviene y les pide realizar la siguiente tarea:\n• Recolectar individualmente catálogos o afiches de los negocios de su localidad.\n• Mostrar en un mural los catálogos o afiches recogidos.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Por qué esta tarea es de baja demanda cognitiva?",
+          "opciones": [
+            "Porque para culminarla se necesita poco tiempo.",
+            "Porque reproduce dos procedimientos conocidos.",
+            "Porque sigue procedimientos que no necesitan mucho esfuerzo."
+          ],
+          "respuesta": "Porque reproduce dos procedimientos conocidos.",
+          "respuestaCorta": "La tarea consiste en recolectar y exhibir, acciones mecánicas que no exigen análisis profundo.",
+          "solucionario": "La tarea descrita se limita a la recolección y exhibición de materiales existentes. No requiere que los estudiantes analicen, creen, evalúen o transformen la información. Simplemente siguen procedimientos rutinarios o mecánicos (buscar y pegar/mostrar), lo cual es característico de actividades de baja demanda cognitiva.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ept_2019_p61",
+      "contexto": "Al dar pautas para que se organicen en equipos de trabajo, una docente observa que un número significativo de estudiantes empieza a murmurar y a discutir entre ellos. Al pedirles que tomen la palabra y opinen al respecto, uno de ellos manifestó: \"No queremos trabajar con ellos —señalando a algunos de sus compañeros—; ya hemos realizado trabajos juntos y no han sido responsables. Incluso, retrasan el cumplimiento de nuestras tareas, a pesar de que son muy hábiles\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué competencia socioemocional debe promover la docente en esta situación?",
+          "opciones": [
+            "Adaptación al cambio.",
+            "Trabajo cooperativo.",
+            "Perseverancia."
+          ],
+          "respuesta": "Trabajo cooperativo.",
+          "respuestaCorta": "El conflicto surge directamente de problemas de interacción y responsabilidad compartida en grupo.",
+          "solucionario": "El problema manifestado es la dificultad para trabajar con otros debido a experiencias previas de irresponsabilidad o falta de coordinación. La competencia necesaria para resolver esto es el trabajo cooperativo, que implica habilidades para interactuar, asumir responsabilidades compartidas, resolver conflictos interpersonales y lograr metas comunes a pesar de las diferencias.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ept_2019_p62",
+      "contexto": "A continuación, se presentan las siguientes señales:",
+      "imagen": "img/ept_2019_q62.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es la interpretación de las tres señales?",
+          "opciones": [
+            "Zona de fuego permanente, ingrese con traje de protección y no porte fósforos.",
+            "En caso de incendio, ingrese con ropa que no sea inflamable y apague el fuego.",
+            "Material altamente inflamable, use ropa de protección y no provoque fuego."
+          ],
+          "respuesta": "Material altamente inflamable, use ropa de protección y no provoque fuego.",
+          "respuestaCorta": "Triángulo=Advertencia (inflamable), Círculo azul=Obligación (ropa), Círculo rojo tachado=Prohibición (fuego/fósforos).",
+          "solucionario": "La primera señal es un triángulo amarillo con una llama, que indica advertencia de 'Material inflamable'. La segunda es un círculo azul con una prenda, que es una señal de obligación de usar 'Ropa de protección'. La tercera es un círculo con una cerilla tachada, que prohíbe 'Encender fuego' o 'Prohibido hacer fuego'. La combinación corresponde a la opción C.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ept_2019_p63",
+      "contexto": "La docente y los estudiantes han llegado a la conclusión de que es necesario agregar una señal de seguridad para indicar el uso de protectores auditivos en el taller, pues, al encender las máquinas, estas emiten ruidos muy fuertes que pueden afectar la audición.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué características debe tener esta señal de seguridad?",
+          "opciones": [
+            "Forma circular, color de fondo azul y pictograma de color blanco.",
+            "Forma triangular, color de fondo amarillo y pictograma de color negro.",
+            "Forma rectangular, color de fondo verde y pictograma de color blanco."
+          ],
+          "respuesta": "Forma circular, color de fondo azul y pictograma de color blanco.",
+          "respuestaCorta": "Las señales de obligación (uso de EPP) son azules y circulares.",
+          "solucionario": "Las señales de seguridad que indican OBLIGACIÓN (como el uso obligatorio de Equipos de Protección Personal, en este caso protectores auditivos) tienen forma circular, color de fondo azul y el pictograma (símbolo) en color blanco, según las normas técnicas de seguridad.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+  
+    {
+      "idGrupo": "cp_ept_2019_p64",
+      "contexto": "En una sesión de aprendizaje, el docente les presenta a los estudiantes una noticia de un accidente de trabajo ocurrido en un área del taller que no contaba con las señales de seguridad requeridas. En dicho taller, se encontró que, de sus cinco áreas de trabajo, solo dos de ellas cuentan con señales de seguridad fáciles de identificar y leer. Las otras áreas se encuentran sin señalizar o con señales de seguridad deterioradas. El docente se ha propuesto incluir en la actividad de aprendizaje este contexto para promover la reflexión de los estudiantes sobre la importancia del uso de las señales de seguridad en un taller.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes acciones pedagógicas es pertinente para promover dicha reflexión?",
+          "opciones": [
+            "Pedir que indaguen cómo se originó el accidente y qué consecuencias les ocasionó a los trabajadores y propietarios. Luego, solicitar que averigüen si el uso de señales de seguridad ha contribuido en la prevención de accidentes en las áreas señalizadas. Finalmente, pedir que sugieran qué señales de seguridad requieren las áreas no señalizadas.",
+            "Pedir que busquen información acerca de las señales de seguridad y las clasifiquen. Luego, indicar que elaboren una presentación multimedia y presenten dicha información a sus compañeros. Finalmente, solicitar que todos los estudiantes del aula difundan entre sus contactos la presentación sobre las señales de seguridad.",
+            "Leer con los estudiantes reglamentos de seguridad en los que se mencione que es importante utilizar señales de seguridad. Luego, pedir que resuelvan un cuestionario sobre aquellas señales de prevención que se usan más en los talleres. Finalmente, solicitar que dibujen dichas señales."
+          ],
+          "respuesta": "Pedir que indaguen cómo se originó el accidente y qué consecuencias les ocasionó a los trabajadores y propietarios. Luego, solicitar que averigüen si el uso de señales de seguridad ha contribuido en la prevención de accidentes en las áreas señalizadas. Finalmente, pedir que sugieran qué señales de seguridad requieren las áreas no señalizadas.",
+          "respuestaCorta": "Analizar causas, consecuencias y proponer soluciones fomenta la reflexión crítica.",
+          "solucionario": "Para promover la reflexión (pensamiento crítico), es necesario que los estudiantes analicen las causas y consecuencias reales del problema (el accidente y la falta de señalización) y evalúen la eficacia de las medidas de seguridad. La opción elegida involucra indagación, análisis de impacto y propuesta de solución. Las otras opciones se centran en la clasificación teórica, difusión o memorización de normas, que son procesos cognitivos de menor demanda reflexiva.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ept_2019_p65",
+      "contexto": "Un docente tiene como propósito que sus estudiantes planifiquen las diferentes actividades y tareas de su proyecto de emprendimiento en un tiempo determinado.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes herramientas gráficas es apropiada para dicho propósito?",
+          "opciones": [
+            "El diagrama de Ishikawa.",
+            "El diagrama de Gantt.",
+            "El diagrama de Pert."
+          ],
+          "respuesta": "El diagrama de Gantt.",
+          "respuestaCorta": "El diagrama de Gantt es la herramienta estándar para cronogramas y planificación temporal.",
+          "solucionario": "El Diagrama de Gantt es una herramienta gráfica cuyo objetivo específico es exponer el tiempo de dedicación previsto para diferentes tareas o actividades a lo largo de un tiempo total determinado. Es la herramienta idónea para la planificación de cronogramas. Ishikawa es para causa-efecto y PERT es más complejo, enfocado en rutas críticas y tiempos probabilísticos, siendo Gantt el más directo para la planificación de actividades en el tiempo en este nivel escolar.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ept_2019_p66",
+      "contexto": "Una docente tiene como propósito que los estudiantes identifiquen situaciones consideradas accidentes de trabajo. Para ello, los estudiantes previamente han leído las normas acerca de los accidentes de trabajo y enfermedades profesionales.\nA continuación, se presentan tres situaciones que propusieron los estudiantes.\nSituación 1: Un trabajador sufre un golpe severo con una caja de madera que su compañero trasladaba hacia el almacén.\nSituación 2: Un trabajador es atropellado por un auto fuera de su horario de trabajo cuando cumplía la tarea de llevar documentos a otra dependencia por orden de su jefe.\nSituación 3: Un trabajador sale de su centro laboral en hora de refrigerio y se corta la mano al romperse un vaso de vidrio en el restaurante que frecuenta.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de estas situaciones NO constituye un accidente de trabajo?",
+          "opciones": [
+            "La situación 1.",
+            "La situación 2.",
+            "La situación 3."
+          ],
+          "respuesta": "La situación 3.",
+          "respuestaCorta": "Ocurrió fuera del centro laboral y en horario de refrigerio, sin realizar una orden del empleador.",
+          "solucionario": "Un accidente de trabajo es aquel que ocurre por causa o con ocasión del trabajo. La situación 1 es un accidente típico en el lugar de trabajo. La situación 2 también se considera accidente de trabajo porque el empleado estaba cumpliendo una orden del jefe (accidente en comisión de servicio). La situación 3 NO es accidente de trabajo porque ocurrió durante el refrigerio y fuera de las instalaciones, en un ámbito ajeno al control y órdenes del empleador.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ept_2019_p67",
+      "contexto": "Los estudiantes, organizados en equipos, están elaborando Diagramas de Operaciones de Procesos de un proyecto de emprendimiento que consiste en la elaboración de mermelada. A continuación, se presenta parte del diagrama de uno de los equipos.",
+      "imagen": "img/ept_2019_q67.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es el error que se evidencia en el diagrama de este equipo de estudiantes?",
+          "opciones": [
+            "Iniciar el proceso con una inspección en lugar de una operación.",
+            "Considerar que la segunda actividad es una inspección cuando en realidad es una operación.",
+            "Colocar dos operaciones consecutivas, ya que, después de una operación debe haber una inspección."
+          ],
+          "respuesta": "Considerar que la segunda actividad es una inspección cuando en realidad es una operación.",
+          "respuestaCorta": "El 'Lavado' es una operación (círculo), pero fue graficado como inspección (cuadrado).",
+          "solucionario": "En un Diagrama de Operaciones del Proceso (DOP), el círculo representa una operación (transformación, acción) y el cuadrado representa una inspección (verificación, control). La actividad 2 es 'Lavado', lo cual es una acción física de limpieza (operación), por lo tanto debería ir en un círculo. En el gráfico, está dentro de un cuadrado, lo que constituye un error técnico en el uso de la simbología.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ept_2019_p68",
+      "contexto": "A continuación, se presenta la gráfica correspondiente a los tipos de defectos identificados en el empaque de cartón utilizado para las tortas de una empresa de pastelería.",
+      "imagen": "img/ept_2019_q68.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes alternativas es una interpretación correcta de la gráfica presentada?",
+          "opciones": [
+            "74 defectos corresponden al material y al corte.",
+            "El 79% de los defectos corresponden a la impresión.",
+            "12 defectos corresponden al corte, que representan el 90% del total."
+          ],
+          "respuesta": "74 defectos corresponden al material y al corte.",
+          "respuestaCorta": "Suma de defectos: Material (62) + Corte (12) = 74.",
+          "solucionario": "Analizando el gráfico de Pareto: La barra 'En el material' tiene 62 defectos. La barra 'En el corte' tiene 12 defectos. La suma es 62 + 12 = 74. Esta afirmación es correcta. Las otras opciones interpretan mal la línea de porcentaje acumulado (el 79% es el acumulado de material + impresión, no solo impresión; y el 90% es el acumulado hasta el corte, no la representatividad del corte en sí mismo).",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ept_2019_p69",
+      "contexto": "Un docente tiene como propósito que los estudiantes reflexionen sobre las consecuencias de no considerar el cuidado del ambiente en la implementación de su proyecto de emprendimiento. Por ello, les propone visitar negocios de su localidad para que registren información sobre aquellas acciones que lo dañan. Uno de los equipos ha observado que en los negocios de comida el aceite utilizado en las frituras es desechado por el lavadero.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes acciones pedagógicas es pertinente para favorecer el logro de dicho propósito?",
+          "opciones": [
+            "Preguntar: \"¿Qué creen que ocurre con el aceite que se desecha por el desagüe? ¿Cómo afectarían estos aceites usados a los ríos y mares? ¿Existirán otras formas para desecharlos, reciclarlos o reutilizarlos? ¿Cómo afecta a la salud de la población? ¿Qué previsiones deben tomar los proyectos de emprendimiento para el cuidado del ambiente?\".",
+            "Preguntar: \"¿Qué estrategias existen para desechar el aceite usado?, ¿cuánto les costará implementar esta estrategia?, ¿será rentable? ¿Es necesario pensar en el costo beneficio de implementar una estrategia de reciclaje en tu proyecto de emprendimiento? ¿Este costo será considerado como fijo o variable?\".",
+            "Entregar trípticos acerca del cuidado del ambiente para que los repartan en los negocios de venta de comida. Asimismo, proporcionar imágenes digitales referidas al daño que ocasionan en los ecosistemas cuando el aceite llega a los ríos y mares para que los estudiantes las difundan por las redes sociales."
+          ],
+          "respuesta": "Preguntar: \"¿Qué creen que ocurre con el aceite que se desecha por el desagüe? ¿Cómo afectarían estos aceites usados a los ríos y mares? ¿Existirán otras formas para desecharlos, reciclarlos o reutilizarlos? ¿Cómo afecta a la salud de la población? ¿Qué previsiones deben tomar los proyectos de emprendimiento para el cuidado del ambiente?\".",
+          "respuestaCorta": "Las preguntas abiertas sobre impacto ambiental y social fomentan directamente la reflexión buscada.",
+          "solucionario": "El propósito es reflexionar sobre las consecuencias ambientales. La primera opción plantea preguntas abiertas que llevan al estudiante a pensar en el impacto (ríos, mares, salud) y en la responsabilidad del emprendedor, promoviendo el pensamiento crítico y la conciencia ambiental. La segunda opción se centra en costos y rentabilidad. La tercera es una actividad de difusión, no de reflexión profunda.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ept_2019_p70",
+      "contexto": "Luego de haber desarrollado actividades sobre la identificación de los criterios de calidad de un producto, un docente tiene como propósito que los estudiantes realicen la simulación del proceso de control de calidad, para ello, los organiza en equipos.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes acciones pedagógicas es más pertinente para favorecer dicho propósito?",
+          "opciones": [
+            "Solicitar que presenten un producto explicando la calidad de este a partir de las siguientes preguntas: \"¿Cuáles son las características de calidad de este producto?, ¿qué estrategias utilizaron para identificar esta calidad?\". Luego, pedir que sus compañeros pregunten lo que no les quedó claro.",
+            "Entregar una ficha con especificaciones técnicas de un producto. Explicar las mediciones u observaciones que se deben realizar al producto y la tolerancia de cada uno de sus valores. Luego, presentar otro producto similar, con su ficha técnica, para que realicen mediciones y evalúen si este cumple con las especificaciones propuestas en la ficha.",
+            "Pedir que busquen información en internet sobre control de calidad para responder las siguientes preguntas: \"¿Cuántas definiciones de calidad encontraron?, ¿en qué se diferencian?, ¿qué dicen las normas ISO sobre calidad del proceso y calidad del producto?\". Luego, solicitar que elaboren una maqueta donde se muestre el proceso de control de calidad."
+          ],
+          "respuesta": "Entregar una ficha con especificaciones técnicas de un producto. Explicar las mediciones u observaciones que se deben realizar al producto y la tolerancia de cada uno de sus valores. Luego, presentar otro producto similar, con su ficha técnica, para que realicen mediciones y evalúen si este cumple con las especificaciones propuestas en la ficha.",
+          "respuestaCorta": "Esta opción implica realizar la acción práctica de medir y verificar (simulación), no solo describir o investigar.",
+          "solucionario": "El control de calidad es un proceso práctico de verificación del cumplimiento de requisitos. La opción que realmente simula este proceso es aquella donde los estudiantes tienen un estándar (ficha técnica), un objeto real y realizan las acciones de medición y comparación para determinar si se cumple con la calidad requerida (aceptación o rechazo).",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ept_2019_p71",
+      "contexto": "Un equipo de estudiantes está implementando la fase de distribución y venta de los productos de su proyecto. La entrega del producto se hace a domicilio y el pago se realiza contra entrega. Los repartidores en varias ocasiones han retornado con el producto porque los clientes manifiestan que ya se desanimaron de adquirirlo. Con el propósito de encontrar una solución, uno de los estudiantes ha sugerido lo siguiente: \"Propongo que el cliente, primero, pague el precio de lo que va a comprar y, luego, le entregamos su producto\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes aspectos de la técnica SCAMPER corresponde a la propuesta del estudiante?",
+          "opciones": [
+            "Sustituir (S).",
+            "Modificar (M).",
+            "Reordenar (R)."
+          ],
+          "respuesta": "Reordenar (R).",
+          "respuestaCorta": "Se invierte la secuencia del proceso: de 'Entrega -> Pago' a 'Pago -> Entrega'.",
+          "solucionario": "La técnica SCAMPER incluye la R de Reordenar (o Invertir). La propuesta cambia la secuencia lógica del proceso de venta. Originalmente era Entrega -> Cobro. La propuesta es Cobro -> Entrega. Al cambiar el orden de los pasos del proceso, se está aplicando el aspecto de Reordenar.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ept_2019_p72",
+      "contexto": "El propósito de un docente es que los estudiantes determinen el segmento de mercado para los productos que están elaborando.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes preguntas es pertinente para el logro de este propósito?",
+          "opciones": [
+            "¿Para quién o quiénes estamos creando valor?",
+            "¿Cuánto nos cuesta relacionarnos con los clientes?",
+            "¿Qué tipo de relación vamos a establecer con los clientes?"
+          ],
+          "respuesta": "¿Para quién o quiénes estamos creando valor?",
+          "respuestaCorta": "Definir el público objetivo (quiénes) es la esencia de la segmentación de mercado.",
+          "solucionario": "El segmento de mercado se define identificando al grupo de personas a las cuales va dirigido el producto o servicio. La pregunta fundamental del Lienzo Lean Canvas y del Business Model Canvas para este bloque es: '¿Para quién estamos creando valor?' o '¿Quiénes son nuestros clientes más importantes?'.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ept_2019_p73",
+      "contexto": "Considerando el análisis FODA de una empresa de decoración de eventos, ¿cuál de las siguientes alternativas corresponde a una amenaza?",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes alternativas corresponde a una amenaza?",
+          "opciones": [
+            "Limitaciones de la empresa para la realización de promociones y ofertas.",
+            "Existencia de andamios y equipamiento de la empresa en mal estado.",
+            "Aumento del costo de materiales en temporadas de menor demanda."
+          ],
+          "respuesta": "Aumento del costo de materiales en temporadas de menor demanda.",
+          "respuestaCorta": "El aumento de costos de materiales es un factor externo y negativo.",
+          "solucionario": "En el análisis FODA, las Amenazas son factores externos y negativos que pueden afectar a la empresa. El aumento del costo de materiales es una variable del mercado (externa) que perjudica al negocio. Las otras opciones son Debilidades (factores internos negativos).",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ept_2019_p74",
+      "contexto": "Considerando el análisis FODA de una empresa de venta de útiles de escritorio, ¿cuál de las siguientes alternativas corresponde a una debilidad?",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes alternativas corresponde a una debilidad?",
+          "opciones": [
+            "Escasa demanda de útiles de escritorio en algunos meses del año.",
+            "Empresas competidoras bien posicionadas y con más experiencia.",
+            "Productos almacenados, deteriorados y que no han sido vendidos."
+          ],
+          "respuesta": "Productos almacenados, deteriorados y que no han sido vendidos.",
+          "respuestaCorta": "Tener productos deteriorados es un problema interno y negativo.",
+          "solucionario": "En el análisis FODA, las Debilidades son factores internos y negativos que la empresa puede controlar o mejorar. Tener stock deteriorado es un problema de gestión interna. La escasa demanda estacional y la competencia son factores externos (Amenazas).",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ept_2019_p75",
+      "contexto": "Considerando el análisis de la matriz FODA de una empresa de producción de bienes, ¿cuál de las siguientes alternativas corresponde a la estrategia DO?",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes alternativas corresponde a la estrategia DO?",
+          "opciones": [
+            "Aprovechar que los costos de la publicidad radial y televisiva han bajado, debido a que las empresas de la localidad no hacen publicidad.",
+            "Comprar maquinaria para satisfacer la demanda no atendida, sabiendo que hay ofertas de créditos con baja tasa de interés.",
+            "Promover a un trabajador destacado para optimizar los canales de distribución que tienen dificultades."
+          ],
+          "respuesta": "Comprar maquinaria para satisfacer la demanda no atendida, sabiendo que hay ofertas de créditos con baja tasa de interés.",
+          "respuestaCorta": "Estrategia DO (Mini-Maxi): Superar una Debilidad (demanda no atendida por falta de capacidad) aprovechando una Oportunidad (créditos baratos).",
+          "solucionario": "La estrategia DO (Debilidades-Oportunidades) busca minimizar las debilidades internas aprovechando las oportunidades externas. En este caso, la 'demanda no atendida' implica una debilidad (falta de capacidad de producción) y las 'ofertas de créditos' son una oportunidad externa. Comprar maquinaria (acción) usa la oportunidad para resolver la debilidad.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ept_2019_p76",
+      "contexto": "Considerando el análisis de la matriz FODA de una empresa de producción de lácteos, ¿cuál de las siguientes alternativas corresponde a la estrategia FO?",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes alternativas corresponde a la estrategia FO?",
+          "opciones": [
+            "Identificar productos que no han generado beneficios para la empresa por ausencia de demanda en los últimos meses.",
+            "Destinar parte de los préstamos bancarios para realizar publicidad masiva no implementada por la empresa.",
+            "Elaborar productos derivados del original para atender la creciente demanda de consumidores."
+          ],
+          "respuesta": "Elaborar productos derivados del original para atender la creciente demanda de consumidores.",
+          "respuestaCorta": "Estrategia FO (Maxi-Maxi): Usar una Fortaleza (capacidad de elaborar productos) para aprovechar una Oportunidad (creciente demanda).",
+          "solucionario": "La estrategia FO (Fortalezas-Oportunidades) utiliza las fortalezas internas de la empresa para aprovechar al máximo las oportunidades externas. Elaborar productos (usando la fortaleza del know-how o capacidad productiva) para satisfacer una creciente demanda (oportunidad de mercado) es un ejemplo clásico de esta estrategia de crecimiento.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+   
+    {
+      "idGrupo": "cp_ept_2019_p77",
+      "contexto": "Un equipo de estudiantes está realizando propuestas para la implementación de las 4P del marketing.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes propuestas se refiere al aspecto Producto?",
+          "opciones": [
+            "Desarrollar estrategias para el almacenamiento del producto y los gastos de envío.",
+            "Incluir un valor agregado al producto para que resuelva más de una necesidad.",
+            "Utilizar técnicas de publicidad para superar las ventas del producto."
+          ],
+          "respuesta": "Incluir un valor agregado al producto para que resuelva más de una necesidad.",
+          "respuestaCorta": "El 'Producto' abarca el diseño, características y valor que satisface la necesidad del cliente.",
+          "solucionario": "En el marketing mix (4P), el aspecto 'Producto' se refiere a la definición de lo que se ofrece al mercado, incluyendo sus características, diseño, empaque y, fundamentalmente, el valor agregado que satisface las necesidades del cliente. El almacenamiento corresponde a 'Plaza' (distribución) y la publicidad a 'Promoción'.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ept_2019_p78",
+      "contexto": "Un equipo de estudiantes está clasificando los costos de la implementación de su proyecto. Flora, una de las integrantes, comenta: \"Los costos fijos están constituidos por los siguientes pagos: alquiler del local, servicio de electricidad y la compra de insumos\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es el error de la estudiante con respecto a los costos fijos?",
+          "opciones": [
+            "Considerar que la compra de insumos es un costo fijo.",
+            "Considerar que el alquiler de la tienda es un costo fijo.",
+            "Considerar que el servicio de electricidad es un costo fijo."
+          ],
+          "respuesta": "Considerar que la compra de insumos es un costo fijo.",
+          "respuestaCorta": "Los insumos son costos variables porque dependen del volumen de producción.",
+          "solucionario": "Los costos fijos son aquellos que no dependen del volumen de producción (como el alquiler). Los insumos, en cambio, son el ejemplo clásico de costo variable, ya que a mayor producción, mayor cantidad de insumos se requiere. Clasificar los insumos como fijos es un error conceptual.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ept_2019_p79",
+      "contexto": "En equipo, los estudiantes están analizando un caso referido a los procedimientos para el registro de una empresa de elaboración de alimentos naturales ante la Superintendencia Nacional de Registros Públicos (SUNARP). Durante el monitoreo, la docente escucha que uno de los estudiantes comenta: \"En el caso, se menciona que el nombre de la razón social de la empresa que va a elaborar alimentos naturales es Frutti Natura SRL, por lo que la marca debe registrarse con el mismo nombre porque ambos se refieren a lo mismo\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es el error que se presenta en la afirmación del estudiante?",
+          "opciones": [
+            "Considerar que la razón social incluye las siglas del tipo de empresa.",
+            "Considerar que en la SUNARP se registra la razón social de la empresa.",
+            "Considerar que el nombre de la razón social y la marca significan lo mismo."
+          ],
+          "respuesta": "Considerar que el nombre de la razón social y la marca significan lo mismo.",
+          "respuestaCorta": "La razón social es el nombre jurídico y la marca es el nombre comercial; no tienen que ser iguales.",
+          "solucionario": "La razón social es la denominación legal de la empresa (persona jurídica) utilizada para fines administrativos y tributarios. La marca es el signo distintivo (nombre comercial) con el que se identifica el producto o servicio en el mercado. Es un error común pensar que deben ser idénticos; una empresa puede tener una razón social y comercializar productos con diferentes marcas.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ept_2019_p80",
+      "contexto": "Los estudiantes organizados en equipos están dialogando acerca de los pasos y requisitos para constituir una empresa con personería jurídica en el Perú. Durante el monitoreo, el docente escucha que un estudiante afirma lo siguiente: \"En este paso, los socios deben elaborar un documento en el que cada uno de ellos indique su voluntad de crear la empresa y registrar todos los acuerdos\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes pasos de la constitución de una empresa es el que corresponde a la afirmación del estudiante?",
+          "opciones": [
+            "La elaboración de la minuta.",
+            "La solicitud de reserva de nombre.",
+            "La elaboración de escritura pública."
+          ],
+          "respuesta": "La elaboración de la minuta.",
+          "respuestaCorta": "La minuta es el documento privado donde los socios manifiestan su voluntad y acuerdos (estatutos) antes de elevarlo a escritura pública.",
+          "solucionario": "La minuta de constitución es el documento elaborado por un abogado donde los miembros de la sociedad manifiestan su voluntad de constituir la empresa y señalan todos los acuerdos respectivos (estatuto). Es el paso previo a la Escritura Pública (que se hace ante notario).",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ept_2019_p81_83",
+      "contexto": "Lea la siguiente situación y responda las preguntas 81, 82 y 83.\nUn equipo de estudiantes está participando en el Concurso Nacional Crea y Emprende con su proyecto de emprendimiento económico 'Confección de Polos Turísticos'. El docente les ha pedido que discutan sobre el concepto de punto de equilibrio y que reúnan información para calcularlo. A continuación, se muestra la información que el equipo reunió para tal fin.\nCostos fijos mensuales: S/ 2964\nPrecio de venta de cada polo: S/ 28\nCosto de producción por polo: S/ 14\nComisión por venta de cada polo: S/ 2",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Con respecto a la información proporcionada por los estudiantes, ¿cuál de las siguientes afirmaciones referente al punto de equilibrio es verdadera?",
+          "opciones": [
+            "El dato comisión por venta de cada polo no se necesita para hallar el punto de equilibrio.",
+            "Es necesario hallar cuánto es su costo variable total para calcular el punto de equilibrio.",
+            "Los costos fijos mensuales se utilizan para el cálculo del punto de equilibrio."
+          ],
+          "respuesta": "Los costos fijos mensuales se utilizan para el cálculo del punto de equilibrio.",
+          "respuestaCorta": "La fórmula del PE es Costos Fijos / (Precio - Costo Variable Unitario).",
+          "solucionario": "La fórmula para calcular el Punto de Equilibrio (PE) en unidades es: PE = Costos Fijos Totales / (Precio de Venta Unitario - Costo Variable Unitario). Por lo tanto, los costos fijos mensuales son un dato indispensable para el cálculo.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        },
+        {
+          "pregunta": "En base a la información proporcionada, ¿cuánto será el punto de equilibrio en unidades monetarias?",
+          "opciones": [
+            "S/ 3952",
+            "S/ 5928",
+            "S/ 6916"
+          ],
+          "respuesta": "S/ 6916",
+          "respuestaCorta": "CVU=16. PE(u) = 2964 / (28-16) = 247. PE($) = 247 * 28 = 6916.",
+          "solucionario": "1) Calculamos el Costo Variable Unitario (CVU) = Costo Producción (14) + Comisión (2) = 16. \n2) Margen de Contribución = Precio (28) - CVU (16) = 12. \n3) Punto de Equilibrio en Unidades = Costos Fijos (2964) / 12 = 247 unidades. \n4) Punto de Equilibrio en Soles = 247 unidades * S/ 28 = S/ 6916.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        },
+        {
+          "pregunta": "Considerando que la utilidad está referida a la ganancia que se obtiene a partir de la venta de un bien, ¿cuánto de utilidad genera la venta de 500 polos en un mes?",
+          "opciones": [
+            "S/ 3036",
+            "S/ 6000",
+            "S/ 7000"
+          ],
+          "respuesta": "S/ 3036",
+          "respuestaCorta": "Ingreso(500*28) - CostoTotal(2964 + 500*16) = 14000 - 10964 = 3036.",
+          "solucionario": "Ingresos Totales = 500 polos * S/ 28 = S/ 14,000.\nCostos Variables Totales = 500 polos * S/ 16 (CVU) = S/ 8,000.\nCostos Fijos = S/ 2,964.\nCosto Total = 8,000 + 2,964 = S/ 10,964.\nUtilidad = Ingresos - Costo Total = 14,000 - 10,964 = S/ 3,036.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ept_2019_p84",
+      "contexto": "Una docente presenta a sus estudiantes el caso de una empresa que quiere incrementar sus ventas. Esta empresa es proveedora de servicios de internet, que incluye la instalación de equipos y el soporte técnico. Los estudiantes, al escuchar el caso, sugieren aplicar la técnica de ventas SPIN.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes alternativas contiene preguntas que desarrollan el aspecto Problema de esta técnica de ventas?",
+          "opciones": [
+            "¿Su servicio de internet cuenta con soporte técnico? ¿Le gustaría ser atendido por un servicio técnico altamente competente? Si le ofrezco un soporte técnico especializado, ¿lo tomaría?, ¿estaría dispuesto a probar la solución que le ofrecemos?",
+            "¿Qué oficio o profesión desempeña? ¿Cuenta con servicio de internet en su domicilio? ¿Qué empresa le provee del servicio de internet? ¿Cuántos equipos tiene en casa que están conectados a internet? ¿Su familia utiliza mucho el servicio de internet? ¿Considera importante contar con este servicio?",
+            "¿Está satisfecho con el servicio de internet con el que actualmente cuenta? ¿Qué fallas ha identificado en dicho servicio? ¿Cuál es la principal falla que ha enfrentado? ¿Cómo soluciona su proveedor las fallas en el servicio de internet? Usualmente, ¿cuánto tiempo le toma solucionarlo?"
+          ],
+          "respuesta": "¿Está satisfecho con el servicio de internet con el que actualmente cuenta? ¿Qué fallas ha identificado en dicho servicio? ¿Cuál es la principal falla que ha enfrentado? ¿Cómo soluciona su proveedor las fallas en el servicio de internet? Usualmente, ¿cuánto tiempo le toma solucionarlo?",
+          "respuestaCorta": "Estas preguntas indagan sobre dificultades, insatisfacciones o fallas (Problemas).",
+          "solucionario": "La técnica SPIN se basa en 4 tipos de preguntas: Situación, Problema, Implicación y Necesidad de beneficio. Las preguntas de 'Problema' buscan revelar dificultades, insatisfacciones o carencias del cliente. Preguntar sobre satisfacción, fallas y tiempos de solución apunta directamente a identificar los problemas del cliente.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ept_2019_p85",
+      "contexto": null,
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes grupos de preguntas permite identificar un modelo de negocio centrado en los clientes?",
+          "opciones": [
+            "¿Qué aspiraciones tienen los clientes? ¿Cómo se les puede ayudar a alcanzarlas?",
+            "¿Qué se le puede vender a los clientes? ¿Cómo se puede obtener beneficios de ellos?",
+            "¿Qué tipo de relación se debe establecer con los clientes? ¿Cómo se puede llegar a ellos de forma más eficaz?"
+          ],
+          "respuesta": "¿Qué aspiraciones tienen los clientes? ¿Cómo se les puede ayudar a alcanzarlas?",
+          "respuestaCorta": "Se enfoca en entender las necesidades y metas del cliente para aportarle valor.",
+          "solucionario": "Un modelo centrado en el cliente (Customer Centric) prioriza entender las necesidades, dolores y aspiraciones del usuario para generar valor para él. La opción A se enfoca en el cliente ('sus' aspiraciones, ayudarles). La opción B se enfoca en el producto/venta y la C en la gestión de canales/relación.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ept_2019_p86",
+      "contexto": "Un equipo de estudiantes ha detectado que muchas personas han decidido consumir productos cuya preparación involucra el uso de insumos con menos procesos químicos. Con este objetivo, las dulcerías de su localidad han comenzado a usar la chancaca como endulzante y ha tenido aceptación. Por esta razón, el equipo ha decidido diseñar un proyecto denominado 'Chancaca en Gránulos para Panificación y Repostería'. El equipo está elaborando el lienzo LEAN CANVAS de su modelo de negocio. Durante el monitoreo, la docente observa que el equipo ha redactado las siguientes notas:\n• Panes y postres preparados con endulzantes procesados químicamente.\n• Escasez de endulzantes naturales.\n• No hay endulzantes de chancaca en gránulos para el uso en panadería y repostería.",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "Considerando las notas redactadas por los estudiantes, ¿a cuál de los módulos o bloques del lienzo LEAN CANVAS corresponden?",
+          "opciones": [
+            "Al problema.",
+            "A la propuesta de valor.",
+            "A la ventaja competitiva."
+          ],
+          "respuesta": "Al problema.",
+          "respuestaCorta": "Las notas describen situaciones negativas o carencias actuales del mercado.",
+          "solucionario": "Las notas describen situaciones insatisfactorias o carencias que afectan a los usuarios: 'procesados químicamente' (pain point), 'escasez', 'no hay' (falta de alternativas). Estos elementos constituyen el bloque de Problemas en el Lean Canvas.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ept_2019_p87_88",
+      "contexto": "Lea la siguiente situación y responda las preguntas 87 y 88.\nUn equipo de estudiantes está elaborando el lienzo LEAN CANVAS de su proyecto 'Sal de Mesa de Origen Vegetal', la que comercializarán por medio de una página web. A continuación, se muestran tres notas redactadas por este equipo de estudiantes.",
+      "imagen": "img/ept_2019_q87.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las notas corresponde al módulo \"Flujo de ingresos\" de su modelo de negocios?",
+          "opciones": [
+            "La primera nota.",
+            "La segunda nota.",
+            "La tercera nota."
+          ],
+          "respuesta": "La tercera nota.",
+          "respuestaCorta": "La tercera nota menciona 'Venta vía web' y 'Venta vía redes', que son las fuentes de dinero.",
+          "solucionario": "El módulo 'Flujo de Ingresos' describe cómo el negocio generará dinero. La tercera nota lista 'Venta vía web' y 'Venta vía redes sociales', que son las formas en que capturarán valor monetario. La primera nota refiere a Canales o Recursos, y la segunda a Estructura de Costos.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        },
+        {
+          "pregunta": "Considerando la implementación del proyecto 'Sal de Mesa de Origen Vegetal', ¿cuál de las siguientes alternativas corresponde a la \"Métrica clave\" de su modelo de negocios?",
+          "opciones": [
+            "El ranking de sueldos.",
+            "El incremento de nuevos clientes.",
+            "La fluctuación del costo de la materia prima."
+          ],
+          "respuesta": "El incremento de nuevos clientes.",
+          "respuestaCorta": "El crecimiento de clientes es un indicador clave de éxito (métrica) para un negocio web.",
+          "solucionario": "Las Métricas Clave son indicadores que permiten monitorear el desempeño y éxito del modelo de negocio. Para un proyecto comercial vía web, el 'incremento de nuevos clientes' (adquisición) es una métrica fundamental para evaluar el crecimiento. Los sueldos y costos de materia prima son datos operativos o de costos, no métricas de éxito del modelo en sí.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    },
+    {
+      "idGrupo": "cp_ept_2019_p89_90",
+      "contexto": "Lea la siguiente situación y responda las preguntas 89 у 90.\nAl monitorear el desarrollo de una sesión en la que los estudiantes están construyendo la marca de su producto, el docente observa que uno de los equipos ha dibujado la representación de un rayo. Luego, les pregunta por qué propusieron ese símbolo. Uno de los integrantes del equipo manifestó lo siguiente: \"Como nuestra empresa prestará servicios de delivery, propusimos que el símbolo que nos represente sea un rayo porque para nosotros está asociado a la rapidez con la que llegaremos a nuestros clientes\".",
+      "imagen": null,
+      "preguntas": [
+        {
+          "pregunta": "¿A cuál de las siguientes representaciones gráficas corresponde lo propuesto por el equipo de estudiantes?",
+          "opciones": [
+            "A un imagotipo.",
+            "A un logotipo.",
+            "A un isotipo."
+          ],
+          "respuesta": "A un isotipo.",
+          "respuestaCorta": "Solo dibujaron el símbolo (rayo) sin texto.",
+          "solucionario": "El Isotipo es la representación gráfica de una marca mediante un símbolo o icono sin texto. Como los estudiantes solo han dibujado un rayo (símbolo) para representar la rapidez, sin mencionar letras o nombres, se trata de un Isotipo.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        },
+        {
+          "pregunta": "Otro miembro del equipo propone hacer un isologo a partir de la idea anterior. ¿Cuál de los siguientes procedimientos deben realizar para elaborar dicho isologo?",
+          "opciones": [
+            "Cambiar el dibujo realizado por un texto cuyo diseño tenga la forma de un rayo.",
+            "Incluir un texto que se asocie con la rapidez debajo del dibujo del rayo.",
+            "Integrar, en un solo elemento, un texto y el símbolo del rayo."
+          ],
+          "respuesta": "Integrar, en un solo elemento, un texto y el símbolo del rayo.",
+          "respuestaCorta": "El Isologo fusiona texto y símbolo de manera indivisible.",
+          "solucionario": "Un Isologo es la representación visual de una marca donde el texto y el símbolo (icono) están integrados en una sola unidad indivisible; no funcionan el uno sin el otro (como el logo de Burger King o BMW). La opción C describe exactamente esta integración.",
+          "seccion": "Conocimientos Pedagógicos de la Especialidad"
+        }
+      ]
+    }
+  ]
+}
+  

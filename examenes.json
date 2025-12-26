@@ -1391,5 +1391,244 @@
       "generico": "data/nombramiento/generico/generico_ebr_2019.json",
       "especifico": "data/nombramiento/primaria/2019/nomprimaria_2019.json"
     }
+  },
+{
+    "id": 112,
+    "proceso": "Nombramiento",
+    "anio": 2019,
+    "nivel": "Inicial",
+    "especialidad": "inicial",
+    "modalidad": "EBR",
+    "preguntas": 90,
+    "tiempo": 225,
+    "archivos": {
+      "generico": "data/nombramiento/generico/generico_ebr_2019.json",
+      "especifico": "data/nombramiento/inicial/2019/nom_inicial_2019.json"
+    }
+  },
+  {
+    "id": 113,
+    "proceso": "Nombramiento",
+    "anio": 2019,
+    "nivel": "Secundaria",
+    "especialidad": "Comunicación ",
+    "modalidad": "EBR",
+    "preguntas": 90,
+    "tiempo": 225,
+    "archivos": {
+      "generico": "data/nombramiento/generico/generico_ebr_2019.json",
+      "especifico": "data/nombramiento/secundaria/2019/nom_comunicacion_2019.json"
+    }
+  },
+  {
+    "id": 114,
+    "proceso": "Nombramiento",
+    "anio": 2019,
+    "nivel": "Secundaria",
+    "especialidad": "Ciencia y Tecnología",
+    "modalidad": "EBR",
+    "preguntas": 90,
+    "tiempo": 225,
+    "archivos": {
+      "generico": "data/nombramiento/generico/generico_ebr_2019.json",
+      "especifico": "data/nombramiento/secundaria/2019/nom_cyt_2019.json"
+    }
+  },
+  {
+    "id": 115,
+    "proceso": "Nombramiento",
+    "anio": 2019,
+    "nivel": "Secundaria",
+    "especialidad": "Matemática ",
+    "modalidad": "EBR",
+    "preguntas": 90,
+    "tiempo": 225,
+    "archivos": {
+      "generico": "data/nombramiento/generico/generico_ebr_2019.json",
+      "especifico": "data/nombramiento/secundaria/2019/nom_mate_2019.json"
+    }
+  },
+  {
+    "id": 116,
+    "proceso": "Nombramiento",
+    "anio": 2019,
+    "nivel": "Secundaria",
+    "especialidad": "Ciencias Sociales ",
+    "modalidad": "EBR",
+    "preguntas": 90,
+    "tiempo": 225,
+    "archivos": {
+      "generico": "data/nombramiento/generico/generico_ebr_2019.json",
+      "especifico": "data/nombramiento/secundaria/2019/nom_sociales_2019.json"
+    }
+  },
+  {
+    "id": 117,
+    "proceso": "Nombramiento",
+    "anio": 2019,
+    "nivel": "Secundaria",
+    "especialidad": "Educación para el Trabajo (EPT)",
+    "modalidad": "EBR",
+    "preguntas": 90,
+    "tiempo": 225,
+    "archivos": {
+      "generico": "data/nombramiento/generico/generico_ebr_2019.json",
+      "especifico": "data/nombramiento/secundaria/2019/nom_ept_2019.json"
+    }
+  },
+  {
+    "id": 118,
+    "proceso": "Nombramiento",
+    "anio": 2019,
+    "nivel": "Secundaria",
+    "especialidad": "DPCC ",
+    "modalidad": "EBR",
+    "preguntas": 90,
+    "tiempo": 225,
+    "archivos": {
+      "generico": "data/nombramiento/generico/generico_ebr_2019.json",
+      "especifico": "data/nombramiento/secundaria/2019/nom_dpcc_2019.json"
+    }
+  },
+  {
+    "id": 119,
+    "proceso": "Nombramiento",
+    "anio": 2019,
+    "nivel": "Secundaria",
+    "especialidad": "Educación Física ",
+    "modalidad": "EBR",
+    "preguntas": 90,
+    "tiempo": 225,
+    "archivos": {
+      "generico": "data/nombramiento/generico/generico_ebr_2019.json",
+      "especifico": "data/nombramiento/secundaria/2019/nom_edufisica_2019.json"
+    }
+  },
+  {
+    "id": 120,
+    "proceso": "Nombramiento",
+    "anio": 2019,
+    "nivel": "Secundaria",
+    "especialidad": "Arte y Cultura",
+    "modalidad": "EBR",
+    "preguntas": 90,
+    "tiempo": 225,
+    "archivos": {
+      "generico": "data/nombramiento/generico/generico_ebr_2019.json",
+      "especifico": "data/nombramiento/secundaria/2019/nom_arte_2019.json"
+    }
+  },
+  {
+    "id": 121,
+    "proceso": "Nombramiento",
+    "anio": 2019,
+    "nivel": "Primaria",
+    "especialidad": "Educación Física ",
+    "modalidad": "EBR",
+    "preguntas": 90,
+    "tiempo": 225,
+    "archivos": {
+      "generico": "data/nombramiento/generico/generico_ebr_2019.json",
+      "especifico": "data/nombramiento/primaria/2019/nom_edufisica_2019.json"
+    }
+  },
+  {
+    "id": 122,
+    "proceso": "Nombramiento",
+    "anio": 2019,
+    "nivel": "Secundaria",
+    "especialidad": "Innovación Pedagógica (AIP)",
+    "modalidad": "EBR",
+    "preguntas": 90,
+    "tiempo": 225,
+    "archivos": {
+      "generico": "data/nombramiento/generico/generico_ebr_2019.json",
+      "especifico": "data/nombramiento/secundaria/2019/nom_aip_2019.json"
+    }
+  },
+{
+    "id": 123,
+    "proceso": "Nombramiento",
+    "anio": 2019,
+    "nivel": "Primaria",
+    "especialidad": "Innovación Pedagógica (AIP)",
+    "modalidad": "EBR",
+    "preguntas": 90,
+    "tiempo": 225,
+    "archivos": {
+      "generico": "data/nombramiento/generico/generico_ebr_2019.json",
+      "especifico": "data/nombramiento/primaria/2019/nom_aipprim_2019.json"
+    }
+  },
+  {
+    "id": 124,
+    "proceso": "Nombramiento",
+    "anio": 2019,
+    "nivel": "Secundaria",
+    "especialidad": "Inglés",
+    "modalidad": "EBR",
+    "preguntas": 90,
+    "tiempo": 225,
+    "archivos": {
+      "generico": "data/nombramiento/generico/generico_ebr_2019.json",
+      "especifico": "data/nombramiento/secundaria/2019/nom_ingles_2019.json"
+    }
+  },
+  {
+    "id": 125,
+    "proceso": "Nombramiento",
+    "anio": 2019,
+    "nivel": "Secundaria",
+    "especialidad": "Educación Religiosa",
+    "modalidad": "EBR",
+    "preguntas": 90,
+    "tiempo": 225,
+    "archivos": {
+      "generico": "data/nombramiento/generico/generico_ebr_2019.json",
+      "especifico": "data/nombramiento/secundaria/2019/nom_religion_2019.json"
+    }
+  },
+  {
+    "id": 126,
+    "proceso": "Nombramiento",
+    "anio": 2018,
+    "nivel": "Secundaria",
+    "especialidad": "DPCC ",
+    "modalidad": "EBR",
+    "preguntas": 90,
+    "tiempo": 225,
+    "archivos": {
+      "generico": "data/nombramiento/generico/generico_ebr_2018.json",
+      "especifico": "data/nombramiento/secundaria/2018/nombramiento_dpcc2018.json"
+    }
+  },
+  {
+    "id": 127,
+    "proceso": "Nombramiento",
+    "anio": 2018,
+    "nivel": "Secundaria",
+    "especialidad": "Educación Religiosa",
+    "modalidad": "EBR",
+    "preguntas": 90,
+    "tiempo": 225,
+    "archivos": {
+      "generico": "data/nombramiento/generico/generico_ebr_2018.json",
+      "especifico": "data/nombramiento/secundaria/2018/nombramiento_religion2018.json"
+    }
+  },
+  {
+    "id": 128,
+    "proceso": "Nombramiento",
+    "anio": 2022,
+    "nivel": "Inicial",
+    "especialidad": "inicial",
+    "modalidad": "EBR",
+    "preguntas": 75,
+    "tiempo": 225,
+    "archivos": {
+      "generico": "data/nombramiento/generico/generico_ebr_2022.json",
+      "especifico": "data/nombramiento/inicial/2022/nom_inicial_2022.json"
+    }
   }
+  
 ]
